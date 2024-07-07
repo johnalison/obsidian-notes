@@ -1,0 +1,231 @@
+{
+  "main": {
+    "id": "a0b0d62c28867a09",
+    "type": "split",
+    "children": [
+      {
+        "id": "80757bcf63faf623",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5404bb7df9670859",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Welcome.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "77db21b2b9a5674f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Para.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1ad608e0da04aabd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3-resources/Obsidian/Obsidian-Intro.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "772af64d061a208b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3-resources/Obsidian/Obsidian-Intro.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e35170e2a251caa0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-inbox/Ideas-for-emacs-Obsidian.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "21072af4f174b114",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f9c46f54e65c7870",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "203076b8497cd9e4",
+    "type": "split",
+    "children": [
+      {
+        "id": "0898b64f788e1505",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c67b88aabdb7c902",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5eff6f8803fcba5e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "68c2fe928723a472",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "30a04ba2c1bf765c",
+    "type": "split",
+    "children": [
+      {
+        "id": "c1c439346c7a6d5e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ef69445411778518",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "0-inbox/Ideas-for-emacs-Obsidian.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7c2bf0605b70b94d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "0-inbox/Ideas-for-emacs-Obsidian.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3cda6468b29dc2ca",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "79e5c11d6fed2a59",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "0-inbox/Ideas-for-emacs-Obsidian.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "e35170e2a251caa0",
+  "lastOpenFiles": [
+    "3-resources/Obsidian/Obsidian-Intro.md",
+    "0-inbox/Ideas-for-emacs-Obsidian.md",
+    "3-resources/Obsidian",
+    "Pasted image 20240707142114.png",
+    "0-inbox/emacs-file-search.md",
+    "0-inbox/Test ntes.md",
+    "0-inbox/Things-To-Add-To-Notes.md",
+    "0-inbox/emac.md",
+    "Para.md",
+    "4-archive",
+    "3-resources",
+    "Welcome.md",
+    "2-areas",
+    "1-projects",
+    "0-inbox",
+    "#Para.md#"
+  ]
+}
