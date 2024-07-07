@@ -1,5 +1,5 @@
 
-~/Notes
+
 ~/AWK/AWKHacks
 ~/AWK/SEDHacks
 ~/Philosophy
