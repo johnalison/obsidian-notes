@@ -61,14 +61,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/Ideas-for-emacs-Obsidian.md",
+                "file": "0-inbox/Things-To-Add-To-Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ea7ec3030c0a3d26",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-inbox/Clean-up github and gitlab.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "581e0712b7839799",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-inbox/Test Git backup.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       },
       {
         "id": "21072af4f174b114",
@@ -148,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/Ideas-for-emacs-Obsidian.md",
+                "file": "0-inbox/Test Git backup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +189,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/Ideas-for-emacs-Obsidian.md",
+                "file": "0-inbox/Test Git backup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +212,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/Ideas-for-emacs-Obsidian.md"
+                "file": "0-inbox/Test Git backup.md"
               }
             }
           }
@@ -209,15 +233,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e35170e2a251caa0",
+  "active": "581e0712b7839799",
   "lastOpenFiles": [
-    "3-resources/Obsidian/Obsidian-Intro.md",
+    "0-inbox/Clean-up github and gitlab.md",
+    "0-inbox/Test Git backup.md",
+    "0-inbox/Things-To-Add-To-Notes.md",
     "0-inbox/Ideas-for-emacs-Obsidian.md",
+    "3-resources/Obsidian/Obsidian-Intro.md",
     "3-resources/Obsidian",
     "Pasted image 20240707142114.png",
     "0-inbox/emacs-file-search.md",
     "0-inbox/Test ntes.md",
-    "0-inbox/Things-To-Add-To-Notes.md",
     "0-inbox/emac.md",
     "Para.md",
     "4-archive",
