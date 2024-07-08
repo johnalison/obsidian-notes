@@ -321,7 +321,7 @@
 - There are uncountably many orders of infinity, each too large to be put into one-to-one correspondence with the lower ones.
   (Is the number of order of infinity the same as any one of the infinities?)
 
-#DontUnderstand
+[[DontUnderstand]]
 
 - When we have unbounded growth of knowledge we are always (and forever) just scratching the surface.
 

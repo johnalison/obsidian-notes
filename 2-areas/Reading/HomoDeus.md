@@ -261,7 +261,7 @@
 
 - Hunter-gathers are able to smell from a distance the difference between various animal species, various humans and even various emotions. [[WhoWeAre]]
 
-- Though we have more choice than ever before, we have lost the ability to pay attention to whatever we choose. #Buddhism #DFW
+- Though we have more choice than ever before, we have lost the ability to pay attention to whatever we choose. #Buddhism [[DFW]]
 
 - From a historical perspective its clear that something momentous is happening. The number one humanist commandment -- listen to yourself! -- is no longer self-evident. Silencing annoying voices in my head seems like a wonderful idea, provided it enables me to finally hear my deep authentic self. But if there is no authentic self, how do I decide which voices to silence and which to amplify? [[Religion]] [[NowIsDifferent]] [[WhoWeAre]]
 

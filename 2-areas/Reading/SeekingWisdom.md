@@ -119,7 +119,7 @@
 
 - We basically have the attitude that you cant make a good deal with a bad person. We dont try to protect ourselves by contracts or all kinds of due diligence - we just forget about it. We can do fine over time dealing with people we like and admire and trust.
 
-#DontLie [[Ethics]] [[Rules]]
+[[DontLie]] [[Ethics]] [[Rules]]
 
 - Two questions to ask yourself when making decisions:
   A) is it knowable ? B) is it important ? 
@@ -134,7 +134,7 @@
 
 - Do the best you can do. Never tell a lie. IF you say you're going to do it, get it done. Nobody gives a shit about an excuse. Leave for the meeting early. Dont be late, but if you are late, dont bother giving people excuses. Just apologize... Return you calls quickly. The other thing is the five-second no. You've got to make up your mind. Dont leave people hanging.
 
-#Dependability #DontLie
+[[Dependability]] [[DontLie]]
 
 - Be happy while you are living, for you are a long time dead.
 

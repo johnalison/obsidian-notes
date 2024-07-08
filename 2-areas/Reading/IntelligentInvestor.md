@@ -133,11 +133,11 @@
 
 - Diversification is the simple basis of the insurance-underwriting business
 
-  #DEI
+  [[DEI]]
 
 - For most investors, diversification is the simplest and cheapest way to widen your margin of safety. 
 
-  #DEI
+  [[DEI]]
 
 - You are neither right nor wrong because the crowd disagrees with you. You are right because your data and reasoning are right.  
      Protocol: Cherish the times that you are out of step with the crowd, here lies money.. if you are right.

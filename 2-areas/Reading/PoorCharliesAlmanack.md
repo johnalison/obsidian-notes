@@ -12,7 +12,7 @@
    		Dont overlook the obvious by drowning in the minutiae. 
    Discipline: Reputation and integrity are you most valuable assets and can be lost in a heartbeat
    
- [[Munger]] #Advice #Dependability
+ [[Munger]] #Advice [[Dependability]]
 
 - "Track records are very important. If you start early to have a perfect track record in some simple thing like honest, you're well on your way to success in this world."
    Charlie Munger

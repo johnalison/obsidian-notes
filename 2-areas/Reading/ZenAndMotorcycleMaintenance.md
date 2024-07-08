@@ -16,7 +16,7 @@
 
 - As long as the need for food, clothing and shelter is dominant they will continue to work. But now that for huge masses of people there needs no longer overwhelm everything else, the whole structure of reason is no longer adequate. It begins to be seen for what it really is -- emotionally hollow, aesthetically meaningless and spiritually empty.
 
-  #DFW
+  [[DFW]]
 
 - So hard when contemplated in advance, and so easy when you do it.
 

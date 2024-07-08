@@ -47,7 +47,7 @@
 
 - Intuition can be treated as one might treat an advisor. IF the advisor has been reliable in the past, we are likely to pay more attention.
 
-- The artificiality of "putting on the red hat" is the real value. Emotions take some time to well up and even longer to die down.  The red had allows you to switch in and out of the emotion in a matter of moments  #Disengage
+- The artificiality of "putting on the red hat" is the real value. Emotions take some time to well up and even longer to die down.  The red had allows you to switch in and out of the emotion in a matter of moments  [[Disengage]]
 
 - Emotions dont have to be logical or consistent. We are brought up to apologize for emotions and feelings b/c they are not the stuff of "logical" thinking.  ie: we tend to treat them as improper extensions of logic. 
 

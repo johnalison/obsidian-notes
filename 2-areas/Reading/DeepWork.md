@@ -48,7 +48,7 @@
 
 - Decades of work from multiple subfields all point towards the conclusion that regularly resting your brain improves the quality of your deep work.
 
-- If every potential moment of boredom is relieve with a glance at a smart phone, then your brain has been rewired to point where it is not ready for deep work. #Boredom #DFW
+- If every potential moment of boredom is relieve with a glance at a smart phone, then your brain has been rewired to point where it is not ready for deep work. #Boredom [[DFW]]
 
 - Schedule in advance when you will use the internet, then avoid outside these times.
 

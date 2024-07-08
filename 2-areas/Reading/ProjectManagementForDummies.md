@@ -16,6 +16,6 @@
 
 - Posessing a trait is not enough, you must help others see that you posess it. ([[Rationality]])
 
-- Honesty: telling what you believe to be the truth (#Dependability)
+- Honesty: telling what you believe to be the truth ([[Dependability]])
 
-- Integrity: having agreement between what you say and do (#Dependability)
+- Integrity: having agreement between what you say and do ([[Dependability]])

@@ -46,7 +46,7 @@
 
 - We see that it is not possible to have physical systems with weird angular momenta such as j = 1/3, 1/4 ect. [[PhilosophyOfPhysics]]
 
-- Any particle at rest, whether elementary or not, will have what is called an intrinsic parity that depends only on the type n of the particle. (What does it mean to have party negative elementary particles? ) [[PhilosophyOfPhysics]] #DontUnderstand
+- Any particle at rest, whether elementary or not, will have what is called an intrinsic parity that depends only on the type n of the particle. (What does it mean to have party negative elementary particles? ) [[PhilosophyOfPhysics]] [[DontUnderstand]]
 
 - One can tell whether nuclei are bosons or fermions just by observing whether radiation from the para or ortho transitions is stronger. Observations of the diatomic nitrogen molecule presented a puzzle regarding the nature of the nitrogen nucleus that was only resolved with the discovery of the neutron.
 
