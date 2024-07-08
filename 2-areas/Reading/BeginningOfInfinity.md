@@ -620,7 +620,7 @@
 
 - Western civilization is in an unstable transitional period between being a stable, static society consisting of anti-rational memes and a stable dynamic society consisting of rational memes.
 
-#NowIsDifferent
+[[NowIsDifferent]]
 
 - Modern humans evolved from ape-like ancestors very rapidly by gene-evolution standards. Creativity is an unlikely target for sexual selection, its a complicated adaptation which we are unable to reproduce artificially. A more plausible explanation for the selection of creativity is that people choose mates according to social status, rather than creativity directly.
 

@@ -13,13 +13,13 @@
 
 - "I fully expect that sometime in the coming century we will find suppressed baryon non-conserving processes, so that proton decay will become a major concern of particle physicists.
 
-- Whiggery has a rightful place in the history of science. In science we really can say who was right. #History
+- Whiggery has a rightful place in the history of science. In science we really can say who was right. [[History]]
 
 - Much of the history of science has been a matter of learning which question should and should not be asked.
 
-- The evolution over many centuries of modern science is a great story, as important and interesting as anything else in the history of human civilization.  #History
+- The evolution over many centuries of modern science is a great story, as important and interesting as anything else in the history of human civilization.  [[History]]
 
-- Since the downfall of the phlogiston theory of fire and the caloric theory of heat in the 19C, there has been no generally accepted theory in the exact sciences that has turned out to be simply wrong. #History
+- Since the downfall of the phlogiston theory of fire and the caloric theory of heat in the 19C, there has been no generally accepted theory in the exact sciences that has turned out to be simply wrong. [[History]]
 
 - A particle is simply a physical system that has no continuous degrees of freedom except for its total momentum.
 

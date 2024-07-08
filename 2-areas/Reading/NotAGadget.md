@@ -44,7 +44,7 @@
 
   - The process of reinvention of youth through music seems to have stopped. This is the first time since electrification that mainstream youth culture has cloaked itself mainly in retro nostalgic styles.
 
-  #NowIsDifferent
+  [[NowIsDifferent]]
 
   - Colors and sounds can be measured in rulers. Smells need to be looked up in a dictionary.
 

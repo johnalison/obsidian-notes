@@ -34,11 +34,11 @@
 
 - Our increasing dependence on fossil fuels is the most important factor in explaining the advances of modern civilization and also underlies our concerns about the vulnerability of their supply and the environmental impacts of their combustion.
 
-#History
+[[History]]
 
 - Energy conversions are the very basis of life and evolution, so tracing the trajectory of useful energy is revealing. Modern history can be seen as unusually rapid sequence of transitions to new energy sources, and the modern world is the cumulative result.
 
-#History
+[[History]]
 
 - The economic system is essentially a system for extracting, processing and transforming energy as resources into energy embodied in products and services. Energy is the only truly universal currency, and nothing can take place without its transformations. Its hard to understand why modern economics has largely ignored energy. Understanding how the world really works cannot be done without energy literacy.
 
@@ -77,7 +77,7 @@
 
 - Until a few generations ago, only a small share of well-fed elites did not have to worry about having enough to eat.
 
-#NowIsDifferent
+[[NowIsDifferent]]
 
 - The modern worlds most important -- and fundamentally existential -- dependence on fossil fuels is their direct and indirect use in the production of our food. Direct use includes fuels to power all field machinery, the transportation of harvest from fields, and irrigation pumps.  Indirect use is much broader and includes fertilizers.
    Most of the dependence is on liquid and gaseous hydrocarbons in machine fuels and raw materials.

@@ -38,9 +38,9 @@
 
 - "If you're going to take Vienna, take fucking Vienna" - Napoleons outburst at field marshal who had hesitated to seize the city #BeTheGood
 
-- Following WWII, our nations willingness to commit a 100 million dead Americans in a thermonuclear war to defend Europe was the single most self-sacrificial pledge in history. #History
+- Following WWII, our nations willingness to commit a 100 million dead Americans in a thermonuclear war to defend Europe was the single most self-sacrificial pledge in history. [[History]]
 
-- Re NATO: It is telling that an alliance designed originally  for the defense of Western Europe fought its first combat campaign in response to the 9/11 attacks on America. #History
+- Re NATO: It is telling that an alliance designed originally  for the defense of Western Europe fought its first combat campaign in response to the 9/11 attacks on America. [[History]]
 
 - PowerPoint is an excellent way to display data; but it makes us stupid when applied to critical thinking. #Rationality
 

@@ -8,7 +8,7 @@
 
 - Humans think in stories, not facts, numbers or equations. The simpler the better. #WhoWeAre #AI
 
-- In 1938 human offered 3 global stories to choose from: In 1968 just 2; in 1998 a single story, now we are down to 0 in 2018. #History
+- In 1938 human offered 3 global stories to choose from: In 1968 just 2; in 1998 a single story, now we are down to 0 in 2018. [[History]]
 
 - Much harder to struggle against irrelevance than exploitation.
 
@@ -30,13 +30,13 @@
 
 - If people play an exceptionally creative move in human-only chess tournaments, the judges will often suspect that it can possible be a human move. In chess, creativity is already considered to be the hallmark of computers rather than humans!!! #AI #Paradox
 
-- Human kind had to develop completely new models - liberal democracy, communist dictatorship, and fascist regimes - and it took more than a century of terrible wars and revolutions to experiment with these models, separate the wheat from the chaff, and implement the best solutions. Child labor in Dickensian coal mines, the First World War, the Great Ukrainian Famine, constituted just a small part of the tuition fees that humankind had to pay for the Industrial Revolution. #History
+- Human kind had to develop completely new models - liberal democracy, communist dictatorship, and fascist regimes - and it took more than a century of terrible wars and revolutions to experiment with these models, separate the wheat from the chaff, and implement the best solutions. Child labor in Dickensian coal mines, the First World War, the Great Ukrainian Famine, constituted just a small part of the tuition fees that humankind had to pay for the Industrial Revolution. [[History]]
 
-- This time around, the failed models that might result in nuclear wars, genetically engineered monstrosities, and a complete breakdown of the biosphere. We have to do better than we did in confronting the Industrial Revolution. #History #NowIsDifferent
+- This time around, the failed models that might result in nuclear wars, genetically engineered monstrosities, and a complete breakdown of the biosphere. We have to do better than we did in confronting the Industrial Revolution. [[History]] [[NowIsDifferent]]
 
 - Referendums and elections are always about human feelings not about human rationality. If democracy were a matter of rational decision-making, where would be absolutely no reason to give all people equal voting rights - or perhaps any voting rights at all. #Politics #AI
 
-- Once somebody gains the technological ability to hack and manipulate the human heart, democratic politics will mutate into an emotional puppet show. #Politics #AI #NowIsDifferent
+- Once somebody gains the technological ability to hack and manipulate the human heart, democratic politics will mutate into an emotional puppet show. #Politics #AI [[NowIsDifferent]]
 
 - Feelings are biochemical mechanisms that all mammals and birds use in order to quickly calculate probabilities of survival and reproduction. Feels are therefore not the opposite of rationality, they embody evolutionary rationality. #MentalModels #Rationality
 
@@ -44,7 +44,7 @@
 
 - For all practical purposes, it was reasonable to argue that I have free will, which nobody outside of me could see. I could enjoy the illusion that I controlled my secret inner arena, while outsiders could never really understand what was happening inside me and how I make decisions. #FreeWill #AI
 
-- We are now at the confluence of two immense revolutions. Biologists are deciphering the mysteries of the human body, and in particular of the brain and human feelings. At the same time computer scientists are giving us unprecedented data-processing power. When the biotech revolution merges with the infotech revolution, it will produce Big Data algorithms that can monitor and understand my feelings much better than I can. #NowIsDifferent #AI #History
+- We are now at the confluence of two immense revolutions. Biologists are deciphering the mysteries of the human body, and in particular of the brain and human feelings. At the same time computer scientists are giving us unprecedented data-processing power. When the biotech revolution merges with the infotech revolution, it will produce Big Data algorithms that can monitor and understand my feelings much better than I can. [[NowIsDifferent]] #AI [[History]]
 
 - "Trolley problems" up till now these arguments have had embarrassingly little impact on actual behavior. #Philosophy
 
@@ -52,7 +52,7 @@
 
 - We have bred docile cows that produce enormous amounts of milk but are otherwise far inferior to their wild ancestors. They are less agile, less curious, less resourceful. We are now creating tame humans that produce enormous amounts of data and function as very efficient chips in a huge data-processing mechanism, but these data-cows hardly maximize the human potential. #WhoWeAre #Religion
 
-- Improvements in biotechnology might make it possible to translate economic inequality into biological inequality. #NowIsDifferent
+- Improvements in biotechnology might make it possible to translate economic inequality into biological inequality. [[NowIsDifferent]]
 
 - At present, people are happy to give away their most valuable asset - their personal data - in exchange for free email services and funny cat videos. Its a bit like African and Native American tribes who unwittingly old entire countries to European imperialists in exchange for colorful beads and cheap trinkets. #WhoWeAre
 
@@ -70,7 +70,7 @@
 
 - Humankind today faces three common challenges that make a mockery of all national borders, and that can only be solved through global cooperation: the nuclear challenge, the ecological challenge, and the technological challenge. #Nukes 
 
-- The nuclear challenge: In 2016, fewer people died from human violence than from obesity, car accidents or suicide. This may well have been the greatest political and moral achievement of our times. #NowIsDifferent
+- The nuclear challenge: In 2016, fewer people died from human violence than from obesity, car accidents or suicide. This may well have been the greatest political and moral achievement of our times. [[NowIsDifferent]]
 
 - The ecological challenge: Humans have been around for 100s of thousands of years and have survived numerous ice ages and warm spells. However agriculture, culture, cities, and complex societies have existed for no more than 10k years. During this period, earths climate has been relatively stable. Any deviation from the current standard will present human societies with enormous challenges than have never encountered before. Since there is no national answer to the problem of global warming, some nationalist politicians prefer to believe that the problem does not exist. #Politics
 
@@ -89,13 +89,13 @@
 
 - The Kamikaze relied on combating state-of-the-art technology with state-of-the-art religious indoctrination. #Religion
 
-- We are trapped between a rock and a hard place, Humankind now constitutes a single civilization, and problems such as nuclear war, ecological collapse, and technological disruption can only be solved on a global level. On the other hand, nationalism and religion still divide our human civilization into different and often hostile camps. #NowIsDifferent #Politics
+- We are trapped between a rock and a hard place, Humankind now constitutes a single civilization, and problems such as nuclear war, ecological collapse, and technological disruption can only be solved on a global level. On the other hand, nationalism and religion still divide our human civilization into different and often hostile camps. [[NowIsDifferent]] #Politics
 
 - Immigration: Some cultures might be better than others.
 
 - Re Terrorism: a small coin in an empty jar makes a lot of noise. The very success of modern states in preventing political violence makes them particularly vulnerable to terrorism.
 
-- Human stupidity is one of the most important forces is history.  One potential remedy for human stupidity is a does of humility. #History
+- Human stupidity is one of the most important forces is history.  One potential remedy for human stupidity is a does of humility. [[History]]
 
 - Monotheism was arguably one of the worst ideas in human history; from an ethical perspective, the birth of bigotry. Did not improve the moral standard of humans, but did make many people far more intolerant than before. #Religion
 
@@ -143,11 +143,11 @@
 
 - Huxley's genius consists in showing that you can control people far more securely through love and pleasure than through fear and violence. #WhoWeAre
 
-- Our old stories are crumbling, and no new story has so far emerged to replace them. #NowIsDifferent
+- Our old stories are crumbling, and no new story has so far emerged to replace them. [[NowIsDifferent]]
 
 - The last thing a teacher needs to give her pupils is more information. They already have far too much of it. Instead, people need the ability to make sense of information, to tell the difference between what is important and what is unimportant, and above all to combine many bits of information into a broad picture of the world. #ShouldTeachKids
 
-- For thousands of years philosophers and prophets have urged people to know themselves. This advice was never more urgent than in the 21st century, now we have serious competition. We are living in the era of hacking humans.  #NowIsDifferent #AI
+- For thousands of years philosophers and prophets have urged people to know themselves. This advice was never more urgent than in the 21st century, now we have serious competition. We are living in the era of hacking humans.  [[NowIsDifferent]] #AI
 
 - To give meaning to my life a story needs to satisfy just two conditions: First, it must give me some role to play. Second, it must extend beyond my horizons. #Religion #Politics
 

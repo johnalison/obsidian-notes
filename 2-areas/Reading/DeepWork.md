@@ -6,7 +6,7 @@
 
 - Our work culture shift toward the shallow is exposing a massive economic and personal opportunity for the few that recognize the potential of resisting this trend.
 
-- The growing necessity of deep work is new. In an industrial economy most workers could do fine with out working without distraction. In the information economy, deep work is becoming a key currency. "Super power of the 21C" #NowIsDifferent
+- The growing necessity of deep work is new. In an industrial economy most workers could do fine with out working without distraction. In the information economy, deep work is becoming a key currency. "Super power of the 21C" [[NowIsDifferent]]
 
 - "Deep work hypothesis" DW is becoming increasingly rare at the same time its becoming increasingly valuable in our economy. #Paradox
 

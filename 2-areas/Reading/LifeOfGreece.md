@@ -24,7 +24,7 @@
 
 - The past would be startled if it could see the pages of historians.
 
-  #History
+  [[History]]
 
 - The gods are mortal, but piety is everlasting.
 
@@ -63,11 +63,11 @@
 
 - The European system won against the Oriental partly because transport by water is cheaper than transport by land, and partly because it is almost a law of history that the rugged, warlike north conquers the easygoing, art-creating south.
 
-  #History
+  [[History]]
 
 - The Greco-Persian war was the most momentous conflict in European history, for it made Europe possible. It won for Western civilization the opportunity to develop its own economic life- unburdened with alien tribute or taxation- and its own political institutions, free from the dictation of Oriental kings.
 
-  #History
+  [[History]]
 
 - "The period which intervened between the birth of Pericles and the death of Aristotle is undoubtedly, the most memorable in the history of the world" - Shelly
 
@@ -107,7 +107,7 @@
 
 - The great achievement of Periclean prose was history. In a sense it was the 5th century that discovered the past, and consciously sought for a perspective of man in time.
 
-  #History
+  [[History]]
 
 - "equality is just, but only between equals."
 
@@ -119,7 +119,7 @@
 
 - Alexander won a military victory of the West over the East, but he died before he could realize that he had also made a pathway for the religious victory of the East over the West. 
 
-  #Religion #History
+  #Religion [[History]]
 
 - Mazzel-tov "May your planet be favorable". 
 
@@ -127,11 +127,11 @@
 
 - The Greeks offered The East philosophy, the East offered Greece religion; religion won because philosophy was a luxury for the few, religion was a consolation for the many. 
 
-  #Religion #History
+  #Religion [[History]]
 
 - "There is no more ready corrective of conduct than knowledge of the past it is history, and history alone, which without involving us in actual danger, will mature our judgment and prepare us to take the right views."  - Polybius
 
-  #History
+  [[History]]
 
 - Polybius understood that mere facts are worthless except through their interpretation, and that the past has no value except as our roots and our illumination.
 

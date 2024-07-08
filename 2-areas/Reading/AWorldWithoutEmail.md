@@ -16,7 +16,7 @@
 
 - There is a massive productivity currently latent in the knowledge sector. To unlock it will require much more systematic thinking about how best to organize.
 
-- The future of work is increasingly cognitive. This means that the sooner we take seriously how human brains actually function, the sooner we'll realize that the hyperactive hive mind is a disastrously ineffective way to organize our efforts. #NowIsDifferent #WrongIn20Years
+- The future of work is increasingly cognitive. This means that the sooner we take seriously how human brains actually function, the sooner we'll realize that the hyperactive hive mind is a disastrously ineffective way to organize our efforts. [[NowIsDifferent]] #WrongIn20Years
 
 - Knowledge work does not yet have its Henry Ford, but workflow innovations with impact on the same scale as the assembly line are inevitable. #WrongIn20Years #ImportantUnpopularTruth
 
@@ -24,7 +24,7 @@
 
 - "I worry that ill face my death and realize that life got lost in this frantic flotsam of daily stuff." 
 
-- Study of the Stirrup: example of a technology introduced for a simple reason (to make riding horses easier) leading to vast and complicated consequences never imagined by its inventors (the rise of medieval feudalism). #History
+- Study of the Stirrup: example of a technology introduced for a simple reason (to make riding horses easier) leading to vast and complicated consequences never imagined by its inventors (the rise of medieval feudalism). [[History]]
 
 - Computer scientists investigating asynchronous communications discovered that spreading out communication with unpredictable delays introduced tricky new complexities.
 
@@ -66,6 +66,6 @@ n- The process principle: introducing smart production processes to knowledge wo
 
 - There are few things more valuable than someone who consistently produces valuable output, and few approaches to work more satisfying than being given the room to focus on things that really matter. #Reliability
 
-- Technological change is not additive; it is ecological.  A new medium does not add something; it changes everything. In the year 1500, after the printing press was invented, you did not have old Europe plus the printing press. You had a different Europe. #History 
+- Technological change is not additive; it is ecological.  A new medium does not add something; it changes everything. In the year 1500, after the printing press was invented, you did not have old Europe plus the printing press. You had a different Europe. [[History]] 
 
-- Knowledge worker productivity is the moonshot of the twenty first century. #NowIsDifferent 
+- Knowledge worker productivity is the moonshot of the twenty first century. [[NowIsDifferent]] 

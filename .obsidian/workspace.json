@@ -40,7 +40,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -106,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-areas/Reading/AlwasyWithHonor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +122,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-areas/Reading/AlwasyWithHonor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,9 +143,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2-areas/Reading/AlwasyWithHonor.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -167,11 +163,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "14811df6a230cc49",
+  "active": "f3053f0c3dcac766",
   "lastOpenFiles": [
-    "2-areas/Reading/21LessonsForThe21stCentury.md",
-    "0-inbox/NowIsDifferent.md",
-    "2-areas/Reading/DeepWork.md",
+    "2-areas/Reading/AlwasyWithHonor.md",
     "2-areas/Reading/ZenAndMotorcycleMaintenance.md.bkg",
     "2-areas/Reading/WritingGNUEmacsExtensions.md.bkg",
     "2-areas/Reading/WhyBuddhismIsTrue.md.bkg",
@@ -182,6 +176,9 @@
     "2-areas/Reading/WakeUpNow.md.bkg",
     "2-areas/Reading/Viral.md.bkg",
     "2-areas/Reading/Titan.md.bkg",
+    "2-areas/Reading/21LessonsForThe21stCentury.md",
+    "0-inbox/NowIsDifferent.md",
+    "2-areas/Reading/DeepWork.md",
     "2-areas/Reading/ThinkingAboutMath.md",
     "0-inbox/Books.md",
     "2-areas/Reading/WavesInImpossibleSea.md",
@@ -204,7 +201,6 @@
     "2-areas/Reading/ThisIsWater.md",
     "2-areas/Reading/ThirdThoughts.md",
     "2-areas/Reading/ThinkingCourse.md",
-    "2-areas/Reading/ThinkLikeAFreak.md",
     "Untitled.canvas",
     "Pasted image 20240707142114.png"
   ]

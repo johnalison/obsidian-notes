@@ -10,7 +10,7 @@
 
 - Most of history is guessing, the rest is prejudice.
 
-  #History
+  [[History]]
 
 - Property was the mother, war the father, of the state
 
@@ -38,13 +38,13 @@
 
 - In one sense all human history hinges on two revolutions: the neolithic passage from hunting to agriculture, and the modern passage from agriculture to industry; no other revolutions have been quite as real or basic as these.
 
-  #History
+  [[History]]
 
 - The earliest appearance of writing marks that ever-receding point at which history begins.
 
 - History, said Bacon, is the planks of a shipwreck; more of the past is lost than has been saved. We console ourselves with the thought that as the individual memory must forget the greater part of experience in order to be sane.
 
-  #History
+  [[History]]
 
 - King Manishtusu of Akkad announced frankly that he was invading Elam to get control of its sliver mines, and to secure diorite stone to immortalize himself with statuary - the only instance known of a war fought for the sake of art.
 
@@ -149,7 +149,7 @@
 
 - The invasion and conquest of India by the Aryans was part of that ancient process whereby, periodically, they north has swept down violently upon the settled and pacified south; this has been one of the main streams of history, on which civilizations have risen and fallen like epochal undulations.  Forever the north produces rulers and warriors, the south produces artists and saints, and the meed inherit heaven.
 
-  #Religion #History
+  #Religion [[History]]
 
 - A nation, like an individual, begins with poetry and ends with prose.
 
@@ -193,7 +193,7 @@
 
 - (From a footnote) Vikramaditya, who ruled the Chalyukans for half a century (1076-1126), was so successful in war that he proposed to found a new chronological era, dividing all history into before him and after him. Today he is a footnote.
 
-  #History
+  [[History]]
 
 - The Mohammedan conquest of India is probably the bloodiest story in history. It is a discouraging tale, for its evident moral is that civilization is a precarious thing, whose delicate complex of order and liberty, culture and peace may at any time be overthrown by barbarians invading from without or multiplying from within. For 400 years (600- 1000 AD) India invited conquest; and at last it came. 
   The invaders were armed with a religion militaristic in operation, but far superior in its stoical monotheism to any of the popular cults of India.
@@ -204,7 +204,7 @@
 
 - Should marriage be arranged to coincide with sexual maturity, or should it be postponed, as in America, until the male arrives at economic maturity? The first solution apparently weakens the national physique, unduly accelerates the growth of the population, and sacrifices the women almost completely to reproduction; the second solution leaves the problems of unnatural delay, sexual frustration, prostitution, and venereal disease.
 
-  #History
+  [[History]]
 
 - Life is a stage with one entrance, but many exits.
 
@@ -231,7 +231,7 @@
 
 - There is no humorist like history.
 
-  #History
+  [[History]]
 
 - Fools can invent more hypotheses than philosophers can ever refute, and philosophers often join them in the game. #Philosophy
 

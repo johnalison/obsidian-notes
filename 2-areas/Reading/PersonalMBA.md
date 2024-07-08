@@ -41,7 +41,7 @@
 
 - Three universal currencies: resources, time and flexibility. (Flexibility is usually underrated)
 
-- Historically gift giving was how the powerful remained in power. #History
+- Historically gift giving was how the powerful remained in power. [[History]]
 
 - Most people resist creating systems to improve their work/life because it feels like extra work.  When done right it can vastly decrease your amount of work.
   If you are feeling overloaded the best thing to do is take the time to setup a more effective system. #Rationality #SystemsNotGoals

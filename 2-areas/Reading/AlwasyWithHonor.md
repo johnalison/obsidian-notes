@@ -6,7 +6,7 @@
 
 - The Russian Revolution and subsequent civil war were perhaps the most significant events in the 20th C.
 
-  #History
+  [[History]]
 
 - He himself was a real soldier, for he was hard on himself, but it seemed that he dared not demand too much from his subordinates.
 

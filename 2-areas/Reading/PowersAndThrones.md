@@ -58,7 +58,7 @@
 
 - Many historians see the failure of the second Arab siege of Constantinople as a turning point in Western history: the moment when the spread of the first Islamic armies toward the Balkans was halted.
 
-#History
+[[History]]
 
 - Around the year 700 the Arabian leader ordered that public servants across the Islamic world should use only Arabic. This simple administrative change was in fact a moment of juddering cultural importance in the history of the Islamic world -- for it ensured that there would be an Islamic world in perpetuity, rather than a short-lived federation of former Roman and Persian territories ruled over by a thin monotheistic elite.
 
@@ -74,7 +74,7 @@
 
 - The pope would turn to the Franks as his secular defenders and throw his legitimizing influence behind the new Carolingian monarchy -- if in return they would move South over the Alps and save the papacy from its enemies. It was a high-stakes deal on both sides. In retrospect it has come to represent a seminal moment in western history: the moment at which the bishops of Rome no longer looked east to Constantinople for support, but to the barbarian-descended peoples of the west.
 
-#History
+[[History]]
 
 - Like Alexander, Charlemagne had built an empire that proved itself possible only as an extension of one mans political self.
 
@@ -100,7 +100,7 @@
 
 - Although the Mongols period of global preeminence lasted only 150 years, their achievement in that time stood in comparison with those of ancient Macedonians, Persians, or Romans.
 
-#History
+[[History]]
 
 - Mongols rebooted the whole shape of trade and interaction across Asia and the Middle East.
 
@@ -156,7 +156,7 @@
 
 - History does not have to be made by nice people; the history of the Middle Ages demonstrates that it very rarely is.
 
-#History
+[[History]]
 
 - The line from Magellan and Elcano's circumnavigation to our current age of satellite surveys was long, but it was direct.
 

@@ -6,7 +6,7 @@
 
 - We shall learn more of the nature of man by watching his behavior through sixty centuries than by reading Plato, Aristotle, Spinoza, and Kant.
 
-#History #Philosophy
+[[History]] #Philosophy
 
 - The study of antiquity is properly accounted worthless except as it may be made living drama or illuminate our contemporary life. The rise of Rome from a crossroads town to world mastery, its achievement of two centuries of security and peace from the Crimea to Gibraltar, and from the Euphrates to Hadrian's Wall, its spread of classic civilization over the Mediterranean and western European world, its struggle to preserve its ordered realm from a surrounding sea of barbarism, its long, slow crumbling and final catastrophic collapse into darkness and chaos -- this is surely the greatest drama ever played by man; unless it be that other drama which began when Caesar and Christ stood face to face in Pilate's court and continued until a handful of hunted Christians had grown by time and patience, and through persecution and terror, to be first the allies, then the masters, and at last the heirs, of the greatest empire in history.
 
@@ -30,7 +30,7 @@
 
 - The Second Punic War changed the face of the western Mediterranean.  It gave Spain and all its wealth to Rome, providing the funds for the Roman conquest of Greece. It reunited Italy under Rome’s unquestioned mastery and threw open all routes and markets to Roman ships and goods. But it was the most costly of all ancient wars. It ravaged or injured half the farms of Italy, destroyed 400 towns, killed 300,000 men; southern Italy has never quite recovered from it to this day. It weakened democracy by showing that a popular assembly cannot wisely choose generals or direct a war. It began the transformation of Roman life and morals by hurting agriculture and helping trade; by taking men from the countryside and teaching them the violence of battle and the promiscuity of the camp; by bringing the precious metals of Spain to finance new luxuries and imperialistic expansion; and by enabling Italy to live on the extorted wheat of Spain, Sicily, and Africa. It was a pivotal event for almost every phase of Roman history. To Carthage it was the beginning of the end.
 
-#History
+[[History]]
 
 - What increases with civilization is not so much immorality of intent as opportunity of expression.
 
@@ -106,7 +106,7 @@
 
 - "if some god where for taking you back to those days in the past you would refuse every time" the chief charm of the past is that we know we need not live it again.
 
-#History
+[[History]]
 
 - Sanity, like government, needs checks and balances; no mortal can be omnipotent and sane.
 
@@ -260,7 +260,7 @@
 
 - There is no greater drama in human record than the sight of a few Christians, scorned or oppressed by a succession of emperors, bearing all trials with a fierce tenacity, multiplying quietly, building order while their enemies generated chaos, fighting the sword with the word, brutality with hope, and at last defeating the strongest state that history has known. Caesar and Christ had met in the area, and Christ had won.
 
-#History
+[[History]]
 
 - A real believer would have been a Christian first and a statesman afterword; with Constantine it was the reverse. Christianity was to him a means, not an end.
 
