@@ -60,7 +60,7 @@
 
 - Buffet: Invest in businesses that are "so wonderful that an idiot can run them. Because sooner or later, one will.
 
-- Wisdom in decision making is vastly more important than knowledge. #BeTheGood
+- Wisdom in decision making is vastly more important than knowledge. [[BeTheGood]]
 
 - Invest in good actions. Things can be taken away from us -- not good deeds and acts of virtue.
 

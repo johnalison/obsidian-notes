@@ -16,7 +16,7 @@
 
 - Analyze yourself. Identify weaknesses and improve yourself. [[PerfectionNotRequired]]
 
-- "Nobody caress how much you know, until they know how much you care" - Teddy Roosevelt [[Quotes]] #BeTheGood
+- "Nobody caress how much you know, until they know how much you care" - Teddy Roosevelt [[Quotes]] [[BeTheGood]]
 
 - Conviction: Your peers are the first to know what you will stand for and what you wont stand for. [[Reliability]]
 
@@ -36,7 +36,7 @@
 
 - Great nations dont get angry; military  action should be undertaken only  to achieve specific strategic effects. [[Politics]]
 
-- "If you're going to take Vienna, take fucking Vienna" - Napoleons outburst at field marshal who had hesitated to seize the city #BeTheGood
+- "If you're going to take Vienna, take fucking Vienna" - Napoleons outburst at field marshal who had hesitated to seize the city [[BeTheGood]]
 
 - Following WWII, our nations willingness to commit a 100 million dead Americans in a thermonuclear war to defend Europe was the single most self-sacrificial pledge in history. [[History]]
 

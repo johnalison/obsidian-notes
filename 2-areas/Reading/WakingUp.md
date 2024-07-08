@@ -12,7 +12,7 @@
 
 - How we pay attention to the present moment largely determines the character of our experience an the quality of our lives.
 
-  [[Happiness]] #AreWhatYouThink
+  [[Happiness]] [[AreWhatYouThink]]
 
 - There is more to understanding the human condition than science and secular culture generally admit.
 
@@ -103,7 +103,7 @@
       -) Fully acknowledge it and concede that all efforts are doomed. 
          - The path of "sudden realization" appears impossibly steep. "non-dualistic" in that it refuses to validate the POV from which one would meditate or practice any spiritual discipline.
 
-  #Buddhism
+  [[Buddhism]]
 
 - Peak experiences are fine, but real freedom must be present in normal waking life.
 

@@ -62,7 +62,7 @@
 
 - If you can endure the pain of not knowing, a solution will often present itself. (Applies almost everywhere in life)
 
-#Boredom
+[[Boredom]]
 
 - Patience is the least fashionable but perhaps most consequential superpower
   - Develop a taste for having problems: Life is a process of engaging with problem after problem
@@ -75,4 +75,4 @@
 
 - If you experience life with twice the usual intensity, and your experience of life will be twice as full. Meditation helps here.
 
-#AreWhatYouThink
+[[AreWhatYouThink]]

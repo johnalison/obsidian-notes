@@ -6,7 +6,7 @@
 
 - Thinking is the ultimate human resource.
 
-  #AreWhatYouThink 
+  [[AreWhatYouThink]] 
 
 - Main difficulty of thinking is confusion.
    Try to do too much at once.

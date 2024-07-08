@@ -25,7 +25,7 @@
 
 - The principle insight of the theory of sexual selection is that the goal of an animal is not just to survive but to breed. Where the breeding and survival come into conflict, its breeding that takes precedence. And breeding in sexual species consists of finding an appropriate partner and convincing it to part with some of its genes. This goal is so central to life that it has influenced the design not only of the body but of the psyche. ([[WhoWeAre]])
 
-- The greatest "experts" our species have produced on the subject of human nature were people like Buddha and Shakespeare, not scientists or philosophers. (#Buddhism)
+- The greatest "experts" our species have produced on the subject of human nature were people like Buddha and Shakespeare, not scientists or philosophers. ([[Buddhism]])
 
 - Why did sex evolve: Survey the scientists and virtually all will agree that the problem has been solved, but none will agree on the solution. ([[ExpertsDisagree]])
 
@@ -97,7 +97,7 @@
 
 - "Coolidge effect" Calvin Cooldige and his wife where being shown around a farm. Learning that a cockerel could have sex dozens of times a day, Mrs Coolidge said: "Pleas tell that to this president". On being told, Mr Coolidge asked, "Same hen every time?" "Oh, no, Mr President. A different one each time" The president continued: "Tell that to Mrs. Coolidge"
 
-- The depressing part of Darwin's insight is that it shows how beauty cannot exist without ugliness. Sexual selection, Red Queen-style, in inevitably a cause of dissatisfaction, vain striving, and misery to individuals. (#Buddhism)
+- The depressing part of Darwin's insight is that it shows how beauty cannot exist without ugliness. Sexual selection, Red Queen-style, in inevitably a cause of dissatisfaction, vain striving, and misery to individuals. ([[Buddhism]])
 
 - What caused the sudden and spectacular expansion of that one ape's head, from which so much else flowed ?  And why did it happen to one ape and not another ? What can account for the astonishing speed, and the accelerating speed of the change? These questions may seem to have nothing to do with the subject of this book, but the answer may lie with sex. The evolution of mans big head was the result of a Red Queen sexual contest between individuals of the same gender. ([[WhoWeAre]])
 

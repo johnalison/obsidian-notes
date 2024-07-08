@@ -34,7 +34,7 @@
     Software should only be designed to perform tasks that can be successfully performed at a given time. This is not the attitude in which the internet software is designed.
     "When we deploy a computer model of something like learning or friendship in a way that has an effect on real lives, we are relying on faith."
 
-    #Buddhism
+    [[Buddhism]]
 
   - The binary character of computers appear at a higher level.  eg: far easier to tell a program to run or not, than to sort-of-run with more or less intensity depending on the situation.
 

@@ -24,7 +24,7 @@
 
 - Despite all the talk of pollution, global warming and climate change, most countries have yet to make any serious economic or political sacrifices to improve the situation. When the moment comes to choose between economic growth and ecological stability, politicians, CEOs and voters almost prefer growth. [[Politics]]
 
-- The most common reaction of the human mind to achievement is not satisfaction, but craving for more. #Buddhism
+- The most common reaction of the human mind to achievement is not satisfaction, but craving for more. [[Buddhism]]
 
 - Having secured unprecedented levels of prosperity, health and harmony, and given our past record and current values, humanity's next targets are likely to be immortality, happiness and divinity. [[WhoWeAre]] [[Politics]] [[History]] [[Longevity]]
 
@@ -42,23 +42,23 @@
 
 - Epicurus explained that worshiping gods is a waste of time, that there is no existence after death, and that happiness is the sole purpose of life. Most people in ancient times rejected Epicurean-ism, but today it has become the default view. [[Epicurean]]
 
-- When Epicurus defined happiness as the supreme good, he warned his disciples that it is hard work to be happy. Material achievements alone will not satisfy us for long. Indeed, the blind pursuit of money, fame and pleasure will only make us miserable. Epicurus recommended, for example, to eat and drink in moderation and to curb ones sexual appetites. In the long run, a deep friendship will make us more content that a frenzied orgy. [[Happiness]] [[Epicurean]] #Buddhism
+- When Epicurus defined happiness as the supreme good, he warned his disciples that it is hard work to be happy. Material achievements alone will not satisfy us for long. Indeed, the blind pursuit of money, fame and pleasure will only make us miserable. Epicurus recommended, for example, to eat and drink in moderation and to curb ones sexual appetites. In the long run, a deep friendship will make us more content that a frenzied orgy. [[Happiness]] [[Epicurean]] [[Buddhism]]
 
-- The glass ceiling of happiness is held in place by two stout pillars, one psychological, the other biological. On the psychological level, happiness depends on expectations rather than objective conditions. We dont become satisfied by leading a peaceful and prosperous existence. Rather, we become satisfied with reality matches our expectations. [[Happiness]] #Buddhism [[Stoicism]]
+- The glass ceiling of happiness is held in place by two stout pillars, one psychological, the other biological. On the psychological level, happiness depends on expectations rather than objective conditions. We dont become satisfied by leading a peaceful and prosperous existence. Rather, we become satisfied with reality matches our expectations. [[Happiness]] [[Buddhism]] [[Stoicism]]
 
-- On the biological level, both our expectations and our happiness are determined by our biochemistry, rather than our economic, social or political situation. [[Happiness]] #Buddhism
+- On the biological level, both our expectations and our happiness are determined by our biochemistry, rather than our economic, social or political situation. [[Happiness]] [[Buddhism]]
 
-- A thousand things may make us angry, but anger is never an abstraction. It is always felt as a sensation of heat and tension in the body, which is what makes anger so infuriating. #Buddhism
+- A thousand things may make us angry, but anger is never an abstraction. It is always felt as a sensation of heat and tension in the body, which is what makes anger so infuriating. [[Buddhism]]
 
 - People have be quarreling about education methods for thousands of years. Yet, hitherto everybody still agreed on one thing: in order to improve education, we need to change the schools. Today, for the first time in history, at least some people think it would be more efficient to change the pupils' biochemistry. [[NowIsDifferent]] [[ShouldTeachKids]]
 
 - The state hopes to manipulate the biochemical pursuit of happiness, separating "bad" manipulations from "good" ones. The principle is clear: biochemical manipulations that strengthen political stability, social order and economic growth are allowed and even encouraged. Manipulations that threaten stability and growth are bad. [[Happiness]]
 
-- Epicurus warned his disciples that immoderate pursuit of pleasure is likely to make them miserable rather than happy. Buddha had made an even more radical claim, teaching that the pursuit of pleasant sensations is in fact the very root of suffering. Such sensations are just ephemeral and meaningless vibrations. Even when we experience them we dont react to them with contentment: rather, we just crave more. No matter how many blissful or exciting sensations I experience, they will never satisfy me. [[Epicurean]] [[Happiness]] #Buddhism
+- Epicurus warned his disciples that immoderate pursuit of pleasure is likely to make them miserable rather than happy. Buddha had made an even more radical claim, teaching that the pursuit of pleasant sensations is in fact the very root of suffering. Such sensations are just ephemeral and meaningless vibrations. Even when we experience them we dont react to them with contentment: rather, we just crave more. No matter how many blissful or exciting sensations I experience, they will never satisfy me. [[Epicurean]] [[Happiness]] [[Buddhism]]
 
-- If I identify happiness with fleeting pleasant sensations, and crave to experience more and more of them, I have no choice but to pursue them constantly. When I finally get them, they quickly disappear, and because the mere memory of past pleasures will not satisfy me, I have to start all over again. Even if I continue this pursuit for decades, it will never bring me any lasting achievement; on the contrary, the more I crave these pleasant sensations, the more stressed and dissatisfied I become. To attain real happiness, humans need to slow down the pursuit of pleasant sensations, not accelerate it. [[Happiness]] #Buddhism
+- If I identify happiness with fleeting pleasant sensations, and crave to experience more and more of them, I have no choice but to pursue them constantly. When I finally get them, they quickly disappear, and because the mere memory of past pleasures will not satisfy me, I have to start all over again. Even if I continue this pursuit for decades, it will never bring me any lasting achievement; on the contrary, the more I crave these pleasant sensations, the more stressed and dissatisfied I become. To attain real happiness, humans need to slow down the pursuit of pleasant sensations, not accelerate it. [[Happiness]] [[Buddhism]]
 
-- The Buddhist view of happiness has a lot in common with the biochemical view. The Buddha's suggestion was to reduce our craving for pleasant sensations, and not allow them to control our lives. According to the Buddha, we can train our minds to observe how all sensations constantly arise and pass away.  When the mind learns to see our sensations for what they are -- ephemeral and meaningless vibrations -- we loose interest in pursing them. [[WhoWeAre]] #Buddhism [[Happiness]]
+- The Buddhist view of happiness has a lot in common with the biochemical view. The Buddha's suggestion was to reduce our craving for pleasant sensations, and not allow them to control our lives. According to the Buddha, we can train our minds to observe how all sensations constantly arise and pass away.  When the mind learns to see our sensations for what they are -- ephemeral and meaningless vibrations -- we loose interest in pursing them. [[WhoWeAre]] [[Buddhism]] [[Happiness]]
 
 - Relatively small changes in genes, hormones and neurons where enough to transform Homo Erectus -- who could produce nothing more than flint knives -- into Homo sapiens, who produce spaceships and computers. [[WhoWeAre]]
 
@@ -100,7 +100,7 @@
 
 - Humankind is poised to replace natural selection with intelligent design, and to extend life form the organic realm into the inorganic. [[NowIsDifferent]] 
 
-- "Algorithm" is arguably the single most important concept in our world. Humans are algorithms that produce copies of themselves. The algorithms controlling humans work through sensations, emotions, and thoughts. [[WhoWeAre]] #Buddhism
+- "Algorithm" is arguably the single most important concept in our world. Humans are algorithms that produce copies of themselves. The algorithms controlling humans work through sensations, emotions, and thoughts. [[WhoWeAre]] [[Buddhism]]
 
 - Not long ago psychologists doubted the importance of the emotional bond between parents and children even among humans. Childcare experts warned that children who were hugged and kissed by their parents would grow up to be needy, egotistical and insecure adults. [[UsedToBelieve]] 
 
@@ -110,9 +110,9 @@
 
 - During the agriculture revolution humankind silenced animals and plants, and turned the animist grand opera into a dialogue between man and gods. During the Scientific Revolution humankind silenced the gods too. The world was now a one man show. Humankind stood alone on an empty stage, talking to itself, negotiating with no one and acquiring enormous powers without any obligations. [[History]] [[Religion]] [[Science]] [[NowIsDifferent]]
 
-- The stream of consciousness is the concrete reality we directly witness every moment. It is the surest thing in the world. You cannot doubt its existence. [[Consciousness]] #Buddhism
+- The stream of consciousness is the concrete reality we directly witness every moment. It is the surest thing in the world. You cannot doubt its existence. [[Consciousness]] [[Buddhism]]
 
-- Every subjective experience has two fundamental characteristics: sensation and desire. #Buddhism [[Consciousness]]
+- Every subjective experience has two fundamental characteristics: sensation and desire. [[Buddhism]] [[Consciousness]]
 
 - Scientists dont know how a collection of electrical brain signals creates subjective experiences. Even more crucially, they dont know what could be the evolutionary benefit of such a phenomenon. Ironically the better we map the brain, the harder it becomes to explain conscious feelings, the more redundant the mind seems. IF the entire system works by passing electrical signals from here to there, why the hell do we also need to feel fear ? [[Consciousness]] [[Paradox]]
 
@@ -212,7 +212,7 @@
 
 - The contradiction between free will and contemporary science is the elephant in the laboratory, whom many prefer not to see as they peer into their microscopes and fMRI scanners. [[FreeWill]]
 
-- Over the last century, as scientist opened up the Sapiens black box, they discovered there neither soul, no free will, nor "self" -- but only genes. [[FreeWill]] #Buddhism
+- Over the last century, as scientist opened up the Sapiens black box, they discovered there neither soul, no free will, nor "self" -- but only genes. [[FreeWill]] [[Buddhism]]
 
 - To the best of our scientific understanding, determinism and randomness have divided the entire cake between them, leaving not even a crumb for "freedom". Free will exists only in the imaginary stories we humans have invented.  The last nail in freedoms coffin is provided by the theory of evolution. Just as evolution cannot be squared with eternal souls, neither can it swallow the idea of free will. For if humans are free, how could natural selection have shaped them? [[FreeWill]]
 
@@ -261,7 +261,7 @@
 
 - Hunter-gathers are able to smell from a distance the difference between various animal species, various humans and even various emotions. [[WhoWeAre]]
 
-- Though we have more choice than ever before, we have lost the ability to pay attention to whatever we choose. #Buddhism [[DFW]]
+- Though we have more choice than ever before, we have lost the ability to pay attention to whatever we choose. [[Buddhism]] [[DFW]]
 
 - From a historical perspective its clear that something momentous is happening. The number one humanist commandment -- listen to yourself! -- is no longer self-evident. Silencing annoying voices in my head seems like a wonderful idea, provided it enables me to finally hear my deep authentic self. But if there is no authentic self, how do I decide which voices to silence and which to amplify? [[Religion]] [[NowIsDifferent]] [[WhoWeAre]]
 

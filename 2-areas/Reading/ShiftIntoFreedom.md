@@ -14,13 +14,13 @@
 
 - Awakening has been deemed a rare occurrence b/c its principles have not yet been understood in a modern way. One view holds that you cant awaken because its too hard without living in a monastery or cave. The other view is that there is nothing to do -- that there are no meditations, steps or stages. In this view, you cant awaken intentionally; it happens only by luck or grace -- and then you remain awake. The middle way (which is advocated in this book) is that a series of direct recognitions can lead to a gradual unfolding with steps and stages. Awakening is not too difficult if you are interested and motivated. Its like learning to read and write: we all have the capacity to awaken.
 
-  #Buddhism
+  [[Buddhism]]
 
 - Transendence has been given many names: Truth, God, Peace, Source, Love, True Nature, Enlightenment, Unity or Spirit, but the simplest name is AWARENESS.
 
 - Awareness is the foundation of living a human life. We cannot know anything without it. Mostly we take it for granted and focus on content: things we are aware of rather than awareness itself.
 
-  [[WhoWeAre]] #AreWhatYouThink
+  [[WhoWeAre]] [[AreWhatYouThink]]
 
 - One of the most important things to learn is how to separate awareness from thinking, and then we can see that thoughts and emotions are not the center of who we are.
 
@@ -63,7 +63,7 @@
 - "What we are looking for is what is looking"
     WhatWeAreLookingForIsWhatIsLooking
 
-    #Buddhism
+    [[Buddhism]]
 
 - turning my awareness to look back through what I assumed to be "me"
 
@@ -77,7 +77,7 @@
 
 - The practice of Mahamudra is simply a matter of looking at our mind, recognizing its nature, and remaining within that recognition.
 
-  #Buddhism
+  [[Buddhism]]
 
 - The most crucial mistake we make is turning to thought to know who we are.
 

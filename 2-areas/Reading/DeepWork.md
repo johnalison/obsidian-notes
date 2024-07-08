@@ -20,7 +20,7 @@
 
 - DW more valuable than ever before, yet not promoted by individuals or organizations. ([[Paradox]])
 
-- Skillful management of attention is the key to improving virtually every aspect of your experience. (#Buddhism) ([[SystemsNotGoals]])
+- Skillful management of attention is the key to improving virtually every aspect of your experience. ([[Buddhism]]) ([[SystemsNotGoals]])
 
 - "Who you are, what you think, feel and do, what you love - is the sum of what you focus on"
 
@@ -48,11 +48,11 @@
 
 - Decades of work from multiple subfields all point towards the conclusion that regularly resting your brain improves the quality of your deep work.
 
-- If every potential moment of boredom is relieve with a glance at a smart phone, then your brain has been rewired to point where it is not ready for deep work. #Boredom [[DFW]]
+- If every potential moment of boredom is relieve with a glance at a smart phone, then your brain has been rewired to point where it is not ready for deep work. [[Boredom]] [[DFW]]
 
 - Schedule in advance when you will use the internet, then avoid outside these times.
 
-- To simply wait and be bored has become a novel experience in modern times. (#Boredom)
+- To simply wait and be bored has become a novel experience in modern times. ([[Boredom]])
 
 - Put more thought into your leisure time.  Dedicate some advanced thinking to the question of how you want to spend your time "off".
 

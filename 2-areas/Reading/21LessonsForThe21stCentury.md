@@ -109,7 +109,7 @@
 
 - Morality doesn't mean "following divine commands". It means reducing suffering. If you really understand how an action causes unnecessary suffering to yourself or others you will naturally abstain from it. [[Religion]]
 
-- Every violent act in the world begins with a violent desire in somebody's mind, which disturbs that persons peace and happiness before it disturbs the peace and happiness of anybody else. If you were completely free of anger you would feel far better than if you murdered and obnoxious enemy. For some people a strong belief in a compassionate god that commands us to turn the other cheek may help in curbing anger. That's been and enormous contribution of religious belief to the peace and harmony of the world. #Buddhism [[Religion]]
+- Every violent act in the world begins with a violent desire in somebody's mind, which disturbs that persons peace and happiness before it disturbs the peace and happiness of anybody else. If you were completely free of anger you would feel far better than if you murdered and obnoxious enemy. For some people a strong belief in a compassionate god that commands us to turn the other cheek may help in curbing anger. That's been and enormous contribution of religious belief to the peace and harmony of the world. [[Buddhism]] [[Religion]]
 
 - While human rights movements have developed a very impressive arsenal of arguments and defenses against religious biases and human tyrants, the arsenal hardly protects us against consumerist excesses and technological utopias. [[Religion]]
 
@@ -139,7 +139,7 @@
 
 - In the 21st century, science fiction might be the most important genre of all. 
 
-- In truth, everything you will ever experience in life is within your own body and your own mind. #AreWhatYouThink
+- In truth, everything you will ever experience in life is within your own body and your own mind. [[AreWhatYouThink]]
 
 - Huxley's genius consists in showing that you can control people far more securely through love and pleasure than through fear and violence. [[WhoWeAre]]
 
@@ -155,18 +155,18 @@
 
 - If by "free will" you mean the freedom to do what you desire, then yes, humans have free will. But if by "free will" you mean the freedom to choose what to desire, then no, humans have no free will. [[FreeWill]]
 
-- As long as you strongly identify with whatever thoughts and desires pop up in your mind, you dont need to make much effort to know yourself. You think you already know exactly who you are. But once you realize "Hey these thoughts aren't me. They are just biochemical vibrations!" then you also realize you have no idea who -- or what -- you are. [[FreeWill]] [[WhoWeAre]] #AreWhatYouThink #Buddhism
+- As long as you strongly identify with whatever thoughts and desires pop up in your mind, you dont need to make much effort to know yourself. You think you already know exactly who you are. But once you realize "Hey these thoughts aren't me. They are just biochemical vibrations!" then you also realize you have no idea who -- or what -- you are. [[FreeWill]] [[WhoWeAre]] [[AreWhatYouThink]] [[Buddhism]]
 
-- The Buddha taught that the three basic realities of the universe are that everything is constantly changing, nothing has any enduring essence, and nothing is completely satisfying. Suffering emerges because people fail to appreciate this. #Buddhism
+- The Buddha taught that the three basic realities of the universe are that everything is constantly changing, nothing has any enduring essence, and nothing is completely satisfying. Suffering emerges because people fail to appreciate this. [[Buddhism]]
  
-- According to the Buddha, then, life has no meaning, and people dont need to create any meaning. They just need to realize that there is no meaning, and therefore be liberated from the suffering caused by our attachments and our identification with empty phenomena. #Buddhism
+- According to the Buddha, then, life has no meaning, and people dont need to create any meaning. They just need to realize that there is no meaning, and therefore be liberated from the suffering caused by our attachments and our identification with empty phenomena. [[Buddhism]]
 
-- The big question facing humans isn't "What is the meaning of life?" but rather "how do we stop suffering?" #Buddhism [[Religion]] [[Questions]]
+- The big question facing humans isn't "What is the meaning of life?" but rather "how do we stop suffering?" [[Buddhism]] [[Religion]] [[Questions]]
 
 - The academic world provided me with powerful tools with which to deconstruct all the myths humans ever created, but it did not offer satisfying answers to the big questions of life. On the contrary, it encouraged me to focus on narrower and narrower questions. [[Questions]] 
 
-- What is there that endures from birth to death ? The more closely you observe yourself, the more obvious it becomes that nothing endures even from one moment to the next. [[Questions]] #Buddhism
+- What is there that endures from birth to death ? The more closely you observe yourself, the more obvious it becomes that nothing endures even from one moment to the next. [[Questions]] [[Buddhism]]
 
-- Suffering is not an objective condition in the outside world. It is a mental reaction generated by my own mind. #Buddhism [[WhoWeAre]]
+- Suffering is not an objective condition in the outside world. It is a mental reaction generated by my own mind. [[Buddhism]] [[WhoWeAre]]
 
-- Meditation is any direct observation of ones own mind. #Buddhism
+- Meditation is any direct observation of ones own mind. [[Buddhism]]

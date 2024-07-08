@@ -96,7 +96,7 @@
 
 - Time block your time off. Time block your ONE Thing. Time block your planning time.
 
-- Block an hour each week to review your annual and monthly goals!  #Aspiration
+- Block an hour each week to review your annual and monthly goals!  [[Aspiration]]
 
 - Adopt the mindset of someone seeking mastery
   Continually seek the very best ways of doing things

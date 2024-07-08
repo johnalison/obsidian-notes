@@ -6,7 +6,7 @@
 
 - The moment man begins to think about tomorrow he passes out of the Garden of Eden into the vale of anxiety; the pale cast of worry settles down upon him, greed is sharpened, property begins, and the good cheer of the "thoughtless" native disappears.
 
-  [[WhoWeAre]] #Buddhism
+  [[WhoWeAre]] [[Buddhism]]
 
 - Most of history is guessing, the rest is prejudice.
 
@@ -159,13 +159,13 @@
 
 - Upanishads are the oldest extant philosophy and psychology of our race; the surprisingly subtle and patient effort of man to understand the mind and the world, and their relation. The Upanishads are as old as Homer, and as modern as Kant.
 
-  #Buddhism [[Philosophy]]
+  [[Buddhism]] [[Philosophy]]
 
 - The essences of ourselves is not the body, or the mind, or the individual ego, but the silent and formless depth of being with us, Atman.
 
 - Happiness is possible neither here, as paganism thinks, nor hereafter, as many religions think. Only peace is possible, only the cool quietude of craving ended, only Nirvana.
 
-  [[Happiness]] #Buddhism
+  [[Happiness]] [[Buddhism]]
 
 - Buddha was more patient and considerate than any other of the great teachers of mankind.
 
@@ -181,7 +181,7 @@
 
 - The transcendental unity of perception, this "mind" that waves sensations and perceptions into thought, is a ghost; all that exists is the sensations and perceptions themselves, falling automatically into memories and ideas.
 
-  #Buddhism
+  [[Buddhism]]
 
 - If there is no soul, how can it pass into other existences, to be punished for the sins of this embodiment? Here is the weakest point of Buddha's philosophy; he never quite faces the contradiction between his rationalistic psychology and his uncritical acceptance of reincarnation.
 
@@ -217,7 +217,7 @@
 - Karma is not Fate; Fate implies the helplessness of man to determine his own lot; Karma makes him the creator of his own destiny.
   Biologically there is much truth in this doctrine. We are the reincarnations of our ancestors, and will be reincarnated in our children; and the defects of the fathers are to some extent visited upon the children, even through many generations.
 
- #Buddhism
+ [[Buddhism]]
 
 - To explain evil, and to find for man some scheme in which they may accept it, if not with good cheer, then with peace of mind - this is the task that most religions have attempted to fulfill.  Since the real problem of life is not suffering but undeserved suffering, the religion of India mitigates the human tragedy by given meaning and value to grief and pain. [[Religion]]
 
@@ -264,7 +264,7 @@
 - The foundation of character is sincerity. He acts before he speaks and afterwards speaks according to his actions.
   He is modest in his speech but exceeds in his actions. He seldom speaks; when he does he is sure to hit the point.
 
-  #BeTheGood
+  [[BeTheGood]]
 
 - Is there one word which may serve as a rule of practice for all ones life?  Yes, reciprocity.
 

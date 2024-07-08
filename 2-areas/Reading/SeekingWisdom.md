@@ -4,7 +4,7 @@
 
 - Our life is what our thoughts make it. Marcus Aurelius
 
-#AreWhatYouThink
+[[AreWhatYouThink]]
 
 - Placebos: like a pharmacy inside the body that has evolved during millions of years of evolution.
 
@@ -24,11 +24,11 @@
 
 - We never look at projections, but we care very much about, and look very deeply at, track records. If a company has a lousy track record and a very bright future, we will miss the opportunity. - Warren Buffet
 
-#BeTheGood
+[[BeTheGood]]
 
 - Bad news that is true is better than good news that is wrong.
 
-- The task of man is not to see what lies dimly in the distance, but to do what lies clearly at hand. #BeTheGood
+- The task of man is not to see what lies dimly in the distance, but to do what lies clearly at hand. [[BeTheGood]]
 
 - Obviously, you look ahead as far as you can. But thats not very far. But if you respond intelligently and diligently to the challenges before you, we think you'll tend to end up with a pretty good institution.
 
@@ -38,7 +38,7 @@
 
 [[UnpopularTruth]]
 
-- Predicting rain doesn't count, building arks does. #BeTheGood
+- Predicting rain doesn't count, building arks does. [[BeTheGood]]
 
 - All mental pleasure consists in being able to compare oneself with others to ones own advantage.
 
@@ -148,4 +148,4 @@
 
 - Examine your thoughts. You will find them wholly concerned with the past or the future. We almost never think of the present, and if we do, its only to see what light it throws on our plans for the future. The present is never our end. The past and the present are our means, the future alone our end. Thus we never actually live, but hope to live, and since we are always planning how to be happy, it is inevitable that we should never be so.
 
-[[WhoWeAre]] #AreWhatYouThink
+[[WhoWeAre]] [[AreWhatYouThink]]

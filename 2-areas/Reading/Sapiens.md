@@ -109,11 +109,11 @@
 
 - Monotheism explains order, but is mystified by evil. Dualism explains evil, but is puzzled by order. There is one logical way of solving the riddle: to argue that there is a single omnipotent God who created the universe -- and He's evil.
 
-- The central figure in Buddhism is not a god but a human being, Siddhartha Guatama. (#Buddhism)
+- The central figure in Buddhism is not a god but a human being, Siddhartha Guatama. ([[Buddhism]])
 
-- No matter what people achieve they are never content.  Suffering is caused by behavior patterns in ones own mind. If/when the mind experiences something pleasant or unpleasant, it simply understands things as they are, then there is no suffering.  Meditation trains the mind to focus all its attention on the question "What am I experiencing now?"  rather than on "What would I rather be experiencing?" (#Buddhism)
+- No matter what people achieve they are never content.  Suffering is caused by behavior patterns in ones own mind. If/when the mind experiences something pleasant or unpleasant, it simply understands things as they are, then there is no suffering.  Meditation trains the mind to focus all its attention on the question "What am I experiencing now?"  rather than on "What would I rather be experiencing?" ([[Buddhism]])
 
-- The first principle of monotheistic religions is "God exists. What does He want from me?" The first principle of Buddhism is "Suffering exists. How do I escape it?" (#Buddhism)
+- The first principle of monotheistic religions is "God exists. What does He want from me?" The first principle of Buddhism is "Suffering exists. How do I escape it?" ([[Buddhism]])
 
 - If a religion is a system of human norms and values that is founded on beliefs in a superhuman order, then Soviet Communism was no less a religion than Islam.
   The modern age has witnessed the rise of a number of natural-law religions such as liberalism, Communism, nationalism, and Nazism.
@@ -186,7 +186,7 @@
 
 - Ours is the first time in history that the world is dominated by a peace-loving elite - politicians, business people, intellectuals and artists which genuinely see war as both evil and avoidable. ([[NowIsDifferent]])
 
-- Did the wealth humankind accumulated in the last 5 centuries translate into a new-found contentment? If not, what is the point of developing agriculture, cities, writing, coinage, empires, science and industry ? Historians seldom ask these questions, yet they are the more important questions one can ask of history. ([[History]]) (#Buddhism)
+- Did the wealth humankind accumulated in the last 5 centuries translate into a new-found contentment? If not, what is the point of developing agriculture, cities, writing, coinage, empires, science and industry ? Historians seldom ask these questions, yet they are the more important questions one can ask of history. ([[History]]) ([[Buddhism]])
 
 - The brief golden age of the last half-century may turn out to have sown the seeds of future catastrophe.
 
@@ -196,9 +196,9 @@
 
 - The most important finding regarding happiness is that it doesn't really depend on objective conditions of either wealth, health or community. Rather it depends on the correlation between objective conditions and subjective expectations.  Being satisfied with what you already have is far more important that getting more of what you want. ([[Happiness]])
 
-- People are made happy by one thing and one thing only -- pleasant sensations in their bodies. A person who just won the lottery or found new love jumps from joy is not really reaction to the money or the lover. She is reaction to various hormones coursing throughout her bloodstream, and to the storm of electric signal flashing between different parts of their brain. ([[Happiness]]) (#Buddhism)
+- People are made happy by one thing and one thing only -- pleasant sensations in their bodies. A person who just won the lottery or found new love jumps from joy is not really reaction to the money or the lover. She is reaction to various hormones coursing throughout her bloodstream, and to the storm of electric signal flashing between different parts of their brain. ([[Happiness]]) ([[Buddhism]])
 
-- Happiness and misery play a role in evolution only to the extent that they encourage or discourage survival and reproduction. ([[Happiness]]) (#Buddhism)
+- Happiness and misery play a role in evolution only to the extent that they encourage or discourage survival and reproduction. ([[Happiness]]) ([[Buddhism]])
 
 - There is only one historical development that has real significance. Today, when we finally realize that the keys to happiness are in the hands of our biochemical system, we can focus on the only that that can make us truly happy: manipulating our biochemistry. Prozac, for example, does not change regimes, but by raising serotonin levels it lifts people out of their depression. ([[Happiness]]) 
 
@@ -206,21 +206,21 @@
 
 - If we accept the biological approach to happiness, then history turns out to be of minor importance, since most historical events have had no impact on our biochemistry. ([[Happiness]]) ([[History]])
 
-- To be happy is no more and no less than experiencing pleasant bodily sensations. ([[Happiness]]) (#Buddhism)
+- To be happy is no more and no less than experiencing pleasant bodily sensations. ([[Happiness]]) ([[Buddhism]])
 
-- A meaningful life can be extremely satisfying even in the midst of hardship, whereas a meaningless life is a terrible ordeal no matter how comfortable it is. (#Buddhism)
+- A meaningful life can be extremely satisfying even in the midst of hardship, whereas a meaningless life is a terrible ordeal no matter how comfortable it is. ([[Buddhism]])
 
 - Although the people in all cultures and eras have felt the same types of pleasures and pains, the meaning they ascribed to their experiences has probably varied widely. If so, the history of happiness might have been far more turbulent than biologists imagine. Its a conclusion that does not necessarily favor modernity. ([[History]])
 
 - As far as we can tell, from a purely scientific viewpoint, human life has absolutely no meaning. Humans are the outcome of blind evolutionary processes that operate without goal or purpose. *Any* meaning that people ascribe to their lives is just a delusion.  Counter point: the beginning of infinity, science, humanity.  ([[WhoWeAre]])
 
-- Buddhism has assigned the question of happiness more importance than perhaps any other human creed. For 2500 years, Buddhists have systematically studied the essence and causes of happiness. Buddhism shares the basic insight of the biological approach, namely that happiness results from processing occurring within one's body, and not form events in the outside world. (#Buddhism)
+- Buddhism has assigned the question of happiness more importance than perhaps any other human creed. For 2500 years, Buddhists have systematically studied the essence and causes of happiness. Buddhism shares the basic insight of the biological approach, namely that happiness results from processing occurring within one's body, and not form events in the outside world. ([[Buddhism]])
 
-- If I want to experience pleasant feelings, I have to constantly chase them, while driving away the unpleasant feelings. Even if I succeed, I immediately have to start all over again, without ever getting any lasting reward for my troubles. According to Buddhism, the root of suffering is neither the feeling of pain nor of sadness nor even of meaninglessness. Rather the real root of suffering is the never-ending and pointless pursuit of ephemeral feelings, which causes us to be in a constant state of tension, restlessness and dissatisfaction. Due to this pursuit the mind is never satisfied. People are liberated from suffering not when they experience this or that fleeting pleasure, but rather when they understand the impermanent nature of all their feelings, and stop craving them. This is the aim of Buddhist meditation practices. When the pursuit stops, the mind becomes very relaxed, clear and satisfied.  (#Buddhism)
+- If I want to experience pleasant feelings, I have to constantly chase them, while driving away the unpleasant feelings. Even if I succeed, I immediately have to start all over again, without ever getting any lasting reward for my troubles. According to Buddhism, the root of suffering is neither the feeling of pain nor of sadness nor even of meaninglessness. Rather the real root of suffering is the never-ending and pointless pursuit of ephemeral feelings, which causes us to be in a constant state of tension, restlessness and dissatisfaction. Due to this pursuit the mind is never satisfied. People are liberated from suffering not when they experience this or that fleeting pleasure, but rather when they understand the impermanent nature of all their feelings, and stop craving them. This is the aim of Buddhist meditation practices. When the pursuit stops, the mind becomes very relaxed, clear and satisfied.  ([[Buddhism]])
 
-- This idea is so alien to modern liberal culture that when Western New Age movements encountered Buddhist insights, they translated them into liberal terms. "Happiness begins within" This is exactly what biologists argue, but more or less the opposite of what Buddha said. Buddha agreed with biology and New Age movements that happiness is independent of external conditions.  Yet his more important and far more profound insight was that true happiness is also independent of our inner feelings. Buddha's recommendation was to stop not only the pursuit of external achievements, but also the pursuit of inner feelings.  (#Buddhism) ([[Happiness]])
+- This idea is so alien to modern liberal culture that when Western New Age movements encountered Buddhist insights, they translated them into liberal terms. "Happiness begins within" This is exactly what biologists argue, but more or less the opposite of what Buddha said. Buddha agreed with biology and New Age movements that happiness is independent of external conditions.  Yet his more important and far more profound insight was that true happiness is also independent of our inner feelings. Buddha's recommendation was to stop not only the pursuit of external achievements, but also the pursuit of inner feelings.  ([[Buddhism]]) ([[Happiness]])
 
-- If Buddhism is right, our entire understanding of the history of happiness might be misguided. Maybe it isn't so important whether peoples expectations are fulfilled and whether they enjoy pleasant feelings. The main question is whether people know the truth about themselves. (#Buddhism) ([[Happiness]]) ([[History]])
+- If Buddhism is right, our entire understanding of the history of happiness might be misguided. Maybe it isn't so important whether peoples expectations are fulfilled and whether they enjoy pleasant feelings. The main question is whether people know the truth about themselves. ([[Buddhism]]) ([[Happiness]]) ([[History]])
 
 - Most history books say nothing about how the course of history has influenced the happiness and suffering of individuals. This is the biggest lacuna in our understanding of history. ([[Happiness]]) ([[History]]) ([[WhatWeDontKnow]])
 

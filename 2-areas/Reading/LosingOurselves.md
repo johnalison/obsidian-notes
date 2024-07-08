@@ -174,7 +174,7 @@
 
 - Who we think we are determines in part who we eventually become.
 
-#AreWhatYouThink
+[[AreWhatYouThink]]
 
 - Persons are poised between the biological, the psychological, and the social, and they live on the cusp of fact and fiction.
 
