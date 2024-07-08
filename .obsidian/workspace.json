@@ -23,8 +23,12 @@
             "id": "14811df6a230cc49",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2-areas/Philosophy/AI.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -94,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2-areas/Philosophy/AI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2-areas/Philosophy/AI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2-areas/Philosophy/AI.md"
+              }
             }
           }
         ],
@@ -153,7 +161,14 @@
   },
   "active": "14811df6a230cc49",
   "lastOpenFiles": [
-    "0-inbox/AI.md",
+    "2-areas/Philosophy/AI.md",
+    "2-areas/Philosophy/AI.md",
+    "0-inbox/Things-To-Add-To-Notes.md",
+    "0-inbox/Teachers-vs-Experts.md",
+    "0-inbox/BJJ.md",
+    "2-areas/Philosophy/NowIsDifferent.md",
+    "2-areas/Reading/Books.md",
+    "0-inbox/[.md",
     "2-areas/Reading/21LessonsForThe21stCentury.md",
     "2-areas/Reading/AlwasyWithHonor.md",
     "2-areas/CMS/CMSSWNotes.md",
@@ -173,22 +188,15 @@
     "2-areas/Reading/WhoOwnsTheFuture.md.bkg",
     "2-areas/Reading/WhatsOurProblem.md.bkg",
     "2-areas/Reading/WavesInImpossibleSea.md.bkg",
-    "0-inbox/NowIsDifferent.md",
     "2-areas/Reading/DeepWork.md",
     "2-areas/Reading/ThinkingAboutMath.md",
-    "0-inbox/Books.md",
     "2-areas/Reading/WavesInImpossibleSea.md",
     "0-inbox/chaos-determinism-and-real-numbers.md",
     "2-areas/Reading/FooledByRandomness.md",
-    "0-inbox/[.md",
     "2-areas/Reading/12RuleForLife.md",
     "2-areas/Reading/Antifragile.md",
     "0-inbox/Problem with market cap.md",
     "2-areas/Reading/ZenAndMotorcycleMaintenance.md",
-    "2-areas/Reading/WritingGNUEmacsExtensions.md",
-    "2-areas/Reading/WhyBuddhismIsTrue.md",
-    "2-areas/Reading/WhoOwnsTheFuture.md",
-    "2-areas/Reading/WhatsOurProblem.md",
     "Untitled.canvas",
     "Pasted image 20240707142114.png"
   ]
