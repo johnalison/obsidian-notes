@@ -1,4 +1,4 @@
-# Learn from others (or simulated) mistakes 
+Learn from others (or simulated) mistakes 
 
   - Easier and more effective to learn without you yourself failing 
   - Go further without repeating known mistakes
@@ -7,4 +7,7 @@
 Breaks down at the boundries of knowledge.
 Then need science to make progress.
 
-#Science #AI #Rationality
+[[Science]] 
+[[AI]]
+[[Rationality]]
+

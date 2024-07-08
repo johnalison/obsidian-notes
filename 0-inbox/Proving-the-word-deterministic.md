@@ -1,14 +1,16 @@
-How could you prove the world was determinsitic?
+How could you prove the world was deterministic?
 
 You could
- - explicity demonstrate it in simple subsytems. 
+ - explicitly demonstrate it in simple subsytems. 
  - Show that the laws (theory) predict the outcome
  - Then assume that the theory applies to more complicated systems
 
 Seems like you have to prove that a theory is deterministic and then claim that the theory applies to the world.
 
 
-   - determism is the statement that initial conditions predict all future behaviour
+   - determinism is the statement that initial conditions predict all future behaviour
 
 
-#determinism #Physics #Emergence
+[[determinism]] 
+[[Physics]]
+[[Emergence]]

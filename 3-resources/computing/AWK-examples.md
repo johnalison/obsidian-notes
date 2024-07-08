@@ -1,4 +1,5 @@
-[[AWK]]
+[[AWK]]. [[computing]]
+
 # Grep
 cat log_runAddFvTToScratchOneOffset|awk '/Aver/'
 awk '/rchi2/ || /Training/ || /Vali/ {print $0}' ZZ4b/nTupleAnalysis/pytorchModels/3bDvTMix4bDvT.v0.nf12FvT_HCR+attention_12_np2076_lr0.01_epochs20_offset0.log 

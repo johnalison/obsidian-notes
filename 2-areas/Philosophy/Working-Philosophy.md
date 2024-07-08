@@ -1,6 +1,4 @@
-# Core Tenents of Working Philosophy
-
-1) Moral duty to become more rational. 
+1) Moral duty to become more rational. [[Rationality]]
 2) You are what you think, but with practice, you can change what you think
 3) Strict with yourself, Lenient with others (Extreme Ownership)
 4) Don't Lie! (Evil only possible through lies) 
@@ -13,4 +11,4 @@
 11) Do not let your happiness (well-being) depend on things you cannot control
 
 
-Tags: #PersonalPhilosphoy
+
