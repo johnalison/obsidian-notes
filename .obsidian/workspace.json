@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-areas/Reading/21LessonsForThe21stCentury.md",
+                "file": "2-areas/Reading/AlwasyWithHonor.md",
                 "mode": "source",
                 "source": false
               }
@@ -40,7 +40,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,6 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2-areas/Reading/AlwasyWithHonor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2-areas/Reading/AlwasyWithHonor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +145,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2-areas/Reading/AlwasyWithHonor.md"
+              }
             }
           }
         ],
@@ -163,15 +167,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f3053f0c3dcac766",
+  "active": "14811df6a230cc49",
   "lastOpenFiles": [
     "2-areas/Reading/21LessonsForThe21stCentury.md",
-    "2-areas/Reading/WavesInImpossibleSea.md",
+    "0-inbox/NowIsDifferent.md",
+    "2-areas/Reading/DeepWork.md",
+    "2-areas/Reading/ZenAndMotorcycleMaintenance.md.bkg",
+    "2-areas/Reading/WritingGNUEmacsExtensions.md.bkg",
+    "2-areas/Reading/WhyBuddhismIsTrue.md.bkg",
+    "2-areas/Reading/WhoOwnsTheFuture.md.bkg",
+    "2-areas/Reading/WhatsOurProblem.md.bkg",
+    "2-areas/Reading/WavesInImpossibleSea.md.bkg",
+    "2-areas/Reading/WakingUp.md.bkg",
+    "2-areas/Reading/WakeUpNow.md.bkg",
+    "2-areas/Reading/Viral.md.bkg",
+    "2-areas/Reading/Titan.md.bkg",
+    "2-areas/Reading/ThinkingAboutMath.md",
     "0-inbox/Books.md",
+    "2-areas/Reading/WavesInImpossibleSea.md",
     "0-inbox/chaos-determinism-and-real-numbers.md",
     "2-areas/Reading/FooledByRandomness.md",
     "0-inbox/[.md",
-    "0-inbox/#Books.md#",
     "2-areas/Reading/12RuleForLife.md",
     "2-areas/Reading/Antifragile.md",
     "0-inbox/Problem with market cap.md",
@@ -188,20 +204,8 @@
     "2-areas/Reading/ThisIsWater.md",
     "2-areas/Reading/ThirdThoughts.md",
     "2-areas/Reading/ThinkingCourse.md",
-    "2-areas/Reading/ThinkingAboutMath.md",
     "2-areas/Reading/ThinkLikeAFreak.md",
-    "2-areas/Reading/TheWorldWithoutUs.md",
-    "2-areas/Reading/TheThirdChimpanzee.md",
-    "2-areas/Reading",
-    "2-areas/Physics",
     "Untitled.canvas",
-    "2-areas/Philosophy",
-    "3-resources/computing",
-    "3-resources/ROOT",
-    "3-resources/emacs",
-    "3-resources/MAC",
-    "2-areas/emacs",
-    "2-areas/CMS",
     "Pasted image 20240707142114.png"
   ]
 }

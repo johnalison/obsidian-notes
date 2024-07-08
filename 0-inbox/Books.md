@@ -6,345 +6,345 @@
 
 - Statistical Consequences of Fat Tails [[FatTails]] (Nassim Nicholas Taleb)
 
-- Introductory Nuclear Physics (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/IntroductoryNuclearPhysics) (Kenneth Krane)
+- Introductory Nuclear Physics [[IntroductoryNuclearPhysics]] (Kenneth Krane)
 
-- Outlive: The science and art of longevity (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/Outlive) (Peter Attia)
+- Outlive: The science and art of longevity [[Outlive]] (Peter Attia)
 
-- A Heart Breaking Work of Staggering Genius (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/StaggeringGenius) (Dave Eggers)
+- A Heart Breaking Work of Staggering Genius [[StaggeringGenius]] (Dave Eggers)
 
-- I Never Met a Story I Didnt Like (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/StoryIDidntLike) (Todd Snider)
+- I Never Met a Story I Didnt Like [[StoryIDidntLike]] (Todd Snider)
 
-- History of God (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/HistoryOfGod) (Karen Armstrong)
+- History of God [[HistoryOfGod]] (Karen Armstrong)
 
-- How to Know an Person (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/HowToKnowAPerson) (David Brooks)
+- How to Know an Person [[HowToKnowAPerson]] (David Brooks)
 
-- Determined (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/Determined) (Robert Sapolsky)
+- Determined [[Determined]] (Robert Sapolsky)
 
-- Data Reduction and Error Analysis (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/DataReductionAndErrorAnalysis) (Bevington and Robinson)
+- Data Reduction and Error Analysis [[DataReductionAndErrorAnalysis]] (Bevington and Robinson)
 
-- Science and Cooking (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/ScienceAndCooking) (Brenner, Sorensen, and Weitz)
+- Science and Cooking [[ScienceAndCooking]] (Brenner, Sorensen, and Weitz)
 
-- Quantum Field Theory and the Standard Model (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/QFTAndTheSM) (Matt Schwartz)
+- Quantum Field Theory and the Standard Model [[QFTAndTheSM]] (Matt Schwartz)
 
-- Techinques for Nuclear and Particle Physics Experiments (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/TechniquesNukeAndParticleExperiments) (W. R. Leo)
+- Techinques for Nuclear and Particle Physics Experiments [[TechniquesNukeAndParticleExperiments]] (W. R. Leo)
 
-- Conscious (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/Conscious) (Annaka Harris)
+- Conscious [[Conscious]] (Annaka Harris)
 
-- Experiments in Modern Physics (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/ExperimentsInModernPhysics) (Melissinos and Napolitano)
+- Experiments in Modern Physics [[ExperimentsInModernPhysics]] (Melissinos and Napolitano)
 
-- The Book of Charlie (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/BookOfCharlie) (David von Drehle)
+- The Book of Charlie [[BookOfCharlie]] (David von Drehle)
 
-- Python Tutorial (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/PythonTutorial) (docs.python.org)
+- Python Tutorial [[PythonTutorial]] (docs.python.org)
 
 # 2023
 
-- John Stuart Mill Autobiography (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/JohnStuartMill) (John Stuart Mill)
+- John Stuart Mill Autobiography [[JohnStuartMill]] (John Stuart Mill)
 
-- The Stranger (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/TheStranger) (Albert Camus)
+- The Stranger [[TheStranger]] (Albert Camus)
 
-- Gratitude (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/Gratitude) (Oliver Sacks)
+- Gratitude [[Gratitude]] (Oliver Sacks)
 
-- This is Water (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/ThisIsWater) (David Foster Wallace)
+- This is Water [[ThisIsWater]] (David Foster Wallace)
 
-- The Second Kine of Impossible (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/SecondKindOfImpossible) (Paul Steinhardt)
+- The Second Kine of Impossible [[SecondKindOfImpossible]] (Paul Steinhardt)
 
-- GOAT: Who is the Greatest Economist of all Time and Why Does it Matter? (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/GOAT) (Tyler Cowen)
+- GOAT: Who is the Greatest Economist of all Time and Why Does it Matter? [[GOAT]] (Tyler Cowen)
 
-- The Hitchhiker's Guide to the Galaxy (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/HitchHikersGuideToGalaxy) (Douglas Adams)
+- The Hitchhiker's Guide to the Galaxy [[HitchHikersGuideToGalaxy]] (Douglas Adams)
 
-- Enchiridion (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/Enchiridion) (Epictetus)
+- Enchiridion [[Enchiridion]] (Epictetus)
 
-- The Master and His Emissary (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/MasterAndHisEmissary) (Iain McGilchrist)
+- The Master and His Emissary [[MasterAndHisEmissary]] (Iain McGilchrist)
 
-- The ONE Thing (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/TheONEThing) (Gary Keller)
+- The ONE Thing [[TheONEThing]] (Gary Keller)
 
-- Introduction to Linear Algebra (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/IntroToLinearAlgebra) (Gilbert Strang)
+- Introduction to Linear Algebra [[IntroToLinearAlgebra]] (Gilbert Strang)
 
-- 12 Rules for Life (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/12RuleForLife) (Jordan Peterson)
+- 12 Rules for Life [[12RuleForLife]] (Jordan Peterson)
 
-- Reframe Your Brain (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/ReframeYourBrain) (Scott Adams)
+- Reframe Your Brain [[ReframeYourBrain]] (Scott Adams)
 
-- Conquest of Happiness (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/ConquestOfHappiness) (Bertrand Russell)
+- Conquest of Happiness [[ConquestOfHappiness]] (Bertrand Russell)
 
-- A Matter of Degrees (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/AMatterOfDegrees) (Gino Segre)
+- A Matter of Degrees [[AMatterOfDegrees]] (Gino Segre)
 
-- More From Less (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/MoreFromLess) (Andrew McAfee)
+- More From Less [[MoreFromLess]] (Andrew McAfee)
 
-- Who Owns the Future? (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/WhoOwnsTheFuture) (Jaron Lanier)
+- Who Owns the Future? [[WhoOwnsTheFuture]] (Jaron Lanier)
 
-- How the Scots Invented the Modern World (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/HowTheScotsInventedTheModernWorld) (Arthur Herman)
+- How the Scots Invented the Modern World [[HowTheScotsInventedTheModernWorld]] (Arthur Herman)
 
-- The Third Chimpanzee (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/TheThirdChimpanzee) (Jared Diamond)
+- The Third Chimpanzee [[TheThirdChimpanzee]] (Jared Diamond)
 
-- Ten Arguments for Deleting Your Social Media Accounts (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/TenArgumentsDeleteSocialMedia) (Jaron Lanier)
+- Ten Arguments for Deleting Your Social Media Accounts [[TenArgumentsDeleteSocialMedia]] (Jaron Lanier)
 
-- ANSI Common Lisp (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/ANSICommonLisp) (Paul Graham)
+- ANSI Common Lisp [[ANSICommonLisp]] (Paul Graham)
 
-- Antifragile (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/Antifragile) (Nassim Taleb)
+- Antifragile [[Antifragile]] (Nassim Taleb)
 
-- The Storm Before the Storm (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/TheStormBeforeTheStorm) (Mike Duncan)
+- The Storm Before the Storm [[TheStormBeforeTheStorm]] (Mike Duncan)
 
-- God's Debris (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/GodsDebris) (Scott Adams)
+- God's Debris [[GodsDebris]] (Scott Adams)
 
-- Titan (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/Titan) (Ron Chernow)
+- Titan [[Titan]] (Ron Chernow)
 
-- The Emergent Multiverse (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/TheEmergentMultiverse) (David Wallace)
+- The Emergent Multiverse [[TheEmergentMultiverse]] (David Wallace)
 
-- Hackers and Painters (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/HackersAndPainters) (Paul Grahm)
+- Hackers and Painters [[HackersAndPainters]] (Paul Grahm)
 
-- Fragile by Design (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/FragileByDesign) (Charles Calomiris and Stephen Haber)
+- Fragile by Design [[FragileByDesign]] (Charles Calomiris and Stephen Haber)
 
-- The Second Creation (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/TheSecondCreation) (Robert Crease and Charles Mann)
+- The Second Creation [[TheSecondCreation]] (Robert Crease and Charles Mann)
 
-- Whats our Problem (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/WhatsOurProblem) (Tim Urban)
+- Whats our Problem [[WhatsOurProblem]] (Tim Urban)
 
-- Effective Python (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/EffectivePython) (Brett Slatkin)
+- Effective Python [[EffectivePython]] (Brett Slatkin)
 
-- Inward Bound (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/InwardBound) (Abraham Pais)
+- Inward Bound [[InwardBound]] (Abraham Pais)
 
-- Energy and Civilization (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/EnergyAndCivilization) (Vaclav Smil)
+- Energy and Civilization [[EnergyAndCivilization]] (Vaclav Smil)
 
-- The Discovery of Subatomic Partilces (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/DiscoveryOfSubatomicParticles) (Steven Weinberg)
+- The Discovery of Subatomic Partilces [[DiscoveryOfSubatomicParticles]] (Steven Weinberg)
 
-- Subtle is the Lord (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/SubtleIsTheLord) (Abe Pais)
+- Subtle is the Lord [[SubtleIsTheLord]] (Abe Pais)
 
-- Special Relativity (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/SpecialRelativity) (A. P. French)
+- Special Relativity [[SpecialRelativity]] (A. P. French)
 
-- Secrets of Mental Math  (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/SecretsOfMentalMath) (Arthur Benjamin and Michael Shermer)
+- Secrets of Mental Math  [[SecretsOfMentalMath]] (Arthur Benjamin and Michael Shermer)
 
-- A Singularly Unfeminine Profession (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/ASingularlyUnfeminineProfession) (Mary k Gaillard)
+- A Singularly Unfeminine Profession [[ASingularlyUnfeminineProfession]] (Mary k Gaillard)
 
-- Spacetime Physics (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/SpacetimePhysics) (Taylor and Wheeler)
+- Spacetime Physics [[SpacetimePhysics]] (Taylor and Wheeler)
 
 # 2022
 
-- The Art of Graphic Design (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/TheArtOfGraphicDesign) (Bradbury Thompson)
+- The Art of Graphic Design [[TheArtOfGraphicDesign]] (Bradbury Thompson)
 
-- The Sparrow (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/TheSparrow) (Mary Doria Russell)
+- The Sparrow [[TheSparrow]] (Mary Doria Russell)
 
-- Proof of Stake (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/ProofOfStake) (Vitalik Buterin)
+- Proof of Stake [[ProofOfStake]] (Vitalik Buterin)
 
-- Something Deeply Hidden (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/SomethingDeeplyHidden) (Sean Carroll)
+- Something Deeply Hidden [[SomethingDeeplyHidden]] (Sean Carroll)
 
-- Life Ascending (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/LifeAscending) (Nick Lane)
+- Life Ascending [[LifeAscending]] (Nick Lane)
 
-- General Chemistry (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/GeneralChemistry) (Linus Pauling)
+- General Chemistry [[GeneralChemistry]] (Linus Pauling)
 
-- The Mind Illuminated (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/TheMindIlluminated) (Culadasa)
+- The Mind Illuminated [[TheMindIlluminated]] (Culadasa)
 
-- The Fabric of Reality (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/TheFabricOfReality) (David Deutsch)
+- The Fabric of Reality [[TheFabricOfReality]] (David Deutsch)
 
-- The World Without Us (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/TheWorldWithoutUs) (Alan Weisman)
+- The World Without Us [[TheWorldWithoutUs]] (Alan Weisman)
 
-- Waking Up (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/WakingUp) (Sam Harris)
+- Waking Up [[WakingUp]] (Sam Harris)
 
-- A Supposedly Fun Thing Ill Never Do Again (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/ASupposedlyFunThing) (David Foster Wallace)
+- A Supposedly Fun Thing Ill Never Do Again [[ASupposedlyFunThing]] (David Foster Wallace)
 
-- Why Buddhism is True (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/WhyBuddhismIsTrue) (Robert Wright)
+- Why Buddhism is True [[WhyBuddhismIsTrue]] (Robert Wright)
 
-- The Character of Physical Law (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/CharacterOfPhysicalLaw) (Richard Feynman)
+- The Character of Physical Law [[CharacterOfPhysicalLaw]] (Richard Feynman)
 
-- Dreams of a Final Theory (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/DreamsOfAFinalTheory) (Steven Weinberg)
+- Dreams of a Final Theory [[DreamsOfAFinalTheory]] (Steven Weinberg)
 
-- Four Thousand Weeks (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/FourThousandWeeks) (Oliver Burkeman)
+- Four Thousand Weeks [[FourThousandWeeks]] (Oliver Burkeman)
 
-- Viral (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/Viral) (Alina Chan and Matt Ridley)
+- Viral [[Viral]] (Alina Chan and Matt Ridley)
 
-- QED: The strange theory of light and matter (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/QED) (Richard Feynman)
+- QED: The strange theory of light and matter [[QED]] (Richard Feynman)
 
-- The Meaning of it All (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/MeaningOfItAll) (Richard Feynman)
+- The Meaning of it All [[MeaningOfItAll]] (Richard Feynman)
 
-- Numbers Dont Lie (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/NumbersDontLie) (Vaclav Smil)
+- Numbers Dont Lie [[NumbersDontLie]] (Vaclav Smil)
 
-- Physics And Philosophy (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/PhysicsAndPhilosophy) (Werner Heisenberg)
+- Physics And Philosophy [[PhysicsAndPhilosophy]] (Werner Heisenberg)
 
-- The Ascent of Money (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/AscentOfMoney) (Niall Ferguson)
+- The Ascent of Money [[AscentOfMoney]] (Niall Ferguson)
 
-- The Beginning of Infinity (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/BeginningOfInfinity) (David Deutsch)
+- The Beginning of Infinity [[BeginningOfInfinity]] (David Deutsch)
 
-- Powers and Thrones (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/PowersAndThrones) (Dan Jones)
+- Powers and Thrones [[PowersAndThrones]] (Dan Jones)
 
-- How the World Really Works (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/HowTheWorldReallyWorks) (Vaclav Smil)
+- How the World Really Works [[HowTheWorldReallyWorks]] (Vaclav Smil)
 
-- The Elephant in the Brain (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/ElephantInBrain) (Kevin Simler adn Robin Hanson)
+- The Elephant in the Brain [[ElephantInBrain]] (Kevin Simler adn Robin Hanson)
 
-- Caesar and Christ (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/CaesarAndChrist) (Will Durant)
+- Caesar and Christ [[CaesarAndChrist]] (Will Durant)
 
-- Losing Ourselves (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/LosingOurselves) (Jay Garfield)
+- Losing Ourselves [[LosingOurselves]] (Jay Garfield)
 
-- The Bitcoin Standard (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/BitcoinStandard) (Saifedean Ammous)
+- The Bitcoin Standard [[BitcoinStandard]] (Saifedean Ammous)
 
-- Seeking Wisdom: From Darwin to Munger (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/SeekingWisdom) (Peter Bevelin)
+- Seeking Wisdom: From Darwin to Munger [[SeekingWisdom]] (Peter Bevelin)
 
-- Wake Up Now (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/WakeUpNow) (Stephan Bodian)
+- Wake Up Now [[WakeUpNow]] (Stephan Bodian)
 
-- The One Minute Manager (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/OneMinuteManager) (Ken Blanchard and Spencer Johnson)
+- The One Minute Manager [[OneMinuteManager]] (Ken Blanchard and Spencer Johnson)
 
-- Time Management For Teachers  (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/TimeManagementForTeachers) (Cathy collins)
+- Time Management For Teachers  [[TimeManagementForTeachers]] (Cathy collins)
 
-- The Physics of Wall Street  (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/PhysicsOfWallStreet) (James Weatherall)
+- The Physics of Wall Street  [[PhysicsOfWallStreet]] (James Weatherall)
 
-- Leadership Strategy and Tactics  (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/LeadershipStrategyTactics) (Jocko Willink)
+- Leadership Strategy and Tactics  [[LeadershipStrategyTactics]] (Jocko Willink)
 
-- The Life Of Greece (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/LifeOfGreece) (Will Durant)
+- The Life Of Greece [[LifeOfGreece]] (Will Durant)
 
-- Shift Into Freedom (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/ShiftIntoFreedom) (Lock Kelly)
+- Shift Into Freedom [[ShiftIntoFreedom]] (Lock Kelly)
 
-- Always with Honor (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/AlwasyWithHonor) (Pyotr Wrangel)
+- Always with Honor [[AlwasyWithHonor]] (Pyotr Wrangel)
 
-- Super Thinking (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/SuperThinking) (Weinberg and McCann)
+- Super Thinking [[SuperThinking]] (Weinberg and McCann)
 
-- The Ideas of Particle Physics (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/IdeasOfParticlePhysics) (Coughlan, Dodd, and Gripaios)
+- The Ideas of Particle Physics [[IdeasOfParticlePhysics]] (Coughlan, Dodd, and Gripaios)
 
-- Death Be Not Proud (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/DeathBeNotProud) (John Gunther)
+- Death Be Not Proud [[DeathBeNotProud]] (John Gunther)
 
-- The Intelligent Investor (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/IntelligentInvestor) (Ben Graham)
+- The Intelligent Investor [[IntelligentInvestor]] (Ben Graham)
 
-- First Principles (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/FirstPrinciples) (Thomas Ricks)
+- First Principles [[FirstPrinciples]] (Thomas Ricks)
 
-- Our Oriental Heritage (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/OurOrientalHeritage) (Will Durant)
+- Our Oriental Heritage [[OurOrientalHeritage]] (Will Durant)
 
-- The Family Firm (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/FamilyFirm) (Emily Oster)
+- The Family Firm [[FamilyFirm]] (Emily Oster)
 
-- Six Thinking Hats (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/SixThinkingHats) (Edward De Bono)
+- Six Thinking Hats [[SixThinkingHats]] (Edward De Bono)
 
-- The AWK Programming Language (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/AWK) (Aho, Kernighan, Weinberger)
+- The AWK Programming Language [[AWK]] (Aho, Kernighan, Weinberger)
 
-- Call Sign Chaos (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/CallSignChaos) (Jim Mattis)
+- Call Sign Chaos [[CallSignChaos]] (Jim Mattis)
 
 # 2021
 
-- Poor Charlies Almanack (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/PoorCharliesAlmanack) (Charlie Munger)
+- Poor Charlies Almanack [[PoorCharliesAlmanack]] (Charlie Munger)
 
-- New Kind of Science (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/NewKindOfScience) (Stephen Wolfram)
+- New Kind of Science [[NewKindOfScience]] (Stephen Wolfram)
 
-- Dawn of the New Everything (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/DawnOfNewEverything) (Jaron Lanier)
+- Dawn of the New Everything [[DawnOfNewEverything]] (Jaron Lanier)
 
-- Slack (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/Slack) (Tom DeMarco)
+- Slack [[Slack]] (Tom DeMarco)
 
-- Thinking Course (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/ThinkingCourse) (Edward de Bono)
+- Thinking Course [[ThinkingCourse]] (Edward de Bono)
 
-- A Concise History of Buddhism (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/ConciseHistoryBuddhism) (Andrew Skilton)
+- A Concise History of Buddhism [[ConciseHistoryBuddhism]] (Andrew Skilton)
 
-- Think Like a Freak (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/ThinkLikeAFreak) (Steven Levitt and Stephen Dubner)
+- Think Like a Freak [[ThinkLikeAFreak]] (Steven Levitt and Stephen Dubner)
 
-- Zen and the Art of Motorcycle Maintenance. (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/ZenAndMotorcycleMaintenance)  (Robert M. Pirsig)
+- Zen and the Art of Motorcycle Maintenance. [[ZenAndMotorcycleMaintenance]]  (Robert M. Pirsig)
 
-- AI: A modern approach. (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/AIModernApproach)  (Stuart Russell adn Peter Norvig)
+- AI: A modern approach. [[AIModernApproach]]  (Stuart Russell adn Peter Norvig)
 
-- The Ghost Map. (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/GhostMap)  (Steven Johnson)
+- The Ghost Map. [[GhostMap]]  (Steven Johnson)
 
-- Little Bets. (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/LittleBets)  (Peter Sims)
+- Little Bets. [[LittleBets]]  (Peter Sims)
 
-- Nudge (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/Nudge)  (Thaler and Sunstein)
+- Nudge [[Nudge]]  (Thaler and Sunstein)
 
-- You are not a Gadget. (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/NotAGadget)  (Jaron Lanier)
+- You are not a Gadget. [[NotAGadget]]  (Jaron Lanier)
 
-- Third Thoughts (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/ThirdThoughts)  (Steven Weinberg)
+- Third Thoughts [[ThirdThoughts]]  (Steven Weinberg)
 
-- Personal MBA (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/PersonalMBA)  (Josh Kaufman)
+- Personal MBA [[PersonalMBA]]  (Josh Kaufman)
 
-- The Magic of Math (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/MagicMath)  (Authur Benjamin)
+- The Magic of Math [[MagicMath]]  (Authur Benjamin)
 
-- How to Take Smart Notes (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/SmartNotes)  (Sonke Ahrens)
+- How to Take Smart Notes [[SmartNotes]]  (Sonke Ahrens)
 
-- How to win friends and influence people (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/HowToWinFriendsAndInfluencePeople) (Dale Carnegie)
+- How to win friends and influence people [[HowToWinFriendsAndInfluencePeople]] (Dale Carnegie)
 
-- The Foundations of Modern Physics (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/FoundationsModernPhysics) (Steven Weinberg)
+- The Foundations of Modern Physics [[FoundationsModernPhysics]] (Steven Weinberg)
 
-- The Red Queen (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/TheRedQueen) (Matt Ridley)
+- The Red Queen [[TheRedQueen]] (Matt Ridley)
 
-- Deep Work (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/DeepWork)  (Cal Newport)
+- Deep Work [[DeepWork]]  (Cal Newport)
 
-- Super-freakonomics (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/SuperFreakonomics)  (Stephen Dubner and Steven Levitt)
+- Super-freakonomics [[SuperFreakonomics]]  (Stephen Dubner and Steven Levitt)
 
-- Homo Deus (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/HomoDeus) (Yuval Noah Harari)
+- Homo Deus [[HomoDeus]] (Yuval Noah Harari)
 
-- A world without email (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/AWorldWithoutEmail) (Cal Newport)
+- A world without email [[AWorldWithoutEmail]] (Cal Newport)
 
-- 21 Lessons for the 21st Century (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/21LessonsForThe21stCentury) (Yuval Noah Harari)
+- 21 Lessons for the 21st Century [[21LessonsForThe21stCentury]] (Yuval Noah Harari)
 
-- Awaken the Giant Within (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/AwakenTheGiantWithin)  (Tony Robbins)
+- Awaken the Giant Within [[AwakenTheGiantWithin]]  (Tony Robbins)
 
--  Freakonomics (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/Freakonomics) (Stephen Dubner and Steven Levitt)
+-  Freakonomics [[Freakonomics]] (Stephen Dubner and Steven Levitt)
 
--   Influence (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/Influence) (Robert Caldini)
+-   Influence [[Influence]] (Robert Caldini)
 
--   Map and Territory (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/MapAndTerritory) (Eliezer Yudkowsky)
+-   Map and Territory [[MapAndTerritory]] (Eliezer Yudkowsky)
 
--   SCRUM (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/SCRUM) (Jeff Sutherland)
+-   SCRUM [[SCRUM]] (Jeff Sutherland)
 
-- Electronics (A systems approach) (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/ElectronicsASystemsApproach) (Neil Storey)
+- Electronics (A systems approach) [[ElectronicsASystemsApproach]] (Neil Storey)
 
--   Project Management for Dummies (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/ProjectManagementForDummies)  (Stanley Portny)
+-   Project Management for Dummies [[ProjectManagementForDummies]]  (Stanley Portny)
 
--  How to decide (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/HowToDecide) (Annie Duke)
+-  How to decide [[HowToDecide]] (Annie Duke)
 
--   Caffeine (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/Caffeine) (Michael Pollan)
+-   Caffeine [[Caffeine]] (Michael Pollan)
 
--   Sapiens (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/Sapiens) (Yuval Noah Harari)
+-   Sapiens [[Sapiens]] (Yuval Noah Harari)
 
--   The scientific revolution : Aspirations and Achievements (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/TheScientificRevolutionAspirationsAchievements) (James R. Jacob)
+-   The scientific revolution : Aspirations and Achievements [[TheScientificRevolutionAspirationsAchievements]] (James R. Jacob)
 
-- The Button (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/TheButton)  (William Perry and Tom Collina) 
+- The Button [[TheButton]]  (William Perry and Tom Collina) 
 
-- The Design of everyday things (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/TheDesignOfEverydayThings) (Don Norman)
+- The Design of everyday things [[TheDesignOfEverydayThings]] (Don Norman)
 
-- How emotions are made (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/HowEmotionsAreMade) (Lisa Barrett) 
+- How emotions are made [[HowEmotionsAreMade]] (Lisa Barrett) 
 
-- Writing GNU Emacs Extensions (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/WritingGNUEmacsExtensions) (Bob Glickstein)
+- Writing GNU Emacs Extensions [[WritingGNUEmacsExtensions]] (Bob Glickstein)
 
-- The Epicurus Reader (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/TheEpicurusReader)  (Epicurus)
+- The Epicurus Reader [[TheEpicurusReader]]  (Epicurus)
   
 # 2020
 
-- Thinking about Mathematics (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/ThinkingAboutMath) (Stewart Shapiro)
+- Thinking about Mathematics [[ThinkingAboutMath]] (Stewart Shapiro)
 
-- The Denial of Death (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/DenialOfDeath) (Earnest Becker)
+- The Denial of Death [[DenialOfDeath]] (Earnest Becker)
 
-- Mysticism and Logic (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/MysticismAndLogic) (Bertrand Russel)
+- Mysticism and Logic [[MysticismAndLogic]] (Bertrand Russel)
 
-- Beyond Good and Evil (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/BeyondGoodAndEvil)
+- Beyond Good and Evil [[BeyondGoodAndEvil]]
 
 -  How To Read and Why (Harold Bloom)
 
-- 40 Ways to view Churchill (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/40WaysToViewChurchill)
+- 40 Ways to view Churchill [[40WaysToViewChurchill]]
 
-- Bullet Journal Method (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/BulletJournalMethod)
+- Bullet Journal Method [[BulletJournalMethod]]
 
-- Fearless Symmetry (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/FearlessSymmetry)
+- Fearless Symmetry [[FearlessSymmetry]]
 
-- Poor Richards Almanac (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/PoorRichardsAlmanac) (Ben Franklin)
+- Poor Richards Almanac [[PoorRichardsAlmanac]] (Ben Franklin)
 
-- Blood Meridian (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/BloodMeridian) (Cormack McCarthy)
+- Blood Meridian [[BloodMeridian]] (Cormack McCarthy)
 
-- My Journey to the Nuclear Brink (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/JourneyNuclearBrink) (W. Perry)
+- My Journey to the Nuclear Brink [[JourneyNuclearBrink]] (W. Perry)
 
-- The Art of Worldly Wisdom (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/TheArtWorldlyWisdom) (Baltasar Gracian) 
+- The Art of Worldly Wisdom [[TheArtWorldlyWisdom]] (Baltasar Gracian) 
 
-- Crime and Punishment (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/CrimeAndPunishment)
+- Crime and Punishment [[CrimeAndPunishment]]
 
-- Hacking Darwin (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/HackingDarwin) (Metzl) 
+- Hacking Darwin [[HackingDarwin]] (Metzl) 
 
-- Extreme Ownership (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/ExtremeOwnership) (Jocko Wilnick) 
+- Extreme Ownership [[ExtremeOwnership]] (Jocko Wilnick) 
 
-- Ten Discoveries that Rewrote History (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/TenDiscoveriesRewroteHistory) (Patrick Hunt)
+- Ten Discoveries that Rewrote History [[TenDiscoveriesRewroteHistory]] (Patrick Hunt)
 
-- Breath: the new science of a lost art (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/Breath)
+- Breath: the new science of a lost art [[Breath]]
 
-- Every Love Story Is a Ghost Story (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/EveryLoveStoryIsGhostStory)  (David Foster Wallace Bio)
+- Every Love Story Is a Ghost Story [[EveryLoveStoryIsGhostStory]]  (David Foster Wallace Bio)
 
-- Fumble Rules (guide to grammar and usage) (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/FumbleRules)
+- Fumble Rules (guide to grammar and usage) [[FumbleRules]]
 
-- Stoic Test Challenge (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/StoicTestChallenge) (William Irvine)
+- Stoic Test Challenge [[StoicTestChallenge]] (William Irvine)
 
-- Breakfast of Champions (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/BreakfastOfChampions) (Kurt Vonnegut)
+- Breakfast of Champions [[BreakfastOfChampions]] (Kurt Vonnegut)
 
-- Rise and Fall of American Growth (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/RiseAndFallAmericanGrowth) (Robert Gordon)
+- Rise and Fall of American Growth [[RiseAndFallAmericanGrowth]] (Robert Gordon)
 
-- Fight Club (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/FightClub) (Cluck Palahniuk)
+- Fight Club [[FightClub]] (Cluck Palahniuk)
 
-- The Road to Reality (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/RoadToReality) (Roger Penrose)
+- The Road to Reality [[RoadToReality]] (Roger Penrose)
 
 
 -  Discipline equals freedom
@@ -413,15 +413,15 @@
 
 -  Envisioning Information (Edward R. Tufte)
 
-- The Sense of Style: The Thinking Person's Guide to Writing in the 21st Century] (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/SenseOfStyle) (Steven Pinker)
+- The Sense of Style: The Thinking Person's Guide to Writing in the 21st Century] [[SenseOfStyle]] (Steven Pinker)
 
 -  Perfectly Reasonable Deviations from the Beaten Track (Feynman)
 
-- The Black Hole War: My Battle with Stephen Hawking to Make the World Safe for Quantum Mechanics (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/BlackHoleWar)   (Susskind, Leonard)
+- The Black Hole War: My Battle with Stephen Hawking to Make the World Safe for Quantum Mechanics [[BlackHoleWar]]   (Susskind, Leonard)
 
 -  Mindfulness: A Practical Guide to Awakening  (Goldstein, Joseph)
 
-- Idea Makers: Personal Perspectives on the Lives & Ideas of Some Notable People (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/IdeaMakers) (Steven Wolfram)
+- Idea Makers: Personal Perspectives on the Lives & Ideas of Some Notable People [[IdeaMakers]] (Steven Wolfram)
 
 -  Theory and Reality: An Introduction to the Philosophy of Science (Godfrey-Smith, Peter)
 
@@ -429,7 +429,7 @@
 
 -  Letters to a Young Contrarian (Art of Mentoring)  (Hitchens, Christopher)
 
-- The Big Picture: On the Origins of Life, Meaning, and the Universe Itself (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/BigPicture) (Sean Carroll)
+- The Big Picture: On the Origins of Life, Meaning, and the Universe Itself [[BigPicture]] (Sean Carroll)
 
 -  The Death and Life of Great American Cities (Jacobs, Jane)
 
@@ -451,7 +451,7 @@
 
 -  Ethics for the Real World: Creating a Personal Code to Guide Decisions in Work and Life (Ron Howard)
 
-- Quantum Mechanics: The Theoretical Minimum (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/TheTheoreticalMinimumQM)  (Susskind)
+- Quantum Mechanics: The Theoretical Minimum [[TheTheoreticalMinimumQM]]  (Susskind)
 
 -  The Strange Death of Europe: Immigration, Identity, Islam  (Douglass Murray)
 
@@ -459,7 +459,7 @@
 
 -  Good Calories, Bad Calories: Fats, Carbs, and the Controversial Science of Diet and Health (Taubes)
 
-- The Blank Slate: The Modern Denial of Human Nature (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/BlankSlate) (Pinker)
+- The Blank Slate: The Modern Denial of Human Nature [[BlankSlate]] (Pinker)
 
 -  Elbow Room: The Varieties of Free Will Worth Wanting (Dennet)
 
