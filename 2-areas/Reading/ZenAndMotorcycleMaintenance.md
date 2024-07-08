@@ -39,7 +39,7 @@
 
 - To live only for some future goal is shallow. Its the sides of the mountain that sustains life, not the top.
 
-  #SystemsNotGoals
+  [[SystemsNotGoals]]
 
 - Metaphysics is good if it improves everyday life, otherwise forget it.
 

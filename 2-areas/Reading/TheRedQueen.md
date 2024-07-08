@@ -51,7 +51,7 @@
 
 - A Son is a high-risk, high-reward reproductive option compared with a daughter. A mother in good condition gives her offspring a good start in life, increasing the chances of her sons winning harems as they mature. A mother in poor condition is likely to produce a feeble son who will fail to reproduce at all. whereas daughters can join harems and reproduce even when not in top condition. So you should have sons if you have reason to think they will do well and daughters if you have reason to think they will do poorly.
 
-- The ancient belief that lying on the right side during sex would produce a boy was so influential that centuries later some French aristocrats had their left testicles amputated. (#UsedToBelieve)
+- The ancient belief that lying on the right side during sex would produce a boy was so influential that centuries later some French aristocrats had their left testicles amputated. ([[UsedToBelieve]])
 
 - The sex that invests more in rearing the young  is the sex that makes the least profit from extra mating. The sex that invests the least has time to spare to seek other mates.
 

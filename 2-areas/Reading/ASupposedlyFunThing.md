@@ -19,7 +19,7 @@
    Irony only has emergency use. Taken too far, it is the voice of the trapped who have come to enjoy their cage.
    Although entertaining, it serves almost an exclusively negative function, it is singularly un-useful in constructing anything to replace the hypocrisies it debunks. 
 
-   #UnpopularTruth
+   [[UnpopularTruth]]
 
 - "Assholes are just assholes. Whats getting hot and bothered about it going to do about it except keep me from getting to have fun?"
 

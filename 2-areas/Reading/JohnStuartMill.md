@@ -27,7 +27,7 @@
 - I was an interpreter of original thinkers, and a mediator between them and the public.
   I was much superior to my contemporaries in willingness and ability to learn from everybody, I found hardly any one who make a point of examining what was said in defense of all opinions, however new or old, in the conviction that even if they were errors there might be a substratum of truth underneath them.
 
-  #SeeTheGood
+  [[SeeTheGood]]
 
 - When anything was likely to be as well done, or sufficiently well done, by other people, there was no necessity for me to meddle with it.
   I reserved myself for work which no others were likely to do.

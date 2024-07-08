@@ -96,7 +96,7 @@
 
 - Another central premise of the Cartesian argument is manifestly false: that only substances can act or have properties. Such composite, non-substantial entities as corporations, committees, colleges, and nations have plenty of properties and perform plenty of actions.
 
-#UsedToBelieve
+[[UsedToBelieve]]
 
 - There is no reason not to believe that composite, non-substantial persons can have properties, such as thinking, as well.
 

@@ -45,11 +45,11 @@
 
 - The most unfortunate man is he who has not learned how to bear misfortune; men ought to order their lives as if they where fated to live both a long and short time; wisdom should be cherished as a means of traveling from youth to old age, for it is more lasting than any other possession  - Polycrates of Samos
 
-  #Advice #Stoicism
+  #Advice [[Stoicism]]
 
 - For men to get all they wish is not the best thing; it is disease that makes health pleasant; evil, good; hunger, surfeit; toil, rest.
 
-  #Stoicism
+  [[Stoicism]]
 
 - All in all, Pythagoras was the founder, so far as we know, of both science and philosophy in Europe.
 
@@ -93,13 +93,13 @@
 
 - Viewing a multitude of articles for sale in the market Socrates remarked "How many things there are that I do not want!"
 
-  #Stoicism
+  [[Stoicism]]
 
 - No common doctrine united Socrates followers; they differed so widely among themselves that they became the leaders of the most diverse philosophical schools and theories in Greece - Platonism, Cynicism, Stoicism, Epicureanism, Skepticism. 
 
 - I think that to want nothing is to resemble the gods, and that to want as little as possible is to make the nearest approach to the gods.
 
-  #Stoicism
+  [[Stoicism]]
 
 - The oracle at Delphi when asked how one should worship the gods,  answered, "According to the law of your country"
 

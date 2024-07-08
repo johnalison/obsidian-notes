@@ -2,9 +2,9 @@
 
 - The measurement of Avogadro's number was widely recognized in the late 19C as one off the great challenges facing physics. 
 
-- With thermodynamics one may derive powerful results of great generality without ever committing oneself to the existence off atoms or molecules. #StatMech
+- With thermodynamics one may derive powerful results of great generality without ever committing oneself to the existence off atoms or molecules. [[StatMech]]
 
-- Many of the consequences of macroscopic classical thermodynamics can be deduced from the existence of another thermodynamic variable, entropy. Like other thermodynamic variables it depends only on the state of the system, although its definition seems to indicate that it also depends on the way the system is prepared. The fact that entropy depends only on the thermodynamic state has far reaching consequences. #StatMech
+- Many of the consequences of macroscopic classical thermodynamics can be deduced from the existence of another thermodynamic variable, entropy. Like other thermodynamic variables it depends only on the state of the system, although its definition seems to indicate that it also depends on the way the system is prepared. The fact that entropy depends only on the thermodynamic state has far reaching consequences. [[StatMech]]
 
 - It is the introduction of the concept off probability into physics that creates an asymmetry between the past and future. #Probability
 
@@ -16,7 +16,7 @@
 
 - The atomic theory underlying these measurements of microscopic parameters and the values found gained much credit from the consistency of the results.
 
-- Ernst Mach: As late as 1916, shortly before his death, declared "I can accept the theory of relativity as little as I can accept the existence of atoms and other such dogmas". This goes to show that a scientist can maintain his own principles, bravely holding out against a wide consensus of the scientific establishment, and still be wrong. #UsedToBelieve
+- Ernst Mach: As late as 1916, shortly before his death, declared "I can accept the theory of relativity as little as I can accept the existence of atoms and other such dogmas". This goes to show that a scientist can maintain his own principles, bravely holding out against a wide consensus of the scientific establishment, and still be wrong. [[UsedToBelieve]]
 
 - Rutherford was lucky. He was calculating probabilities (for alpha particle recoil) using classical mechanics and got the right answer, even though at these velocities and separations QM would normally be needed. Scattering by inverse square law is special; it allows the use of classical mechanics in some circumstances where for any other force it would be necessary to use QM.
 

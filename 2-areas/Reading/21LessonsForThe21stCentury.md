@@ -113,7 +113,7 @@
 
 - While human rights movements have developed a very impressive arsenal of arguments and defenses against religious biases and human tyrants, the arsenal hardly protects us against consumerist excesses and technological utopias. #Religion
 
-- Secular science has at least one big advantage over most traditional religions -- namely that it is not afraid of its own shadow. #Science
+- Secular science has at least one big advantage over most traditional religions -- namely that it is not afraid of its own shadow. [[Science]]
 
 - Not only rationality, but individuality too is a myth. Humans rarely think for themselves. Rather we think in groups. [[WhoWeAre]]
 
@@ -125,17 +125,17 @@
 
 - When a thousand people believe some made-up story for one month, that's fake news. When a billion people believe it for a thousand years, that's a religion. For better or worse, fiction is one of the most effective tools in humanities tool kit. #Religion #Politics
 
-- The Roman Senate claimed to have the power to turn people into gods. #UsedToBelieve
+- The Roman Senate claimed to have the power to turn people into gods. [[UsedToBelieve]]
 
 - If you want to gauge group loyalty, requiring people to believe and absurdity is a far better test than asking them to believe the truth. #Politics
 
-- Truth and power can travel together only so far. If you want power, at some point you will have to spread fictions. If you want to know the truth about the world, at some point you will have to renounce power. You will have to admit things -- for example, about the sources of your own power -- that will anger allies, dishearten followers, or undermine social harmony. #Politics #Science
+- Truth and power can travel together only so far. If you want power, at some point you will have to spread fictions. If you want to know the truth about the world, at some point you will have to renounce power. You will have to admit things -- for example, about the sources of your own power -- that will anger allies, dishearten followers, or undermine social harmony. #Politics [[Science]]
 
 - As a species, humans prefer power to truth. We spend far more time and effort on trying to control the world than on trying to understand it. [[WhoWeAre]] #Politics
 
 - One of the great fictions of all is to deny the complexity of the world and think in absolute terms: pristine purity versus satanic evil #Politics #Religion 
 
-- We cannot investigate everything ourselves. But precisely because of that, we need to at least carefully investigate our favorite sources of information. If you want reliable information, pay good money for it. If you get your news for free, you might well be the product. #Science #Politics 
+- We cannot investigate everything ourselves. But precisely because of that, we need to at least carefully investigate our favorite sources of information. If you want reliable information, pay good money for it. If you get your news for free, you might well be the product. [[Science]] #Politics 
 
 - In the 21st century, science fiction might be the most important genre of all. 
 
@@ -145,7 +145,7 @@
 
 - Our old stories are crumbling, and no new story has so far emerged to replace them. [[NowIsDifferent]]
 
-- The last thing a teacher needs to give her pupils is more information. They already have far too much of it. Instead, people need the ability to make sense of information, to tell the difference between what is important and what is unimportant, and above all to combine many bits of information into a broad picture of the world. #ShouldTeachKids
+- The last thing a teacher needs to give her pupils is more information. They already have far too much of it. Instead, people need the ability to make sense of information, to tell the difference between what is important and what is unimportant, and above all to combine many bits of information into a broad picture of the world. [[ShouldTeachKids]]
 
 - For thousands of years philosophers and prophets have urged people to know themselves. This advice was never more urgent than in the 21st century, now we have serious competition. We are living in the era of hacking humans.  [[NowIsDifferent]] #AI
 

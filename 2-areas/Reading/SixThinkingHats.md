@@ -69,13 +69,13 @@
 
 - Here we try to see how it may be possible to put the idea into practice.
 
-- Need to develop "value sensitivity". Try being as sensitive to value as we are to danger.  #SeeTheGood
+- Need to develop "value sensitivity". Try being as sensitive to value as we are to danger.  [[SeeTheGood]]
 
-- Its a waste of time setting out to be creative if you are not going to recognize a good idea. #SeeTheGood
+- Its a waste of time setting out to be creative if you are not going to recognize a good idea. [[SeeTheGood]]
 
 - Its not just a matter of making a positive assessment of something that turns up. It is a deliberate search for the positive.
 
-- There may be powerful positive points that are not at all obvious at first sight. That is how entrepreneurs work. They see the value that those around them have not yet spotted. Value and benefit are by no means always obvious. #SeeTheGood #PeterTheil
+- There may be powerful positive points that are not at all obvious at first sight. That is how entrepreneurs work. They see the value that those around them have not yet spotted. Value and benefit are by no means always obvious. [[SeeTheGood]] #PeterTheil
 
 - Yellow hat thinkging Includes opportunity thinking, beyond problem solving. People are forced to solve problems but no one is ever forced to look for opportunities.  #Protocols
 
@@ -132,7 +132,7 @@
 
 - One of the weakest aspects of creativity is the "harvesting" of ideas.
 
-- Would be nice if everyone could see in an idea the brilliance and potential that is obvious to the originator. This is often not the case. Part of the create process is to shape the idea so that it better fits the need profile of those who are going to have to "buy" the idea. #AdjacentPossible #SeeTheGood #SeeTheGood
+- Would be nice if everyone could see in an idea the brilliance and potential that is obvious to the originator. This is often not the case. Part of the create process is to shape the idea so that it better fits the need profile of those who are going to have to "buy" the idea. #AdjacentPossible [[SeeTheGood]] [[SeeTheGood]]
      eg: Is there a way this idea can be seen as saving money ?
      	 How can this been seen as an extension of what we are currently doing ?
 
@@ -162,7 +162,7 @@
 
 - Western thinking prefers to give a conclusion first and then to bring in the facts to support the conclusion. 6 hats proposes an alternative "Map Making" thinking that first make the map and then chooses the route.
 
-  #UnpopularTruth
+  [[UnpopularTruth]]
 
 - In a normal business discussion you are not supposed to allow your emotions to come in; they come in anyway disguised as logic.
 

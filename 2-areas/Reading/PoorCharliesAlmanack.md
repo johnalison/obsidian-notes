@@ -26,7 +26,7 @@
 
 - The idea that it is hard to find good investments, so concentrate in a few, seems to me to be an obviously good idea. But 90% of the investment wold doesn't think this way.
 
-  #UnpopularTruth
+  [[UnpopularTruth]]
 
 - The ethos of not fooling yourself is one of the best you can possible have.  Its powerful because its so rare.
 

@@ -25,9 +25,9 @@
    Maslows core human drives: physiologic / safety / belonging / esteem and self-actualization. 
    ERG theory: people desire: existence/relatedness and growth (in this order)
 
-- Working on the right thing is more important that working hard. #SystemsNotGoals
+- Working on the right thing is more important that working hard. [[SystemsNotGoals]]
 
-- Having options or flexibility is an often overlooked/underrated form of value. #UnpopularTruth
+- Having options or flexibility is an often overlooked/underrated form of value. [[UnpopularTruth]]
 
 - The job of an entrepreneur is not to come up with ideas (that is the easy part) but to discover if an idea can work in reality.
 
@@ -44,7 +44,7 @@
 - Historically gift giving was how the powerful remained in power. [[History]]
 
 - Most people resist creating systems to improve their work/life because it feels like extra work.  When done right it can vastly decrease your amount of work.
-  If you are feeling overloaded the best thing to do is take the time to setup a more effective system. #Rationality #SystemsNotGoals
+  If you are feeling overloaded the best thing to do is take the time to setup a more effective system. #Rationality [[SystemsNotGoals]]
 
 - Amortization attributing a small piece of the expense of a large upfront investment across many small sales.
               or spreading the cost of a resource investment over the estimated life of the investment.
@@ -57,7 +57,7 @@
 
 - Humans are optimized to perceive contrast not to compare what we see with what could be there but is not. We base our decisions on information in the surrounding environment. #MentalModels
 
-- The way to love anything is to realize it may be lost. #Stoicism
+- The way to love anything is to realize it may be lost. [[Stoicism]]
 
 - "You've got to think about the big things while you;re doing the small things so that all the small things go in the right direction" -- Alvin Toffler
 

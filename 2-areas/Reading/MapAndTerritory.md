@@ -12,13 +12,13 @@
 
 - That which can be destroyed by the truth should be, that which the truth nourishes should thrive. #Rationality
 
-- Science: reflective reasoning about a more reliable process for making the content of your mind mirror the content of the world. #Science
+- Science: reflective reasoning about a more reliable process for making the content of your mind mirror the content of the world. [[Science]]
 
-- Science: an understandable process that correlates human brains with reality. #Science #Rationality [[WhoWeAre]] #Science
+- Science: an understandable process that correlates human brains with reality. [[Science]] #Rationality [[WhoWeAre]] [[Science]]
 
 - Human Brain: flawed lens that can understand its own flaws and apply high-order corrections. This (when practiced) make the lens far more powerful. #Rationality [[WhoWeAre]]
 
-- To anticipate sensory experiences as precisely as possible we must possess beliefs that are not anticipations of sensory experience. #Science #AI
+- To anticipate sensory experiences as precisely as possible we must possess beliefs that are not anticipations of sensory experience. [[Science]] #AI
 
 - Modern concept of religion as purely ethical derives from every other areas having been taken over by better institutions. Ethics is whats left.
    Or rather, people think that ethics is left.

@@ -2,9 +2,9 @@
 
 - Average overall. Learned something, but much of it was at too low of a level.
 
-- Only two things determine how your life turns out; luck and the quality of your decisions (You only have control over one of these) #Stoicism
+- Only two things determine how your life turns out; luck and the quality of your decisions (You only have control over one of these) [[Stoicism]]
 
-- Unlikely to have a class on decision making until college or beyond. #ShouldTeachKids
+- Unlikely to have a class on decision making until college or beyond. [[ShouldTeachKids]]
 
 - We dont even have a common language for talking about decision making.
 

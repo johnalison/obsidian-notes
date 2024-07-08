@@ -29,7 +29,7 @@
 
 - Too much excitement not only undermines health, but dulls the palate for every kind of pleasure, substituting titillations for profound organic satisfactions, cleverness for wisdom, and jagged surprises for beauty.  Too little excitement may produce morbid cravings; too much will produce exhausting. A certain power of enduring boredom is essential to a happy life, and is one of the things that ought to be taught to the young. 
 
-  #ShouldTeachKids
+  [[ShouldTeachKids]]
 
 - A child develops best when, like a young plant, he is left undisturbed in the same soil.
 

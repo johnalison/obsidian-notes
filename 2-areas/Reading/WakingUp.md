@@ -16,14 +16,14 @@
 
 - There is more to understanding the human condition than science and secular culture generally admit.
 
-  #UnpopularTruth
+  [[UnpopularTruth]]
 
 - Some well-established truths about the human mind:
   - our conventional sense of self is an illusion
   - positive illusions (compassion and patience) are teachable skills
   - the way we think directly influences our experiences of the world
 
-  #UnpopularTruth #ShouldTeachKids
+  [[UnpopularTruth]] [[ShouldTeachKids]]
 
 - The sense of being perched somewhere behind your eyes looking out at the world can be altered or entirely extinguished.
 

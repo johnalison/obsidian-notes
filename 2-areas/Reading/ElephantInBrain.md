@@ -4,7 +4,7 @@
 
 - Our basic thesis -- that we are strategically blind to key aspects of our motives -- has been around in some form or another for millennia. Any yet this thesis still seems to us neglected in scholarly writings; you can read a mountain of books and still miss it.
 
-#UnpopularTruth  [[WhoWeAre]]  #KnowReality
+[[UnpopularTruth]]  [[WhoWeAre]]  #KnowReality
 
 - "Elephant in the Brain" - An important but unacknowledged feature of how our minds work; an introspective taboo.
 
@@ -16,11 +16,11 @@
 
 - Human beings are a species that not only capable of acting on hidden motives, were designed to do it. Our brains are built to act in our self-interest while at the same time trying hard not to appear selfish in front of other people. And in order to throw them off the trail, our brain keep "us", our conscious minds, in the dark. The less we know of our own ugly motives, the easier it is to hide them from others. Self-deception is strategic, a ploy our brain's use to look good while behaving badly.  The human brain was designed to deceive itself, the better to deceive others.
 
-[[WhoWeAre]] #KnowReality  #UnpopularTruth
+[[WhoWeAre]] #KnowReality  [[UnpopularTruth]]
 
 - Aim of the book: not just to catalog the many ways human behave unwittingly, but also to suggest that many of our most venerated institutions -- charities, corporations, hospitals, universities -- serve covert agendas alongside their official ones. We must take these covert agendas into account when thinking about these institutions, or risk radically misunderstanding them.
 
-#UnpopularTruth  #KnowReality
+[[UnpopularTruth]]  #KnowReality
 
 - Human species are strategically self-deceived, not only as individuals, but also as a society.
 
@@ -64,7 +64,7 @@
 
 - Ignorance is most useful when it is most public. It needs to be advertised and made conspicuous.
 
-#UnpopularTruth
+[[UnpopularTruth]]
 
 - Whats the value of self-deception over a simple, deliberate lie? Our minds aren't as private as we like to imagine.
 
@@ -72,7 +72,7 @@
 
 - The truth is a poor litmus test of loyalty.
 
-#UnpopularTruth
+[[UnpopularTruth]]
 
 - Usually we dont have to bear the full brunt of our own deception.  Typically, at least part of our brain continues to know the truth. Our saving grace is inconsistency.
 
@@ -110,7 +110,7 @@
 
 - Children will spend thousands of hours practicing the skills of verbal communication. However they will receive not a single hour of instruction on how to communicate with body language.
 
-#ShouldTeachKids
+[[ShouldTeachKids]]
 
 - Most of the nonverbal signaling and reading of signal is automatic and performed outside our conscious awareness and control.
   - In many ways we seem to prefer it this way; we feel it is appropriate for people to act spontaneously
@@ -125,7 +125,7 @@
 
 - The magic of nonverbal communication is that it allows us to pursue illicit agendas, even ones that require coordinating with other people, while minimizing the risk of being attacked, accused, gossiped about, and censured for norm violations. This is one of the reasons we're strategically unaware of our own body language, and its helps explain why we're reluctant to teach it to children.
 
-#ShouldTeachKids #KnowReality [[WhoWeAre]]
+[[ShouldTeachKids]] #KnowReality [[WhoWeAre]]
 
 - Laughter is an involuntary social behavior.
   - Speakers laugh more than listeners
@@ -155,23 +155,23 @@
 
 - In Europe, when most people worked outdoors, suntanned skin was disdained as the mark of a low-status laborer. Light skin was prized as a mark of wealth. Later, when jobs migrated to factories and offices, lighter skin became common and vulgar, and only the wealthy could afford to lay around soaking in the sun.
 
-#UsedToBelieve
+[[UsedToBelieve]]
 
 - Prior to the Industrial Revolution, when most items were made by hand, consumers unequivocally valued technical perfection in their art objects. Painting and sculptures, for example, were prized for their realism. Then, starting in the mid-18C, the IR ushered in a new suite of manufacturing techniques. No longer was intrinsic perfection prized for its own sake.
 
-#UsedToBelieve
+[[UsedToBelieve]]
 
 - The advent of photography wreaked similar havoc on the realist aesthetic in painting. Painters could no longer hope to impress viewers by depicting scenes as accurately as possible, as they had strived to do for millennia. In response, painters invented new genres based on new, non-representational aesthetics.
 
 - All the hard work at Harvard is done by the admissions officers who anoint an already-proven hyper-competitive elite.  If that weren't true - if superior instruction could explain the value of college -- then why not franchise the Ivy League.
 
-#UnpopularTruth
+[[UnpopularTruth]]
 
 - Prussian schools were designed to create patriotic citizens for war. And in the mid 1800s American educators and lawmakers explicitly set out to emulate the Prussian system.
 
 - Schooling (which lasts well over a decade) serves as a systematic exercise in human domestication.
 
-#UnpopularTruth
+[[UnpopularTruth]]
 
 - The biggest prediction of the conspicuous caring hypothesis is that we'll end up consuming too much medicine.
 
@@ -181,7 +181,7 @@
 
 - More people die from medical mistakes each year than from highway accidents, breast cancer or AIDS and yet physicians still resist and the public does not demand even simple reforms.
 
-#UnpopularTruth
+[[UnpopularTruth]]
 
 - Few people want to be the nag telling us to change our diets, sleep and exercise more, and fix the air quality in our big cities -- even though these nagging interventions promise much larger (and more cost-effective) health improvements.
 
@@ -189,17 +189,17 @@
 
 - The evidence suggests that we are less interested in "health at any cost" and more interested in treatments that third parties will appreciate.
 
-#UnpopularTruth
+[[UnpopularTruth]]
 
 - We dont worship simply because we believe. We worship (and believe) because it helps us as social creatures.
 
-#UnpopularTruth
+[[UnpopularTruth]]
 
 - Personal sacrifices are a way of "paying ones dues" to a social group.
 
 - Religions can be understood, in part, as community-enforced mating strategies
 
-#Religion #UnpopularTruth
+#Religion [[UnpopularTruth]]
 
 - people acting in synchrony with others cooperated more in subsequent group economic exercises, even in situations requiring personal sacrifice.
 
@@ -207,7 +207,7 @@
 
 - The value of holding certain beliefs comes not from acting on them, but from convincing others that you believe them. This is especially true of religious beliefs. They aren't particularly useful or practical for individuals in isolation, and yet we experience large social rewards for adopting them and/or punishment for not adopting them. Whether you accept it can make the difference between the warm embrace of fellowship and the cold shoulder of ostracism.
 
-#Religion #UnpopularTruth [[WhoWeAre]]
+#Religion [[UnpopularTruth]] [[WhoWeAre]]
 
 - hill-climbing:  we might model the landscape of a religious community as a volcano. hill-climbing accidents aren't at all unique to religious landscapes. In dietary landscapes we seek tasty fats and sugars, which were almost always "up". In military landscapes, we learn to show bravery, earning ever more respect from our comrades -- right until we take a bullet. Drug addicts.
 
@@ -215,7 +215,7 @@
 
 - Voting costs time and effort and yet the personal benefits are infinitesimal. In terms of outcomes and probabilities, you'd be better off buying a lottery ticket.
 
-#UnpopularTruth
+[[UnpopularTruth]]
 
 - 1-in-60 million is the average US voter chance of swigging an election. Individual voters, are necessarily average, There can be up to a 1000 fold difference depending on where you live.
 
@@ -230,7 +230,7 @@
 
 - Our hypothesis is that the political behavior of ordinary, individual citizens is often better explained as an attempt to signal loyalty to "our side"
 
-#UnpopularTruth
+[[UnpopularTruth]]
 
 - When your doing politics as a performance, like and apparatchik, you dont care about outcomes as much as you care about the appearance of loyalty.
 

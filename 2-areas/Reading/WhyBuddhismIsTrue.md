@@ -10,7 +10,7 @@
   Our brains are designed to get our genes into the next generation, not to give us a true view of reality.
   We are, metaphorically speaking, living in the Matrix.
 
-  #AreWhatYouThink  #Consciousness #KnowReality #SimulationHypothesis [[WhoWeAre]]
+  #AreWhatYouThink  #Consciousness #KnowReality [[SimulationHypothesis]] [[WhoWeAre]]
 
 - One of the Buddha's main insights was that the pleasures we seek evaporate quickly, and we spend our time looking to gratify the next thing.
 
@@ -39,7 +39,7 @@
 
 - the cost of survival of the linage may be a lifetime of discomfort
 
-  #UnpopularTruth
+  [[UnpopularTruth]]
 
 - As you get better at focusing on your breath you suppress activity of the default mode network.
 

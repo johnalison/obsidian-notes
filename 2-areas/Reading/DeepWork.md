@@ -20,7 +20,7 @@
 
 - DW more valuable than ever before, yet not promoted by individuals or organizations. (#Paradox)
 
-- Skillful management of attention is the key to improving virtually every aspect of your experience. (#Buddhism) (#SystemsNotGoals)
+- Skillful management of attention is the key to improving virtually every aspect of your experience. (#Buddhism) ([[SystemsNotGoals]])
 
 - "Who you are, what you think, feel and do, what you love - is the sum of what you focus on"
 

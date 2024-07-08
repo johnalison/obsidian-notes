@@ -74,7 +74,7 @@
 
 - The folly of Keynes condemning gold as money because its mining is wasteful is that it is the **_least_** wasteful of all potential metals to use as money. The folly is doubly compounded by Keynes' "solution" to this shortcoming being to propose a fiat monetary standard which has ended up dedicating far more human time, labor and resources toward the management of the issuance of the money supply and the profiting from it.
 
-  #UnpopularTruth
+  [[UnpopularTruth]]
 
 - Moneys marginal utility declines far slower than any other good, because it declines along with the utility of wanting any good, not one particular good.
 

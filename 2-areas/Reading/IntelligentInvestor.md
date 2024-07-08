@@ -80,7 +80,7 @@
 
 - "Put all your eggs into one basket and then watch the basket" - Andrew Carnegie "Do not scatter your shot... The great successes of life are make by concentration"
 
-  #Advice  #UnpopularTruth
+  #Advice  [[UnpopularTruth]]
 
 - It is easy to tell you not to speculate, the hard thing will be for you to follow this advice
 
@@ -97,7 +97,7 @@
 
 - The happiness of those who want to be popular depends on others; the happiness of those who seek pleasure fluctuates with moods outside their control; but the happiness of the wise grows out of their own free acts. - Marcus Aurelius
 
-#Stoicism #Happiness
+[[Stoicism]] #Happiness
 
 - Most of the time the market is mostly accurate in pricing most stocks. But sometimes, the price is not right, it is very wrong indeed.
 

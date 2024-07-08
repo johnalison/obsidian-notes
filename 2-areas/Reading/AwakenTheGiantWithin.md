@@ -34,7 +34,7 @@
 
 - Emotion is created by motion.
 
-- The real key to life is being able to make yourself feel good when you dont feel good, or dont want to. You can do this instantly by using your body to change state. #SystemsNotGoals
+- The real key to life is being able to make yourself feel good when you dont feel good, or dont want to. You can do this instantly by using your body to change state. [[SystemsNotGoals]]
 
 - Q: What am I happy about now? What could I be happy about if I wanted to be? #Questions
 
@@ -52,14 +52,14 @@
 
 - Cultivate the appreciation for all emotions #RespondDontReact
 
-- The direction were heading in is more important that individual results. #SystemsNotGoals
+- The direction were heading in is more important that individual results. [[SystemsNotGoals]]
 
 - Only way for long-term happiness is to live by our highest ideals. #Happiness
 
-- Any difficulty in decision making ultimately comes from being unclear in our values. #SystemsNotGoals #Reliability
+- Any difficulty in decision making ultimately comes from being unclear in our values. [[SystemsNotGoals]] #Reliability
 
 - Be more concerned about your character than your reputation. Character is what you really are, reputation is what others think you are #Reliability
 
-- Only way to master your time is to organize your schedule each day to spend the majority of it doing things that are important. #SystemsNotGoals 
+- Only way to master your time is to organize your schedule each day to spend the majority of it doing things that are important. [[SystemsNotGoals]] 
 
 - Strive for balance, not perfection. #PerfectionNotRequired

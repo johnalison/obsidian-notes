@@ -10,7 +10,7 @@
 
 - The more efficient you get the harder it is to change.
 
- #UnpopularTruth
+ [[UnpopularTruth]]
 
 - Reduced stress and the reintroduction of an essential bit of slack is the best recipe for:
    - Increased organizational agility
@@ -22,7 +22,7 @@
 
 - Paradox of managing knowledge workers: In order to keep control you have to give it up. You have to use your authority sparingly that no one notices that its being used. Create a real sense that control is not completely centralized in your hands, but spread generously over the whole of the organization. Slack that you cut knowledge workers is control slack.
 
- #Leadership #UnpopularTruth #ExtremeOwnership
+ #Leadership [[UnpopularTruth]] #ExtremeOwnership
 
 - Slack is the way you invest in change. It represents operational capacity sacrificed in the interests of long-term health.
 

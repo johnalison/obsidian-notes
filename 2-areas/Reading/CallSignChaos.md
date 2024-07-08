@@ -53,4 +53,4 @@
 
 - Nothing compensates for lack of trust.  Yet, its not enough to trust your people; you must be able to convey that trust in a manner that subordinates can sense. #Leadership
 
-- B/c maverick thinkers are so important to an organization's adaptability, high-ranking leaders need to be assigned the job guiding and even protecting them, much as one would do for any endangered species. #UnpopularTruth  #Leadership
+- B/c maverick thinkers are so important to an organization's adaptability, high-ranking leaders need to be assigned the job guiding and even protecting them, much as one would do for any endangered species. [[UnpopularTruth]]  #Leadership

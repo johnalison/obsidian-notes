@@ -4,7 +4,7 @@
 
 - Was not until the 18C that the brain was thought to be the seat of consciousness. Before then, other candidates included the heart and spleen.
 
-  #UsedToBelieve
+  [[UsedToBelieve]]
 
 - BF Skinner "Verbal Behavior" (Curiously a review of the book became as famous as the book itself and killed off behaviorism)
 

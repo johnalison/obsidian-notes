@@ -5,11 +5,11 @@
 - p13; Trick to squaring numbers in your head:  N^2 = (N-a)(N+a) + a^2.  Choose a such that the numbers (N-a) and (N+a) are easy to multiply, then add a^2; #MentalModels 
      eg: 41^2 = 40*42 + 1 = 1680 + 1 = 1681
 
-- p14; The "right" way to multiply numbers is left-to-right.  Focus earlier on the part the matters, can calculate then "forget" for the sub-leading digits. #MentalModels  #ShouldTeachKids
+- p14; The "right" way to multiply numbers is left-to-right.  Focus earlier on the part the matters, can calculate then "forget" for the sub-leading digits. #MentalModels  [[ShouldTeachKids]]
 
 - p15: School spend much time on teaching calculation with pen and paper and almost no time on performing calculation in our heads. However in real life, doing them in your head is much more important.
     	 Techniques taught in school for pen-and-paper calculation are sub-optimal for calculations in your head.
-	 #ShouldTeachKids
+	 [[ShouldTeachKids]]
 
 - Mental Addition; "left to right"
 
@@ -22,7 +22,7 @@
 	 if the sum is bigger than 10, then use the last digit and carry.
 	 eg: 48 x 11 = 528
 
-- p20: Order magnitude estimates are another important and simple tool that is not taught in school. Too much time is spent on calculating the answer and too little time on thinking about the important aspects of the problem. Its always more important to know the approximate size, rather than the last (or even the first digits). #ShouldTeachKids
+- p20: Order magnitude estimates are another important and simple tool that is not taught in school. Too much time is spent on calculating the answer and too little time on thinking about the important aspects of the problem. Its always more important to know the approximate size, rather than the last (or even the first digits). [[ShouldTeachKids]]
   - JA: easy if first convert to scientific notation
 
 - p21: When multiplying an N digit number by an M digit number the answer will either have N+M or N+M-1 digits.

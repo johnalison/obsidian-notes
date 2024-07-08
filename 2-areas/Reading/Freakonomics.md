@@ -25,7 +25,7 @@
 
 - Noticing where the conventional wisdom may be false - noticing perhaps the contrails of sloppy of self-interested thinking - is a nice place to start asking questions.
 
-- Romanian communist party rounded up women in their workplaces to administer pregnancy tests. If a women repeatedly failed to conceive she was forced to pay a "celibacy tax"  #UsedToBelieve
+- Romanian communist party rounded up women in their workplaces to administer pregnancy tests. If a women repeatedly failed to conceive she was forced to pay a "celibacy tax"  [[UsedToBelieve]]
   Of all communist leaders deposed in the years around the Soviet collapse, only the Romanian lead met a violent death. (Claim: the unwanted children grew up to be violent)
 
 - To discover that abortion was one of the greatest crime-lowering factors in American history is jarring.

@@ -10,7 +10,7 @@
 
 - The prescription is easy: "Just decarbonize" switch from burning fossil fuels to converting inexhaustible flows of renewable energies. The real wrench in the works: we are a fossil-fueled civilization whose technical and scientific advances, quality of life, and prosperity rest on the combustion of huge quantities of fossil carbon, and we cannot simply walk away from this critical determinant of our fortunes in a few decades, never mind years.
 
-#UnpopularTruth
+[[UnpopularTruth]]
 
 - This book is an attempt to explain some of the most fundamental ruling realities governing our survival and our prosperity.
 
@@ -42,7 +42,7 @@
 
 - The economic system is essentially a system for extracting, processing and transforming energy as resources into energy embodied in products and services. Energy is the only truly universal currency, and nothing can take place without its transformations. Its hard to understand why modern economics has largely ignored energy. Understanding how the world really works cannot be done without energy literacy.
 
-#UnpopularTruth
+[[UnpopularTruth]]
 
 - Synthesis of ammonia needed to produce nitrogenous fertilizers depends heavily on natural gas as the source of hydrogen.
 
@@ -71,7 +71,7 @@
 
 - Even with an abundant and reliable renewable electricity supply, we would still have to develop large-scale processes to produce steel, ammonia, cement and plastics.
 
-#UnpopularTruth
+[[UnpopularTruth]]
 
 - Both the high relative share and the scale of our dependence on fossil carbon make any rapid substitutions impossible.
 
@@ -122,7 +122,7 @@
 
 - The quest for mass-scale veganism is doomed to fail. Eating meat has been a significant a component of our evolutionary heritage as our large brains (which evolved partly because of meat eating). All our hominid ancestors were omnivorous, as are both species of chimpanzees which are closest to us in genetic makeup.
 
-#UnpopularTruth
+[[UnpopularTruth]]
 
 - A nearly perfect solution to our food problem would be to develop grain or oil crops with their roots hosting bacteria able to convert inert atmospheric nitrogen to nitrates.
 
@@ -244,7 +244,7 @@
 
 - To believe that our understanding of dynamic, multi-factorial realities needed in climate change models has reached the state of perfection is to mistake the science of global warming for the religion of climate change. Was there a single climate modeler who predicted in 1980 the most important anthropogenic factor driving global warming over the past 30 years: the economic rise of China?
 
-#UnpopularTruth
+[[UnpopularTruth]]
 
 - We can proceed fairly fast with the displacement of coal-fired electricity by natural gas and by expanding solar and wind electricity generation. We can move away from SUVs and accelerate mass-scale deployment of electric cars, and we still have large inefficiencies in construction, household, and commercial energy use that can profitable be reduced.
 

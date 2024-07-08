@@ -6,7 +6,7 @@
 
 - People thought the bad smells of London were killing them, in a sense they were because they distracted them from the true cause and lead to decisions that ended up making matters far worse.
 
-#UsedToBelieve
+[[UsedToBelieve]]
 
 - Multicultural life only has two options for staying alive: breathing or converting sunlight. Bacteria can survive in a bunch of different ways.
 

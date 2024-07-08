@@ -36,7 +36,7 @@
 
 - A very important principle in investing is that you **_dont_** have to make it back the way you lost it. In fact, it's usually a **_mistake_** to try to make it back the way you lost it.
 
-#UnpopularTruth
+[[UnpopularTruth]]
 
 - Predicting rain doesn't count, building arks does. #BeTheGood
 

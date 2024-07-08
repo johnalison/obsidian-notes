@@ -12,9 +12,9 @@
 
 - Just think what would have happen if AIDS would have erupted in 1581 rather than 1981... Nobody would have figured out what caused the epidemic, how it moved person to person, or or how it could be controlled. AIDS might have killed a much larger proportion of the human race, equaling or perhaps surpassing the Black Death. [[History]]
 
-- There are good reasons to think that in the arms race between doctors and germs, doctors run faster. #Science
+- There are good reasons to think that in the arms race between doctors and germs, doctors run faster. [[Science]]
 
-- It is likely that major epidemics will continue to endanger humankind in the future only if humankind itself creates them, in the serves of some ruthless ideology. The era when humankind stood helpless before natural epidemics is probably over: But we may come to miss it (BC the man-made versions are much worse). #Science
+- It is likely that major epidemics will continue to endanger humankind in the future only if humankind itself creates them, in the serves of some ruthless ideology. The era when humankind stood helpless before natural epidemics is probably over: But we may come to miss it (BC the man-made versions are much worse). [[Science]]
 
 - In ancient agricultural societies human violence caused about 15% of all deaths, during the twentieth century violence caused only 5% of deaths, and in the early twenty-first century it is responsible for about 1%. [[NowIsDifferent]]
 
@@ -38,19 +38,19 @@
 
 - Its not easy to live knowing that you are going to die, but it is even harder to believe in immortality and be proven wrong. #Longevity #Religion
 
-- In truth, so far modern medicine hasn't extended our natural lifespan by a single year. Its great achievement has been to save us from premature death. #Science #Longevity
+- In truth, so far modern medicine hasn't extended our natural lifespan by a single year. Its great achievement has been to save us from premature death. [[Science]] #Longevity
 
 - Epicurus explained that worshiping gods is a waste of time, that there is no existence after death, and that happiness is the sole purpose of life. Most people in ancient times rejected Epicurean-ism, but today it has become the default view. #Epicurean
 
 - When Epicurus defined happiness as the supreme good, he warned his disciples that it is hard work to be happy. Material achievements alone will not satisfy us for long. Indeed, the blind pursuit of money, fame and pleasure will only make us miserable. Epicurus recommended, for example, to eat and drink in moderation and to curb ones sexual appetites. In the long run, a deep friendship will make us more content that a frenzied orgy. #Happiness #Epicurean #Buddhism
 
-- The glass ceiling of happiness is held in place by two stout pillars, one psychological, the other biological. On the psychological level, happiness depends on expectations rather than objective conditions. We dont become satisfied by leading a peaceful and prosperous existence. Rather, we become satisfied with reality matches our expectations. #Happiness #Buddhism #Stoicism
+- The glass ceiling of happiness is held in place by two stout pillars, one psychological, the other biological. On the psychological level, happiness depends on expectations rather than objective conditions. We dont become satisfied by leading a peaceful and prosperous existence. Rather, we become satisfied with reality matches our expectations. #Happiness #Buddhism [[Stoicism]]
 
 - On the biological level, both our expectations and our happiness are determined by our biochemistry, rather than our economic, social or political situation. #Happiness #Buddhism
 
 - A thousand things may make us angry, but anger is never an abstraction. It is always felt as a sensation of heat and tension in the body, which is what makes anger so infuriating. #Buddhism
 
-- People have be quarreling about education methods for thousands of years. Yet, hitherto everybody still agreed on one thing: in order to improve education, we need to change the schools. Today, for the first time in history, at least some people think it would be more efficient to change the pupils' biochemistry. [[NowIsDifferent]] #ShouldTeachKids
+- People have be quarreling about education methods for thousands of years. Yet, hitherto everybody still agreed on one thing: in order to improve education, we need to change the schools. Today, for the first time in history, at least some people think it would be more efficient to change the pupils' biochemistry. [[NowIsDifferent]] [[ShouldTeachKids]]
 
 - The state hopes to manipulate the biochemical pursuit of happiness, separating "bad" manipulations from "good" ones. The principle is clear: biochemical manipulations that strengthen political stability, social order and economic growth are allowed and even encouraged. Manipulations that threaten stability and growth are bad. #Happiness
 
@@ -102,13 +102,13 @@
 
 - "Algorithm" is arguably the single most important concept in our world. Humans are algorithms that produce copies of themselves. The algorithms controlling humans work through sensations, emotions, and thoughts. [[WhoWeAre]] #Buddhism
 
-- Not long ago psychologists doubted the importance of the emotional bond between parents and children even among humans. Childcare experts warned that children who were hugged and kissed by their parents would grow up to be needy, egotistical and insecure adults. #UsedToBelieve 
+- Not long ago psychologists doubted the importance of the emotional bond between parents and children even among humans. Childcare experts warned that children who were hugged and kissed by their parents would grow up to be needy, egotistical and insecure adults. [[UsedToBelieve]] 
 
 - We normally think that theist religions sanctify the great gods. We tend to forget that they sanctified humans too. Hitherto Homo sapiens had been just one actor in a cast of thousands. In the new theist drama Sapiens became the central hero around whom the entire universe revolved.  The gods meanwhile where given two related roles to play. Firstly, they explained what is so special about sapiens and why humans should dominate and exploit all other organisms. Secondly, the gods had to mediate between humans and the ecosystem.  #Religion 
 
 - The agriculture revolution was both an economic and religious revolution. #Politics [[History]] #Religion
 
-- During the agriculture revolution humankind silenced animals and plants, and turned the animist grand opera into a dialogue between man and gods. During the Scientific Revolution humankind silenced the gods too. The world was now a one man show. Humankind stood alone on an empty stage, talking to itself, negotiating with no one and acquiring enormous powers without any obligations. [[History]] #Religion #Science [[NowIsDifferent]]
+- During the agriculture revolution humankind silenced animals and plants, and turned the animist grand opera into a dialogue between man and gods. During the Scientific Revolution humankind silenced the gods too. The world was now a one man show. Humankind stood alone on an empty stage, talking to itself, negotiating with no one and acquiring enormous powers without any obligations. [[History]] #Religion [[Science]] [[NowIsDifferent]]
 
 - The stream of consciousness is the concrete reality we directly witness every moment. It is the surest thing in the world. You cannot doubt its existence. #Consciousness #Buddhism
 
@@ -146,7 +146,7 @@
 
 - Many of the difficulties faced by present-day Africans countries stem from the fact that their borders make little sense. When the  written fantasies of European bureaucracies encountered the African reality, reality was forced to surrender. [[History]]
 
-- If you stick only to unalloyed reality, without mixing any fiction in with it, few people will follow you. If you used a time machine to send modern scientists to ancient Egypt, she would not be able to seize power by exposing the fictions of the local priests and lecturing the peasants on evolution, relativity and quantum physics. If you happen to think so, you are welcome to travel to present-day Afghanistan or Syria and try your luck. #Science #Politics
+- If you stick only to unalloyed reality, without mixing any fiction in with it, few people will follow you. If you used a time machine to send modern scientists to ancient Egypt, she would not be able to seize power by exposing the fictions of the local priests and lecturing the peasants on evolution, relativity and quantum physics. If you happen to think so, you are welcome to travel to present-day Afghanistan or Syria and try your luck. [[Science]] #Politics
 
 - Like a child thinking that his parents are fighting because of him, the monotheist is convinced that the Persians are fighting the Babylonians because of him. #Religion
 
@@ -160,17 +160,17 @@
 
 - In the 21C, we will create more powerful fictions and more totalitarian religions than in any previous era. [[NowIsDifferent]]
  
-- It is often said that god helps those who help themselves. This is a roundabout way of saying that god doesn't exist, but if our belief in Him inspires us to do something ourselves -- it helps. In contrast scientific theories are not just a way to bind people together. Antibiotics, unlike God, help even those who dont help themselves. They cure infections weather you believe in them or not. #Religion #Science
+- It is often said that god helps those who help themselves. This is a roundabout way of saying that god doesn't exist, but if our belief in Him inspires us to do something ourselves -- it helps. In contrast scientific theories are not just a way to bind people together. Antibiotics, unlike God, help even those who dont help themselves. They cure infections weather you believe in them or not. #Religion [[Science]]
 
-- Instead of destroying the intersubjective reality, science will enable it to control the objective and subjective realities more completely than before. #Science [[History]]
+- Instead of destroying the intersubjective reality, science will enable it to control the objective and subjective realities more completely than before. [[Science]] [[History]]
 
 - Religion is any all-encompassing story that confers superhuman legitimacy on human laws, norms and values. It legitimizes human social structures by arguing that they reflect superhuman laws. Religion asserts that we humans are subject to a system of moral laws that we did not invent and that we cannot change. As far as we know, all human societies believe in this. Every society tells its members that they must obey some superhuman moral law, and that breaking this law will result in catastrophe. #Religion
 
 - Just as the gap between religion and science is narrower than we commonly think, so the gap between religion and spirituality is much wider. Religion is a deal, whereas spirituality is a journey. #Religion
 
-- In theory, both science and religion are interested above all in truth, and bb/c each upholds a different truth, they are doomed to clash. In fact neither science nor religion cares that much about truth, hence they can easily compromise, co-exit and cooperate. Religion is interested above all in order. In aims to create and maintain the social structure. Science is interested above all in power (questionable...). #Science #Religion
+- In theory, both science and religion are interested above all in truth, and bb/c each upholds a different truth, they are doomed to clash. In fact neither science nor religion cares that much about truth, hence they can easily compromise, co-exit and cooperate. Religion is interested above all in order. In aims to create and maintain the social structure. Science is interested above all in power (questionable...). [[Science]] #Religion
 
-- Modern history can be thought of as the process of formulating a deal between science and one particular religion - namely, humanism. Modern society believes in humanists dogmas, and uses science not in order to question these dogmas, but rather in order to implement them.  [[History]] #Science #Religion
+- Modern history can be thought of as the process of formulating a deal between science and one particular religion - namely, humanism. Modern society believes in humanists dogmas, and uses science not in order to question these dogmas, but rather in order to implement them.  [[History]] [[Science]] #Religion
 
 - Modernity is a surprisingly simple deal: humans agree to give up meaning in exchange for power.  If modernity has a motto it is "shit happens". We are constrained by nothing except our own ignorance. No paradise awaits us after our death -- but we can create paradise here on earth and live in it forever, if we just manage to overcome some technical difficulties. [[History]] [[WhoWeAre]] [[NowIsDifferent]]
 
@@ -178,7 +178,7 @@
 
 - Much of the credit for overcoming famine and plague belongs to the ardent capitalist faith in growth. Capitalism even deserves some kudos for reducing human violence and increasing tolerance and cooperation. [[History]] #Politics
 
-- The greatest scientific discovery was the discovery of ignorance. Once humans realized how little they knew about the world, they suddenly had a very good reason to seek new knowledge, which opened up the scientific road to progress. #Science
+- The greatest scientific discovery was the discovery of ignorance. Once humans realized how little they knew about the world, they suddenly had a very good reason to seek new knowledge, which opened up the scientific road to progress. [[Science]]
 
 - Throughout history prophets and philosophers have argued that if humans stopped believing in a great cosmic plan, all law and order would vanish. Yet today, those who pose the greatest threat to global law and order are precisely those people who continue to believe in God and His all-encompassing plans. [[History]] #Religion
 

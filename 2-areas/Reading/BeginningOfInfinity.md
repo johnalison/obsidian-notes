@@ -125,7 +125,7 @@
      -) Humans are cosmologically significant
      -) the Earths biosphere is ***incapable*** of supporting human life
 
-#UnpopularTruth
+[[UnpopularTruth]]
 
 - The biosphere only ever achieves (temporarily) stability by constantly neglecting, harming, disabling, and killing individuals. Earth is not a life-support system!
   Almost the entire capacity of the earths "life-support system for humans" has been created _by us_ using our ability to create new knowledge.
@@ -139,7 +139,7 @@
 - The Principle of Mediocrity is paradoxical: it implies that all human abilities, including our special ability to create new explanations, are necessarily parochial.
    Which implies that science, despite all its successes and aspirations would turn out to be inherently parochial and anthropocentric and thus that at some level the universe must be inexplicable.
 
-#UnpopularTruth
+[[UnpopularTruth]]
 
 - Any assumption that the world is inexplicable can lead only to Bad Explanations.
 
@@ -247,11 +247,11 @@
    eg: Success at making factual discoveries implies many values that the scientists has to commit to.
          - Value of truth, good explanations, and be open to ideas and change.
 
-#UnpopularTruth
+[[UnpopularTruth]]
 
 - Reductionism and Holism are both mistakes. Explanations do not form a hierarchy with the lowest level the most fundamental. Explanations at any level can be fundamental.
 
-#UnpopularTruth #Physics #Philosophy
+[[UnpopularTruth]] #Physics #Philosophy
 
 - The Jump to Universality is a tendency of gradually improving systems to undergo a sudden large increase in functionality, becoming universal in some domain.
    It has a typical transitions:
@@ -371,7 +371,7 @@
   Another point: Would the universe as we know it really be simulated often in the future? Would this be immoral given the suffering that exists today?
   (Counter point: maybe identical instances of the same suffering (quale) doesn't create any new suffering. Reading a book about past suffering is not immoral.)
 
-#SimulationHypothesis
+[[SimulationHypothesis]]
 
 - P!=NP says there are classes of mathematical questions whose answers can be verified easily once you have them, but that cannot be computed easily in the first place by a universal computer. Almost all researchers in computing theory are sure that this conjecture is true.
 
@@ -400,7 +400,7 @@
 
 - Existential Danger from Increased Technological Innovation : Its not the case that only since the mid 20C have we be capable of destroying civilization with technology. Many civilizations in history were destroyed by the simple technology of fire and the sword, actually the overwhelming majority of civilizations in history have been destroyed, intentionally or b/c of natural disaster. Almost all of them could have avoided destruction if they had more knowledge, very few if any could have benefited from greater caution in innovation.
 
-#UnpopularTruth
+[[UnpopularTruth]]
 
 - Civilizations starved long before Malthus form drought and famine ultimately due to lack of knowledge of irrigation and farming. The distinction between a "natural" disaster and one brought about by ignorance is parochial.  
 
@@ -459,7 +459,7 @@
 
 - "Many-universes" interpretation remains a minority view despite the fact that many well-studied phenomena have no other known explanation.  The "Science-as-explanation" position that is advocated in this book, ie: an account of what is really out there, is itself still a minority view even among theoretical physicists.
 
-#UnpopularTruth
+[[UnpopularTruth]]
 
 - It is consistent for two identical entities to become different under deterministic and symmetrical laws if the two entities are _fungible_: identical in literally every way except that there are two of them.  Examples of fungible configurational entities in classical physics is amounts of energy. In quantum physics elementary particles are fungible entities.
   It is counter-intuitive that identical objects obeying deterministic laws cannot become different, but fungible objects (which on the face of it are even more alike, can; this is at the heart of quantum physics.
@@ -505,7 +505,7 @@
    The theory claimed to stand outside the jurisdiction of normal modes of reason ("If you think you've understood quantum mechanics then you dont")
   A hallmark of bad philosophy.
 
-#UsedToBelieve
+[[UsedToBelieve]]
 
 - Vagueness, inconsistency, and the perceived authority fundamental physics opened the door to countless pseudo-science supposedly based on "quantum theory".
 
@@ -529,7 +529,7 @@
 
 - One legacy of empiricism that continues to cause confusion and bad philosophy is the idea that it is possible to split a scientific theory into predictive rules of thumb and assertions about reality (or "interpretations") on the other.  This doesn't make sense as with out an explanation it is impossible to know when and where the rule of thumb applies.
 
-#UnpopularTruth
+[[UnpopularTruth]]
 
 - All scientific measurements use chains of proxies, each link in the chain is an additional potential source of error. We can avoid fooling ourselves only by criticizing each step in chain, which is only possible if there is an explanatory theory behind each proxy. One can claim to have measured something only when there is an explanatory theory of how and why the measurement procedure should reveal its value and with what accuracy.
 
@@ -537,7 +537,7 @@
 
 - Arrows axioms: all 5 are intuitively not just desirable, but seem to be essential for making a system of preferences ("Will of the people") fair and rational. Yet they are inconsistent. There is no such thing as "the will of the people".  Wishing for something that is logically impossible is a sign that there is something better to wish for.
 
-#UnpopularTruth #Paradox
+[[UnpopularTruth]] #Paradox
 
 - Proportional representation assigns disproportionate power in the legislature to the third largest party!
 
@@ -545,7 +545,7 @@
 
 - The essence of democratic decision-making is not the choice made by the system at elections, but the ideas created between elections.
 
-#Politics #UnpopularTruth
+#Politics [[UnpopularTruth]]
 
 - The voters are not a fount of wisdom from which the right policies can be empirically derived.
 
@@ -559,7 +559,7 @@
 
   The idea that representative government depends on proportionate representation in the legislature is unequivocally a mistake.
 
-#Politics #UnpopularTruth
+#Politics [[UnpopularTruth]]
 
 - Popper's Criterion: Good political institutions are those that make it as easy as possible to detect whether a ruler or policy is a mistake, and to remove them without violence when they are.
 
@@ -596,7 +596,7 @@
 
 - Meme evolution is enormously faster than gene evolution. The cosmic year analogy is of the history of life is misleading. A significant fraction of all the evolution that has happened on our planet has occurred as memes in human brains.
 
-#UnpopularTruth
+[[UnpopularTruth]]
 
 - Static societies always have ways of bringing up children in ways that disable their creativity and critical faculties (otherwise they would not remain static.)
   Static societies must leave its members chronically balked in their attempts to achieve anything positive. 
@@ -653,7 +653,7 @@
 		    Knowledge alone converts landscapes into resources, humans alone who create explanatory knowledge and thus history.
 		    Ideas are the determinants of the broad sweep of history.
 
-#UnpopularTruth
+[[UnpopularTruth]]
 
 - The idea that the future can be scientifically planned is one that reliably causes disaster.
 

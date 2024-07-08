@@ -38,7 +38,7 @@
 
 - Man placed an iron ring upon the fourth finger of the girls left hand, because it was believed that a nerve ran thence to her heart.
 
-#UsedToBelieve
+[[UsedToBelieve]]
 
 - Roman men became brave by proxy; they crowded the amphitheater to see bloody games, and hired gladiators to fight before them at their banquets.
 
@@ -122,7 +122,7 @@
 
 - But how does one acquire wisdom? By practicing it daily, in however modest degree; by examining your conduct each day at its close; by being harsh on your faults and lenient to those of others; by associating with those who excel you in wisdom and virtue; by taking some acknowledged sage as your invisible counselor and judge.
 
-#Advice #SystemsNotGoals #Ethics #Protocols
+#Advice [[SystemsNotGoals]] #Ethics #Protocols
 
 - In philosophy all truth is old, and only error is original.
 
@@ -188,11 +188,11 @@
 
 - Philosophy does not mean reading books about wisdom, it means training oneself in the practice of wisdom.
 
-#Stoicism
+[[Stoicism]]
 
 - "Seek not that the things which happen to you should happen as you wish, but wish that the things that happen to be as they are, and you will find tranquility" - Epictetus
 
-#Stoicism
+[[Stoicism]]
 
 - What is the best life? Lucian answers:
 

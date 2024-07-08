@@ -10,7 +10,7 @@
 
 - Approach rather than arrival is what makes science realistic.
 
-  #Science
+  [[Science]]
 
 - After understanding that a deterministic game like the Game of Life could produce unforeseeable results, a dark anxiety I had felt melted away. There was no longer tension between determinism and free will. If the only way to know the future was to actually run the universe, then it no longer mattered to my philosophy if there was a deterministic floor to the thing. There might or might not be. We could never know, from inside the universe. Moot point.
 

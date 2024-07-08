@@ -21,7 +21,7 @@
   In terms of the image of arrows of explanation, thermodynamics is like a certain pattern that gets repeated again and again in very different contexts.
   The fact that a theory finds applications in a wide variety of phenomena does not imply that it is autonomous from deeper physical laws (emergence depends on the deeper physics)
 
-#StatMech
+[[StatMech]]
 
 - "It is not unreasonable to hope that when the objective correlatives to consciousness have been explained, somewhere in our explanations will be something that that we recognize something that corresponds to our experience of consciousness itself. 
 
@@ -44,7 +44,7 @@
 
 - Everyone is really a reductionist.  IF a new cure for a disease were suggested by experience with many patients, it would not be fully accepted if we could not see how it could possibly be explained reductively in terms of biochemistry and cell biology.  The reductionist attitude provides a useful filter that saves scientists in all fields from wasting time on ideas that are not worth pursuing.
 
-#Scientists #PhilosophyOfPhysics
+[[Scientists]] #PhilosophyOfPhysics
 
 - Quantum Mechanics was important more for changing the kinds of question we are allowed to asked than for answering outstanding questions that we had.
 

@@ -2,7 +2,7 @@
 
 - Fantastic!  (Changed my life for the better)
 
-- A widely accepted premise of the modern knowledge work is that email saved us. #UsedToBelieve [[WrongIn20Years]]
+- A widely accepted premise of the modern knowledge work is that email saved us. [[UsedToBelieve]] [[WrongIn20Years]]
 
 - What if email didn't save us, but instead accidentally traded minor convinces for a major drag on real productivity, leading to slower economic growth over the last few decades? [[WrongIn20Years]]
 
@@ -34,7 +34,7 @@
 
 - Build structures around autonomy #MentalModels
 
-- Workflows should not be left to individuals to figure out on their own, as the most effective systems are unlikely to arise naturally. #SystemsNotGoals
+- Workflows should not be left to individuals to figure out on their own, as the most effective systems are unlikely to arise naturally. [[SystemsNotGoals]]
 
 - Minimize mid-task context switching and minimize the sense of communication overload. #Checklists #MentalModels
 
@@ -56,7 +56,7 @@ n- The process principle: introducing smart production processes to knowledge wo
 
 - Central idea in Shannon's information theory: clever protocols that take into account the structure of the information being communicated can perform MUCH better than naive approaches. #MentalModels
 
-- Anyone whose job requires more than one or two scheduled events in a typical week should be using a scheduling service #SystemsNotGoals
+- Anyone whose job requires more than one or two scheduled events in a typical week should be using a scheduling service [[SystemsNotGoals]]
 
 - Why are the recipients in email addresses almost always people, and not, for example, departments, projects, or activities.
 
