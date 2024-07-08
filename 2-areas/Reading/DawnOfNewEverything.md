@@ -27,7 +27,7 @@
 
 - An AI entity is a non-real-time avatar, and that is what allows for the illusion that it isn't an avatar at all. The people from whom the data was taken are no longer in the room when an AI program is run, so its easy to imagine that the AI program is a free-standing personage instead of a reflection of human data, capital, and agency.
 
-  #AI
+  [[AI]]
 
 - We understand math, but we dont understand what understanding is. There's no scientific description of an idea in a brain at this time. Maybe someday, but not yet. We're capable of forgetting that we dont understand. We confuse ourselves easily.
 
@@ -35,4 +35,4 @@
 
 - Its virtually impossible to flip a bit in an unforeseen way in a present-day program and create a small improvement. Doesn't that mean we're using bits wrong ? (Counterpoint what about ML training? )
 
-  #AI
+  [[AI]]

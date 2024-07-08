@@ -45,7 +45,7 @@
 
 - Paradox of automation: When new automation is in place there is less total work to be done by the human, but what work is left is harder.  Automation makes work harder not easier.
 
- #AI 
+ [[AI]] 
 
 - There is little else in the work experience with so much capacity to motivate than the desire not to injure the person above you that entrusted you.
   Processes standardization from on high is dis-empowerment.

@@ -8,7 +8,7 @@
 
 - If your boss has a bad plan. Put the onus in yourself as to why the idea from your boss doesn't make sense.  How much will be gained by approaching the boss and trying to convince them to change their plan ? IF the difference is minimal, its is probably not worth investing any time or effort into it. Next, ask yourself how much of your concern is just your ego. Lastly, ask yourself if you will be moving your relationship with your boss forward or backward by raising this issue.
 
-  [[Leadership]] #Advice 
+  [[Leadership]] [[Advice]] 
 
 - People almost always like their own ideas better than anyone else's.
 
@@ -98,11 +98,11 @@
 
 - If you have a weak/indecisive boss, put the decision back on them, but make it much easier for them to make it. Instead of having to sort through a bunch of complicated details, do that for them. Narrow down their decision so all they have to say is "yes". Do it in a way in which your boss is clearly still the decision maker.
 
-  #Advice
+  [[Advice]]
 
 - Asking for credit is a horrible move in any scenario.
 
-  #Advice
+  [[Advice]]
 
 - Explaining the why is important, but the why has to tie back to everyone in the chain of command.
 
@@ -127,11 +127,11 @@
   When you listen to others speak and absorb what they say, you can formulate the most important and impactful statement of the discussion, which will increase your influence on the situation.
   Even if a debate among colleagues leave you with nothing to add other than your approval, that well-articulated approval will carry more weight than blathering on just to hear yourself talk.
 
-  #Advice [[Protocols]]
+  [[Advice]] [[Protocols]]
 
 - Dont waste your words. Let other people do that; instead speak with poignancy and power.
 
-  #Advice
+  [[Advice]]
 
 - Its all on you, but its not about you.
 

@@ -25,7 +25,7 @@
 - After humanity spent 1000s of years improving our tactics, computers tell humans they are completely wrong. I would go so far as to say not a single human has touched the edge of the truth of "Go"
    Alien type of intelligence re: alpha-zero.
 
- #AI
+ [[AI]]
 
 - Mu Zero operates without even being told the rules of the game. 
 
@@ -52,7 +52,7 @@
 
 - The decomposition of large probabilistic domains into weakly connected subsets through conditional independence is one of the most important developments in AI.
 
- #AI
+ [[AI]]
 
 - The utility of money is almost exactly proportional to the logarithm of the amount.
 
@@ -106,7 +106,7 @@ Cons: Can have sub-optimal accuracy / if deep, expensive to run / unstable one n
 - If you need ML, then the problem is complex, you shouldn't expect a simple explanation.
   (Which would you trust: experimental aircraft never flown, but with a detailed explanation of why it is safe? or, an aircraft that completed 100 flights with no guaranteed explanation?)
 
-  #AI
+  [[AI]]
 
 - Beta distributions B(T,a,b) = \alpha T^(a-b) (1-T)^b-1 is closed under Bayes updates.
 
@@ -114,7 +114,7 @@ Cons: Can have sub-optimal accuracy / if deep, expensive to run / unstable one n
 
 - One hot encoding generally better than mapping values to ints. (One hot ignores numerical adjacency)
 
-  #AI
+  [[AI]]
 
 - When comparing networks with similar numbers of parameters, the deeper network typically generalizes better
 
@@ -143,26 +143,26 @@ Cons: Can have sub-optimal accuracy / if deep, expensive to run / unstable one n
 
 - Explanations are not decisions, they are stories about decisions
 
-  #AI
+  [[AI]]
 
 - In 1900, 40% of US in agriculture, in 2000 only 2%, in 2010 25% played farmville.
 
 - Almost any tech in the wrong hands can cause harm, but with AI the hands might be operating on their own.
 
-  #AI
+  [[AI]]
 
 - Krakova 2018 (AI agents that have gamed the system)
 https://deepmind.com/blog/article/Specification-gaming-the-flip-side-of-AI-ingenuity
 
- #AI
+ [[AI]]
 
 - Trying to write down all the rules so that the robot always does the right thing is almost certainly hopeless.  
    eg: trying to write loophole-free tax code for several thousand years without success. Better to make a robust sense of "I want to pay my taxes"
 
-#AI [[Leadership]] [[Invert]]
+[[AI]] [[Leadership]] [[Invert]]
 
 - Some warn we have no experience controlling powerful non-human entities with superhuman capabilities. Not quite true, centuries of experience with nations and corporations. Our record of controlling these entities is not very encouraging. (Wars / Global warming ect)
 
-#AI
+[[AI]]
 
 - "Money is like gasoline during a road trip. You dont want to run out of gas on your trip, but your not doing a tour of gas stations. You have to pay attention to money, but it shouldn't be all about money."

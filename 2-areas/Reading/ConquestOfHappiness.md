@@ -46,7 +46,7 @@
 
   When a difficult or worrying decision has to reached, as soon as all the data are available, give the matter you best thought and make your decision; having made the decision, do not revise it unless some new fact comes to your knowledge. Nothing is so exhausting as indecision, and nothing so futile.
 
-  #Advice [[Protocols]]
+  [[Advice]] [[Protocols]]
 
 - Our doings are not so important as we naturally suppose; our successes and failures do not after all matter very much. Even great sorrows can be survived.  The man who can center his thoughts and hopes upon something transcending self can find a certain peace in the ordinary troubles of life which is impossible to the pure egoist.
 
@@ -69,7 +69,7 @@
   The habit of thinking in terms of comparison is a fatal one.
   When anything pleasant occurs it should be enjoyed in full, without stopping to think that it is not so pleasant as something else that may possibly be happening to someone else.
 
-  #Advice [[Protocols]]
+  [[Advice]] [[Protocols]]
 
 - You cannot get away from envy by success alone; there will always be someone else more successful.
   You can get away from envy by enjoying the pleasures that come your way, by doing the work that you have to do, and by avoiding comparisons with those whom you imagine to be more fortunate than yourself.
@@ -102,7 +102,7 @@
 
 - The attitude that is required is doing ones best while leaving the issue to fate.
 
-  #Advice
+  [[Advice]]
 
 - The wise man fails to observe the dust that the housemaid has not dusted, the potato that the cook has not cooked, and the soot that the sweep has not swept.
 

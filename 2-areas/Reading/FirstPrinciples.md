@@ -29,7 +29,7 @@
 - As circumstances change, be ready to change views and abandon assumptions. Listen to dissenters and know how to weight alternatives.
      Lessons learned by Washington.
 
-     #Advice
+     [[Advice]]
 
 - Scotland's influence on American history was profound and remains underappreciated.
 

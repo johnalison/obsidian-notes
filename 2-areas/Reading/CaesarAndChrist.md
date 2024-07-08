@@ -118,11 +118,11 @@
 
 - Philosophy is the science of wisdom, and wisdom is the art of living.  Happiness is the goal, but virtue, not pleasure, is the road. The old ridiculed maxims are correct and are perpetually verified by experience; in the long run honesty, justice, forbearance, kindliness, bring us more happiness than ever comes from the pursuit of pleasure.
 
-[[Happiness]] #Advice [[Ethics]] [[Protocols]]
+[[Happiness]] [[Advice]] [[Ethics]] [[Protocols]]
 
 - But how does one acquire wisdom? By practicing it daily, in however modest degree; by examining your conduct each day at its close; by being harsh on your faults and lenient to those of others; by associating with those who excel you in wisdom and virtue; by taking some acknowledged sage as your invisible counselor and judge.
 
-#Advice [[SystemsNotGoals]] [[Ethics]] [[Protocols]]
+[[Advice]] [[SystemsNotGoals]] [[Ethics]] [[Protocols]]
 
 - In philosophy all truth is old, and only error is original.
 
@@ -130,7 +130,7 @@
 
 - Clearness is the first essential, then brevity, beauty, and vigor. Correct repeatedly and stoically. -Quintilian
 
-#Advice
+[[Advice]]
 
 - We must consider the Roman fiscal system one of the most successful and stable in history. For two centuries a single monetary standard was honored throughout the Empire.
 
@@ -140,7 +140,7 @@
 
 - Originality is, like parentage, a novel combination of pre-existing elements.
 
-#AdjacentPossible
+[[AdjacentPossible]]
 
 - Law was the most characteristic and lasting expression of the Roman spirit. As Greece stands in history for freedom, so Rome stands for order; and as Greece bequeathed democracy and philosophy as the foundations of individual liberty, so Rome left us its laws, and its traditions of administration, as the bases of social order.
 
@@ -198,7 +198,7 @@
 
     The life of the ordinary man is the best and most prudent choice. Cease from the folly of metaphysical speculation and inquire into origins and ends; count all this clever logic as idle talk, and pursue one end alone - how you may do what you hand finds to do, and go your way with never a passion and always a smile.
 
-#Advice
+[[Advice]]
 
 - If we sum up Greek thought in the first two centuries of our era, we find it, despite Lucian, overwhelmingly religious. Men had once lost faith in faith and taken to logic; now they were losing faith in logic and were flocking back to faith.
 

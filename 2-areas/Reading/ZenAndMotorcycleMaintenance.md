@@ -35,7 +35,7 @@
 
 - Mountains should be climbed with as little effort as possible and with out desire.
 
-  #Advice
+  [[Advice]]
 
 - To live only for some future goal is shallow. Its the sides of the mountain that sustains life, not the top.
 

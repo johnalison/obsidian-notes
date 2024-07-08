@@ -234,7 +234,7 @@
 
 - Biologists are right about the past, but  the proponents of intelligent design might, ironically, be right about the future. ([[Paradox]])
 
-- The Cognitive Revolution that turned Homo sapiens from an insignificant ape into the master of the world did not require any noticeable change in the physiology or even the size of and external shape of the Sapiens brain. It apparently involved no more than a few small changes to internal brain structure. Perhaps another small change would be enough to ignite a Second Cognitive Revolution, create a completely new type of consciousness, and transform Homo Sapiens into something altogether different. (#AI)
+- The Cognitive Revolution that turned Homo sapiens from an insignificant ape into the master of the world did not require any noticeable change in the physiology or even the size of and external shape of the Sapiens brain. It apparently involved no more than a few small changes to internal brain structure. Perhaps another small change would be enough to ignite a Second Cognitive Revolution, create a completely new type of consciousness, and transform Homo Sapiens into something altogether different. ([[AI]])
 
 - The last days are fast approaching. Unless some nuclear or ecological catastrophe intervenes, the pace of technological development will soon lead to the replacement of Homo sapiens by completely different beings who possess not only different physiques, but also very different cognitive and emotional worlds. (It may take a few millennia, but from the the perspective of 70k years of Sapiens history, what are a few millennia?) ([[NowIsDifferent]])
 
@@ -246,4 +246,4 @@
 
 - Modern Humans: Self-made gods with only the laws of physics to keep us company, we are accountable to no one. We a consequently wreaking havoc on our fellow animals and the surrounding ecosystem, seeking little more than our own comfort and amusement, yet never finding satisfaction. Is there anything more dangerous than dissatisfied and irresponsible gods who dont know what they want ? ([[WhoWeAre]])
 
-- Humans are gods to other animals (not benevolent ones!) ([[WhoWeAre]]) (#AI) ([[Religion]])
+- Humans are gods to other animals (not benevolent ones!) ([[WhoWeAre]]) ([[AI]]) ([[Religion]])

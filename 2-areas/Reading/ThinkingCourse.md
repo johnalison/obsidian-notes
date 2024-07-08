@@ -43,7 +43,7 @@
 
 - The mechanisms for pattern changing are mistake, accident and humor.
 
-  [[Rationality]] #AdjacentPossible
+  [[Rationality]] [[AdjacentPossible]]
 
 - Logic is not a way of generating information. It is a way of extracting more information from what is available.
 

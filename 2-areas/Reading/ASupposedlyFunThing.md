@@ -23,5 +23,5 @@
 
 - "Assholes are just assholes. Whats getting hot and bothered about it going to do about it except keep me from getting to have fun?"
 
-  #Advice [[Happiness]]
+  [[Advice]] [[Happiness]]
 

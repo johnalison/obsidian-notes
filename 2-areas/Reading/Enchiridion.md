@@ -35,7 +35,7 @@
 - When we have been invited to dinner, we take what is served.
   If a guest should ask for that which is not served, he would be considered unreasonable.
   But in the world we ask the Gods for what they do not give; and we do this though the things are many which they have given.
-  #Advice
+  [[Advice]]
 
 - Do you wish to be rich or happy?
   To be rich is neither a good thing nor at all in your power.

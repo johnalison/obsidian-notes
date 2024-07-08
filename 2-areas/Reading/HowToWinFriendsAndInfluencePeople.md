@@ -69,11 +69,11 @@
 
 - Actions speak louder than words, and a smile says "I like you. You make me happy. I am glad to see you" [[Rationality]]
 
-- People rarely succeed in anything unless they have fun doing it. #Advice  [[Rationality]]
+- People rarely succeed in anything unless they have fun doing it. [[Advice]]  [[Rationality]]
 
-- You must have a good time meeting people if you expect them to have a good time meeting you. #Advice [[Rationality]]
+- You must have a good time meeting people if you expect them to have a good time meeting you. [[Advice]] [[Rationality]]
 
-- I have also eliminated criticism from my system. I give appreciation and praise now instead of condemnation. I have stopped talking about what I want. I am now trying to see the other person's viewpoint. And these things have literally revolutionized my life. [[Rules]] [[Rationality]] #Advice
+- I have also eliminated criticism from my system. I give appreciation and praise now instead of condemnation. I have stopped talking about what I want. I am now trying to see the other person's viewpoint. And these things have literally revolutionized my life. [[Rules]] [[Rationality]] [[Advice]]
 
 - Action seems to follow feeling, but really action and feeling go together; and by regulating the action, which is under the more direct control of the will, we can indirectly regulate the feeling, which is not. Thus the sovereign voluntary path to cheerfulness, if our cheerfulness be lost, is to sit up cheerfully and to act and speak as if cheerfulness were already there. [[BeTheGood]]
 
@@ -83,7 +83,7 @@
 
 - There is nothing either good or bad, but thinking makes it so. -Shakespeare
 
-- A man without a smiling face must not open a shop. #Advice 
+- A man without a smiling face must not open a shop. [[Advice]] 
 
 - The value of smile at Christmas:
     - It costs nothing, but creates much.
@@ -110,9 +110,9 @@
 
 - If you want to know how to make people shun you and laugh at you behind your back and even despise you, here is the recipe: Never listen to anyone for long. Talk incessantly about yourself. If you have an idea while the other person is talking, dont wait for him or her to finish: bust right in and interrupt in the middle of a sentence. [[MentalModels]] [[Leadership]] 
 
-- Those people who think only of themselves are hopelessly uneducated, no matter how instructed they may be. #Advice
+- Those people who think only of themselves are hopelessly uneducated, no matter how instructed they may be. [[Advice]]
 
-- If you aspire to be a good conversationalist, be an attentive listener. To be interesting, be interested. Ask questions that others people will enjoy answering. Encourage them to talk about themselves and their accomplishments. #Advice [[Rationality]]
+- If you aspire to be a good conversationalist, be an attentive listener. To be interesting, be interested. Ask questions that others people will enjoy answering. Encourage them to talk about themselves and their accomplishments. [[Advice]] [[Rationality]]
 
 - Remember that the people you are talking to are 100 times more interested in themselves and their wants and problems than they are in you and your problems.
 
@@ -169,7 +169,7 @@
 
 - There is a certain degree of satisfaction in having the courage to admit ones errors. It not only clears the air of guilt and defensiveness, but often helps solve the problem created by the error.
 
-- By fighting you never get enough, but by yielding you get more than you expected. #Advice
+- By fighting you never get enough, but by yielding you get more than you expected. [[Advice]]
 
 - If you are wrong, admit it quickly and emphatically. [[Rules]]
 

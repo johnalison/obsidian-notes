@@ -88,7 +88,7 @@
 
 - The rise of humanism also contains the seeds of its downfall. While the attempt to upgrade humans into gods takes humanism to its logically conclusion, it simultaneously exposes humanism's inherent flaws. If you start with a flawed ideal, you often appreciate its defects only when the ideal is close to realization. [[Religion]] 
 
-- Computers powerful enough to understand and overcome the mechanisms of aging and death will probably also be powerful enough to replace humans in any and all tasks. [[Longevity]] #AI
+- Computers powerful enough to understand and overcome the mechanisms of aging and death will probably also be powerful enough to replace humans in any and all tasks. [[Longevity]] [[AI]]
 
 - At present it may seem that immortality, bliss and divinity occupy the top slots on our agenda. But once we come nearer to achieving these goals the resulting upheavals are likely to deflect us towards entirely different destinations.  The future described above is merely the future of the past -- ie a future based on the ideas and hopes that dominated the world for the last 300 years. The real future -- ie a future born of the new ideas and hopes of the 21C -- might be completely different. [[Politics]]
 
@@ -140,7 +140,7 @@
 
 - During the 21C the border between history and biology is likely to blur not because we will discover biological explanations for historical events, but rather because ideological fictions will rewrite DNA stands; political and economic interests will redesign the climate; and the geography of mountains and rivers will give way to cyberspace. As human fictions are translated into genetic and electronic codes, the intersubjective reality will swallow up the objective reality and biology will merge with history. In the 21C fiction might thereby become the most potent force on earth, surpassing even wayward asteroids and natural selection. [[History]] [[NowIsDifferent]]
 
-- About 5000 years ago the Sumerians invented both money and writing. These Siamese twins - born to the same parents at the same time and in the sample place -- broke the data processing limitations of the human brain. Writing has enabled humans to organize entire societies in an algorithmic fashion. #AI [[History]]
+- About 5000 years ago the Sumerians invented both money and writing. These Siamese twins - born to the same parents at the same time and in the sample place -- broke the data processing limitations of the human brain. Writing has enabled humans to organize entire societies in an algorithmic fashion. [[AI]] [[History]]
 
 - Sousa Mendes, armed with little more than a rubber stamp, was responsible for the largest rescue operation by a single individual during the Holocaust. [[History]] 
 
@@ -233,13 +233,13 @@
 
 - In the 20C liberals explained that we dont have to choose between ethics and economics. Protecting human rights and liberties waas both a more imperative and theh key to economic growth. In the 21C liberalism will have a much harder time selling itself. [[Politics]]
 
-- There might be several alternative ways leaading to super-intelligence, only some of which pass through the straits of consciousness. #AI [[Consciousness]]
+- There might be several alternative ways leaading to super-intelligence, only some of which pass through the straits of consciousness. [[AI]] [[Consciousness]]
 
-- This raises a novel question: which of the two is really important, intelligence or consciousness ? As long as they went hand in hand, debating thier relative value was just an amusing pastime for philosophers. But in the 21C this is becoming an urgent political and economic issue. For armies and corporations, the answer is straightforward: intelligence is mandatory but consciousness is optional. #AI [[Consciousness]]
+- This raises a novel question: which of the two is really important, intelligence or consciousness ? As long as they went hand in hand, debating thier relative value was just an amusing pastime for philosophers. But in the 21C this is becoming an urgent political and economic issue. For armies and corporations, the answer is straightforward: intelligence is mandatory but consciousness is optional. [[AI]] [[Consciousness]]
 
-- We should remind ourselves of the fate of horses during the Industrial Revolution. An ordinary farm horse can small, love, recognize faces, jump over fences and do a thousand other things far better than a Model T or a Lamborghini. But cars nevertheless replaced horses b/c they were superior in the handful of tasks that the system really needed. Taxi drivers are likely to go the way of the horses. #AI
+- We should remind ourselves of the fate of horses during the Industrial Revolution. An ordinary farm horse can small, love, recognize faces, jump over fences and do a thousand other things far better than a Model T or a Lamborghini. But cars nevertheless replaced horses b/c they were superior in the handful of tasks that the system really needed. Taxi drivers are likely to go the way of the horses. [[AI]]
 
-- The most important question in the 21C economics may will be what to do with all the superfluous people. #AI [[Politics]]
+- The most important question in the 21C economics may will be what to do with all the superfluous people. [[AI]] [[Politics]]
 
 - We might end up with an algorithmic upper class owning most of our planet. This may sound impossible, but before dismissing the idea, remember that most of our planet is already owned by non-human entities, namely nations and corporations. Indeed 5000 years ago, much of Sumer was owned by imaginary gods. If gods can possess land and employ people, why not algorithms ? [[Politics]]
 
@@ -249,7 +249,7 @@
 
 - Medicine is undergoing a tremendous conceptual revolution. 20C medicine aimed to heal the sick. 21C medicine is increasingly aiming to upgrade the healthy. [[NowIsDifferent]] [[Longevity]]
 
-- The religions are unlikely to emerge from the caves of Afghanistan or the madrasas of the middle east. Rather, they will emerge form research laboratories. Silicon Valley is where hi-tech gurus are brewing for us brave new religions that have little to do with God, and everything to do with technology. They promise all the old prizes -- happiness, peace, prosperity and even eternal life -- but here on earth with the help of technology, rather than after death with the help of celestial beings. These new techno-religions can be divided into two main types: techno-humanism and data religion. #AI [[Religion]] [[NowIsDifferent]]
+- The religions are unlikely to emerge from the caves of Afghanistan or the madrasas of the middle east. Rather, they will emerge form research laboratories. Silicon Valley is where hi-tech gurus are brewing for us brave new religions that have little to do with God, and everything to do with technology. They promise all the old prizes -- happiness, peace, prosperity and even eternal life -- but here on earth with the help of technology, rather than after death with the help of celestial beings. These new techno-religions can be divided into two main types: techno-humanism and data religion. [[AI]] [[Religion]] [[NowIsDifferent]]
 
 - Data religion argues that humans have completed their cosmic task and should now pass the torch on to entirely new kinds of entities. [[NowIsDifferent]] [[Religion]]
 
@@ -273,17 +273,17 @@
 
 - Data-processing considerations also explain why capitalists favor lower taxes. Heavy taxation mean that a large part of all available capital accumulates in one place -- the state coffers -- and consequently more and more decisions have to be made by a single processor, namely the government. This creates and overly centralized data processing system. In extreme cases, which taxes are exceedingly high, almost all capital ends up in the governments hands, and so the government alone calls the shots. In a free market, if one processor makes a wrong decision, others will be quick to capitalize on its mistake. However, when a single processor makes almost all the decisions, mistakes can be catastrophic. [[Politics]]
 
-- In the 21C, democracy might decline and even disappear. As both the volume and speed of data increase, venerable institutions like elections, political parties, and parliaments might become obsolete -- bot because they are unethical, but because they cant process data efficiently enough. [[Politics]] #AI
+- In the 21C, democracy might decline and even disappear. As both the volume and speed of data increase, venerable institutions like elections, political parties, and parliaments might become obsolete -- bot because they are unethical, but because they cant process data efficiently enough. [[Politics]] [[AI]]
 
 - The critical choices between alternative web designs weren't taken through a democratic political process, even though they involved traditional political issues such as sovereignty, borders, privacy and security. [[Politics]]
 
-- The NSA may be spying on our every word, but to judge by the repeated failures of American foreign policy, nobody in Washington knows what to do with all the data. #AI [[Politics]]
+- The NSA may be spying on our every word, but to judge by the repeated failures of American foreign policy, nobody in Washington knows what to do with all the data. [[AI]] [[Politics]]
 
-- Precisely because technology is now moving so fast, and parliaments and dictators alike are overwhelmed by data they cannot process quickly enough, present-day politicians are thinking on a far smaller scale than their predecessors a century ago. Consequently, in the early 21C, politics is bereft of grand visions.  Government has become mere administration. It manages the country, but no longer leads it. Government ensures that teachers are paid on time and sewage systems dont overflow, but it has no idea where the country will be in 20 years. To a certain extent, this is a very good thing. Given that some of the big political visions of the 20C led us to Auschwitz, Hiroshima, and the Great Leap forward. Many neo-liberal economists and political scientists argue that it is best to leave all the important decisions in the hands of the free market. They there by give politicians the perfect excuse for inaction and ignorance, which are reinterpreted as profound wisdom. Politicians find it convenient to believe that the reason they dont understand the world is that they dont need to understand it. [[Politics]] #AI
+- Precisely because technology is now moving so fast, and parliaments and dictators alike are overwhelmed by data they cannot process quickly enough, present-day politicians are thinking on a far smaller scale than their predecessors a century ago. Consequently, in the early 21C, politics is bereft of grand visions.  Government has become mere administration. It manages the country, but no longer leads it. Government ensures that teachers are paid on time and sewage systems dont overflow, but it has no idea where the country will be in 20 years. To a certain extent, this is a very good thing. Given that some of the big political visions of the 20C led us to Auschwitz, Hiroshima, and the Great Leap forward. Many neo-liberal economists and political scientists argue that it is best to leave all the important decisions in the hands of the free market. They there by give politicians the perfect excuse for inaction and ignorance, which are reinterpreted as profound wisdom. Politicians find it convenient to believe that the reason they dont understand the world is that they dont need to understand it. [[Politics]] [[AI]]
 
-- Dataism: Humans are merely tools for creating the Internet-of-All things, which may eventually spread out from planet earth to pervade the whole galaxy and even the whole universe. This cosmic data-processing system would be like God. It will be everywhere and will control everything, and humans are destined to merge into it. Dataism is the first movement since 1789 that created a genuinely novel value; freedom of information. [[Religion]] #AI
+- Dataism: Humans are merely tools for creating the Internet-of-All things, which may eventually spread out from planet earth to pervade the whole galaxy and even the whole universe. This cosmic data-processing system would be like God. It will be everywhere and will control everything, and humans are destined to merge into it. Dataism is the first movement since 1789 that created a genuinely novel value; freedom of information. [[Religion]] [[AI]]
 
-- 50 Million communal autonomous cars could replace 1 billion private cars, and we would also need fewer roads, bridges, tunnels and parking spaces. Provided, of course, that I renounce my privacy and allow the algorithms always to know where I am and where I want to go. #AI  [[Politics]]
+- 50 Million communal autonomous cars could replace 1 billion private cars, and we would also need fewer roads, bridges, tunnels and parking spaces. Provided, of course, that I renounce my privacy and allow the algorithms always to know where I am and where I want to go. [[AI]]  [[Politics]]
 
 - Traditional religions assured you that your every word and action was part of some great cosmic plan, and that God watched you every minute and cared about your thoughts and feelings. Data religions now says that your every word and action is part of the great data flow, that the algorithms are constantly watching you and that they care about everything you do and feel. [[Religion]]
 
@@ -295,7 +295,7 @@
 
 - Our love, our fear and our passion aren't some nebulous spiritual phenomena good only for composing poetry. Rather, they encapsulate millions of years of practical wisdom. When you listen to your feelings, you follow an algorithm that evolution has developed for millions of years, and that withstood the harshest quality-control tests of natural selection. Your feelings are not infallible, of course, but they are better than most other sources of guidance. [[WhoWeAre]] 
 
-- Yet in the 21C feelings are no longer the best algorithms in the world. Consequently you should stop listening to your feelings and start listening to these external algorithms instead. Whats the point of having democratic elections when the algorithms know not only how each person is going to vote, but also the underlying neurological reasons why one person votes Democrat while another votes Republican? [[Politics]] #AI
+- Yet in the 21C feelings are no longer the best algorithms in the world. Consequently you should stop listening to your feelings and start listening to these external algorithms instead. Whats the point of having democratic elections when the algorithms know not only how each person is going to vote, but also the underlying neurological reasons why one person votes Democrat while another votes Republican? [[Politics]] [[AI]]
 
 - Dataism will probably accelerate the humanist pursuit of heath, happiness and power. Yet once authority shifts from humans to algorithms, the humanist projects may become irrelevant. [[Religion]] [[Happiness]]
 

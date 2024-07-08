@@ -16,7 +16,7 @@
 
 - Many Greeks believed that the discovery of Iron had been to the hurt of man.
 
-  #AI
+  [[AI]]
 
 - Instead of thinking of Greek culture as a flame that shone suddenly and miraculously amid a sea of barbarism, we must conceive of it as the slow and turbid creation of a people almost too richly endowed in blood am memories, and surrounded challenged, and instructed by warlike hordes, powerful empires, and ancient civilizations.
 
@@ -45,7 +45,7 @@
 
 - The most unfortunate man is he who has not learned how to bear misfortune; men ought to order their lives as if they where fated to live both a long and short time; wisdom should be cherished as a means of traveling from youth to old age, for it is more lasting than any other possession  - Polycrates of Samos
 
-  #Advice [[Stoicism]]
+  [[Advice]] [[Stoicism]]
 
 - For men to get all they wish is not the best thing; it is disease that makes health pleasant; evil, good; hunger, surfeit; toil, rest.
 
@@ -140,6 +140,6 @@
    To accustom ourselves to plain living and simple ways is an almost certain road to health.
    The gods are not to be feared; death cannot be felt; the good can be had; the bad can be avoided.
 
-   [[Epicurean]]  #Advice [[Quotes]]
+   [[Epicurean]]  [[Advice]] [[Quotes]]
 
 - The Stoics lent countenance to superstition, and had an injurious effect upon science; but they saw clearly the basic problem of their age - the collapse of the theological basis of morals -- and they made an honest attempt to bridge the gap between religion and philosophy.

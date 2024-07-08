@@ -8,8 +8,8 @@
 
 - Any time you develop goals that do not call upon talents you enjoy or wish to develop, attaining that goal will be more difficult.
 
-  #Advice
+  [[Advice]]
 
 - Picture how the people you wish to emulate would act in your most difficult situations.
 
-  #Advice [[RoleModels]]
+  [[Advice]] [[RoleModels]]

@@ -8,7 +8,7 @@
 
 - The 20C for a physicist begins in 1895 with the discovery of X-ray. Not so much b/c they were important in and of themselves, but because they encouraged physicists to believe that there was much more to be discovered.
 
-  #AdjacentPossible
+  [[AdjacentPossible]]
 
 - Chalk, calcium carbonate consists of countless fossil shells of tiny animals that lived in ancient seas.
     - Chalk strongly absorbs in the UV and IR, not the visible. Light reflected from chalk has pretty much the same distribution of visible wavelengths as the light that illuminates it. This is why chalks (or snow, clouds) are white.

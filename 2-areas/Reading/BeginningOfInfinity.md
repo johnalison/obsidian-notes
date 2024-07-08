@@ -82,7 +82,7 @@
 - "Good Explanations" are hard to vary. It is only with good explanations that it even matters whether a theory is testable. (Bad explanations are useless even if testable.)
    Discoveries of good explanations is hard, but the harder they are to find, the harder they are to vary once found.
 
-#AdjacentPossible
+[[AdjacentPossible]]
 
 - Quest for Good explanations is the basic regulating principle of not only science, but the Enlightenment in general.  It is the path (only?) to progress and truth.
 
@@ -258,7 +258,7 @@
     Before the jump there are specialized tools for each use case
     After the jump once customizes (or specializes or programs) a universal object
 
-#AI [[Complexity]] [[Computers]] 
+[[AI]] [[Complexity]] [[Computers]] 
 
 - There is more of a reason to model the brain as a computer then as a steam engine:
   A computer, but not a steam engine, is a universal simulator.
@@ -294,14 +294,14 @@
 
 - Judging whether something is really a genuine AI will always depend on explanations of how it works.
 
-#AI
+[[AI]]
 
 - A chatbot responds as though it had created knowledge in composing a response to a question, in reality the knowledge was created earlier and elsewhere.
 
 - The field of AGI has made no real progress because there is an unsolved philosophical problem at its heart: we dont understand how creativity works.
    Claim: Once that problem is solved, programming AI will not be difficult.
 
-#AI
+[[AI]]
 
 - Mathematicians realized centuries ago that it is possible to work consistently and useful with infinity.
 
@@ -409,7 +409,7 @@
 
 - Because there can only be one type of person: universal explainers and constructors; the idea that there could be beings that are to us as we are to animals is a belief in the supernatural.
 
-#AI
+[[AI]]
 
 - Political policies (like scientific theories) cannot be derived from anything; they are conjectures. We should chose between them not based on their origin, but based on how good they are as explanations, how hard they are to vary.
 
@@ -431,7 +431,7 @@
 - Good customs: Defy anyone who seeks your submission
                 Gave a hearing to anyone who offers honest criticism, seeking to change you mind by persuasion.
 
-[[Protocols]]  [[Ethics]] #Advice
+[[Protocols]]  [[Ethics]] [[Advice]]
 
 - Moral Imperative: Do not destroy the means of correcting mistakes.  (possible the only moral imperative, all others follow?)
 

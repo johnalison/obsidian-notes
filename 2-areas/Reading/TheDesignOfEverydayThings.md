@@ -16,7 +16,7 @@
 
 - We often dont know what we are about to do, say, or think until after we have dont it. (Good reason to journal) 
 
-- We tend to use logic and reason after the fact to justify our decisions to ourselves and others. (What does this say about "interpretable AI"?)  (#AI)
+- We tend to use logic and reason after the fact to justify our decisions to ourselves and others. (What does this say about "interpretable AI"?)  ([[AI]])
 
 - "Human error" usually the result of poor design. Should be called "System Error" 
 

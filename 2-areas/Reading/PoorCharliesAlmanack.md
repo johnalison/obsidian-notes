@@ -4,7 +4,7 @@
 
 - Any year where you dont destroy one of your best-loved ideas is probably a wasted year. "John Galbraith"
 
- #Advice
+ [[Advice]]
 
 - Charlies most fundamental guiding principles are: preparation, patience, discipline, and objectivity.
    Preparation: More important than the will to win is the will to prepare
@@ -12,12 +12,12 @@
    		Dont overlook the obvious by drowning in the minutiae. 
    Discipline: Reputation and integrity are you most valuable assets and can be lost in a heartbeat
    
- [[Munger]] #Advice [[Dependability]]
+ [[Munger]] [[Advice]] [[Dependability]]
 
 - "Track records are very important. If you start early to have a perfect track record in some simple thing like honest, you're well on your way to success in this world."
    Charlie Munger
 
- #Advice
+ [[Advice]]
 
 - We dont claim to have perfect morals, but at least we have a huge area of things that, while legal, are beneath us.
   There should be a huge area between everything you should do and everything you can do without getting into legal trouble.
@@ -30,7 +30,7 @@
 
 - The ethos of not fooling yourself is one of the best you can possible have.  Its powerful because its so rare.
 
-  #Advice
+  [[Advice]]
 
 - Organized common (or uncommon) sense -- very basic knowledge -- is an enormously powerful tool. There are huge dangerous with computers. People calculate too much and think too little.
 
@@ -52,7 +52,7 @@ Elementary Wordly Wisdom:
     - Apply elementary multidisciplinary wisdom, never relying entirely upon others
     - Watch out for combinations of factors ("Lollapalooza effects")
 
- #Advice [[Munger]]
+ [[Advice]] [[Munger]]
 
 - If you always tell people why, they will understand better.
    The human mind is not constructed so that it works well without having reasons. You've got to hang reality on a theoretical structure with reasons.
@@ -74,7 +74,7 @@ Elementary Wordly Wisdom:
 
 - You have got to know what you know and what you dont know. What could possible be more useful in life than that ?
 
-  #Advice  
+  [[Advice]]  
 
 - Academic Psychology: Academic psychology departments are immensely more important and useful than other departments think.
   At the same time the psychology departments are immensely worse than most of their inhabitants think.
@@ -83,7 +83,7 @@ Elementary Wordly Wisdom:
 
 - "There is no limit to what a man can do or where he can go if he doesn't mind who gets the credit" Robert Woodruff
 
-  #Advice [[ExtremeOwnership]] [[Leadership]]
+  [[Advice]] [[ExtremeOwnership]] [[Leadership]]
 
 - Meetings are indispensable when you dont want to get anything done. "John Galbraith"
 
@@ -161,4 +161,4 @@ Elementary Wordly Wisdom:
 
 - Dread and avoid as much as possible rewarding people for what can be easily faked.
 
-  #Advantage
+  [[Advantage]]

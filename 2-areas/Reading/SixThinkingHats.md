@@ -132,7 +132,7 @@
 
 - One of the weakest aspects of creativity is the "harvesting" of ideas.
 
-- Would be nice if everyone could see in an idea the brilliance and potential that is obvious to the originator. This is often not the case. Part of the create process is to shape the idea so that it better fits the need profile of those who are going to have to "buy" the idea. #AdjacentPossible [[SeeTheGood]] [[SeeTheGood]]
+- Would be nice if everyone could see in an idea the brilliance and potential that is obvious to the originator. This is often not the case. Part of the create process is to shape the idea so that it better fits the need profile of those who are going to have to "buy" the idea. [[AdjacentPossible]] [[SeeTheGood]] [[SeeTheGood]]
      eg: Is there a way this idea can be seen as saving money ?
      	 How can this been seen as an extension of what we are currently doing ?
 
@@ -156,7 +156,7 @@
 
 - A powerful way of treating opposing idea is to suppose that each is correct under certain circumstances. [[Protocols]]
 
-- Will probably have to make computers emotional if they are to think intelligently #AI
+- Will probably have to make computers emotional if they are to think intelligently [[AI]]
 
 - Facts and Figures can never be treated objectively when put forward as part of an argument
 
@@ -166,11 +166,11 @@
 
 - In a normal business discussion you are not supposed to allow your emotions to come in; they come in anyway disguised as logic.
 
-- Those who believe progress arises from the analysis of information and steps of logical deduction are totally wrong. Without a framework of possibilities we cannot see the information in a new way.  #AdjacentPossible
+- Those who believe progress arises from the analysis of information and steps of logical deduction are totally wrong. Without a framework of possibilities we cannot see the information in a new way.  [[AdjacentPossible]]
 
 - Difference between a good and bad thinker lies in the ability to focus.
 
-  #Advice
+  [[Advice]]
 
 - A problem is really only a special type of question: How do we achieve this?
 

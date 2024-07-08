@@ -69,7 +69,7 @@
   - embrace radical incrementalism: be willing to stop when your day is up, even when on a roll. Strengthens the patience muscle that will allow you to return to a problem again and again
   - originality lies on the far side of unoriginality
 
-#Advice 
+[[Advice]] 
 
 - The next and most useful thing is all that any of us can aspire to do an any moment.
 

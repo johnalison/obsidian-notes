@@ -80,7 +80,7 @@
 
 - "Put all your eggs into one basket and then watch the basket" - Andrew Carnegie "Do not scatter your shot... The great successes of life are make by concentration"
 
-  #Advice  [[UnpopularTruth]]
+  [[Advice]]  [[UnpopularTruth]]
 
 - It is easy to tell you not to speculate, the hard thing will be for you to follow this advice
 
@@ -112,7 +112,7 @@
 
 - It is undoubtedly better to concentrate on one stock you know is going to prove highly profitable rather than dilute your results to a mediocre figure, merely for diversification's sake. 
 
-  #Advice
+  [[Advice]]
 
 - As of 2003, assumed returns above 6.5% is implausible, while a rising rate is downright delusional.
 

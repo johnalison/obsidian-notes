@@ -4,9 +4,9 @@
 
 - In a world deluged by information, clarity is power. 
 
-- Philosophy, religion and science all running out of time. People have debated the meaning of life for 1000s of years. We cannot continue this debate indefinitely. The looming ecological crises, the threat of WMDs, and the rise of technological revolution will not allow it.  AI and biotech are giving humanity the power to reshape and re-engineer life. Very soon somebody will have to decide how to use this power based on some implicit or explicit story about the meaning of life. [[Religion]] #AI [[WhoWeAre]]
+- Philosophy, religion and science all running out of time. People have debated the meaning of life for 1000s of years. We cannot continue this debate indefinitely. The looming ecological crises, the threat of WMDs, and the rise of technological revolution will not allow it.  AI and biotech are giving humanity the power to reshape and re-engineer life. Very soon somebody will have to decide how to use this power based on some implicit or explicit story about the meaning of life. [[Religion]] [[AI]] [[WhoWeAre]]
 
-- Humans think in stories, not facts, numbers or equations. The simpler the better. [[WhoWeAre]] #AI
+- Humans think in stories, not facts, numbers or equations. The simpler the better. [[WhoWeAre]] [[AI]]
 
 - In 1938 human offered 3 global stories to choose from: In 1968 just 2; in 1998 a single story, now we are down to 0 in 2018. [[History]]
 
@@ -22,29 +22,29 @@
 
 - Replacing all human drivers by computers is expected to reduce deaths and injuries by 90%. 
 
-- The US army needs 30 people to operate every "unmanned" drone over Syria. #AI
+- The US army needs 30 people to operate every "unmanned" drone over Syria. [[AI]]
 
-- Since alpha_0 learned nothing from humans, many of its winning moves and strategies seems unconventional to the human eye. They are considered creative, if not downright genius. #AI
+- Since alpha_0 learned nothing from humans, many of its winning moves and strategies seems unconventional to the human eye. They are considered creative, if not downright genius. [[AI]]
 
-- alpha_0 went from utter ignorance to creative mastery in four hours without human help. #AI
+- alpha_0 went from utter ignorance to creative mastery in four hours without human help. [[AI]]
 
-- If people play an exceptionally creative move in human-only chess tournaments, the judges will often suspect that it can possible be a human move. In chess, creativity is already considered to be the hallmark of computers rather than humans!!! #AI [[Paradox]]
+- If people play an exceptionally creative move in human-only chess tournaments, the judges will often suspect that it can possible be a human move. In chess, creativity is already considered to be the hallmark of computers rather than humans!!! [[AI]] [[Paradox]]
 
 - Human kind had to develop completely new models - liberal democracy, communist dictatorship, and fascist regimes - and it took more than a century of terrible wars and revolutions to experiment with these models, separate the wheat from the chaff, and implement the best solutions. Child labor in Dickensian coal mines, the First World War, the Great Ukrainian Famine, constituted just a small part of the tuition fees that humankind had to pay for the Industrial Revolution. [[History]]
 
 - This time around, the failed models that might result in nuclear wars, genetically engineered monstrosities, and a complete breakdown of the biosphere. We have to do better than we did in confronting the Industrial Revolution. [[History]] [[NowIsDifferent]]
 
-- Referendums and elections are always about human feelings not about human rationality. If democracy were a matter of rational decision-making, where would be absolutely no reason to give all people equal voting rights - or perhaps any voting rights at all. [[Politics]] #AI
+- Referendums and elections are always about human feelings not about human rationality. If democracy were a matter of rational decision-making, where would be absolutely no reason to give all people equal voting rights - or perhaps any voting rights at all. [[Politics]] [[AI]]
 
-- Once somebody gains the technological ability to hack and manipulate the human heart, democratic politics will mutate into an emotional puppet show. [[Politics]] #AI [[NowIsDifferent]]
+- Once somebody gains the technological ability to hack and manipulate the human heart, democratic politics will mutate into an emotional puppet show. [[Politics]] [[AI]] [[NowIsDifferent]]
 
 - Feelings are biochemical mechanisms that all mammals and birds use in order to quickly calculate probabilities of survival and reproduction. Feels are therefore not the opposite of rationality, they embody evolutionary rationality. [[MentalModels]] [[Rationality]]
 
 - We dont feel the millions of neurons in the brain computing probabilities of survival and reproduction, so we erroneously believe that our feelings are the result of some mysterious "free will". [[FreeWill]] [[Consciousness]]
 
-- For all practical purposes, it was reasonable to argue that I have free will, which nobody outside of me could see. I could enjoy the illusion that I controlled my secret inner arena, while outsiders could never really understand what was happening inside me and how I make decisions. [[FreeWill]] #AI
+- For all practical purposes, it was reasonable to argue that I have free will, which nobody outside of me could see. I could enjoy the illusion that I controlled my secret inner arena, while outsiders could never really understand what was happening inside me and how I make decisions. [[FreeWill]] [[AI]]
 
-- We are now at the confluence of two immense revolutions. Biologists are deciphering the mysteries of the human body, and in particular of the brain and human feelings. At the same time computer scientists are giving us unprecedented data-processing power. When the biotech revolution merges with the infotech revolution, it will produce Big Data algorithms that can monitor and understand my feelings much better than I can. [[NowIsDifferent]] #AI [[History]]
+- We are now at the confluence of two immense revolutions. Biologists are deciphering the mysteries of the human body, and in particular of the brain and human feelings. At the same time computer scientists are giving us unprecedented data-processing power. When the biotech revolution merges with the infotech revolution, it will produce Big Data algorithms that can monitor and understand my feelings much better than I can. [[NowIsDifferent]] [[AI]] [[History]]
 
 - "Trolley problems" up till now these arguments have had embarrassingly little impact on actual behavior. [[Philosophy]]
 
@@ -147,7 +147,7 @@
 
 - The last thing a teacher needs to give her pupils is more information. They already have far too much of it. Instead, people need the ability to make sense of information, to tell the difference between what is important and what is unimportant, and above all to combine many bits of information into a broad picture of the world. [[ShouldTeachKids]]
 
-- For thousands of years philosophers and prophets have urged people to know themselves. This advice was never more urgent than in the 21st century, now we have serious competition. We are living in the era of hacking humans.  [[NowIsDifferent]] #AI
+- For thousands of years philosophers and prophets have urged people to know themselves. This advice was never more urgent than in the 21st century, now we have serious competition. We are living in the era of hacking humans.  [[NowIsDifferent]] [[AI]]
 
 - To give meaning to my life a story needs to satisfy just two conditions: First, it must give me some role to play. Second, it must extend beyond my horizons. [[Religion]] [[Politics]]
 
