@@ -44,7 +44,7 @@
 
 - When you see out sized output by an individual it is usually because they have many things working in their favor all at one to produce that out-sized impact. This can actually viewed as a positive. It means that such out-sized output can be created within an organization, not be recruiting world-class all-stars, but by crafting the right project and roles. ("10X team")
 
-  #Leadership
+  [[Leadership]]
 
 - Commandos, infantry, and police.  Sometimes being a commando, even though it sounds really exciting, actually hurts the project.
 

@@ -8,17 +8,17 @@
 
 - If your boss has a bad plan. Put the onus in yourself as to why the idea from your boss doesn't make sense.  How much will be gained by approaching the boss and trying to convince them to change their plan ? IF the difference is minimal, its is probably not worth investing any time or effort into it. Next, ask yourself how much of your concern is just your ego. Lastly, ask yourself if you will be moving your relationship with your boss forward or backward by raising this issue.
 
-  #Leadership #Advice 
+  [[Leadership]] #Advice 
 
 - People almost always like their own ideas better than anyone else's.
 
 - Good leaders find other people to bring onto the team who compensate for their shortfalls.
 
-  #Leadership
+  [[Leadership]]
 
 - Truth and honesty are perhaps the most essential of leadership qualities. Tell the truth to your people. Tell the truth to your boss. Tell the truth to your peers. And, of course, tell the truth to yourself.
 
-  #Leadership #KnowReality
+  [[Leadership]] [[KnowReality]]
 
 - Subordinates will actually respect the leader more if they come and try to learn and perform the task. eg: the CEO of an equipment manufacturer should go and build a product from beginning to end at least once a month so they are always in touch with the process.
 
@@ -30,11 +30,11 @@
 
 - To build respect and influence, you have to give respect and influence. Treat people with respect. All them to give their opinion. Listen to them. Dont interrupt them. dont disparage the importance of their job or position. Share the burden of hard tasks. IF you want to have influence over others, you need to allow them to have influence over you. That means when you listen to them, you actually **_listen_**. You consider their recommendations and, whenever possible, you incorporate their thoughts and ideas into what you are trying to accomplish. You keep and open mind.
 
-  #Leadership
+  [[Leadership]]
 
 - There are times when people will say and do things that make no sense. There are times when things will not go the way you want. When this happens, good leaders remain levelheaded. Dont get agitated. Keep you emotions in check. Take measured account of the situation. Keep you opinions to yourself as you analyze, logically, what is actually happening.
 
-  #Leadership
+  [[Leadership]]
 
 - Everyone is the same, but everyone is different. The better a leader understand this dichotomy, the better they will understand people. There are archetype people in every organization. There characters are everywhere; people are the same. However, they have different motivations, different agendas, different idiosyncrasies, and different ideas. As much as you can categorize someone as a "leader" or a "loner", they are all still completely different from other leaders and other loners you have worked with.
 
@@ -42,13 +42,13 @@
 
 - A good rule to follow is that a leader should err on the side of not getting involved in problems; the goal is always to allow problems to get solved at the lowest level.
 
-  #Leadership
+  [[Leadership]]
 
 - The attitude you that with any team should be that everyone's job is absolutely critical.
 
 - Instead of me forcing my plan on them, I would have them go back to the drawing board, take the lessons they had just learned from their bad plan, and come up with a new one of their own. This allows them to have true buy-in and ownership of it.  Let your subordinates come up with the plan. Not only will it result in their taking ownership it will also give you the standoff distance and attitude you need to see holes in it. The biggest obstacle in allowing subordinates leaders to come up with a plan is your ego.
 
-  #Leadership
+  [[Leadership]]
 
 - If you want optimal performance, dont just count on your brain power. Instead encourage the rest of your team to think and question you.
 
@@ -112,7 +112,7 @@
 
 - Remember: when you are the leader, your words will impact the behavior of your subordinates and the team more than you think. Think before you speak, and measure your words carefully.
 
-  #Leadership [[RespondDontReact]]
+  [[Leadership]] [[RespondDontReact]]
 
 - Hope is not a course of action. You cannot rely on hope. You have to plan. You have to consider contingencies. You have to stack the deck in your favor.
 
@@ -120,7 +120,7 @@
 
 - Reflect and diminish means to reflect the emotions you are seeing from your subordinate but diminish them to a more controlled level.
 
-- Yelling because you are angry, frustrated, panicking, or otherwise emotional is weak leadership, and your team members will mimic your behavior.  If you get angry, so will they. If you get frustrated, so will they. If you start to panic so will they. #Kids [[Wife]] #Leadership
+- Yelling because you are angry, frustrated, panicking, or otherwise emotional is weak leadership, and your team members will mimic your behavior.  If you get angry, so will they. If you get frustrated, so will they. If you start to panic so will they. [[Kids]] [[Wife]] [[Leadership]]
 
 - The less you talk the more people listen.
   Dont be the person who is always talking.

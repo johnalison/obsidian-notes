@@ -1,8 +1,8 @@
 # How to win friends and influence people (Dale Carnegie)
 
-- Dealing with people is probably the biggest problem you face. #Leadership
+- Dealing with people is probably the biggest problem you face. [[Leadership]]
  
-- "The ability to deal with people is as purchasable a commodity as sugar or coffee. And I will pay more for that ability than for any other under the sun" John D Rockefeller. #Leadership
+- "The ability to deal with people is as purchasable a commodity as sugar or coffee. And I will pay more for that ability than for any other under the sun" John D Rockefeller. [[Leadership]]
 
 - "The great aim of education is not knowledge, but action" Herbert Spencer. And this is an action book. #BeTheGood
 
@@ -16,9 +16,9 @@
 
 - What to ask yourself each day: "What mistakes did I make ?" "What did I do that was right -- and in what way could I have improved my performance ?" "What lessons can I learn from that experience?" [[Questions]] #Checklists
 
-- The resentment that criticism engenders can demoralize employees, family members and friends, and still not correct the situation that has been condemn. #Leadership 
+- The resentment that criticism engenders can demoralize employees, family members and friends, and still not correct the situation that has been condemn. [[Leadership]] 
 
-- Let us realize that the person we are going to correct and condemn will probably justify himself and condemn us in return. #Leadership 
+- Let us realize that the person we are going to correct and condemn will probably justify himself and condemn us in return. [[Leadership]] 
 
 - Sharp criticisms and rebukes almost always end in futility. 
 
@@ -108,7 +108,7 @@
 
 - Most people fail to make a favorable impression because they dont listen attentively. They have been so much concerned with what they are going to say next that they do not keep their ears open... Very important people have told me that they prefer good listeners to good talkers, but the ability to listen seems rarer than almost any other good trait. [[Protocols]]
 
-- If you want to know how to make people shun you and laugh at you behind your back and even despise you, here is the recipe: Never listen to anyone for long. Talk incessantly about yourself. If you have an idea while the other person is talking, dont wait for him or her to finish: bust right in and interrupt in the middle of a sentence. [[MentalModels]] #Leadership 
+- If you want to know how to make people shun you and laugh at you behind your back and even despise you, here is the recipe: Never listen to anyone for long. Talk incessantly about yourself. If you have an idea while the other person is talking, dont wait for him or her to finish: bust right in and interrupt in the middle of a sentence. [[MentalModels]] [[Leadership]] 
 
 - Those people who think only of themselves are hopelessly uneducated, no matter how instructed they may be. #Advice
 
@@ -194,7 +194,7 @@
 
 - You deserve very little credit for being what you are -- and remember, the people who come to you irritated, bigoted, unreasoning, deserve very little discredit for being what they are. Feel sorry for the poor devils. Pity them. Sympathize with them. Say to yourself "There, but for the grace of God, go I" #ExtremeOwnership
 
-- 3/4 of the people you meet are hungering and thirsting for sympathy. Give it to them, and they will love you. #Leadership
+- 3/4 of the people you meet are hungering and thirsting for sympathy. Give it to them, and they will love you. [[Leadership]]
 
 - Have the satisfaction of controlling your temper, the satisfaction of returning kindness for insult.
 
@@ -204,21 +204,21 @@
 
 - The way to get things done is to stimulate competition. I do not mean sordid, money-getting way, but in the desire to excel" [[MentalModels]]
 
-- Its always easier to listen to unpleasant things after we have heard some praise of our good points. #Leadership
+- Its always easier to listen to unpleasant things after we have heard some praise of our good points. [[Leadership]]
 
 - Call attention to the behavior we wished to change indirectly.  [[Protocols]]
 
-- People are more likely to accept an order if they have had a part in the decision that cause the order to be issued. Ask questions instead of giving direct orders. #Leadership
+- People are more likely to accept an order if they have had a part in the decision that cause the order to be issued. Ask questions instead of giving direct orders. [[Leadership]]
 
-- Let one save face! Hit important, how vitally important it is! And how few of us ever stop to think of it. #Leadership
+- Let one save face! Hit important, how vitally important it is! And how few of us ever stop to think of it. [[Leadership]]
 
-- Let us praise even the slightest improvement. That inspires the other person to keep on improving. #Leadership
+- Let us praise even the slightest improvement. That inspires the other person to keep on improving. [[Leadership]]
 
-- Everybody likes to be praised, but when praise is specific, it comes across as sincere -- not something the other person may be saying just to make one feel good. #Leadership
+- Everybody likes to be praised, but when praise is specific, it comes across as sincere -- not something the other person may be saying just to make one feel good. [[Leadership]]
    - Praise the slightest improvement and praise every improvement. 
 
-- If you want to improve a person in a certain respect, act as though that particular trait where already one of his or her outstanding characteristics.  "Assume a virtue, if you have it not" And it might be well to assume and state openly that other people have the virtue you want them to develop. Give them a fine reputation to live up to, and they will make prodigious efforts rather than see you disillusioned. #Leadership
+- If you want to improve a person in a certain respect, act as though that particular trait where already one of his or her outstanding characteristics.  "Assume a virtue, if you have it not" And it might be well to assume and state openly that other people have the virtue you want them to develop. Give them a fine reputation to live up to, and they will make prodigious efforts rather than see you disillusioned. [[Leadership]]
 
-- Praise the things others do right, and minimize their errors. Be liberal with your encouragement, make the thing seem easy to do, let the other person know that you have faith in their ability to do it, that they have an undeveloped flair for it. #Leadership
+- Praise the things others do right, and minimize their errors. Be liberal with your encouragement, make the thing seem easy to do, let the other person know that you have faith in their ability to do it, that they have an undeveloped flair for it. [[Leadership]]
 
-- Always make the other person happy about doing the thing you suggest.   [[Rationality]] #Leadership
+- Always make the other person happy about doing the thing you suggest.   [[Rationality]] [[Leadership]]

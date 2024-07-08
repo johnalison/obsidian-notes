@@ -21,7 +21,7 @@
 - Perception is by far the most important part of thinking.  Almost all the errors of thinking are errors of perception. In real life, logical errors are quite rare.
   Unlike most books on thinking this book is not about logic but about perception.
 
-  #KnowReality [[Rationality]] [[ShouldTeachKids]]
+  [[KnowReality]] [[Rationality]] [[ShouldTeachKids]]
 
 - Some very fundamental thinking tools are put forward in the book.  The tool are really "attention-direction" tools.
 
@@ -49,7 +49,7 @@
 
 - Useful communication must always be in the language of the receiver.
 
-  [[Rationality]] [[ShouldTeachKids]] #Leadership
+  [[Rationality]] [[ShouldTeachKids]] [[Leadership]]
 
 - The size of a decision is always proportional to the inadequacy of the reason for making it.  We are only called in to make decisions when an analysis of information is insufficient -- that is to say when we have to speculate or guess or apply human values and emotions. So the human element in a decision is vital. In the end all decisions are emotional.
 

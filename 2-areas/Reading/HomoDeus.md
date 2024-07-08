@@ -26,19 +26,19 @@
 
 - The most common reaction of the human mind to achievement is not satisfaction, but craving for more. #Buddhism
 
-- Having secured unprecedented levels of prosperity, health and harmony, and given our past record and current values, humanity's next targets are likely to be immortality, happiness and divinity. [[WhoWeAre]] [[Politics]] [[History]] #Longevity
+- Having secured unprecedented levels of prosperity, health and harmony, and given our past record and current values, humanity's next targets are likely to be immortality, happiness and divinity. [[WhoWeAre]] [[Politics]] [[History]] [[Longevity]]
 
-- In the 21C humans are likely to make a serious bid for immortality. [[NowIsDifferent]] #Longevity
+- In the 21C humans are likely to make a serious bid for immortality. [[NowIsDifferent]] [[Longevity]]
 
 - Throughout history, religions and ideologies did not sanctify life itself. They always sanctified something above or beyond earthly existence, and were consequently quite tolerant of death. [[Religion]]
 
-- Humans always die due to some technical glitch. #Longevity
+- Humans always die due to some technical glitch. [[Longevity]]
 
-- "There are three main modes of approaching death: You can accept it, deny it or you can fight it. I think our society is dominated by people who are into denial or acceptance, and I prefer to fight it" Peter Theil. #Longevity 
+- "There are three main modes of approaching death: You can accept it, deny it or you can fight it. I think our society is dominated by people who are into denial or acceptance, and I prefer to fight it" Peter Theil. [[Longevity]] 
 
-- Its not easy to live knowing that you are going to die, but it is even harder to believe in immortality and be proven wrong. #Longevity [[Religion]]
+- Its not easy to live knowing that you are going to die, but it is even harder to believe in immortality and be proven wrong. [[Longevity]] [[Religion]]
 
-- In truth, so far modern medicine hasn't extended our natural lifespan by a single year. Its great achievement has been to save us from premature death. [[Science]] #Longevity
+- In truth, so far modern medicine hasn't extended our natural lifespan by a single year. Its great achievement has been to save us from premature death. [[Science]] [[Longevity]]
 
 - Epicurus explained that worshiping gods is a waste of time, that there is no existence after death, and that happiness is the sole purpose of life. Most people in ancient times rejected Epicurean-ism, but today it has become the default view. #Epicurean
 
@@ -88,7 +88,7 @@
 
 - The rise of humanism also contains the seeds of its downfall. While the attempt to upgrade humans into gods takes humanism to its logically conclusion, it simultaneously exposes humanism's inherent flaws. If you start with a flawed ideal, you often appreciate its defects only when the ideal is close to realization. [[Religion]] 
 
-- Computers powerful enough to understand and overcome the mechanisms of aging and death will probably also be powerful enough to replace humans in any and all tasks. #Longevity #AI
+- Computers powerful enough to understand and overcome the mechanisms of aging and death will probably also be powerful enough to replace humans in any and all tasks. [[Longevity]] #AI
 
 - At present it may seem that immortality, bliss and divinity occupy the top slots on our agenda. But once we come nearer to achieving these goals the resulting upheavals are likely to deflect us towards entirely different destinations.  The future described above is merely the future of the past -- ie a future based on the ideas and hopes that dominated the world for the last 300 years. The real future -- ie a future born of the new ideas and hopes of the 21C -- might be completely different. [[Politics]]
 
@@ -247,7 +247,7 @@
 
 - Throughout history the rich have enjoyed many social and political advantages, but no huge biological gap ever separated them from the poor. In the future, however, we may see real gaps in physical and cognitive abilities opening between an upgraded upper class and the rest of society. [[NowIsDifferent]]
 
-- Medicine is undergoing a tremendous conceptual revolution. 20C medicine aimed to heal the sick. 21C medicine is increasingly aiming to upgrade the healthy. [[NowIsDifferent]] #Longevity
+- Medicine is undergoing a tremendous conceptual revolution. 20C medicine aimed to heal the sick. 21C medicine is increasingly aiming to upgrade the healthy. [[NowIsDifferent]] [[Longevity]]
 
 - The religions are unlikely to emerge from the caves of Afghanistan or the madrasas of the middle east. Rather, they will emerge form research laboratories. Silicon Valley is where hi-tech gurus are brewing for us brave new religions that have little to do with God, and everything to do with technology. They promise all the old prizes -- happiness, peace, prosperity and even eternal life -- but here on earth with the help of technology, rather than after death with the help of celestial beings. These new techno-religions can be divided into two main types: techno-humanism and data religion. #AI [[Religion]] [[NowIsDifferent]]
 

@@ -56,7 +56,7 @@
 
 - Being indecisive is decidedly preferable to being decisively wrong.
 
-  #Leadership [[Rationality]]
+  [[Leadership]] [[Rationality]]
 
 - Most 18C armies did not fight in the winter b/c it was too hard to supply and army in the field. The American militias were unusually effective in the cold season, for two reasons
   - Farmers serving in the militias were not as busy with crops

@@ -16,7 +16,7 @@
 
 - Power, like taxes, succeeds best when it is invisible and indirect.
 
-  #Leadership
+  [[Leadership]]
 
 - Custom gives the same stability to the group that heredity and instinct give to the species, and habit to the individual. It is the routine that keeps men sane; for if there were no grooves along which thought and action might move with unconscious ease, the mind would be perpetually hesitant, and would soon take refuge in lunacy.
 
@@ -198,7 +198,7 @@
 - The Mohammedan conquest of India is probably the bloodiest story in history. It is a discouraging tale, for its evident moral is that civilization is a precarious thing, whose delicate complex of order and liberty, culture and peace may at any time be overthrown by barbarians invading from without or multiplying from within. For 400 years (600- 1000 AD) India invited conquest; and at last it came. 
   The invaders were armed with a religion militaristic in operation, but far superior in its stoical monotheism to any of the popular cults of India.
   The bitter lesson that may be drawn from this tragedy is that eternal vigilance is the price of civilization. A nation must love peace, but keep its power dry.
-  [[Politics]]  #KeepYourPowderDry
+  [[Politics]]  [[KeepYourPowderDry]]
 
 - In the 7C the Arabs captured Persia and Egypt, and thereafter trade between Europe and Asia passed through Muslim hands; hence the Crusades, and Columbus.
 

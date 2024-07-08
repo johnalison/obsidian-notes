@@ -86,7 +86,7 @@
 
 - Quest for Good explanations is the basic regulating principle of not only science, but the Enlightenment in general.  It is the path (only?) to progress and truth.
 
-#KnowReality
+[[KnowReality]]
 
 - Criterion for reality: a particular thing is real if and only if it figures in our best explanation of something.
   Abstract entities can be real and can play a role in causing physical phenomena (see: Hofstadter example of prime number domino calculator)
@@ -95,7 +95,7 @@
 
 - Conjectures are the product of imagination, but imagination can create fiction much more easily than reflect reality.
 
-- The explanation-based conception of science is why we can know so much about ***unfamiliar*** aspects of reality. #KnowReality
+- The explanation-based conception of science is why we can know so much about ***unfamiliar*** aspects of reality. [[KnowReality]]
     Although our senses cannot detect neutrinos or quasars or most other significant phenomena in the universe, our brains can understand them.
 
 - The "Reach" of an explanation is its ability to solve problems beyond those that it was created to solved (SUSY with DM and gauge coupling unification).
@@ -448,7 +448,7 @@
 
   The way to converge to each other is to converge upon the truth
 
-[[WhoWeAre]]  #KnowReality
+[[WhoWeAre]]  [[KnowReality]]
 
 - Odd that philosophy places such great weight on reading the original texts to understand the minds of the originators of theories.
   eg: The main goal in physics texts is to understand the theory, not the opinions of the authors.

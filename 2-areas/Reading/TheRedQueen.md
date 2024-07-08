@@ -41,7 +41,7 @@
 
 - The immune system is a fairly recent invention in geological terms. It started in reptiles perhaps 300 millions year ago. (#History)
 
-- Disease might almost put a sort of limit on longevity; There is little point in living much longer than it takes your parasites to adapt to you. (#Longevity)
+- Disease might almost put a sort of limit on longevity; There is little point in living much longer than it takes your parasites to adapt to you. ([[Longevity]])
 
 - Sex is about disease. It is used to combat the threat form parasites. Organisms need sex to keep their genes one step ahead of their parasites. Men are not redundant after all; they are woman's insurance policy against her children being wiped out by influenza and smallpox.
 

@@ -4,7 +4,7 @@
 
 - Our basic thesis -- that we are strategically blind to key aspects of our motives -- has been around in some form or another for millennia. Any yet this thesis still seems to us neglected in scholarly writings; you can read a mountain of books and still miss it.
 
-[[UnpopularTruth]]  [[WhoWeAre]]  #KnowReality
+[[UnpopularTruth]]  [[WhoWeAre]]  [[KnowReality]]
 
 - "Elephant in the Brain" - An important but unacknowledged feature of how our minds work; an introspective taboo.
 
@@ -16,11 +16,11 @@
 
 - Human beings are a species that not only capable of acting on hidden motives, were designed to do it. Our brains are built to act in our self-interest while at the same time trying hard not to appear selfish in front of other people. And in order to throw them off the trail, our brain keep "us", our conscious minds, in the dark. The less we know of our own ugly motives, the easier it is to hide them from others. Self-deception is strategic, a ploy our brain's use to look good while behaving badly.  The human brain was designed to deceive itself, the better to deceive others.
 
-[[WhoWeAre]] #KnowReality  [[UnpopularTruth]]
+[[WhoWeAre]] [[KnowReality]]  [[UnpopularTruth]]
 
 - Aim of the book: not just to catalog the many ways human behave unwittingly, but also to suggest that many of our most venerated institutions -- charities, corporations, hospitals, universities -- serve covert agendas alongside their official ones. We must take these covert agendas into account when thinking about these institutions, or risk radically misunderstanding them.
 
-[[UnpopularTruth]]  #KnowReality
+[[UnpopularTruth]]  [[KnowReality]]
 
 - Human species are strategically self-deceived, not only as individuals, but also as a society.
 
@@ -125,7 +125,7 @@
 
 - The magic of nonverbal communication is that it allows us to pursue illicit agendas, even ones that require coordinating with other people, while minimizing the risk of being attacked, accused, gossiped about, and censured for norm violations. This is one of the reasons we're strategically unaware of our own body language, and its helps explain why we're reluctant to teach it to children.
 
-[[ShouldTeachKids]] #KnowReality [[WhoWeAre]]
+[[ShouldTeachKids]] [[KnowReality]] [[WhoWeAre]]
 
 - Laughter is an involuntary social behavior.
   - Speakers laugh more than listeners
@@ -143,7 +143,7 @@
 
 - "The man who reads nothing at all is better than the man who reads nothing but newspapers" - Thomas Jefferson
 
-#KnowReality
+[[KnowReality]]
 
 - Scientists compete for the chance to give talks at conferences, not for the chance to listen.
 

@@ -16,7 +16,7 @@
   Note this is how the SYSTEM of courts work
   
 -  You can live in a flourishing high-rung utopia with clear, civilized rules, but when a golem arrives at your gates, none of those rules matter if you can’t beat the golem at the Power Games.
-   #KeepYourPowderDry
+   [[KeepYourPowderDry]]
 
 -  It’s the great catch-22 of our species: the biggest threat to humanity is low-rung humanity, and low-rung humanity persists because it has often been the best defense against this very threat.
 

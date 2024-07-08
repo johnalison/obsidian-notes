@@ -159,7 +159,7 @@ https://deepmind.com/blog/article/Specification-gaming-the-flip-side-of-AI-ingen
 - Trying to write down all the rules so that the robot always does the right thing is almost certainly hopeless.  
    eg: trying to write loophole-free tax code for several thousand years without success. Better to make a robust sense of "I want to pay my taxes"
 
-#AI #Leadership #Invert
+#AI [[Leadership]] #Invert
 
 - Some warn we have no experience controlling powerful non-human entities with superhuman capabilities. Not quite true, centuries of experience with nations and corporations. Our record of controlling these entities is not very encouraging. (Wars / Global warming ect)
 

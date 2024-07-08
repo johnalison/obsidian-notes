@@ -4,7 +4,7 @@
 
 - Family life is a series of day-to-day logistical challenges, punctuated by big complicated, weighty, consequential decisions that you often have no idea how to even think about.
 
-  #Kids  
+  [[Kids]]  
 
 - Many of the tools needed to run a family are the same as that you need to run a business.
 

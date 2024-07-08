@@ -58,7 +58,7 @@ Elementary Wordly Wisdom:
    The human mind is not constructed so that it works well without having reasons. You've got to hang reality on a theoretical structure with reasons.
    That the way it hangs together in a usable form. 
 
- #Leadership
+ [[Leadership]]
 
 - I asked the guy who sold fishing tackle, "My God, they're purple and green.  Do fish really take these lures ? " He says "Mister, I dont sell to fish"
 
@@ -83,7 +83,7 @@ Elementary Wordly Wisdom:
 
 - "There is no limit to what a man can do or where he can go if he doesn't mind who gets the credit" Robert Woodruff
 
-  #Advice #ExtremeOwnership #Leadership
+  #Advice #ExtremeOwnership [[Leadership]]
 
 - Meetings are indispensable when you dont want to get anything done. "John Galbraith"
 

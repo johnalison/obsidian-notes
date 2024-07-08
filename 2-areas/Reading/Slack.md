@@ -22,7 +22,7 @@
 
 - Paradox of managing knowledge workers: In order to keep control you have to give it up. You have to use your authority sparingly that no one notices that its being used. Create a real sense that control is not completely centralized in your hands, but spread generously over the whole of the organization. Slack that you cut knowledge workers is control slack.
 
- #Leadership [[UnpopularTruth]] #ExtremeOwnership
+ [[Leadership]] [[UnpopularTruth]] #ExtremeOwnership
 
 - Slack is the way you invest in change. It represents operational capacity sacrificed in the interests of long-term health.
 
@@ -37,11 +37,11 @@
 
 - Putting yourself in as your own utility infielder is a clear sign of bad management.
 
- #Leadership #ExtremeOwnership
+ [[Leadership]] #ExtremeOwnership
 
 - Healthy companies know that they have to allow people to fail without assessing blame. They have to do that or else no one will take on anything that is not a sure bet.
 
- #Leadership
+ [[Leadership]]
 
 - Paradox of automation: When new automation is in place there is less total work to be done by the human, but what work is left is harder.  Automation makes work harder not easier.
 
@@ -54,21 +54,21 @@
 
 - The difference between strategic thinking and drift is a matter of whether the key choices are made mindfully or mindlessly. Tactics are a lot easier than strategy. Tactics can be handled in isolation.
 
- #Leadership
+ [[Leadership]]
 
 - Directing an entire organization is hard. Seeming to direct it is easy. All you have to do is note which way the drift is moving and instruct the organization to go that way.
 
 - Lack of power is a great excuse for failure, but sufficient power is never a necessary condition of leadership. There is never sufficient power. In fact, it is success in the absence of sufficient power that defines leadership.
 
-  #Leadership
+  [[Leadership]]
 
 - Leadership is not restricted to acting only downward along the lines of organizational authority. The bread-and-butter acts of leadership that make companies healthy involve people leading their bosses, leading their peers, leading those in peer organizations, negotiating, and influencing all without ever being granted the official power to do what they are doing. Its enrolling someone who is distinctly outside the scope of your official power base that constitutes real leadership.
 
-  #Leadership #ExtremeOwnership
+  [[Leadership]] #ExtremeOwnership
 
 - You acquire trust by giving trust.
 
-  #Leadership
+  [[Leadership]]
 
 - We tend to resist learning things that really matter. As soon as its apparent that a new approach is superior to what they have been doing, they feel uneasy.
 

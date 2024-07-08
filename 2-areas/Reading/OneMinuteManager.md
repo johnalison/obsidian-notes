@@ -25,7 +25,7 @@
   - Caution them that this might be uncomfortable at first. (b/c most managers dont manage this way and people aren't used to it.
   - Assure them that feedback will be a big help to them.
 
-#Leadership
+[[Leadership]]
 
 - Try to catch your subordinates doing something right.
 
@@ -40,7 +40,7 @@
 
 - The best minute you spend is the one you invest in people.
 
-#Leadership
+[[Leadership]]
 
 - How long would you want to bowl if there were no pins?
 
