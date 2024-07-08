@@ -26,4 +26,4 @@
 
 - Sometimes the most important historical events are the non-events: the things that did not occur.
 
-    #Invert [[History]]
+    [[Invert]] [[History]]

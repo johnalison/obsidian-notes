@@ -49,11 +49,11 @@
 
 - In a proof system, as soon as the question of whether a particular string can even be reached is undecidable it immediately follows that there must be either incompleteness or inconsistency. To say that such a question is undecidable is to say that it cannot in general be answered by any procedure guaranteed to finish.
 
-  #Incompleteness
+  [[Incompleteness]]
 
 - There must be integer equations that have no solutions but where this fact cannot be proved from the normal axioms of arithmetic. At some level it is a consequence of the involvement of infinity. To have a finite way to address questions about infinite numbers of possible integers, is the main justification for setting up a system of axioms.  Instead of handling objects like integers directly, axiom systems can just give abstract rules for manipulating statements about them. Within such statements one can refer to infinite sets of integers just by a single symbol. (JA: Godels incompleteness as a limit on power to generalize/summarize an infinite system). There has been tremendous success in mathematics that can be attributed to this approach. but the remarkable fact (from Godels incompleteness theorem) is that whatever one does there will always be cases where the approach must ultimately fail. 
 
-  #Incompleteness
+  [[Incompleteness]]
 
 - Claim: Simple infinite quantities like 1/0 or the total number of integers can readily be summarized in finite ways in symbols, the same is not true of all infinite processes. 
 

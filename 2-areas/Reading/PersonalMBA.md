@@ -10,7 +10,7 @@
 
 - "The limits of my language are the limits of my world" -Wittgenstein [[Quotes]]
 
-- "Whoever best describes the problem is the one most likely to solve it" -- Dan Roam #Invert 
+- "Whoever best describes the problem is the one most likely to solve it" -- Dan Roam [[Invert]] 
 
 - Your brain works with a lattice work of mental models. The key is to understand the most fundamental models -- the ones that do most of the heavy lifting.
   You can out-think smarter people if you hone your mental models and train yourself to be objective and multidisciplinary.

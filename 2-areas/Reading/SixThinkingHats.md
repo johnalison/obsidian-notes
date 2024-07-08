@@ -117,7 +117,7 @@
 - The ability to use provocations is an essential part of lateral thinking [[Protocols]]
   - An idea is put out for its forward effect - to provoke something.
 
-- One simple provocation uses reversal:  #Invert
+- One simple provocation uses reversal:  [[Invert]]
   eg: "Po, the story pays the customers"
 
 - IF someone brings you an idea which you do not like and which you can instantly dismiss with your black hat thinking, you can instead put on your green hat and choose to treat that idea as a provocation. [[Protocols]]

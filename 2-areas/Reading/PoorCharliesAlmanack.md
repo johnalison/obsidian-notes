@@ -62,7 +62,7 @@ Elementary Wordly Wisdom:
 
 - I asked the guy who sold fishing tackle, "My God, they're purple and green.  Do fish really take these lures ? " He says "Mister, I dont sell to fish"
 
-  #Invert
+  [[Invert]]
 
 - Heavy ideology is one of the extreme distorters of human cognition.
 
@@ -91,7 +91,7 @@ Elementary Wordly Wisdom:
 
 - Thomas Morgan banned the Friden calculator (computer substitute then available) from the biology department. When asked "what the hell are you doing?" He said will I am like a guy who is prospecting for gold along the banks of a river. With a little intelligence, I can reach down and pick up big nuggets of gold. And so long as I can do that, I'm not going to let any people in my department waste resources on panning for gold.
 
-  #Invert
+  [[Invert]]
 
 - Often too much emphasis on macroeconomics and not enough on micro. Its like trying to master medicine without knowing any anatomy and chemistry.
 

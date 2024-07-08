@@ -27,7 +27,7 @@
 
 - Everyday reality is merely a reflection of some deeper truth that's close at hand but hidden from view.
 
-#ImportantUnpopularTruth
+[[ImportantUnpopularTruth]]
 
 - The Truth cannot be found through seeking, but only seekers find it.
 
