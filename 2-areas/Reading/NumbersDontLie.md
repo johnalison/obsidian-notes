@@ -14,7 +14,7 @@
 
 - Sweating is our extraordinary ability to regulate our body temperature. A horse can loose about 100 g of water per square meter of skin. a camel 250g/m^2, whereas a human can easily shed 500 g/m^2.
 
-#WhoWeAre
+[[WhoWeAre]]
 
 - Indian population will surpass China no later than 2025.
 

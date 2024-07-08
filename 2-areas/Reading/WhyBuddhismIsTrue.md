@@ -10,7 +10,7 @@
   Our brains are designed to get our genes into the next generation, not to give us a true view of reality.
   We are, metaphorically speaking, living in the Matrix.
 
-  #AreWhatYouThink  #Consciousness #KnowReality #SimulationHypothesis #WhoWeAre
+  #AreWhatYouThink  #Consciousness #KnowReality #SimulationHypothesis [[WhoWeAre]]
 
 - One of the Buddha's main insights was that the pleasures we seek evaporate quickly, and we spend our time looking to gratify the next thing.
 
@@ -61,7 +61,7 @@
 - Why would natural selection delude us into thinking we are stable and in rational control? IF we are honestly deluded about it, it will be easier to convince other people that its true, and that has major advantages. So whenever your actual motivation are not accessible to the conscious part of the brain, it makes sense to make up stories about them (this has been born out by psychology research).
   The self is like the public relations organ of the brain.
 
-  #WhoWeAre
+  [[WhoWeAre]]
 
 - The mind is "modular" and your behavior is an interplay among many modules competing for precedence. (Note makes sense to build a brain this way from evolution's POV, so it can be built up piece by piece.)
   "Thoughts think themselves".  It seems to actually be feelings that determine which module "gets run".  The feelings seem to be playing the role of the self-the-decider.  This makes it plausible that losing attachment to feelings lessens the concept of self.

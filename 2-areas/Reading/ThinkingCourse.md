@@ -2,7 +2,7 @@
 
 - Outstanding at points.  Boring in others.
 
-- The use of the mind can change the characteristics of the brain just like the use of muscles can change their characteristics. #WhoWeAre
+- The use of the mind can change the characteristics of the brain just like the use of muscles can change their characteristics. [[WhoWeAre]]
 
 - Thinking is the skill through which intelligence acts on experience.
 

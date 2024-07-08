@@ -72,7 +72,7 @@
 #Protocols #SystemsNotGoals
 
 - p90: Not using what we read to move our thinking forward in a concrete way is a waste of time. (As bad or worse than not reading at all!)
-#WorkingPhilosophy
+[[WorkingPhilosophy]]
 
 - p90: The slipbox and the brain complement each other. Each does what they do best. Brain - understand big picture /make connections. Slipbox: high-fidelity permanent record of ideas/details.
 

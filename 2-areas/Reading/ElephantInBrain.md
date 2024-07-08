@@ -4,7 +4,7 @@
 
 - Our basic thesis -- that we are strategically blind to key aspects of our motives -- has been around in some form or another for millennia. Any yet this thesis still seems to us neglected in scholarly writings; you can read a mountain of books and still miss it.
 
-#UnpopularTruth  #WhoWeAre  #KnowReality
+#UnpopularTruth  [[WhoWeAre]]  #KnowReality
 
 - "Elephant in the Brain" - An important but unacknowledged feature of how our minds work; an introspective taboo.
 
@@ -16,7 +16,7 @@
 
 - Human beings are a species that not only capable of acting on hidden motives, were designed to do it. Our brains are built to act in our self-interest while at the same time trying hard not to appear selfish in front of other people. And in order to throw them off the trail, our brain keep "us", our conscious minds, in the dark. The less we know of our own ugly motives, the easier it is to hide them from others. Self-deception is strategic, a ploy our brain's use to look good while behaving badly.  The human brain was designed to deceive itself, the better to deceive others.
 
-#WhoWeAre #KnowReality  #UnpopularTruth
+[[WhoWeAre]] #KnowReality  #UnpopularTruth
 
 - Aim of the book: not just to catalog the many ways human behave unwittingly, but also to suggest that many of our most venerated institutions -- charities, corporations, hospitals, universities -- serve covert agendas alongside their official ones. We must take these covert agendas into account when thinking about these institutions, or risk radically misunderstanding them.
 
@@ -48,7 +48,7 @@
 
 - The deeper logic of many of our strangest and most unique behaviors may lie in their value as signals.
 
-#WhoWeAre
+[[WhoWeAre]]
 
 - Once weapons enter the picture, physical strength is no longer the most crucial factor in determining a hominids success within a group. Political skill takes over as the determining factor.
 
@@ -68,7 +68,7 @@
 
 - Whats the value of self-deception over a simple, deliberate lie? Our minds aren't as private as we like to imagine.
 
-#WhoWeAre
+[[WhoWeAre]]
 
 - The truth is a poor litmus test of loyalty.
 
@@ -78,7 +78,7 @@
 
 - We assume that there is one person in each body, but in some ways we are each much more like a committee who members have been thrown together working at cross purposes.
 
-#WhoWeAre
+[[WhoWeAre]]
 
 - Modularity: instead of a single monolithic process or small committee, modern psychologists see the brain as a patchwork of hundreds or thousands of different parts or "modules", each responsible for a slightly different information-processing task. (Probably needed given the constraints of evolution)
 
@@ -92,19 +92,19 @@
 
 - Press secretaries and public relation teams exist in the world because they're incredibly useful to the organizations that employ them. They're a natural response to the mixed-motive incentives that organizations face with their broader ecosystems. Our brains respond to the same incentives by developing a module analogous to a president's press secretary.  Above all, the job of our brain's Press Secretary is to avoid acknowledging our darker motives.
 
-#WhoWeAre
+[[WhoWeAre]]
 
 - Three's a very real sense in which we are the Press Secretaries within our minds. The parts of the mind that we identify with, the parts we think of as our conscious selves are the ones responsible for the strategically spinning the truth for an external audience.
 
-#WhoWeAre
+[[WhoWeAre]]
 
 - The conclusion from the past 40 years of social psychology is that the self acts less like an autocrat and more like a press secretary.  Even we dont have particularly privileged access to the information and decision-making that goes on inside our minds.
 
-#WhoWeAre
+[[WhoWeAre]]
 
 - This is the key slight-of-hand at the heart of our psychosocial problems: We pretend we're in charge, both to others and even to ourselves, but we're less in charge than we think. We pose as privileged insiders, when in fact we're often making the same kind of educated guesses that any informed outsider could make.
 
-#WhoWeAre #FreeWill
+[[WhoWeAre]] #FreeWill
 
 - One of the facts about social psychology is how many experiments rely on an element of misdirection. Its almost as if the entire field is based on the art of distracting the Press Secretary in order to expose its rationalizations.
 
@@ -125,7 +125,7 @@
 
 - The magic of nonverbal communication is that it allows us to pursue illicit agendas, even ones that require coordinating with other people, while minimizing the risk of being attacked, accused, gossiped about, and censured for norm violations. This is one of the reasons we're strategically unaware of our own body language, and its helps explain why we're reluctant to teach it to children.
 
-#ShouldTeachKids #KnowReality #WhoWeAre
+#ShouldTeachKids #KnowReality [[WhoWeAre]]
 
 - Laughter is an involuntary social behavior.
   - Speakers laugh more than listeners
@@ -207,7 +207,7 @@
 
 - The value of holding certain beliefs comes not from acting on them, but from convincing others that you believe them. This is especially true of religious beliefs. They aren't particularly useful or practical for individuals in isolation, and yet we experience large social rewards for adopting them and/or punishment for not adopting them. Whether you accept it can make the difference between the warm embrace of fellowship and the cold shoulder of ostracism.
 
-#Religion #UnpopularTruth #WhoWeAre
+#Religion #UnpopularTruth [[WhoWeAre]]
 
 - hill-climbing:  we might model the landscape of a religious community as a volcano. hill-climbing accidents aren't at all unique to religious landscapes. In dietary landscapes we seek tasty fats and sugars, which were almost always "up". In military landscapes, we learn to show bravery, earning ever more respect from our comrades -- right until we take a bullet. Drug addicts.
 

@@ -76,7 +76,7 @@
 
 - Even when someone who you dont think is on your level, someone who isn't even close to having the knowledge, position, or authority to give you one iota of feedback wants to speak, even then, do yourself a favor and just listen. Detach and listen to what they have to say and, from an objective mind-set, see if you can learn anything at all from their commentary. Then apply it. And say thank you. I know that stings. Get over yourself.
 
-  #WorkingPhilosophy
+  [[WorkingPhilosophy]]
 
 - Arguing is generally bad. It means wasting time without moving forward -- and what is worse, people often argue not for the **_best idea_**  but for **_their idea_**.
 
@@ -120,7 +120,7 @@
 
 - Reflect and diminish means to reflect the emotions you are seeing from your subordinate but diminish them to a more controlled level.
 
-- Yelling because you are angry, frustrated, panicking, or otherwise emotional is weak leadership, and your team members will mimic your behavior.  If you get angry, so will they. If you get frustrated, so will they. If you start to panic so will they. #Kids #Wife #Leadership
+- Yelling because you are angry, frustrated, panicking, or otherwise emotional is weak leadership, and your team members will mimic your behavior.  If you get angry, so will they. If you get frustrated, so will they. If you start to panic so will they. #Kids [[Wife]] #Leadership
 
 - The less you talk the more people listen.
   Dont be the person who is always talking.

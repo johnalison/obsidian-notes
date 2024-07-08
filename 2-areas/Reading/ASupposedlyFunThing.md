@@ -11,7 +11,7 @@
   
 - TV is the way it is simply because b/c people tend to be extremely similar in their vulgar and dumb interests and wildly different in their refined aesthetic and noble interests.
 
-  #WhoWeAre
+  [[WhoWeAre]]
 
 - TVs greatest appeal is that it engages without demanding. One can rest while undergoing stimulation.
 

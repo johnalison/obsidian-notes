@@ -47,7 +47,7 @@
 
 - The cutting edge of this instant right here and now is always nothing less that the totality of everything there is.
 
- #Buddhism #WhoWeAre
+ #Buddhism [[WhoWeAre]]
 
 - Peace of mind produces right values, right values produces right thoughts, right thoughts reproduces right actions and right actions produces right work.
 

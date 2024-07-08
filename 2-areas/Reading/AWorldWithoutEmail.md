@@ -2,9 +2,9 @@
 
 - Fantastic!  (Changed my life for the better)
 
-- A widely accepted premise of the modern knowledge work is that email saved us. #UsedToBelieve #WrongIn20Years
+- A widely accepted premise of the modern knowledge work is that email saved us. #UsedToBelieve [[WrongIn20Years]]
 
-- What if email didn't save us, but instead accidentally traded minor convinces for a major drag on real productivity, leading to slower economic growth over the last few decades? #WrongIn20Years
+- What if email didn't save us, but instead accidentally traded minor convinces for a major drag on real productivity, leading to slower economic growth over the last few decades? [[WrongIn20Years]]
 
 - Deep work argues that the knowledge sector is undervaluing concentration. While the ability to rapidly communicate using digital messages is useful, the frequent disruptions also make it hard to focus, which has a major impact on our ability to produce value output.
 
@@ -16,9 +16,9 @@
 
 - There is a massive productivity currently latent in the knowledge sector. To unlock it will require much more systematic thinking about how best to organize.
 
-- The future of work is increasingly cognitive. This means that the sooner we take seriously how human brains actually function, the sooner we'll realize that the hyperactive hive mind is a disastrously ineffective way to organize our efforts. [[NowIsDifferent]] #WrongIn20Years
+- The future of work is increasingly cognitive. This means that the sooner we take seriously how human brains actually function, the sooner we'll realize that the hyperactive hive mind is a disastrously ineffective way to organize our efforts. [[NowIsDifferent]] [[WrongIn20Years]]
 
-- Knowledge work does not yet have its Henry Ford, but workflow innovations with impact on the same scale as the assembly line are inevitable. #WrongIn20Years #ImportantUnpopularTruth
+- Knowledge work does not yet have its Henry Ford, but workflow innovations with impact on the same scale as the assembly line are inevitable. [[WrongIn20Years]] #ImportantUnpopularTruth
 
 - Our brains do not parallel process information.
 

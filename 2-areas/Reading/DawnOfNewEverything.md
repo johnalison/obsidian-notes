@@ -6,7 +6,7 @@
 
 - An argument for why VR will never become "better" than the human nervous system: The universe doesn't have fine grains, and the body is already tuned in as finely as anything can ever be, when it needs to be. (eg: individual photons for seeing)
 
-  #WhoWeAre
+  [[WhoWeAre]]
 
 - Approach rather than arrival is what makes science realistic.
 

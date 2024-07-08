@@ -6,7 +6,7 @@
 
 - Cannot understand human nature without understanding how it evolved. Impossible to know how humans evolved without known how human sexuality evolved.
 
-- Reproduction is the sole goal for which humans are designed. There is nothing in our natures that was not "chosen" for reproductive success. (#WhoWeAre)
+- Reproduction is the sole goal for which humans are designed. There is nothing in our natures that was not "chosen" for reproductive success. ([[WhoWeAre]])
 
 - Reproduction is not synonymous with sex. Many asexual ways to reproduce.
 
@@ -23,7 +23,7 @@
 
 - One of the great recurring themes in human history is the balance between cooperation and conflict.
 
-- The principle insight of the theory of sexual selection is that the goal of an animal is not just to survive but to breed. Where the breeding and survival come into conflict, its breeding that takes precedence. And breeding in sexual species consists of finding an appropriate partner and convincing it to part with some of its genes. This goal is so central to life that it has influenced the design not only of the body but of the psyche. (#WhoWeAre)
+- The principle insight of the theory of sexual selection is that the goal of an animal is not just to survive but to breed. Where the breeding and survival come into conflict, its breeding that takes precedence. And breeding in sexual species consists of finding an appropriate partner and convincing it to part with some of its genes. This goal is so central to life that it has influenced the design not only of the body but of the psyche. ([[WhoWeAre]])
 
 - The greatest "experts" our species have produced on the subject of human nature were people like Buddha and Shakespeare, not scientists or philosophers. (#Buddhism)
 
@@ -85,7 +85,7 @@
 
 - People are strangely more apt to say of a baby, "He (or she) looks just like his father" than his mother. and that it is the mothers relative who are most likely to say this.
 
-- Mankind may be the mammal with the greatest division of sexual labor and the greatest of mental differences between the sexes. (#WhoWeAre)
+- Mankind may be the mammal with the greatest division of sexual labor and the greatest of mental differences between the sexes. ([[WhoWeAre]])
 
 - Contradiction at the heart of feminism: You cannot say first, that men and women are equally capable of all jobs, and second that if jobs were done by women they would be done differently. (#Politics)
 
@@ -93,13 +93,13 @@
 
 - The male preference for skinniness seems positively maladaptive. (#Paradox)
 
-- The male obsession with youth is characteristically human. There is no other animal yet studied that shares this obsession quite as strongly. This is obviously because of the human habits of lifelong marriage and long, slow periods of child rearing are also unique. (#WhoWeAre)
+- The male obsession with youth is characteristically human. There is no other animal yet studied that shares this obsession quite as strongly. This is obviously because of the human habits of lifelong marriage and long, slow periods of child rearing are also unique. ([[WhoWeAre]])
 
 - "Coolidge effect" Calvin Cooldige and his wife where being shown around a farm. Learning that a cockerel could have sex dozens of times a day, Mrs Coolidge said: "Pleas tell that to this president". On being told, Mr Coolidge asked, "Same hen every time?" "Oh, no, Mr President. A different one each time" The president continued: "Tell that to Mrs. Coolidge"
 
 - The depressing part of Darwin's insight is that it shows how beauty cannot exist without ugliness. Sexual selection, Red Queen-style, in inevitably a cause of dissatisfaction, vain striving, and misery to individuals. (#Buddhism)
 
-- What caused the sudden and spectacular expansion of that one ape's head, from which so much else flowed ?  And why did it happen to one ape and not another ? What can account for the astonishing speed, and the accelerating speed of the change? These questions may seem to have nothing to do with the subject of this book, but the answer may lie with sex. The evolution of mans big head was the result of a Red Queen sexual contest between individuals of the same gender. (#WhoWeAre)
+- What caused the sudden and spectacular expansion of that one ape's head, from which so much else flowed ?  And why did it happen to one ape and not another ? What can account for the astonishing speed, and the accelerating speed of the change? These questions may seem to have nothing to do with the subject of this book, but the answer may lie with sex. The evolution of mans big head was the result of a Red Queen sexual contest between individuals of the same gender. ([[WhoWeAre]])
 
 - Almost all linguists agree with Noam Chomsky that there is a "deep structure" that is universal to all languages and that is programmed into th e brain rather than learned.
 
@@ -115,6 +115,6 @@
 
 - Wherever else in the animal kingdom we find greatly exaggerated and enlarged ornaments, we have been able to explain them by the runaway, sexy-son, Fisher effect of intense sexual selection. It seems perverse not to consider it when trying to explain the exponential expansion of the brain.
 
-- Dance, music, humor, and sexual foreplay are all features unique to human beings. (#WhoWeAre)
+- Dance, music, humor, and sexual foreplay are all features unique to human beings. ([[WhoWeAre]])
 
-- We are as domesticated as any dog or cow, perhaps more so. We have bred out of ourselves all sorts of instincts that were probably features of our Pleistocene nature.  (#WhoWeAre)
+- We are as domesticated as any dog or cow, perhaps more so. We have bred out of ourselves all sorts of instincts that were probably features of our Pleistocene nature.  ([[WhoWeAre]])

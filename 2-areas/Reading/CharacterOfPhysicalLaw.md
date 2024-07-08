@@ -14,7 +14,7 @@
 
 - The correct laws of physics are expressible in many equivalent ways. If you modify them, you tend to reduce the number of ways in which the laws can be written (mysterious)
 
-#WhatWeDontKnow
+[[WhatWeDontKnow]]
 
 - With the current laws, it takes a computer an infinite number of steps to figure out what goes on in an arbitrarily tiny amount of space and time. How can all that be going on in such a tiny space? What should it take an infinite amount of time to figure out what one tiny piece of space/time is going to do?
 

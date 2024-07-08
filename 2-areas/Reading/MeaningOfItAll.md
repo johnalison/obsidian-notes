@@ -49,4 +49,4 @@
 
 - Who are the witch doctors today ? Psychoanalysts and psychiatrists.
 
-#WrongIn20Years
+[[WrongIn20Years]]

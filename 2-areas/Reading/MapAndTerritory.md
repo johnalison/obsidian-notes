@@ -14,9 +14,9 @@
 
 - Science: reflective reasoning about a more reliable process for making the content of your mind mirror the content of the world. #Science
 
-- Science: an understandable process that correlates human brains with reality. #Science #Rationality #WhoWeAre #Science
+- Science: an understandable process that correlates human brains with reality. #Science #Rationality [[WhoWeAre]] #Science
 
-- Human Brain: flawed lens that can understand its own flaws and apply high-order corrections. This (when practiced) make the lens far more powerful. #Rationality #WhoWeAre
+- Human Brain: flawed lens that can understand its own flaws and apply high-order corrections. This (when practiced) make the lens far more powerful. #Rationality [[WhoWeAre]]
 
 - To anticipate sensory experiences as precisely as possible we must possess beliefs that are not anticipations of sensory experience. #Science #AI
 
@@ -33,7 +33,7 @@
 
 - The strength of a model is not what it can explain, but what it cant.
 
-- Mystery is a property of the questions, not the answers. (Ignorance exists in the map, not the territory)  #Paradox #WhatWeDontKnow
+- Mystery is a property of the questions, not the answers. (Ignorance exists in the map, not the territory)  #Paradox [[WhatWeDontKnow]]
 
 - Better to say "Magic" than complexity or emergence, the latter create an illusion of understand. Wiser to say magic and create placeholder #MentalModels
 

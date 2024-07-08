@@ -20,11 +20,11 @@
 
 - Awareness is the foundation of living a human life. We cannot know anything without it. Mostly we take it for granted and focus on content: things we are aware of rather than awareness itself.
 
-  #WhoWeAre #AreWhatYouThink
+  [[WhoWeAre]] #AreWhatYouThink
 
 - One of the most important things to learn is how to separate awareness from thinking, and then we can see that thoughts and emotions are not the center of who we are.
 
-  #Advice  #ShouldTeachKids  #WhoWeAre
+  #Advice  #ShouldTeachKids  [[WhoWeAre]]
 
 - If awake awareness is something we've all experienced, and if its so close and accessible, why isnt it more familiar to us?
    One reason we can find it/ see it or understand it is beacuse awake awareness is not an "it".
@@ -81,7 +81,7 @@
 
 - The most crucial mistake we make is turning to thought to know who we are.
 
-  #WhoWeAre #Advice
+  [[WhoWeAre]] #Advice
 
 - Instead of saying "I am sad" take a breath and say, "I feel sadness". Notice the shift from "I am" to "I feel". Then shift to "I am aware of feeling sadness".
 

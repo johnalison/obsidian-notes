@@ -4,9 +4,9 @@
 
 - In a world deluged by information, clarity is power. 
 
-- Philosophy, religion and science all running out of time. People have debated the meaning of life for 1000s of years. We cannot continue this debate indefinitely. The looming ecological crises, the threat of WMDs, and the rise of technological revolution will not allow it.  AI and biotech are giving humanity the power to reshape and re-engineer life. Very soon somebody will have to decide how to use this power based on some implicit or explicit story about the meaning of life. #Religion #AI #WhoWeAre
+- Philosophy, religion and science all running out of time. People have debated the meaning of life for 1000s of years. We cannot continue this debate indefinitely. The looming ecological crises, the threat of WMDs, and the rise of technological revolution will not allow it.  AI and biotech are giving humanity the power to reshape and re-engineer life. Very soon somebody will have to decide how to use this power based on some implicit or explicit story about the meaning of life. #Religion #AI [[WhoWeAre]]
 
-- Humans think in stories, not facts, numbers or equations. The simpler the better. #WhoWeAre #AI
+- Humans think in stories, not facts, numbers or equations. The simpler the better. [[WhoWeAre]] #AI
 
 - In 1938 human offered 3 global stories to choose from: In 1968 just 2; in 1998 a single story, now we are down to 0 in 2018. [[History]]
 
@@ -18,7 +18,7 @@
 
 - Economic growth will not save the ecosystem. Just the opposite, in fact, for economic growth is the cause of the ecological crises. And economic growth will not solve technological disruption for it is predicated on the invention of more and more disruptive tech. 
 
-- Biochemistry: algorithms of the brain are far from perfect. They rely on heuristics, shortcuts and outdated circuits adapted from the African savanna rather than from the urban jungle. #WhoWeAre
+- Biochemistry: algorithms of the brain are far from perfect. They rely on heuristics, shortcuts and outdated circuits adapted from the African savanna rather than from the urban jungle. [[WhoWeAre]]
 
 - Replacing all human drivers by computers is expected to reduce deaths and injuries by 90%. 
 
@@ -50,15 +50,15 @@
 
 - Throughout history the limitations of actually enforcing laws provided a welcome check on the biases, mistakes and excesses of lawmakers. #Politics
 
-- We have bred docile cows that produce enormous amounts of milk but are otherwise far inferior to their wild ancestors. They are less agile, less curious, less resourceful. We are now creating tame humans that produce enormous amounts of data and function as very efficient chips in a huge data-processing mechanism, but these data-cows hardly maximize the human potential. #WhoWeAre #Religion
+- We have bred docile cows that produce enormous amounts of milk but are otherwise far inferior to their wild ancestors. They are less agile, less curious, less resourceful. We are now creating tame humans that produce enormous amounts of data and function as very efficient chips in a huge data-processing mechanism, but these data-cows hardly maximize the human potential. [[WhoWeAre]] #Religion
 
 - Improvements in biotechnology might make it possible to translate economic inequality into biological inequality. [[NowIsDifferent]]
 
-- At present, people are happy to give away their most valuable asset - their personal data - in exchange for free email services and funny cat videos. Its a bit like African and Native American tribes who unwittingly old entire countries to European imperialists in exchange for colorful beads and cheap trinkets. #WhoWeAre
+- At present, people are happy to give away their most valuable asset - their personal data - in exchange for free email services and funny cat videos. Its a bit like African and Native American tribes who unwittingly old entire countries to European imperialists in exchange for colorful beads and cheap trinkets. [[WhoWeAre]]
 
 - How do you regulate the ownership of data ? This may well be the most important political question of our era. #Questions
 
-- Pundits often blame feelings of alienation on the decline of religious and national bonds, but losing touch with your body is probably much more important. Humans have lived for millions of years with out churches and without nation states. #Politics #WhoWeAre
+- Pundits often blame feelings of alienation on the decline of religious and national bonds, but losing touch with your body is probably much more important. Humans have lived for millions of years with out churches and without nation states. #Politics [[WhoWeAre]]
 
 - We know of no upper limit to the size of a group  with which people can identify. Most present day nations include more people than the entire world population 10k years ago. 
 
@@ -115,7 +115,7 @@
 
 - Secular science has at least one big advantage over most traditional religions -- namely that it is not afraid of its own shadow. #Science
 
-- Not only rationality, but individuality too is a myth. Humans rarely think for themselves. Rather we think in groups. #WhoWeAre
+- Not only rationality, but individuality too is a myth. Humans rarely think for themselves. Rather we think in groups. [[WhoWeAre]]
 
 - Great power inevitably distorts the truth. Power is all about changing reality rather than seeing it for what it is. 
 
@@ -131,7 +131,7 @@
 
 - Truth and power can travel together only so far. If you want power, at some point you will have to spread fictions. If you want to know the truth about the world, at some point you will have to renounce power. You will have to admit things -- for example, about the sources of your own power -- that will anger allies, dishearten followers, or undermine social harmony. #Politics #Science
 
-- As a species, humans prefer power to truth. We spend far more time and effort on trying to control the world than on trying to understand it. #WhoWeAre #Politics
+- As a species, humans prefer power to truth. We spend far more time and effort on trying to control the world than on trying to understand it. [[WhoWeAre]] #Politics
 
 - One of the great fictions of all is to deny the complexity of the world and think in absolute terms: pristine purity versus satanic evil #Politics #Religion 
 
@@ -141,7 +141,7 @@
 
 - In truth, everything you will ever experience in life is within your own body and your own mind. #AreWhatYouThink
 
-- Huxley's genius consists in showing that you can control people far more securely through love and pleasure than through fear and violence. #WhoWeAre
+- Huxley's genius consists in showing that you can control people far more securely through love and pleasure than through fear and violence. [[WhoWeAre]]
 
 - Our old stories are crumbling, and no new story has so far emerged to replace them. [[NowIsDifferent]]
 
@@ -155,7 +155,7 @@
 
 - If by "free will" you mean the freedom to do what you desire, then yes, humans have free will. But if by "free will" you mean the freedom to choose what to desire, then no, humans have no free will. #FreeWill
 
-- As long as you strongly identify with whatever thoughts and desires pop up in your mind, you dont need to make much effort to know yourself. You think you already know exactly who you are. But once you realize "Hey these thoughts aren't me. They are just biochemical vibrations!" then you also realize you have no idea who -- or what -- you are. #FreeWill #WhoWeAre #AreWhatYouThink #Buddhism
+- As long as you strongly identify with whatever thoughts and desires pop up in your mind, you dont need to make much effort to know yourself. You think you already know exactly who you are. But once you realize "Hey these thoughts aren't me. They are just biochemical vibrations!" then you also realize you have no idea who -- or what -- you are. #FreeWill [[WhoWeAre]] #AreWhatYouThink #Buddhism
 
 - The Buddha taught that the three basic realities of the universe are that everything is constantly changing, nothing has any enduring essence, and nothing is completely satisfying. Suffering emerges because people fail to appreciate this. #Buddhism
  
@@ -167,6 +167,6 @@
 
 - What is there that endures from birth to death ? The more closely you observe yourself, the more obvious it becomes that nothing endures even from one moment to the next. #Questions #Buddhism
 
-- Suffering is not an objective condition in the outside world. It is a mental reaction generated by my own mind. #Buddhism #WhoWeAre
+- Suffering is not an objective condition in the outside world. It is a mental reaction generated by my own mind. #Buddhism [[WhoWeAre]]
 
 - Meditation is any direct observation of ones own mind. #Buddhism

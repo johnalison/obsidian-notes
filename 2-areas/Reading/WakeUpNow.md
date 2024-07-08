@@ -8,22 +8,22 @@
 
 - The awakening described in this book is a fundamental recognition of the inherent insubstantially or emptiness of the person you take yourself to be and a radical shift in your identity from being the suffering separate self to being the eternal witness, the limitless space or ground in which all experiences arise.
 
-#WhoWeAre
+[[WhoWeAre]]
 
 - When you awaken you realize that the separate person you took yourself to be is just a construct, a mental fabrication -- a collection of thoughts, feelings, memories, beliefs, and stories that have been woven together by the mind in to the appearance of a substantial, continuous someone which certain abiding qualities and characteristics.
 
-#WhoWeAre
+[[WhoWeAre]]
 
 - You are being itself. Which cannot be located or grasped with the hands or mind but can be directly intuited or perceived.
   You can know with certainty what you are, but are not quite able to describe how you know.
 
-#WhoWeAre
+[[WhoWeAre]]
 
 - Everything you can hear, see, smell, taste, touch, feel, and think -- everything with qualities or characteristics -- is an experience, an object of your observation, and therefore cant possibly be the you who experiences or observes. The real question is who or what is this you, this me? Spiritual awakening means waking up to the experiencer, the witness, pure being itself, the one who is eternally aware.
 
 - Recognize that you are the light of consciousness, pure awareness, the impersonal witness.  Then deepen to know that the witness and what is witnessed, observer and observed, subject and object, you and the objects of your experience, are inseparable. They are both manifestations of some deeper reality or mystery that enlivens, encompasses, and gives rise to everything else.
 
-#WhoWeAre
+[[WhoWeAre]]
 
 - Everyday reality is merely a reflection of some deeper truth that's close at hand but hidden from view.
 
@@ -77,7 +77,7 @@
 
 - In self-inquiry, you generally  start out looking for what you are but end up encountering everything you're not -- your body, your sensate experiences, your thoughts, your emotions -- until you find yourself on the outer margins of the known, at the precipice of the unknown. Once the mind exhausts itself in the search, which is the purpose of the self-inquiry, you're available to be taken by the realization of what you are, not as another thought or experience, but as a living reality.
 
-#WhoWeAre
+[[WhoWeAre]]
 
 - When you fully realize that what you're seeking doesn't exist in manifestation and cant be found "out there" in experiences or states of any kind, there's a relaxation of being and a cessation of seeking.
 
@@ -121,4 +121,4 @@
 
 - When I look within and see that I'm nothing, that's wisdom. When I look without and see that I'm everything, that's love.
 
-#WhoWeAre
+[[WhoWeAre]]

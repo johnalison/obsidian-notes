@@ -33,13 +33,13 @@
   This activity is both uniquely human AND a fundamental fact about reality at the most "impersonal cosmic" level.
   The relationship between the cosmic and the human is a hint of the central role in _people_ in the cosmic scheme of things.
 
-#WeAreSpecial
+[[WeAreSpecial]]
 
 - Although progress has no end (unbounded) it does have a beginning.
 
 - Example of Cosmic reach of humans: Base metals can be transmuted into gold by stars, and by intelligent beings who understand how stars work, but by nothing else in the universe. (Neutron star Mergers?)
 
-#WeAreSpecial
+[[WeAreSpecial]]
 
 - Scientific theories are _explanations_ of what is out there and how it behaves.
 
@@ -134,7 +134,7 @@
 - Biological evolution did not provide us with enough knowledge to survive.
    (Here we differ from most other species which do have all the knowledge they need encoded in their brains "by the biosphere")
 
-#WeAreSpecial
+[[WeAreSpecial]]
 
 - The Principle of Mediocrity is paradoxical: it implies that all human abilities, including our special ability to create new explanations, are necessarily parochial.
    Which implies that science, despite all its successes and aspirations would turn out to be inherently parochial and anthropocentric and thus that at some level the universe must be inexplicable.
@@ -156,7 +156,7 @@
 
     eg: The only phenomena that our best instruments can detect at stellar distances are 1) extremely bright objects 2) a few things that obscure these objects 3) the effects of certain types of knowledge designed for communication (lasers/radio transmitters etc)
 
-#WeAreSpecial
+[[WeAreSpecial]]
 
 - Using knowledge to sustain life is not unique to humans; but is the basic method which cells use to stay alive. DNA is a coded description of knowledge of ancestral environments. The difference is what kind of knowledge they use (explanatory vs rule-of-thumb) and how its created (conjecture and criticism vs variation and selection of genes).
 
@@ -201,7 +201,7 @@
   Consider also how completely different the evolution of an environment with and without the presence of a tiny sliver of knowledge.
   Almost all regions of the universe are just waiting doing nothing at all, which if the right knowledge ever reached it, instantly and irrevocably burst into a radically different type of physical activity.
 
-#Physics #Philosophy #WeAreSpecial
+#Physics #Philosophy [[WeAreSpecial]]
 
 - Both the principle of Mediocrity and the Spaceship Earth idea are fundamentally parochial and mistaken.
   Science (the least parochial perspective available to us) implies that people are the most significant entities in the cosmic scheme of things.
@@ -274,7 +274,7 @@
 
 - All known jumps to universality have be done by humans except one: DNA
 
-#Philosophy #WeAreSpecial
+#Philosophy [[WeAreSpecial]]
 
 - Initially the genetic code was evolving along with everything else in the organism, but became a point where the code itself stopped evolving, despite the fact that the organisms continued to.
   When the DNA stopped evolving it was only coding for single-celled organisms.
@@ -283,7 +283,7 @@
   DNA might have been the first universality to exist,
   We do not know why DNA which evolved to describe bacteria has enough reach to describe dinosaurs and humans. 
 
-#WhatWeDontKnow 
+[[WhatWeDontKnow]] 
 
 - AI must be possible in principle because a universal computer is a universal simulator.
 
@@ -386,7 +386,7 @@
 
 - We currently dont know why the laws of physics seem fine-tuned; we dont know why various forms of universality exist; we do not know why the world is explicable. But eventually we shall, and when we do there will still be infinitely more left to explain.
 
-#WhatWeDontKnow
+[[WhatWeDontKnow]]
 
 - Computation: a physical process that instantiates the properties of some abstract entity.
 
@@ -448,7 +448,7 @@
 
   The way to converge to each other is to converge upon the truth
 
-#WhoWeAre  #KnowReality
+[[WhoWeAre]]  #KnowReality
 
 - Odd that philosophy places such great weight on reading the original texts to understand the minds of the originators of theories.
   eg: The main goal in physics texts is to understand the theory, not the opinions of the authors.
@@ -626,7 +626,7 @@
 
 - Meme evolution comes so natural to us that it is hard to see what is really going on and how special it is. Rather than just imitate someone who does something, humans try to explain it -- to understand the ideas that caused it -- which is a special case of the general human objective of explaining the world.
 
-#WeAreSpecial
+[[WeAreSpecial]]
 
 - Two puzzles: Why was human creativity evolutionary advantageous at a time when there was almost no innovation ?
                How can human memes be replicated, given that they have content that the recipient never observes ?
@@ -642,7 +642,7 @@
 
 - Replicating memes is the function for which creativity evolved. And that is why our species exists.
 
-#WhoWeAre
+[[WhoWeAre]]
 
 - Contrary to Jared Diamond's argument in Guns Germs and Steel; the conditions for the beginning of infinity exist in almost every human habitation on earth.
   Diamond thinks that psychology, philosophy and politics of historical events are not relevant "to the great river of history."

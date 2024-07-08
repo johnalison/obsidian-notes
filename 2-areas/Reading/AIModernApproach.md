@@ -18,7 +18,7 @@
 
 - Things that are hard to learn end up in the genome, things that are easy to learn, need not.
 
- #WhoWeAre
+ [[WhoWeAre]]
 
 - When uncertainty enters, possibilities are multiplied enormously and forming detailed plans of action becomes pointless b/c the world is not going to play along.
 
@@ -130,7 +130,7 @@ Cons: Can have sub-optimal accuracy / if deep, expensive to run / unstable one n
 
 - Why we see color: fruit is a bribes trees offer animal to carry their seeds. Signal the bribe with colors. Fruits starts green then changes to red or yellow when ripe.  Fruit eating animals need to see these changes.
 
-#WhoWeAre
+[[WhoWeAre]]
 
 - Have realized deep network better and over fitting fears overblown.
 

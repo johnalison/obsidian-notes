@@ -2,7 +2,7 @@
 
 - Fantastic (as expected)
 
-- What is on humanities agenda today: For thousands of years the answer to this question remained unchanged. Famine, plague and war were always at the top of the list. Many thinkers and prophets concluded that famine, plague and war must be an integral part of Gods cosmic plan or of our imperfect nature. Yet at the dawn of the 3rd millennium, humanity wakes up to an amazing realization. Most people rarely think about it, but in the last few decades we have managed to rein in famine, plague and war. [[NowIsDifferent]] #WhoWeAre
+- What is on humanities agenda today: For thousands of years the answer to this question remained unchanged. Famine, plague and war were always at the top of the list. Many thinkers and prophets concluded that famine, plague and war must be an integral part of Gods cosmic plan or of our imperfect nature. Yet at the dawn of the 3rd millennium, humanity wakes up to an amazing realization. Most people rarely think about it, but in the last few decades we have managed to rein in famine, plague and war. [[NowIsDifferent]] [[WhoWeAre]]
 
 - For the first time in history, more people die today from eating too much than from eating to little; more people die from old age than from infectious diseases; and more people commit suicide than are killed by soldiers, terrorists and criminals combined. [[NowIsDifferent]]
 
@@ -26,7 +26,7 @@
 
 - The most common reaction of the human mind to achievement is not satisfaction, but craving for more. #Buddhism
 
-- Having secured unprecedented levels of prosperity, health and harmony, and given our past record and current values, humanity's next targets are likely to be immortality, happiness and divinity. #WhoWeAre #Politics [[History]] #Longevity
+- Having secured unprecedented levels of prosperity, health and harmony, and given our past record and current values, humanity's next targets are likely to be immortality, happiness and divinity. [[WhoWeAre]] #Politics [[History]] #Longevity
 
 - In the 21C humans are likely to make a serious bid for immortality. [[NowIsDifferent]] #Longevity
 
@@ -58,15 +58,15 @@
 
 - If I identify happiness with fleeting pleasant sensations, and crave to experience more and more of them, I have no choice but to pursue them constantly. When I finally get them, they quickly disappear, and because the mere memory of past pleasures will not satisfy me, I have to start all over again. Even if I continue this pursuit for decades, it will never bring me any lasting achievement; on the contrary, the more I crave these pleasant sensations, the more stressed and dissatisfied I become. To attain real happiness, humans need to slow down the pursuit of pleasant sensations, not accelerate it. #Happiness #Buddhism
 
-- The Buddhist view of happiness has a lot in common with the biochemical view. The Buddha's suggestion was to reduce our craving for pleasant sensations, and not allow them to control our lives. According to the Buddha, we can train our minds to observe how all sensations constantly arise and pass away.  When the mind learns to see our sensations for what they are -- ephemeral and meaningless vibrations -- we loose interest in pursing them. #WhoWeAre #Buddhism #Happiness
+- The Buddhist view of happiness has a lot in common with the biochemical view. The Buddha's suggestion was to reduce our craving for pleasant sensations, and not allow them to control our lives. According to the Buddha, we can train our minds to observe how all sensations constantly arise and pass away.  When the mind learns to see our sensations for what they are -- ephemeral and meaningless vibrations -- we loose interest in pursing them. [[WhoWeAre]] #Buddhism #Happiness
 
-- Relatively small changes in genes, hormones and neurons where enough to transform Homo Erectus -- who could produce nothing more than flint knives -- into Homo sapiens, who produce spaceships and computers. #WhoWeAre
+- Relatively small changes in genes, hormones and neurons where enough to transform Homo Erectus -- who could produce nothing more than flint knives -- into Homo sapiens, who produce spaceships and computers. [[WhoWeAre]]
 
 - We may well think of the new human agenda as consisting really of only one project (with any branches): attaining divinity. #Religion [[NowIsDifferent]]
 
-- Throughout history most gods were believed to enjoy not omnipotence but rather specific super-abilities such as the ability to design and create living beings to transform their own bodies; to control the environment and the weather; to read minds and to communicate at a distance; to travel at very high speeds; and of course to escape death and live indefinitely.  Humans are in the business of acquiring all these abilities, and then some. The average person now moves and communicates across distances much more easily than the Greek, Hindu, or African gods of old. #WhoWeAre #Religion
+- Throughout history most gods were believed to enjoy not omnipotence but rather specific super-abilities such as the ability to design and create living beings to transform their own bodies; to control the environment and the weather; to read minds and to communicate at a distance; to travel at very high speeds; and of course to escape death and live indefinitely.  Humans are in the business of acquiring all these abilities, and then some. The average person now moves and communicates across distances much more easily than the Greek, Hindu, or African gods of old. [[WhoWeAre]] #Religion
 
-- It is far from clear that we should be aiming at immortality, bliss and divinity. Adopting these particular projects might be a big mistake. But history is full of big mistakes. Given our past record and current values, we are likely to reach out for bliss, divinity and immortality -- even if it kills us. #WhoWeAre #Religion [[NowIsDifferent]]
+- It is far from clear that we should be aiming at immortality, bliss and divinity. Adopting these particular projects might be a big mistake. But history is full of big mistakes. Given our past record and current values, we are likely to reach out for bliss, divinity and immortality -- even if it kills us. [[WhoWeAre]] #Religion [[NowIsDifferent]]
 
 - Some complex systems are oblivious to our predictions. The process of human development, in contrast, reacts to them. The better our forecasts, the more reactions they engender. Hence paradoxically, as we accumulate more data and increase our computing power, event become wilder and more unexpected. The more we know the less we can predict. #Prediction #Chaos #Complexity
 
@@ -92,15 +92,15 @@
 
 - At present it may seem that immortality, bliss and divinity occupy the top slots on our agenda. But once we come nearer to achieving these goals the resulting upheavals are likely to deflect us towards entirely different destinations.  The future described above is merely the future of the past -- ie a future based on the ideas and hopes that dominated the world for the last 300 years. The real future -- ie a future born of the new ideas and hopes of the 21C -- might be completely different. #Politics
 
-- Homo Sapiens does its best to forget the fact, but it is an animal. And it is doubly important to remember our origins at a time when we seek to turn ourselves into gods. The relationship between humans and animals is the best model we have for the future relations between super-humans and humans. #WhoWeAre [[NowIsDifferent]] #Religion
+- Homo Sapiens does its best to forget the fact, but it is an animal. And it is doubly important to remember our origins at a time when we seek to turn ourselves into gods. The relationship between humans and animals is the best model we have for the future relations between super-humans and humans. [[WhoWeAre]] [[NowIsDifferent]] #Religion
 
 - Humanism has dominated the world for 300 years, which is not such a long time. The pharaohs ruled Egypt for 3000 years, and the popes dominated Europe for a millennium. [[History]]
 
-- With regards to other animals humans have long since become gods. #Religion #WhoWeAre
+- With regards to other animals humans have long since become gods. #Religion [[WhoWeAre]]
 
 - Humankind is poised to replace natural selection with intelligent design, and to extend life form the organic realm into the inorganic. [[NowIsDifferent]] 
 
-- "Algorithm" is arguably the single most important concept in our world. Humans are algorithms that produce copies of themselves. The algorithms controlling humans work through sensations, emotions, and thoughts. #WhoWeAre #Buddhism
+- "Algorithm" is arguably the single most important concept in our world. Humans are algorithms that produce copies of themselves. The algorithms controlling humans work through sensations, emotions, and thoughts. [[WhoWeAre]] #Buddhism
 
 - Not long ago psychologists doubted the importance of the emotional bond between parents and children even among humans. Childcare experts warned that children who were hugged and kissed by their parents would grow up to be needy, egotistical and insecure adults. #UsedToBelieve 
 
@@ -120,11 +120,11 @@
 
 - Everything a human does -- including reporting on allegedly conscious states -- might in theory be the work of non-conscious algorithms. #Consciousness
 
-- If cooperation is the key, how come the ants and bees did not beat us to the nuclear bomb even though they learned to cooperate en mass millions of years before us? Because their cooperation lacks flexibility. #Paradox #WhoWeAre #Consciousness
+- If cooperation is the key, how come the ants and bees did not beat us to the nuclear bomb even though they learned to cooperate en mass millions of years before us? Because their cooperation lacks flexibility. #Paradox [[WhoWeAre]] #Consciousness
 
 - The Russian revolution finally erupted now when 180 million peasants rose against the Tsar, but rather when a handful of communist placed themselves at the right place at the right time. [[History]]
 
-- A nation of 100 million people functions in a fundamentally different way to a band of a hundred individuals. #WhoWeAre
+- A nation of 100 million people functions in a fundamentally different way to a band of a hundred individuals. [[WhoWeAre]]
 
 - Sapiens dont behave according to a cold mathematical logic, but rather according to a warm social logic. We refuse unfair offers b/c people who meekly accepted unfair offers didn't survive the Stone Age.
 
@@ -132,7 +132,7 @@
 
 - People constantly reinforce each others beliefs in a self-perpetuating loop. Each round of mutual confirmation tightens the web of meaning further, until you have little choice but to believe what everyone else believes. Yet over decades and centuries the web of meaning unravels and a new web is spun in its place. To study history means to watch the spinning and unraveling of these webs, and to realize that what seems to people in one age the most important thing in life becomes utterly meaningless to their descendants. [[History]]
 
-- During the last 70000 years the intersubjective realities that Sapiens invented became ever more powerful, so that today they dominate the world. Will the chimpanzees, the elephants, the Amazon rain forests and the Artic glaciers survive the twenty-first century?  This depends on the wishes and decisions of intersubjective entities such as the European Union and the World Bank; entities that exist only in our shared imagination. [[History]] #WhoWeAre
+- During the last 70000 years the intersubjective realities that Sapiens invented became ever more powerful, so that today they dominate the world. Will the chimpanzees, the elephants, the Amazon rain forests and the Artic glaciers survive the twenty-first century?  This depends on the wishes and decisions of intersubjective entities such as the European Union and the World Bank; entities that exist only in our shared imagination. [[History]] [[WhoWeAre]]
 
 - Historians seek to understand the development of inter-subjective entities like gods and nations, whereas biologists hardly recognize the existence of such things. To think historically means to ascribe real power to the contents of our imaginary stories. [[History]]
 
@@ -154,9 +154,9 @@
 
 - History isn't a single narrative, but thousands of alternative narratives. Whenever we choose to tell one, we are also choosing to silence the others. [[History]]
 
-- Human cooperative networks usually judge themselves by yardsticks of their own invention, and not surprisingly, they often give themselves high marks. When examining history of any human network, it is therefore advisable to stop from time to time and look at things from the perspective of some real entity. How do you know if an entity is real ? Very simple -- just ask yourself "Can it suffer?" [[History]] #WhoWeAre
+- Human cooperative networks usually judge themselves by yardsticks of their own invention, and not surprisingly, they often give themselves high marks. When examining history of any human network, it is therefore advisable to stop from time to time and look at things from the perspective of some real entity. How do you know if an entity is real ? Very simple -- just ask yourself "Can it suffer?" [[History]] [[WhoWeAre]]
 
-- Fiction isn't bad. It is vital. Without commonly accepted stories about things like money, states, or corporations, no complex human society can function. But the stories are just tools. They should not become our goals or our yardsticks. #WhoWeAre [[History]]
+- Fiction isn't bad. It is vital. Without commonly accepted stories about things like money, states, or corporations, no complex human society can function. But the stories are just tools. They should not become our goals or our yardsticks. [[WhoWeAre]] [[History]]
 
 - In the 21C, we will create more powerful fictions and more totalitarian religions than in any previous era. [[NowIsDifferent]]
  
@@ -172,7 +172,7 @@
 
 - Modern history can be thought of as the process of formulating a deal between science and one particular religion - namely, humanism. Modern society believes in humanists dogmas, and uses science not in order to question these dogmas, but rather in order to implement them.  [[History]] #Science #Religion
 
-- Modernity is a surprisingly simple deal: humans agree to give up meaning in exchange for power.  If modernity has a motto it is "shit happens". We are constrained by nothing except our own ignorance. No paradise awaits us after our death -- but we can create paradise here on earth and live in it forever, if we just manage to overcome some technical difficulties. [[History]] #WhoWeAre [[NowIsDifferent]]
+- Modernity is a surprisingly simple deal: humans agree to give up meaning in exchange for power.  If modernity has a motto it is "shit happens". We are constrained by nothing except our own ignorance. No paradise awaits us after our death -- but we can create paradise here on earth and live in it forever, if we just manage to overcome some technical difficulties. [[History]] [[WhoWeAre]] [[NowIsDifferent]]
 
 - The modern deal offers us an enormous temptation, coupled with a colossal threat. Omnipotence is in front of us, almost within our reach, but below us yawns the abyss of complete nothingness. [[NowIsDifferent]]
 
@@ -255,15 +255,15 @@
 
 - Techno-humanism, which still sees humans as the apex of creation and clings to many traditional humanist values. Techno-humanism agrees that Homo-Sapiens as we know it has run its historical course and will no longer be relevant in the future, but concludes that we should therefore use technology in order to create Homo Deus - a much superior human model.  #Religion
 
-- Maybe a few additional changes to our genome and another rewiring of our brain will suffice to launch a second cognitive revolution. [[NowIsDifferent]] #WhoWeAre
+- Maybe a few additional changes to our genome and another rewiring of our brain will suffice to launch a second cognitive revolution. [[NowIsDifferent]] [[WhoWeAre]]
 
 - Modern western culture is unique in lacking a specialized class of people who seek to experience extraordinary mental states. #Religion
 
-- Hunter-gathers are able to smell from a distance the difference between various animal species, various humans and even various emotions. #WhoWeAre
+- Hunter-gathers are able to smell from a distance the difference between various animal species, various humans and even various emotions. [[WhoWeAre]]
 
 - Though we have more choice than ever before, we have lost the ability to pay attention to whatever we choose. #Buddhism #DFW
 
-- From a historical perspective its clear that something momentous is happening. The number one humanist commandment -- listen to yourself! -- is no longer self-evident. Silencing annoying voices in my head seems like a wonderful idea, provided it enables me to finally hear my deep authentic self. But if there is no authentic self, how do I decide which voices to silence and which to amplify? #Religion [[NowIsDifferent]] #WhoWeAre
+- From a historical perspective its clear that something momentous is happening. The number one humanist commandment -- listen to yourself! -- is no longer self-evident. Silencing annoying voices in my head seems like a wonderful idea, provided it enables me to finally hear my deep authentic self. But if there is no authentic self, how do I decide which voices to silence and which to amplify? #Religion [[NowIsDifferent]] [[WhoWeAre]]
 
 - Techno-humanism faces an impossible dilemma here. It considers the human will to be the most important thing in the universe, hence it pushes humankind to develop technologies that can control and redesign the self at will. After all its tempting to gain control over the most important thing in the world. Yet should we ever achieve such control, techno-humanism would not know what to do with it, because the sacred human would then become just another designer product. #Religion
 
@@ -287,13 +287,13 @@
 
 - Traditional religions assured you that your every word and action was part of some great cosmic plan, and that God watched you every minute and cared about your thoughts and feelings. Data religions now says that your every word and action is part of the great data flow, that the algorithms are constantly watching you and that they care about everything you do and feel. #Religion
 
-- Throughout this book we have repeatedly asked what makes humans superior to other animals. Dataism has a new an simple answer. Humans can write poems and blogs about their experiences and post them online, thereby enriching the global data-processing system. That makes their bits count. #WhoWeAre #Religion
+- Throughout this book we have repeatedly asked what makes humans superior to other animals. Dataism has a new an simple answer. Humans can write poems and blogs about their experiences and post them online, thereby enriching the global data-processing system. That makes their bits count. [[WhoWeAre]] #Religion
 
-- By equating the human experience with data patterns, Dataism undermines our primary source of authority and meaning and heralds a tremendous religious revolution, the like of which has not been seen since the 18C.  In the days of Locke, Hume and Voltaire humanist argued that "God is the product of the human imagination". Dataism now gives humanists a taste of their own medicine, and tells them: "Yes, God is a product of the human imagination, but human imagination in turn is just the product of biochemical algorithms." In the 18C, humanism sidelined God by shifting from a deo-centric to a homo-centric world view. In the 21C, Dataism may sideline humans by shifting from a homo-centric to a data-centric view. #Religion [[NowIsDifferent]] #WhoWeAre
+- By equating the human experience with data patterns, Dataism undermines our primary source of authority and meaning and heralds a tremendous religious revolution, the like of which has not been seen since the 18C.  In the days of Locke, Hume and Voltaire humanist argued that "God is the product of the human imagination". Dataism now gives humanists a taste of their own medicine, and tells them: "Yes, God is a product of the human imagination, but human imagination in turn is just the product of biochemical algorithms." In the 18C, humanism sidelined God by shifting from a deo-centric to a homo-centric world view. In the 21C, Dataism may sideline humans by shifting from a homo-centric to a data-centric view. #Religion [[NowIsDifferent]] [[WhoWeAre]]
 
 - The shift from a homo-centric to a data-centric view wont be merely a philosophical revolution. It will be a practical revolution. All truly important revolutions are practical. The humanists idea that "Humans invented God" was significant because it had far-reaching practical implications. Similarly, that Dataist idea that "organisms are algorithms" is significant due to its day-to-day practical consequences. Ideas change the world only when hey change our behavior [[NowIsDifferent]] #Religion 
 
-- Our love, our fear and our passion aren't some nebulous spiritual phenomena good only for composing poetry. Rather, they encapsulate millions of years of practical wisdom. When you listen to your feelings, you follow an algorithm that evolution has developed for millions of years, and that withstood the harshest quality-control tests of natural selection. Your feelings are not infallible, of course, but they are better than most other sources of guidance. #WhoWeAre 
+- Our love, our fear and our passion aren't some nebulous spiritual phenomena good only for composing poetry. Rather, they encapsulate millions of years of practical wisdom. When you listen to your feelings, you follow an algorithm that evolution has developed for millions of years, and that withstood the harshest quality-control tests of natural selection. Your feelings are not infallible, of course, but they are better than most other sources of guidance. [[WhoWeAre]] 
 
 - Yet in the 21C feelings are no longer the best algorithms in the world. Consequently you should stop listening to your feelings and start listening to these external algorithms instead. Whats the point of having democratic elections when the algorithms know not only how each person is going to vote, but also the underlying neurological reasons why one person votes Democrat while another votes Republican? #Politics #AI
 

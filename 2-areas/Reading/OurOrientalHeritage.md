@@ -6,7 +6,7 @@
 
 - The moment man begins to think about tomorrow he passes out of the Garden of Eden into the vale of anxiety; the pale cast of worry settles down upon him, greed is sharpened, property begins, and the good cheer of the "thoughtless" native disappears.
 
-  #WhoWeAre #Buddhism
+  [[WhoWeAre]] #Buddhism
 
 - Most of history is guessing, the rest is prejudice.
 
@@ -20,7 +20,7 @@
 
 - Custom gives the same stability to the group that heredity and instinct give to the species, and habit to the individual. It is the routine that keeps men sane; for if there were no grooves along which thought and action might move with unconscious ease, the mind would be perpetually hesitant, and would soon take refuge in lunacy.
 
-  #WhoWeAre
+  [[WhoWeAre]]
 
 - Liberty is a luxury of security; the free individual is a product and mark of civilization.
 
@@ -124,7 +124,7 @@
 
  #Religion
 
-- Men look to love and life for everything; they receive a little less than that; and imagine they have received nothing; #WhoWeAre
+- Men look to love and life for everything; they receive a little less than that; and imagine they have received nothing; [[WhoWeAre]]
 
 - It is a lame but happy ending; Job receives everything but an answer to his questions (Where is justice?). No answer could be given unless one believed in some other life, beyond the grave, in which all wrongs would be righted, the wicked would be punished and the just would inherit infinite reward.
 
@@ -237,7 +237,7 @@
 
 - "It is not logic that we need, it is insight, the faculty (akin to art) of grasping at once the essential out of the irrelevant, the eternal out of the temporal, the whole out of the part." -Shankara
 
-- Hindu philosophy begins where European philosophy ends - with an inquiry into the nature of knowledge and the limitations of reason. Even the person that reason is an illusion; what is he but a temporary conjunction of events, a passing node in the curves of matter and mind through space and time? and what are his acts or his thoughts but the fulfillment of forces far antedating his birth ? #FreeWill #WhoWeAre
+- Hindu philosophy begins where European philosophy ends - with an inquiry into the nature of knowledge and the limitations of reason. Even the person that reason is an illusion; what is he but a temporary conjunction of events, a passing node in the curves of matter and mind through space and time? and what are his acts or his thoughts but the fulfillment of forces far antedating his birth ? #FreeWill [[WhoWeAre]]
 
 - Perhaps our Western systems, so confident "Knowledge is Power", are the voices of a once lusty youth exaggerating human ability and tenure.
 
@@ -259,7 +259,7 @@
 
 - One must have a long urban background in order to write rural poetry.
 
-- If one follows nature and acts naturally he is much more likely to murder and eat his enemies than to practice philosophy; there is small chance of his being humble, and less of his being silent. Even the painful tillage of the soil goes against the grain of a species primordially wont to hunt and kill; agriculture is as "unnatural" as industry. #WhoWeAre
+- If one follows nature and acts naturally he is much more likely to murder and eat his enemies than to practice philosophy; there is small chance of his being humble, and less of his being silent. Even the painful tillage of the soil goes against the grain of a species primordially wont to hunt and kill; agriculture is as "unnatural" as industry. [[WhoWeAre]]
 
 - The foundation of character is sincerity. He acts before he speaks and afterwards speaks according to his actions.
   He is modest in his speech but exceeds in his actions. He seldom speaks; when he does he is sure to hit the point.

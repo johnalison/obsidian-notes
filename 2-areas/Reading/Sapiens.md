@@ -86,7 +86,7 @@
 
 - Even among chimps the alpha male wins his position by building a stable coalition with other males and females, not through mindless violence.
 
-- How did it happen that in the one species whose success depends above all on cooperation, individuals who are supposedly less cooperative (men) control individuals who are supposedly more cooperative (women) ? At present we have no good answer. (#WhatWeDontKnow)
+- How did it happen that in the one species whose success depends above all on cooperation, individuals who are supposedly less cooperative (men) control individuals who are supposedly more cooperative (women) ? At present we have no good answer. ([[WhatWeDontKnow]])
 
 - Ever since the French revolution, people throughout the world have gradually come to see both equality and freedom as fundamental values. Yet the two values contradict each other.
   The entire political history of the world since 1789 can be seen as a series of attempts to reconcile this contradiction.
@@ -212,7 +212,7 @@
 
 - Although the people in all cultures and eras have felt the same types of pleasures and pains, the meaning they ascribed to their experiences has probably varied widely. If so, the history of happiness might have been far more turbulent than biologists imagine. Its a conclusion that does not necessarily favor modernity. (#History)
 
-- As far as we can tell, from a purely scientific viewpoint, human life has absolutely no meaning. Humans are the outcome of blind evolutionary processes that operate without goal or purpose. *Any* meaning that people ascribe to their lives is just a delusion.  Counter point: the beginning of infinity, science, humanity.  (#WhoWeAre)
+- As far as we can tell, from a purely scientific viewpoint, human life has absolutely no meaning. Humans are the outcome of blind evolutionary processes that operate without goal or purpose. *Any* meaning that people ascribe to their lives is just a delusion.  Counter point: the beginning of infinity, science, humanity.  ([[WhoWeAre]])
 
 - Buddhism has assigned the question of happiness more importance than perhaps any other human creed. For 2500 years, Buddhists have systematically studied the essence and causes of happiness. Buddhism shares the basic insight of the biological approach, namely that happiness results from processing occurring within one's body, and not form events in the outside world. (#Buddhism)
 
@@ -222,7 +222,7 @@
 
 - If Buddhism is right, our entire understanding of the history of happiness might be misguided. Maybe it isn't so important whether peoples expectations are fulfilled and whether they enjoy pleasant feelings. The main question is whether people know the truth about themselves. (#Buddhism) (#Happiness) (#History)
 
-- Most history books say nothing about how the course of history has influenced the happiness and suffering of individuals. This is the biggest lacuna in our understanding of history. (#Happiness) (#History) (#WhatWeDontKnow)
+- Most history books say nothing about how the course of history has influenced the happiness and suffering of individuals. This is the biggest lacuna in our understanding of history. (#Happiness) (#History) ([[WhatWeDontKnow]])
 
 - History is the next stage in the continuum of physics to chemistry to biology. (#History)
 
@@ -244,6 +244,6 @@
 
 - "What do we want to want? " Those who are not spooked by this question probably haven't given it enough thought.
 
-- Modern Humans: Self-made gods with only the laws of physics to keep us company, we are accountable to no one. We a consequently wreaking havoc on our fellow animals and the surrounding ecosystem, seeking little more than our own comfort and amusement, yet never finding satisfaction. Is there anything more dangerous than dissatisfied and irresponsible gods who dont know what they want ? (#WhoWeAre)
+- Modern Humans: Self-made gods with only the laws of physics to keep us company, we are accountable to no one. We a consequently wreaking havoc on our fellow animals and the surrounding ecosystem, seeking little more than our own comfort and amusement, yet never finding satisfaction. Is there anything more dangerous than dissatisfied and irresponsible gods who dont know what they want ? ([[WhoWeAre]])
 
-- Humans are gods to other animals (not benevolent ones!) (#WhoWeAre) (#AI) (#Religion)
+- Humans are gods to other animals (not benevolent ones!) ([[WhoWeAre]]) (#AI) (#Religion)

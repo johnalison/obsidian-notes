@@ -148,4 +148,4 @@
 
 - Examine your thoughts. You will find them wholly concerned with the past or the future. We almost never think of the present, and if we do, its only to see what light it throws on our plans for the future. The present is never our end. The past and the present are our means, the future alone our end. Thus we never actually live, but hope to live, and since we are always planning how to be happy, it is inevitable that we should never be so.
 
-#WhoWeAre #AreWhatYouThink
+[[WhoWeAre]] #AreWhatYouThink

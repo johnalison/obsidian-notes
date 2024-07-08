@@ -44,7 +44,7 @@
 
 - A complete inventory of the basic constituents of the world, even if it contains chariot parts, contains no chariots. This is how we should think of the person and his relation to that name. He is no singular entity. He is neither identical to no distinct from his parts. A final account of the basics constituents of the world, even were it to contain his hair, fingers, desires, and experiences, could not contain the person. He does not exist in the way we might have imagined him to exist before we considered the matter with care.
 
-#WhoWeAre
+[[WhoWeAre]]
 
 - Any account of personal identity must explain how and why we persist over time. A self would seem to do that; in its absence, we need an alternative account.
 
@@ -68,7 +68,7 @@
 
 - The complex of perceptual processes realized in our nervous systems creates an experience for us. But it cannot do this by somehow transporting external objects and their properties into our skulls. What we construct in response to the causal interaction with our sense organs depends not only on what impinges on them, but on the kinds of sense organs we have, and the kings of processing that occurs in our nervous system.   This means that the world we experience is not dually related to us, and independent, but one that we construct in our ongoing engagement with our environment.
 
-#WhoWeAre 
+[[WhoWeAre]] 
 
 - Much of our life is structured by the illusion that we just find what we in fact construct; but the fact that this illusion (the dichotomy of self and other) structures so much of our experience does not mean that it is not an illusion.
 
@@ -84,7 +84,7 @@
 
 - The self is taken to be preexisting, primordial, unitary, and transcendent of the world of objects, independent of body, mind, and social context. The person is constructed; The person is dependent on the psychophysical and social network in which it is realized. The person is complex, embodied and embedded. That is the difference between the actor and the role. We are roles, not actors.
 
-#WhoWeAre
+[[WhoWeAre]]
 
 - By distinguishing from the self and the person we can separate what we are from what we naively take ourselves to be; we can distinguish the reality of our existence from its appearance. We can come to see just how powerfully cognitive instinct can shape our sense of who and what we are. And this in turn can dislodge an entire set of seductive myths to  which we also unreflectively subscribe, all myths grounded in the self illusion:
   -) That we know ourselves immediately and infallibly as selves
@@ -128,7 +128,7 @@
 
 - We are at our best in expert performance. Expert performance reveals our most successful engagement with our world. The fact that this engagement is most successful when the self illusion is out of the picture is further evidence of the illusory status of the self.
 
-#WhoWeAre
+[[WhoWeAre]]
 
 - The entities of the empirical world do not constitute an independent reality with which we interact, but instead constitute our reality as sub-processes of the causal unfolding of the universe.
 
@@ -178,11 +178,11 @@
 
 - Persons are poised between the biological, the psychological, and the social, and they live on the cusp of fact and fiction.
 
-#WhoWeAre
+[[WhoWeAre]]
 
 - We are brought into existence as persons through the complex interplay between our biology as members of species Homo Sapiens and our interactions with one another in the context of the social structures that make persons both possible and necessary. That origin renders us fictional, or constructed; it means that our reality as persons is not primordial, or independent of human activity. But this tale of origins does not render us unreal. Persons are also factual. We, like the civilizations, cities and civic practices we create, are real parts of the natural and social world. And we have real biological, psychological and social properties. That is what genuine empirical reality is; the kind of supernatural reality that would attach to a self is no reality at all.
 
-#WhoWeAre
+[[WhoWeAre]]
 
 - You can't use physics to understand a chess game, or to understand how money works.
 
@@ -198,7 +198,7 @@
 
 - We are biologically determined to create social structures that provide the context in which we develop psychologically. Our psychology in turn helps to elaborate these social structures, which in turn shape our psychology. This complex psychological and social environment in turn helps to determine our biological heritage as well as its expression in concrete situations. Persons emerge form this, looping, spiraling interaction between variables at each of these levels of description.  None can be ignored if we want to understand who we are.
 
-#WhoWeAre
+[[WhoWeAre]]
 
 - We are biologically wired for language, and without this wiring it would be impossible or us to learn or use it. We have be selected in our evolution because of the success that language confers in the human social niche.
 
@@ -214,7 +214,7 @@
 
 - We have no reality at all outside of the context of the stores in which we figure. This is why we are persons, and not selves. But we are real persons, not imaginary persons. Therefore, in another sense, we are different from Hamlet and his cohort, and that difference is every bit as important as the similarity. Shakespeare's fiction is local, optional, and its roles need not be instantiated; the fiction in which we play our parts is global and mandatory. And the roles we play are necessarily instantiated by biologically real creatures.
 
-#WhoWeAre
+[[WhoWeAre]]
 
 - Our understanding of our own minds and of those of others arises not from the discovery of primordial facts, but instead from acts of interpretation.
 

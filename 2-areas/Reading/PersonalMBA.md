@@ -51,7 +51,7 @@
 
 - Humans have a hard time paying attention to what is NOT present (Absence Blindness) #MentalModels
 
-- Your consciousness is how your brain solves problems that it cant automatically. #WhoWeAre #Consciousness
+- Your consciousness is how your brain solves problems that it cant automatically. [[WhoWeAre]] #Consciousness
 
 - Behaviorism is the idea that you can control behavior by controlling stimuli.
 

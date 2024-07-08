@@ -24,11 +24,12 @@ done
 if [ -n "$execute_cmd" ]; then
     echo "Executing"
     sed -i ""  "s/#${2} /[[${2}]] /" 2-areas/Reading/*md
-    sed -i ""  "s/#${2}$/[[${2}]]/" 2-areas/Reading/*md
+    sed -i ""  "s/#${2}/[[${2}]]/" 2-areas/Reading/*md
+    sed -i ""  "s/(#${2})/[[${2}]]/" 2-areas/Reading/*md    
 else
     echo "Testing"
     sed -n  "s/#${1} /[[${1}]] /p" 2-areas/Reading/*md
-    sed -n  "s/#${1}$/[[${1}]]/p" 2-areas/Reading/*md
+    sed -n  "s/#${1}/[[${1}]]/p" 2-areas/Reading/*md
 
 fi
 

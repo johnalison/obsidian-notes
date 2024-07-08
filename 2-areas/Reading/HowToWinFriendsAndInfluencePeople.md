@@ -22,7 +22,7 @@
 
 - Sharp criticisms and rebukes almost always end in futility. 
 
-- When dealing with people we should remember that we are not dealing with creatures of logic. We are dealing with creatures of emotion, creatures bristling with prejudges and motivated by pride and vanity.  #WhoWeAre #MentalModels
+- When dealing with people we should remember that we are not dealing with creatures of logic. We are dealing with creatures of emotion, creatures bristling with prejudges and motivated by pride and vanity.  [[WhoWeAre]] #MentalModels
 
 - The secret of Benjamin Franklin's success: "I will speak ill of no man" #Rationality
 

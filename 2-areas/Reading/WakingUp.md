@@ -4,7 +4,7 @@
 
 - Our minds are all we have, they are the only things we will ever have and they are all we can give others.
 
-  #WhoWeAre
+  [[WhoWeAre]]
 
 - Each of us is looking for a path back to the presence: we are trying to find reasons to be satisfied NOW.
 
@@ -31,7 +31,7 @@
 
 - There is an alternative to being continuously spellbound by the conversation we are having with ourselves; There is an alternative to simply identifying with the next thought that pops into consciousness. And glimpsing this alternative dispels the conventional illusion of the self.
 
-  #WhoWeAre
+  [[WhoWeAre]]
 
 - Wisdom is nothing more profound than an ability to follow ones own advice.
 
@@ -39,7 +39,7 @@
 
 - It is possible to be at ease in the world for no reason, if only for a few moments at a time, such ease is synonymous with transcending the apparent boundaries of the self.
 
-  #Happiness #WhoWeAre
+  #Happiness [[WhoWeAre]]
 
 - Unlike Buddhism, as manuals for contemplative understanding, the Bible and Koran are worse than useless.
 
@@ -64,7 +64,7 @@
 
 - According to Buddhist teachings, humans have a distorted view of reality that leads them to suffer unnecessarily. We grasp at transitory pleasures. We brood about the past and worry about the future. We continually try to prop up and defend the ego that doesn't exist.  By seeing things as they, are we cease to suffer in the usual ways and our minds can open to states of well-being that are intrinsic to the nature of consciousness.
 
-  #WhoWeAre
+  [[WhoWeAre]]
 
 - Investigating the nature of consciousness itself and transforming its contents through deliberate training is the basis of spiritual life.
 
@@ -80,7 +80,7 @@
 
 - An empirical claim: look closely enough at your own mind in the present moment, and you will discover that the self is an illusion.
 
-  #WhoWeAre
+  [[WhoWeAre]]
 
 - We must build our own telescopes to judge the empirical claims of contemplatives
 
