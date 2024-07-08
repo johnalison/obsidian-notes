@@ -7,7 +7,7 @@ System conceived by Tiago Forte
 
 # Areas
 
-- Responsible for overa a longer period of time
+- Responsible for over a longer period of time
 - eg: Your house
 - on going engangement / responsibility
 - other examples: Blog / teaching / HGC / HH / bbWW / Family

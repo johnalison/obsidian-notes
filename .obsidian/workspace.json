@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Para.md",
+                "file": "0-inbox/PARA.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/Things-To-Add-To-Notes.md",
+                "file": "0-inbox/4.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/Things-To-Add-To-Notes.md",
+                "file": "0-inbox/4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/Things-To-Add-To-Notes.md",
+                "file": "0-inbox/4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/Things-To-Add-To-Notes.md"
+                "file": "0-inbox/4.md"
               }
             }
           }
@@ -197,41 +197,42 @@
   },
   "active": "e35170e2a251caa0",
   "lastOpenFiles": [
+    "0-inbox/Teachers vs Experts.md",
+    "0-inbox/Independence or Primacy of Thermodynamics.md",
+    "0-inbox/PARA.md",
+    "0-inbox/Problem with market cap.md",
+    "0-inbox/index.md",
+    "0-inbox/5b.md",
+    "0-inbox/5a.md",
+    "0-inbox/5.md",
+    "0-inbox/4a.md",
+    "0-inbox/4.md",
+    "0-inbox/Things-To-Add-To-Notes.md",
+    "0-inbox/Obsidian-Intro.md",
+    "0-inbox/Ideas-for-emacs-Obsidian.md",
+    "0-inbox/Clean-up github and gitlab.md",
+    "3-resources/Obsidian/Obsidian-Intro.md",
+    "3-resources/computing/SED Examples.md",
+    "0-inbox/AWK examples.md",
+    "3-resources/computing/SetupPy3VirtualEnv_CompileROOT_EnergyFlowCode.md",
+    "3-resources/computing/PSC  for ML.md",
+    "3-resources/computing/Docker.md",
+    "3-resources/computing/RenewGridCert.md",
+    "3-resources/computing/Singularity On LPC.md",
+    "3-resources/computing",
     "2-areas/CMS/Singularity On LPC.md",
     "2-areas/CMS/SetupPy3VirtualEnv_CompileROOT_EnergyFlowCode.md",
     "2-areas/CMS/RenewGridCert.md",
     "3-resources/MAC/RenewEduRoam.md",
-    "3-resources/ROOT/ROOTTricks.md",
     "3-resources/ROOT",
-    "3-resources/emacs/emacs-file-search.md",
     "3-resources/emacs",
-    "2-areas/HGC/RaspberryPiSetup.md",
-    "2-areas/HGC/RaspberryPiSetup 1.md",
-    "2-areas/CMS/PSC  for ML.md",
-    "3-resources/MAC/MonteryInstall.md",
-    "0-inbox/Papers.md",
-    "0-inbox/Things-To-Add-To-Notes.md",
-    "0-inbox/Obsidian-Intro.md",
-    "2-areas/CMS/MLCodeSetup.md",
-    "3-resources/MAC/MACTricks.md",
     "3-resources/MAC",
-    "0-inbox/Ideas-for-emacs-Obsidian.md",
-    "2-areas/emacs/emacs-file-search.md",
-    "0-inbox/HH4bNotes.md",
     "2-areas/emacs",
-    "2-areas/CMS/Docker.md",
-    "2-areas/CMS/CMSSWNotes.md",
-    "2-areas/CMS/CMSRun2Data.md",
     "2-areas/CMS",
-    "0-inbox/Clean-up github and gitlab.md",
-    "0-inbox/Test Git backup.md",
     "2-areas/HGC",
-    "RaspberryPiSetup.md",
-    "3-resources/Obsidian/Obsidian-Intro.md",
     "3-resources/Obsidian",
     "Pasted image 20240707142114.png",
     "4-archive",
-    "3-resources",
-    "2-areas"
+    "3-resources"
   ]
 }
