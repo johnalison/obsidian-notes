@@ -140,6 +140,6 @@
    To accustom ourselves to plain living and simple ways is an almost certain road to health.
    The gods are not to be feared; death cannot be felt; the good can be had; the bad can be avoided.
 
-   #Epicurean  #Advice #Quotes
+   #Epicurean  #Advice [[Quotes]]
 
 - The Stoics lent countenance to superstition, and had an injurious effect upon science; but they saw clearly the basic problem of their age - the collapse of the theological basis of morals -- and they made an honest attempt to bridge the gap between religion and philosophy.

@@ -33,12 +33,12 @@
 
 - If protons do decay, the universe will eventually contain only electrons and lighter particles like neutrinos and photons. Matter as we know it will be gone.
 
-- The electron waves are not waves of electronic matter, in the way that ocean waves are waves of water. Rather, the electron waves are waves of probability.  #QM
+- The electron waves are not waves of electronic matter, in the way that ocean waves are waves of water. Rather, the electron waves are waves of probability.  [[QM]]
 
-- It is a bad sign that those physicists today who are most comfortable with QM do not agree with each other about what it all means. #QM
+- It is a bad sign that those physicists today who are most comfortable with QM do not agree with each other about what it all means. [[QM]]
 
 - The trouble with QM is not that it involves probabilities. The trouble is that in QM the way that wave functions change with time is governed by an equation, that does not involve probabilities.
-  If we regard the whole process of measurement as being governed by the equations of QM, and these equations are perfectly deterministic, how do probabilities get into QM? #QM
+  If we regard the whole process of measurement as being governed by the equations of QM, and these equations are perfectly deterministic, how do probabilities get into QM? [[QM]]
 
 - The special treatment of investment income should be eliminated. It distorts the balance between consumption and investment, a balance that ought to be set (at least according to the economic philosophy of conservatives) by free market forces. In the present state of our economy, it is consumers that are the real job creators. #Politics
 

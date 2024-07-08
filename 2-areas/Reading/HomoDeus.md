@@ -6,7 +6,7 @@
 
 - For the first time in history, more people die today from eating too much than from eating to little; more people die from old age than from infectious diseases; and more people commit suicide than are killed by soldiers, terrorists and criminals combined. [[NowIsDifferent]]
 
-- Humankind in the 21st century needs to ask itself an unprecedented question: what are we going to do with ourselves ? In a healthy, prosperous and harmonious world, what will demand our attention and ingenuity? [[NowIsDifferent]] #Questions
+- Humankind in the 21st century needs to ask itself an unprecedented question: what are we going to do with ourselves ? In a healthy, prosperous and harmonious world, what will demand our attention and ingenuity? [[NowIsDifferent]] [[Questions]]
 
 - Mass famines still strike some areas from time to time, but they are exceptional, and they are almost always caused by human politics rather than natural catastrophes. There are no longer natural famines in the world; there are only political famines. #Politics [[NowIsDifferent]]
 
@@ -116,7 +116,7 @@
 
 - Scientists dont know how a collection of electrical brain signals creates subjective experiences. Even more crucially, they dont know what could be the evolutionary benefit of such a phenomenon. Ironically the better we map the brain, the harder it becomes to explain conscious feelings, the more redundant the mind seems. IF the entire system works by passing electrical signals from here to there, why the hell do we also need to feel fear ? #Consciousness #Paradox
 
-- If we cannot explain the mind and if we dont know what function it fulfills, why not just discard it? #Questions #Consciousness
+- If we cannot explain the mind and if we dont know what function it fulfills, why not just discard it? [[Questions]] #Consciousness
 
 - Everything a human does -- including reporting on allegedly conscious states -- might in theory be the work of non-conscious algorithms. #Consciousness
 
@@ -310,4 +310,4 @@
     2) Whats more valuable -- intelligence or consciousness ?
     3) What will happen to society, politics and daily life when non-conscious but highly intelligent algorithms know us better than we know ourselves?
 
-#Politics [[History]] #Questions 
+#Politics [[History]] [[Questions]] 

@@ -16,7 +16,7 @@
 
 - Analyze yourself. Identify weaknesses and improve yourself. #PerfectionNotRequired
 
-- "Nobody caress how much you know, until they know how much you care" - Teddy Roosevelt #Quotes #BeTheGood
+- "Nobody caress how much you know, until they know how much you care" - Teddy Roosevelt [[Quotes]] #BeTheGood
 
 - Conviction: Your peers are the first to know what you will stand for and what you wont stand for. [[Reliability]]
 

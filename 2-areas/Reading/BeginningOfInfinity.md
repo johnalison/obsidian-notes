@@ -465,7 +465,7 @@
   It is counter-intuitive that identical objects obeying deterministic laws cannot become different, but fungible objects (which on the face of it are even more alike, can; this is at the heart of quantum physics.
   Diversity within fungibility  is widespread in the multiverse.
 
-#QM #Physics #Philosophy
+[[QM]] #Physics #Philosophy
 
 - Three ways which a phenomena can appear unpredictable to an observer
   1) Physics is affected by some fundamentally random variable (not present in real physics)
@@ -473,7 +473,7 @@
   3) (New in quantum theory) Two or more initially fungible instances of the observer become different.
   The laws of physics of the multiverse is deterministic; the apparent randomness is due to initially fungible instances of objects becoming different.
 
-#QM
+[[QM]]
 
 - There are ways in which the different histories of the different universes can affect each other in ways that do not amount to communication.
   The need to explain these effects is the main argument that our multiverse is real.
@@ -483,7 +483,7 @@
 
 - The only way for the laws of physics to ***simultaneously*** meet the criteria of being universal, deterministic, and forbid faster-than-light communication is to have multiple universes.
 
-#QM
+[[QM]]
 
 - Common sense and classical physics contain the parochial error that only one history exists.
 

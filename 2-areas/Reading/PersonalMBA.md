@@ -4,11 +4,11 @@
 
 - Formal business degrees often not worth the money. What you learn is very useful, but there are more efficient (and cheaper!) ways to learn it.
 
-- "Life is tough, its tougher if you're stupid" --John Wayne #Quotes
+- "Life is tough, its tougher if you're stupid" --John Wayne [[Quotes]]
 
 - "Education is not the answer to a question, it is the means to answer all questions" -- Bill Allin
 
-- "The limits of my language are the limits of my world" -Wittgenstein #Quotes
+- "The limits of my language are the limits of my world" -Wittgenstein [[Quotes]]
 
 - "Whoever best describes the problem is the one most likely to solve it" -- Dan Roam #Invert 
 

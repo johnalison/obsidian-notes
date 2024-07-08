@@ -14,7 +14,7 @@
 
 - Regard this as a working handbook on human relations; and whenever you are confronted with some specific problem hesitate about doing the natural thing, the impulsive thing. This is usually wrong.
 
-- What to ask yourself each day: "What mistakes did I make ?" "What did I do that was right -- and in what way could I have improved my performance ?" "What lessons can I learn from that experience?" #Questions #Checklists
+- What to ask yourself each day: "What mistakes did I make ?" "What did I do that was right -- and in what way could I have improved my performance ?" "What lessons can I learn from that experience?" [[Questions]] #Checklists
 
 - The resentment that criticism engenders can demoralize employees, family members and friends, and still not correct the situation that has been condemn. #Leadership 
 

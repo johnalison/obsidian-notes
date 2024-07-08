@@ -10,7 +10,7 @@
 
 - The minimum principle (principle of least action) is a consequence of QM. The best laws we know are a combination of local laws and the minimization principle.
 
-#QM
+[[QM]]
 
 - The correct laws of physics are expressible in many equivalent ways. If you modify them, you tend to reduce the number of ways in which the laws can be written (mysterious)
 
@@ -22,7 +22,7 @@
 
 - Symmetry is much more important in QM than in classical physics, bc QM often deals with very simple systems (and identical particles!)
 
-#QM
+[[QM]]
 
 - The fact that all the molecules in living things have exactly the same kind of handedness is probably one of the deepest demonstrations of the uniformity of the ancestry of life, right back to the completely molecular level.
 

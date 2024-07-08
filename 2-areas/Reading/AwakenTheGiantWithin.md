@@ -10,7 +10,7 @@
 
 - Most people overestimate what they can do in a year, and underestimate what they can achieve in a decade.
 
-- 3 decisions that shape your destiny: What to focus on. / What things mean to you. / What to do. #Questions #Checklists #MentalModels
+- 3 decisions that shape your destiny: What to focus on. / What things mean to you. / What to do. [[Questions]] #Checklists #MentalModels
 
 - Success truly is the result of good judgment. Good judgment is the result of experience, and experience is the result of bad judgment. 
 
@@ -26,7 +26,7 @@
 
 - The only security in life comes from knowing that every single day you are improving yourself in some way. #PerfectionNotRequired [[Rationality]]
 
-- Q: What did I learn today ? What did I enjoy today? How did I contribute/improve? #Questions
+- Q: What did I learn today ? What did I enjoy today? How did I contribute/improve? [[Questions]]
 
 - Its not enough to have a good mind, the main thing is to use it well - Descartes #BeTheGood
 
@@ -36,11 +36,11 @@
 
 - The real key to life is being able to make yourself feel good when you dont feel good, or dont want to. You can do this instantly by using your body to change state. [[SystemsNotGoals]]
 
-- Q: What am I happy about now? What could I be happy about if I wanted to be? #Questions
+- Q: What am I happy about now? What could I be happy about if I wanted to be? [[Questions]]
 
 - Model the habitual questions of people you respect. [[RoleModels]]
 
-- When angry: what can I learn from this so this never happens again? #Questions #MentalModels
+- When angry: what can I learn from this so this never happens again? [[Questions]] #MentalModels
 
 - Words you habitually choose affect how you communicate with yourself and therefore what you experience.
 

@@ -21,7 +21,7 @@
 
 - Mystery of Partial Reflection: How should a photon "decide" where it should go ? This is already a deep mystery, was a very difficult problem for Newton.
 
-  #QM
+  [[QM]]
 
 - Philosophers have said that science/rationality is only possible if the same circumstances give the same outcomes. Here is a case where identical circumstances (photons) produce different results (some reflect, some dont) We can only predict the probability of an event, not what exactly happens. Yet, science has not collapsed.
 
@@ -30,7 +30,7 @@
 - Partial reflection by a single surface is a deep mystery, partial reflection by two or more surfaces is absolutely mind-boggling!
    Even today we dont have a good model to explain partial reflection by two surfaces. We cannot explain how the photons decide, that is not known.
 
-#QM
+[[QM]]
 
 - The thin film of oil on a puddle of mud is something like a thin sheet of glass. It reflects light of one color depending on the thickness.
 
@@ -40,7 +40,7 @@
 
 - Diffraction Grating proves that the regions far from least time matter: Can scrape the mirror so there is a bias in the direction of the arrows. Such a mirror is called a diffraction grating: works like a charm.  This proves we cant ignore the parts of the mirror that dont seem to be reflecting, this in turn implies that there is an amplitude for every way an event can happen, we have to add all the amplitudes, not just the ones we think are important.
 
-#QM #PhilosophyOfPhysics
+[[QM]] #PhilosophyOfPhysics
 
 - We dont have to assume light goes in straight lines when its in a uniform medium like air or water: even that is explainable by the general principle of quantum theory.
 
@@ -55,7 +55,7 @@
 - (Double Slit Experiment) Nature has it cooked up so we can never tell how she manages the interference. If put in detectors to see which way the photon went, we destroy the interference.
    The more you see how strangely nature behaves, the harder it is to make a model that explains how even the simplest phenomena actually work. So theoretical physicists have given up on that. (Many worlds)
 
-#ManyWorlds #QM
+#ManyWorlds [[QM]]
 
 - There are only three basic actions to produce all the phenomena associated with light and electrons.
    - A photon goes from place to place
