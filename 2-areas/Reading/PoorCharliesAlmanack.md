@@ -12,7 +12,7 @@
    		Dont overlook the obvious by drowning in the minutiae. 
    Discipline: Reputation and integrity are you most valuable assets and can be lost in a heartbeat
    
- #Munger #Advice #Dependability
+ [[Munger]] #Advice #Dependability
 
 - "Track records are very important. If you start early to have a perfect track record in some simple thing like honest, you're well on your way to success in this world."
    Charlie Munger
@@ -52,7 +52,7 @@ Elementary Wordly Wisdom:
     - Apply elementary multidisciplinary wisdom, never relying entirely upon others
     - Watch out for combinations of factors ("Lollapalooza effects")
 
- #Advice #Munger
+ #Advice [[Munger]]
 
 - If you always tell people why, they will understand better.
    The human mind is not constructed so that it works well without having reasons. You've got to hang reality on a theoretical structure with reasons.
@@ -157,7 +157,7 @@ Elementary Wordly Wisdom:
  25) Lollapalooza Tendency
      - Can get extreme consequences from confluences of psychological tendencies acting in favor of a particular outcome.
 
- #Munger
+ [[Munger]]
 
 - Dread and avoid as much as possible rewarding people for what can be easily faked.
 

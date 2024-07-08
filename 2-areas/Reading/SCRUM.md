@@ -8,7 +8,7 @@
 
 - Main idea: Whenever you start a project why not regularly check in to see if heading in the right direction/is actually what people want.
 
-- 80% of the value of any piece of software in 20% of the features. #MentalModels
+- 80% of the value of any piece of software in 20% of the features. [[MentalModels]]
 
 - People > process / Products that work > documenting specs / Collaborating > negotiating / responding to change > following a plan
 

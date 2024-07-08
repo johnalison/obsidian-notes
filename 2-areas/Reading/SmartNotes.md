@@ -94,10 +94,10 @@
 [[Protocols]] [[SystemsNotGoals]]
 
 - p119: A wise person is not someone who knows everything, but someone who can make sense of anything based on a "latticework of mental models"
-#MentalModels
+[[MentalModels]]
 
 - p122: Critical to train ourselves to see subtle differences between apparently similar concepts, this is often how important breakthroughs begin.
-[[Research]]  #MentalModels
+[[Research]]  [[MentalModels]]
 
 - p142: Should be skeptical of any long-term planning esp when it focuses on outcomes and not the actual work that needs to be done.
 

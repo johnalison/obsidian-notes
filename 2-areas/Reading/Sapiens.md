@@ -168,7 +168,7 @@
 
 - Ironically, the same scientific disciplines which shape our milk machines and egg machines have lately demonstrated beyond reasonable doubt that mammals and birds have a complex sensory and emotional make-up. They not only feel physical pain, but can also suffer emotional distress.
 
-- The basic lesson of evolutionary psychology: a need shaped in the wild continues to be felt subjectively even if it is no longer really necessary for survival and reproduction. (#MentalModels)
+- The basic lesson of evolutionary psychology: a need shaped in the wild continues to be felt subjectively even if it is no longer really necessary for survival and reproduction. ([[MentalModels]])
 
 - Each year the US population spends more money on diets than the amount needed to feed all the hungry people in the rest of the world.
 
@@ -178,13 +178,13 @@
 
 - The most momentous social revolution that ever befell humankind is the collapse of the family and the local community and their replacement by the state and the market. Millions of years of evolution have designed us to live and think as community members. Within a mere two centuries we have become alienated individuals. Nothing testifies better to the awesome power of culture.
 
-- These days every year is revolutionary. Today, even a thirty-year old can honestly tell disbelieving teenagers "When I was young, the was completely different". (#NowIsDifferent)
+- These days every year is revolutionary. Today, even a thirty-year old can honestly tell disbelieving teenagers "When I was young, the was completely different". ([[NowIsDifferent]])
 
 - During the last 70 years, humankind has for the first time faced the possibility of complete self-annihilation and has experienced a fair number of actual wars and genocides. Yet these decades were also the most peaceful era in human history- by a wide margin. This is surprising because these very same decades experienced more economic, social and political change than any previous era. The tectonic plates of history are moving at a frantic pace, but the volcanoes are mostly silent. (#History)
 
 - Wealth today consists mainly of human capital and organizational know-how. It is difficult to carry it off or conquer it by military force. The few full-scale international wars that still take place in the world, eg Middle east, occur in places were wealth is old-fashioned material wealth.
 
-- Ours is the first time in history that the world is dominated by a peace-loving elite - politicians, business people, intellectuals and artists which genuinely see war as both evil and avoidable. (#NowIsDifferent)
+- Ours is the first time in history that the world is dominated by a peace-loving elite - politicians, business people, intellectuals and artists which genuinely see war as both evil and avoidable. ([[NowIsDifferent]])
 
 - Did the wealth humankind accumulated in the last 5 centuries translate into a new-found contentment? If not, what is the point of developing agriculture, cities, writing, coinage, empires, science and industry ? Historians seldom ask these questions, yet they are the more important questions one can ask of history. (#History) (#Buddhism)
 
@@ -226,17 +226,17 @@
 
 - History is the next stage in the continuum of physics to chemistry to biology. (#History)
 
-- Homo sapiens are transcending biologically determined limits. It is now beginning to break the laws of natural selection, replacing them with the laws of intelligent design. The first crack in the old regime appeared 10k years ago in the Agriculture revolution. Sapiens who dreamed of fat, slow-moving chickens discovered that if they mated the fattest hen with the slowest cock, some of the offspring would be both fat and slow. It was a race of chickens unknown to nature, produced by intelligent design not of a god but of a human. (#NowIsDifferent)
+- Homo sapiens are transcending biologically determined limits. It is now beginning to break the laws of natural selection, replacing them with the laws of intelligent design. The first crack in the old regime appeared 10k years ago in the Agriculture revolution. Sapiens who dreamed of fat, slow-moving chickens discovered that if they mated the fattest hen with the slowest cock, some of the offspring would be both fat and slow. It was a race of chickens unknown to nature, produced by intelligent design not of a god but of a human. ([[NowIsDifferent]])
 
-- Today the 4 billion year old regime of natural selection is facing a completely different challenge: scientists are directly engineering living beings. (#NowIsDifferent)
+- Today the 4 billion year old regime of natural selection is facing a completely different challenge: scientists are directly engineering living beings. ([[NowIsDifferent]])
 
-- The Scientific Revolution may prove itself far greater than a mere historical revolution. It may turn out to be the most important biological revolution since the appearance of life on earth. If this happens, the whole of human history up to that point might, with hindsight, be reinterpreted as a process of experimentation and apprenticeship that revolutionized the game of life. Such a process should be understood from a cosmic perspective of billions of years, rather than from a human perspective of millennia.  (#NowIsDifferent)
+- The Scientific Revolution may prove itself far greater than a mere historical revolution. It may turn out to be the most important biological revolution since the appearance of life on earth. If this happens, the whole of human history up to that point might, with hindsight, be reinterpreted as a process of experimentation and apprenticeship that revolutionized the game of life. Such a process should be understood from a cosmic perspective of billions of years, rather than from a human perspective of millennia.  ([[NowIsDifferent]])
 
 - Biologists are right about the past, but  the proponents of intelligent design might, ironically, be right about the future. ([[Paradox]])
 
 - The Cognitive Revolution that turned Homo sapiens from an insignificant ape into the master of the world did not require any noticeable change in the physiology or even the size of and external shape of the Sapiens brain. It apparently involved no more than a few small changes to internal brain structure. Perhaps another small change would be enough to ignite a Second Cognitive Revolution, create a completely new type of consciousness, and transform Homo Sapiens into something altogether different. (#AI)
 
-- The last days are fast approaching. Unless some nuclear or ecological catastrophe intervenes, the pace of technological development will soon lead to the replacement of Homo sapiens by completely different beings who possess not only different physiques, but also very different cognitive and emotional worlds. (It may take a few millennia, but from the the perspective of 70k years of Sapiens history, what are a few millennia?) (#NowIsDifferent)
+- The last days are fast approaching. Unless some nuclear or ecological catastrophe intervenes, the pace of technological development will soon lead to the replacement of Homo sapiens by completely different beings who possess not only different physiques, but also very different cognitive and emotional worlds. (It may take a few millennia, but from the the perspective of 70k years of Sapiens history, what are a few millennia?) ([[NowIsDifferent]])
 
 - What do we want to become? This question dwarfs the debates that currently preoccupy politicians, philosophers, scholars and ordinary people. After all, today's debates between today's religions, ideologies, nations and classes will in all likelihood disappear along with Homo Sapiens. And yet the great debates of history are important because at least the first generation of the new gods would be shaped by the cultural ideas of their human designers. ([[Politics]]) ([[Religion]])
 

@@ -32,11 +32,11 @@
 
 - The attention capital principle: the productivity of the knowledge sector can be significantly increased if we identify workflows that better optimize the human brains ability to sustain-ably add value to information.
 
-- Build structures around autonomy #MentalModels
+- Build structures around autonomy [[MentalModels]]
 
 - Workflows should not be left to individuals to figure out on their own, as the most effective systems are unlikely to arise naturally. [[SystemsNotGoals]]
 
-- Minimize mid-task context switching and minimize the sense of communication overload. #Checklists #MentalModels
+- Minimize mid-task context switching and minimize the sense of communication overload. #Checklists [[MentalModels]]
 
 - In knowledge work, "Innovation" applies to the products we produce, but not the means by which we produce them.
 
@@ -54,7 +54,7 @@ n- The process principle: introducing smart production processes to knowledge wo
 
 - By adding complexity to the rules we use to structure our communication, the actual amount of information required by the interactions can be reduced (ala Shannon). [[Rationality]]
 
-- Central idea in Shannon's information theory: clever protocols that take into account the structure of the information being communicated can perform MUCH better than naive approaches. #MentalModels
+- Central idea in Shannon's information theory: clever protocols that take into account the structure of the information being communicated can perform MUCH better than naive approaches. [[MentalModels]]
 
 - Anyone whose job requires more than one or two scheduled events in a typical week should be using a scheduling service [[SystemsNotGoals]]
 

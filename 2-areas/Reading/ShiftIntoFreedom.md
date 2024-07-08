@@ -43,7 +43,7 @@
     Nothing to know or create or become ?
     What is here, just now, when you are not the problem solver?
 
-    #Montras
+    [[Montras]]
 
 - In the Tibetan Buddhist Dozogchen and Mahamudra traditions, rigpa or "awake awareness" is the empty, yet active awareness-based operating system from which we can learn how to live.
 

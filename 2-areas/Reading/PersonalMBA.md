@@ -33,7 +33,7 @@
 
 - "Better to be roughly right than precisely wrong" -- John Maynard Keynes [[PerfectionNotRequired]] #Estimation 
 
-- As soon as you start talking about something people dont care about they will ignore you. [[Rationality]] #MentalModels
+- As soon as you start talking about something people dont care about they will ignore you. [[Rationality]] [[MentalModels]]
 
 - Trying to appeal to everyone is a waste of time and money. 
 
@@ -49,13 +49,13 @@
 - Amortization attributing a small piece of the expense of a large upfront investment across many small sales.
               or spreading the cost of a resource investment over the estimated life of the investment.
 
-- Humans have a hard time paying attention to what is NOT present (Absence Blindness) #MentalModels
+- Humans have a hard time paying attention to what is NOT present (Absence Blindness) [[MentalModels]]
 
 - Your consciousness is how your brain solves problems that it cant automatically. [[WhoWeAre]] #Consciousness
 
 - Behaviorism is the idea that you can control behavior by controlling stimuli.
 
-- Humans are optimized to perceive contrast not to compare what we see with what could be there but is not. We base our decisions on information in the surrounding environment. #MentalModels
+- Humans are optimized to perceive contrast not to compare what we see with what could be there but is not. We base our decisions on information in the surrounding environment. [[MentalModels]]
 
 - The way to love anything is to realize it may be lost. [[Stoicism]]
 

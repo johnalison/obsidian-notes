@@ -55,7 +55,7 @@
 - (Double Slit Experiment) Nature has it cooked up so we can never tell how she manages the interference. If put in detectors to see which way the photon went, we destroy the interference.
    The more you see how strangely nature behaves, the harder it is to make a model that explains how even the simplest phenomena actually work. So theoretical physicists have given up on that. (Many worlds)
 
-#ManyWorlds [[QM]]
+[[ManyWorlds]] [[QM]]
 
 - There are only three basic actions to produce all the phenomena associated with light and electrons.
    - A photon goes from place to place

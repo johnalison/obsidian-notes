@@ -125,7 +125,7 @@
 
 - The secrete of sound investment distilled into three words: Margin of Safety
 
-  #Montras
+  [[Montras]]
 
 - The function of the margin of safety is in essence, that of rendering unnecessary an accurate estimate of the future.
 

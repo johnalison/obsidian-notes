@@ -8,7 +8,7 @@
 
 - Ambulances used to be run by local mortuary. Its hard to tin of a better example of misaligned incentives. 
 
-- People who buy annuities live longer than people who dont. Annuities steady payout provides extra incentive to keep chugging along. (#MentalModels)
+- People who buy annuities live longer than people who dont. Annuities steady payout provides extra incentive to keep chugging along. ([[MentalModels]])
 
 - Ammonium nitrate (responsible for the population boom after the industrial revolution) an amazingly cheep and effective fertilizer. "Ammonium Nitrate feeds the world"
 

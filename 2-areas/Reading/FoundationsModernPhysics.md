@@ -38,7 +38,7 @@
 
 - Schrodinger was justly proud that the existence of discrete energy levels, and hence the existence of atomic spectra discovered over a century earlier, were now explained as a mathematical consequence of boundary conditions imposed on a wave equation, rather than Bohr's ad hoc assumption of angular momentum quantization.
 
-- Commutation acts like differentiation: [A, BC] = [A,B]C + B[A,C] #MentalModels
+- Commutation acts like differentiation: [A, BC] = [A,B]C + B[A,C] [[MentalModels]]
 
 - In field theories where observables depend on position, in order to preserve the appearance of Lorentz invariance it is necessary to work in the Heisenberg picture, so that these observables will depend on time as well as on space coordinates.
 

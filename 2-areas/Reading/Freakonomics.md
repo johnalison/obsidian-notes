@@ -4,7 +4,7 @@
 
 - Morality represents the way that people would like the world to work, whereas economics represents how the world really does work.
 
-- Incentives are the cornerstone to modern life. Understanding them is the key to understanding just about any riddle. #MentalModels
+- Incentives are the cornerstone to modern life. Understanding them is the key to understanding just about any riddle. [[MentalModels]]
 
 - The conventional wisdom is often wrong. Conventional wisdom often shoddily formed and devilishly difficult to see through.
 

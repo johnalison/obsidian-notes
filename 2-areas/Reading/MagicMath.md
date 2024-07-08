@@ -2,10 +2,10 @@
 
 - Very interesting (some what basic level)
 
-- p13; Trick to squaring numbers in your head:  N^2 = (N-a)(N+a) + a^2.  Choose a such that the numbers (N-a) and (N+a) are easy to multiply, then add a^2; #MentalModels 
+- p13; Trick to squaring numbers in your head:  N^2 = (N-a)(N+a) + a^2.  Choose a such that the numbers (N-a) and (N+a) are easy to multiply, then add a^2; [[MentalModels]] 
      eg: 41^2 = 40*42 + 1 = 1680 + 1 = 1681
 
-- p14; The "right" way to multiply numbers is left-to-right.  Focus earlier on the part the matters, can calculate then "forget" for the sub-leading digits. #MentalModels  [[ShouldTeachKids]]
+- p14; The "right" way to multiply numbers is left-to-right.  Focus earlier on the part the matters, can calculate then "forget" for the sub-leading digits. [[MentalModels]]  [[ShouldTeachKids]]
 
 - p15: School spend much time on teaching calculation with pen and paper and almost no time on performing calculation in our heads. However in real life, doing them in your head is much more important.
     	 Techniques taught in school for pen-and-paper calculation are sub-optimal for calculations in your head.
@@ -16,7 +16,7 @@
 - Mental Subtraction: "Over subtract" and use compliments to turn hard subtraction problems into easy addition problems
       eg: 84 - 39 = 44 + 1 = 45
 
-- p19: Trick to multiply 2-digit numbers by 11.  Add the digits and place the sum "between" the original digits. #MentalModels
+- p19: Trick to multiply 2-digit numbers by 11.  Add the digits and place the sum "between" the original digits. [[MentalModels]]
     	 eg: AB x 11 = A(A+B)B
 	 44 x 11 = 484
 	 if the sum is bigger than 10, then use the last digit and carry.
@@ -36,7 +36,7 @@
 	 -) If the leading digit is larger then its its larger choice.
 	 -) If they are the same, apply the same logic to the sub-leading digits.
 
-- p30: A negative number times a negative number is positive, because we want the distributive law to work for all numbers. #Math
+- p30: A negative number times a negative number is positive, because we want the distributive law to work for all numbers. [[Math]]
         -5 x 0 = 0
 	       = -5 * (-3 + 3) = X - 15 => X should be + 15
 

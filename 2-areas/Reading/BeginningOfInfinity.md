@@ -418,7 +418,7 @@
 - Popper (in knowledge and authority) proposes to replace the question of where the knowledge comes from by the question: How can we hope to detect and eliminate error?
 
 - Objective progress is possible in philosophy, politics, and morality just as it is in science by seeking good explanations.
-  Just as science seeks explanations that are experimentally testable, a rational political system makes it easy to detect and persuade others, that a leader or policy is bad and to make a non-violent change.  Political institutions should be judged not for their ability to make prophetic decisions about policies and leaders, but to remove bad ones that arise. #Munger #Invert
+  Just as science seeks explanations that are experimentally testable, a rational political system makes it easy to detect and persuade others, that a leader or policy is bad and to make a non-violent change.  Political institutions should be judged not for their ability to make prophetic decisions about policies and leaders, but to remove bad ones that arise. [[Munger]] #Invert
 
 - Principle of Optimism: All evils are caused by insufficient knowledge. Optimism is a way of explaining failure. It implies that there is no fundamental barrier (law of nature or supernatural decree) to progress.
 

@@ -14,7 +14,7 @@
 
 - If you dont produce you wont thrive, no matter how skilled or talented you are.
 
-- To learn hard things quickly you must focus intensely without distraction. #MentalModels
+- To learn hard things quickly you must focus intensely without distraction. [[MentalModels]]
 
 - When you switch tasks your attention doesn't immediately follow, there is a residual  that is stuck in the previous task.
 

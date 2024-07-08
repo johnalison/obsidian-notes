@@ -10,7 +10,7 @@
 
 - Marking and underscoring a book makes it more interesting, and far easier to review rapidly. [[Protocols]] 
 
-- Only knowledge that is used sticks in your mind. #MentalModels
+- Only knowledge that is used sticks in your mind. [[MentalModels]]
 
 - Regard this as a working handbook on human relations; and whenever you are confronted with some specific problem hesitate about doing the natural thing, the impulsive thing. This is usually wrong.
 
@@ -22,15 +22,15 @@
 
 - Sharp criticisms and rebukes almost always end in futility. 
 
-- When dealing with people we should remember that we are not dealing with creatures of logic. We are dealing with creatures of emotion, creatures bristling with prejudges and motivated by pride and vanity.  [[WhoWeAre]] #MentalModels
+- When dealing with people we should remember that we are not dealing with creatures of logic. We are dealing with creatures of emotion, creatures bristling with prejudges and motivated by pride and vanity.  [[WhoWeAre]] [[MentalModels]]
 
 - The secret of Benjamin Franklin's success: "I will speak ill of no man" [[Rationality]]
 
-- Any fool can criticize, condemn, and complain -- and most fools do. It takes character and self-control to be understanding and forgiving. [[Rationality]] #MentalModels
+- Any fool can criticize, condemn, and complain -- and most fools do. It takes character and self-control to be understanding and forgiving. [[Rationality]] [[MentalModels]]
 
-- Instead of condemning people, try to understand them. Try to figure out why they do what they do. This is a lot more profitable and intriguing that criticism and it breeds sympathy, tolerance and kindness.  [[Rationality]] #MentalModels
+- Instead of condemning people, try to understand them. Try to figure out why they do what they do. This is a lot more profitable and intriguing that criticism and it breeds sympathy, tolerance and kindness.  [[Rationality]] [[MentalModels]]
 
-- There is only one way to get anybody to do anything: Make the other person want to do it. #MentalModels
+- There is only one way to get anybody to do anything: Make the other person want to do it. [[MentalModels]]
 
 - "I consider my ability to arouse enthusiasm among my people the greatest asset I possess, and the way to develop the best that is in a person is by appreciation and encouragement. -- Charles Schwab 
 
@@ -38,32 +38,32 @@
 
 - I shall pass this way only once; any good, therefore that I can do or any kindness that I can show to any human being, let me do it now. Let me not defer nor neglect it, for I shall not pass this way again. #BeTheGood
 
-- Every man you meet is superior in some say,  In that, learn from him.  #MentalModels [[Rationality]] #Montras 
+- Every man you meet is superior in some say,  In that, learn from him.  [[MentalModels]] [[Rationality]] [[Montras]] 
 
 - Cease thinking of your accomplishments, your wants. Try to figure out the other persons good points. Give honest, sincere appreciation. [[Rationality]]
 
-- When you go fishing, you dont think about what you want. You think about what the fish want!  #MentalModels [[Rationality]]
+- When you go fishing, you dont think about what you want. You think about what the fish want!  [[MentalModels]] [[Rationality]]
 
-- Why talk about what we want? That's childish. Absurd. Of course you are interested in what you want. You are eternally interested in it. But no one else is. The rest of us are just like you: we are interested in what we want.   [[Rationality]] #MentalModels
+- Why talk about what we want? That's childish. Absurd. Of course you are interested in what you want. You are eternally interested in it. But no one else is. The rest of us are just like you: we are interested in what we want.   [[Rationality]] [[MentalModels]]
 
 - The only way on earth to influence other people is to talk about what they want and show them how to get it. 
-    - The best piece of advice for would be persuaders: arouse in the other person an eager want. [[Rationality]] #MentalModels
+    - The best piece of advice for would be persuaders: arouse in the other person an eager want. [[Rationality]] [[MentalModels]]
     - Andrew Carnegie, learned early in life that the only way to influence people is to talk in terms of what the other person wants.
     - If you want to persuade someone to do something. Before you speak, pause and ask yourself: "How can I make this person want to do it?" 
-[[Rationality]] #MentalModels
+[[Rationality]] [[MentalModels]]
 
 
-- IF there is any one secret to success it lies in the ability to get the other persons point of view and see things from that person's angle as well as from your own. #MentalModels [[Rationality]]
+- IF there is any one secret to success it lies in the ability to get the other persons point of view and see things from that person's angle as well as from your own. [[MentalModels]] [[Rationality]]
 
 - The world is full of people who are grabbing and self seeking. So the rare individual who unselfishly tries to serve others has an enormous advantage. He has little competition. [[Reliability]]
 
-- Most people go through college without discovering how their own minds function. #MentalModels
+- Most people go through college without discovering how their own minds function. [[MentalModels]]
 
 - A dog is the only animal that doesn't have to work for a living. A dog makes his living by giving nothing but love. [[Rationality]]
 
 - You can make more friends in two months by becoming genuinely interested in other people than you can in two years by trying to get other people interested in you. [[Rationality]]
 
-- People are not interested in you. They are interested in themselves - morning, noon and night.  #MentalModels [[Rationality]]
+- People are not interested in you. They are interested in themselves - morning, noon and night.  [[MentalModels]] [[Rationality]]
 
 - It is the individual who is not interested in his fellow man who has the greatest difficulties in life and provides the greatest injury to others. It is from among such individuals that all human failures spring. [[Rationality]]
 
@@ -108,7 +108,7 @@
 
 - Most people fail to make a favorable impression because they dont listen attentively. They have been so much concerned with what they are going to say next that they do not keep their ears open... Very important people have told me that they prefer good listeners to good talkers, but the ability to listen seems rarer than almost any other good trait. [[Protocols]]
 
-- If you want to know how to make people shun you and laugh at you behind your back and even despise you, here is the recipe: Never listen to anyone for long. Talk incessantly about yourself. If you have an idea while the other person is talking, dont wait for him or her to finish: bust right in and interrupt in the middle of a sentence. #MentalModels #Leadership 
+- If you want to know how to make people shun you and laugh at you behind your back and even despise you, here is the recipe: Never listen to anyone for long. Talk incessantly about yourself. If you have an idea while the other person is talking, dont wait for him or her to finish: bust right in and interrupt in the middle of a sentence. [[MentalModels]] #Leadership 
 
 - Those people who think only of themselves are hopelessly uneducated, no matter how instructed they may be. #Advice
 
@@ -124,7 +124,7 @@
 
 - Talk to people about themselves and they will listen for hours. 
 
-- Make the other person feel important -- and do it sincerely. [[Rationality]] #MentalModels
+- Make the other person feel important -- and do it sincerely. [[Rationality]] [[MentalModels]]
 
 - Why prove to a man he is wrong ? Is that going to make him like you? Why not let him save his face? He didn't ask your opinion. He didn't want it. Why argue with him? Always avoid the acute angle. [[Rationality]]
 
@@ -147,7 +147,7 @@
      - Postpone action to give both sides tome to think through the problem.
      - Look for truth or merit in your opponents position or argument.
 
-#MentalModels [[Rationality]] #Checklists
+[[MentalModels]] [[Rationality]] #Checklists
 
 - You can tell people they are wrong by a look or an intonation or a gesture just as eloquently as you can in words --   and if you tell them they are wrong, do you make them want to agree with you? Never! You have struck a direct blow to their intelligence, judgment, pride and self-respect. That will make them want to strike back. But it will never make them want to change their minds. [[Rationality]]
 
@@ -157,7 +157,7 @@
   - Men must be taught as if you taught them not. And things unknown proposed as things forgot.
   - Be wiser than other people if you can; but do not tell them so.
 
-- Few people are logical. Most of us are prejudiced and biased. Most of us are blighted with preconceived notions, with jealousy, suspicion, fear, envy, and pride. #MentalModels
+- Few people are logical. Most of us are prejudiced and biased. Most of us are blighted with preconceived notions, with jealousy, suspicion, fear, envy, and pride. [[MentalModels]]
 
 - Our first reaction to most of the statements which we hear from other people is an evaluation or judgment, rather than an understanding of it. Very rarely do we permit ourselves to understand precisely what the meaning of the statement is to the other person. [[Rationality]]
 
@@ -184,7 +184,7 @@
 
 - Remember that other people may be totally wrong. But they dont think so. Dont condemn them. Any fool can do that. Try to understand them. Only wise, tolerant, exceptional people even try to do that.
 
-- There is a reason the other man thinks and acts as he does. Ferret out that reason -- and you have the key to his actions, perhaps to his personality. Try honestly to put yourself in his place. If you say to yourself "How would I feel, how would I react if I were in his shoes? you will save yourself time and irritation. By becoming interested in the cause, we are less likely to dislike the effect.  #MentalModels
+- There is a reason the other man thinks and acts as he does. Ferret out that reason -- and you have the key to his actions, perhaps to his personality. Try honestly to put yourself in his place. If you say to yourself "How would I feel, how would I react if I were in his shoes? you will save yourself time and irritation. By becoming interested in the cause, we are less likely to dislike the effect.  [[MentalModels]]
 
 - Stop to contrast your keen interest in your own affairs with your mild concern about anything else. Realize then, that everybody else in the world feels exactly the same way! Success in dealing with people depends on a sympathetic grasp of the other person's viewpoint.
 
@@ -200,9 +200,9 @@
 
 - Sympathy the human species universally craves.
 
-- Merely stating a truth isn't enough. The truth has to be made vivid, interesting, and dramatic. #MentalModels
+- Merely stating a truth isn't enough. The truth has to be made vivid, interesting, and dramatic. [[MentalModels]]
 
-- The way to get things done is to stimulate competition. I do not mean sordid, money-getting way, but in the desire to excel" #MentalModels
+- The way to get things done is to stimulate competition. I do not mean sordid, money-getting way, but in the desire to excel" [[MentalModels]]
 
 - Its always easier to listen to unpleasant things after we have heard some praise of our good points. #Leadership
 

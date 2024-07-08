@@ -58,7 +58,7 @@
   Many worlds (with decoherence) explains why the two histories do not interfere, but not (according to Weinberg) the appearance of the probabilities.
   It is truly surprising how little difference all this makes: in fact it is so irrelevant that one begins to suspect that all the deep questions about the meaning of measurement are empty, forced on us by our language. ("I admit to some discomfort in working all my life in a theoretical framework that no one fully understands" -- Weinberg)
 
-[[QM]] #ManyWorlds
+[[QM]] [[ManyWorlds]]
 
 
 - It is striking that it has so far not been possible to find a logically consistent theory that is close to QM, other than QM itself.

@@ -38,7 +38,7 @@
 
 - Once somebody gains the technological ability to hack and manipulate the human heart, democratic politics will mutate into an emotional puppet show. [[Politics]] #AI [[NowIsDifferent]]
 
-- Feelings are biochemical mechanisms that all mammals and birds use in order to quickly calculate probabilities of survival and reproduction. Feels are therefore not the opposite of rationality, they embody evolutionary rationality. #MentalModels [[Rationality]]
+- Feelings are biochemical mechanisms that all mammals and birds use in order to quickly calculate probabilities of survival and reproduction. Feels are therefore not the opposite of rationality, they embody evolutionary rationality. [[MentalModels]] [[Rationality]]
 
 - We dont feel the millions of neurons in the brain computing probabilities of survival and reproduction, so we erroneously believe that our feelings are the result of some mysterious "free will". #FreeWill #Consciousness
 
@@ -66,9 +66,9 @@
 
 - Democracy cannot really function without nationalism. [[Politics]]
 
-- Total annihilation has a way of sharpening peoples minds, and thanks in no small measure to this existential threat, a global community gradually developed over and above the various nations, because only such a community could restrain the nuclear demon.   [[Politics]] #Nukes
+- Total annihilation has a way of sharpening peoples minds, and thanks in no small measure to this existential threat, a global community gradually developed over and above the various nations, because only such a community could restrain the nuclear demon.   [[Politics]] [[Nukes]]
 
-- Humankind today faces three common challenges that make a mockery of all national borders, and that can only be solved through global cooperation: the nuclear challenge, the ecological challenge, and the technological challenge. #Nukes 
+- Humankind today faces three common challenges that make a mockery of all national borders, and that can only be solved through global cooperation: the nuclear challenge, the ecological challenge, and the technological challenge. [[Nukes]] 
 
 - The nuclear challenge: In 2016, fewer people died from human violence than from obesity, car accidents or suicide. This may well have been the greatest political and moral achievement of our times. [[NowIsDifferent]]
 

@@ -4,13 +4,13 @@
 
 - Our belief are like unquestioned commands, telling us how things are, what is possible and impossible.
 
-- The best strategy in almost any case is to find a role model. Someone who's already getting the results you want and then tap into their knowledge. [[RoleModels]] #MentalModels [[Rationality]]
+- The best strategy in almost any case is to find a role model. Someone who's already getting the results you want and then tap into their knowledge. [[RoleModels]] [[MentalModels]] [[Rationality]]
 
 - Lots of people know what to do, but few actually do what they know. #BeTheGood
 
 - Most people overestimate what they can do in a year, and underestimate what they can achieve in a decade.
 
-- 3 decisions that shape your destiny: What to focus on. / What things mean to you. / What to do. [[Questions]] #Checklists #MentalModels
+- 3 decisions that shape your destiny: What to focus on. / What things mean to you. / What to do. [[Questions]] #Checklists [[MentalModels]]
 
 - Success truly is the result of good judgment. Good judgment is the result of experience, and experience is the result of bad judgment. 
 
@@ -30,7 +30,7 @@
 
 - Its not enough to have a good mind, the main thing is to use it well - Descartes #BeTheGood
 
-- 20% of any change is knowing how, 80% is knowing why. #Munger
+- 20% of any change is knowing how, 80% is knowing why. [[Munger]]
 
 - Emotion is created by motion.
 
@@ -40,7 +40,7 @@
 
 - Model the habitual questions of people you respect. [[RoleModels]]
 
-- When angry: what can I learn from this so this never happens again? [[Questions]] #MentalModels
+- When angry: what can I learn from this so this never happens again? [[Questions]] [[MentalModels]]
 
 - Words you habitually choose affect how you communicate with yourself and therefore what you experience.
 

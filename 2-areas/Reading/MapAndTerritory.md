@@ -27,7 +27,7 @@
 
 - "Of course it matters who started the fight !"
 
-- "Applause light" Saying something that is so trite that the reversal sounds abnormal, then the unreversed statement is not conveying new information. #MentalModels
+- "Applause light" Saying something that is so trite that the reversal sounds abnormal, then the unreversed statement is not conveying new information. [[MentalModels]]
 
 - A belief is only really worthwhile if you could, in principle, be persuaded to believe otherwise.
 
@@ -35,14 +35,14 @@
 
 - Mystery is a property of the questions, not the answers. (Ignorance exists in the map, not the territory)  [[Paradox]] [[WhatWeDontKnow]]
 
-- Better to say "Magic" than complexity or emergence, the latter create an illusion of understand. Wiser to say magic and create placeholder #MentalModels
+- Better to say "Magic" than complexity or emergence, the latter create an illusion of understand. Wiser to say magic and create placeholder [[MentalModels]]
 
 - If you are equally good at explaining all outcomes, you have 0 knowledge [[Rationality]]
 
 - Counter-intuitive: Given incomplete information, the optimal strategy of guessing the color of cards does not resemble a typical sequence. [[Paradox]]
   "A random key does not open a random lock, just because they are both random" [[Paradox]]
 
-- Do not attempt ling chains of reasoning or complicated plans - just simply too difficult. #MentalModels 
+- Do not attempt ling chains of reasoning or complicated plans - just simply too difficult. [[MentalModels]] 
 
 - You need one whole hell of a lot of rationality before it does anything but lead you into new and interesting mistakes. [[Rationality]]
 

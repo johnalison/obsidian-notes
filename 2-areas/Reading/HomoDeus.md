@@ -186,7 +186,7 @@
 
 - (Exodus 20:4) God commanded us to not make any images of either humans or animals. [[Religion]]
 
-- The highest aim of human life is to fully develop your knowledge through a wide variety of intellectual, emotional and physical experiences.  The aim of life's existence is "a distillation of the widest possible experience of life into wisdom". #MeaningOfLife
+- The highest aim of human life is to fully develop your knowledge through a wide variety of intellectual, emotional and physical experiences.  The aim of life's existence is "a distillation of the widest possible experience of life into wisdom". [[MeaningOfLife]]
 
 - "War is not what you see in movies!" warn Hollywood blockbusters such as Apocalypse Now, Full Metal Jacket and Black-hawk Down. [[Paradox]]
 
