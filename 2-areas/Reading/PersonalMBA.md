@@ -31,7 +31,7 @@
 
 - The job of an entrepreneur is not to come up with ideas (that is the easy part) but to discover if an idea can work in reality.
 
-- "Better to be roughly right than precisely wrong" -- John Maynard Keynes [[PerfectionNotRequired]] #Estimation 
+- "Better to be roughly right than precisely wrong" -- John Maynard Keynes [[PerfectionNotRequired]] [[Estimation]] 
 
 - As soon as you start talking about something people dont care about they will ignore you. [[Rationality]] [[MentalModels]]
 

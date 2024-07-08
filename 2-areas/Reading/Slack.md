@@ -22,7 +22,7 @@
 
 - Paradox of managing knowledge workers: In order to keep control you have to give it up. You have to use your authority sparingly that no one notices that its being used. Create a real sense that control is not completely centralized in your hands, but spread generously over the whole of the organization. Slack that you cut knowledge workers is control slack.
 
- [[Leadership]] [[UnpopularTruth]] #ExtremeOwnership
+ [[Leadership]] [[UnpopularTruth]] [[ExtremeOwnership]]
 
 - Slack is the way you invest in change. It represents operational capacity sacrificed in the interests of long-term health.
 
@@ -37,7 +37,7 @@
 
 - Putting yourself in as your own utility infielder is a clear sign of bad management.
 
- [[Leadership]] #ExtremeOwnership
+ [[Leadership]] [[ExtremeOwnership]]
 
 - Healthy companies know that they have to allow people to fail without assessing blame. They have to do that or else no one will take on anything that is not a sure bet.
 
@@ -64,7 +64,7 @@
 
 - Leadership is not restricted to acting only downward along the lines of organizational authority. The bread-and-butter acts of leadership that make companies healthy involve people leading their bosses, leading their peers, leading those in peer organizations, negotiating, and influencing all without ever being granted the official power to do what they are doing. Its enrolling someone who is distinctly outside the scope of your official power base that constitutes real leadership.
 
-  [[Leadership]] #ExtremeOwnership
+  [[Leadership]] [[ExtremeOwnership]]
 
 - You acquire trust by giving trust.
 

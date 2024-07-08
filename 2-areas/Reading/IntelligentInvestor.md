@@ -4,7 +4,7 @@
 
 - The record shows that even highly paid full-time experts of mutual funds were completely wrong about the short-term future of major and non-esoteric industries.
 
-  #ExpertsDisagree
+  [[ExpertsDisagree]]
 
 - Two morals:
   - Obvious prospects for physical growth in a business do not translate into obvious profits for investors

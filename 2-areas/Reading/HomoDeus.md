@@ -40,9 +40,9 @@
 
 - In truth, so far modern medicine hasn't extended our natural lifespan by a single year. Its great achievement has been to save us from premature death. [[Science]] [[Longevity]]
 
-- Epicurus explained that worshiping gods is a waste of time, that there is no existence after death, and that happiness is the sole purpose of life. Most people in ancient times rejected Epicurean-ism, but today it has become the default view. #Epicurean
+- Epicurus explained that worshiping gods is a waste of time, that there is no existence after death, and that happiness is the sole purpose of life. Most people in ancient times rejected Epicurean-ism, but today it has become the default view. [[Epicurean]]
 
-- When Epicurus defined happiness as the supreme good, he warned his disciples that it is hard work to be happy. Material achievements alone will not satisfy us for long. Indeed, the blind pursuit of money, fame and pleasure will only make us miserable. Epicurus recommended, for example, to eat and drink in moderation and to curb ones sexual appetites. In the long run, a deep friendship will make us more content that a frenzied orgy. [[Happiness]] #Epicurean #Buddhism
+- When Epicurus defined happiness as the supreme good, he warned his disciples that it is hard work to be happy. Material achievements alone will not satisfy us for long. Indeed, the blind pursuit of money, fame and pleasure will only make us miserable. Epicurus recommended, for example, to eat and drink in moderation and to curb ones sexual appetites. In the long run, a deep friendship will make us more content that a frenzied orgy. [[Happiness]] [[Epicurean]] #Buddhism
 
 - The glass ceiling of happiness is held in place by two stout pillars, one psychological, the other biological. On the psychological level, happiness depends on expectations rather than objective conditions. We dont become satisfied by leading a peaceful and prosperous existence. Rather, we become satisfied with reality matches our expectations. [[Happiness]] #Buddhism [[Stoicism]]
 
@@ -54,7 +54,7 @@
 
 - The state hopes to manipulate the biochemical pursuit of happiness, separating "bad" manipulations from "good" ones. The principle is clear: biochemical manipulations that strengthen political stability, social order and economic growth are allowed and even encouraged. Manipulations that threaten stability and growth are bad. [[Happiness]]
 
-- Epicurus warned his disciples that immoderate pursuit of pleasure is likely to make them miserable rather than happy. Buddha had made an even more radical claim, teaching that the pursuit of pleasant sensations is in fact the very root of suffering. Such sensations are just ephemeral and meaningless vibrations. Even when we experience them we dont react to them with contentment: rather, we just crave more. No matter how many blissful or exciting sensations I experience, they will never satisfy me. #Epicurean [[Happiness]] #Buddhism
+- Epicurus warned his disciples that immoderate pursuit of pleasure is likely to make them miserable rather than happy. Buddha had made an even more radical claim, teaching that the pursuit of pleasant sensations is in fact the very root of suffering. Such sensations are just ephemeral and meaningless vibrations. Even when we experience them we dont react to them with contentment: rather, we just crave more. No matter how many blissful or exciting sensations I experience, they will never satisfy me. [[Epicurean]] [[Happiness]] #Buddhism
 
 - If I identify happiness with fleeting pleasant sensations, and crave to experience more and more of them, I have no choice but to pursue them constantly. When I finally get them, they quickly disappear, and because the mere memory of past pleasures will not satisfy me, I have to start all over again. Even if I continue this pursuit for decades, it will never bring me any lasting achievement; on the contrary, the more I crave these pleasant sensations, the more stressed and dissatisfied I become. To attain real happiness, humans need to slow down the pursuit of pleasant sensations, not accelerate it. [[Happiness]] #Buddhism
 

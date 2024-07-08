@@ -431,11 +431,11 @@
 - Good customs: Defy anyone who seeks your submission
                 Gave a hearing to anyone who offers honest criticism, seeking to change you mind by persuasion.
 
-[[Protocols]]  #Ethics #Advice
+[[Protocols]]  [[Ethics]] #Advice
 
 - Moral Imperative: Do not destroy the means of correcting mistakes.  (possible the only moral imperative, all others follow?)
 
-#Ethics
+[[Ethics]]
 
 - Summary of the views of Karl Popper:
   When we hear something being said we guess what it means, without realizing we are doing it. (Learning is an creative act!)

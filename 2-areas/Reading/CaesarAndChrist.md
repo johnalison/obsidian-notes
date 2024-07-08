@@ -118,11 +118,11 @@
 
 - Philosophy is the science of wisdom, and wisdom is the art of living.  Happiness is the goal, but virtue, not pleasure, is the road. The old ridiculed maxims are correct and are perpetually verified by experience; in the long run honesty, justice, forbearance, kindliness, bring us more happiness than ever comes from the pursuit of pleasure.
 
-[[Happiness]] #Advice #Ethics [[Protocols]]
+[[Happiness]] #Advice [[Ethics]] [[Protocols]]
 
 - But how does one acquire wisdom? By practicing it daily, in however modest degree; by examining your conduct each day at its close; by being harsh on your faults and lenient to those of others; by associating with those who excel you in wisdom and virtue; by taking some acknowledged sage as your invisible counselor and judge.
 
-#Advice [[SystemsNotGoals]] #Ethics [[Protocols]]
+#Advice [[SystemsNotGoals]] [[Ethics]] [[Protocols]]
 
 - In philosophy all truth is old, and only error is original.
 
@@ -168,7 +168,7 @@
 
 - one may be sure a man has many virtues if he admires those of others.
 
-#Ethics  [[Protocols]]
+[[Ethics]]  [[Protocols]]
 
 - For 400 years Stoicism has been to the upper classes a substitute for religion; now the substitute was put aside, and the ruling orders turned back from the books of the philosophers to the altars of the gods.
 

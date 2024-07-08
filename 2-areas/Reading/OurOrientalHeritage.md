@@ -104,7 +104,7 @@
 
 - A nation is born stoic, and dies epicurean. At its cradle religion stands, and philosophy accompanies it to the grave.
 
-   [[Stoicism]] [[Religion]] [[Philosophy]] #Epicurean
+   [[Stoicism]] [[Religion]] [[Philosophy]] [[Epicurean]]
 
 - Evil does not destroy faith, but strengthens it.
 

@@ -60,7 +60,7 @@
 
 - All that the atomic physicist needed to know about the nucleus was its electric charge, mass, and (to account for hyper-fine splitting) its spin and magnetic moment.
 
-- Whatever the total number A of nucleons, as a first approximation the binding energy per nucleon and the volume per nucleon tend to be similar for all nuclei. This is known as the saturation of nuclear forces. What a constant volume per nucleon, the volume of a nucleus is proportional to the number A of nucleons, so the nuclear radius R is proportional to A^1/3 #Estimation
+- Whatever the total number A of nucleons, as a first approximation the binding energy per nucleon and the volume per nucleon tend to be similar for all nuclei. This is known as the saturation of nuclear forces. What a constant volume per nucleon, the volume of a nucleus is proportional to the number A of nucleons, so the nuclear radius R is proportional to A^1/3 [[Estimation]]
 
 - There is a deep symmetry between protons and neutrons, which made it evident that neutrons are fermions and just as elementary as protons.
 

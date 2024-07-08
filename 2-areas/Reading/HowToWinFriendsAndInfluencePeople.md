@@ -192,7 +192,7 @@
 
 - Say "I dont blame you one iota for feeling as you do. If I were you I would undoubtedly feel just as you do."
 
-- You deserve very little credit for being what you are -- and remember, the people who come to you irritated, bigoted, unreasoning, deserve very little discredit for being what they are. Feel sorry for the poor devils. Pity them. Sympathize with them. Say to yourself "There, but for the grace of God, go I" #ExtremeOwnership
+- You deserve very little credit for being what you are -- and remember, the people who come to you irritated, bigoted, unreasoning, deserve very little discredit for being what they are. Feel sorry for the poor devils. Pity them. Sympathize with them. Say to yourself "There, but for the grace of God, go I" [[ExtremeOwnership]]
 
 - 3/4 of the people you meet are hungering and thirsting for sympathy. Give it to them, and they will love you. [[Leadership]]
 

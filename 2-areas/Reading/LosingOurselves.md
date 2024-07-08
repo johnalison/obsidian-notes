@@ -138,7 +138,7 @@
 
 - Kant: If morality merely tracks my desires and preferences, it is no morality at all.
 
-#Ethics
+[[Ethics]]
 
 - Morality, as Rawls so eloquently emphasizes, demands common assent.
 
@@ -232,7 +232,7 @@
 
 - To see ourselves as interacting persons allows us to consider the causes and reasons for our own behavior and attitudes, as well as those of others, and encourages us to resolve problems rather than to recriminate, to ameliorate situations rather than to punish, and to cultivate attitudes that make everyone more effective and happy.
 
-#Ethics
+[[Ethics]]
 
 - To see ourselves as persons instead of selves allows us a richer, more nuanced understanding of who we are, of how we become who we are, and of the importance of our development and social context to our identity.
 

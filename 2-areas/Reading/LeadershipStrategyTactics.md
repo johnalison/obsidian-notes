@@ -68,7 +68,7 @@
 
 - Even if you are in charge, if there is someone with a good plan who is giving direction to move in the right way, that's fine; take a step back and let them lead. Be a follower.
 
-  #ExtremeOwnership
+  [[ExtremeOwnership]]
 
 - Tactic: You might want to hesitate a moment when you see that leadership vacuum appear. That is a tactic that I used as a leader throughout my career.  If there was a problem unfolding slowly, dont rush to take charge; let the problem develop a little bit. Look around, detach mentally, and truly observe the situation. Confirm that what you are seeing is correct. Allow an opportunity for someone else to step up and fill the leadership vacuum - and if someone else does -- internally assess their plan and the directions they are giving. If they are giving good guidance, support them. If they give bad guidance, continue to consider what a better plan would be, so you can give corrections when the time is right.  By giving those last few moment to allow things to develop, the call you make will be better.
 
@@ -135,4 +135,4 @@
 
 - Its all on you, but its not about you.
 
-  #ExtremeOwnership
+  [[ExtremeOwnership]]

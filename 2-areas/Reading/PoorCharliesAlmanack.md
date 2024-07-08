@@ -22,7 +22,7 @@
 - We dont claim to have perfect morals, but at least we have a huge area of things that, while legal, are beneath us.
   There should be a huge area between everything you should do and everything you can do without getting into legal trouble.
 
-  #Ethics
+  [[Ethics]]
 
 - The idea that it is hard to find good investments, so concentrate in a few, seems to me to be an obviously good idea. But 90% of the investment wold doesn't think this way.
 
@@ -70,7 +70,7 @@ Elementary Wordly Wisdom:
 
 - Its very very important to create human systems that are hard to cheat. Otherwise you risk ruining civilization b/c these big incentives will create incentive-caused bias and people will rationalize that their behavior is OK.
 
-  #Ethics
+  [[Ethics]]
 
 - You have got to know what you know and what you dont know. What could possible be more useful in life than that ?
 
@@ -83,7 +83,7 @@ Elementary Wordly Wisdom:
 
 - "There is no limit to what a man can do or where he can go if he doesn't mind who gets the credit" Robert Woodruff
 
-  #Advice #ExtremeOwnership [[Leadership]]
+  #Advice [[ExtremeOwnership]] [[Leadership]]
 
 - Meetings are indispensable when you dont want to get anything done. "John Galbraith"
 
