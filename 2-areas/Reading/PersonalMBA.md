@@ -33,7 +33,7 @@
 
 - "Better to be roughly right than precisely wrong" -- John Maynard Keynes #PerfectionNotRequired #Estimation 
 
-- As soon as you start talking about something people dont care about they will ignore you. #Rationality #MentalModels
+- As soon as you start talking about something people dont care about they will ignore you. [[Rationality]] #MentalModels
 
 - Trying to appeal to everyone is a waste of time and money. 
 
@@ -44,7 +44,7 @@
 - Historically gift giving was how the powerful remained in power. [[History]]
 
 - Most people resist creating systems to improve their work/life because it feels like extra work.  When done right it can vastly decrease your amount of work.
-  If you are feeling overloaded the best thing to do is take the time to setup a more effective system. #Rationality [[SystemsNotGoals]]
+  If you are feeling overloaded the best thing to do is take the time to setup a more effective system. [[Rationality]] [[SystemsNotGoals]]
 
 - Amortization attributing a small piece of the expense of a large upfront investment across many small sales.
               or spreading the cost of a resource investment over the estimated life of the investment.

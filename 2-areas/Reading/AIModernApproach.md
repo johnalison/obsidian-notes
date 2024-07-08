@@ -60,11 +60,11 @@
 
 - Information has values to the extent that it is likely to cause a change of plan and to the extent that the new plan will be significantly better than the old.
 
- #Rationality
+ [[Rationality]]
 
 - If all perturbations of the parameters leave the optimal decision unchanged, then it is reasonable to assume its a good one. If however, the optimal decision changes considerably with the parameters of the model, then there is a good chance that the model may produce a decision that is substantially sub-optimal.
 
-  #Rationality #MentalModels #Checklists
+  [[Rationality]] #MentalModels #Checklists
 
 - Models of concurrent action have been a major focus of research in CS for decades, but no definitive model has prevailed. 
 

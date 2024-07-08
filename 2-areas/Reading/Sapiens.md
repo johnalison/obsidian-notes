@@ -172,7 +172,7 @@
 
 - Each year the US population spends more money on diets than the amount needed to feed all the hungry people in the rest of the world.
 
-- Capitalist-consumerist ethic: "Invest!" and "Buy!" This is the first religion in history whose followers actually do what they are asked to do. (#Religion)
+- Capitalist-consumerist ethic: "Invest!" and "Buy!" This is the first religion in history whose followers actually do what they are asked to do. ([[Religion]])
 
 - German physicists found a way to determine the weather conditions in London based on tiny differences in the tone of the broadcast rings of big Ben.
 
@@ -238,7 +238,7 @@
 
 - The last days are fast approaching. Unless some nuclear or ecological catastrophe intervenes, the pace of technological development will soon lead to the replacement of Homo sapiens by completely different beings who possess not only different physiques, but also very different cognitive and emotional worlds. (It may take a few millennia, but from the the perspective of 70k years of Sapiens history, what are a few millennia?) (#NowIsDifferent)
 
-- What do we want to become? This question dwarfs the debates that currently preoccupy politicians, philosophers, scholars and ordinary people. After all, today's debates between today's religions, ideologies, nations and classes will in all likelihood disappear along with Homo Sapiens. And yet the great debates of history are important because at least the first generation of the new gods would be shaped by the cultural ideas of their human designers. (#Politics) (#Religion)
+- What do we want to become? This question dwarfs the debates that currently preoccupy politicians, philosophers, scholars and ordinary people. After all, today's debates between today's religions, ideologies, nations and classes will in all likelihood disappear along with Homo Sapiens. And yet the great debates of history are important because at least the first generation of the new gods would be shaped by the cultural ideas of their human designers. (#Politics) ([[Religion]])
 
 - The implication of creating a mind in a computer are far more dramatic than curing psychiatric illness. This is why the Gilgamesh project is the flagship of science. It serves to justify everything science does.
 
@@ -246,4 +246,4 @@
 
 - Modern Humans: Self-made gods with only the laws of physics to keep us company, we are accountable to no one. We a consequently wreaking havoc on our fellow animals and the surrounding ecosystem, seeking little more than our own comfort and amusement, yet never finding satisfaction. Is there anything more dangerous than dissatisfied and irresponsible gods who dont know what they want ? ([[WhoWeAre]])
 
-- Humans are gods to other animals (not benevolent ones!) ([[WhoWeAre]]) (#AI) (#Religion)
+- Humans are gods to other animals (not benevolent ones!) ([[WhoWeAre]]) (#AI) ([[Religion]])

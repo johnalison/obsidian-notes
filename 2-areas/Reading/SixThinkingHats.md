@@ -12,7 +12,7 @@
    Try to do too much at once.
    Emotions, information, logic, hope and creativity all crowd in on us.
 
-   #Rationality
+   [[Rationality]]
 
 - 6 hats method is a very simple concept which allows a thinker to do one thing at a time.
 
@@ -59,7 +59,7 @@
 
 - Perhaps the most important hat.
 
-- the bulk of practical thinking is on the basis of likelihood, not logic #Rationality
+- the bulk of practical thinking is on the basis of likelihood, not logic [[Rationality]]
 
 - Overuse of the black hat is not helpful. Sometimes it is simply ego-driven. Most often it is just a habit.
 

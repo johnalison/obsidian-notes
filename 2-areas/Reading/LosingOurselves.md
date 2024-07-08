@@ -124,7 +124,7 @@
 
 - Novices who attend to their own performance do much better than those who are distracted. self-conscious attention facilitates performance and learning.  Experts who are asked to attend to their own performance, unlike novices, do much worse than those who attend to a distractor.
 
-#Consciousness #Rationality 
+#Consciousness [[Rationality]] 
 
 - We are at our best in expert performance. Expert performance reveals our most successful engagement with our world. The fact that this engagement is most successful when the self illusion is out of the picture is further evidence of the illusory status of the self.
 

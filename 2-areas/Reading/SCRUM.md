@@ -16,9 +16,9 @@
 
 - That very large groups do LESS seems to be an iron clad rule of human nature.
 
-- Changing TEAM performance much more important (by orders of magnitude) than changing individual performance. #Rationality #Leadership
+- Changing TEAM performance much more important (by orders of magnitude) than changing individual performance. [[Rationality]] #Leadership
 
-- Dont look for bad people, look for bad systems - one that incentivize bad behaviors and reward poor performance #Rationality
+- Dont look for bad people, look for bad systems - one that incentivize bad behaviors and reward poor performance [[Rationality]]
 
 - Time makes up your life, wasting it is a form of suicide. 
 

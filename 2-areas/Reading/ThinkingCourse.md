@@ -21,13 +21,13 @@
 - Perception is by far the most important part of thinking.  Almost all the errors of thinking are errors of perception. In real life, logical errors are quite rare.
   Unlike most books on thinking this book is not about logic but about perception.
 
-  #KnowReality #Rationality [[ShouldTeachKids]]
+  #KnowReality [[Rationality]] [[ShouldTeachKids]]
 
 - Some very fundamental thinking tools are put forward in the book.  The tool are really "attention-direction" tools.
 
 - The first tool is concerned with a broad scan. PMI ("Plus-Minus-Interesting") an attention directing tool. In doing a PMI you deliberately direct your attention first toward the Plus points, then toward the Minus and finally toward the Interesting.  Its important that emotions are applied after the exploration instead of being applied before and so preventing exploration.  A thinker should be able to say "I do not like your idea  but there are these interesting aspects to it ..."
 
-  #Rationality [[ShouldTeachKids]]
+  [[Rationality]] [[ShouldTeachKids]]
 
 - The PMI should be used most especially when we have no doubt about the situation but have instantly decided that we like it or dont like it.
 
@@ -37,19 +37,19 @@
   Very often difficulty in making a decision stems from a failure to produce sufficient alternatives.
   A tool that deliberately signals the need to look for alternatives is a key thinking tool. We need it even more because the patterning nature of the mind seeks certainty -- not alternatives.
 
-  #Rationality [[ShouldTeachKids]]
+  [[Rationality]] [[ShouldTeachKids]]
 
 - The main purpose of thinking is to abolish thinking.  (Quote from Eskimo: "I have meat, I dont need to think")
 
 - The mechanisms for pattern changing are mistake, accident and humor.
 
-  #Rationality #AdjacentPossible
+  [[Rationality]] #AdjacentPossible
 
 - Logic is not a way of generating information. It is a way of extracting more information from what is available.
 
 - Useful communication must always be in the language of the receiver.
 
-  #Rationality [[ShouldTeachKids]] #Leadership
+  [[Rationality]] [[ShouldTeachKids]] #Leadership
 
 - The size of a decision is always proportional to the inadequacy of the reason for making it.  We are only called in to make decisions when an analysis of information is insufficient -- that is to say when we have to speculate or guess or apply human values and emotions. So the human element in a decision is vital. In the end all decisions are emotional.
 
@@ -69,4 +69,4 @@
 
 - Good thinking is concerned with wisdom more than cleverness, more that of robust common sense rather than intellectual nit-picking.
 
-  #PerfectionNotRequired #Rationality
+  #PerfectionNotRequired [[Rationality]]

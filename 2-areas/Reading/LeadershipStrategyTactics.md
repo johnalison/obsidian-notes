@@ -112,7 +112,7 @@
 
 - Remember: when you are the leader, your words will impact the behavior of your subordinates and the team more than you think. Think before you speak, and measure your words carefully.
 
-  #Leadership #RespondDontReact
+  #Leadership [[RespondDontReact]]
 
 - Hope is not a course of action. You cannot rely on hope. You have to plan. You have to consider contingencies. You have to stack the deck in your favor.
 

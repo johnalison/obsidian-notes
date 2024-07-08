@@ -2,7 +2,7 @@
 
 - When you find yourself responding the same way regardless of the stimulus, you're no longer acting in an entirely rational way.
 
- #Rationality
+ [[Rationality]]
 
 - Ever-increasing busyness is not good for individuals, and they know it. The main thesis of the book is that its not good for the companies they work for either. It makes them unable to change.
 

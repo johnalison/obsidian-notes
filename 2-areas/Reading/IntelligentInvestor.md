@@ -129,7 +129,7 @@
 
 - The function of the margin of safety is in essence, that of rendering unnecessary an accurate estimate of the future.
 
-  #Rationality
+  [[Rationality]]
 
 - Diversification is the simple basis of the insurance-underwriting business
 

@@ -25,7 +25,7 @@
   > When we are unsure of ourselves, when there is uncertainty, we are most likely to look and to accept the actions of others as correct.
   > Fake applause at opera: "Claque" / "Chef de claque"
 
-- How to defend against authority : "Is this authority truly an expert ? " / "How trustful can we expect the expert to be here?" #MentalModels #Rationality
+- How to defend against authority : "Is this authority truly an expert ? " / "How trustful can we expect the expert to be here?" #MentalModels [[Rationality]]
 
 - With all six of these principles we are usually and efficiently correct.
 

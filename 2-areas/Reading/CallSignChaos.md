@@ -12,13 +12,13 @@
 
 - Marines assign an expanded reading lit to everyone promoted to a new rank.
 
-- Competence is Key:  Be brilliant in the basics. Dont dabble in your job; you must mater it. #Reliability
+- Competence is Key:  Be brilliant in the basics. Dont dabble in your job; you must mater it. [[Reliability]]
 
 - Analyze yourself. Identify weaknesses and improve yourself. #PerfectionNotRequired
 
 - "Nobody caress how much you know, until they know how much you care" - Teddy Roosevelt #Quotes #BeTheGood
 
-- Conviction: Your peers are the first to know what you will stand for and what you wont stand for. #Reliability
+- Conviction: Your peers are the first to know what you will stand for and what you wont stand for. [[Reliability]]
 
 - If you as the commander define the mission as your responsibility, you have already failed. It was our mission, never my mission. #Leadership
 
@@ -30,9 +30,9 @@
 
 - At the executive level, your job is to reward initiative in your junior officers and facilitate their success. When they make mistakes while doing their best to carry out your intent, stand by them. #Leadership
 
-- Union General William Sherman always sought to threaten two objectives before he attacked. This forced the Confederate generals to split their forces, giving Sherman a decisive advantage when he made his lunge. #Rationality
+- Union General William Sherman always sought to threaten two objectives before he attacked. This forced the Confederate generals to split their forces, giving Sherman a decisive advantage when he made his lunge. [[Rationality]]
 
-- Never think you're impotent. Choose how you respond. #RespondDontReact
+- Never think you're impotent. Choose how you respond. [[RespondDontReact]]
 
 - Great nations dont get angry; military  action should be undertaken only  to achieve specific strategic effects. #Politics
 
@@ -42,7 +42,7 @@
 
 - Re NATO: It is telling that an alliance designed originally  for the defense of Western Europe fought its first combat campaign in response to the 9/11 attacks on America. [[History]]
 
-- PowerPoint is an excellent way to display data; but it makes us stupid when applied to critical thinking. #Rationality
+- PowerPoint is an excellent way to display data; but it makes us stupid when applied to critical thinking. [[Rationality]]
 
 - George Washington's approach: listen, learn, and help, then lead. #Leadership
 

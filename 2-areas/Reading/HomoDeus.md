@@ -30,13 +30,13 @@
 
 - In the 21C humans are likely to make a serious bid for immortality. [[NowIsDifferent]] #Longevity
 
-- Throughout history, religions and ideologies did not sanctify life itself. They always sanctified something above or beyond earthly existence, and were consequently quite tolerant of death. #Religion
+- Throughout history, religions and ideologies did not sanctify life itself. They always sanctified something above or beyond earthly existence, and were consequently quite tolerant of death. [[Religion]]
 
 - Humans always die due to some technical glitch. #Longevity
 
 - "There are three main modes of approaching death: You can accept it, deny it or you can fight it. I think our society is dominated by people who are into denial or acceptance, and I prefer to fight it" Peter Theil. #Longevity 
 
-- Its not easy to live knowing that you are going to die, but it is even harder to believe in immortality and be proven wrong. #Longevity #Religion
+- Its not easy to live knowing that you are going to die, but it is even harder to believe in immortality and be proven wrong. #Longevity [[Religion]]
 
 - In truth, so far modern medicine hasn't extended our natural lifespan by a single year. Its great achievement has been to save us from premature death. [[Science]] #Longevity
 
@@ -62,11 +62,11 @@
 
 - Relatively small changes in genes, hormones and neurons where enough to transform Homo Erectus -- who could produce nothing more than flint knives -- into Homo sapiens, who produce spaceships and computers. [[WhoWeAre]]
 
-- We may well think of the new human agenda as consisting really of only one project (with any branches): attaining divinity. #Religion [[NowIsDifferent]]
+- We may well think of the new human agenda as consisting really of only one project (with any branches): attaining divinity. [[Religion]] [[NowIsDifferent]]
 
-- Throughout history most gods were believed to enjoy not omnipotence but rather specific super-abilities such as the ability to design and create living beings to transform their own bodies; to control the environment and the weather; to read minds and to communicate at a distance; to travel at very high speeds; and of course to escape death and live indefinitely.  Humans are in the business of acquiring all these abilities, and then some. The average person now moves and communicates across distances much more easily than the Greek, Hindu, or African gods of old. [[WhoWeAre]] #Religion
+- Throughout history most gods were believed to enjoy not omnipotence but rather specific super-abilities such as the ability to design and create living beings to transform their own bodies; to control the environment and the weather; to read minds and to communicate at a distance; to travel at very high speeds; and of course to escape death and live indefinitely.  Humans are in the business of acquiring all these abilities, and then some. The average person now moves and communicates across distances much more easily than the Greek, Hindu, or African gods of old. [[WhoWeAre]] [[Religion]]
 
-- It is far from clear that we should be aiming at immortality, bliss and divinity. Adopting these particular projects might be a big mistake. But history is full of big mistakes. Given our past record and current values, we are likely to reach out for bliss, divinity and immortality -- even if it kills us. [[WhoWeAre]] #Religion [[NowIsDifferent]]
+- It is far from clear that we should be aiming at immortality, bliss and divinity. Adopting these particular projects might be a big mistake. But history is full of big mistakes. Given our past record and current values, we are likely to reach out for bliss, divinity and immortality -- even if it kills us. [[WhoWeAre]] [[Religion]] [[NowIsDifferent]]
 
 - Some complex systems are oblivious to our predictions. The process of human development, in contrast, reacts to them. The better our forecasts, the more reactions they engender. Hence paradoxically, as we accumulate more data and increase our computing power, event become wilder and more unexpected. The more we know the less we can predict. #Prediction #Chaos #Complexity
 
@@ -84,19 +84,19 @@
 
 - Predicting that humankind will try to gain immortality, bliss and divinity is much like predicting that people building a house will want a lawn in their front yard. It sounds very likely. But once you say it out loud you begin to think about alternatives.
 
-- For 300 years the world has been dominated by humanism, which sanctifies the life, happiness and power of homo sapiens. The attempt to gain immortality, bliss and divinity merely takes the long-standing humanist ideals to their logical conclusions. #Religion
+- For 300 years the world has been dominated by humanism, which sanctifies the life, happiness and power of homo sapiens. The attempt to gain immortality, bliss and divinity merely takes the long-standing humanist ideals to their logical conclusions. [[Religion]]
 
-- The rise of humanism also contains the seeds of its downfall. While the attempt to upgrade humans into gods takes humanism to its logically conclusion, it simultaneously exposes humanism's inherent flaws. If you start with a flawed ideal, you often appreciate its defects only when the ideal is close to realization. #Religion 
+- The rise of humanism also contains the seeds of its downfall. While the attempt to upgrade humans into gods takes humanism to its logically conclusion, it simultaneously exposes humanism's inherent flaws. If you start with a flawed ideal, you often appreciate its defects only when the ideal is close to realization. [[Religion]] 
 
 - Computers powerful enough to understand and overcome the mechanisms of aging and death will probably also be powerful enough to replace humans in any and all tasks. #Longevity #AI
 
 - At present it may seem that immortality, bliss and divinity occupy the top slots on our agenda. But once we come nearer to achieving these goals the resulting upheavals are likely to deflect us towards entirely different destinations.  The future described above is merely the future of the past -- ie a future based on the ideas and hopes that dominated the world for the last 300 years. The real future -- ie a future born of the new ideas and hopes of the 21C -- might be completely different. #Politics
 
-- Homo Sapiens does its best to forget the fact, but it is an animal. And it is doubly important to remember our origins at a time when we seek to turn ourselves into gods. The relationship between humans and animals is the best model we have for the future relations between super-humans and humans. [[WhoWeAre]] [[NowIsDifferent]] #Religion
+- Homo Sapiens does its best to forget the fact, but it is an animal. And it is doubly important to remember our origins at a time when we seek to turn ourselves into gods. The relationship between humans and animals is the best model we have for the future relations between super-humans and humans. [[WhoWeAre]] [[NowIsDifferent]] [[Religion]]
 
 - Humanism has dominated the world for 300 years, which is not such a long time. The pharaohs ruled Egypt for 3000 years, and the popes dominated Europe for a millennium. [[History]]
 
-- With regards to other animals humans have long since become gods. #Religion [[WhoWeAre]]
+- With regards to other animals humans have long since become gods. [[Religion]] [[WhoWeAre]]
 
 - Humankind is poised to replace natural selection with intelligent design, and to extend life form the organic realm into the inorganic. [[NowIsDifferent]] 
 
@@ -104,11 +104,11 @@
 
 - Not long ago psychologists doubted the importance of the emotional bond between parents and children even among humans. Childcare experts warned that children who were hugged and kissed by their parents would grow up to be needy, egotistical and insecure adults. [[UsedToBelieve]] 
 
-- We normally think that theist religions sanctify the great gods. We tend to forget that they sanctified humans too. Hitherto Homo sapiens had been just one actor in a cast of thousands. In the new theist drama Sapiens became the central hero around whom the entire universe revolved.  The gods meanwhile where given two related roles to play. Firstly, they explained what is so special about sapiens and why humans should dominate and exploit all other organisms. Secondly, the gods had to mediate between humans and the ecosystem.  #Religion 
+- We normally think that theist religions sanctify the great gods. We tend to forget that they sanctified humans too. Hitherto Homo sapiens had been just one actor in a cast of thousands. In the new theist drama Sapiens became the central hero around whom the entire universe revolved.  The gods meanwhile where given two related roles to play. Firstly, they explained what is so special about sapiens and why humans should dominate and exploit all other organisms. Secondly, the gods had to mediate between humans and the ecosystem.  [[Religion]] 
 
-- The agriculture revolution was both an economic and religious revolution. #Politics [[History]] #Religion
+- The agriculture revolution was both an economic and religious revolution. #Politics [[History]] [[Religion]]
 
-- During the agriculture revolution humankind silenced animals and plants, and turned the animist grand opera into a dialogue between man and gods. During the Scientific Revolution humankind silenced the gods too. The world was now a one man show. Humankind stood alone on an empty stage, talking to itself, negotiating with no one and acquiring enormous powers without any obligations. [[History]] #Religion [[Science]] [[NowIsDifferent]]
+- During the agriculture revolution humankind silenced animals and plants, and turned the animist grand opera into a dialogue between man and gods. During the Scientific Revolution humankind silenced the gods too. The world was now a one man show. Humankind stood alone on an empty stage, talking to itself, negotiating with no one and acquiring enormous powers without any obligations. [[History]] [[Religion]] [[Science]] [[NowIsDifferent]]
 
 - The stream of consciousness is the concrete reality we directly witness every moment. It is the surest thing in the world. You cannot doubt its existence. #Consciousness #Buddhism
 
@@ -148,9 +148,9 @@
 
 - If you stick only to unalloyed reality, without mixing any fiction in with it, few people will follow you. If you used a time machine to send modern scientists to ancient Egypt, she would not be able to seize power by exposing the fictions of the local priests and lecturing the peasants on evolution, relativity and quantum physics. If you happen to think so, you are welcome to travel to present-day Afghanistan or Syria and try your luck. [[Science]] #Politics
 
-- Like a child thinking that his parents are fighting because of him, the monotheist is convinced that the Persians are fighting the Babylonians because of him. #Religion
+- Like a child thinking that his parents are fighting because of him, the monotheist is convinced that the Persians are fighting the Babylonians because of him. [[Religion]]
 
-- Even though Herodotus and Thucydides understood reality much better that the authors of the bible, when the two world views collided, the Bible won by a knockout. No matter how mistaken the biblical worldview was, it provided a better basis for large-scale human cooperation. (Its ironic to have to swear to tell the truth on a book brimming with so many fictions, myths, and errors.) #Politics #Religion
+- Even though Herodotus and Thucydides understood reality much better that the authors of the bible, when the two world views collided, the Bible won by a knockout. No matter how mistaken the biblical worldview was, it provided a better basis for large-scale human cooperation. (Its ironic to have to swear to tell the truth on a book brimming with so many fictions, myths, and errors.) #Politics [[Religion]]
 
 - History isn't a single narrative, but thousands of alternative narratives. Whenever we choose to tell one, we are also choosing to silence the others. [[History]]
 
@@ -160,17 +160,17 @@
 
 - In the 21C, we will create more powerful fictions and more totalitarian religions than in any previous era. [[NowIsDifferent]]
  
-- It is often said that god helps those who help themselves. This is a roundabout way of saying that god doesn't exist, but if our belief in Him inspires us to do something ourselves -- it helps. In contrast scientific theories are not just a way to bind people together. Antibiotics, unlike God, help even those who dont help themselves. They cure infections weather you believe in them or not. #Religion [[Science]]
+- It is often said that god helps those who help themselves. This is a roundabout way of saying that god doesn't exist, but if our belief in Him inspires us to do something ourselves -- it helps. In contrast scientific theories are not just a way to bind people together. Antibiotics, unlike God, help even those who dont help themselves. They cure infections weather you believe in them or not. [[Religion]] [[Science]]
 
 - Instead of destroying the intersubjective reality, science will enable it to control the objective and subjective realities more completely than before. [[Science]] [[History]]
 
-- Religion is any all-encompassing story that confers superhuman legitimacy on human laws, norms and values. It legitimizes human social structures by arguing that they reflect superhuman laws. Religion asserts that we humans are subject to a system of moral laws that we did not invent and that we cannot change. As far as we know, all human societies believe in this. Every society tells its members that they must obey some superhuman moral law, and that breaking this law will result in catastrophe. #Religion
+- Religion is any all-encompassing story that confers superhuman legitimacy on human laws, norms and values. It legitimizes human social structures by arguing that they reflect superhuman laws. Religion asserts that we humans are subject to a system of moral laws that we did not invent and that we cannot change. As far as we know, all human societies believe in this. Every society tells its members that they must obey some superhuman moral law, and that breaking this law will result in catastrophe. [[Religion]]
 
-- Just as the gap between religion and science is narrower than we commonly think, so the gap between religion and spirituality is much wider. Religion is a deal, whereas spirituality is a journey. #Religion
+- Just as the gap between religion and science is narrower than we commonly think, so the gap between religion and spirituality is much wider. Religion is a deal, whereas spirituality is a journey. [[Religion]]
 
-- In theory, both science and religion are interested above all in truth, and bb/c each upholds a different truth, they are doomed to clash. In fact neither science nor religion cares that much about truth, hence they can easily compromise, co-exit and cooperate. Religion is interested above all in order. In aims to create and maintain the social structure. Science is interested above all in power (questionable...). [[Science]] #Religion
+- In theory, both science and religion are interested above all in truth, and bb/c each upholds a different truth, they are doomed to clash. In fact neither science nor religion cares that much about truth, hence they can easily compromise, co-exit and cooperate. Religion is interested above all in order. In aims to create and maintain the social structure. Science is interested above all in power (questionable...). [[Science]] [[Religion]]
 
-- Modern history can be thought of as the process of formulating a deal between science and one particular religion - namely, humanism. Modern society believes in humanists dogmas, and uses science not in order to question these dogmas, but rather in order to implement them.  [[History]] [[Science]] #Religion
+- Modern history can be thought of as the process of formulating a deal between science and one particular religion - namely, humanism. Modern society believes in humanists dogmas, and uses science not in order to question these dogmas, but rather in order to implement them.  [[History]] [[Science]] [[Religion]]
 
 - Modernity is a surprisingly simple deal: humans agree to give up meaning in exchange for power.  If modernity has a motto it is "shit happens". We are constrained by nothing except our own ignorance. No paradise awaits us after our death -- but we can create paradise here on earth and live in it forever, if we just manage to overcome some technical difficulties. [[History]] [[WhoWeAre]] [[NowIsDifferent]]
 
@@ -180,11 +180,11 @@
 
 - The greatest scientific discovery was the discovery of ignorance. Once humans realized how little they knew about the world, they suddenly had a very good reason to seek new knowledge, which opened up the scientific road to progress. [[Science]]
 
-- Throughout history prophets and philosophers have argued that if humans stopped believing in a great cosmic plan, all law and order would vanish. Yet today, those who pose the greatest threat to global law and order are precisely those people who continue to believe in God and His all-encompassing plans. [[History]] #Religion
+- Throughout history prophets and philosophers have argued that if humans stopped believing in a great cosmic plan, all law and order would vanish. Yet today, those who pose the greatest threat to global law and order are precisely those people who continue to believe in God and His all-encompassing plans. [[History]] [[Religion]]
 
-- The central religious revolution of modernity was not losing faith in God; rather, it was gaining faith in humanity. #Religion
+- The central religious revolution of modernity was not losing faith in God; rather, it was gaining faith in humanity. [[Religion]]
 
-- (Exodus 20:4) God commanded us to not make any images of either humans or animals. #Religion
+- (Exodus 20:4) God commanded us to not make any images of either humans or animals. [[Religion]]
 
 - The highest aim of human life is to fully develop your knowledge through a wide variety of intellectual, emotional and physical experiences.  The aim of life's existence is "a distillation of the widest possible experience of life into wisdom". #MeaningOfLife
 
@@ -192,7 +192,7 @@
 
 - Humanism split into three main branches. The orthodox branch holds that each human being is a unique individual possessing a distinctive inner voice and a never-to-be-repeated series of experiences.
     The other are socialist humanism, which encompassed a plethora of socialist and communist movements, and evolutionary humanism, whose most famous advocates were the Nazis.
-    #Politics #Religion    
+    #Politics [[Religion]]    
 
 - You cannot resolve the Arab-Israeli conflict by having 8 million Israeli citizens and the 350 million citizens of Arab League nations vote on it. Democratic elections usually work only within populations that have some prior common bond, such as shared religious beliefs or national myths. They are a method to settle disagreements among people who already agree on the basics. #Politics
 
@@ -202,9 +202,9 @@
 
 - Liberal democracy was saved only by nuclear weapons. [[History]] #Politics
 
-- More the a century after Nitchze pronounced him dead, God seems to be making a comeback. But this is a mirage. God is dead -- its just taking a while to get rid of the body. #Religion 
+- More the a century after Nitchze pronounced him dead, God seems to be making a comeback. But this is a mirage. God is dead -- its just taking a while to get rid of the body. [[Religion]] 
 
-- Pope Pius lead a series of reforms in Catholic dogma and established the novel principle of papal infallibility, according to which the Pope can never err in matter of faith (this seemingly medieval idea became binding Catholic dogma only in 1870, 11 years after the publication of On the origin of Species. #Religion 
+- Pope Pius lead a series of reforms in Catholic dogma and established the novel principle of papal infallibility, according to which the Pope can never err in matter of faith (this seemingly medieval idea became binding Catholic dogma only in 1870, 11 years after the publication of On the origin of Species. [[Religion]] 
 
 - The main product of the 21C will be bodies, brains and minds, and the gap between those who know how to engineer bodies and brains and those who do not will be far bigger than the gab between Dickens Britain and Mahdi's Sudan. In the 21C, those who ride the train of progress will acquire divine abilities of creation and destruction, while those left behind will face extinction. [[NowIsDifferent]] 
 
@@ -249,25 +249,25 @@
 
 - Medicine is undergoing a tremendous conceptual revolution. 20C medicine aimed to heal the sick. 21C medicine is increasingly aiming to upgrade the healthy. [[NowIsDifferent]] #Longevity
 
-- The religions are unlikely to emerge from the caves of Afghanistan or the madrasas of the middle east. Rather, they will emerge form research laboratories. Silicon Valley is where hi-tech gurus are brewing for us brave new religions that have little to do with God, and everything to do with technology. They promise all the old prizes -- happiness, peace, prosperity and even eternal life -- but here on earth with the help of technology, rather than after death with the help of celestial beings. These new techno-religions can be divided into two main types: techno-humanism and data religion. #AI #Religion [[NowIsDifferent]]
+- The religions are unlikely to emerge from the caves of Afghanistan or the madrasas of the middle east. Rather, they will emerge form research laboratories. Silicon Valley is where hi-tech gurus are brewing for us brave new religions that have little to do with God, and everything to do with technology. They promise all the old prizes -- happiness, peace, prosperity and even eternal life -- but here on earth with the help of technology, rather than after death with the help of celestial beings. These new techno-religions can be divided into two main types: techno-humanism and data religion. #AI [[Religion]] [[NowIsDifferent]]
 
-- Data religion argues that humans have completed their cosmic task and should now pass the torch on to entirely new kinds of entities. [[NowIsDifferent]] #Religion
+- Data religion argues that humans have completed their cosmic task and should now pass the torch on to entirely new kinds of entities. [[NowIsDifferent]] [[Religion]]
 
-- Techno-humanism, which still sees humans as the apex of creation and clings to many traditional humanist values. Techno-humanism agrees that Homo-Sapiens as we know it has run its historical course and will no longer be relevant in the future, but concludes that we should therefore use technology in order to create Homo Deus - a much superior human model.  #Religion
+- Techno-humanism, which still sees humans as the apex of creation and clings to many traditional humanist values. Techno-humanism agrees that Homo-Sapiens as we know it has run its historical course and will no longer be relevant in the future, but concludes that we should therefore use technology in order to create Homo Deus - a much superior human model.  [[Religion]]
 
 - Maybe a few additional changes to our genome and another rewiring of our brain will suffice to launch a second cognitive revolution. [[NowIsDifferent]] [[WhoWeAre]]
 
-- Modern western culture is unique in lacking a specialized class of people who seek to experience extraordinary mental states. #Religion
+- Modern western culture is unique in lacking a specialized class of people who seek to experience extraordinary mental states. [[Religion]]
 
 - Hunter-gathers are able to smell from a distance the difference between various animal species, various humans and even various emotions. [[WhoWeAre]]
 
 - Though we have more choice than ever before, we have lost the ability to pay attention to whatever we choose. #Buddhism #DFW
 
-- From a historical perspective its clear that something momentous is happening. The number one humanist commandment -- listen to yourself! -- is no longer self-evident. Silencing annoying voices in my head seems like a wonderful idea, provided it enables me to finally hear my deep authentic self. But if there is no authentic self, how do I decide which voices to silence and which to amplify? #Religion [[NowIsDifferent]] [[WhoWeAre]]
+- From a historical perspective its clear that something momentous is happening. The number one humanist commandment -- listen to yourself! -- is no longer self-evident. Silencing annoying voices in my head seems like a wonderful idea, provided it enables me to finally hear my deep authentic self. But if there is no authentic self, how do I decide which voices to silence and which to amplify? [[Religion]] [[NowIsDifferent]] [[WhoWeAre]]
 
-- Techno-humanism faces an impossible dilemma here. It considers the human will to be the most important thing in the universe, hence it pushes humankind to develop technologies that can control and redesign the self at will. After all its tempting to gain control over the most important thing in the world. Yet should we ever achieve such control, techno-humanism would not know what to do with it, because the sacred human would then become just another designer product. #Religion
+- Techno-humanism faces an impossible dilemma here. It considers the human will to be the most important thing in the universe, hence it pushes humankind to develop technologies that can control and redesign the self at will. After all its tempting to gain control over the most important thing in the world. Yet should we ever achieve such control, techno-humanism would not know what to do with it, because the sacred human would then become just another designer product. [[Religion]]
 
-- A bolder techno-religion seeks to sever the humanist umbilical cord altogether. If foresees a world that does not revolve around the desires and experiences of any human beings. #Religion
+- A bolder techno-religion seeks to sever the humanist umbilical cord altogether. If foresees a world that does not revolve around the desires and experiences of any human beings. [[Religion]]
 
 - Experts see the economy as a mechanism for gathering data  about desire and abilities, and turning this data into decisions. #Politics
 
@@ -281,23 +281,23 @@
 
 - Precisely because technology is now moving so fast, and parliaments and dictators alike are overwhelmed by data they cannot process quickly enough, present-day politicians are thinking on a far smaller scale than their predecessors a century ago. Consequently, in the early 21C, politics is bereft of grand visions.  Government has become mere administration. It manages the country, but no longer leads it. Government ensures that teachers are paid on time and sewage systems dont overflow, but it has no idea where the country will be in 20 years. To a certain extent, this is a very good thing. Given that some of the big political visions of the 20C led us to Auschwitz, Hiroshima, and the Great Leap forward. Many neo-liberal economists and political scientists argue that it is best to leave all the important decisions in the hands of the free market. They there by give politicians the perfect excuse for inaction and ignorance, which are reinterpreted as profound wisdom. Politicians find it convenient to believe that the reason they dont understand the world is that they dont need to understand it. #Politics #AI
 
-- Dataism: Humans are merely tools for creating the Internet-of-All things, which may eventually spread out from planet earth to pervade the whole galaxy and even the whole universe. This cosmic data-processing system would be like God. It will be everywhere and will control everything, and humans are destined to merge into it. Dataism is the first movement since 1789 that created a genuinely novel value; freedom of information. #Religion #AI
+- Dataism: Humans are merely tools for creating the Internet-of-All things, which may eventually spread out from planet earth to pervade the whole galaxy and even the whole universe. This cosmic data-processing system would be like God. It will be everywhere and will control everything, and humans are destined to merge into it. Dataism is the first movement since 1789 that created a genuinely novel value; freedom of information. [[Religion]] #AI
 
 - 50 Million communal autonomous cars could replace 1 billion private cars, and we would also need fewer roads, bridges, tunnels and parking spaces. Provided, of course, that I renounce my privacy and allow the algorithms always to know where I am and where I want to go. #AI  #Politics
 
-- Traditional religions assured you that your every word and action was part of some great cosmic plan, and that God watched you every minute and cared about your thoughts and feelings. Data religions now says that your every word and action is part of the great data flow, that the algorithms are constantly watching you and that they care about everything you do and feel. #Religion
+- Traditional religions assured you that your every word and action was part of some great cosmic plan, and that God watched you every minute and cared about your thoughts and feelings. Data religions now says that your every word and action is part of the great data flow, that the algorithms are constantly watching you and that they care about everything you do and feel. [[Religion]]
 
-- Throughout this book we have repeatedly asked what makes humans superior to other animals. Dataism has a new an simple answer. Humans can write poems and blogs about their experiences and post them online, thereby enriching the global data-processing system. That makes their bits count. [[WhoWeAre]] #Religion
+- Throughout this book we have repeatedly asked what makes humans superior to other animals. Dataism has a new an simple answer. Humans can write poems and blogs about their experiences and post them online, thereby enriching the global data-processing system. That makes their bits count. [[WhoWeAre]] [[Religion]]
 
-- By equating the human experience with data patterns, Dataism undermines our primary source of authority and meaning and heralds a tremendous religious revolution, the like of which has not been seen since the 18C.  In the days of Locke, Hume and Voltaire humanist argued that "God is the product of the human imagination". Dataism now gives humanists a taste of their own medicine, and tells them: "Yes, God is a product of the human imagination, but human imagination in turn is just the product of biochemical algorithms." In the 18C, humanism sidelined God by shifting from a deo-centric to a homo-centric world view. In the 21C, Dataism may sideline humans by shifting from a homo-centric to a data-centric view. #Religion [[NowIsDifferent]] [[WhoWeAre]]
+- By equating the human experience with data patterns, Dataism undermines our primary source of authority and meaning and heralds a tremendous religious revolution, the like of which has not been seen since the 18C.  In the days of Locke, Hume and Voltaire humanist argued that "God is the product of the human imagination". Dataism now gives humanists a taste of their own medicine, and tells them: "Yes, God is a product of the human imagination, but human imagination in turn is just the product of biochemical algorithms." In the 18C, humanism sidelined God by shifting from a deo-centric to a homo-centric world view. In the 21C, Dataism may sideline humans by shifting from a homo-centric to a data-centric view. [[Religion]] [[NowIsDifferent]] [[WhoWeAre]]
 
-- The shift from a homo-centric to a data-centric view wont be merely a philosophical revolution. It will be a practical revolution. All truly important revolutions are practical. The humanists idea that "Humans invented God" was significant because it had far-reaching practical implications. Similarly, that Dataist idea that "organisms are algorithms" is significant due to its day-to-day practical consequences. Ideas change the world only when hey change our behavior [[NowIsDifferent]] #Religion 
+- The shift from a homo-centric to a data-centric view wont be merely a philosophical revolution. It will be a practical revolution. All truly important revolutions are practical. The humanists idea that "Humans invented God" was significant because it had far-reaching practical implications. Similarly, that Dataist idea that "organisms are algorithms" is significant due to its day-to-day practical consequences. Ideas change the world only when hey change our behavior [[NowIsDifferent]] [[Religion]] 
 
 - Our love, our fear and our passion aren't some nebulous spiritual phenomena good only for composing poetry. Rather, they encapsulate millions of years of practical wisdom. When you listen to your feelings, you follow an algorithm that evolution has developed for millions of years, and that withstood the harshest quality-control tests of natural selection. Your feelings are not infallible, of course, but they are better than most other sources of guidance. [[WhoWeAre]] 
 
 - Yet in the 21C feelings are no longer the best algorithms in the world. Consequently you should stop listening to your feelings and start listening to these external algorithms instead. Whats the point of having democratic elections when the algorithms know not only how each person is going to vote, but also the underlying neurological reasons why one person votes Democrat while another votes Republican? #Politics #AI
 
-- Dataism will probably accelerate the humanist pursuit of heath, happiness and power. Yet once authority shifts from humans to algorithms, the humanist projects may become irrelevant. #Religion #Happiness
+- Dataism will probably accelerate the humanist pursuit of heath, happiness and power. Yet once authority shifts from humans to algorithms, the humanist projects may become irrelevant. [[Religion]] #Happiness
 
 - Humans are relinquishing authority to the free market, to crowd wisdom and to external algorithms partly because we cannot deal with the deluge of data. In the past, censorship worked by blocking the flow of information. In the 21C censorship works by flooding people with irrelevant information. In ancient times having power meant having access to data. Today having power means knowing what to ignore. #Politics [[NowIsDifferent]]
 

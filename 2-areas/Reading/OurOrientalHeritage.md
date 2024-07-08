@@ -84,7 +84,7 @@
 
 - Sometimes thought overcomes belief, and men no longer know how or why they should live. Such periods do not endure; hope soon wins the victory over thought; the intellect is put down to its customary menial place, and religion is born again, given to men the imaginative stimulus apparently indispensable to life and work.
 
-  #Religion
+  [[Religion]]
 
 - The effect or remembrance of what Egypt accomplished at the very dawn of history has influence in every nation and every age.  We shall do well to equal it.
 
@@ -104,7 +104,7 @@
 
 - A nation is born stoic, and dies epicurean. At its cradle religion stands, and philosophy accompanies it to the grave.
 
-   [[Stoicism]] #Religion #Philosophy #Epicurean
+   [[Stoicism]] [[Religion]] #Philosophy #Epicurean
 
 - Evil does not destroy faith, but strengthens it.
 
@@ -122,7 +122,7 @@
 
 - Nowhere is there so much killing as in the Old Testament; its chapters oscillate between slaughter and compensatory reproduction. The prophets were not pacifists and the priests were almost as fond of war as of preaching. Among the nineteen kings of Israel eight were assassinated.
 
- #Religion
+ [[Religion]]
 
 - Men look to love and life for everything; they receive a little less than that; and imagine they have received nothing; [[WhoWeAre]]
 
@@ -139,7 +139,7 @@
 - Zoroastrians: All in all it was a splendid religion, less warlike and bloody, less idolatrous and superstitions, than they other religions of its time; it did not deserve to die so soon.
   But humanity loves poetry more than logic, and without a myth the people perish.
 
-#Religion
+[[Religion]]
 
 - It is unfair to judge the people from their kings; virtue is not news, and virtuous men, like happy nations, have no history.
 
@@ -149,7 +149,7 @@
 
 - The invasion and conquest of India by the Aryans was part of that ancient process whereby, periodically, they north has swept down violently upon the settled and pacified south; this has been one of the main streams of history, on which civilizations have risen and fallen like epochal undulations.  Forever the north produces rulers and warriors, the south produces artists and saints, and the meed inherit heaven.
 
-  #Religion [[History]]
+  [[Religion]] [[History]]
 
 - A nation, like an individual, begins with poetry and ends with prose.
 
@@ -219,7 +219,7 @@
 
  #Buddhism
 
-- To explain evil, and to find for man some scheme in which they may accept it, if not with good cheer, then with peace of mind - this is the task that most religions have attempted to fulfill.  Since the real problem of life is not suffering but undeserved suffering, the religion of India mitigates the human tragedy by given meaning and value to grief and pain. #Religion
+- To explain evil, and to find for man some scheme in which they may accept it, if not with good cheer, then with peace of mind - this is the task that most religions have attempted to fulfill.  Since the real problem of life is not suffering but undeserved suffering, the religion of India mitigates the human tragedy by given meaning and value to grief and pain. [[Religion]]
 
 - The East, until reached by the Industrial Revolution, could not understand the zest with which the Occident has taken to life; it saw only superficiality and childishness in our merciless busyness, our discontented ambition, our nerve-racking labor-saving devices, our progress and speed; it could no more comprehend this profound immersion in the surface of things, this clever refusal to look ultimate's in the face, than the West can fathom the quiet inertia, the "stagnation" and "hopelessness" of the traditional East. Heat cannot understand cold.
 
@@ -255,7 +255,7 @@
 
 - If resistance is encountered, the wiser course is not to quarrel, fight, or make war, but to retire silently, and to win, if at all, through yielding and patience; passivity has its victories more often than action. - Lao-tze
 
-  #RespondDontReact
+  [[RespondDontReact]]
 
 - One must have a long urban background in order to write rural poetry.
 

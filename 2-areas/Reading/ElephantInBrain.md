@@ -199,7 +199,7 @@
 
 - Religions can be understood, in part, as community-enforced mating strategies
 
-#Religion [[UnpopularTruth]]
+[[Religion]] [[UnpopularTruth]]
 
 - people acting in synchrony with others cooperated more in subsequent group economic exercises, even in situations requiring personal sacrifice.
 
@@ -207,7 +207,7 @@
 
 - The value of holding certain beliefs comes not from acting on them, but from convincing others that you believe them. This is especially true of religious beliefs. They aren't particularly useful or practical for individuals in isolation, and yet we experience large social rewards for adopting them and/or punishment for not adopting them. Whether you accept it can make the difference between the warm embrace of fellowship and the cold shoulder of ostracism.
 
-#Religion [[UnpopularTruth]] [[WhoWeAre]]
+[[Religion]] [[UnpopularTruth]] [[WhoWeAre]]
 
 - hill-climbing:  we might model the landscape of a religious community as a volcano. hill-climbing accidents aren't at all unique to religious landscapes. In dietary landscapes we seek tasty fats and sugars, which were almost always "up". In military landscapes, we learn to show bravery, earning ever more respect from our comrades -- right until we take a bullet. Drug addicts.
 

@@ -14,7 +14,7 @@
 
 - Assign yourself the talkst that you do best. "Law of comparative advantage" (#MentalModels)
 
-- Posessing a trait is not enough, you must help others see that you posess it. (#Rationality)
+- Posessing a trait is not enough, you must help others see that you posess it. ([[Rationality]])
 
 - Honesty: telling what you believe to be the truth (#Dependability)
 

@@ -108,7 +108,7 @@
 - The only way for science to proceed is to assume there is no divine intervention and see how far you can get with this assumption.
   It is a profoundly important discovery that we can indeed get so far with out divine intervention. Strong evidence against it.
 
-#Philosophy #Religion
+#Philosophy [[Religion]]
 
 - Arguing about big science vs small science is a good way avoiding thinking about the value of the individual projects.
 

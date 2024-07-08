@@ -12,4 +12,4 @@
 
 - Picture how the people you wish to emulate would act in your most difficult situations.
 
-  #Advice #RoleModels
+  #Advice [[RoleModels]]

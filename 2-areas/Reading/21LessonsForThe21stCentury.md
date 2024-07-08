@@ -4,7 +4,7 @@
 
 - In a world deluged by information, clarity is power. 
 
-- Philosophy, religion and science all running out of time. People have debated the meaning of life for 1000s of years. We cannot continue this debate indefinitely. The looming ecological crises, the threat of WMDs, and the rise of technological revolution will not allow it.  AI and biotech are giving humanity the power to reshape and re-engineer life. Very soon somebody will have to decide how to use this power based on some implicit or explicit story about the meaning of life. #Religion #AI [[WhoWeAre]]
+- Philosophy, religion and science all running out of time. People have debated the meaning of life for 1000s of years. We cannot continue this debate indefinitely. The looming ecological crises, the threat of WMDs, and the rise of technological revolution will not allow it.  AI and biotech are giving humanity the power to reshape and re-engineer life. Very soon somebody will have to decide how to use this power based on some implicit or explicit story about the meaning of life. [[Religion]] #AI [[WhoWeAre]]
 
 - Humans think in stories, not facts, numbers or equations. The simpler the better. [[WhoWeAre]] #AI
 
@@ -38,7 +38,7 @@
 
 - Once somebody gains the technological ability to hack and manipulate the human heart, democratic politics will mutate into an emotional puppet show. #Politics #AI [[NowIsDifferent]]
 
-- Feelings are biochemical mechanisms that all mammals and birds use in order to quickly calculate probabilities of survival and reproduction. Feels are therefore not the opposite of rationality, they embody evolutionary rationality. #MentalModels #Rationality
+- Feelings are biochemical mechanisms that all mammals and birds use in order to quickly calculate probabilities of survival and reproduction. Feels are therefore not the opposite of rationality, they embody evolutionary rationality. #MentalModels [[Rationality]]
 
 - We dont feel the millions of neurons in the brain computing probabilities of survival and reproduction, so we erroneously believe that our feelings are the result of some mysterious "free will". #FreeWill #Consciousness
 
@@ -50,7 +50,7 @@
 
 - Throughout history the limitations of actually enforcing laws provided a welcome check on the biases, mistakes and excesses of lawmakers. #Politics
 
-- We have bred docile cows that produce enormous amounts of milk but are otherwise far inferior to their wild ancestors. They are less agile, less curious, less resourceful. We are now creating tame humans that produce enormous amounts of data and function as very efficient chips in a huge data-processing mechanism, but these data-cows hardly maximize the human potential. [[WhoWeAre]] #Religion
+- We have bred docile cows that produce enormous amounts of milk but are otherwise far inferior to their wild ancestors. They are less agile, less curious, less resourceful. We are now creating tame humans that produce enormous amounts of data and function as very efficient chips in a huge data-processing mechanism, but these data-cows hardly maximize the human potential. [[WhoWeAre]] [[Religion]]
 
 - Improvements in biotechnology might make it possible to translate economic inequality into biological inequality. [[NowIsDifferent]]
 
@@ -83,11 +83,11 @@
 - Questions for political leaders: What actions will you take to ... lessen the risks of nuclear war? ... lessen the risks of climate change? .. regulate disruptive technologies such as AI and bio-engineering ? How do you see the world of 2040 ? What is your worst-case scenario, and what is your vision for the best-case scenario. #Politics #Questions
 
 
-- The victory of science over religion has been so complete that our very idea of religion has changed. We no longer associate religion with farming or medicine. This is also why the entire world has increasingly become a single civilization. When things really work, everybody adopts them. When you compare the economic policies of the Shiite Iran, Sunni Saudi Arabia, Hindu India, and Christian America, you just dont see that much of a difference.  #Religion
+- The victory of science over religion has been so complete that our very idea of religion has changed. We no longer associate religion with farming or medicine. This is also why the entire world has increasingly become a single civilization. When things really work, everybody adopts them. When you compare the economic policies of the Shiite Iran, Sunni Saudi Arabia, Hindu India, and Christian America, you just dont see that much of a difference.  [[Religion]]
 
-- Marx argued, "religion is just a veneer". But people often identify with the decor, and peoples identities are a crucial historical force. Human power depends on mass cooperation, and mass cooperation depends on manufacturing mass identities - and all mass identities are based on fictional stories, not on scientific facts or even economic realities. #Religion
+- Marx argued, "religion is just a veneer". But people often identify with the decor, and peoples identities are a crucial historical force. Human power depends on mass cooperation, and mass cooperation depends on manufacturing mass identities - and all mass identities are based on fictional stories, not on scientific facts or even economic realities. [[Religion]]
 
-- The Kamikaze relied on combating state-of-the-art technology with state-of-the-art religious indoctrination. #Religion
+- The Kamikaze relied on combating state-of-the-art technology with state-of-the-art religious indoctrination. [[Religion]]
 
 - We are trapped between a rock and a hard place, Humankind now constitutes a single civilization, and problems such as nuclear war, ecological collapse, and technological disruption can only be solved on a global level. On the other hand, nationalism and religion still divide our human civilization into different and often hostile camps. [[NowIsDifferent]] #Politics
 
@@ -97,21 +97,21 @@
 
 - Human stupidity is one of the most important forces is history.  One potential remedy for human stupidity is a does of humility. [[History]]
 
-- Monotheism was arguably one of the worst ideas in human history; from an ethical perspective, the birth of bigotry. Did not improve the moral standard of humans, but did make many people far more intolerant than before. #Religion
+- Monotheism was arguably one of the worst ideas in human history; from an ethical perspective, the birth of bigotry. Did not improve the moral standard of humans, but did make many people far more intolerant than before. [[Religion]]
 
-- Does God exist ? That depends on which god you have in mind: the cosmic mystery or the worldly lawgiver? #Religion
+- Does God exist ? That depends on which god you have in mind: the cosmic mystery or the worldly lawgiver? [[Religion]]
 
-- After giving the name "God" to the unknown secrets of the cosmos, they then use this to somehow condemn bikinis and divorce. #Religion
+- After giving the name "God" to the unknown secrets of the cosmos, they then use this to somehow condemn bikinis and divorce. [[Religion]]
 
-- To the best of our knowledge all of the sacred texts were written by imaginative Homo Sapiens. They are just stories invented by our ancestors in order to legitimize social norms and political structures. #Religion
+- To the best of our knowledge all of the sacred texts were written by imaginative Homo Sapiens. They are just stories invented by our ancestors in order to legitimize social norms and political structures. [[Religion]]
 
-- I personally never cease to wonder about the mystery of existence. But I have never understood what it has to do with the niggling laws of Judaism, Christianity, or Hinduism. These laws were certainly very helpful in establishing and maintaining the social order for thousands of years. But in that, they are not fundamentally different from the laws of secular states and institutions. #Religion
+- I personally never cease to wonder about the mystery of existence. But I have never understood what it has to do with the niggling laws of Judaism, Christianity, or Hinduism. These laws were certainly very helpful in establishing and maintaining the social order for thousands of years. But in that, they are not fundamentally different from the laws of secular states and institutions. [[Religion]]
 
-- Morality doesn't mean "following divine commands". It means reducing suffering. If you really understand how an action causes unnecessary suffering to yourself or others you will naturally abstain from it. #Religion
+- Morality doesn't mean "following divine commands". It means reducing suffering. If you really understand how an action causes unnecessary suffering to yourself or others you will naturally abstain from it. [[Religion]]
 
-- Every violent act in the world begins with a violent desire in somebody's mind, which disturbs that persons peace and happiness before it disturbs the peace and happiness of anybody else. If you were completely free of anger you would feel far better than if you murdered and obnoxious enemy. For some people a strong belief in a compassionate god that commands us to turn the other cheek may help in curbing anger. That's been and enormous contribution of religious belief to the peace and harmony of the world. #Buddhism #Religion
+- Every violent act in the world begins with a violent desire in somebody's mind, which disturbs that persons peace and happiness before it disturbs the peace and happiness of anybody else. If you were completely free of anger you would feel far better than if you murdered and obnoxious enemy. For some people a strong belief in a compassionate god that commands us to turn the other cheek may help in curbing anger. That's been and enormous contribution of religious belief to the peace and harmony of the world. #Buddhism [[Religion]]
 
-- While human rights movements have developed a very impressive arsenal of arguments and defenses against religious biases and human tyrants, the arsenal hardly protects us against consumerist excesses and technological utopias. #Religion
+- While human rights movements have developed a very impressive arsenal of arguments and defenses against religious biases and human tyrants, the arsenal hardly protects us against consumerist excesses and technological utopias. [[Religion]]
 
 - Secular science has at least one big advantage over most traditional religions -- namely that it is not afraid of its own shadow. [[Science]]
 
@@ -123,7 +123,7 @@
 
 - Even if you start with a rejection of all religious dogma and with a firm commitment to scientific truth, sooner or later the complexity of reality becomes so vexing that you might be driven to fashion a doctrine that shouldn't be questioned. #Politics
 
-- When a thousand people believe some made-up story for one month, that's fake news. When a billion people believe it for a thousand years, that's a religion. For better or worse, fiction is one of the most effective tools in humanities tool kit. #Religion #Politics
+- When a thousand people believe some made-up story for one month, that's fake news. When a billion people believe it for a thousand years, that's a religion. For better or worse, fiction is one of the most effective tools in humanities tool kit. [[Religion]] #Politics
 
 - The Roman Senate claimed to have the power to turn people into gods. [[UsedToBelieve]]
 
@@ -133,7 +133,7 @@
 
 - As a species, humans prefer power to truth. We spend far more time and effort on trying to control the world than on trying to understand it. [[WhoWeAre]] #Politics
 
-- One of the great fictions of all is to deny the complexity of the world and think in absolute terms: pristine purity versus satanic evil #Politics #Religion 
+- One of the great fictions of all is to deny the complexity of the world and think in absolute terms: pristine purity versus satanic evil #Politics [[Religion]] 
 
 - We cannot investigate everything ourselves. But precisely because of that, we need to at least carefully investigate our favorite sources of information. If you want reliable information, pay good money for it. If you get your news for free, you might well be the product. [[Science]] #Politics 
 
@@ -149,9 +149,9 @@
 
 - For thousands of years philosophers and prophets have urged people to know themselves. This advice was never more urgent than in the 21st century, now we have serious competition. We are living in the era of hacking humans.  [[NowIsDifferent]] #AI
 
-- To give meaning to my life a story needs to satisfy just two conditions: First, it must give me some role to play. Second, it must extend beyond my horizons. #Religion #Politics
+- To give meaning to my life a story needs to satisfy just two conditions: First, it must give me some role to play. Second, it must extend beyond my horizons. [[Religion]] #Politics
 
-- "This is the body!" in Latin "Hoc est corpus!" got garbled into "Hocus pocus!" #Religion
+- "This is the body!" in Latin "Hoc est corpus!" got garbled into "Hocus pocus!" [[Religion]]
 
 - If by "free will" you mean the freedom to do what you desire, then yes, humans have free will. But if by "free will" you mean the freedom to choose what to desire, then no, humans have no free will. #FreeWill
 
@@ -161,7 +161,7 @@
  
 - According to the Buddha, then, life has no meaning, and people dont need to create any meaning. They just need to realize that there is no meaning, and therefore be liberated from the suffering caused by our attachments and our identification with empty phenomena. #Buddhism
 
-- The big question facing humans isn't "What is the meaning of life?" but rather "how do we stop suffering?" #Buddhism #Religion #Questions
+- The big question facing humans isn't "What is the meaning of life?" but rather "how do we stop suffering?" #Buddhism [[Religion]] #Questions
 
 - The academic world provided me with powerful tools with which to deconstruct all the myths humans ever created, but it did not offer satisfying answers to the big questions of life. On the contrary, it encouraged me to focus on narrower and narrower questions. #Questions 
 

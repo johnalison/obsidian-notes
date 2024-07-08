@@ -14,7 +14,7 @@
 
 - People need nudges for decisions that are difficult and rare, and for which they dont get prompt feedback.
 
-  #Rationality
+  [[Rationality]]
 
 - Markets often exploit peoples frailties, rather than eradicate or minimize their effects.
 

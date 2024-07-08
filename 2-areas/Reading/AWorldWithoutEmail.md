@@ -52,7 +52,7 @@ n- The process principle: introducing smart production processes to knowledge wo
 
 - "You should spend 30x the amount of time training someone to do a task than it would take you to do the task yourself one time" 
 
-- By adding complexity to the rules we use to structure our communication, the actual amount of information required by the interactions can be reduced (ala Shannon). #Rationality
+- By adding complexity to the rules we use to structure our communication, the actual amount of information required by the interactions can be reduced (ala Shannon). [[Rationality]]
 
 - Central idea in Shannon's information theory: clever protocols that take into account the structure of the information being communicated can perform MUCH better than naive approaches. #MentalModels
 
@@ -64,7 +64,7 @@ n- The process principle: introducing smart production processes to knowledge wo
 
 - The specialization principle: In the knowledge sector, working on fewer things, but doing teach thing with more equality and accountability, can be the foundation for significantly more productivity.
 
-- There are few things more valuable than someone who consistently produces valuable output, and few approaches to work more satisfying than being given the room to focus on things that really matter. #Reliability
+- There are few things more valuable than someone who consistently produces valuable output, and few approaches to work more satisfying than being given the room to focus on things that really matter. [[Reliability]]
 
 - Technological change is not additive; it is ecological.  A new medium does not add something; it changes everything. In the year 1500, after the printing press was invented, you did not have old Europe plus the printing press. You had a different Europe. [[History]] 
 

@@ -12,7 +12,7 @@
 
 - p2: This book teaches you a system for taking good notes. The system organizes your notes in a way that makes it easy to lead to new knowledge by building a web of interconnected ideas. Advantage that its fun to do and proceeds in simple, well-defined steps that are easy to make progress on. #Protocols
 
-- p5: The system can be seen as a cheat to being productive, doing meaningful, well-defined work is something that doesn't take will power. #Protocols #Rationality
+- p5: The system can be seen as a cheat to being productive, doing meaningful, well-defined work is something that doesn't take will power. #Protocols [[Rationality]]
 
 - p5: The well-defined structure of the system, allows you to focus on the content of your ideas, not on making sure you remembering to keep track of them.
 
@@ -97,7 +97,7 @@
 #MentalModels
 
 - p122: Critical to train ourselves to see subtle differences between apparently similar concepts, this is often how important breakthroughs begin.
-#Research  #MentalModels
+[[Research]]  #MentalModels
 
 - p142: Should be skeptical of any long-term planning esp when it focuses on outcomes and not the actual work that needs to be done.
 

@@ -62,11 +62,11 @@
 
 - Wise men talk because they have something to say, fools, because they have to say something. (Plato)
 
-#RespondDontReact
+[[RespondDontReact]]
 
 - I have often regretted my speech, never my silence.
 
-#RespondDontReact
+[[RespondDontReact]]
 
 - He that would like in peace and at ease, must not speak all he knows, nor judge all he sees.
 
@@ -119,7 +119,7 @@
 
 - We basically have the attitude that you cant make a good deal with a bad person. We dont try to protect ourselves by contracts or all kinds of due diligence - we just forget about it. We can do fine over time dealing with people we like and admire and trust.
 
-#DontLie #Ethics #Rules
+#DontLie #Ethics [[Rules]]
 
 - Two questions to ask yourself when making decisions:
   A) is it knowable ? B) is it important ? 

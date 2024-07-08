@@ -4,7 +4,7 @@
 
 - Given the financial crises, one wonders if macro economics is the domain of any economist.
 
-- Deliberate practice 3 key components: setting specific goals, obtaining immediate feedback, and concentrating as much on technique as on outcome. (#Rationality)
+- Deliberate practice 3 key components: setting specific goals, obtaining immediate feedback, and concentrating as much on technique as on outcome. ([[Rationality]])
 
 - Ambulances used to be run by local mortuary. Its hard to tin of a better example of misaligned incentives. 
 

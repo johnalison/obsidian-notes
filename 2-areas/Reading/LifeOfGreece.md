@@ -28,7 +28,7 @@
 
 - The gods are mortal, but piety is everlasting.
 
-  #Religion
+  [[Religion]]
 
 - Institutions may with impunity be altered or destroyed from above if their names are left unchanged.
 
@@ -119,7 +119,7 @@
 
 - Alexander won a military victory of the West over the East, but he died before he could realize that he had also made a pathway for the religious victory of the East over the West. 
 
-  #Religion [[History]]
+  [[Religion]] [[History]]
 
 - Mazzel-tov "May your planet be favorable". 
 
@@ -127,7 +127,7 @@
 
 - The Greeks offered The East philosophy, the East offered Greece religion; religion won because philosophy was a luxury for the few, religion was a consolation for the many. 
 
-  #Religion [[History]]
+  [[Religion]] [[History]]
 
 - "There is no more ready corrective of conduct than knowledge of the past it is history, and history alone, which without involving us in actual danger, will mature our judgment and prepare us to take the right views."  - Polybius
 

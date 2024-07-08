@@ -240,11 +240,11 @@
 
 - All in all, no more attractive religion has ever been presented to mankind. It offered itself without restriction to all individuals, classes and nations; it was not limited to one people, like Judaism, nor to the freeman of one state, like the official cults of Greece and Rome. Christianity announced the basic equality of men.
 
-#Religion
+[[Religion]]
 
 - To men and women imprisoned in the prose of poverty and toil it brought the poetry of the sacraments and the Mass, a ritual that made every major event of life a vital scene in the moving drama of God and man. Into the moral vacuum of a dying paganism, into the coldness of Stoicism and the corruption of Epicureanism, into a world sick of brutality, cruelty, oppression, and sexual chaos, into a pacified empire that seemed no longer to need the masculine virtues or the gods of war, it brought a new morality of brotherhood, kindliness, decency, and peace.
 
-#Religion
+[[Religion]]
 
 - We should misjudge the function of history -- which is to illuminate the present through the past -- were we to detail the varieties of religious belief that sought and failed to capture the growing Church.
 

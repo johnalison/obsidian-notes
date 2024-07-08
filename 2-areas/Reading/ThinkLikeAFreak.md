@@ -8,7 +8,7 @@
 
 - What it comes to solving problems, start by putting away your moral compass when consumed with the rightness or wrongness of issues can cloud thinking.
 
- #Rationality
+ [[Rationality]]
 
 - If you ask the wrong questions your are almost guaranteed to get the wrong answer.
 

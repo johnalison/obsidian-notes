@@ -24,11 +24,11 @@
 
 - When dealing with people we should remember that we are not dealing with creatures of logic. We are dealing with creatures of emotion, creatures bristling with prejudges and motivated by pride and vanity.  [[WhoWeAre]] #MentalModels
 
-- The secret of Benjamin Franklin's success: "I will speak ill of no man" #Rationality
+- The secret of Benjamin Franklin's success: "I will speak ill of no man" [[Rationality]]
 
-- Any fool can criticize, condemn, and complain -- and most fools do. It takes character and self-control to be understanding and forgiving. #Rationality #MentalModels
+- Any fool can criticize, condemn, and complain -- and most fools do. It takes character and self-control to be understanding and forgiving. [[Rationality]] #MentalModels
 
-- Instead of condemning people, try to understand them. Try to figure out why they do what they do. This is a lot more profitable and intriguing that criticism and it breeds sympathy, tolerance and kindness.  #Rationality #MentalModels
+- Instead of condemning people, try to understand them. Try to figure out why they do what they do. This is a lot more profitable and intriguing that criticism and it breeds sympathy, tolerance and kindness.  [[Rationality]] #MentalModels
 
 - There is only one way to get anybody to do anything: Make the other person want to do it. #MentalModels
 
@@ -38,42 +38,42 @@
 
 - I shall pass this way only once; any good, therefore that I can do or any kindness that I can show to any human being, let me do it now. Let me not defer nor neglect it, for I shall not pass this way again. #BeTheGood
 
-- Every man you meet is superior in some say,  In that, learn from him.  #MentalModels #Rationality #Montras 
+- Every man you meet is superior in some say,  In that, learn from him.  #MentalModels [[Rationality]] #Montras 
 
-- Cease thinking of your accomplishments, your wants. Try to figure out the other persons good points. Give honest, sincere appreciation. #Rationality
+- Cease thinking of your accomplishments, your wants. Try to figure out the other persons good points. Give honest, sincere appreciation. [[Rationality]]
 
-- When you go fishing, you dont think about what you want. You think about what the fish want!  #MentalModels #Rationality
+- When you go fishing, you dont think about what you want. You think about what the fish want!  #MentalModels [[Rationality]]
 
-- Why talk about what we want? That's childish. Absurd. Of course you are interested in what you want. You are eternally interested in it. But no one else is. The rest of us are just like you: we are interested in what we want.   #Rationality #MentalModels
+- Why talk about what we want? That's childish. Absurd. Of course you are interested in what you want. You are eternally interested in it. But no one else is. The rest of us are just like you: we are interested in what we want.   [[Rationality]] #MentalModels
 
 - The only way on earth to influence other people is to talk about what they want and show them how to get it. 
-    - The best piece of advice for would be persuaders: arouse in the other person an eager want. #Rationality #MentalModels
+    - The best piece of advice for would be persuaders: arouse in the other person an eager want. [[Rationality]] #MentalModels
     - Andrew Carnegie, learned early in life that the only way to influence people is to talk in terms of what the other person wants.
     - If you want to persuade someone to do something. Before you speak, pause and ask yourself: "How can I make this person want to do it?" 
-#Rationality #MentalModels
+[[Rationality]] #MentalModels
 
 
-- IF there is any one secret to success it lies in the ability to get the other persons point of view and see things from that person's angle as well as from your own. #MentalModels #Rationality
+- IF there is any one secret to success it lies in the ability to get the other persons point of view and see things from that person's angle as well as from your own. #MentalModels [[Rationality]]
 
-- The world is full of people who are grabbing and self seeking. So the rare individual who unselfishly tries to serve others has an enormous advantage. He has little competition. #Reliability
+- The world is full of people who are grabbing and self seeking. So the rare individual who unselfishly tries to serve others has an enormous advantage. He has little competition. [[Reliability]]
 
 - Most people go through college without discovering how their own minds function. #MentalModels
 
-- A dog is the only animal that doesn't have to work for a living. A dog makes his living by giving nothing but love. #Rationality
+- A dog is the only animal that doesn't have to work for a living. A dog makes his living by giving nothing but love. [[Rationality]]
 
-- You can make more friends in two months by becoming genuinely interested in other people than you can in two years by trying to get other people interested in you. #Rationality
+- You can make more friends in two months by becoming genuinely interested in other people than you can in two years by trying to get other people interested in you. [[Rationality]]
 
-- People are not interested in you. They are interested in themselves - morning, noon and night.  #MentalModels #Rationality
+- People are not interested in you. They are interested in themselves - morning, noon and night.  #MentalModels [[Rationality]]
 
-- It is the individual who is not interested in his fellow man who has the greatest difficulties in life and provides the greatest injury to others. It is from among such individuals that all human failures spring. #Rationality
+- It is the individual who is not interested in his fellow man who has the greatest difficulties in life and provides the greatest injury to others. It is from among such individuals that all human failures spring. [[Rationality]]
 
-- Actions speak louder than words, and a smile says "I like you. You make me happy. I am glad to see you" #Rationality
+- Actions speak louder than words, and a smile says "I like you. You make me happy. I am glad to see you" [[Rationality]]
 
-- People rarely succeed in anything unless they have fun doing it. #Advice  #Rationality
+- People rarely succeed in anything unless they have fun doing it. #Advice  [[Rationality]]
 
-- You must have a good time meeting people if you expect them to have a good time meeting you. #Advice #Rationality
+- You must have a good time meeting people if you expect them to have a good time meeting you. #Advice [[Rationality]]
 
-- I have also eliminated criticism from my system. I give appreciation and praise now instead of condemnation. I have stopped talking about what I want. I am now trying to see the other person's viewpoint. And these things have literally revolutionized my life. #Rules #Rationality #Advice
+- I have also eliminated criticism from my system. I give appreciation and praise now instead of condemnation. I have stopped talking about what I want. I am now trying to see the other person's viewpoint. And these things have literally revolutionized my life. [[Rules]] [[Rationality]] #Advice
 
 - Action seems to follow feeling, but really action and feeling go together; and by regulating the action, which is under the more direct control of the will, we can indirectly regulate the feeling, which is not. Thus the sovereign voluntary path to cheerfulness, if our cheerfulness be lost, is to sit up cheerfully and to act and speak as if cheerfulness were already there. #BeTheGood
 
@@ -96,7 +96,7 @@
     - And if in the last-minute rush of Christmas buying some of our salespeople should be too tired to give you a smile, may we ask you to leave one of yours?
     - For nobody needs a smile so much as those who have none left to give!
 
-- The average person is more interested in his or her own name than in all the other names on earth put together. Remember that name and call it easily, and you have paid a subtle and very effective compliment.  #Rationality
+- The average person is more interested in his or her own name than in all the other names on earth put together. Remember that name and call it easily, and you have paid a subtle and very effective compliment.  [[Rationality]]
 
 - Most people dont remember names, for the simple reason that they dont take the time and energy necessary to concentrate and repeat and fix names indelibly in their minds.
 
@@ -104,7 +104,7 @@
 
 - Remember that a persons name is to that person the sweetest and most important sounds in any language.
 
-- Few human beings are proof against the implied flattery of rapt attention. #Rationality
+- Few human beings are proof against the implied flattery of rapt attention. [[Rationality]]
 
 - Most people fail to make a favorable impression because they dont listen attentively. They have been so much concerned with what they are going to say next that they do not keep their ears open... Very important people have told me that they prefer good listeners to good talkers, but the ability to listen seems rarer than almost any other good trait. #Protocols
 
@@ -112,23 +112,23 @@
 
 - Those people who think only of themselves are hopelessly uneducated, no matter how instructed they may be. #Advice
 
-- If you aspire to be a good conversationalist, be an attentive listener. To be interesting, be interested. Ask questions that others people will enjoy answering. Encourage them to talk about themselves and their accomplishments. #Advice #Rationality
+- If you aspire to be a good conversationalist, be an attentive listener. To be interesting, be interested. Ask questions that others people will enjoy answering. Encourage them to talk about themselves and their accomplishments. #Advice [[Rationality]]
 
 - Remember that the people you are talking to are 100 times more interested in themselves and their wants and problems than they are in you and your problems.
 
-- Be a good listener. Encourage others to talk about themselves. #Rationality
+- Be a good listener. Encourage others to talk about themselves. [[Rationality]]
 
-- Talk in terms of the others persons interests.  #Rationality
+- Talk in terms of the others persons interests.  [[Rationality]]
 
-- Always make the other person feel important. #Rationality
+- Always make the other person feel important. [[Rationality]]
 
 - Talk to people about themselves and they will listen for hours. 
 
-- Make the other person feel important -- and do it sincerely. #Rationality #MentalModels
+- Make the other person feel important -- and do it sincerely. [[Rationality]] #MentalModels
 
-- Why prove to a man he is wrong ? Is that going to make him like you? Why not let him save his face? He didn't ask your opinion. He didn't want it. Why argue with him? Always avoid the acute angle. #Rationality
+- Why prove to a man he is wrong ? Is that going to make him like you? Why not let him save his face? He didn't ask your opinion. He didn't want it. Why argue with him? Always avoid the acute angle. [[Rationality]]
 
-- There is only one way to get the best of an argument and that is to avoid it.  #Rationality
+- There is only one way to get the best of an argument and that is to avoid it.  [[Rationality]]
   - 90% of the time an argument ends with each of the contestants more firmly convinced than ever that he is absolutely right.
   - A man convinced against his will, is of the same opinion still.
   - IF you argue and rankle and contradict, you may achieve a victory sometimes; but it will be an empty victory because you will never get you opponents good will. Which would you rather have an academic theatrical victory or a persons good will? You can seldom have both.
@@ -147,33 +147,33 @@
      - Postpone action to give both sides tome to think through the problem.
      - Look for truth or merit in your opponents position or argument.
 
-#MentalModels #Rationality #Checklists
+#MentalModels [[Rationality]] #Checklists
 
-- You can tell people they are wrong by a look or an intonation or a gesture just as eloquently as you can in words --   and if you tell them they are wrong, do you make them want to agree with you? Never! You have struck a direct blow to their intelligence, judgment, pride and self-respect. That will make them want to strike back. But it will never make them want to change their minds. #Rationality
+- You can tell people they are wrong by a look or an intonation or a gesture just as eloquently as you can in words --   and if you tell them they are wrong, do you make them want to agree with you? Never! You have struck a direct blow to their intelligence, judgment, pride and self-respect. That will make them want to strike back. But it will never make them want to change their minds. [[Rationality]]
 
-- Never begin by announcing "I am going to prove so-and-so to you." That's bad. That's tantamount to saying "I'm smarter than you are. I am going to tell you a thing or two and make you change your mind." #Rationality
+- Never begin by announcing "I am going to prove so-and-so to you." That's bad. That's tantamount to saying "I'm smarter than you are. I am going to tell you a thing or two and make you change your mind." [[Rationality]]
 
-- Its difficult, under even the most benign conditions, to change peoples minds. So why make it harder? Why handicap yourself?  If you are going to prove anything, dont let anybody know about it. Do it so subtly, so adroitly , that no one will feel that you are doing it. #Rationality
+- Its difficult, under even the most benign conditions, to change peoples minds. So why make it harder? Why handicap yourself?  If you are going to prove anything, dont let anybody know about it. Do it so subtly, so adroitly , that no one will feel that you are doing it. [[Rationality]]
   - Men must be taught as if you taught them not. And things unknown proposed as things forgot.
   - Be wiser than other people if you can; but do not tell them so.
 
 - Few people are logical. Most of us are prejudiced and biased. Most of us are blighted with preconceived notions, with jealousy, suspicion, fear, envy, and pride. #MentalModels
 
-- Our first reaction to most of the statements which we hear from other people is an evaluation or judgment, rather than an understanding of it. Very rarely do we permit ourselves to understand precisely what the meaning of the statement is to the other person. #Rationality
+- Our first reaction to most of the statements which we hear from other people is an evaluation or judgment, rather than an understanding of it. Very rarely do we permit ourselves to understand precisely what the meaning of the statement is to the other person. [[Rationality]]
 
-- I made it a rule to forbear all direct contradiction to the sentiment of others. I even forbade myself the use of every work or expression in the language that imported a fixed opinion, such as "certainly", "undoubtedly" etc. and I adopted instead of them "I conceive", "I apprehend", or "I imagine" a thing to be so or so, or "it appears to me at present" #Rules
+- I made it a rule to forbear all direct contradiction to the sentiment of others. I even forbade myself the use of every work or expression in the language that imported a fixed opinion, such as "certainly", "undoubtedly" etc. and I adopted instead of them "I conceive", "I apprehend", or "I imagine" a thing to be so or so, or "it appears to me at present" [[Rules]]
 
-- Show respect for the other persons opinions. Never say "You're wrong" #Rules
+- Show respect for the other persons opinions. Never say "You're wrong" [[Rules]]
 
-- If we know we are going to be rebuked anyhow, isn't it far better to beat the other person to it and do it ourselves? Isn't it much easier to listen to self-criticism than to bear condemnation from alien lips?  #Rationality
+- If we know we are going to be rebuked anyhow, isn't it far better to beat the other person to it and do it ourselves? Isn't it much easier to listen to self-criticism than to bear condemnation from alien lips?  [[Rationality]]
 
 - There is a certain degree of satisfaction in having the courage to admit ones errors. It not only clears the air of guilt and defensiveness, but often helps solve the problem created by the error.
 
 - By fighting you never get enough, but by yielding you get more than you expected. #Advice
 
-- If you are wrong, admit it quickly and emphatically. #Rules
+- If you are wrong, admit it quickly and emphatically. [[Rules]]
 
-- People dont want to change their minds. They cant be forced or driven to agree with you. But they may possibly be lead to. #Rationality
+- People dont want to change their minds. They cant be forced or driven to agree with you. But they may possibly be lead to. [[Rationality]]
 
 - Begin in a friendly way. #BeTheGood
 
@@ -221,4 +221,4 @@
 
 - Praise the things others do right, and minimize their errors. Be liberal with your encouragement, make the thing seem easy to do, let the other person know that you have faith in their ability to do it, that they have an undeveloped flair for it. #Leadership
 
-- Always make the other person happy about doing the thing you suggest.   #Rationality #Leadership
+- Always make the other person happy about doing the thing you suggest.   [[Rationality]] #Leadership

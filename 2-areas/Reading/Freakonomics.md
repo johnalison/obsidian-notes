@@ -30,4 +30,4 @@
 
 - To discover that abortion was one of the greatest crime-lowering factors in American history is jarring.
 
-- Be honest about your weaknesses. #Rationality 
+- Be honest about your weaknesses. [[Rationality]] 
