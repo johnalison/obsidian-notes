@@ -68,7 +68,7 @@
 
 - It is far from clear that we should be aiming at immortality, bliss and divinity. Adopting these particular projects might be a big mistake. But history is full of big mistakes. Given our past record and current values, we are likely to reach out for bliss, divinity and immortality -- even if it kills us. [[WhoWeAre]] [[Religion]] [[NowIsDifferent]]
 
-- Some complex systems are oblivious to our predictions. The process of human development, in contrast, reacts to them. The better our forecasts, the more reactions they engender. Hence paradoxically, as we accumulate more data and increase our computing power, event become wilder and more unexpected. The more we know the less we can predict. [[Prediction]] #Chaos #Complexity
+- Some complex systems are oblivious to our predictions. The process of human development, in contrast, reacts to them. The better our forecasts, the more reactions they engender. Hence paradoxically, as we accumulate more data and increase our computing power, event become wilder and more unexpected. The more we know the less we can predict. [[Prediction]] [[Chaos]] [[Complexity]]
 
 - The paradox of historical knowledge. Knowledge that does not change behavior is useless. But knowledge that changes behavior quickly loses relevance. Centuries ago human knowledge increased slowly, so politics and economics changed at a leisurely pace too. (In 1016 it was relatively easy to predict ow Europe would look in 1050, In contrast we have no idea how Europe will look in 2050).
 
@@ -80,7 +80,7 @@
 
 - Studying history aims to loosen the grip of the past. By observing the accidental chain of events that led us here, we realize how our very thoughts and dreams took shape -- and we can begin to think and dream differently. Studying history will not tell us what to choose, but at least it gives us more options. [[History]]
 
-- The idea of nurturing a lawn at the entrance to private residences and public buildings was born in the castles of French and English aristocrats in the late Middle Ages. In the early modern age this habit struck deep roots, and became the trademark of nobility. Well-kept lawns demanded land and a lot of work, in exchange they produced nothing. Poor peasants could not afford wasting precious land or time on lawns. The neat turf at the entrance to a chateaux was accordingly a status symbol nobody could fake. [[ProofOfWork]] #Crypto
+- The idea of nurturing a lawn at the entrance to private residences and public buildings was born in the castles of French and English aristocrats in the late Middle Ages. In the early modern age this habit struck deep roots, and became the trademark of nobility. Well-kept lawns demanded land and a lot of work, in exchange they produced nothing. Poor peasants could not afford wasting precious land or time on lawns. The neat turf at the entrance to a chateaux was accordingly a status symbol nobody could fake. [[ProofOfWork]] [[Crypto]]
 
 - Predicting that humankind will try to gain immortality, bliss and divinity is much like predicting that people building a house will want a lawn in their front yard. It sounds very likely. But once you say it out loud you begin to think about alternatives.
 
@@ -110,17 +110,17 @@
 
 - During the agriculture revolution humankind silenced animals and plants, and turned the animist grand opera into a dialogue between man and gods. During the Scientific Revolution humankind silenced the gods too. The world was now a one man show. Humankind stood alone on an empty stage, talking to itself, negotiating with no one and acquiring enormous powers without any obligations. [[History]] [[Religion]] [[Science]] [[NowIsDifferent]]
 
-- The stream of consciousness is the concrete reality we directly witness every moment. It is the surest thing in the world. You cannot doubt its existence. #Consciousness #Buddhism
+- The stream of consciousness is the concrete reality we directly witness every moment. It is the surest thing in the world. You cannot doubt its existence. [[Consciousness]] #Buddhism
 
-- Every subjective experience has two fundamental characteristics: sensation and desire. #Buddhism #Consciousness
+- Every subjective experience has two fundamental characteristics: sensation and desire. #Buddhism [[Consciousness]]
 
-- Scientists dont know how a collection of electrical brain signals creates subjective experiences. Even more crucially, they dont know what could be the evolutionary benefit of such a phenomenon. Ironically the better we map the brain, the harder it becomes to explain conscious feelings, the more redundant the mind seems. IF the entire system works by passing electrical signals from here to there, why the hell do we also need to feel fear ? #Consciousness [[Paradox]]
+- Scientists dont know how a collection of electrical brain signals creates subjective experiences. Even more crucially, they dont know what could be the evolutionary benefit of such a phenomenon. Ironically the better we map the brain, the harder it becomes to explain conscious feelings, the more redundant the mind seems. IF the entire system works by passing electrical signals from here to there, why the hell do we also need to feel fear ? [[Consciousness]] [[Paradox]]
 
-- If we cannot explain the mind and if we dont know what function it fulfills, why not just discard it? [[Questions]] #Consciousness
+- If we cannot explain the mind and if we dont know what function it fulfills, why not just discard it? [[Questions]] [[Consciousness]]
 
-- Everything a human does -- including reporting on allegedly conscious states -- might in theory be the work of non-conscious algorithms. #Consciousness
+- Everything a human does -- including reporting on allegedly conscious states -- might in theory be the work of non-conscious algorithms. [[Consciousness]]
 
-- If cooperation is the key, how come the ants and bees did not beat us to the nuclear bomb even though they learned to cooperate en mass millions of years before us? Because their cooperation lacks flexibility. [[Paradox]] [[WhoWeAre]] #Consciousness
+- If cooperation is the key, how come the ants and bees did not beat us to the nuclear bomb even though they learned to cooperate en mass millions of years before us? Because their cooperation lacks flexibility. [[Paradox]] [[WhoWeAre]] [[Consciousness]]
 
 - The Russian revolution finally erupted now when 180 million peasants rose against the Tsar, but rather when a handful of communist placed themselves at the right place at the right time. [[History]]
 
@@ -233,9 +233,9 @@
 
 - In the 20C liberals explained that we dont have to choose between ethics and economics. Protecting human rights and liberties waas both a more imperative and theh key to economic growth. In the 21C liberalism will have a much harder time selling itself. [[Politics]]
 
-- There might be several alternative ways leaading to super-intelligence, only some of which pass through the straits of consciousness. #AI #Consciousness
+- There might be several alternative ways leaading to super-intelligence, only some of which pass through the straits of consciousness. #AI [[Consciousness]]
 
-- This raises a novel question: which of the two is really important, intelligence or consciousness ? As long as they went hand in hand, debating thier relative value was just an amusing pastime for philosophers. But in the 21C this is becoming an urgent political and economic issue. For armies and corporations, the answer is straightforward: intelligence is mandatory but consciousness is optional. #AI #Consciousness
+- This raises a novel question: which of the two is really important, intelligence or consciousness ? As long as they went hand in hand, debating thier relative value was just an amusing pastime for philosophers. But in the 21C this is becoming an urgent political and economic issue. For armies and corporations, the answer is straightforward: intelligence is mandatory but consciousness is optional. #AI [[Consciousness]]
 
 - We should remind ourselves of the fate of horses during the Industrial Revolution. An ordinary farm horse can small, love, recognize faces, jump over fences and do a thousand other things far better than a Model T or a Lamborghini. But cars nevertheless replaced horses b/c they were superior in the handful of tasks that the system really needed. Taxi drivers are likely to go the way of the horses. #AI
 

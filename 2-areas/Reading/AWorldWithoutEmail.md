@@ -36,7 +36,7 @@
 
 - Workflows should not be left to individuals to figure out on their own, as the most effective systems are unlikely to arise naturally. [[SystemsNotGoals]]
 
-- Minimize mid-task context switching and minimize the sense of communication overload. #Checklists [[MentalModels]]
+- Minimize mid-task context switching and minimize the sense of communication overload. [[Checklists]] [[MentalModels]]
 
 - In knowledge work, "Innovation" applies to the products we produce, but not the means by which we produce them.
 

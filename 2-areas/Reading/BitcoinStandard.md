@@ -126,7 +126,7 @@
 
   Bitcoin has the upsides of both with out the disadvantages.
 
-  #Crypto
+  [[Crypto]]
 
 - As more transactions take place at a distance (eg: over the internet) physical cash transactions become impractical
 

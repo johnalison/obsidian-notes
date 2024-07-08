@@ -103,13 +103,13 @@
 
 - Almost all linguists agree with Noam Chomsky that there is a "deep structure" that is universal to all languages and that is programmed into th e brain rather than learned.
 
-- Philosophers assume that intelligence and consciousness have obvious advantages and get on with the serious debate about what consciousness is. Before the 1970s there was very little evidence that any of them had even posed the obvious evolutionary question: Why is intelligence a good thing ? (#Consciousness)
+- Philosophers assume that intelligence and consciousness have obvious advantages and get on with the serious debate about what consciousness is. Before the 1970s there was very little evidence that any of them had even posed the obvious evolutionary question: Why is intelligence a good thing ? ([[Consciousness]])
 
-- The things of which we are conscious are mostly the mental events that concern social actions. Consciousness operates on a "need to know" policy. (#Consciousness)
+- The things of which we are conscious are mostly the mental events that concern social actions. Consciousness operates on a "need to know" policy. ([[Consciousness]])
 
-- No conversation between people who know each other well ever lingers for long on any topic other than the behavior, ambitions, motives, frailties and affairs of other members of the group. (#Consciousness)
+- No conversation between people who know each other well ever lingers for long on any topic other than the behavior, ambitions, motives, frailties and affairs of other members of the group. ([[Consciousness]])
 
-- The human mind may not be much suited to logic at all, but it is well suited to judging the fairness of social bargains and the sincerity of social offers. (#Consciousness)
+- The human mind may not be much suited to logic at all, but it is well suited to judging the fairness of social bargains and the sincerity of social offers. ([[Consciousness]])
 
 - The neocortex is largely a courtship device to attract and retain sexual mates: Its specific evolutionary function is to stimulate and entertain other people, and to assess the stimulation attempts of others.
 

@@ -25,7 +25,7 @@
 
 - "It is not unreasonable to hope that when the objective correlatives to consciousness have been explained, somewhere in our explanations will be something that that we recognize something that corresponds to our experience of consciousness itself. 
 
-#Consciousness
+[[Consciousness]]
 
 - Something is real when the thing must be taken seriously b/c it can affect us in ways that are not entirely in our control and b/c we cannot learn about it without making an effort that goes beyond our own imagination.
 

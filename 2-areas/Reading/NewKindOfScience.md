@@ -39,7 +39,7 @@
 
 - A universal system means that by setting up an appropriate initial condition, it is possible to get the system to emulate any type of behavior that can occur in any other system.
 
-  #Computers
+  [[Computers]]
 
 - In the past it was assumed that universality is a rare and special quality, only possessed by systems that are specifically constructed to have it. Universality is a much more widespread phenomena.
 

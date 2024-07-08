@@ -14,7 +14,7 @@
 
 - Regard this as a working handbook on human relations; and whenever you are confronted with some specific problem hesitate about doing the natural thing, the impulsive thing. This is usually wrong.
 
-- What to ask yourself each day: "What mistakes did I make ?" "What did I do that was right -- and in what way could I have improved my performance ?" "What lessons can I learn from that experience?" [[Questions]] #Checklists
+- What to ask yourself each day: "What mistakes did I make ?" "What did I do that was right -- and in what way could I have improved my performance ?" "What lessons can I learn from that experience?" [[Questions]] [[Checklists]]
 
 - The resentment that criticism engenders can demoralize employees, family members and friends, and still not correct the situation that has been condemn. [[Leadership]] 
 
@@ -34,7 +34,7 @@
 
 - "I consider my ability to arouse enthusiasm among my people the greatest asset I possess, and the way to develop the best that is in a person is by appreciation and encouragement. -- Charles Schwab 
 
-- Be anxious to praise, loath to find fault. If you like anything "Be hearty in your approbation and lavish in your praise" #Checklists
+- Be anxious to praise, loath to find fault. If you like anything "Be hearty in your approbation and lavish in your praise" [[Checklists]]
 
 - I shall pass this way only once; any good, therefore that I can do or any kindness that I can show to any human being, let me do it now. Let me not defer nor neglect it, for I shall not pass this way again. #BeTheGood
 
@@ -147,7 +147,7 @@
      - Postpone action to give both sides tome to think through the problem.
      - Look for truth or merit in your opponents position or argument.
 
-[[MentalModels]] [[Rationality]] #Checklists
+[[MentalModels]] [[Rationality]] [[Checklists]]
 
 - You can tell people they are wrong by a look or an intonation or a gesture just as eloquently as you can in words --   and if you tell them they are wrong, do you make them want to agree with you? Never! You have struck a direct blow to their intelligence, judgment, pride and self-respect. That will make them want to strike back. But it will never make them want to change their minds. [[Rationality]]
 

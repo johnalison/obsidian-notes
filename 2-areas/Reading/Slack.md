@@ -26,7 +26,7 @@
 
 - Slack is the way you invest in change. It represents operational capacity sacrificed in the interests of long-term health.
 
-  #Complexity 
+  [[Complexity]] 
 
 - The present value of the figure revenue is almost always much greater than the cost this year -- This is why you invest in R&D! A penny saved from any kind of investment is never an penny earned.
 

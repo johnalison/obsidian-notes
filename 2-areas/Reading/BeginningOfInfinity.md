@@ -258,7 +258,7 @@
     Before the jump there are specialized tools for each use case
     After the jump once customizes (or specializes or programs) a universal object
 
-#AI #Complexity #Computers 
+#AI [[Complexity]] [[Computers]] 
 
 - There is more of a reason to model the brain as a computer then as a steam engine:
   A computer, but not a steam engine, is a universal simulator.
@@ -350,11 +350,11 @@
 
   All mathematical truth is absolutely necessary and transcendent, but all knowledge is generate by physical properties, and its scope and limitations are conditioned by the laws of nature.
 
-  #ConnectionOfMathAndPhysics 
+  [[ConnectionOfMathAndPhysics]] 
 
 - A computation or proof is a physical process in which objects (computers or brains) physically model or instantiate abstract entities (numbers or equations) and mimic their properties. This is our window on the abstract. Every mathematical proof depends on our knowing the rules that govern these physical objects. Contrary to what most mathematicians believe,  proof theory can never be made into a branch of mathematics, it is a science (computer science) 
 
-#ConnectionOfMathAndPhysics 
+[[ConnectionOfMathAndPhysics]] 
 
 - The point of mathematics is to understand  (explain) abstract entities. Proof is like observation in science, mainly a way of ruling out false explanations.  Mathematics (like all fields) does not seek random truths but good explanations.  The motivation for seeking a perfectly secure foundation is mistaken, a form of justificationism.
 
@@ -390,7 +390,7 @@
 
 - Computation: a physical process that instantiates the properties of some abstract entity.
 
-#Computers
+[[Computers]]
 
 - The property of infinite sequences is that every element is exceptionally close to the beginning.
 

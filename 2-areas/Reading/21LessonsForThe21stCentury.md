@@ -40,7 +40,7 @@
 
 - Feelings are biochemical mechanisms that all mammals and birds use in order to quickly calculate probabilities of survival and reproduction. Feels are therefore not the opposite of rationality, they embody evolutionary rationality. [[MentalModels]] [[Rationality]]
 
-- We dont feel the millions of neurons in the brain computing probabilities of survival and reproduction, so we erroneously believe that our feelings are the result of some mysterious "free will". [[FreeWill]] #Consciousness
+- We dont feel the millions of neurons in the brain computing probabilities of survival and reproduction, so we erroneously believe that our feelings are the result of some mysterious "free will". [[FreeWill]] [[Consciousness]]
 
 - For all practical purposes, it was reasonable to argue that I have free will, which nobody outside of me could see. I could enjoy the illusion that I controlled my secret inner arena, while outsiders could never really understand what was happening inside me and how I make decisions. [[FreeWill]] #AI
 

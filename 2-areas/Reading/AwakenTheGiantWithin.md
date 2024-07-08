@@ -10,7 +10,7 @@
 
 - Most people overestimate what they can do in a year, and underestimate what they can achieve in a decade.
 
-- 3 decisions that shape your destiny: What to focus on. / What things mean to you. / What to do. [[Questions]] #Checklists [[MentalModels]]
+- 3 decisions that shape your destiny: What to focus on. / What things mean to you. / What to do. [[Questions]] [[Checklists]] [[MentalModels]]
 
 - Success truly is the result of good judgment. Good judgment is the result of experience, and experience is the result of bad judgment. 
 
