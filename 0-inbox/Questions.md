@@ -1,0 +1,75 @@
+# Questions
+- Are the pleasures I'm chasing actually worth it?
+- Am I certain what I want to say isn't better left unsaid?
+- Why get angry at things if anger doesn't change it?
+- Why am I telling myself that I've been harmed?
+- Will I even remember this fight in a few months?
+- Why do I need to care that someone else screwed up?
+- How can I cultivate inference of unimportant things?
+- How often do I question things others take for granted?
+- Do I see and access myself accurately ?
+- Am I standing with the philosopher or the mob?
+- How many of my limitations are really self-imposed?
+- Do I really need these things I work so hard for?
+- Where am I a loud mouth?
+- Who is my role model? Why?
+- Where have I traded away freedom ? How can I get it back?
+- What would change if I looked for other peoples good intentions?
+- Instead of calling it bad luck, can I come to see it as inevitable?
+- What would it be like if I focused entirely on the present moment?
+- Do I appreciate this mind I have been given?
+- Are my choices beautiful?
+- What bad assumptions can I cast out?
+- What is the real cause of my irritations - external or my opinions ?
+- Am I cultivating the virtue that makes adversity bearable?
+- Have I confused schooling and EDUCATION?
+- How can I treat my greedy vices? how can I heal my sickness?
+- What philosophical lessons can I find in ordinary things?
+- What am I learning ?
+- What do I want to learn more about ?
+- What has X taught me/inspired me to learn?
+- How to be more dependable ?
+- How to do more glimpses ?
+- How to help SMH ?
+- How to want less ?
+
+- What things are truly in my control ?
+- What am I learning and studying for ?
+- What can I say no to so I can say yes to things that matter?
+- Am I seeing clearly ? Acting generously? Accepting what I cant change ?
+- What is my purpose in life?
+- Who am I and what do I stand for ?
+- How can I keep my mind clear from pollution?
+- What am I addicted to?
+- If I dont control what happens to me, what is left?
+- Where can I find steadiness ?
+- What are sources of unsteadiness in my life?
+- Where is the path to serenity ?
+- What can I put outside my circle of control?
+- What jerks me around ?
+- Am I doing work that matters ?
+- Can I find grace and harmony in places others overlooked?
+- Good or bad, high or low, do I still have choices?
+- How can I rekindle my principles and start living today ?
+- What am I getting out of my journalling ritual?
+- What do I truly prize?
+- What is my mantra today ?
+- What am I studying, practicing, and training ?
+- What ruler do I measure myself against?
+- Am I keeping a sturdy mind on the task at hand?
+- Am I content to be clueless about things that dont matter?
+- Am I in control? or is my anxiety ?
+- Am I cultivating the invincibility of my power to choose?
+- Am I thinking before I act ?
+- What needless conflict can I avoid?
+- Do my outbursts ever make things better ?
+- What if I didn't have an opinion about this?
+- What parts of my life are driven by anger?
+- IS my soul a good ruler or a tyrant?
+- For what have I sold my piece of mind ?
+- Which of my pleasures are really punishments?
+- Do these strong emotions even make sense?
+- What am I making harder than it needs to be ?
+- What happiness am I putting off that I could have right now?
+- Am I rigorous in training against false impressions?
+- Am I happy with my position at the banquet of life?
