@@ -1,0 +1,11 @@
+## Ten Discoveries that Rewrote History (Patrick Hunt)
+ - Rosetta Stone - key to Egyptian writing: hieroglyphs
+ - Troy - Discipline of archaeology started here. Soil and whats in it also can be read like books. Established truth behind Homeric poems.
+ - Nineveh Library - Collection of 20k tablets form 1st military empire: Assyrians. Known for cruelty. Capital city burned. 
+ - Machu Picchu - Spectacular natural beauty. Hidden city of Incas Peru. 
+ - King tuts tomb - Superstar in modern world, barely relevant to ancient Egypt. Riches in minor tomb staggering even to modern standards. 
+ - Pompeii - Eyewitness record of eruption. City well-preserved, mid existence. Tells us much about ancient Roman life. ("More Important than Rome")
+ - Dead Sea Scrolls - Oldest biblical documents. Odd history of being kept from public.
+ - Thera - Possibly Atlantis. Minoan island that different volcanic eruption.
+ - Olduvai gorge - The key to human evolution. Most distant human relatives
+ - Tomb of 10k warriors - Key to understanding how China unified. 

@@ -1,0 +1,19 @@
+## Bullet Journal Method
+  - Very good idea
+  - Like the idea of documenting my life
+  - From nurse at a hospice center: The number one regret was that people wished they had stayed true to themselves
+  - View BuJo as a living autobiography
+  - Can track the decisions you've made, the actions that led you to where you are now. Can learn from experiences.
+  - The long way is the short way.
+  - True efficiency is not about speed, its about spending more time with what truly matters.
+  - Our memories are unreliable.
+  - The more content you try to capture during a meeting the less your thinking about whats being said. You burn through most of you attention trying to parrot the source.
+  - (re: meetings) Sit for a while and give yourself a moment to process what you heard
+  - When making notes: keep your future self in mind.
+  - For everything you say yes to, your saying no to something else. Yes means work, sacrifice, time, and opportunity cost.
+  - Organization can become a cleverly disguised form of distraction.
+  - "It is not daily increase, but daily decrease. Hack away the inessential" Bruce Lee
+  - (re: social media) "Exploiting vulnerability in human psychology is the bread and butter of our economy" -founding member of facebook
+  - Endurance often proves to be the most cunning and lethal adversary.
+  - If your goal in life is to be useful to others, start by figuring out how to be useful to yourself.
+  - Add notes about social engagements: have fun ? What did you learn ? How did you feel when you where with them ? (Objective measures)

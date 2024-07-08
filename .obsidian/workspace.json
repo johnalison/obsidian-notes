@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/chaos-determinism-and-real-numbers.md",
+                "file": "2-areas/Reading/WavesInImpossibleSea.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/Problem with market cap.md",
+                "file": "2-areas/Reading/21LessonsForThe21stCentury.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "f3053f0c3dcac766",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/Problem with market cap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +122,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/Problem with market cap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +143,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "0-inbox/Problem with market cap.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -159,45 +163,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "14811df6a230cc49",
+  "active": "f3053f0c3dcac766",
   "lastOpenFiles": [
-    "2-areas/Reading",
-    "0-inbox/PARA.md",
-    "0-inbox/index.md",
-    "0-inbox/Determinsm.md",
+    "2-areas/Reading/21LessonsForThe21stCentury.md",
+    "2-areas/Reading/WavesInImpossibleSea.md",
+    "0-inbox/Books.md",
     "0-inbox/chaos-determinism-and-real-numbers.md",
-    "2-areas/Physics/S-factors-for-HH-Analyses.md",
-    "2-areas/Physics",
-    "0-inbox/Determinism-Map-vs-Territory.md",
-    "0-inbox/Things-To-Add-To-Notes.md",
-    "0-inbox/Clean-up github and gitlab.md",
-    "0-inbox/2024-07-08.md",
-    "Untitled.canvas",
-    "2-areas/Philosophy/Learn-from-others-mistakes.md",
-    "3-resources/computing/AWK-examples.md",
-    "2-areas/Philosophy/Working-Philosophy.md",
-    "2-areas/Philosophy",
-    "3-resources/Obsidian/Obsidian-Intro.md",
-    "0-inbox/Proving-the-word-deterministic.md",
-    "Welcome.md",
-    "0-inbox/Teachers vs Experts.md",
-    "0-inbox/Independence or Primacy of Thermodynamics.md",
+    "2-areas/Reading/FooledByRandomness.md",
+    "0-inbox/[.md",
+    "0-inbox/#Books.md#",
+    "2-areas/Reading/12RuleForLife.md",
+    "2-areas/Reading/Antifragile.md",
     "0-inbox/Problem with market cap.md",
-    "0-inbox/Obsidian-Intro.md",
-    "0-inbox/Ideas-for-emacs-Obsidian.md",
-    "3-resources/computing/SED Examples.md",
-    "3-resources/computing/SetupPy3VirtualEnv_CompileROOT_EnergyFlowCode.md",
-    "3-resources/computing/PSC  for ML.md",
-    "3-resources/computing/Docker.md",
-    "3-resources/computing/RenewGridCert.md",
+    "2-areas/Reading/ZenAndMotorcycleMaintenance.md",
+    "2-areas/Reading/WritingGNUEmacsExtensions.md",
+    "2-areas/Reading/WhyBuddhismIsTrue.md",
+    "2-areas/Reading/WhoOwnsTheFuture.md",
+    "2-areas/Reading/WhatsOurProblem.md",
+    "2-areas/Reading/WakingUp.md",
+    "2-areas/Reading/WakeUpNow.md",
+    "2-areas/Reading/Viral.md",
+    "2-areas/Reading/Titan.md",
+    "2-areas/Reading/TimeManagementForTeachers.md",
+    "2-areas/Reading/ThisIsWater.md",
+    "2-areas/Reading/ThirdThoughts.md",
+    "2-areas/Reading/ThinkingCourse.md",
+    "2-areas/Reading/ThinkingAboutMath.md",
+    "2-areas/Reading/ThinkLikeAFreak.md",
+    "2-areas/Reading/TheWorldWithoutUs.md",
+    "2-areas/Reading/TheThirdChimpanzee.md",
+    "2-areas/Reading",
+    "2-areas/Physics",
+    "Untitled.canvas",
+    "2-areas/Philosophy",
     "3-resources/computing",
     "3-resources/ROOT",
     "3-resources/emacs",
     "3-resources/MAC",
     "2-areas/emacs",
     "2-areas/CMS",
-    "2-areas/HGC",
-    "3-resources/Obsidian",
     "Pasted image 20240707142114.png"
   ]
 }

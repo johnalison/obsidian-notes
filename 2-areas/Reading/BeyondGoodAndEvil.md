@@ -1,0 +1,14 @@
+## Beyond Good and Evil
+  - Wasn't doing it for me (Bailed halfway through)
+  - Could tell (got the feeling) that it was interesting to the cognoscenti
+  - But too much over my head.
+  - "Christianity is Platonism for the people"
+  - Critique of " I think therefore I am" a thought comes when it wants, not when I want it to.
+  - It is not the worst things of which one is most ashamed.
+  - He who attains his ideal by that very fact transcends it.
+  - There are no moral phenomena, only moral interpretations of phenomena
+  - To make someone interested in you: pretend to be embarrassed in their presence.
+  - The will to overcome an emotion is ultimately the will of another emotion.
+  - He who fights monsters should be careful he doesn't become one. When you gaze long into an abyss the abyss gazes into you.
+  - Madness is rare in individuals, but in groups, parties, peoples it is the norm.
+  - Ultimately one loves ones desires and not that which is desired.

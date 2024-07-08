@@ -1,0 +1,31 @@
+## Hacking Darwin (Metzl) 
+  - Average. Good start, very repetitive, lot of fluff (could have been 1/2 as long) 
+  - 3.8B years ago single cell organisms emerged.
+  - Sex invented 1.3B years ago (accelerated evolution) 
+  - Claim: Now the principles of Darwinian evolution are evolving 
+  - Will soon see conception through sex as unnecessarily dangerous
+  - Humans have about 21k genes, 3.2B base pairs
+  - epigenetics regulates how our DNA is expressed
+  - "Worlds most valuable resource no longer oil, but data"
+  - Generalized Medicine (based on population averages) will be seen to be the equivalent of leaches. 
+  - Wont need complete understanding (of healthcare or genetics) to deploy growing knowledge w/confidence.
+  - 500B sperm cells for men vs 400 total eggs for women. 
+  - sperm and eggs have been generate from skin cells and used to give birth to healthy mice. 
+  - Scientists already viable offspring from two male mice. 
+  - Wild chicken: 1egg/ month  Domesticated 30/month (Only 8k years to change without "Bio Tech")
+  - Most cells in your body turn over every two years (on average) 
+  - 28 years for humans to pass a generation 6 months for chickens
+  - Breeding preimplented embryos with each other can accelerate the turn over in humanss. 
+  - Arctic apples can be sliced and left out with out browning b/c scientists have used CRISPER to silence genes controlling browning
+  - 37 genes are in the mitochondria. 
+  - Aging is probably a combination of many different systems in the body all decaying at different rates
+  - Aging is the leading cause of death among humans (diseases that kill us most are from aging. Curing any one will not help much) 
+  - Eliminating cancer will buy us 3 years
+  - "I've only had one wrinkle in my life, and I'm sitting on it" - Jean Calment (122) 
+  - Lifestyle choices significantly impact the epigenetic instructions 
+  - "Nature is clumsy, wasteful, blundering, low, and horribly cruel" - Darwin
+  - We will never have perfect knowledge of the genome just like we never had perfect knowledge of fire before we started harnessing it, cancer before we started treating it,  or domesticated crops before we started eating them
+  - Optimism and hubris is built into our operating systems 
+  - Bostrom's "Reversal Test" - If some people feel that making a change in one direction is bad, they should articulate why doing the opposite (actively) would be justified. 
+  - Eugenics 60k Americans were sterilized without acquiescence / Nazis did 400k Germans
+  - Diversity has been and remains sole survival strategy of our species
