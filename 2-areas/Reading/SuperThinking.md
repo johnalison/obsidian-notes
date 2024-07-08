@@ -18,7 +18,7 @@
    This model is powerful b.c it forces you to be patient. By delaying decision making you avoid confirmation bias since you haven't yet made a decision to confirm.
    Need to employ this one more.  Dont jump to conclusions.  Employ "the middle way"
 
-  #MentalModels #Protocols
+  #MentalModels [[Protocols]]
 
 - Devils advocate: This was once an official in position the Catholic Church used during the process of canonizing people as saints. If someone is canonized, the decision is eternal, so it was critical to get it right.
 

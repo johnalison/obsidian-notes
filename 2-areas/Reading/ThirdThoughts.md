@@ -29,7 +29,7 @@
 
 - Free will is nothing other than the conscious experience of deciding what to do. This experience is not invalidated by the reflection that physical laws made it inevitable that I would want to make these decisions. #FreeWill
 
-- So we had a double mystery, What causes the observed violation of the eight-fold way symmetry and of mirror symmetry and matter-anti-matter symmetry? Theorists offered several possible answers, this turned out to be the wrong question to ask. It turned out that the SM obeys certain symmetries that are accidental, in the sense that they are not exact local symmetries on which the SM is based, they are automatic consequences of the SM.  Instead of asking what breaks mirror symmetry we should have been asking why there should be any mirror symmetry or matter-antimatter symmetry at all. #PhilosophyOfPhysics
+- So we had a double mystery, What causes the observed violation of the eight-fold way symmetry and of mirror symmetry and matter-anti-matter symmetry? Theorists offered several possible answers, this turned out to be the wrong question to ask. It turned out that the SM obeys certain symmetries that are accidental, in the sense that they are not exact local symmetries on which the SM is based, they are automatic consequences of the SM.  Instead of asking what breaks mirror symmetry we should have been asking why there should be any mirror symmetry or matter-antimatter symmetry at all. [[PhilosophyOfPhysics]]
 
 - If protons do decay, the universe will eventually contain only electrons and lighter particles like neutrinos and photons. Matter as we know it will be gone.
 
@@ -40,7 +40,7 @@
 - The trouble with QM is not that it involves probabilities. The trouble is that in QM the way that wave functions change with time is governed by an equation, that does not involve probabilities.
   If we regard the whole process of measurement as being governed by the equations of QM, and these equations are perfectly deterministic, how do probabilities get into QM? [[QM]]
 
-- The special treatment of investment income should be eliminated. It distorts the balance between consumption and investment, a balance that ought to be set (at least according to the economic philosophy of conservatives) by free market forces. In the present state of our economy, it is consumers that are the real job creators. #Politics
+- The special treatment of investment income should be eliminated. It distorts the balance between consumption and investment, a balance that ought to be set (at least according to the economic philosophy of conservatives) by free market forces. In the present state of our economy, it is consumers that are the real job creators. [[Politics]]
 
 - The real challenge in gaining independence of earth, is not getting people to Mars, but freeing them from the need of support form Earth, we would start with Antarctica.
 

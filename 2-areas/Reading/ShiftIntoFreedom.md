@@ -85,7 +85,7 @@
 
 - Instead of saying "I am sad" take a breath and say, "I feel sadness". Notice the shift from "I am" to "I feel". Then shift to "I am aware of feeling sadness".
 
-  #Protocols
+  [[Protocols]]
 
 - Self-awareness is one of the highest human developments, yet in some ways this gift also limits our growth and development.
 

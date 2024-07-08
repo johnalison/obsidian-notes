@@ -8,7 +8,7 @@
   We must take them seriously as EXPLANATIONS of the world.
   We can reach the greatest understanding by taking them together.
 
-  #Physics #Philosophy
+  [[Physics]] [[Philosophy]]
 
 - Seems odd that this view point should be in anyway controversial, yet in practice it is. Each of these theories, when taken seriously, have very counter-intuitive implications
   All sorts of attempts have been made to avoid these implications (eg; ad hoc modifications or interpretations of the theories, or arbitrarily narrowing the domain of applicability) or using them only as a tool for prediction not as an explanation. This book is an investigation of what reality would look like if they were true.

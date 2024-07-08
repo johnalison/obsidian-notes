@@ -28,7 +28,7 @@
 
 - Men are more easily ruled by imagination than by science.
 
-  #Politics [[Science]]
+  [[Politics]] [[Science]]
 
 - Civilization is an accumulation, a treasure-house of arts and wisdom, manners and moral , from which the individual, in his development, draws nourishment for his mental life. It owes its life to education.
 
@@ -104,7 +104,7 @@
 
 - A nation is born stoic, and dies epicurean. At its cradle religion stands, and philosophy accompanies it to the grave.
 
-   [[Stoicism]] [[Religion]] #Philosophy #Epicurean
+   [[Stoicism]] [[Religion]] [[Philosophy]] #Epicurean
 
 - Evil does not destroy faith, but strengthens it.
 
@@ -159,7 +159,7 @@
 
 - Upanishads are the oldest extant philosophy and psychology of our race; the surprisingly subtle and patient effort of man to understand the mind and the world, and their relation. The Upanishads are as old as Homer, and as modern as Kant.
 
-  #Buddhism #Philosophy
+  #Buddhism [[Philosophy]]
 
 - The essences of ourselves is not the body, or the mind, or the individual ego, but the silent and formless depth of being with us, Atman.
 
@@ -198,7 +198,7 @@
 - The Mohammedan conquest of India is probably the bloodiest story in history. It is a discouraging tale, for its evident moral is that civilization is a precarious thing, whose delicate complex of order and liberty, culture and peace may at any time be overthrown by barbarians invading from without or multiplying from within. For 400 years (600- 1000 AD) India invited conquest; and at last it came. 
   The invaders were armed with a religion militaristic in operation, but far superior in its stoical monotheism to any of the popular cults of India.
   The bitter lesson that may be drawn from this tragedy is that eternal vigilance is the price of civilization. A nation must love peace, but keep its power dry.
-  #Politics  #KeepYourPowderDry
+  [[Politics]]  #KeepYourPowderDry
 
 - In the 7C the Arabs captured Persia and Egypt, and thereafter trade between Europe and Asia passed through Muslim hands; hence the Crusades, and Columbus.
 
@@ -233,7 +233,7 @@
 
   [[History]]
 
-- Fools can invent more hypotheses than philosophers can ever refute, and philosophers often join them in the game. #Philosophy
+- Fools can invent more hypotheses than philosophers can ever refute, and philosophers often join them in the game. [[Philosophy]]
 
 - "It is not logic that we need, it is insight, the faculty (akin to art) of grasping at once the essential out of the irrelevant, the eternal out of the temporal, the whole out of the part." -Shankara
 
@@ -290,7 +290,7 @@
 
 - The first lesson of philosophy is that we may all be mistaken.
 
-  #Philosophy
+  [[Philosophy]]
 
 - "Foolish men, while doing cooked things, offer their prayers to questionable gods, striving to obtain happiness" - Ekkens philosophy
 

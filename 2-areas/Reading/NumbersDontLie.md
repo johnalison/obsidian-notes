@@ -4,7 +4,7 @@
 
 - Rigid raking based on minuscule differences misleads rather than informs. Rounding and approximation is superior to unwarranted and unnecessary precision.
 
-#PerfectionNotRequired
+[[PerfectionNotRequired]]
 
 - The age of first menstruation has been decreasing from about 17 years in preindustrial societies to less than 13 years in today's Western world
 

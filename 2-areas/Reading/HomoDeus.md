@@ -8,7 +8,7 @@
 
 - Humankind in the 21st century needs to ask itself an unprecedented question: what are we going to do with ourselves ? In a healthy, prosperous and harmonious world, what will demand our attention and ingenuity? [[NowIsDifferent]] [[Questions]]
 
-- Mass famines still strike some areas from time to time, but they are exceptional, and they are almost always caused by human politics rather than natural catastrophes. There are no longer natural famines in the world; there are only political famines. #Politics [[NowIsDifferent]]
+- Mass famines still strike some areas from time to time, but they are exceptional, and they are almost always caused by human politics rather than natural catastrophes. There are no longer natural famines in the world; there are only political famines. [[Politics]] [[NowIsDifferent]]
 
 - Just think what would have happen if AIDS would have erupted in 1581 rather than 1981... Nobody would have figured out what caused the epidemic, how it moved person to person, or or how it could be controlled. AIDS might have killed a much larger proportion of the human race, equaling or perhaps surpassing the Black Death. [[History]]
 
@@ -22,11 +22,11 @@
 
 - Previous generations thought about peace as the temporary absence of war. Today we think about peace as the implausibility of war. [[NowIsDifferent]]
 
-- Despite all the talk of pollution, global warming and climate change, most countries have yet to make any serious economic or political sacrifices to improve the situation. When the moment comes to choose between economic growth and ecological stability, politicians, CEOs and voters almost prefer growth. #Politics
+- Despite all the talk of pollution, global warming and climate change, most countries have yet to make any serious economic or political sacrifices to improve the situation. When the moment comes to choose between economic growth and ecological stability, politicians, CEOs and voters almost prefer growth. [[Politics]]
 
 - The most common reaction of the human mind to achievement is not satisfaction, but craving for more. #Buddhism
 
-- Having secured unprecedented levels of prosperity, health and harmony, and given our past record and current values, humanity's next targets are likely to be immortality, happiness and divinity. [[WhoWeAre]] #Politics [[History]] #Longevity
+- Having secured unprecedented levels of prosperity, health and harmony, and given our past record and current values, humanity's next targets are likely to be immortality, happiness and divinity. [[WhoWeAre]] [[Politics]] [[History]] #Longevity
 
 - In the 21C humans are likely to make a serious bid for immortality. [[NowIsDifferent]] #Longevity
 
@@ -68,11 +68,11 @@
 
 - It is far from clear that we should be aiming at immortality, bliss and divinity. Adopting these particular projects might be a big mistake. But history is full of big mistakes. Given our past record and current values, we are likely to reach out for bliss, divinity and immortality -- even if it kills us. [[WhoWeAre]] [[Religion]] [[NowIsDifferent]]
 
-- Some complex systems are oblivious to our predictions. The process of human development, in contrast, reacts to them. The better our forecasts, the more reactions they engender. Hence paradoxically, as we accumulate more data and increase our computing power, event become wilder and more unexpected. The more we know the less we can predict. #Prediction #Chaos #Complexity
+- Some complex systems are oblivious to our predictions. The process of human development, in contrast, reacts to them. The better our forecasts, the more reactions they engender. Hence paradoxically, as we accumulate more data and increase our computing power, event become wilder and more unexpected. The more we know the less we can predict. [[Prediction]] #Chaos #Complexity
 
 - The paradox of historical knowledge. Knowledge that does not change behavior is useless. But knowledge that changes behavior quickly loses relevance. Centuries ago human knowledge increased slowly, so politics and economics changed at a leisurely pace too. (In 1016 it was relatively easy to predict ow Europe would look in 1050, In contrast we have no idea how Europe will look in 2050).
 
-#Paradox [[History]] [[NowIsDifferent]]
+[[Paradox]] [[History]] [[NowIsDifferent]]
 
 - If history doesn't follow any stable rules, why study it ? Historians are asked to examine the actions of our ancestors so that we can repeat their wise decisions and avoid their mistakes. But it almost never works like that because the present is just too different from the past. Science is not just about predicting the future. Scholars in all fields often seek to broaden our horizons. The study of history aims above all to make us aware of possibilities we dont normally consider. Historians study the past not in order to repeat it, but in order to be liberated from it.
 
@@ -80,7 +80,7 @@
 
 - Studying history aims to loosen the grip of the past. By observing the accidental chain of events that led us here, we realize how our very thoughts and dreams took shape -- and we can begin to think and dream differently. Studying history will not tell us what to choose, but at least it gives us more options. [[History]]
 
-- The idea of nurturing a lawn at the entrance to private residences and public buildings was born in the castles of French and English aristocrats in the late Middle Ages. In the early modern age this habit struck deep roots, and became the trademark of nobility. Well-kept lawns demanded land and a lot of work, in exchange they produced nothing. Poor peasants could not afford wasting precious land or time on lawns. The neat turf at the entrance to a chateaux was accordingly a status symbol nobody could fake. #ProofOfWork #Crypto
+- The idea of nurturing a lawn at the entrance to private residences and public buildings was born in the castles of French and English aristocrats in the late Middle Ages. In the early modern age this habit struck deep roots, and became the trademark of nobility. Well-kept lawns demanded land and a lot of work, in exchange they produced nothing. Poor peasants could not afford wasting precious land or time on lawns. The neat turf at the entrance to a chateaux was accordingly a status symbol nobody could fake. [[ProofOfWork]] #Crypto
 
 - Predicting that humankind will try to gain immortality, bliss and divinity is much like predicting that people building a house will want a lawn in their front yard. It sounds very likely. But once you say it out loud you begin to think about alternatives.
 
@@ -90,7 +90,7 @@
 
 - Computers powerful enough to understand and overcome the mechanisms of aging and death will probably also be powerful enough to replace humans in any and all tasks. #Longevity #AI
 
-- At present it may seem that immortality, bliss and divinity occupy the top slots on our agenda. But once we come nearer to achieving these goals the resulting upheavals are likely to deflect us towards entirely different destinations.  The future described above is merely the future of the past -- ie a future based on the ideas and hopes that dominated the world for the last 300 years. The real future -- ie a future born of the new ideas and hopes of the 21C -- might be completely different. #Politics
+- At present it may seem that immortality, bliss and divinity occupy the top slots on our agenda. But once we come nearer to achieving these goals the resulting upheavals are likely to deflect us towards entirely different destinations.  The future described above is merely the future of the past -- ie a future based on the ideas and hopes that dominated the world for the last 300 years. The real future -- ie a future born of the new ideas and hopes of the 21C -- might be completely different. [[Politics]]
 
 - Homo Sapiens does its best to forget the fact, but it is an animal. And it is doubly important to remember our origins at a time when we seek to turn ourselves into gods. The relationship between humans and animals is the best model we have for the future relations between super-humans and humans. [[WhoWeAre]] [[NowIsDifferent]] [[Religion]]
 
@@ -106,7 +106,7 @@
 
 - We normally think that theist religions sanctify the great gods. We tend to forget that they sanctified humans too. Hitherto Homo sapiens had been just one actor in a cast of thousands. In the new theist drama Sapiens became the central hero around whom the entire universe revolved.  The gods meanwhile where given two related roles to play. Firstly, they explained what is so special about sapiens and why humans should dominate and exploit all other organisms. Secondly, the gods had to mediate between humans and the ecosystem.  [[Religion]] 
 
-- The agriculture revolution was both an economic and religious revolution. #Politics [[History]] [[Religion]]
+- The agriculture revolution was both an economic and religious revolution. [[Politics]] [[History]] [[Religion]]
 
 - During the agriculture revolution humankind silenced animals and plants, and turned the animist grand opera into a dialogue between man and gods. During the Scientific Revolution humankind silenced the gods too. The world was now a one man show. Humankind stood alone on an empty stage, talking to itself, negotiating with no one and acquiring enormous powers without any obligations. [[History]] [[Religion]] [[Science]] [[NowIsDifferent]]
 
@@ -114,13 +114,13 @@
 
 - Every subjective experience has two fundamental characteristics: sensation and desire. #Buddhism #Consciousness
 
-- Scientists dont know how a collection of electrical brain signals creates subjective experiences. Even more crucially, they dont know what could be the evolutionary benefit of such a phenomenon. Ironically the better we map the brain, the harder it becomes to explain conscious feelings, the more redundant the mind seems. IF the entire system works by passing electrical signals from here to there, why the hell do we also need to feel fear ? #Consciousness #Paradox
+- Scientists dont know how a collection of electrical brain signals creates subjective experiences. Even more crucially, they dont know what could be the evolutionary benefit of such a phenomenon. Ironically the better we map the brain, the harder it becomes to explain conscious feelings, the more redundant the mind seems. IF the entire system works by passing electrical signals from here to there, why the hell do we also need to feel fear ? #Consciousness [[Paradox]]
 
 - If we cannot explain the mind and if we dont know what function it fulfills, why not just discard it? [[Questions]] #Consciousness
 
 - Everything a human does -- including reporting on allegedly conscious states -- might in theory be the work of non-conscious algorithms. #Consciousness
 
-- If cooperation is the key, how come the ants and bees did not beat us to the nuclear bomb even though they learned to cooperate en mass millions of years before us? Because their cooperation lacks flexibility. #Paradox [[WhoWeAre]] #Consciousness
+- If cooperation is the key, how come the ants and bees did not beat us to the nuclear bomb even though they learned to cooperate en mass millions of years before us? Because their cooperation lacks flexibility. [[Paradox]] [[WhoWeAre]] #Consciousness
 
 - The Russian revolution finally erupted now when 180 million peasants rose against the Tsar, but rather when a handful of communist placed themselves at the right place at the right time. [[History]]
 
@@ -146,11 +146,11 @@
 
 - Many of the difficulties faced by present-day Africans countries stem from the fact that their borders make little sense. When the  written fantasies of European bureaucracies encountered the African reality, reality was forced to surrender. [[History]]
 
-- If you stick only to unalloyed reality, without mixing any fiction in with it, few people will follow you. If you used a time machine to send modern scientists to ancient Egypt, she would not be able to seize power by exposing the fictions of the local priests and lecturing the peasants on evolution, relativity and quantum physics. If you happen to think so, you are welcome to travel to present-day Afghanistan or Syria and try your luck. [[Science]] #Politics
+- If you stick only to unalloyed reality, without mixing any fiction in with it, few people will follow you. If you used a time machine to send modern scientists to ancient Egypt, she would not be able to seize power by exposing the fictions of the local priests and lecturing the peasants on evolution, relativity and quantum physics. If you happen to think so, you are welcome to travel to present-day Afghanistan or Syria and try your luck. [[Science]] [[Politics]]
 
 - Like a child thinking that his parents are fighting because of him, the monotheist is convinced that the Persians are fighting the Babylonians because of him. [[Religion]]
 
-- Even though Herodotus and Thucydides understood reality much better that the authors of the bible, when the two world views collided, the Bible won by a knockout. No matter how mistaken the biblical worldview was, it provided a better basis for large-scale human cooperation. (Its ironic to have to swear to tell the truth on a book brimming with so many fictions, myths, and errors.) #Politics [[Religion]]
+- Even though Herodotus and Thucydides understood reality much better that the authors of the bible, when the two world views collided, the Bible won by a knockout. No matter how mistaken the biblical worldview was, it provided a better basis for large-scale human cooperation. (Its ironic to have to swear to tell the truth on a book brimming with so many fictions, myths, and errors.) [[Politics]] [[Religion]]
 
 - History isn't a single narrative, but thousands of alternative narratives. Whenever we choose to tell one, we are also choosing to silence the others. [[History]]
 
@@ -176,7 +176,7 @@
 
 - The modern deal offers us an enormous temptation, coupled with a colossal threat. Omnipotence is in front of us, almost within our reach, but below us yawns the abyss of complete nothingness. [[NowIsDifferent]]
 
-- Much of the credit for overcoming famine and plague belongs to the ardent capitalist faith in growth. Capitalism even deserves some kudos for reducing human violence and increasing tolerance and cooperation. [[History]] #Politics
+- Much of the credit for overcoming famine and plague belongs to the ardent capitalist faith in growth. Capitalism even deserves some kudos for reducing human violence and increasing tolerance and cooperation. [[History]] [[Politics]]
 
 - The greatest scientific discovery was the discovery of ignorance. Once humans realized how little they knew about the world, they suddenly had a very good reason to seek new knowledge, which opened up the scientific road to progress. [[Science]]
 
@@ -188,19 +188,19 @@
 
 - The highest aim of human life is to fully develop your knowledge through a wide variety of intellectual, emotional and physical experiences.  The aim of life's existence is "a distillation of the widest possible experience of life into wisdom". #MeaningOfLife
 
-- "War is not what you see in movies!" warn Hollywood blockbusters such as Apocalypse Now, Full Metal Jacket and Black-hawk Down. #Paradox
+- "War is not what you see in movies!" warn Hollywood blockbusters such as Apocalypse Now, Full Metal Jacket and Black-hawk Down. [[Paradox]]
 
 - Humanism split into three main branches. The orthodox branch holds that each human being is a unique individual possessing a distinctive inner voice and a never-to-be-repeated series of experiences.
     The other are socialist humanism, which encompassed a plethora of socialist and communist movements, and evolutionary humanism, whose most famous advocates were the Nazis.
-    #Politics [[Religion]]    
+    [[Politics]] [[Religion]]    
 
-- You cannot resolve the Arab-Israeli conflict by having 8 million Israeli citizens and the 350 million citizens of Arab League nations vote on it. Democratic elections usually work only within populations that have some prior common bond, such as shared religious beliefs or national myths. They are a method to settle disagreements among people who already agree on the basics. #Politics
+- You cannot resolve the Arab-Israeli conflict by having 8 million Israeli citizens and the 350 million citizens of Arab League nations vote on it. Democratic elections usually work only within populations that have some prior common bond, such as shared religious beliefs or national myths. They are a method to settle disagreements among people who already agree on the basics. [[Politics]]
 
-- According to evolutionary humanists, everyone arguing that all human experiences are equally valuable is either an imbecile or a coward. #Politics
+- According to evolutionary humanists, everyone arguing that all human experiences are equally valuable is either an imbecile or a coward. [[Politics]]
 
 - As humanism conquered the world, these internal schisms widened, and eventually they flared up into the deadliest religious war in history. Form 1914-1989 a murderous war of religion raged between the three humanist sects. [[History]]
 
-- Liberal democracy was saved only by nuclear weapons. [[History]] #Politics
+- Liberal democracy was saved only by nuclear weapons. [[History]] [[Politics]]
 
 - More the a century after Nitchze pronounced him dead, God seems to be making a comeback. But this is a mirage. God is dead -- its just taking a while to get rid of the body. [[Religion]] 
 
@@ -208,7 +208,7 @@
 
 - The main product of the 21C will be bodies, brains and minds, and the gap between those who know how to engineer bodies and brains and those who do not will be far bigger than the gab between Dickens Britain and Mahdi's Sudan. In the 21C, those who ride the train of progress will acquire divine abilities of creation and destruction, while those left behind will face extinction. [[NowIsDifferent]] 
 
-- Liberals value individual liberty so much because they believe that humans have free will. #Politics #FreeWill
+- Liberals value individual liberty so much because they believe that humans have free will. [[Politics]] #FreeWill
 
 - The contradiction between free will and contemporary science is the elephant in the laboratory, whom many prefer not to see as they peer into their microscopes and fMRI scanners. #FreeWill
 
@@ -218,20 +218,20 @@
 
 - Doubting free will is not just a philosophical exercise. It has practical implications. If organisms indeed lack free will, it implies that we can manipulate and even control their desires using drugs, genetic engineering or direct brain stimulation. #FreeWill
 
-- Science undermines not only the liberal belief in free will, but also the belief in individualism. For liberalism to make sense, I must have one - and only one - true self. Humans are individuals they are "dividuals". #FreeWill #Politics
+- Science undermines not only the liberal belief in free will, but also the belief in individualism. For liberalism to make sense, I must have one - and only one - true self. Humans are individuals they are "dividuals". #FreeWill [[Politics]]
 
-- At the beginning of the 3rd millennium liberalism is threatened not by the philosophical idea that "there are no free individuals", but rather by concrete technologies. #Politics #FreeWill
+- At the beginning of the 3rd millennium liberalism is threatened not by the philosophical idea that "there are no free individuals", but rather by concrete technologies. [[Politics]] #FreeWill
 
 - In the 21C three practical developments might make the belief that every human is a uniquely valuable individual obsolete:
       1) Humans will lose their economic and military usefulness, hence the economic and political system will stop attaching value to them.
       2) The system will continue to find value in humans collectively, but not in unique individuals
       3) The system will still find value in some  unique individuals, but thesse will constitute a new elite of upgraaded superhumans rather than the mass of the population.
 
-#FreeWill #Politics [[NowIsDifferent]]
+#FreeWill [[Politics]] [[NowIsDifferent]]
 
-- Liberalism did not become the dominant idealology because its philosophical arguments were the most valid. It succeeded b/c there was abundant political, economic and military sense in ascribing value to every human being. (Agrument agianst Anarchism) #Politics
+- Liberalism did not become the dominant idealology because its philosophical arguments were the most valid. It succeeded b/c there was abundant political, economic and military sense in ascribing value to every human being. (Agrument agianst Anarchism) [[Politics]]
 
-- In the 20C liberals explained that we dont have to choose between ethics and economics. Protecting human rights and liberties waas both a more imperative and theh key to economic growth. In the 21C liberalism will have a much harder time selling itself. #Politics
+- In the 20C liberals explained that we dont have to choose between ethics and economics. Protecting human rights and liberties waas both a more imperative and theh key to economic growth. In the 21C liberalism will have a much harder time selling itself. [[Politics]]
 
 - There might be several alternative ways leaading to super-intelligence, only some of which pass through the straits of consciousness. #AI #Consciousness
 
@@ -239,9 +239,9 @@
 
 - We should remind ourselves of the fate of horses during the Industrial Revolution. An ordinary farm horse can small, love, recognize faces, jump over fences and do a thousand other things far better than a Model T or a Lamborghini. But cars nevertheless replaced horses b/c they were superior in the handful of tasks that the system really needed. Taxi drivers are likely to go the way of the horses. #AI
 
-- The most important question in the 21C economics may will be what to do with all the superfluous people. #AI #Politics
+- The most important question in the 21C economics may will be what to do with all the superfluous people. #AI [[Politics]]
 
-- We might end up with an algorithmic upper class owning most of our planet. This may sound impossible, but before dismissing the idea, remember that most of our planet is already owned by non-human entities, namely nations and corporations. Indeed 5000 years ago, much of Sumer was owned by imaginary gods. If gods can possess land and employ people, why not algorithms ? #Politics
+- We might end up with an algorithmic upper class owning most of our planet. This may sound impossible, but before dismissing the idea, remember that most of our planet is already owned by non-human entities, namely nations and corporations. Indeed 5000 years ago, much of Sumer was owned by imaginary gods. If gods can possess land and employ people, why not algorithms ? [[Politics]]
 
 - Traditionally life has been divided into two parts: a period of learning followed by a period of working. Very soon this traditional model will become utterly obsolete, and the only way for humans to stay in the game will be to keep learning throughout their lives. [[NowIsDifferent]]
 
@@ -269,21 +269,21 @@
 
 - A bolder techno-religion seeks to sever the humanist umbilical cord altogether. If foresees a world that does not revolve around the desires and experiences of any human beings. [[Religion]]
 
-- Experts see the economy as a mechanism for gathering data  about desire and abilities, and turning this data into decisions. #Politics
+- Experts see the economy as a mechanism for gathering data  about desire and abilities, and turning this data into decisions. [[Politics]]
 
-- Data-processing considerations also explain why capitalists favor lower taxes. Heavy taxation mean that a large part of all available capital accumulates in one place -- the state coffers -- and consequently more and more decisions have to be made by a single processor, namely the government. This creates and overly centralized data processing system. In extreme cases, which taxes are exceedingly high, almost all capital ends up in the governments hands, and so the government alone calls the shots. In a free market, if one processor makes a wrong decision, others will be quick to capitalize on its mistake. However, when a single processor makes almost all the decisions, mistakes can be catastrophic. #Politics
+- Data-processing considerations also explain why capitalists favor lower taxes. Heavy taxation mean that a large part of all available capital accumulates in one place -- the state coffers -- and consequently more and more decisions have to be made by a single processor, namely the government. This creates and overly centralized data processing system. In extreme cases, which taxes are exceedingly high, almost all capital ends up in the governments hands, and so the government alone calls the shots. In a free market, if one processor makes a wrong decision, others will be quick to capitalize on its mistake. However, when a single processor makes almost all the decisions, mistakes can be catastrophic. [[Politics]]
 
-- In the 21C, democracy might decline and even disappear. As both the volume and speed of data increase, venerable institutions like elections, political parties, and parliaments might become obsolete -- bot because they are unethical, but because they cant process data efficiently enough. #Politics #AI
+- In the 21C, democracy might decline and even disappear. As both the volume and speed of data increase, venerable institutions like elections, political parties, and parliaments might become obsolete -- bot because they are unethical, but because they cant process data efficiently enough. [[Politics]] #AI
 
-- The critical choices between alternative web designs weren't taken through a democratic political process, even though they involved traditional political issues such as sovereignty, borders, privacy and security. #Politics
+- The critical choices between alternative web designs weren't taken through a democratic political process, even though they involved traditional political issues such as sovereignty, borders, privacy and security. [[Politics]]
 
-- The NSA may be spying on our every word, but to judge by the repeated failures of American foreign policy, nobody in Washington knows what to do with all the data. #AI #Politics
+- The NSA may be spying on our every word, but to judge by the repeated failures of American foreign policy, nobody in Washington knows what to do with all the data. #AI [[Politics]]
 
-- Precisely because technology is now moving so fast, and parliaments and dictators alike are overwhelmed by data they cannot process quickly enough, present-day politicians are thinking on a far smaller scale than their predecessors a century ago. Consequently, in the early 21C, politics is bereft of grand visions.  Government has become mere administration. It manages the country, but no longer leads it. Government ensures that teachers are paid on time and sewage systems dont overflow, but it has no idea where the country will be in 20 years. To a certain extent, this is a very good thing. Given that some of the big political visions of the 20C led us to Auschwitz, Hiroshima, and the Great Leap forward. Many neo-liberal economists and political scientists argue that it is best to leave all the important decisions in the hands of the free market. They there by give politicians the perfect excuse for inaction and ignorance, which are reinterpreted as profound wisdom. Politicians find it convenient to believe that the reason they dont understand the world is that they dont need to understand it. #Politics #AI
+- Precisely because technology is now moving so fast, and parliaments and dictators alike are overwhelmed by data they cannot process quickly enough, present-day politicians are thinking on a far smaller scale than their predecessors a century ago. Consequently, in the early 21C, politics is bereft of grand visions.  Government has become mere administration. It manages the country, but no longer leads it. Government ensures that teachers are paid on time and sewage systems dont overflow, but it has no idea where the country will be in 20 years. To a certain extent, this is a very good thing. Given that some of the big political visions of the 20C led us to Auschwitz, Hiroshima, and the Great Leap forward. Many neo-liberal economists and political scientists argue that it is best to leave all the important decisions in the hands of the free market. They there by give politicians the perfect excuse for inaction and ignorance, which are reinterpreted as profound wisdom. Politicians find it convenient to believe that the reason they dont understand the world is that they dont need to understand it. [[Politics]] #AI
 
 - Dataism: Humans are merely tools for creating the Internet-of-All things, which may eventually spread out from planet earth to pervade the whole galaxy and even the whole universe. This cosmic data-processing system would be like God. It will be everywhere and will control everything, and humans are destined to merge into it. Dataism is the first movement since 1789 that created a genuinely novel value; freedom of information. [[Religion]] #AI
 
-- 50 Million communal autonomous cars could replace 1 billion private cars, and we would also need fewer roads, bridges, tunnels and parking spaces. Provided, of course, that I renounce my privacy and allow the algorithms always to know where I am and where I want to go. #AI  #Politics
+- 50 Million communal autonomous cars could replace 1 billion private cars, and we would also need fewer roads, bridges, tunnels and parking spaces. Provided, of course, that I renounce my privacy and allow the algorithms always to know where I am and where I want to go. #AI  [[Politics]]
 
 - Traditional religions assured you that your every word and action was part of some great cosmic plan, and that God watched you every minute and cared about your thoughts and feelings. Data religions now says that your every word and action is part of the great data flow, that the algorithms are constantly watching you and that they care about everything you do and feel. [[Religion]]
 
@@ -295,11 +295,11 @@
 
 - Our love, our fear and our passion aren't some nebulous spiritual phenomena good only for composing poetry. Rather, they encapsulate millions of years of practical wisdom. When you listen to your feelings, you follow an algorithm that evolution has developed for millions of years, and that withstood the harshest quality-control tests of natural selection. Your feelings are not infallible, of course, but they are better than most other sources of guidance. [[WhoWeAre]] 
 
-- Yet in the 21C feelings are no longer the best algorithms in the world. Consequently you should stop listening to your feelings and start listening to these external algorithms instead. Whats the point of having democratic elections when the algorithms know not only how each person is going to vote, but also the underlying neurological reasons why one person votes Democrat while another votes Republican? #Politics #AI
+- Yet in the 21C feelings are no longer the best algorithms in the world. Consequently you should stop listening to your feelings and start listening to these external algorithms instead. Whats the point of having democratic elections when the algorithms know not only how each person is going to vote, but also the underlying neurological reasons why one person votes Democrat while another votes Republican? [[Politics]] #AI
 
 - Dataism will probably accelerate the humanist pursuit of heath, happiness and power. Yet once authority shifts from humans to algorithms, the humanist projects may become irrelevant. [[Religion]] #Happiness
 
-- Humans are relinquishing authority to the free market, to crowd wisdom and to external algorithms partly because we cannot deal with the deluge of data. In the past, censorship worked by blocking the flow of information. In the 21C censorship works by flooding people with irrelevant information. In ancient times having power meant having access to data. Today having power means knowing what to ignore. #Politics [[NowIsDifferent]]
+- Humans are relinquishing authority to the free market, to crowd wisdom and to external algorithms partly because we cannot deal with the deluge of data. In the past, censorship worked by blocking the flow of information. In the 21C censorship works by flooding people with irrelevant information. In ancient times having power meant having access to data. Today having power means knowing what to ignore. [[Politics]] [[NowIsDifferent]]
 
 - If we think in terms of months, we had probably focus on immediate problems such as the turmoil in the Middle East, the refugee crisis in Europe and the slowing of the Chinese economy. IF we think in terms of decades, then global warming, growing inequality and the disruption of the job market loom large. Yet if we take the really grand view of life, all other problems and developments are overshadowed by three interlinked processes
     1) Science is converging on an all-encompassing dogma, which says that organisms are algorithms and life is data processing
@@ -310,4 +310,4 @@
     2) Whats more valuable -- intelligence or consciousness ?
     3) What will happen to society, politics and daily life when non-conscious but highly intelligent algorithms know us better than we know ourselves?
 
-#Politics [[History]] [[Questions]] 
+[[Politics]] [[History]] [[Questions]] 

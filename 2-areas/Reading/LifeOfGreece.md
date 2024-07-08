@@ -34,7 +34,7 @@
 
 - Equality is unnatural; and where ability and subtlety are free, inequality must grow until it destroys itself in the indiscriminate poverty of social war; liberty and equality are not associates but enemies. The concentration of wealth begins by being inevitable and ends by being fatal.
 
-  #Politics #DEI
+  [[Politics]] #DEI
 
 - The Greeks spread into all of southern Europe the seeds of that subtle and precarious luxury called civilization, without which life would have no beauty, and history no meaning.
 
@@ -55,7 +55,7 @@
 
 - The Locrians required any man who wished to propose a new law to speak with a rope around his neck, so that if his motion failed, he might be hanged with a minimum of public inconvenience.
 
-  #Politics
+  [[Politics]]
 
 - History, like life, must be continuous or die; character and institutions may be altered slowly; a serious interruption of their development throws them into national amnesia and insanity.
 
@@ -111,7 +111,7 @@
 
 - "equality is just, but only between equals."
 
-  #Politics  #DEI
+  [[Politics]]  #DEI
 
 - Alexander: "a night march gave him a good appetite for breakfast, and a light breakfast gave him an appetite for dinner"
 

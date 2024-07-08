@@ -31,7 +31,7 @@
 
 - The Truth cannot be found through seeking, but only seekers find it.
 
-#Paradox
+[[Paradox]]
 
 - Against the progressive approach:
     The danger of investing your energy in seeking is that you ll end up a perpetual seeker, without ever finding what you were looking for in the first place.
@@ -61,7 +61,7 @@
 
 - In the end meditation is supremely simple, just sit down and let everything be as it is. Any attempt to manipulate or calm the mind or make meditation happen just interferes with you natural state of true meditation. Remain as you are without question or doubt, that's your natural state.
 
-#Protocols
+[[Protocols]]
 
 - Eventually the sense of a separate experiencer may drop away and only experiencing remains. No separation between subject and object -- just this!
 
@@ -93,7 +93,7 @@
 
 - Where do you suppose your thoughts arise ? If you say, "In my head" then try to locate them. Where exactly does your thought occur? How big are your thoughts ? What color, shape, and density? They seem to have so much reality, but can you point to them or describe them with any degree of accuracy ? What happens to you thoughts when you try to describe them?
 
-#Protocols
+[[Protocols]]
 
 - Consciousness and its objects are one.
 

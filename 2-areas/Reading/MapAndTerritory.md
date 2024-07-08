@@ -33,14 +33,14 @@
 
 - The strength of a model is not what it can explain, but what it cant.
 
-- Mystery is a property of the questions, not the answers. (Ignorance exists in the map, not the territory)  #Paradox [[WhatWeDontKnow]]
+- Mystery is a property of the questions, not the answers. (Ignorance exists in the map, not the territory)  [[Paradox]] [[WhatWeDontKnow]]
 
 - Better to say "Magic" than complexity or emergence, the latter create an illusion of understand. Wiser to say magic and create placeholder #MentalModels
 
 - If you are equally good at explaining all outcomes, you have 0 knowledge [[Rationality]]
 
-- Counter-intuitive: Given incomplete information, the optimal strategy of guessing the color of cards does not resemble a typical sequence. #Paradox
-  "A random key does not open a random lock, just because they are both random" #Paradox
+- Counter-intuitive: Given incomplete information, the optimal strategy of guessing the color of cards does not resemble a typical sequence. [[Paradox]]
+  "A random key does not open a random lock, just because they are both random" [[Paradox]]
 
 - Do not attempt ling chains of reasoning or complicated plans - just simply too difficult. #MentalModels 
 

@@ -64,11 +64,11 @@
 
 - Madison: The purpose of a national government is not just to deal with foreign powers and settle interstate disputes, but to ensure the security of private rights and the steady dispensation of Justice.
 
-  #Politics
+  [[Politics]]
 
 - It was Caesar the liberal who overturned the republic, while it was Cato the conservative who died for it.
 
-  #Politics
+  [[Politics]]
 
 - The election of 1800 and the peaceful transition from Adams to Jefferson in 1801 is as historically significant as was Washington's stepping down four years earlier.
 
@@ -78,4 +78,4 @@
 
 - I'd rater speak sense in one plane and expressive language, than speak nonsense in fifty.
 
-  #PerfectionNotRequired
+  [[PerfectionNotRequired]]

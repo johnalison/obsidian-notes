@@ -12,7 +12,7 @@
 
 - Intrinsic parity has meaning only because particles can be created or destroyed. If particles where conserved, then the product of intrinsic parities would always be the same.
 
-  #Physics
+  [[Physics]]
 
 - Can determine pion spin from p+ p->d + pi and pi + d -> p +
 

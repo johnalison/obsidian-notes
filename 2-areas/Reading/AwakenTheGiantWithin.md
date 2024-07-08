@@ -22,9 +22,9 @@
 
 - Become a hunter (aficionado) of excellence [[Rationality]]
 
-- Most important belief: In order to succeed and be happy we've got to be constantly improving the quality of our lives, constantly growing and expanding. #PerfectionNotRequired
+- Most important belief: In order to succeed and be happy we've got to be constantly improving the quality of our lives, constantly growing and expanding. [[PerfectionNotRequired]]
 
-- The only security in life comes from knowing that every single day you are improving yourself in some way. #PerfectionNotRequired [[Rationality]]
+- The only security in life comes from knowing that every single day you are improving yourself in some way. [[PerfectionNotRequired]] [[Rationality]]
 
 - Q: What did I learn today ? What did I enjoy today? How did I contribute/improve? [[Questions]]
 
@@ -62,4 +62,4 @@
 
 - Only way to master your time is to organize your schedule each day to spend the majority of it doing things that are important. [[SystemsNotGoals]] 
 
-- Strive for balance, not perfection. #PerfectionNotRequired
+- Strive for balance, not perfection. [[PerfectionNotRequired]]

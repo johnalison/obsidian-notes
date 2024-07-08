@@ -28,7 +28,7 @@
 
   - Democracy can be thought of as a low-pass filter, smoothing out struggles for consensus. Reduces the potential for the collective to overreact.
 
-    #Politics
+    [[Politics]]
 
   - Information under-represents reality: Computers cannot presently represent thought or human relationships.  Facebook and system standardized testing assume they can.
     Software should only be designed to perform tasks that can be successfully performed at a given time. This is not the attitude in which the internet software is designed.

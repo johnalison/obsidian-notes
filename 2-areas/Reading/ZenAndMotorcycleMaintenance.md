@@ -8,7 +8,7 @@
 
 - Laws of science contain no matter and have no energy and therefore only exist in people minds
 
-#Physics
+[[Physics]]
 
 - We take a handful of sand from the endless landscape of awareness around us and call that handful the world.
 

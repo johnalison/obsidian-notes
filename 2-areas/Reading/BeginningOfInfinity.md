@@ -57,7 +57,7 @@
 
 - It is fallibilism, not the mere rejection of authority, that is essential for the (unlimited) growth of knowledge.
 
-#PerfectionNotRequired
+[[PerfectionNotRequired]]
 
 - We never know any data before interpreting it through theories. All observations are "theory-laden" and hence just as fallible as our theories.
 
@@ -170,7 +170,7 @@
 
 - Access to evidence: As far we know all the constants of nature can be measured here and every fundamental law can be tested here. So everything needed for open-ended knowledge creation is available in the earths biosphere. Not only is the Universe full of evidence, it is full of the same evidence everywhere. All people in the Universe face the same opportunities.
 
-#Physics
+[[Physics]]
 
 - In the Universe at large knowledge-friendliness is the rule, not the exception. Or person-friendliness to people who have the relevant knowledge; Death is the rule for people who do not.
 
@@ -182,26 +182,26 @@
 
 - The Continental Enlightenment was impatient for the perfected state, while the British Enlightenment was impatient for institutions that did not stifle gradual, continual change and pushed small improvements, unbounded in the future. (Liberal vs Conservative)
 
-#Politics
+[[Politics]]
 
 - Knowledge is a significant phenomena in the Universe.  To make almost any prediction about astrophysics one must take a position on what types of knowledge will or will not be present near the phenomena in question. All explanation of what is out there mention people and knowledge even only implicitly.
 
 - The class of transformations that could happen spontaneously (ie: in the absence of knowledge) is negligibly small compared to those that could be affected by intelligent beings. So, explanations about almost all physically possible phenomena are about how knowledge would be applied to bring about these phenomena.
 
-#Physics #Philosophy
+[[Physics]] [[Philosophy]]
 
 - When our brains learn of diverse phenomena in the Universe (eg a quasar), we have physical objects that are extremely different (brains and quasars) whose behavior is dominated by totally different physics with the same mathematical and casual structures -- and doing so more accurately over time.  Only knowledge can exhibit this underlying unity.
 
 - Only explanatory knowledge can be universal. (eg: the SETI instrument is precisely adapted to detecting something that has never yet been detected. Biological evolution could never do this)
   Science (explanatory knowledge) can conjecture the existence of something, calculate its implications, and then construct an instrument to detect it. Non-explanatory knowledge cannot cross the conceptual gap that conjecture does.
 
-#Philosophy
+[[Philosophy]]
 
 - Humans and knowledge are not only objectively significant, they are by far the most significant phenomena in nature -- the only ones whose behavior cannot be understood without understanding everything of fundamental importance.  Eg: the behavior of humans wrt a champagne bottle in a SETI refrigerator depends on the existence of life in other solar systems. Similar proxy behaviors in other scientific labs.
   Consider also how completely different the evolution of an environment with and without the presence of a tiny sliver of knowledge.
   Almost all regions of the universe are just waiting doing nothing at all, which if the right knowledge ever reached it, instantly and irrevocably burst into a radically different type of physical activity.
 
-#Physics #Philosophy [[WeAreSpecial]]
+[[Physics]] [[Philosophy]] [[WeAreSpecial]]
 
 - Both the principle of Mediocrity and the Spaceship Earth idea are fundamentally parochial and mistaken.
   Science (the least parochial perspective available to us) implies that people are the most significant entities in the cosmic scheme of things.
@@ -222,11 +222,11 @@
 
 - The idea that similar laws of physics can be expected to give rise to similar environments in undermined by the very existence of fine-tuning.
 
-#Physics
+[[Physics]]
 
 - Boltzmann Brains are bad explanations. At any given instant, the theory predicts that we are going to be killed in the next picosecond and is hence refuted by observation a picosecond later.
 
-#Physics #Philosophy
+[[Physics]] [[Philosophy]]
 
 - Anthropic explanations are attempting to account for purposeful structure in terms of one single act of selection. This is unlike evolution, and cannot work. It is too easy an explanation. The solution of the the fine-tuning puzzle is going to be in terms of an explanation that will specifically explain what we observe.
 
@@ -251,7 +251,7 @@
 
 - Reductionism and Holism are both mistakes. Explanations do not form a hierarchy with the lowest level the most fundamental. Explanations at any level can be fundamental.
 
-[[UnpopularTruth]] #Physics #Philosophy
+[[UnpopularTruth]] [[Physics]] [[Philosophy]]
 
 - The Jump to Universality is a tendency of gradually improving systems to undergo a sudden large increase in functionality, becoming universal in some domain.
    It has a typical transitions:
@@ -270,11 +270,11 @@
   All jumps to universality occur in digital systems.
       eg: Spoken languages build words out of a finite set of elementary sounds.
 
-#Philosophy
+[[Philosophy]]
 
 - All known jumps to universality have be done by humans except one: DNA
 
-#Philosophy [[WeAreSpecial]]
+[[Philosophy]] [[WeAreSpecial]]
 
 - Initially the genetic code was evolving along with everything else in the organism, but became a point where the code itself stopped evolving, despite the fact that the organisms continued to.
   When the DNA stopped evolving it was only coding for single-celled organisms.
@@ -339,7 +339,7 @@
   To Deutsch it is further proof that abstractions exist objectively, these statements cannot merely be a convenient way of describing the behavior of some physical system.
   Interestingly, very few questions are known to be undecidable, even though most are.
 
-#Incompleteness  #Paradox 
+#Incompleteness  [[Paradox]] 
 
 - There is nothing mathematically special about the undecidable questions.
   They are distinguished by ***_physics_** only.
@@ -364,7 +364,7 @@
   "The unreasonable effectiveness of mathematics in the natural sciences"  (This problem seems to attract bad explanations)
   eg: simulation hypothesis
 
-#Physics #Philosophy 
+[[Physics]] [[Philosophy]] 
 
 - Simulation hypothesis: It is the very nature of computational universality that if we and our world were composed of software, we would have no means of understanding the real physics -- the physics of the simulator. So the simulation hypothesis entails giving up on explanation in science.
   Against the simulation hypothesis: There is no good argument for any way of counting simulations. eg: why should repeating the same simulation 1e6 times make it more likely that I am a simulation?
@@ -375,7 +375,7 @@
 
 - P!=NP says there are classes of mathematical questions whose answers can be verified easily once you have them, but that cannot be computed easily in the first place by a universal computer. Almost all researchers in computing theory are sure that this conjecture is true.
 
-#Prediction
+[[Prediction]]
 
 - Conjecture: If a question is interesting, then the problem is soluble. However, fallibilism tells us that we can be mistaken about what is interesting.
 
@@ -413,7 +413,7 @@
 
 - Political policies (like scientific theories) cannot be derived from anything; they are conjectures. We should chose between them not based on their origin, but based on how good they are as explanations, how hard they are to vary.
 
-#Politics
+[[Politics]]
 
 - Popper (in knowledge and authority) proposes to replace the question of where the knowledge comes from by the question: How can we hope to detect and eliminate error?
 
@@ -431,7 +431,7 @@
 - Good customs: Defy anyone who seeks your submission
                 Gave a hearing to anyone who offers honest criticism, seeking to change you mind by persuasion.
 
-#Protocols  #Ethics #Advice
+[[Protocols]]  #Ethics #Advice
 
 - Moral Imperative: Do not destroy the means of correcting mistakes.  (possible the only moral imperative, all others follow?)
 
@@ -465,7 +465,7 @@
   It is counter-intuitive that identical objects obeying deterministic laws cannot become different, but fungible objects (which on the face of it are even more alike, can; this is at the heart of quantum physics.
   Diversity within fungibility  is widespread in the multiverse.
 
-[[QM]] #Physics #Philosophy
+[[QM]] [[Physics]] [[Philosophy]]
 
 - Three ways which a phenomena can appear unpredictable to an observer
   1) Physics is affected by some fundamentally random variable (not present in real physics)
@@ -537,15 +537,15 @@
 
 - Arrows axioms: all 5 are intuitively not just desirable, but seem to be essential for making a system of preferences ("Will of the people") fair and rational. Yet they are inconsistent. There is no such thing as "the will of the people".  Wishing for something that is logically impossible is a sign that there is something better to wish for.
 
-[[UnpopularTruth]] #Paradox
+[[UnpopularTruth]] [[Paradox]]
 
 - Proportional representation assigns disproportionate power in the legislature to the third largest party!
 
-#Politics
+[[Politics]]
 
 - The essence of democratic decision-making is not the choice made by the system at elections, but the ideas created between elections.
 
-#Politics [[UnpopularTruth]]
+[[Politics]] [[UnpopularTruth]]
 
 - The voters are not a fount of wisdom from which the right policies can be empirically derived.
 
@@ -559,7 +559,7 @@
 
   The idea that representative government depends on proportionate representation in the legislature is unequivocally a mistake.
 
-#Politics [[UnpopularTruth]]
+[[Politics]] [[UnpopularTruth]]
 
 - Popper's Criterion: Good political institutions are those that make it as easy as possible to detect whether a ruler or policy is a mistake, and to remove them without violence when they are.
 

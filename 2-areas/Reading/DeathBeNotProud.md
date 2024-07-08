@@ -12,4 +12,4 @@
 
 - Today, when I see parents impatient or tired or bored with their children, I which I could say to them, But they are alive, think of the wonder of that!  They may be a care and a burden, but think, they are alive! You can touch them -- what a miracle.
 
-  #Protocols
+  [[Protocols]]

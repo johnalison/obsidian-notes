@@ -46,7 +46,7 @@
 
   When a difficult or worrying decision has to reached, as soon as all the data are available, give the matter you best thought and make your decision; having made the decision, do not revise it unless some new fact comes to your knowledge. Nothing is so exhausting as indecision, and nothing so futile.
 
-  #Advice #Protocols
+  #Advice [[Protocols]]
 
 - Our doings are not so important as we naturally suppose; our successes and failures do not after all matter very much. Even great sorrows can be survived.  The man who can center his thoughts and hopes upon something transcending self can find a certain peace in the ordinary troubles of life which is impossible to the pure egoist.
 
@@ -56,7 +56,7 @@
 
 - If I have to write upon some difficult topic, the best plan is to think about it with very great intensity -- the greatest intensity of which you are capable -- for a few hours or days, and at the end of that time give orders, so to speak, that the work is to proceed underground. After some months I return consciously to the topic and find that the work has been done.
 
-  #Protocols
+  [[Protocols]]
 
 - A similar process as above can be adopted with regard to anxieties. When some misfortune threatens, consider seriously and deliberately what is the very worst that could possibly happen.
   Having looked this possible misfortune in the face, give yourself sound reason for thinking that after all it would be no such very terrible disaster. When you have looked for some time at the worst possibility you will find that your worry diminishes to a quite extraordinary extent.
@@ -69,7 +69,7 @@
   The habit of thinking in terms of comparison is a fatal one.
   When anything pleasant occurs it should be enjoyed in full, without stopping to think that it is not so pleasant as something else that may possibly be happening to someone else.
 
-  #Advice #Protocols
+  #Advice [[Protocols]]
 
 - You cannot get away from envy by success alone; there will always be someone else more successful.
   You can get away from envy by enjoying the pleasures that come your way, by doing the work that you have to do, and by avoiding comparisons with those whom you imagine to be more fortunate than yourself.

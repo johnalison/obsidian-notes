@@ -53,7 +53,7 @@
 
 - In the presence of fiat money to finance government, political differences between parties disappear as politics no longer contains trade-offs and every candidate can champion every cause.
 
-#Politics
+[[Politics]]
 
 - Hyperinflation is a form of economic disaster unique to government money. There was never an example of hyperinflation with economies that operated a gold or silver standard.
 

@@ -8,7 +8,7 @@
 
 - The growing necessity of deep work is new. In an industrial economy most workers could do fine with out working without distraction. In the information economy, deep work is becoming a key currency. "Super power of the 21C" [[NowIsDifferent]]
 
-- "Deep work hypothesis" DW is becoming increasingly rare at the same time its becoming increasingly valuable in our economy. #Paradox
+- "Deep work hypothesis" DW is becoming increasingly rare at the same time its becoming increasingly valuable in our economy. [[Paradox]]
 
 - Core abilities for future: Be able to quickly master hard things. Be able to produce at an elite level. Both quality and speed. 
 
@@ -18,7 +18,7 @@
 
 - When you switch tasks your attention doesn't immediately follow, there is a residual  that is stuck in the previous task.
 
-- DW more valuable than ever before, yet not promoted by individuals or organizations. (#Paradox)
+- DW more valuable than ever before, yet not promoted by individuals or organizations. ([[Paradox]])
 
 - Skillful management of attention is the key to improving virtually every aspect of your experience. (#Buddhism) ([[SystemsNotGoals]])
 

@@ -6,7 +6,7 @@
 
 - Many of the consequences of macroscopic classical thermodynamics can be deduced from the existence of another thermodynamic variable, entropy. Like other thermodynamic variables it depends only on the state of the system, although its definition seems to indicate that it also depends on the way the system is prepared. The fact that entropy depends only on the thermodynamic state has far reaching consequences. [[StatMech]]
 
-- It is the introduction of the concept off probability into physics that creates an asymmetry between the past and future. #Probability
+- It is the introduction of the concept off probability into physics that creates an asymmetry between the past and future. [[Probability]]
 
 - The fact that viscous draw is independent of gas density was regarded as a confirmation of the molecular theory of gas dynamics.
 
@@ -42,11 +42,11 @@
 
 - In field theories where observables depend on position, in order to preserve the appearance of Lorentz invariance it is necessary to work in the Heisenberg picture, so that these observables will depend on time as well as on space coordinates.
 
-- The spin operator has nothing to do with positions and momenta. #PhilosophyOfPhysics
+- The spin operator has nothing to do with positions and momenta. [[PhilosophyOfPhysics]]
 
-- We see that it is not possible to have physical systems with weird angular momenta such as j = 1/3, 1/4 ect. #PhilosophyOfPhysics
+- We see that it is not possible to have physical systems with weird angular momenta such as j = 1/3, 1/4 ect. [[PhilosophyOfPhysics]]
 
-- Any particle at rest, whether elementary or not, will have what is called an intrinsic parity that depends only on the type n of the particle. (What does it mean to have party negative elementary particles? ) #PhilosophyOfPhysics #DontUnderstand
+- Any particle at rest, whether elementary or not, will have what is called an intrinsic parity that depends only on the type n of the particle. (What does it mean to have party negative elementary particles? ) [[PhilosophyOfPhysics]] #DontUnderstand
 
 - One can tell whether nuclei are bosons or fermions just by observing whether radiation from the para or ortho transitions is stronger. Observations of the diatomic nitrogen molecule presented a puzzle regarding the nature of the nitrogen nucleus that was only resolved with the discovery of the neutron.
 
@@ -54,9 +54,9 @@
 
 - It is in order to satisfy the canonical commutation relations that in wave mechanics we represent the momentum vector by the operator -i hbar Del. What for de Broglie and Schodinger was just a guess is a necessary consequence of the canonical formalism.
 
-- The chief reason for using the Lagrangian formalism to construct a Hamiltonian is that there is a deep relation between conservation laws and symmetries of the Lagrangian. #PhilosophyOfPhysics
+- The chief reason for using the Lagrangian formalism to construct a Hamiltonian is that there is a deep relation between conservation laws and symmetries of the Lagrangian. [[PhilosophyOfPhysics]]
 
-- It is not possible to write a simple local Hamiltonian for a charged particle in general electric and magnetic fields using just the fields E and B. What in classical physics is merely a convenience, in QM, is a necessity (To use the scalar and vector potentials) #PhilosophyOfPhysics
+- It is not possible to write a simple local Hamiltonian for a charged particle in general electric and magnetic fields using just the fields E and B. What in classical physics is merely a convenience, in QM, is a necessity (To use the scalar and vector potentials) [[PhilosophyOfPhysics]]
 
 - All that the atomic physicist needed to know about the nucleus was its electric charge, mass, and (to account for hyper-fine splitting) its spin and magnetic moment.
 

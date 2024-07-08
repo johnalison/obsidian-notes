@@ -101,7 +101,7 @@ Elementary Wordly Wisdom:
 
 - I feel that I'm not entitled to an opinion unless I can state the arguments against my position better than the people who are in opposition.
 
-  #Protocols
+  [[Protocols]]
 
 - Self-pity is always counterproductive.
 

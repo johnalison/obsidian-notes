@@ -28,7 +28,7 @@
 
 - Computer scientists investigating asynchronous communications discovered that spreading out communication with unpredictable delays introduced tricky new complexities.
 
-- Since 1900 the productivity of manual labor increased by a factor of 50. The push to make knowledge work more efficient will be the central challenge of our times. #Politics 
+- Since 1900 the productivity of manual labor increased by a factor of 50. The push to make knowledge work more efficient will be the central challenge of our times. [[Politics]] 
 
 - The attention capital principle: the productivity of the knowledge sector can be significantly increased if we identify workflows that better optimize the human brains ability to sustain-ably add value to information.
 

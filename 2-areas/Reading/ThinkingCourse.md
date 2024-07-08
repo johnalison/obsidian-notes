@@ -69,4 +69,4 @@
 
 - Good thinking is concerned with wisdom more than cleverness, more that of robust common sense rather than intellectual nit-picking.
 
-  #PerfectionNotRequired [[Rationality]]
+  [[PerfectionNotRequired]] [[Rationality]]

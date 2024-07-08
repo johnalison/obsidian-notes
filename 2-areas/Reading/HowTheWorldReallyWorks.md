@@ -6,7 +6,7 @@
 
 - None of the people reading this book will relocate to Mars. all of us will continue to eat staple grain crops grown in soil on large expanses of agricultural land, rather than in skyscrapers imagined by the proponents of so-called urban agriculture.
 
-#Prediction
+[[Prediction]]
 
 - The prescription is easy: "Just decarbonize" switch from burning fossil fuels to converting inexhaustible flows of renewable energies. The real wrench in the works: we are a fossil-fueled civilization whose technical and scientific advances, quality of life, and prosperity rest on the combustion of huge quantities of fossil carbon, and we cannot simply walk away from this critical determinant of our fortunes in a few decades, never mind years.
 

@@ -8,7 +8,7 @@
 
 - My popularity, my happiness and sense of worth depend to no small extent upon my skill in dealing with people. #Happiness
 
-- Marking and underscoring a book makes it more interesting, and far easier to review rapidly. #Protocols 
+- Marking and underscoring a book makes it more interesting, and far easier to review rapidly. [[Protocols]] 
 
 - Only knowledge that is used sticks in your mind. #MentalModels
 
@@ -106,7 +106,7 @@
 
 - Few human beings are proof against the implied flattery of rapt attention. [[Rationality]]
 
-- Most people fail to make a favorable impression because they dont listen attentively. They have been so much concerned with what they are going to say next that they do not keep their ears open... Very important people have told me that they prefer good listeners to good talkers, but the ability to listen seems rarer than almost any other good trait. #Protocols
+- Most people fail to make a favorable impression because they dont listen attentively. They have been so much concerned with what they are going to say next that they do not keep their ears open... Very important people have told me that they prefer good listeners to good talkers, but the ability to listen seems rarer than almost any other good trait. [[Protocols]]
 
 - If you want to know how to make people shun you and laugh at you behind your back and even despise you, here is the recipe: Never listen to anyone for long. Talk incessantly about yourself. If you have an idea while the other person is talking, dont wait for him or her to finish: bust right in and interrupt in the middle of a sentence. #MentalModels #Leadership 
 
@@ -188,7 +188,7 @@
 
 - Stop to contrast your keen interest in your own affairs with your mild concern about anything else. Realize then, that everybody else in the world feels exactly the same way! Success in dealing with people depends on a sympathetic grasp of the other person's viewpoint.
 
-- "I would rather walk the sidewalk in front of a persons office for two hours before an interview than step into that office without a perfectly clear idea of what I was going to say and what that person -- from my knowledge of his interests and motives -- was likely to answer. #Protocols
+- "I would rather walk the sidewalk in front of a persons office for two hours before an interview than step into that office without a perfectly clear idea of what I was going to say and what that person -- from my knowledge of his interests and motives -- was likely to answer. [[Protocols]]
 
 - Say "I dont blame you one iota for feeling as you do. If I were you I would undoubtedly feel just as you do."
 
@@ -206,7 +206,7 @@
 
 - Its always easier to listen to unpleasant things after we have heard some praise of our good points. #Leadership
 
-- Call attention to the behavior we wished to change indirectly.  #Protocols
+- Call attention to the behavior we wished to change indirectly.  [[Protocols]]
 
 - People are more likely to accept an order if they have had a part in the decision that cause the order to be issued. Ask questions instead of giving direct orders. #Leadership
 

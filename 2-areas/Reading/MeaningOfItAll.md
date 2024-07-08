@@ -33,11 +33,11 @@
 
 - The US was developed under the idea that nobody knew how to make a government or how to govern. The result is that they invented a system to govern when you dont know how.
 
-#PerfectionNotRequired
+[[PerfectionNotRequired]]
 
 - We have plenty of time to solve problems, the only was that we will make a mistake is that we decide we already know the answer.
 
-#PerfectionNotRequired
+[[PerfectionNotRequired]]
 
 - No government has the right to decide on the truth of scientific principles, nor the character of questions investigated. Instead it has a duty to maintain the freedom, to let those citizens contribute to the further advancement  of the human race.
 

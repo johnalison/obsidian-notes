@@ -52,7 +52,7 @@
 
 - "Gentleman, I take it we are all in complete agreement on the decision here, Then, I propose we postpone further discussions of this matter to give ourselves time to develop disagreement and perhaps gain some understanding of what the decision is all about" -- Drucker (former executive of GM)
 
-#Protocols
+[[Protocols]]
 
 - If we dont understand the meaning of an idea, we wont (dont) use it.
 
@@ -88,7 +88,7 @@
     always liked that word - because to me it means that you sit down on
     your ass until you've done it.
 
-#Physics
+[[Physics]]
 
 - Munger on social problems:
 
@@ -101,7 +101,7 @@
   with highly complex systems wherein everything is interacting with
   everything else.
 
-#Politics
+[[Politics]]
 
 - Statement: "Life is hard" Reply: "Compared to what?" Voltaire
 
@@ -126,7 +126,7 @@
   If its not knowable (there are all kinds of things that are important but not knowable) forget about those.
   If its unimportant, then it wont make any difference, so we dont care.
 
-#Protocols
+[[Protocols]]
 
 - You've got a complex system and it gives a lot of wonderful number that enable you to measure some factors. But there are other factors that are terribly important and theres no precise numbering you can put to these factors. You know they're important but you dont have the numbers. Well, practically everybody over-weighs the stuff that can be numbered, because it yields to the statistical techniques they're taught in academia, and doesn't mix in the hard-to-measure stuff that may be more important.
 

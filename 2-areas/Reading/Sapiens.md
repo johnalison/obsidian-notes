@@ -124,9 +124,9 @@
 
 - Social humanism is built on monotheist foundations. The idea that all humans are equal is a revamped version of the monotheistic conviction that all souls are equal before God.
 
-- Our liberal political and judicial system are founded on the belief that every individual has a sacred inner nature, indivisible and immutable, which gives meaning to the world,  and which is the source of all ethical and political authority. Yet over the last 200 years, the life sciences have thoroughly undermined this belief. Scientist have found no soul, they argue behavior is determined by hormones, genes and synapses, rather than by free will.  Our judicial and political systems largely try to sweep such inconvenient discoveries under the rug. How long can we maintain the way separating the department of biology from the departments of law and political science. (#Paradox)
+- Our liberal political and judicial system are founded on the belief that every individual has a sacred inner nature, indivisible and immutable, which gives meaning to the world,  and which is the source of all ethical and political authority. Yet over the last 200 years, the life sciences have thoroughly undermined this belief. Scientist have found no soul, they argue behavior is determined by hormones, genes and synapses, rather than by free will.  Our judicial and political systems largely try to sweep such inconvenient discoveries under the rug. How long can we maintain the way separating the department of biology from the departments of law and political science. ([[Paradox]])
 
-- One of the distinguishing marks of history - the better you know a particular historical period the *harder* it becomes to explain why things happened one way and not another. (#Paradox) (#History)
+- One of the distinguishing marks of history - the better you know a particular historical period the *harder* it becomes to explain why things happened one way and not another. ([[Paradox]]) (#History)
 
 - Unlike physics or economics, history  is not a means for making accurate predictions. We study history not to know the future but to widen our horizons, to understand that our present situation is neither natural nor inevitable, and that we consequently have many more possibilities before us than we imagine. (#History)
 
@@ -154,11 +154,11 @@
 
 - Capitalism's belief in perpetual economic growth flies in the face of almost everything we know about the universe. Banks and governments print money, but ultimately, it is the scientists who foot the bill.
 
-- There is no such thing as a market free of all political bias. The most important economic resource is trust in the future, and this resource is constantly threatened by thieves, and charlatans. Markets by themselves offer no protection against fraud, theft and violence. (#Politics)
+- There is no such thing as a market free of all political bias. The most important economic resource is trust in the future, and this resource is constantly threatened by thieves, and charlatans. Markets by themselves offer no protection against fraud, theft and violence. ([[Politics]])
 
-- The rise in European capitalism went hand in hand with the rise of the Atlantic slave trade. Unrestrained market forces, rather than tyrannical kings or racist ideologues, were responsible for this calamity. The slave trade was not controlled by any state or government. It was a purely economic enterprise, organized and financed by the free market according to the laws of supply and demand. Private slave-trading companies sold shares on major stock exchanges. Middle-class Europeans looking for a good investment bought these shares.  (#Politics)
+- The rise in European capitalism went hand in hand with the rise of the Atlantic slave trade. Unrestrained market forces, rather than tyrannical kings or racist ideologues, were responsible for this calamity. The slave trade was not controlled by any state or government. It was a purely economic enterprise, organized and financed by the free market according to the laws of supply and demand. Private slave-trading companies sold shares on major stock exchanges. Middle-class Europeans looking for a good investment bought these shares.  ([[Politics]])
 
-- When growth becomes a supreme good, unrestricted by any other ethical considerations, it can easily lead to catastrophe. (#Politics)
+- When growth becomes a supreme good, unrestricted by any other ethical considerations, it can easily lead to catastrophe. ([[Politics]])
 
 - The Industrial Revolution has been a revolution in energy conversion. Before the Industrial Revolution, since human and animal bodies were the only energy conversion device available, muscle power was the key to all human activities. Every few decades or so we discover a new energy source, so that the sum total of energy available to us keeps growing.
 
@@ -232,13 +232,13 @@
 
 - The Scientific Revolution may prove itself far greater than a mere historical revolution. It may turn out to be the most important biological revolution since the appearance of life on earth. If this happens, the whole of human history up to that point might, with hindsight, be reinterpreted as a process of experimentation and apprenticeship that revolutionized the game of life. Such a process should be understood from a cosmic perspective of billions of years, rather than from a human perspective of millennia.  (#NowIsDifferent)
 
-- Biologists are right about the past, but  the proponents of intelligent design might, ironically, be right about the future. (#Paradox)
+- Biologists are right about the past, but  the proponents of intelligent design might, ironically, be right about the future. ([[Paradox]])
 
 - The Cognitive Revolution that turned Homo sapiens from an insignificant ape into the master of the world did not require any noticeable change in the physiology or even the size of and external shape of the Sapiens brain. It apparently involved no more than a few small changes to internal brain structure. Perhaps another small change would be enough to ignite a Second Cognitive Revolution, create a completely new type of consciousness, and transform Homo Sapiens into something altogether different. (#AI)
 
 - The last days are fast approaching. Unless some nuclear or ecological catastrophe intervenes, the pace of technological development will soon lead to the replacement of Homo sapiens by completely different beings who possess not only different physiques, but also very different cognitive and emotional worlds. (It may take a few millennia, but from the the perspective of 70k years of Sapiens history, what are a few millennia?) (#NowIsDifferent)
 
-- What do we want to become? This question dwarfs the debates that currently preoccupy politicians, philosophers, scholars and ordinary people. After all, today's debates between today's religions, ideologies, nations and classes will in all likelihood disappear along with Homo Sapiens. And yet the great debates of history are important because at least the first generation of the new gods would be shaped by the cultural ideas of their human designers. (#Politics) ([[Religion]])
+- What do we want to become? This question dwarfs the debates that currently preoccupy politicians, philosophers, scholars and ordinary people. After all, today's debates between today's religions, ideologies, nations and classes will in all likelihood disappear along with Homo Sapiens. And yet the great debates of history are important because at least the first generation of the new gods would be shaped by the cultural ideas of their human designers. ([[Politics]]) ([[Religion]])
 
 - The implication of creating a mind in a computer are far more dramatic than curing psychiatric illness. This is why the Gilgamesh project is the flagship of science. It serves to justify everything science does.
 

@@ -30,7 +30,7 @@
 
 - Against Boltzmann Brains: If the universe were a fluctuation the prediction would be that if we looked at a place were we have not looked before we should see a disordered mess. Eg: we would not expect to see hot stars and cold space, in regions we haven't looked yet. The success of all "historical sciences" (history, astronomy, geology, etc) indicates that we did not come from a fluctuation, but from a condition that was more separated and organized. This is needed to understand the irreversibility of nature.
 
-#Philosophy
+[[Philosophy]]
 
 - The philosophy around a theory may change radically when there is only a very tiny change in the theory. eg: the change in philosophy needed in gravity to predict Mercury's orbit.  In order to get something that gives a slightly different result, you need a completely different theory (Not true anymore with EFTs?)
 

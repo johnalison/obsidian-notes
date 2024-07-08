@@ -18,7 +18,7 @@
 
 - Markets often exploit peoples frailties, rather than eradicate or minimize their effects.
 
-  #Politics
+  [[Politics]]
 
 - Some of life most important decisions do not come with opportunities to practice. Generally, the higher the stakes, the less often we are able to practice.
   In addition, we only get feedback on the options we select, not on those we dont.

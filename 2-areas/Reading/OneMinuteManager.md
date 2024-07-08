@@ -62,4 +62,4 @@
 
 - Ask brief, important questions; speak simple truth; laugh, work, and enjoy.
 
-#Advice #Protocols
+#Advice [[Protocols]]

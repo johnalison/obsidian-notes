@@ -26,7 +26,7 @@
 
 - What starts out as micromanagement becomes more and more hands-off.
 
-  #Protocols
+  [[Protocols]]
 
 - To build respect and influence, you have to give respect and influence. Treat people with respect. All them to give their opinion. Listen to them. Dont interrupt them. dont disparage the importance of their job or position. Share the burden of hard tasks. IF you want to have influence over others, you need to allow them to have influence over you. That means when you listen to them, you actually **_listen_**. You consider their recommendations and, whenever possible, you incorporate their thoughts and ideas into what you are trying to accomplish. You keep and open mind.
 
@@ -72,7 +72,7 @@
 
 - Tactic: You might want to hesitate a moment when you see that leadership vacuum appear. That is a tactic that I used as a leader throughout my career.  If there was a problem unfolding slowly, dont rush to take charge; let the problem develop a little bit. Look around, detach mentally, and truly observe the situation. Confirm that what you are seeing is correct. Allow an opportunity for someone else to step up and fill the leadership vacuum - and if someone else does -- internally assess their plan and the directions they are giving. If they are giving good guidance, support them. If they give bad guidance, continue to consider what a better plan would be, so you can give corrections when the time is right.  By giving those last few moment to allow things to develop, the call you make will be better.
 
-  #Protocols
+  [[Protocols]]
 
 - Even when someone who you dont think is on your level, someone who isn't even close to having the knowledge, position, or authority to give you one iota of feedback wants to speak, even then, do yourself a favor and just listen. Detach and listen to what they have to say and, from an objective mind-set, see if you can learn anything at all from their commentary. Then apply it. And say thank you. I know that stings. Get over yourself.
 
@@ -86,11 +86,11 @@
 
 - When you need to teach a young confident leader humility: put them in charge of a mission or project you know is outside their level of competency.
 
-  #Protocols
+  [[Protocols]]
 
 - The medicine for lack of confidence is very similar, put the individual in charge. Only now, put them in charge of a mission you know they are capable of leading and executing well.
 
-  #Protocols
+  [[Protocols]]
 
 - Putting junior people in charge makes them better. It makes them understand what is going on way above their pay grades and how their jobs tie into the strategic mission.
 
@@ -108,7 +108,7 @@
 
 - To mitigate excessive praise: direct praise at individuals instead of at the team. Individual praise lets everyone know that you are impressed when things go well, but it is not a blanket statement that everyone gets to enjoy.
 
-  #Protocols
+  [[Protocols]]
 
 - Remember: when you are the leader, your words will impact the behavior of your subordinates and the team more than you think. Think before you speak, and measure your words carefully.
 
@@ -127,7 +127,7 @@
   When you listen to others speak and absorb what they say, you can formulate the most important and impactful statement of the discussion, which will increase your influence on the situation.
   Even if a debate among colleagues leave you with nothing to add other than your approval, that well-articulated approval will carry more weight than blathering on just to hear yourself talk.
 
-  #Advice #Protocols
+  #Advice [[Protocols]]
 
 - Dont waste your words. Let other people do that; instead speak with poignancy and power.
 

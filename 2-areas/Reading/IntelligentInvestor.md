@@ -39,7 +39,7 @@
 
 - About picking stocks based on what you think is a going to be a good business in the future: A forecaster may be wrong in his estimate of the future; or even if he is right, the current market price may already fully reflect what he is anticipating.
 
-- To enjoy a reasonable chance for continued better than average results the investor must follow policies which are 1) inherently sound and promising and 2) not popular on Wall Street. #PeterTheil
+- To enjoy a reasonable chance for continued better than average results the investor must follow policies which are 1) inherently sound and promising and 2) not popular on Wall Street. [[PeterTheil]]
 
 - An investment operation is one in which, upon thorough analysis, promises safety of principal and an adequate return.
 
@@ -57,7 +57,7 @@
     T = ln2 / R
     ln2 ~ 72
 
-    #Protocols
+    [[Protocols]]
 
 - Dollar-cost averaging prevents the investor from concentrating his buying at the wrong times.
    "No one has yet discovered any other formula for investing which can be used with so much confidence of ultimate success, regardless of what may happen to security prices, as Dollar Cost Averaging.
@@ -91,7 +91,7 @@
 - Built in contradiction 
   - The better a company's record and prospects, the less relationship the price of its shares will have to their book value. But the greater premium above book value, the less certain the basis of determining its intrinsic value- ie the more this value will depend on the changing moods of the stock market. The more successful the company, the great the fluctuations in the price of its shares. The better the quality of the common stock, the more speculative it is likely to be. 
 
-#Paradox
+[[Paradox]]
 
 - The true investor is scarcely ever forced to sell his shares, and at all other times he is free to disregard the current price quotation.   He need pay attention to it and act upon it only to the extent that it suits his interests. The investor who permits himself to be unduly worried by unjustified market declines in his holding is transforming his basic advantage into a basic disadvantage. That man would be better off if his stocks had no market quotation at all, for he would then be spared the mental anguish cause him by other person mistakes of judgment.
 
@@ -142,7 +142,7 @@
 - You are neither right nor wrong because the crowd disagrees with you. You are right because your data and reasoning are right.  
      Protocol: Cherish the times that you are out of step with the crowd, here lies money.. if you are right.
 
-     #Protocols
+     [[Protocols]]
 
 - To achieve satisfactory investment results is easier than most people think; to achieve superior results is harder than most people think.
 
@@ -153,6 +153,6 @@
 
 - The combination of precise formulas with highly imprecise assumptions can be used to establish, or rather to justify, practically any value one wishes, however high.
 
-  #PerfectionNotRequired
+  [[PerfectionNotRequired]]
      
 

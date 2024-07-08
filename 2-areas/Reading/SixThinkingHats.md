@@ -22,11 +22,11 @@
 
 - Looking for the pros and cons together at the same time doesn't work in practice. The brain can be sensitized in only one direction at a time.
 
-  #Protocols
+  [[Protocols]]
 
 - Ego is perhaps the biggest obstacle to quick and effective thinking
 
-  #Protocols
+  [[Protocols]]
 
 - White Hat:
   - Neutral and objective. Concerted with facts and figures
@@ -75,9 +75,9 @@
 
 - Its not just a matter of making a positive assessment of something that turns up. It is a deliberate search for the positive.
 
-- There may be powerful positive points that are not at all obvious at first sight. That is how entrepreneurs work. They see the value that those around them have not yet spotted. Value and benefit are by no means always obvious. [[SeeTheGood]] #PeterTheil
+- There may be powerful positive points that are not at all obvious at first sight. That is how entrepreneurs work. They see the value that those around them have not yet spotted. Value and benefit are by no means always obvious. [[SeeTheGood]] [[PeterTheil]]
 
-- Yellow hat thinkging Includes opportunity thinking, beyond problem solving. People are forced to solve problems but no one is ever forced to look for opportunities.  #Protocols
+- Yellow hat thinkging Includes opportunity thinking, beyond problem solving. People are forced to solve problems but no one is ever forced to look for opportunities.  [[Protocols]]
 
 - Green Hat:
 
@@ -98,7 +98,7 @@
 - New ideas are delicate seedlings which need the green hat to protect from instant frost of black hat habits.  #GeneratorFilter
 
 - Green Hat can be used as a signal to yourself. You are deliberately setting aside time for creative thinking. This is quite different from waiting for ideas to come to you. You make the effort.
-  The green hat makes creative thinking a formal part of the thinking process instead of just a luxury. #Protocols
+  The green hat makes creative thinking a formal part of the thinking process instead of just a luxury. [[Protocols]]
 
 - Creative more than just being positive and optimistic. These feelings are under the red hat. Green hat demands new ideas, approaches and further alternatives.
 
@@ -106,7 +106,7 @@
 
 - Critical thinking and black hat thinking are concerned with understanding how an idea fits in with what we already know; the "backward effect" of an idea. Green hat thinking replacing backward-looking judgment with forward-looking "movement" 
 
-- Just aw we use a stepping stone to move across a river, we can use a provocation as a stepping stone for movement from one pattern to another #Protocols
+- Just aw we use a stepping stone to move across a river, we can use a provocation as a stepping stone for movement from one pattern to another [[Protocols]]
 
 - Other times a provocation can be thought of a seedling that we nurture.
 
@@ -114,13 +114,13 @@
 
 - A provocation can never be looked for b/c it has no place in current thinking.
 
-- The ability to use provocations is an essential part of lateral thinking #Protocols
+- The ability to use provocations is an essential part of lateral thinking [[Protocols]]
   - An idea is put out for its forward effect - to provoke something.
 
 - One simple provocation uses reversal:  #Invert
   eg: "Po, the story pays the customers"
 
-- IF someone brings you an idea which you do not like and which you can instantly dismiss with your black hat thinking, you can instead put on your green hat and choose to treat that idea as a provocation. #Protocols
+- IF someone brings you an idea which you do not like and which you can instantly dismiss with your black hat thinking, you can instead put on your green hat and choose to treat that idea as a provocation. [[Protocols]]
 
 - A very simple way to get a provocation is to use a random word.  Easy to see why works, provides a different starting point: Random initial conditions could find a better (different) minimum.
 
@@ -154,7 +154,7 @@
 
 - Responsible for pulling into shape what may have been a chaotic discussion.
 
-- A powerful way of treating opposing idea is to suppose that each is correct under certain circumstances. #Protocols
+- A powerful way of treating opposing idea is to suppose that each is correct under certain circumstances. [[Protocols]]
 
 - Will probably have to make computers emotional if they are to think intelligently #AI
 

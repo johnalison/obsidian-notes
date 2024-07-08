@@ -6,7 +6,7 @@
 
 - We shall learn more of the nature of man by watching his behavior through sixty centuries than by reading Plato, Aristotle, Spinoza, and Kant.
 
-[[History]] #Philosophy
+[[History]] [[Philosophy]]
 
 - The study of antiquity is properly accounted worthless except as it may be made living drama or illuminate our contemporary life. The rise of Rome from a crossroads town to world mastery, its achievement of two centuries of security and peace from the Crimea to Gibraltar, and from the Euphrates to Hadrian's Wall, its spread of classic civilization over the Mediterranean and western European world, its struggle to preserve its ordered realm from a surrounding sea of barbarism, its long, slow crumbling and final catastrophic collapse into darkness and chaos -- this is surely the greatest drama ever played by man; unless it be that other drama which began when Caesar and Christ stood face to face in Pilate's court and continued until a handful of hunted Christians had grown by time and patience, and through persecution and terror, to be first the allies, then the masters, and at last the heirs, of the greatest empire in history.
 
@@ -16,7 +16,7 @@
 
 - Contentment is a rare among men as it is natural among animals, and no form of government has ever satisfied its subjects.
 
-#Politics #Happiness
+[[Politics]] #Happiness
 
 - By a pleasant custom the members of the Senate brought their sons with them to attend in silence, and to learn statesmanship and chicanery at first hand.
 
@@ -118,11 +118,11 @@
 
 - Philosophy is the science of wisdom, and wisdom is the art of living.  Happiness is the goal, but virtue, not pleasure, is the road. The old ridiculed maxims are correct and are perpetually verified by experience; in the long run honesty, justice, forbearance, kindliness, bring us more happiness than ever comes from the pursuit of pleasure.
 
-#Happiness #Advice #Ethics #Protocols
+#Happiness #Advice #Ethics [[Protocols]]
 
 - But how does one acquire wisdom? By practicing it daily, in however modest degree; by examining your conduct each day at its close; by being harsh on your faults and lenient to those of others; by associating with those who excel you in wisdom and virtue; by taking some acknowledged sage as your invisible counselor and judge.
 
-#Advice [[SystemsNotGoals]] #Ethics #Protocols
+#Advice [[SystemsNotGoals]] #Ethics [[Protocols]]
 
 - In philosophy all truth is old, and only error is original.
 
@@ -146,7 +146,7 @@
 
 - Law tends to lag behind moral development, not because law cannot learn, but because experience has shown the wisdom of testing new ways in practice before congealing them into law.
 
-#Politics
+[[Politics]]
 
 - Greek science and philosophy, Judeo-Greek Christianity, Greco-Roman demacracy, Roman law - these our are supreme inheritance from the ancient world.
 
@@ -168,7 +168,7 @@
 
 - one may be sure a man has many virtues if he admires those of others.
 
-#Ethics  #Protocols
+#Ethics  [[Protocols]]
 
 - For 400 years Stoicism has been to the upper classes a substitute for religion; now the substitute was put aside, and the ruling orders turned back from the books of the philosophers to the altars of the gods.
 

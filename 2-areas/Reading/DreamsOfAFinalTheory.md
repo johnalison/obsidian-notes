@@ -38,17 +38,17 @@
 
 - Example of why elementary particle physics more fundamental (high-temperature super-conductivity vs electro-weak symmetry breaking). Condensed matter and high-energy physicists will ultimately solve these problems, when they do we will find that high-T super-conductivity is ultimately explained in terms of KNOWN properties of electrons photons and nuclei. However electro-weak symmetry breaking will NOT be explained in terms of other known entities in the Standard Model.
 
-#PhilosophyOfPhysics
+[[PhilosophyOfPhysics]]
 
 - The study of quarks and electrons is interesting not b/c everyday matter is made of them, but b/c studying them will cause us to learn something about the principles of physics. Actually often exotic particles can be more interesting to HEP. At this moment in science studying particles is the way to make the most progress toward the final theory.
 
 - Everyone is really a reductionist.  IF a new cure for a disease were suggested by experience with many patients, it would not be fully accepted if we could not see how it could possibly be explained reductively in terms of biochemistry and cell biology.  The reductionist attitude provides a useful filter that saves scientists in all fields from wasting time on ideas that are not worth pursuing.
 
-[[Scientists]] #PhilosophyOfPhysics
+[[Scientists]] [[PhilosophyOfPhysics]]
 
 - Quantum Mechanics was important more for changing the kinds of question we are allowed to asked than for answering outstanding questions that we had.
 
-#Philosophy [[QM]]
+[[Philosophy]] [[QM]]
 
 - The fact that the motion of bodies in a gravitational field is independent of the nature of the bodies suggested to Einstein that gravitation might be a property of space itself.
   The fact that gravity depends on mass and on nothing else appears rather arbitrary in Newtons theory, in GR it is a requirement.
@@ -73,7 +73,7 @@
 - The importance of symmetries is more important in QM than in classical physics. What makes one electron different from another? Only its E, p, and spin; aside from these every electron is the same.
   All these properties are simply quantities that characterize the way that the QM wave function responds to symmetry transformations. Matter thus loses its central role in physics: all that is left (beyond the menu of particle types) is principles of symmetry and various ways that wave functions can behave under symmetry transformations.
 
-#PhilosophyOfPhysics
+[[PhilosophyOfPhysics]]
 
 - The (local) symmetry among different frames of reference requires the existence of gravitation.
   In the same way another local (internal) symmetry between electrons and neutrinos (and up and down quarks etc.) makes the existence of the photon, W and Z necessary.
@@ -83,7 +83,7 @@
 - The Platonic solids furnish a prime example of mathematical beauty; the same sort of beauty as the Cartan catalog of all possible continuous symmetry principles.
   In modern physics we dont associate anything to the Platonic solids, but we do believe in a correspondence between different possible kinds forces and different members of the Cartan catalog of all possible symmetries. Where Kepler went wrong was not in using this guesswork, but in supposing that the planets are important.
 
-#PhilosophyOfPhysics #Philosophy
+[[PhilosophyOfPhysics]] [[Philosophy]]
 
 - "The unreasonable ineffectiveness of philosophy"
 
@@ -97,7 +97,7 @@
 
 - Broken symmetry is a very Platonic idea. The reality we observe in nature is only an imperfect reflection of a deeper and more beautiful hidden reality, that has all the symmetry of the theory.
 
-#Philosophy
+[[Philosophy]]
 
 - LHC legacy: Prior to the LHC we were not actually sure that the EW symmetry is broken by the vacuum value of some field or that there is a Higgs particle. Something had to do it, but it could have been an indirect effect of some new kind of extra-strong force that doesn't talk to the matter we have seen so far.
 
@@ -108,7 +108,7 @@
 - The only way for science to proceed is to assume there is no divine intervention and see how far you can get with this assumption.
   It is a profoundly important discovery that we can indeed get so far with out divine intervention. Strong evidence against it.
 
-#Philosophy [[Religion]]
+[[Philosophy]] [[Religion]]
 
 - Arguing about big science vs small science is a good way avoiding thinking about the value of the individual projects.
 

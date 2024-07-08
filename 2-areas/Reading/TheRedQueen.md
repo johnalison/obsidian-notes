@@ -87,11 +87,11 @@
 
 - Mankind may be the mammal with the greatest division of sexual labor and the greatest of mental differences between the sexes. ([[WhoWeAre]])
 
-- Contradiction at the heart of feminism: You cannot say first, that men and women are equally capable of all jobs, and second that if jobs were done by women they would be done differently. (#Politics)
+- Contradiction at the heart of feminism: You cannot say first, that men and women are equally capable of all jobs, and second that if jobs were done by women they would be done differently. ([[Politics]])
 
-- Not that racial and cultural differences cannot exist. Just as a white man has different skin color from a black man, so it is quite possible that he also has a somewhat different mind. But given what we know of evolution, it is not very likely. The evolutionary pressures that have shaped the human mind - principally competitive relations  with kin members, tribal allies, and sexual partners -- are and have been the same for white and black men and were at work before the ancestors of whites left Africa 1e5 years ago. (#Politics)
+- Not that racial and cultural differences cannot exist. Just as a white man has different skin color from a black man, so it is quite possible that he also has a somewhat different mind. But given what we know of evolution, it is not very likely. The evolutionary pressures that have shaped the human mind - principally competitive relations  with kin members, tribal allies, and sexual partners -- are and have been the same for white and black men and were at work before the ancestors of whites left Africa 1e5 years ago. ([[Politics]])
 
-- The male preference for skinniness seems positively maladaptive. (#Paradox)
+- The male preference for skinniness seems positively maladaptive. ([[Paradox]])
 
 - The male obsession with youth is characteristically human. There is no other animal yet studied that shares this obsession quite as strongly. This is obviously because of the human habits of lifelong marriage and long, slow periods of child rearing are also unique. ([[WhoWeAre]])
 
