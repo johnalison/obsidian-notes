@@ -14,7 +14,7 @@
 
 - Cooling off period: Ideas always seem brilliant when hatched.
 
- #GeneratorFilter
+ [[GeneratorFilter]]
 
 - Better to ask small question than big ones:
   - Virgin territory for true learning

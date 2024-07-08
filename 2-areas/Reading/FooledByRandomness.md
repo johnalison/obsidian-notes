@@ -10,7 +10,7 @@
 
 - Delivering advice assumes that our cognitive apparatus rather than our emotional machinery exerts some meaningful control over our actions.
 
-- It doesn't not matter how frequently something succeeds if failure is too costly to bear. (#FTX)
+- It doesn't not matter how frequently something succeeds if failure is too costly to bear. ([[FTX]])
 
 - Treasury bonds are safe; they are issued by the US government, and governments can hardly go bankrupt since they can freely print their own currency to pay back their obligation.
 

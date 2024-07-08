@@ -87,7 +87,7 @@
 
 - In general "a man should have only one mean a day, unless he have a very dry belly. 
 
-  #Fasting
+  [[Fasting]]
 
 - Many cities - above all - Sparta forbade the public consideration of philosophical problems, "on account of the jealousy and strife and profitless discussions to which they give rise"
 
@@ -115,7 +115,7 @@
 
 - Alexander: "a night march gave him a good appetite for breakfast, and a light breakfast gave him an appetite for dinner"
 
-  #Fasting
+  [[Fasting]]
 
 - Alexander won a military victory of the West over the East, but he died before he could realize that he had also made a pathway for the religious victory of the East over the West. 
 

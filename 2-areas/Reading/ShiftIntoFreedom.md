@@ -10,7 +10,7 @@
 
 - The unique premise of this book is that wellbeing is not found by calming the mind, changing our thoughts or adjusting our attitudes, but by actually shifting into a level of mind that is already calm and alert.
 
-  #Happiness
+  [[Happiness]]
 
 - Awakening has been deemed a rare occurrence b/c its principles have not yet been understood in a modern way. One view holds that you cant awaken because its too hard without living in a monastery or cave. The other view is that there is nothing to do -- that there are no meditations, steps or stages. In this view, you cant awaken intentionally; it happens only by luck or grace -- and then you remain awake. The middle way (which is advocated in this book) is that a series of direct recognitions can lead to a gradual unfolding with steps and stages. Awakening is not too difficult if you are interested and motivated. Its like learning to read and write: we all have the capacity to awaken.
 

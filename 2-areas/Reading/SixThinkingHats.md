@@ -95,7 +95,7 @@
 
 - May be more need for green hat thinking than for any other of the hats.
 
-- New ideas are delicate seedlings which need the green hat to protect from instant frost of black hat habits.  #GeneratorFilter
+- New ideas are delicate seedlings which need the green hat to protect from instant frost of black hat habits.  [[GeneratorFilter]]
 
 - Green Hat can be used as a signal to yourself. You are deliberately setting aside time for creative thinking. This is quite different from waiting for ideas to come to you. You make the effort.
   The green hat makes creative thinking a formal part of the thinking process instead of just a luxury. [[Protocols]]

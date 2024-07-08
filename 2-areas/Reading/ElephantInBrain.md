@@ -104,7 +104,7 @@
 
 - This is the key slight-of-hand at the heart of our psychosocial problems: We pretend we're in charge, both to others and even to ourselves, but we're less in charge than we think. We pose as privileged insiders, when in fact we're often making the same kind of educated guesses that any informed outsider could make.
 
-[[WhoWeAre]] #FreeWill
+[[WhoWeAre]] [[FreeWill]]
 
 - One of the facts about social psychology is how many experiments rely on an element of misdirection. Its almost as if the entire field is based on the art of distracting the Press Secretary in order to expose its rationalizations.
 

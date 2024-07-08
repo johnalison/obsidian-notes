@@ -19,7 +19,7 @@
 
 - If your child is ill, you may be unhappy, but you will not feel that all is vanity; you will feel that the restoring of the child to health is a matter to be attended to regardless of the question whether there is ultimate value in human life or not.
 
-- The human animal, like others, is adapted to a certain amount of struggle for life, and when by means of great wealth, homo sapiens can gratify all his whims without effort, the mere absence of effort from his life removes an essential ingredient of happiness. The man who acquires easily things for which  he feels only a very moderate desire concludes that the attainment of desire does not bring happiness.  To be without some of the things you want is an indispensable part of happiness.  #Fasting
+- The human animal, like others, is adapted to a certain amount of struggle for life, and when by means of great wealth, homo sapiens can gratify all his whims without effort, the mere absence of effort from his life removes an essential ingredient of happiness. The man who acquires easily things for which  he feels only a very moderate desire concludes that the attainment of desire does not bring happiness.  To be without some of the things you want is an indispensable part of happiness.  [[Fasting]]
 
 - A man must feel tragedy; to feel tragedy, a man must be aware of the world in which he lives.
 

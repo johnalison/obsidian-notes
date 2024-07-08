@@ -39,7 +39,7 @@
 
 - You might have a gene that is more like the gene of a certain cow than it is like the equivalent gene in your spouse.
 
-- The immune system is a fairly recent invention in geological terms. It started in reptiles perhaps 300 millions year ago. (#History)
+- The immune system is a fairly recent invention in geological terms. It started in reptiles perhaps 300 millions year ago. ([[History]])
 
 - Disease might almost put a sort of limit on longevity; There is little point in living much longer than it takes your parasites to adapt to you. ([[Longevity]])
 

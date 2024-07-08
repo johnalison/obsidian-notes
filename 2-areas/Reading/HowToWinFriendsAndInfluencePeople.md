@@ -6,7 +6,7 @@
 
 - "The great aim of education is not knowledge, but action" Herbert Spencer. And this is an action book. #BeTheGood
 
-- My popularity, my happiness and sense of worth depend to no small extent upon my skill in dealing with people. #Happiness
+- My popularity, my happiness and sense of worth depend to no small extent upon my skill in dealing with people. [[Happiness]]
 
 - Marking and underscoring a book makes it more interesting, and far easier to review rapidly. [[Protocols]] 
 
@@ -77,9 +77,9 @@
 
 - Action seems to follow feeling, but really action and feeling go together; and by regulating the action, which is under the more direct control of the will, we can indirectly regulate the feeling, which is not. Thus the sovereign voluntary path to cheerfulness, if our cheerfulness be lost, is to sit up cheerfully and to act and speak as if cheerfulness were already there. #BeTheGood
 
-- Everybody in the world is seeking happiness -- and there is one sure way to find it. That is by controlling your thoughts. Happiness doesn't depend on outward conditions. It depends on inner conditions.  #Happiness
+- Everybody in the world is seeking happiness -- and there is one sure way to find it. That is by controlling your thoughts. Happiness doesn't depend on outward conditions. It depends on inner conditions.  [[Happiness]]
 
-- It isn't what you have or who you are or where you are or what you are doing that makes you happy or unhappy. It is what you think about it. #Happiness
+- It isn't what you have or who you are or where you are or what you are doing that makes you happy or unhappy. It is what you think about it. [[Happiness]]
 
 - There is nothing either good or bad, but thinking makes it so. -Shakespeare
 

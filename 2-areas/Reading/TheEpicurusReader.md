@@ -30,7 +30,7 @@
 
 - To show reverence for the wise is itself a great good for him that reveres.
 
-- He who claims that everything happens by necessity has no complaint against him who claims that everything does not occur by necessity. For he makes that very claim by necessity. #FreeWill
+- He who claims that everything happens by necessity has no complaint against him who claims that everything does not occur by necessity. For he makes that very claim by necessity. [[FreeWill]]
 
 - Nothing is enough for someone whom enough is little. 
 

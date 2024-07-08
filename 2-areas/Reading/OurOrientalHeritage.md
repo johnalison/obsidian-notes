@@ -165,7 +165,7 @@
 
 - Happiness is possible neither here, as paganism thinks, nor hereafter, as many religions think. Only peace is possible, only the cool quietude of craving ended, only Nirvana.
 
-  #Happiness #Buddhism
+  [[Happiness]] #Buddhism
 
 - Buddha was more patient and considerate than any other of the great teachers of mankind.
 
@@ -177,7 +177,7 @@
 
 - It is foolish to suppose that another can cause us happiness or misery. These are always the product of our own behavior and our own desires.
 
-  #Happiness
+  [[Happiness]]
 
 - The transcendental unity of perception, this "mind" that waves sensations and perceptions into thought, is a ghost; all that exists is the sensations and perceptions themselves, falling automatically into memories and ideas.
 
@@ -223,7 +223,7 @@
 
 - The East, until reached by the Industrial Revolution, could not understand the zest with which the Occident has taken to life; it saw only superficiality and childishness in our merciless busyness, our discontented ambition, our nerve-racking labor-saving devices, our progress and speed; it could no more comprehend this profound immersion in the surface of things, this clever refusal to look ultimate's in the face, than the West can fathom the quiet inertia, the "stagnation" and "hopelessness" of the traditional East. Heat cannot understand cold.
 
-  #Happiness
+  [[Happiness]]
 
 - Man after man dies, seeing this man still moves about as if they where immortal
 
@@ -237,7 +237,7 @@
 
 - "It is not logic that we need, it is insight, the faculty (akin to art) of grasping at once the essential out of the irrelevant, the eternal out of the temporal, the whole out of the part." -Shankara
 
-- Hindu philosophy begins where European philosophy ends - with an inquiry into the nature of knowledge and the limitations of reason. Even the person that reason is an illusion; what is he but a temporary conjunction of events, a passing node in the curves of matter and mind through space and time? and what are his acts or his thoughts but the fulfillment of forces far antedating his birth ? #FreeWill [[WhoWeAre]]
+- Hindu philosophy begins where European philosophy ends - with an inquiry into the nature of knowledge and the limitations of reason. Even the person that reason is an illusion; what is he but a temporary conjunction of events, a passing node in the curves of matter and mind through space and time? and what are his acts or his thoughts but the fulfillment of forces far antedating his birth ? [[FreeWill]] [[WhoWeAre]]
 
 - Perhaps our Western systems, so confident "Knowledge is Power", are the voices of a once lusty youth exaggerating human ability and tenure.
 
@@ -245,7 +245,7 @@
 
 - A people that has lost the ability to govern itself, or to develop its natural resources, inevitably falls a prey to nations suffering from strength and greed.
 
-- What the eyes are for the outer world, fasts are for the inner. #Fasting
+- What the eyes are for the outer world, fasts are for the inner. [[Fasting]]
 
 - India has sent to us such questionable gifts as grammar and logic, philosophy and fables, hypnotism and chess, and above all, our numerals and our decimal system. But these are not the essence of her spirit; they are trifles compared to what we may learn from her in the future.
 
@@ -298,7 +298,7 @@
 
    Do not let a day slip by without enjoyment .. Do not allow yourself to be tormented by the stupidity of others. The world has never been free of fools. Sake is the beautiful gift of Heaven. Drunk in small quantities it expands the heart, lifts the downcast spirit, downs cares, and improves health. Thus it helps a man and also his friends to enjoy pleasures. But he who drinks too much loses his respectability.
 
-   #Happiness
+   [[Happiness]]
 
 - The "Battle of the Sea of Japan" was a turning point in modern history. Not only did it end the expansion of Russia into Chinese territory; it ended also the rule of Europe in the East, and began that resurrection of Asia which promises to be the central political process of our century.
 

@@ -42,7 +42,7 @@
 
 - All mental pleasure consists in being able to compare oneself with others to ones own advantage.
 
-#Happiness
+[[Happiness]]
 
 - We are easily influenced when we are told stories because we relate to stories better than to logic or fact.
 
@@ -138,7 +138,7 @@
 
 - Be happy while you are living, for you are a long time dead.
 
-#Happiness
+[[Happiness]]
 
 - What foolish forgetfulness of mortality to postpone wholesome plans to the fiftieth and sixtieth year, and to intent to begin life at a point to which few have attained.
 

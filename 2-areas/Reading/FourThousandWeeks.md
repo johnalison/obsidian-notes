@@ -37,7 +37,7 @@
 - Minor frustrations have an out sized negative effect on your life and happiness over the years
   You should slightly change your orientation, so that you see yourself as lucky to be in a position to have irritating experiences.
 
-#Happiness
+[[Happiness]]
 
 - The real measure of a good time management system is if it lets you neglect the right things
   - Pay yourself first

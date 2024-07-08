@@ -126,9 +126,9 @@
 
 - Our liberal political and judicial system are founded on the belief that every individual has a sacred inner nature, indivisible and immutable, which gives meaning to the world,  and which is the source of all ethical and political authority. Yet over the last 200 years, the life sciences have thoroughly undermined this belief. Scientist have found no soul, they argue behavior is determined by hormones, genes and synapses, rather than by free will.  Our judicial and political systems largely try to sweep such inconvenient discoveries under the rug. How long can we maintain the way separating the department of biology from the departments of law and political science. ([[Paradox]])
 
-- One of the distinguishing marks of history - the better you know a particular historical period the *harder* it becomes to explain why things happened one way and not another. ([[Paradox]]) (#History)
+- One of the distinguishing marks of history - the better you know a particular historical period the *harder* it becomes to explain why things happened one way and not another. ([[Paradox]]) ([[History]])
 
-- Unlike physics or economics, history  is not a means for making accurate predictions. We study history not to know the future but to widen our horizons, to understand that our present situation is neither natural nor inevitable, and that we consequently have many more possibilities before us than we imagine. (#History)
+- Unlike physics or economics, history  is not a means for making accurate predictions. We study history not to know the future but to widen our horizons, to understand that our present situation is neither natural nor inevitable, and that we consequently have many more possibilities before us than we imagine. ([[History]])
 
 - Cultures are a kind of mental infection or parasite with humans as its unwitting host. 
 
@@ -138,7 +138,7 @@
 
 - In 1775 Asia accounted for 80% of the world economy.
 
-- European imperialism was entirely unlike all other imperial projects in history. Previous seekers of empire tended to assume that they already understood the world. European imperialists set out in the hope of obtaining new knowledge along with new territories. (#History)
+- European imperialism was entirely unlike all other imperial projects in history. Previous seekers of empire tended to assume that they already understood the world. European imperialists set out in the hope of obtaining new knowledge along with new territories. ([[History]])
 
 - The first modern man was Amerigo Vespucci, who argued that the islands discovered by Columbus were not islands off the East Asian coast, but rather an entire continent unknown to Scriptures, classical geographers , and contemporary Europeans.  Poetic Justice: 1/4 of the world is named after a little-known Italian whose sole claim to fame is that he had the courage to say "We dont know".
 
@@ -180,13 +180,13 @@
 
 - These days every year is revolutionary. Today, even a thirty-year old can honestly tell disbelieving teenagers "When I was young, the was completely different". ([[NowIsDifferent]])
 
-- During the last 70 years, humankind has for the first time faced the possibility of complete self-annihilation and has experienced a fair number of actual wars and genocides. Yet these decades were also the most peaceful era in human history- by a wide margin. This is surprising because these very same decades experienced more economic, social and political change than any previous era. The tectonic plates of history are moving at a frantic pace, but the volcanoes are mostly silent. (#History)
+- During the last 70 years, humankind has for the first time faced the possibility of complete self-annihilation and has experienced a fair number of actual wars and genocides. Yet these decades were also the most peaceful era in human history- by a wide margin. This is surprising because these very same decades experienced more economic, social and political change than any previous era. The tectonic plates of history are moving at a frantic pace, but the volcanoes are mostly silent. ([[History]])
 
 - Wealth today consists mainly of human capital and organizational know-how. It is difficult to carry it off or conquer it by military force. The few full-scale international wars that still take place in the world, eg Middle east, occur in places were wealth is old-fashioned material wealth.
 
 - Ours is the first time in history that the world is dominated by a peace-loving elite - politicians, business people, intellectuals and artists which genuinely see war as both evil and avoidable. ([[NowIsDifferent]])
 
-- Did the wealth humankind accumulated in the last 5 centuries translate into a new-found contentment? If not, what is the point of developing agriculture, cities, writing, coinage, empires, science and industry ? Historians seldom ask these questions, yet they are the more important questions one can ask of history. (#History) (#Buddhism)
+- Did the wealth humankind accumulated in the last 5 centuries translate into a new-found contentment? If not, what is the point of developing agriculture, cities, writing, coinage, empires, science and industry ? Historians seldom ask these questions, yet they are the more important questions one can ask of history. ([[History]]) (#Buddhism)
 
 - The brief golden age of the last half-century may turn out to have sown the seeds of future catastrophe.
 
@@ -194,23 +194,23 @@
 
 - Repeated studies have found that there is a very close correlation between good marriages and high subjective well-being and between bad marriages and misery.
 
-- The most important finding regarding happiness is that it doesn't really depend on objective conditions of either wealth, health or community. Rather it depends on the correlation between objective conditions and subjective expectations.  Being satisfied with what you already have is far more important that getting more of what you want. (#Happiness)
+- The most important finding regarding happiness is that it doesn't really depend on objective conditions of either wealth, health or community. Rather it depends on the correlation between objective conditions and subjective expectations.  Being satisfied with what you already have is far more important that getting more of what you want. ([[Happiness]])
 
-- People are made happy by one thing and one thing only -- pleasant sensations in their bodies. A person who just won the lottery or found new love jumps from joy is not really reaction to the money or the lover. She is reaction to various hormones coursing throughout her bloodstream, and to the storm of electric signal flashing between different parts of their brain. (#Happiness) (#Buddhism)
+- People are made happy by one thing and one thing only -- pleasant sensations in their bodies. A person who just won the lottery or found new love jumps from joy is not really reaction to the money or the lover. She is reaction to various hormones coursing throughout her bloodstream, and to the storm of electric signal flashing between different parts of their brain. ([[Happiness]]) (#Buddhism)
 
-- Happiness and misery play a role in evolution only to the extent that they encourage or discourage survival and reproduction. (#Happiness) (#Buddhism)
+- Happiness and misery play a role in evolution only to the extent that they encourage or discourage survival and reproduction. ([[Happiness]]) (#Buddhism)
 
-- There is only one historical development that has real significance. Today, when we finally realize that the keys to happiness are in the hands of our biochemical system, we can focus on the only that that can make us truly happy: manipulating our biochemistry. Prozac, for example, does not change regimes, but by raising serotonin levels it lifts people out of their depression. (#Happiness) 
+- There is only one historical development that has real significance. Today, when we finally realize that the keys to happiness are in the hands of our biochemical system, we can focus on the only that that can make us truly happy: manipulating our biochemistry. Prozac, for example, does not change regimes, but by raising serotonin levels it lifts people out of their depression. ([[Happiness]]) 
 
-- Money, social status, plastic surgery, beautiful houses, powerful positions - none of these will bring you happiness.  Lasting happiness comes only from serotonin, dopamine oxytocin. (#Happiness) 
+- Money, social status, plastic surgery, beautiful houses, powerful positions - none of these will bring you happiness.  Lasting happiness comes only from serotonin, dopamine oxytocin. ([[Happiness]]) 
 
-- If we accept the biological approach to happiness, then history turns out to be of minor importance, since most historical events have had no impact on our biochemistry. (#Happiness) (#History)
+- If we accept the biological approach to happiness, then history turns out to be of minor importance, since most historical events have had no impact on our biochemistry. ([[Happiness]]) ([[History]])
 
-- To be happy is no more and no less than experiencing pleasant bodily sensations. (#Happiness) (#Buddhism)
+- To be happy is no more and no less than experiencing pleasant bodily sensations. ([[Happiness]]) (#Buddhism)
 
 - A meaningful life can be extremely satisfying even in the midst of hardship, whereas a meaningless life is a terrible ordeal no matter how comfortable it is. (#Buddhism)
 
-- Although the people in all cultures and eras have felt the same types of pleasures and pains, the meaning they ascribed to their experiences has probably varied widely. If so, the history of happiness might have been far more turbulent than biologists imagine. Its a conclusion that does not necessarily favor modernity. (#History)
+- Although the people in all cultures and eras have felt the same types of pleasures and pains, the meaning they ascribed to their experiences has probably varied widely. If so, the history of happiness might have been far more turbulent than biologists imagine. Its a conclusion that does not necessarily favor modernity. ([[History]])
 
 - As far as we can tell, from a purely scientific viewpoint, human life has absolutely no meaning. Humans are the outcome of blind evolutionary processes that operate without goal or purpose. *Any* meaning that people ascribe to their lives is just a delusion.  Counter point: the beginning of infinity, science, humanity.  ([[WhoWeAre]])
 
@@ -218,13 +218,13 @@
 
 - If I want to experience pleasant feelings, I have to constantly chase them, while driving away the unpleasant feelings. Even if I succeed, I immediately have to start all over again, without ever getting any lasting reward for my troubles. According to Buddhism, the root of suffering is neither the feeling of pain nor of sadness nor even of meaninglessness. Rather the real root of suffering is the never-ending and pointless pursuit of ephemeral feelings, which causes us to be in a constant state of tension, restlessness and dissatisfaction. Due to this pursuit the mind is never satisfied. People are liberated from suffering not when they experience this or that fleeting pleasure, but rather when they understand the impermanent nature of all their feelings, and stop craving them. This is the aim of Buddhist meditation practices. When the pursuit stops, the mind becomes very relaxed, clear and satisfied.  (#Buddhism)
 
-- This idea is so alien to modern liberal culture that when Western New Age movements encountered Buddhist insights, they translated them into liberal terms. "Happiness begins within" This is exactly what biologists argue, but more or less the opposite of what Buddha said. Buddha agreed with biology and New Age movements that happiness is independent of external conditions.  Yet his more important and far more profound insight was that true happiness is also independent of our inner feelings. Buddha's recommendation was to stop not only the pursuit of external achievements, but also the pursuit of inner feelings.  (#Buddhism) (#Happiness)
+- This idea is so alien to modern liberal culture that when Western New Age movements encountered Buddhist insights, they translated them into liberal terms. "Happiness begins within" This is exactly what biologists argue, but more or less the opposite of what Buddha said. Buddha agreed with biology and New Age movements that happiness is independent of external conditions.  Yet his more important and far more profound insight was that true happiness is also independent of our inner feelings. Buddha's recommendation was to stop not only the pursuit of external achievements, but also the pursuit of inner feelings.  (#Buddhism) ([[Happiness]])
 
-- If Buddhism is right, our entire understanding of the history of happiness might be misguided. Maybe it isn't so important whether peoples expectations are fulfilled and whether they enjoy pleasant feelings. The main question is whether people know the truth about themselves. (#Buddhism) (#Happiness) (#History)
+- If Buddhism is right, our entire understanding of the history of happiness might be misguided. Maybe it isn't so important whether peoples expectations are fulfilled and whether they enjoy pleasant feelings. The main question is whether people know the truth about themselves. (#Buddhism) ([[Happiness]]) ([[History]])
 
-- Most history books say nothing about how the course of history has influenced the happiness and suffering of individuals. This is the biggest lacuna in our understanding of history. (#Happiness) (#History) ([[WhatWeDontKnow]])
+- Most history books say nothing about how the course of history has influenced the happiness and suffering of individuals. This is the biggest lacuna in our understanding of history. ([[Happiness]]) ([[History]]) ([[WhatWeDontKnow]])
 
-- History is the next stage in the continuum of physics to chemistry to biology. (#History)
+- History is the next stage in the continuum of physics to chemistry to biology. ([[History]])
 
 - Homo sapiens are transcending biologically determined limits. It is now beginning to break the laws of natural selection, replacing them with the laws of intelligent design. The first crack in the old regime appeared 10k years ago in the Agriculture revolution. Sapiens who dreamed of fat, slow-moving chickens discovered that if they mated the fattest hen with the slowest cock, some of the offspring would be both fat and slow. It was a race of chickens unknown to nature, produced by intelligent design not of a god but of a human. ([[NowIsDifferent]])
 

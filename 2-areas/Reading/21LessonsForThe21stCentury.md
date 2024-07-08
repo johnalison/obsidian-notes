@@ -40,9 +40,9 @@
 
 - Feelings are biochemical mechanisms that all mammals and birds use in order to quickly calculate probabilities of survival and reproduction. Feels are therefore not the opposite of rationality, they embody evolutionary rationality. [[MentalModels]] [[Rationality]]
 
-- We dont feel the millions of neurons in the brain computing probabilities of survival and reproduction, so we erroneously believe that our feelings are the result of some mysterious "free will". #FreeWill #Consciousness
+- We dont feel the millions of neurons in the brain computing probabilities of survival and reproduction, so we erroneously believe that our feelings are the result of some mysterious "free will". [[FreeWill]] #Consciousness
 
-- For all practical purposes, it was reasonable to argue that I have free will, which nobody outside of me could see. I could enjoy the illusion that I controlled my secret inner arena, while outsiders could never really understand what was happening inside me and how I make decisions. #FreeWill #AI
+- For all practical purposes, it was reasonable to argue that I have free will, which nobody outside of me could see. I could enjoy the illusion that I controlled my secret inner arena, while outsiders could never really understand what was happening inside me and how I make decisions. [[FreeWill]] #AI
 
 - We are now at the confluence of two immense revolutions. Biologists are deciphering the mysteries of the human body, and in particular of the brain and human feelings. At the same time computer scientists are giving us unprecedented data-processing power. When the biotech revolution merges with the infotech revolution, it will produce Big Data algorithms that can monitor and understand my feelings much better than I can. [[NowIsDifferent]] #AI [[History]]
 
@@ -153,9 +153,9 @@
 
 - "This is the body!" in Latin "Hoc est corpus!" got garbled into "Hocus pocus!" [[Religion]]
 
-- If by "free will" you mean the freedom to do what you desire, then yes, humans have free will. But if by "free will" you mean the freedom to choose what to desire, then no, humans have no free will. #FreeWill
+- If by "free will" you mean the freedom to do what you desire, then yes, humans have free will. But if by "free will" you mean the freedom to choose what to desire, then no, humans have no free will. [[FreeWill]]
 
-- As long as you strongly identify with whatever thoughts and desires pop up in your mind, you dont need to make much effort to know yourself. You think you already know exactly who you are. But once you realize "Hey these thoughts aren't me. They are just biochemical vibrations!" then you also realize you have no idea who -- or what -- you are. #FreeWill [[WhoWeAre]] #AreWhatYouThink #Buddhism
+- As long as you strongly identify with whatever thoughts and desires pop up in your mind, you dont need to make much effort to know yourself. You think you already know exactly who you are. But once you realize "Hey these thoughts aren't me. They are just biochemical vibrations!" then you also realize you have no idea who -- or what -- you are. [[FreeWill]] [[WhoWeAre]] #AreWhatYouThink #Buddhism
 
 - The Buddha taught that the three basic realities of the universe are that everything is constantly changing, nothing has any enduring essence, and nothing is completely satisfying. Suffering emerges because people fail to appreciate this. #Buddhism
  

@@ -154,7 +154,7 @@
 
 - When we recognize that we are part of the causal order, the fact that all of our perceptions, thoughts, and actions are caused seems just obvious. It then appears bizarre to think, or to wish, that our behavior is uncaused. To be uncaused would be to be random; and to behave randomly would not be a kind of freedom, but instead a terrible curse.
 
-#FreeWill
+[[FreeWill]]
 
 - When we deliberate about what to do, or when we assign blame or praise to ourselves or others, we often instinctively do so on the assumption that our -- or their -- actions are not caused by previous events.
 

@@ -14,7 +14,7 @@
 - Being constructive is much less rewarding than proving someone else wrong. Being critical and destructive is a much more appealing use of intelligence.
   While judgment thinking has its place and its value it lacks generative, creative and design aspects of thinking that are so vital.  (Generator vs filter)
 
-  #GeneratorFilter
+  [[GeneratorFilter]]
 
 - If you practice poor thinking for years you will become and extremely skilled poor thinker.
 

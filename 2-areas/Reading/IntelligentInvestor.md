@@ -97,7 +97,7 @@
 
 - The happiness of those who want to be popular depends on others; the happiness of those who seek pleasure fluctuates with moods outside their control; but the happiness of the wise grows out of their own free acts. - Marcus Aurelius
 
-[[Stoicism]] #Happiness
+[[Stoicism]] [[Happiness]]
 
 - Most of the time the market is mostly accurate in pricing most stocks. But sometimes, the price is not right, it is very wrong indeed.
 

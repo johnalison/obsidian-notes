@@ -16,7 +16,7 @@
 
 - Contentment is a rare among men as it is natural among animals, and no form of government has ever satisfied its subjects.
 
-[[Politics]] #Happiness
+[[Politics]] [[Happiness]]
 
 - By a pleasant custom the members of the Senate brought their sons with them to attend in silence, and to learn statesmanship and chicanery at first hand.
 
@@ -80,7 +80,7 @@
 
 - Age as well as youth has its glories -- a tolerant wisdom, the respectful attention of children, desire and ambition's fever cooled. Age may fear death, but not if the mind has been formed by philosophy. Beyond the grave there will be, at the best, a new and happier life; and at the worst there will be peace.
 
-#Happiness
+[[Happiness]]
 
 - When Cato, suspecting Caesar's complicity with Catiline, challenged him in the Senate to read aloud a note just brought to him, Caesar passed it to Cato without comment; it was a love letter from Cato's half sister.
 
@@ -118,7 +118,7 @@
 
 - Philosophy is the science of wisdom, and wisdom is the art of living.  Happiness is the goal, but virtue, not pleasure, is the road. The old ridiculed maxims are correct and are perpetually verified by experience; in the long run honesty, justice, forbearance, kindliness, bring us more happiness than ever comes from the pursuit of pleasure.
 
-#Happiness #Advice #Ethics [[Protocols]]
+[[Happiness]] #Advice #Ethics [[Protocols]]
 
 - But how does one acquire wisdom? By practicing it daily, in however modest degree; by examining your conduct each day at its close; by being harsh on your faults and lenient to those of others; by associating with those who excel you in wisdom and virtue; by taking some acknowledged sage as your invisible counselor and judge.
 

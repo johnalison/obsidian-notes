@@ -54,7 +54,7 @@
 
 - The direction were heading in is more important that individual results. [[SystemsNotGoals]]
 
-- Only way for long-term happiness is to live by our highest ideals. #Happiness
+- Only way for long-term happiness is to live by our highest ideals. [[Happiness]]
 
 - Any difficulty in decision making ultimately comes from being unclear in our values. [[SystemsNotGoals]] [[Reliability]]
 

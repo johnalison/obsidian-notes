@@ -8,11 +8,11 @@
 
 - Each of us is looking for a path back to the presence: we are trying to find reasons to be satisfied NOW.
 
-  #Happiness
+  [[Happiness]]
 
 - How we pay attention to the present moment largely determines the character of our experience an the quality of our lives.
 
-  #Happiness #AreWhatYouThink
+  [[Happiness]] #AreWhatYouThink
 
 - There is more to understanding the human condition than science and secular culture generally admit.
 
@@ -39,7 +39,7 @@
 
 - It is possible to be at ease in the world for no reason, if only for a few moments at a time, such ease is synonymous with transcending the apparent boundaries of the self.
 
-  #Happiness [[WhoWeAre]]
+  [[Happiness]] [[WhoWeAre]]
 
 - Unlike Buddhism, as manuals for contemplative understanding, the Bible and Koran are worse than useless.
 
@@ -48,7 +48,7 @@
 - It is always now. To realize this is liberating, there is nothing more important to understand if you want to be happy in the world.
   - We spend most of our lives forgetting this truth -- overlooking it, fleeing it, repudiating it. And the horror is that we succeed. We manage to avoid being happy while struggling to become happy.
 
-  #Happiness
+  [[Happiness]]
 
 - There is nothing passive about mindfulness. Being mindful is not a matter of thinking more clearly about experience; it is the act of experiencing more clearly, including the arising of thoughts themselves.
 
@@ -60,7 +60,7 @@
 
 - Conventional sources of happiness are unreliable, being dependent upon changing conditions.
 
-  #Happiness
+  [[Happiness]]
 
 - According to Buddhist teachings, humans have a distorted view of reality that leads them to suffer unnecessarily. We grasp at transitory pleasures. We brood about the past and worry about the future. We continually try to prop up and defend the ego that doesn't exist.  By seeing things as they, are we cease to suffer in the usual ways and our minds can open to states of well-being that are intrinsic to the nature of consciousness.
 
@@ -86,7 +86,7 @@
 
 - Taking oneself to be the thinker of ones thoughts -- that is not recognizing the present thought to be a transitory appearance in consciousness --  is a delusion that produces nearly every species of human conflict and unhappiness.
 
-  #Happiness
+  [[Happiness]]
 
 - It is not enough to know, in the abstract, that thoughts continually arise or that one is thinking at this moment, for such knowledge is itself mediated by thoughts that are arising unrecognized. It is th e arising of these thoughts that produces the feeling of "I".  One must pay attention closely to glimpse what consciousness is like between thoughts -- Consciousness does not feel like a self.
 

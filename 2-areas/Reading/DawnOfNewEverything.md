@@ -14,7 +14,7 @@
 
 - After understanding that a deterministic game like the Game of Life could produce unforeseeable results, a dark anxiety I had felt melted away. There was no longer tension between determinism and free will. If the only way to know the future was to actually run the universe, then it no longer mattered to my philosophy if there was a deterministic floor to the thing. There might or might not be. We could never know, from inside the universe. Moot point.
 
-  #FreeWill
+  [[FreeWill]]
 
 - Vision has dominated culture for a long time. Until recently vision connected generations. Whole academic departments are devoted to distinct visual disciplines like cinematography, typography, photography, painting in its many guises, graphic design, and so on. We love to talk about what we see.  It might take generations before we fully internalize how obsolete visual dominance has become in the Information Age. Whoever has the best computer cloud will watch everyone else with superior intensity from now on. One's own eyes are increasingly beside the point.
 

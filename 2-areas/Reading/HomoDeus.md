@@ -42,23 +42,23 @@
 
 - Epicurus explained that worshiping gods is a waste of time, that there is no existence after death, and that happiness is the sole purpose of life. Most people in ancient times rejected Epicurean-ism, but today it has become the default view. #Epicurean
 
-- When Epicurus defined happiness as the supreme good, he warned his disciples that it is hard work to be happy. Material achievements alone will not satisfy us for long. Indeed, the blind pursuit of money, fame and pleasure will only make us miserable. Epicurus recommended, for example, to eat and drink in moderation and to curb ones sexual appetites. In the long run, a deep friendship will make us more content that a frenzied orgy. #Happiness #Epicurean #Buddhism
+- When Epicurus defined happiness as the supreme good, he warned his disciples that it is hard work to be happy. Material achievements alone will not satisfy us for long. Indeed, the blind pursuit of money, fame and pleasure will only make us miserable. Epicurus recommended, for example, to eat and drink in moderation and to curb ones sexual appetites. In the long run, a deep friendship will make us more content that a frenzied orgy. [[Happiness]] #Epicurean #Buddhism
 
-- The glass ceiling of happiness is held in place by two stout pillars, one psychological, the other biological. On the psychological level, happiness depends on expectations rather than objective conditions. We dont become satisfied by leading a peaceful and prosperous existence. Rather, we become satisfied with reality matches our expectations. #Happiness #Buddhism [[Stoicism]]
+- The glass ceiling of happiness is held in place by two stout pillars, one psychological, the other biological. On the psychological level, happiness depends on expectations rather than objective conditions. We dont become satisfied by leading a peaceful and prosperous existence. Rather, we become satisfied with reality matches our expectations. [[Happiness]] #Buddhism [[Stoicism]]
 
-- On the biological level, both our expectations and our happiness are determined by our biochemistry, rather than our economic, social or political situation. #Happiness #Buddhism
+- On the biological level, both our expectations and our happiness are determined by our biochemistry, rather than our economic, social or political situation. [[Happiness]] #Buddhism
 
 - A thousand things may make us angry, but anger is never an abstraction. It is always felt as a sensation of heat and tension in the body, which is what makes anger so infuriating. #Buddhism
 
 - People have be quarreling about education methods for thousands of years. Yet, hitherto everybody still agreed on one thing: in order to improve education, we need to change the schools. Today, for the first time in history, at least some people think it would be more efficient to change the pupils' biochemistry. [[NowIsDifferent]] [[ShouldTeachKids]]
 
-- The state hopes to manipulate the biochemical pursuit of happiness, separating "bad" manipulations from "good" ones. The principle is clear: biochemical manipulations that strengthen political stability, social order and economic growth are allowed and even encouraged. Manipulations that threaten stability and growth are bad. #Happiness
+- The state hopes to manipulate the biochemical pursuit of happiness, separating "bad" manipulations from "good" ones. The principle is clear: biochemical manipulations that strengthen political stability, social order and economic growth are allowed and even encouraged. Manipulations that threaten stability and growth are bad. [[Happiness]]
 
-- Epicurus warned his disciples that immoderate pursuit of pleasure is likely to make them miserable rather than happy. Buddha had made an even more radical claim, teaching that the pursuit of pleasant sensations is in fact the very root of suffering. Such sensations are just ephemeral and meaningless vibrations. Even when we experience them we dont react to them with contentment: rather, we just crave more. No matter how many blissful or exciting sensations I experience, they will never satisfy me. #Epicurean #Happiness #Buddhism
+- Epicurus warned his disciples that immoderate pursuit of pleasure is likely to make them miserable rather than happy. Buddha had made an even more radical claim, teaching that the pursuit of pleasant sensations is in fact the very root of suffering. Such sensations are just ephemeral and meaningless vibrations. Even when we experience them we dont react to them with contentment: rather, we just crave more. No matter how many blissful or exciting sensations I experience, they will never satisfy me. #Epicurean [[Happiness]] #Buddhism
 
-- If I identify happiness with fleeting pleasant sensations, and crave to experience more and more of them, I have no choice but to pursue them constantly. When I finally get them, they quickly disappear, and because the mere memory of past pleasures will not satisfy me, I have to start all over again. Even if I continue this pursuit for decades, it will never bring me any lasting achievement; on the contrary, the more I crave these pleasant sensations, the more stressed and dissatisfied I become. To attain real happiness, humans need to slow down the pursuit of pleasant sensations, not accelerate it. #Happiness #Buddhism
+- If I identify happiness with fleeting pleasant sensations, and crave to experience more and more of them, I have no choice but to pursue them constantly. When I finally get them, they quickly disappear, and because the mere memory of past pleasures will not satisfy me, I have to start all over again. Even if I continue this pursuit for decades, it will never bring me any lasting achievement; on the contrary, the more I crave these pleasant sensations, the more stressed and dissatisfied I become. To attain real happiness, humans need to slow down the pursuit of pleasant sensations, not accelerate it. [[Happiness]] #Buddhism
 
-- The Buddhist view of happiness has a lot in common with the biochemical view. The Buddha's suggestion was to reduce our craving for pleasant sensations, and not allow them to control our lives. According to the Buddha, we can train our minds to observe how all sensations constantly arise and pass away.  When the mind learns to see our sensations for what they are -- ephemeral and meaningless vibrations -- we loose interest in pursing them. [[WhoWeAre]] #Buddhism #Happiness
+- The Buddhist view of happiness has a lot in common with the biochemical view. The Buddha's suggestion was to reduce our craving for pleasant sensations, and not allow them to control our lives. According to the Buddha, we can train our minds to observe how all sensations constantly arise and pass away.  When the mind learns to see our sensations for what they are -- ephemeral and meaningless vibrations -- we loose interest in pursing them. [[WhoWeAre]] #Buddhism [[Happiness]]
 
 - Relatively small changes in genes, hormones and neurons where enough to transform Homo Erectus -- who could produce nothing more than flint knives -- into Homo sapiens, who produce spaceships and computers. [[WhoWeAre]]
 
@@ -208,26 +208,26 @@
 
 - The main product of the 21C will be bodies, brains and minds, and the gap between those who know how to engineer bodies and brains and those who do not will be far bigger than the gab between Dickens Britain and Mahdi's Sudan. In the 21C, those who ride the train of progress will acquire divine abilities of creation and destruction, while those left behind will face extinction. [[NowIsDifferent]] 
 
-- Liberals value individual liberty so much because they believe that humans have free will. [[Politics]] #FreeWill
+- Liberals value individual liberty so much because they believe that humans have free will. [[Politics]] [[FreeWill]]
 
-- The contradiction between free will and contemporary science is the elephant in the laboratory, whom many prefer not to see as they peer into their microscopes and fMRI scanners. #FreeWill
+- The contradiction between free will and contemporary science is the elephant in the laboratory, whom many prefer not to see as they peer into their microscopes and fMRI scanners. [[FreeWill]]
 
-- Over the last century, as scientist opened up the Sapiens black box, they discovered there neither soul, no free will, nor "self" -- but only genes. #FreeWill #Buddhism
+- Over the last century, as scientist opened up the Sapiens black box, they discovered there neither soul, no free will, nor "self" -- but only genes. [[FreeWill]] #Buddhism
 
-- To the best of our scientific understanding, determinism and randomness have divided the entire cake between them, leaving not even a crumb for "freedom". Free will exists only in the imaginary stories we humans have invented.  The last nail in freedoms coffin is provided by the theory of evolution. Just as evolution cannot be squared with eternal souls, neither can it swallow the idea of free will. For if humans are free, how could natural selection have shaped them? #FreeWill
+- To the best of our scientific understanding, determinism and randomness have divided the entire cake between them, leaving not even a crumb for "freedom". Free will exists only in the imaginary stories we humans have invented.  The last nail in freedoms coffin is provided by the theory of evolution. Just as evolution cannot be squared with eternal souls, neither can it swallow the idea of free will. For if humans are free, how could natural selection have shaped them? [[FreeWill]]
 
-- Doubting free will is not just a philosophical exercise. It has practical implications. If organisms indeed lack free will, it implies that we can manipulate and even control their desires using drugs, genetic engineering or direct brain stimulation. #FreeWill
+- Doubting free will is not just a philosophical exercise. It has practical implications. If organisms indeed lack free will, it implies that we can manipulate and even control their desires using drugs, genetic engineering or direct brain stimulation. [[FreeWill]]
 
-- Science undermines not only the liberal belief in free will, but also the belief in individualism. For liberalism to make sense, I must have one - and only one - true self. Humans are individuals they are "dividuals". #FreeWill [[Politics]]
+- Science undermines not only the liberal belief in free will, but also the belief in individualism. For liberalism to make sense, I must have one - and only one - true self. Humans are individuals they are "dividuals". [[FreeWill]] [[Politics]]
 
-- At the beginning of the 3rd millennium liberalism is threatened not by the philosophical idea that "there are no free individuals", but rather by concrete technologies. [[Politics]] #FreeWill
+- At the beginning of the 3rd millennium liberalism is threatened not by the philosophical idea that "there are no free individuals", but rather by concrete technologies. [[Politics]] [[FreeWill]]
 
 - In the 21C three practical developments might make the belief that every human is a uniquely valuable individual obsolete:
       1) Humans will lose their economic and military usefulness, hence the economic and political system will stop attaching value to them.
       2) The system will continue to find value in humans collectively, but not in unique individuals
       3) The system will still find value in some  unique individuals, but thesse will constitute a new elite of upgraaded superhumans rather than the mass of the population.
 
-#FreeWill [[Politics]] [[NowIsDifferent]]
+[[FreeWill]] [[Politics]] [[NowIsDifferent]]
 
 - Liberalism did not become the dominant idealology because its philosophical arguments were the most valid. It succeeded b/c there was abundant political, economic and military sense in ascribing value to every human being. (Agrument agianst Anarchism) [[Politics]]
 
@@ -297,7 +297,7 @@
 
 - Yet in the 21C feelings are no longer the best algorithms in the world. Consequently you should stop listening to your feelings and start listening to these external algorithms instead. Whats the point of having democratic elections when the algorithms know not only how each person is going to vote, but also the underlying neurological reasons why one person votes Democrat while another votes Republican? [[Politics]] #AI
 
-- Dataism will probably accelerate the humanist pursuit of heath, happiness and power. Yet once authority shifts from humans to algorithms, the humanist projects may become irrelevant. [[Religion]] #Happiness
+- Dataism will probably accelerate the humanist pursuit of heath, happiness and power. Yet once authority shifts from humans to algorithms, the humanist projects may become irrelevant. [[Religion]] [[Happiness]]
 
 - Humans are relinquishing authority to the free market, to crowd wisdom and to external algorithms partly because we cannot deal with the deluge of data. In the past, censorship worked by blocking the flow of information. In the 21C censorship works by flooding people with irrelevant information. In ancient times having power meant having access to data. Today having power means knowing what to ignore. [[Politics]] [[NowIsDifferent]]
 

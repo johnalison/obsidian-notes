@@ -27,7 +27,7 @@
 
 - We do not know in advance what are the right questions to ask, and we often do not find out until we are close to an answer.
 
-- Free will is nothing other than the conscious experience of deciding what to do. This experience is not invalidated by the reflection that physical laws made it inevitable that I would want to make these decisions. #FreeWill
+- Free will is nothing other than the conscious experience of deciding what to do. This experience is not invalidated by the reflection that physical laws made it inevitable that I would want to make these decisions. [[FreeWill]]
 
 - So we had a double mystery, What causes the observed violation of the eight-fold way symmetry and of mirror symmetry and matter-anti-matter symmetry? Theorists offered several possible answers, this turned out to be the wrong question to ask. It turned out that the SM obeys certain symmetries that are accidental, in the sense that they are not exact local symmetries on which the SM is based, they are automatic consequences of the SM.  Instead of asking what breaks mirror symmetry we should have been asking why there should be any mirror symmetry or matter-antimatter symmetry at all. [[PhilosophyOfPhysics]]
 
