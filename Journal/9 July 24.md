@@ -15,12 +15,14 @@ Watching ZettelKasting notes
 
 [[Do graph neural networks learn traditional jet substructure?]]
 
+to add:
+
 [[Sindhu]]
 
 [[Chuyuan Liu]]
 
-
 [[Wesley Terrill]]
 
-
+Chat with Elliot re: future hadron colliders
+- Stage a hadron machine
 
