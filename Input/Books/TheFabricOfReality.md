@@ -18,13 +18,20 @@
 
 - Some philosophers -- and even some scientist -- disparage the role of explanation in science. However the overwhelming majority of theories are rejected b/c they are bad explanations not b/c they fail experimental tests. (eg: eating a kg of grass is a cure for the common cold)
 
+[[What important truth do very few people agree with you on?]]
+
 - To say that prediction is the purpose of a scientific theory is to confuse the means with the ends. Passing experimental tests is only one of many things a theory has to do to achieve the real purpose of science, which is to explain the world.
+
+[[PhilosophyOfPhysics]]
 
 - Explanation is a strange sort of food -- a larger portion is not necessarily harder to swallow. It is hard to give a precise definition for explanation or understanding. They are more about the "why" than the "what"; about how things really are rather than how they appear to be.
 
 - At present we know of nothing that is capable of understanding an explanation -- or of wanting one in the first place -- other than a human mind.
 
 - We understand the fabric of reality only by understanding theories that explain it.
+
+[[PhilosophyOfPhysics]]
+
 
 - Our theories are increasing in both depth and breadth. Breadth makes them harder to understand, depth make them easier to understand. One thesis of this book is that (slowly but surely) depth is winning.
 

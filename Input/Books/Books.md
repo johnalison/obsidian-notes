@@ -1,4 +1,4 @@
-## 2024
+
 
 -  Fooled By Randomness [[FooledByRandomness]] (Nassim Taleb)
 
@@ -134,6 +134,8 @@
 
 - The Fabric of Reality [[TheFabricOfReality]] (David Deutsch)
 
+#Consume 
+
 - The World Without Us [[TheWorldWithoutUs]] (Alan Weisman)
 
 - Waking Up [[WakingUp]] (Sam Harris)
@@ -149,8 +151,6 @@
 - Four Thousand Weeks [[FourThousandWeeks]] (Oliver Burkeman)
 
 - Viral [[Viral]] (Alina Chan and Matt Ridley)
-
-#consume
 
 - QED: The strange theory of light and matter [[QED]] (Richard Feynman)
 

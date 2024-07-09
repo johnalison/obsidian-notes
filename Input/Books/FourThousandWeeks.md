@@ -8,7 +8,11 @@
   It follows that time management should be everyone's main concern.
   All life is is time management.
 
+[[MomentoMori]]
+
 - However most time management books ignore the basic fact that we have so little time.
+
+[[What important truth do very few people agree with you on?]]
 
 - When people make enough money to meet their needs, they find new needs to need.
 
@@ -17,8 +21,7 @@
 
 - Productivity is a trap. Getting more done quickly just makes you more rushed.
 
-- The problem isn't our limited time, its the bad ideas we have about how to use our limited time.
-  We subconsciously believe that if we could get enough work done, we dont need to worry about if its healthy to derive so much meaning from our work in the first place.
+- The problem isn't our limited time, its the bad ideas we have about how to use our limited time.  We subconsciously believe that if we could get enough work done, we dont need to worry about if its healthy to derive so much meaning from our work in the first place.
 
 - Limit embracing attitude: organize your day with the explicit understanding that you wont have time to do everything you want to do.
   Need to cope with "Fear Of Missing Out"; give you limited time, you are guaranteed to miss out on almost everything.
@@ -28,6 +31,9 @@
 - The technology that we use to get "everything" done more efficiently always end up failing because they increase the size of "everything"
 
 - The more you struggle to fit everything in, the more of your time you spend on the least meaningful things.
+
+[[TheONEThing]]
+
 
 - "PLEASE READ" in email titles are usually a sign that you dont need to bother reading.
 
