@@ -1,0 +1,21 @@
+Taught PGSS
+
+[[Why QM + relativity might work with the time slices at infinity]]
+
+Watching ZettelKasting notes
+
+**Output:** Can use the notes to write:
+	- code documentation
+	- essays
+	- papers
+	- slides?
+	- grant proposals
+
+[[The Iconoclast Peter Theil video]]
+
+[[Do graph neural networks learn traditional jet substructure?]]
+
+
+
+
+

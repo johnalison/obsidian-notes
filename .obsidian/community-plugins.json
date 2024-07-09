@@ -1,5 +1,7 @@
 [
   "quick-explorer",
   "obsidian-git",
-  "templater-obsidian"
+  "templater-obsidian",
+  "emacs-text-editor",
+  "kill-and-yank"
 ]

@@ -8,43 +8,55 @@
         "type": "tabs",
         "children": [
           {
-            "id": "18ce008e629daa1b",
+            "id": "a47fe5559800e81e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-areas/Philosophy/Paradoxes.md",
+                "file": "0-inbox/mixed2.0.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "c3ba9520fcfb8292",
+            "id": "3f6e32e83e54bed3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-areas/Philosophy/ShouldTeachKids.md",
+                "file": "Output/Lists.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "4bd9392b2a021b1d",
+            "id": "55a3a6ed7fb52d5a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/Obsidian-Intro.md",
+                "file": "0-inbox/Ideas-for-emacs-Obsidian.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6bdd698a6eed733a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00-Zettelkasten/ZettelKasten Index.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -73,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#latex",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/Obsidian-Intro.md",
+                "file": "00-Zettelkasten/ZettelKasten Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/Obsidian-Intro.md",
+                "file": "00-Zettelkasten/ZettelKasten Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/Obsidian-Intro.md"
+                "file": "00-Zettelkasten/ZettelKasten Index.md"
               }
             }
           }
@@ -171,46 +183,46 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4bd9392b2a021b1d",
+  "active": "6bdd698a6eed733a",
   "lastOpenFiles": [
-    "0-inbox/Independence-or-Primacy-of-Thermodynamics.md",
     "0-inbox/Ideas-for-emacs-Obsidian.md",
+    "00-Zettelkasten/ZettelKasten Index.md",
     "0-inbox/General.md",
-    "0-inbox/ZettelKasten-video.md",
-    "0-inbox/2024-07-08.md",
-    "2-areas/Philosophy/Wishes.md",
-    "2-areas/Philosophy/What is my purpose in Life ?.md",
-    "0-inbox/Things-To-Add-To-Notes.md",
-    "2-areas/Philosophy/Things I want to learn.md",
-    "2-areas/Philosophy/Rules.md",
-    "0-inbox/Proving-the-word-deterministic.md",
-    "0-inbox/Problem-with-market-cap.md",
-    "0-inbox/PARA.md",
+    "Input/Books/ZenAndMotorcycleMaintenance.md",
+    "2-areas/Physics/Physics.md",
+    "00-Zettelkasten/chaos-determinism-and-real-numbers.md",
     "0-inbox/Obsidian-Intro.md",
-    "2-areas/Philosophy/Core Virtues.md",
-    "2-areas/Philosophy/Advice.md",
-    "Input/Lectures/Great Lectures.md",
-    "Input/Lectures",
-    "2-areas/Philosophy/ShouldTeachKids.md",
-    "2-areas/Philosophy/Quotes for cards.md",
-    "2-areas/Philosophy/Paradoxes.md",
-    "2-areas/Physics/Fine Tuning Examples.md",
+    "Journal/9 July 24.md",
+    "2-areas/Physics/ABCDMethod.md",
+    "0-inbox/mixed2.0.md",
     "Output/Lists.md",
+    "Input/Videos/The Iconoclast Peter Theil video.md",
+    "Input/Papers/Do graph neural networks learn traditional jet substructure?.md",
+    "0-inbox/Determinism-Map-vs-Territory.md",
+    "Input/Videos",
+    "0-inbox/Use ZettelKasting For Mindfulness.md",
+    "0-inbox/Latex in Obsidian.md",
+    "2-areas/Philosophy/Paradoxes.md",
+    "2-areas/Philosophy/ShouldTeachKids.md",
+    "0-inbox/Why QM + relativity might work with the time slices at infinity.md",
+    "Untitled",
+    "2-areas/Philosophy/What is my purpose in Life ?.md",
+    "Journal",
+    "2-areas/Philosophy/Rationality.md",
+    "2-areas/Philosophy/AI.md",
+    "2-areas/Philosophy/Advice.md",
+    "0-inbox/PARA.md",
+    "0-inbox/Independence-or-Primacy-of-Thermodynamics.md",
+    "0-inbox/ZettelKasten-video.md",
+    "Input/Lectures",
     "Output",
     "Input/Papers",
-    "Who/WhoWeAre.md",
     "Who",
-    "What will be seen as right/wrong in future.md",
     "What will be seen as right",
-    "2-areas/Philosophy/Mental Models.md",
-    "0-inbox/Determinism-Map-vs-Territory.md",
     "Input",
     "0-inbox/#Lists.md#",
     "Untitled.canvas",
-    "00-Zettelkasten",
     "Untitled 1.canvas",
-    "templates",
-    "tags",
     "Pasted image 20240707142114.png"
   ]
 }
