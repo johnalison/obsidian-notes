@@ -23,5 +23,21 @@
       ],
       "key": "D"
     }
+  ],
+  "kill-and-yank:kill-line": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "K"
+    }
+  ],
+  "kill-and-yank:yank": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "Y"
+    }
   ]
 }

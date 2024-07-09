@@ -23,3 +23,5 @@ System conceived by Tiago Forte
 
 - Projects that you have done.
 - Things that you did, but moved on from
+
+[[obsidian]]

@@ -3,13 +3,8 @@ Taught PGSS
 [[Why QM + relativity might work with the time slices at infinity]]
 
 Watching ZettelKasting notes
+[[ZettelKasten-video]]
 
-**Output:** Can use the notes to write:
-	- code documentation
-	- essays
-	- papers
-	- slides?
-	- grant proposals
 
 [[The Iconoclast Peter Theil video]]
 
@@ -23,6 +18,6 @@ to add:
 
 [[Wesley Terrill]]
 
-Chat with Elliot re: future hadron colliders
-- Stage a hadron machine
+[[Chat with Elliot about future hadron colliders]]
+
 

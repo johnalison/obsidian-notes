@@ -32,31 +32,19 @@
             }
           },
           {
-            "id": "55a3a6ed7fb52d5a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3-resources/Obsidian/Ideas-for-emacs-Obsidian.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "6bdd698a6eed733a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/9 July 24.md",
+                "file": "0-inbox/ZettelKasten-video.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -122,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/9 July 24.md",
+                "file": "0-inbox/ZettelKasten-video.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/9 July 24.md",
+                "file": "0-inbox/ZettelKasten-video.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/9 July 24.md"
+                "file": "0-inbox/ZettelKasten-video.md"
               }
             }
           }
@@ -185,11 +173,18 @@
   },
   "active": "6bdd698a6eed733a",
   "lastOpenFiles": [
+    "Output/Lists.md",
+    "3-resources/Obsidian/Ideas-for-emacs-Obsidian.md",
+    "0-inbox/ZettelKasten-video.md",
+    "0-inbox/Things-To-Add-To-Notes.md",
+    "Journal/9 July 24.md",
+    "2-areas/Physics/Why QM + relativity might work with the time slices at infinity.md",
+    "3-resources/Obsidian/PARA.md",
+    "0-inbox/General.md",
+    "Input/Meetings/Chat with Elliot about future hadron colliders.md",
+    "Input/Meetings",
     "2-areas/Mentoring/Chuyuan Liu.md",
     "2-areas/Mentoring",
-    "Journal/9 July 24.md",
-    "0-inbox/General.md",
-    "0-inbox/ZettelKasten-video.md",
     "3-resources/Obsidian/Obsidian-Intro.md",
     "00-Zettelkasten/Use ZettelKasting For Mindfulness.md",
     "00-Zettelkasten/Teachers-vs-Experts.md",
@@ -199,27 +194,21 @@
     "1-projects/Mixed2.0/mixed2.0.md",
     "1-projects/Mixed2.0",
     "3-resources/Obsidian/Latex in Obsidian.md",
-    "3-resources/Obsidian/Ideas-for-emacs-Obsidian.md",
     "00-Zettelkasten/Determinism-Map-vs-Territory.md",
     "00-Zettelkasten/ZettelKasten Index.md",
     "Input/Books/ZenAndMotorcycleMaintenance.md",
     "2-areas/Physics/Physics.md",
     "00-Zettelkasten/chaos-determinism-and-real-numbers.md",
     "2-areas/Physics/ABCDMethod.md",
-    "Output/Lists.md",
     "Input/Videos/The Iconoclast Peter Theil video.md",
     "Input/Papers/Do graph neural networks learn traditional jet substructure?.md",
     "Input/Videos",
-    "2-areas/Philosophy/Paradoxes.md",
-    "2-areas/Philosophy/ShouldTeachKids.md",
-    "0-inbox/Why QM + relativity might work with the time slices at infinity.md",
     "Untitled",
     "Journal",
     "Input/Lectures",
     "Output",
     "Input/Papers",
     "Who",
-    "What will be seen as right",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Pasted image 20240707142114.png"
