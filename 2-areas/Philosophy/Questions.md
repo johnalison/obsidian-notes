@@ -1,4 +1,4 @@
-# Questions
+
 - Are the pleasures I'm chasing actually worth it?
 - Am I certain what I want to say isn't better left unsaid?
 - Why get angry at things if anger doesn't change it?

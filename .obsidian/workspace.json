@@ -11,8 +11,12 @@
             "id": "18ce008e629daa1b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2-areas/Philosophy/Paradoxes.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -21,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/Lists.md",
+                "file": "2-areas/Philosophy/ShouldTeachKids.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4bd9392b2a021b1d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-inbox/Obsidian-Intro.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,11 +110,11 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/Lists.md",
+                "file": "0-inbox/Obsidian-Intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
@@ -111,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/Lists.md",
+                "file": "0-inbox/Obsidian-Intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/Lists.md"
+                "file": "0-inbox/Obsidian-Intro.md"
               }
             }
           }
@@ -155,45 +171,46 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c3ba9520fcfb8292",
+  "active": "4bd9392b2a021b1d",
   "lastOpenFiles": [
-    "0-inbox/People I look up to (North stars).md",
-    "0-inbox/#Lists.md#",
-    "0-inbox/Lists.md",
-    "0-inbox/Montras.md",
-    "0-inbox/What important truth do very few people agree with you on?.md",
-    "0-inbox/What do you we do now that will be totally replaced in 100 years?.md",
-    "0-inbox/Protocols.md",
-    "0-inbox/Mental Models.md",
-    "0-inbox/Things where experts disagree.md",
-    "2-areas/Philosophy/Why Now is interesting.md",
-    "0-inbox/Crazy things scientists used to believe.md",
-    "2-areas/Philosophy/Things Ive changed my mind on.md",
-    "0-inbox/2024-07-08.md",
+    "0-inbox/Independence-or-Primacy-of-Thermodynamics.md",
+    "0-inbox/Ideas-for-emacs-Obsidian.md",
+    "0-inbox/General.md",
     "0-inbox/ZettelKasten-video.md",
+    "0-inbox/2024-07-08.md",
+    "2-areas/Philosophy/Wishes.md",
+    "2-areas/Philosophy/What is my purpose in Life ?.md",
+    "0-inbox/Things-To-Add-To-Notes.md",
+    "2-areas/Philosophy/Things I want to learn.md",
+    "2-areas/Philosophy/Rules.md",
+    "0-inbox/Proving-the-word-deterministic.md",
+    "0-inbox/Problem-with-market-cap.md",
+    "0-inbox/PARA.md",
+    "0-inbox/Obsidian-Intro.md",
+    "2-areas/Philosophy/Core Virtues.md",
+    "2-areas/Philosophy/Advice.md",
+    "Input/Lectures/Great Lectures.md",
+    "Input/Lectures",
+    "2-areas/Philosophy/ShouldTeachKids.md",
+    "2-areas/Philosophy/Quotes for cards.md",
+    "2-areas/Philosophy/Paradoxes.md",
+    "2-areas/Physics/Fine Tuning Examples.md",
+    "Output/Lists.md",
+    "Output",
+    "Input/Papers",
+    "Who/WhoWeAre.md",
+    "Who",
+    "What will be seen as right/wrong in future.md",
+    "What will be seen as right",
+    "2-areas/Philosophy/Mental Models.md",
+    "0-inbox/Determinism-Map-vs-Territory.md",
+    "Input",
+    "0-inbox/#Lists.md#",
     "Untitled.canvas",
     "00-Zettelkasten",
     "Untitled 1.canvas",
-    "0-inbox/PARA.md",
-    "0-inbox/General.md",
-    "0-inbox/Determinism-Map-vs-Territory.md",
-    "0-inbox/Things-To-Add-To-Notes.md",
-    "0-inbox/Untitled.md",
-    "templates/Zettel Template.md",
-    "2-areas/Philosophy/MomentoMori.md",
-    "2-areas/Reading/WavesInImpossibleSea.md",
-    "0-inbox/Independence-or-Primacy-of-Thermodynamics.md",
-    "0-inbox/Ideas-for-emacs-Obsidian.md",
-    "0-inbox/chaos-determinism-and-real-numbers.md",
-    "0-inbox/another test.md",
     "templates",
     "tags",
-    "scripts/make.sh",
-    "scripts/makeTagList.awk",
-    "scripts/lsTags.sh",
-    "2-areas/Reading/ZenAndMotorcycleMaintenance.md.bkg",
-    "2-areas/Reading/WritingGNUEmacsExtensions.md.bkg",
-    "2-areas/Reading/WhyBuddhismIsTrue.md.bkg",
     "Pasted image 20240707142114.png"
   ]
 }
