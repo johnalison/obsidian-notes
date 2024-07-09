@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/ZettelKasten-video.md",
+                "file": "0-inbox/Lists.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/ZettelKasten-video.md",
+                "file": "0-inbox/Lists.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/ZettelKasten-video.md",
+                "file": "0-inbox/Lists.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/ZettelKasten-video.md"
+                "file": "0-inbox/Lists.md"
               }
             }
           }
@@ -155,10 +155,24 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c67b88aabdb7c902",
+  "active": "c3ba9520fcfb8292",
   "lastOpenFiles": [
-    "00-Zettelkasten",
+    "0-inbox/People I look up to (North stars).md",
+    "0-inbox/#Lists.md#",
+    "0-inbox/Lists.md",
+    "0-inbox/Montras.md",
+    "0-inbox/What important truth do very few people agree with you on?.md",
+    "0-inbox/What do you we do now that will be totally replaced in 100 years?.md",
+    "0-inbox/Protocols.md",
+    "0-inbox/Mental Models.md",
+    "0-inbox/Things where experts disagree.md",
+    "2-areas/Philosophy/Why Now is interesting.md",
+    "0-inbox/Crazy things scientists used to believe.md",
+    "2-areas/Philosophy/Things Ive changed my mind on.md",
+    "0-inbox/2024-07-08.md",
     "0-inbox/ZettelKasten-video.md",
+    "Untitled.canvas",
+    "00-Zettelkasten",
     "Untitled 1.canvas",
     "0-inbox/PARA.md",
     "0-inbox/General.md",
@@ -172,19 +186,7 @@
     "0-inbox/Ideas-for-emacs-Obsidian.md",
     "0-inbox/chaos-determinism-and-real-numbers.md",
     "0-inbox/another test.md",
-    "0-inbox/test1.md",
-    "0-inbox/Test.md",
-    "2-areas/Reading/TenArgumentsDeleteSocialMedia.md",
     "templates",
-    "2-areas/Philosophy/YouAreWhatYouThink.md",
-    "0-inbox/Questions.md",
-    "2-areas/Philosophy/SystemsNotGoals.md",
-    "2-areas/Philosophy/RespondDontReact.md",
-    "2-areas/Philosophy/StrictWithYourself.md",
-    "2-areas/Philosophy/Reliability.md",
-    "2-areas/Philosophy/Rationality.md",
-    "2-areas/Philosophy/Politics.md",
-    "2-areas/Physics/Physics.md",
     "tags",
     "scripts/make.sh",
     "scripts/makeTagList.awk",
@@ -192,9 +194,6 @@
     "2-areas/Reading/ZenAndMotorcycleMaintenance.md.bkg",
     "2-areas/Reading/WritingGNUEmacsExtensions.md.bkg",
     "2-areas/Reading/WhyBuddhismIsTrue.md.bkg",
-    "2-areas/Reading/WhoOwnsTheFuture.md.bkg",
-    "2-areas/Reading/WhatsOurProblem.md.bkg",
-    "Untitled.canvas",
     "Pasted image 20240707142114.png"
   ]
 }
