@@ -1,5 +1,3 @@
-[[crypto]]
-[[market cap]]
 
 Niavely marketcap is a measure of how much available money is left to flow into an asset.
 eg: when marketcap approaches GDP, expect growth to stallout.
@@ -9,4 +7,8 @@ Q: What is a better metric?
    A: Sum of resources contributed. (eg: sum of money invested, not the sum of current value.
    A: Fraction of people (weighted by thier wealth) who are invested in asset.
 
-#Crypto #Marketcap
+Links:
+[[crypto]]
+[[market cap]]
+
+

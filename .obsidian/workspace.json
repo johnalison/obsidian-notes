@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/mixed2.0.md",
+                "file": "1-projects/Mixed2.0/mixed2.0.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/Ideas-for-emacs-Obsidian.md",
+                "file": "3-resources/Obsidian/Ideas-for-emacs-Obsidian.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-Zettelkasten/ZettelKasten Index.md",
+                "file": "2-areas/Mentoring/Chuyuan Liu.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-Zettelkasten/ZettelKasten Index.md",
+                "file": "2-areas/Mentoring/Chuyuan Liu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00-Zettelkasten/ZettelKasten Index.md",
+                "file": "2-areas/Mentoring/Chuyuan Liu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-Zettelkasten/ZettelKasten Index.md"
+                "file": "2-areas/Mentoring/Chuyuan Liu.md"
               }
             }
           }
@@ -183,44 +183,44 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6bdd698a6eed733a",
+  "active": "c67b88aabdb7c902",
   "lastOpenFiles": [
-    "0-inbox/Ideas-for-emacs-Obsidian.md",
-    "00-Zettelkasten/ZettelKasten Index.md",
+    "2-areas/Mentoring",
+    "Journal/9 July 24.md",
+    "2-areas/Mentoring/Chuyuan Liu.md",
     "0-inbox/General.md",
+    "0-inbox/ZettelKasten-video.md",
+    "3-resources/Obsidian/Obsidian-Intro.md",
+    "00-Zettelkasten/Use ZettelKasting For Mindfulness.md",
+    "00-Zettelkasten/Teachers-vs-Experts.md",
+    "00-Zettelkasten/Proving-the-word-deterministic.md",
+    "00-Zettelkasten/Problem-with-market-cap.md",
+    "2-areas/Physics/Independence-or-Primacy-of-Thermodynamics.md",
+    "1-projects/Mixed2.0/mixed2.0.md",
+    "1-projects/Mixed2.0",
+    "3-resources/Obsidian/Latex in Obsidian.md",
+    "3-resources/Obsidian/Ideas-for-emacs-Obsidian.md",
+    "00-Zettelkasten/Determinism-Map-vs-Territory.md",
+    "00-Zettelkasten/ZettelKasten Index.md",
     "Input/Books/ZenAndMotorcycleMaintenance.md",
     "2-areas/Physics/Physics.md",
     "00-Zettelkasten/chaos-determinism-and-real-numbers.md",
-    "0-inbox/Obsidian-Intro.md",
-    "Journal/9 July 24.md",
     "2-areas/Physics/ABCDMethod.md",
-    "0-inbox/mixed2.0.md",
     "Output/Lists.md",
     "Input/Videos/The Iconoclast Peter Theil video.md",
     "Input/Papers/Do graph neural networks learn traditional jet substructure?.md",
-    "0-inbox/Determinism-Map-vs-Territory.md",
     "Input/Videos",
-    "0-inbox/Use ZettelKasting For Mindfulness.md",
-    "0-inbox/Latex in Obsidian.md",
     "2-areas/Philosophy/Paradoxes.md",
     "2-areas/Philosophy/ShouldTeachKids.md",
     "0-inbox/Why QM + relativity might work with the time slices at infinity.md",
     "Untitled",
-    "2-areas/Philosophy/What is my purpose in Life ?.md",
     "Journal",
-    "2-areas/Philosophy/Rationality.md",
-    "2-areas/Philosophy/AI.md",
-    "2-areas/Philosophy/Advice.md",
-    "0-inbox/PARA.md",
-    "0-inbox/Independence-or-Primacy-of-Thermodynamics.md",
-    "0-inbox/ZettelKasten-video.md",
     "Input/Lectures",
     "Output",
     "Input/Papers",
     "Who",
     "What will be seen as right",
     "Input",
-    "0-inbox/#Lists.md#",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Pasted image 20240707142114.png"

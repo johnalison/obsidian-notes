@@ -1,7 +1,7 @@
 How could you prove the world was deterministic?
 
 You could
- - explicitly demonstrate it in simple subsytems. 
+ - explicitly demonstrate it in simple sub-systems
  - Show that the laws (theory) predict the outcome
  - Then assume that the theory applies to more complicated systems
 

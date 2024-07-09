@@ -15,7 +15,12 @@ Watching ZettelKasting notes
 
 [[Do graph neural networks learn traditional jet substructure?]]
 
+[[Sindhu]]
 
+[[Chuyuan Liu]]
+
+
+[[Wesley Terrill]]
 
 
 
