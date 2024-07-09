@@ -10,14 +10,16 @@
 	- papers
 	- slides?
 	- grant proposals
+	- Lectures
 
 Use Links to convey meaning. 
 Use Tags indicate state and type.
 
 Links:
 
-[obsidian]
+[[obsidian]]
 
-[emacs]
+[[emacs]]
+
 
 

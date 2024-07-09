@@ -9,7 +9,7 @@
 - [[Montras]]
 - [[People I look up to (North stars)]]
 - [[Paradoxes]]
-- [[What will be seen as right/wrong in future]]
+- [[wrong in future]]
 - [[Things I want to learn]]
 - [[WhoWeAre]]
 - [[ShouldTeachKids]]

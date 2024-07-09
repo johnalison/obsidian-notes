@@ -18,6 +18,7 @@
 	- papers
 	- slides?
 	- grant proposals
+	- Lectures
 
 
 ## Fleeting notes: 
@@ -32,6 +33,13 @@ Can use notebook/Daily for these
 - Use your own words ! 
 - Brief and concise 
 - Practice writing well
+
+Should capture all thought provoking idea from all sources.
+* Gather knowledge / Do not just gather information
+
+# How to read
+* Dont highlight.  Take fleeting notes, then transform them into permanent notes!
+	* If its not worth doing this, then the information is not worth marking.
 
 ## Links: 
 

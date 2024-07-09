@@ -1,5 +1,7 @@
 # Viral (Alina Chan and Matt Ridley)
 
+#Consume
+
 - Learned a lot.  Clear that China covered up, whether or not there was actually a lab leak
  
 - At the onset of the outbreak Covid was evolving much more slowly than one that had newly arrived from a different species. Implies it was already well-adapted to humans before Wuhan outbreak
@@ -35,7 +37,7 @@
 
 - Experience shows that it is possible for there to be a lab leak without any reported incident and with no one noticing until there are cases in the hospitals.
 
-- In January 2021 the US state department announced that it had evidence that that Wuhan lab workers had been among the first cases of COVID in Nov 2019.
+- In January 2021 the US state department announced that it had evidence that Wuhan lab workers had been among the first cases of COVID in Nov 2019.
 
 - The Chinese took a pathogen database offline. Sharing this information (publicly or privately with international scientists) would be a quick and effective way to refute theories about the virus escaping from a lab. The failure to share the database raises suspicion that there was something to hide.
 

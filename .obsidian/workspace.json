@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/ZettelKasten-video.md",
+                "file": "Input/Books/Viral.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#latex",
+                "query": "#consu",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +90,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -110,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/ZettelKasten-video.md",
+                "file": "Input/Books/Viral.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/ZettelKasten-video.md",
+                "file": "Input/Books/Viral.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/ZettelKasten-video.md"
+                "file": "Input/Books/Viral.md"
               }
             }
           }
@@ -173,11 +174,21 @@
   },
   "active": "6bdd698a6eed733a",
   "lastOpenFiles": [
+    "3-resources/Obsidian/Obsidian-Intro.md",
+    "0-inbox/obsidian.md",
+    "00-Zettelkasten/Use ZettelKasting For Mindfulness.md",
+    "3-resources/Obsidian/ZettelKasten-video.md",
+    "00-Zettelkasten/ZettelKasten Index.md",
+    "templates/Zettel Template.md",
+    "Journal/9 July 24.md",
+    "Input/Books/Books.md",
+    "3-resources/emacs/emacs-file-search.md",
+    "2-areas/Philosophy/Protocols.md",
+    "Pasted image 20240707142114.png",
+    "Welcome.md",
     "Output/Lists.md",
     "3-resources/Obsidian/Ideas-for-emacs-Obsidian.md",
-    "0-inbox/ZettelKasten-video.md",
     "0-inbox/Things-To-Add-To-Notes.md",
-    "Journal/9 July 24.md",
     "2-areas/Physics/Why QM + relativity might work with the time slices at infinity.md",
     "3-resources/Obsidian/PARA.md",
     "0-inbox/General.md",
@@ -185,8 +196,6 @@
     "Input/Meetings",
     "2-areas/Mentoring/Chuyuan Liu.md",
     "2-areas/Mentoring",
-    "3-resources/Obsidian/Obsidian-Intro.md",
-    "00-Zettelkasten/Use ZettelKasting For Mindfulness.md",
     "00-Zettelkasten/Teachers-vs-Experts.md",
     "00-Zettelkasten/Proving-the-word-deterministic.md",
     "00-Zettelkasten/Problem-with-market-cap.md",
@@ -195,13 +204,6 @@
     "1-projects/Mixed2.0",
     "3-resources/Obsidian/Latex in Obsidian.md",
     "00-Zettelkasten/Determinism-Map-vs-Territory.md",
-    "00-Zettelkasten/ZettelKasten Index.md",
-    "Input/Books/ZenAndMotorcycleMaintenance.md",
-    "2-areas/Physics/Physics.md",
-    "00-Zettelkasten/chaos-determinism-and-real-numbers.md",
-    "2-areas/Physics/ABCDMethod.md",
-    "Input/Videos/The Iconoclast Peter Theil video.md",
-    "Input/Papers/Do graph neural networks learn traditional jet substructure?.md",
     "Input/Videos",
     "Untitled",
     "Journal",
@@ -210,7 +212,6 @@
     "Input/Papers",
     "Who",
     "Untitled.canvas",
-    "Untitled 1.canvas",
-    "Pasted image 20240707142114.png"
+    "Untitled 1.canvas"
   ]
 }
