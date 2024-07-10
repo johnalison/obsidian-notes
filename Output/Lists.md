@@ -5,7 +5,7 @@
 - [[Mental Models]]
 - [[Protocols]]
 - [[What do you we do now that will be totally replaced in 100 years?]]
-- [[What important truth do very few people agree with you on?]]
+- [[UnpopularImportantTruth]]
 - [[Montras]]
 - [[People I look up to (North stars)]]
 - [[Paradoxes]]

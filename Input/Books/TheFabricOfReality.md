@@ -18,7 +18,7 @@
 
 - Some philosophers -- and even some scientist -- disparage the role of explanation in science. However the overwhelming majority of theories are rejected b/c they are bad explanations not b/c they fail experimental tests. (eg: eating a kg of grass is a cure for the common cold)
 
-[[What important truth do very few people agree with you on?]]
+[[UnpopularImportantTruth]]
 
 - To say that prediction is the purpose of a scientific theory is to confuse the means with the ends. Passing experimental tests is only one of many things a theory has to do to achieve the real purpose of science, which is to explain the world.
 
@@ -35,10 +35,16 @@
 
 - Our theories are increasing in both depth and breadth. Breadth makes them harder to understand, depth make them easier to understand. One thesis of this book is that (slowly but surely) depth is winning.
 
+[[BreadthAndDepth]]
+
+
 - Higher level subjects are studied because under special circumstances the ridiculously complex behaviors of the vast number of particles involved resolves itself into a measure of simplicity and comprehensibility. This is called emergence: high-level simplicity emerges from low-level complexity.
 
 - The structure of scientific explanation does not reflect the reductionist hierarchy. (B/c of emergence) There are explanations on every level of the hierarchy.
   If fact the very concept "high level" vs "low level" are misnomers. The laws of biology are high-level emergent consequences of the laws of physics, but logically, some of the laws of physics are then "emergent" consequences of the laws of biology.
+
+[[Reductionism]]
+
 
 - What makes a theory more fundamental and less derivative is not closeness to the predictive base of physics, but its closeness to our deepest explanatory theories.
 
@@ -48,10 +54,14 @@
       - Epistemology
       - The Theory of Computation
 
-  Deep and diverse connections have been discovered between the basic principles of these theories. It has become impossible to reach our best understanding of any one of them without also understanding the other three.  Taken together they form a coherent explanatory structure that is far reaching. Claim: Our scope of understanding begins to be fully universal. This "Theory of Everything" has a far wider scope than the "theory of everything" that elementary particle physicists are seeking. The fabric of reality does not consist only of reductionist ingredients such as space, time and subatomic particles, but also for example, life, thought, and computation.
+  Deep and diverse connections have been discovered between the basic principles of these theories. It has become impossible to reach our best understanding of any one of them without also understanding the other three.  Taken together they form a coherent explanatory structure that is far reaching. **Claim**: Our scope of understanding begins to be fully universal. This "Theory of Everything" has a far wider scope than the "theory of everything" that elementary particle physicists are seeking. The fabric of reality does not consist only of reductionist ingredients such as space, time and subatomic particles, but also for example, life, thought, and computation.
 
-- The basic experiments that demonstrate QM and the necessity of many worlds are austere and they require neither specialized scientific instruments or any great knowledge of math or physics. The essentially involve nothing but casting shadows. The patters of light and shadow that an ordinary light can cast are very strange.
-  Explaining them requires not just a new physical law, but a new level of description and explanation that goes beyond what was previously regarded as being in the scope of science.
+[[Reductionism]]
+
+- The basic experiments that demonstrate QM and the necessity of many worlds are austere and they require neither specialized scientific instruments or any great knowledge of math or physics. The essentially involve nothing but casting shadows. The patters of light and shadow that an ordinary light can cast are very strange.  Explaining them requires not just a new physical law, but a new level of description and explanation that goes beyond what was previously regarded as being in the scope of science.
+
+[[ManyWorlds]]
+
 
 - Careful experiments show that light does not always travel in straight lines, sometimes it bends.
 
@@ -59,6 +69,7 @@
 
 - The interfering entities behave exactly like photons ... except that they cannot be seen.  It appears that photons come it two sorts "tangible" and "shadow" photons. Tangible are the normal photons we can see. Shadow photons are invisible, detectable only indirectly through their interference effects on the tangible photons. What we infer is that each tangible photon has an accompanying retinue of shadow photons, and when a photon passes through one of the four slits, some of the shadow photons pass through the other three. Experiments imply that there must be at least a trillion (10^12) shadow photons for each tangible one. The only thing in the universe that shadow photons can be observed to affect is the tangible photons that it accompanies. Shadow photons would go entirely unnoticed were it not for the phenomenon of interference. Reality is a much bigger thing that it seems, most of it is invisible. We, with our instruments, can only observe the tip of the iceberg.
 
+[[ManyWorlds]]
 
 - Hence there is some sort of shadow barrier at the same location as the tangible barrier. It takes no great leap of imagination to conclude that the shadow barrier is made up of shadow atoms that we already know bust be present as counterparts of tangible atoms in the barrier.
 
