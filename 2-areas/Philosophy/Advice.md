@@ -1,4 +1,5 @@
-
+Most people are bad at giving advice based on thier experience.  Instead ask them to tell you "their story"
+  
    1. Focus your Energy
    2. Guard your Time
    3. Train your Mind

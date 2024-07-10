@@ -7,6 +7,7 @@
   - Understand self-through observation (You are what you think/ Attention / Connection with present
   - Stoicism: AF, MM, Stoic Test Challenge / Respond dont react/ Only control what you can control
   - Health / Longevity
+  - A sign of character is the ability to learn from people you might not like.
 
 
 

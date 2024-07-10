@@ -37,26 +37,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Input/Books/Books.md",
+                "file": "00-Zettelkasten/Innovation Comes From Knowing More.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "9e05cb50a242edaa",
+            "id": "5e176d0bd9433ff8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/Cryptocurrencies and Blockchains.md",
+                "file": "Input/Blogs/BestEssay-From-PaulGraham.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e99ef0fb50228ac5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Input/Blogs/BestEssay-From-PaulGraham.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8eec1bd680506885",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3-resources/computing/Sed.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -85,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "books",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -122,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/Cryptocurrencies and Blockchains.md",
+                "file": "3-resources/computing/Sed.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/Cryptocurrencies and Blockchains.md",
+                "file": "3-resources/computing/Sed.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/Cryptocurrencies and Blockchains.md"
+                "file": "3-resources/computing/Sed.md"
               }
             }
           }
@@ -183,45 +207,45 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9e05cb50a242edaa",
+  "active": "8eec1bd680506885",
   "lastOpenFiles": [
-    "Journal/9 July 24.md",
-    "0-inbox/Cryptocurrencies and Blockchains.md",
-    "Input/Meetings/Chat with Elliot about future hadron colliders.md",
-    "0-inbox/Wesley Terrill.md",
-    "0-inbox/Sindhu Murthy.md",
-    "Input/Books/TheFabricOfReality.md",
-    "Input/Books/Books.md",
-    "Input/Books/TheWorldWithoutUs.md",
-    "Input/Books/WakingUp.md",
-    "Input/Books/ASupposedlyFunThing.md",
-    "Input/Books/WhyBuddhismIsTrue.md",
-    "Input/Books/CharacterOfPhysicalLaw.md",
-    "Input/Books/DreamsOfAFinalTheory.md",
-    "Input/Books/FourThousandWeeks.md",
-    "3-resources/Obsidian/Obsidian-Intro.md",
-    "Input/Books/Viral.md",
-    "0-inbox/obsidian.md",
-    "00-Zettelkasten/Use ZettelKasting For Mindfulness.md",
-    "3-resources/Obsidian/ZettelKasten-video.md",
-    "00-Zettelkasten/ZettelKasten Index.md",
-    "templates/Zettel Template.md",
-    "3-resources/emacs/emacs-file-search.md",
-    "2-areas/Philosophy/Protocols.md",
+    "ThingsThatGoFasterThanLight.md",
+    "3-resources/computing/Sed.md",
+    "TheSubjectionOfWomen.md",
+    "MarkRecapture.md",
+    "Input/Papers/Bentham.md",
+    "Input/Papers/BatchNormalization.md",
+    "Input/Papers/AutomatedVisualInspectionOFHGCSensors.md",
+    "AutoregressiveModels.md",
+    "Input/Papers/AttentionIsAllYouNeed.md",
+    "Output/CMU MAC Article.md",
+    "0-inbox/MeasurementCjetMistaggingEffintTTbarATLAS.md",
+    "WhatAreNormalizingFlows.md",
+    "Wgamma138CMS.md",
+    "UnderstandingImprovingCNNsConcatenatedRLu.md",
+    "UnderstandingDeepLearningRequiresReThinkingGeneralizaiton.md",
+    "TrainLongerGeneralizeBetter.md",
+    "TheScienceOfScientificWriting.md",
+    "TheMossbauerEffectScientificAmerican.md",
+    "TheLundJetPland.md",
+    "TheBlackHolePhotonRing.md",
+    "SystematicErrorsFactsAndFictions.md",
+    "SoftDiscplacedTracks.md",
+    "SnowmassExecutiveSummary.md",
+    "SearchForSoftUnclusteredEnergyPatternsCMS.md",
+    "SMParametersInYourEverydayLife.md",
+    "SEARCH_FOR_BARYON-NUMBER-VIOLATING_PROCESSES_IN_Belle.md",
+    "Output/HGCMACArticle.txt",
+    "Input/Dharma",
+    "Climate-change-is-overrated",
+    "Input/Blogs",
     "Pasted image 20240707142114.png",
-    "Welcome.md",
-    "Output/Lists.md",
-    "3-resources/Obsidian/Ideas-for-emacs-Obsidian.md",
     "Input/Meetings",
     "2-areas/Mentoring",
     "1-projects/Mixed2.0",
     "Input/Videos",
     "Untitled",
     "Journal",
-    "Input/Lectures",
-    "Output",
-    "Input/Papers",
-    "Who",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
