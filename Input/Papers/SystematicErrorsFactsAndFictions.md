@@ -1,5 +1,9 @@
 https://arxiv.org/abs/hep-ex/0207026
 
+[[UncertiantyOnUncertianty]]
+
+
+
 - Interesting. Great commentary on errors on errors: Conclusions! dont go there.
 
 - Statistics provides tools to identify a mistake, but not to use it.

@@ -19,3 +19,4 @@ Sources: https://www.youtube.com/watch?v=i7LjDvsLWCg
 
 - Trick to reduce the diminionsality of latent space (above has the same as the input data)
    Can enforce smaller latent dim. with something called "Real NVP"
+[[NormalizingFlows]]

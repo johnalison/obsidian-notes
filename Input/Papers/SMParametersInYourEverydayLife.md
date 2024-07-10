@@ -3,6 +3,9 @@ https://cds.cern.ch/record/306051?ln=en
 
 - Contrary to popular conception, the purpose of particle physics is to understand the everyday world.
 
+[[PhilosophyOfPhysics]]
+
+
 - Current theory depends on eighteen parameters, which are a priori arbitrary.
 
 - Until we can explain the origin of these parameters, we cannot say we truly understand why our everyday world is as it is.
@@ -45,3 +48,5 @@ https://cds.cern.ch/record/306051?ln=en
 - the eighteen arbitrary parameters of the standard model are the recipe out of which the universe is made.
 
 -  Particle physicists construct accelerators and detectors not ultimately to find the t quark or the Higgs boson, but because that is the only way to learn why our everyday world is the way it is.
+
+[[Physics]]

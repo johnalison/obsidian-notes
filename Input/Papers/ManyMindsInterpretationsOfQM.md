@@ -1,5 +1,8 @@
 https://www.ibiblio.org/weidai/Many_Minds.pdf
 
+[[ManyWorlds]]
+[[QM]]
+
 - 90 years after the discovery of modern QM, there is still no consensus as to how the theory should be understood.
     What is clear is that: "There are no conservative options."
 

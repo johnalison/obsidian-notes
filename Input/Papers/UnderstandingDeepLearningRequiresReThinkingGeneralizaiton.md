@@ -24,3 +24,4 @@ https://browse.arxiv.org/pdf/1611.03530.pdf
    However, it is unlikely that the regularizers are the fundamental reason for generalization, as the networks continue to perform well after all the regularizers removed.
 
 - out of all models that exactly fit the data, SGD will often converge to the solution with minimum norm.
+

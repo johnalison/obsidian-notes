@@ -35,3 +35,5 @@ Source: https://deepgenerativemodels.github.io/notes/flow/
 
 - RealNVP adds scaling factors to the transformation.
   This results in a non-volume preserving transformation.
+
+[[NormalizingFlows]]

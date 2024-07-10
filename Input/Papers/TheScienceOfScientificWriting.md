@@ -1,5 +1,8 @@
 The Science of Scientific Writing  (G. Gopen and J. Swan)
 
+[[Protocols]]
+[[writting]]
+
 - Readers do not simply read; they interpret
 
 - Since we read left to right, we prefer the context on the left, where it can more effectively familiarize the reader.
@@ -10,15 +13,12 @@ The Science of Scientific Writing  (G. Gopen and J. Swan)
 - Without the verb, we do not know what the subject is doing, or what the sentence is all about.
   As a result, the reader focuses attention on the arrival of the verb and resists recognizing anything in the interrupting material as being of primary importance.
 
-- Each unit of discourse, no matter what the size, is expected to serve a single function, to make a single point.
-  In the case of a sentence, the point is expected to appear in a specific place reserved for emphasis.
+- Each unit of discourse, no matter what the size, is expected to serve a single function, to make a single point.  In the case of a sentence, the point is expected to appear in a specific place reserved for emphasis.
 
 - Readers naturally emphasize the material that arrives at the end of a sentence.
-  We refer to that location as a "stress position".
-  If a writer is consciously aware of this tendency, she can arrange for the emphatic information to appear at the moment the reader is naturally exerting the greatest reading emphasis.
+  We refer to that location as a "stress position".  If a writer is consciously aware of this tendency, she can arrange for the emphatic information to appear at the moment the reader is naturally exerting the greatest reading emphasis.
 
-- Beginning with the exciting material and ending with a lack of luster often leaves us disappointed and destroys our sense of momentum.
-  We do not start with strawberry shortcake and work our way up to the broccoli.
+- Beginning with the exciting material and ending with a lack of luster often leaves us disappointed and destroys our sense of momentum.  We do not start with strawberry shortcake and work our way up to the broccoli.
 
 - The stress position coincides with the moment of syntactic closure.
   A reader has reached the beginning of the stress position when she knows there is nothing left in the clause or sentence but the material presently being read.

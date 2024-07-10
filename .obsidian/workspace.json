@@ -13,74 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-projects/Mixed2.0/mixed2.0.md",
+                "file": "0-inbox/StatsChat-10-July-24.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "3f6e32e83e54bed3",
+            "id": "2f2d1b0d089fd517",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Output/Lists.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6bdd698a6eed733a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00-Zettelkasten/Innovation Comes From Knowing More.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5e176d0bd9433ff8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Input/Blogs/BestEssay-From-PaulGraham.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e99ef0fb50228ac5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Input/Blogs/BestEssay-From-PaulGraham.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8eec1bd680506885",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Input/Books/TheFabricOfReality.md",
+                "file": "00-Zettelkasten/ZettelKasten Index.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,8 +60,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "consume",
-                "matchingCase": false,
+                "query": "zett",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -126,8 +77,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -147,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Input/Books/TheFabricOfReality.md",
+                "file": "0-inbox/StatsChat-10-July-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Input/Books/TheFabricOfReality.md",
+                "file": "0-inbox/StatsChat-10-July-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Input/Books/TheFabricOfReality.md"
+                "file": "0-inbox/StatsChat-10-July-24.md"
               }
             }
           }
@@ -208,34 +158,35 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8eec1bd680506885",
+  "active": "a47fe5559800e81e",
   "lastOpenFiles": [
-    "0-inbox/BreadthAndDepth.md",
-    "Input/Books/TheFabricOfReality.md",
-    "2-areas/Philosophy/UnpopularImportantTruth.md",
+    "Journal/10 July 24.md",
+    "0-inbox/StatsChat-10-July-24.md",
+    "0-inbox/WorkingPhilosophy.md",
+    "00-Zettelkasten/ZettelKasten Index.md",
+    "00-Zettelkasten/Teachers-vs-Experts.md",
+    "00-Zettelkasten/Reliability-beats-Fancy-Skills.md",
+    "00-Zettelkasten/Problem-with-market-cap.md",
+    "00-Zettelkasten/Kids-as-a-mindfulness-gauge.md",
+    "00-Zettelkasten/Determinism-Map-vs-Territory.md",
+    "00-Zettelkasten/chaos-determinism-and-real-numbers.md",
+    "00-Zettelkasten/Breadth-vs-depth-Inputs-and-Outputs.md",
     "Input/Books/Books.md",
-    "3-resources/computing/Sed.md",
-    "ThingsThatGoFasterThanLight.md",
-    "TheSubjectionOfWomen.md",
-    "MarkRecapture.md",
-    "Input/Papers/Bentham.md",
-    "Input/Papers/BatchNormalization.md",
-    "Input/Papers/AutomatedVisualInspectionOFHGCSensors.md",
-    "AutoregressiveModels.md",
-    "Input/Papers/AttentionIsAllYouNeed.md",
-    "Output/CMU MAC Article.md",
-    "0-inbox/MeasurementCjetMistaggingEffintTTbarATLAS.md",
-    "WhatAreNormalizingFlows.md",
-    "Wgamma138CMS.md",
-    "UnderstandingImprovingCNNsConcatenatedRLu.md",
-    "UnderstandingDeepLearningRequiresReThinkingGeneralizaiton.md",
-    "TrainLongerGeneralizeBetter.md",
-    "TheScienceOfScientificWriting.md",
-    "TheMossbauerEffectScientificAmerican.md",
-    "TheLundJetPland.md",
-    "TheBlackHolePhotonRing.md",
-    "SystematicErrorsFactsAndFictions.md",
-    "SoftDiscplacedTracks.md",
+    "00-Zettelkasten/Innovation Comes From Knowing More.md",
+    "0-inbox/#WorkingPhilosophy.md#",
+    "2-areas/Philosophy/Leadership.md",
+    "2-areas/Philosophy/Politics.md",
+    "Input/Books/BeginningOfInfinity.md",
+    "Input/Books/Antifragile.md",
+    "2-areas/Philosophy/AI.md",
+    "Input/Books/AIModernApproach.md",
+    "2-areas/Philosophy/History.md",
+    "Input/Books/AlwasyWithHonor.md",
+    "0-inbox/Things-To-Add-To-Notes.md",
+    "Input/Videos/WhatAreNormalizingFlows.md",
+    "Input/Papers/UnderstandingImprovingCNNsConcatenatedRLu.md",
+    "Input/Papers/TrainLongerGeneralizeBetter.md",
+    "Input/Papers/HistoryAsEvolution.md",
     "Output/HGCMACArticle.txt",
     "Input/Dharma",
     "Climate-change-is-overrated",
@@ -246,7 +197,6 @@
     "1-projects/Mixed2.0",
     "Input/Videos",
     "Untitled",
-    "Journal",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]

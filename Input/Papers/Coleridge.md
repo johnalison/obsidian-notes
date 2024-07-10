@@ -1,4 +1,4 @@
-#Coleridge  (John Stuart Mill)
+ (John Stuart Mill)
 https://www.earlymoderntexts.com/assets/pdfs/mill1838.pdf
 
 - With Coleridge, contrary to Bentham, the very fact that any doctrine had been believed by thoughtful men and accepted by whole nations or generations of mankind was part of the problem to be solved—of the phenomena to be explained.

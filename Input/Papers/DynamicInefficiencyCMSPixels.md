@@ -1,5 +1,8 @@
 https://iopscience.iop.org/article/10.1088/1748-0221/10/05/C05006/pdf
 
+[[CMS]]
+
+
 - The sensor efficiency is defined by excluding the following sources of inefficiency: permanently damaged detector parts, modules with readout errors
 and Single Event Upsets (SEU).
 

@@ -1,4 +1,4 @@
-- Cognitive revolution: History separates from biology. Narrative is now primary means of explaining the development of humans (Not biological theories) 
+AI- Cognitive revolution: History separates from biology. Narrative is now primary means of explaining the development of humans (Not biological theories) 
 
 - "History is Philosophy taught with examples"
 

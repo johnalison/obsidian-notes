@@ -9,3 +9,7 @@ https://arxiv.org/abs/2109.10627
 - The distribution of the btagging discriminant for jets from the hadronic Wdecays in data is compared with that in simulation to extract the mistagging efficiency as a function of jet transverse momentum. 
 
 - The technique has the advantage that it does not depend on a specific hadron decay chain topology.
+
+
+[[CMS]]
+[[Physics]]

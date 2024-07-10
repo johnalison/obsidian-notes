@@ -35,3 +35,6 @@ https://indico.cern.ch/event/1218225/contributions/5385268/attachments/2644882/4
 Start now a targeted program for detector R&D for Higgs Factories
 § Support a fast start of the construction of a Higgs factory somewhere in
 the world
+
+[[Physics]]
+[[CMS]]

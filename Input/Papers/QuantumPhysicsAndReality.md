@@ -1,6 +1,8 @@
 Quantum Physics and Reality (Bryce DeWitt)
 https://physicstoday.scitation.org/doi/10.1063/1.3022331
 
+[[ManyWorlds]]
+
 - It is the elementary component that must be understood if we are to understand quantum mechanics itself.
 
 - In other words, the wave function of the apparatus takes the form of a packet that is initially single but subsequently splits, as a result of the coupling to the system, into a multitude of mutually

@@ -1,3 +1,5 @@
+[[CMS]]
+
 -  the lifetime of hadrons containing b quarks is of the order of 1.5 ps, while the lifetime of c hadrons is 1 ps or less.
 
 - The impact parameter is defined to be positive or negative, with a
