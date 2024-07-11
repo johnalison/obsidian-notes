@@ -1,6 +1,10 @@
 
 # Leadership is a skill that can be taught/learned
 
+#Consume 
+
+
+
 - How do you become a better leader ? 
    >   - Listen to people
    >   - Avoid ideology 

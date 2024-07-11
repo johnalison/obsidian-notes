@@ -1,6 +1,8 @@
 # Amor Fati: Embrace what happens, it couldn't have been otherwise.  You can only control what you can control.
 
 
+#Consume
+
 - Need to embrace what happens.
 
 - You don't control what happens externally to you. You are only responsible for you choices/actions. 

@@ -1,5 +1,10 @@
 # Moral duty to become more rational.
 
+#Consume
+
+[[Philosophy]]
+
+
 - Easier and more effective to learn from others mistakes
 
 

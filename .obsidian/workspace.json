@@ -13,7 +13,43 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/WorkingPhilosophy.md",
+                "file": "Input/WorkingPhilosophy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "adcca05505197a02",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-inbox/Dealing-With-Setbacks.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f2fb14d31dc987dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00-Zettelkasten/Purpose-of-Philosophy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c9e39177b61bad6f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00-Zettelkasten/Epicurean-four-part-cure.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,13 +61,26 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "2-areas/Philosophy/Core Virtues.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4a0cd97c53d59b50",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "00-Zettelkasten/ZettelKasten Index.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -60,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "zett",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/WorkingPhilosophy.md",
+                "file": "0-inbox/Dealing-With-Setbacks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/WorkingPhilosophy.md",
+                "file": "0-inbox/Dealing-With-Setbacks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/WorkingPhilosophy.md"
+                "file": "0-inbox/Dealing-With-Setbacks.md"
               }
             }
           }
@@ -158,35 +207,36 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a47fe5559800e81e",
+  "active": "adcca05505197a02",
   "lastOpenFiles": [
-    "Input/Meetings/StatsChat-10-July-24.md",
-    "Journal/10 July 24.md",
-    "0-inbox/WorkingPhilosophy.md",
+    "Input/WorkingPhilosophy.md",
     "00-Zettelkasten/ZettelKasten Index.md",
-    "00-Zettelkasten/Teachers-vs-Experts.md",
-    "00-Zettelkasten/Reliability-beats-Fancy-Skills.md",
-    "00-Zettelkasten/Problem-with-market-cap.md",
-    "00-Zettelkasten/Kids-as-a-mindfulness-gauge.md",
-    "00-Zettelkasten/Determinism-Map-vs-Territory.md",
-    "00-Zettelkasten/chaos-determinism-and-real-numbers.md",
-    "00-Zettelkasten/Breadth-vs-depth-Inputs-and-Outputs.md",
-    "Input/Books/Books.md",
-    "00-Zettelkasten/Innovation Comes From Knowing More.md",
-    "0-inbox/#WorkingPhilosophy.md#",
-    "2-areas/Philosophy/Leadership.md",
-    "2-areas/Philosophy/Politics.md",
-    "Input/Books/BeginningOfInfinity.md",
-    "Input/Books/Antifragile.md",
-    "2-areas/Philosophy/AI.md",
-    "Input/Books/AIModernApproach.md",
-    "2-areas/Philosophy/History.md",
-    "Input/Books/AlwasyWithHonor.md",
+    "2-areas/Philosophy/Core Virtues.md",
+    "00-Zettelkasten/Epicurean-four-part-cure.md",
+    "00-Zettelkasten/Purpose-of-Philosophy.md",
+    "0-inbox/Dealing-With-Setbacks.md",
+    "2-areas/Philosophy/wrong in future.md",
+    "2-areas/Philosophy/Munger.md",
+    "Input/Lectures/Great Lectures.md",
     "0-inbox/Things-To-Add-To-Notes.md",
-    "Input/Videos/WhatAreNormalizingFlows.md",
-    "Input/Papers/UnderstandingImprovingCNNsConcatenatedRLu.md",
-    "Input/Papers/TrainLongerGeneralizeBetter.md",
-    "Input/Papers/HistoryAsEvolution.md",
+    "2-areas/Philosophy/Working-Philosophy.md",
+    "2-areas/Philosophy/Wishes.md",
+    "2-areas/Philosophy/Why Now is interesting.md",
+    "2-areas/Philosophy/What Will be Totally Replaced in 100 years?.md",
+    "2-areas/Philosophy/UnpopularImportantTruth.md",
+    "2-areas/Philosophy/Things where experts disagree.md",
+    "2-areas/Philosophy/Things Ive changed my mind on.md",
+    "2-areas/Philosophy/Things I want to learn.md",
+    "2-areas/Philosophy/ShouldTeachKids.md",
+    "2-areas/Philosophy/Rules.md",
+    "2-areas/Philosophy/Quotes for cards.md",
+    "2-areas/Philosophy/Protocols.md",
+    "Input/Politics.md",
+    "2-areas/Philosophy/Philosophy.md",
+    "2-areas/Philosophy/NowIsDifferent.md",
+    "2-areas/Philosophy/Montras.md",
+    "Rationality",
+    "0-inbox/#WorkingPhilosophy.md#",
     "Output/HGCMACArticle.txt",
     "Input/Dharma",
     "Climate-change-is-overrated",
@@ -196,7 +246,6 @@
     "2-areas/Mentoring",
     "1-projects/Mixed2.0",
     "Input/Videos",
-    "Untitled",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]

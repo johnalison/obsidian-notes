@@ -1,5 +1,9 @@
 # You are what you think, but with practice, you can change what you think
 
+[[Philosophy]]
+
+#Consume 
+
 - Perfection not required
 
 - Begin Again

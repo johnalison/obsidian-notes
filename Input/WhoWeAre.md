@@ -1,3 +1,5 @@
+#Consume 
+
 - Our brains are powerful computers but with arcane operating systems 
 - Emotions (Algorithms) very fast efficient, but often used out of context.
 - Quickly becoming gods (or racing to event new ones (AI)) without wisdom. 

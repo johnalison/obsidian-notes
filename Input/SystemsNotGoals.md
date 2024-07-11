@@ -1,6 +1,8 @@
 
 # Systems Not Goals
 
+#Consume 
+
 - Habits compound interest of self improvement
 
 - Ceiling set by Goals, floor set by system

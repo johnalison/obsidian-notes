@@ -1,5 +1,7 @@
 # Don't Lie! (Evil only possible through lies)
 
+#Consume 
+
 - “Keep conscience clean, then never fear”  - Poor Richards Almanac
 
 - “The foundation of morality is to have done away, once and for all, with lying” - Thomas Huxley

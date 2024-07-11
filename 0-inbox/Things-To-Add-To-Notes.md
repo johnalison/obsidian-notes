@@ -1,6 +1,7 @@
 
-~/Philosophy
+
 Notebook collections
+Trello?
 
 
 

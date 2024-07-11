@@ -1,5 +1,9 @@
 # Strict with yourself, Lenient with others (Extreme Ownership)
 
+[[Philosophy]]
+
+#Consume 
+
 - Poor Richard: Neglect kills injuries, Revenge increases them
 
 - Need more forgiveness

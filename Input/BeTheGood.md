@@ -1,5 +1,7 @@
 # Be the good: Intelligent ACTION is power
 
+
+#Consume 
 - To get what you want, deserve what you want - Charlie Munger
 
 - “The great end of life is not knowledge, but action” - Thomas Huxley

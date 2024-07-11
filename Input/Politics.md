@@ -1,5 +1,7 @@
 # Politics
 
+#Consume 
+
 - Power of thinking about diminishing returns not respected by enough democrats/liberals. Worth getting problems 90% solved; the extra 10% is often not worth the cost, politically
 
 - Socialism for needs, Capitalism for wants. 

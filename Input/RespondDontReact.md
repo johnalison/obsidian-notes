@@ -1,5 +1,7 @@
 # Respond, don't React (Employ Stoic Test Strategy) 
 
+#Consume
+
 - Anger/ Losing temper is never good, never improves the situation.
 
   > Always best to “observe” the anger, Reflect then respond. Response

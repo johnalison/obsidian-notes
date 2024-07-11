@@ -1,6 +1,8 @@
 
 # Memento Mori: All we have is time; lack of attention throws it away
 
+#Consume
+
 - "Now we flourish as before others did. And soon others will whose children we shall never see."
 
 - Death always with us, dying moment at a time.

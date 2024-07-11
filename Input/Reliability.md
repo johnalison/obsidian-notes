@@ -1,5 +1,7 @@
 # Reliability
 
+#Consume 
+
   - Honesty: telling what you believe to be the truth
   - Integrity: having agreement between what you say and do
 

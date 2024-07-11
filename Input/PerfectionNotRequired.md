@@ -1,5 +1,7 @@
 # Perfection Not required, effective self-improvement critical 
 
+#Consume 
+
 - Seek out feedback loops
 
   > these give an easy path to self-improvement. However its important

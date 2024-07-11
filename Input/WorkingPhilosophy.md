@@ -1,32 +1,9 @@
 
 # Core Tenets of Personal Philosophy: 
-
-   1) [Moral duty to become more rational.](https://github.com/johnalison/WorkingPhilosophy/blob/master/Rationality.md)
-   2) [You are what you think, but with practice, you can change what you think](https://github.com/johnalison/WorkingPhilosophy/blob/master/YouAreWhatYouThink.md)
-   3) [Strict with yourself, Lenient with others (Extreme Ownership)](https://github.com/johnalison/WorkingPhilosophy/blob/master/StrictWithYourself.md)
-   4) [Don't Lie! (Evil only possible through lies) ](https://github.com/johnalison/WorkingPhilosophy/blob/master/DontLie.md)
-   5) [Be the good. (Intelligent ACTION is power)](https://github.com/johnalison/WorkingPhilosophy/blob/master/BeTheGood.md)
-   6) [Amor Fati (What happens couldn't be otherwise. You can only control what you can control)](https://github.com/johnalison/WorkingPhilosophy/blob/master/AmorFati.md)
-   7) [Memento Mori: All we have is time; lack of attention throws it away](https://github.com/johnalison/WorkingPhilosophy/blob/master/MomentoMori.md)
-   8) [Respond, don't React (Employ Stoic Test Strategy)](https://github.com/johnalison/WorkingPhilosophy/blob/master/RespondDontReact.md)
-   9) [Systems not Goals](https://github.com/johnalison/WorkingPhilosophy/blob/master/SystemsNotGoals.md)
-   10) [Perfection Not required, effective self-improvement critical](https://github.com/johnalison/WorkingPhilosophy/blob/master/PerfectionNotRequired.md)
-   11) [Do not let your happiness (well-being) depend on things you cannot control](https://github.com/johnalison/WorkingPhilosophy/blob/master/Happiness.md)
+  
+   #Consume 
 
 
-- Philosophy is the science of wisdom, and wisdom is the art of living.  Happiness is the goal, but virtue, not pleasure, is the road. The old ridiculed maxims are correct and are perpetually verified by experience; in the long run honesty, justice, forbearance, kindliness, bring us more happiness than ever comes from the pursuit of pleasure.  -- Will Durant
-
-- Its better to remember the obvious than to grasp the esoteric - Charlie Munger
-
-- "You have got to know what you know and what you dont know. What could possible be more useful in life than that ?"  -  Charlie Munger
-
-- The epicurean four part cure: Dont fear god, Dont worry about death, What is good is easy to get, and what is terrible is easy to endure
-
-- You don’t control the world around you, only how you respond— and you must always respond with courage, temperance, wisdom, and justice.
-
-- How to live with stress and not be stressed out is a major goal of Philosophy 
-
-- Purpose of philosophy not to achieve some perfect ideal, but to keep becoming more complete, more happy, more “X and happy” where x = { sick, in danger, disgraced, etc} Philosophy should keep the well-being independent from the x, which is largely out of our control. 
 
 - Worth spending time and energy developing a plan to minimize emotional harm from unexpected (and inevitable) setbacks. 
 

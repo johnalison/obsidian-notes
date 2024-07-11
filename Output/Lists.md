@@ -4,7 +4,7 @@
 - [[Things where experts disagree]]
 - [[Mental Models]]
 - [[Protocols]]
-- [[What do you we do now that will be totally replaced in 100 years?]]
+- [[What Will be Totally Replaced in 100 years?]]
 - [[UnpopularImportantTruth]]
 - [[Montras]]
 - [[People I look up to (North stars)]]
