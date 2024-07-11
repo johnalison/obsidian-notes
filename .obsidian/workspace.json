@@ -46,31 +46,19 @@
             }
           },
           {
-            "id": "c1fcd6cf839e46c6",
+            "id": "b261a7353118d6f3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Input/Meetings/Chat with Sam SURA 11 July 2024.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e20ba6e4cddd2202",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0-inbox/CMUbbWW 11 July 2024.md",
+                "file": "0-inbox/Setting up Obsidian Git on iPAD.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -136,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/CMUbbWW 11 July 2024.md",
+                "file": "0-inbox/Setting up Obsidian Git on iPAD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/CMUbbWW 11 July 2024.md",
+                "file": "0-inbox/Setting up Obsidian Git on iPAD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/CMUbbWW 11 July 2024.md"
+                "file": "0-inbox/Setting up Obsidian Git on iPAD.md"
               }
             }
           }
@@ -198,15 +186,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e20ba6e4cddd2202",
+  "active": "b261a7353118d6f3",
   "lastOpenFiles": [
     "Journal/11 July 24.md",
+    "0-inbox/Setting up Obsidian Git on iPAD.md",
+    "0-inbox/decluster3b.md",
+    "Input/Meetings/Chat with Sam SURA 11 July 2024.md",
     "0-inbox/CMUbbWW 11 July 2024.md",
     "1-projects/Mixed2.0/mixed2.0.md",
     "0-inbox/Things-To-Add-To-Notes.md",
     "0-inbox/HHbbWW.md",
-    "0-inbox/decluster3b.md",
-    "Input/Meetings/Chat with Sam SURA 11 July 2024.md",
     "00-Zettelkasten/Genius-OneIdea-plus-dogged-persuit.md",
     "00-Zettelkasten/ZettelKasten Index.md",
     "3-resources/Obsidian/links in markdown.md",
@@ -225,7 +214,6 @@
     "2-areas/Philosophy/Why Now is interesting.md",
     "2-areas/Philosophy/What Will be Totally Replaced in 100 years?.md",
     "2-areas/Philosophy/UnpopularImportantTruth.md",
-    "2-areas/Philosophy/Things where experts disagree.md",
     "Rationality",
     "0-inbox/#WorkingPhilosophy.md#",
     "Output/HGCMACArticle.txt",
