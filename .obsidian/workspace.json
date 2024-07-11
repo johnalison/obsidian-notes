@@ -63,7 +63,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/11 July 24.md",
+                "file": "0-inbox/Setting up Obsidian Git on iPAD.md",
                 "mode": "source",
                 "source": false
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/11 July 24.md",
+                "file": "0-inbox/Setting up Obsidian Git on iPAD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/11 July 24.md",
+                "file": "0-inbox/Setting up Obsidian Git on iPAD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/11 July 24.md"
+                "file": "0-inbox/Setting up Obsidian Git on iPAD.md"
               }
             }
           }
@@ -200,8 +200,8 @@
   },
   "active": "7b349302731194c4",
   "lastOpenFiles": [
-    "0-inbox/Setting up Obsidian Git on iPAD.md",
     "Journal/11 July 24.md",
+    "0-inbox/Setting up Obsidian Git on iPAD.md",
     "0-inbox/decluster3b.md",
     "Input/Meetings/Chat with Sam SURA 11 July 2024.md",
     "0-inbox/CMUbbWW 11 July 2024.md",
