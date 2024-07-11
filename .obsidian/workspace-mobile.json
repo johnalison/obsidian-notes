@@ -11,11 +11,29 @@
             "id": "852b5257d2c45cfb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Journal/11 July 24.md",
-                "mode": "source",
-                "source": false
+                "file": "0-inbox/Drawing 2024-07-11 14.42.16.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "b960a76a39405aa2",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "0-inbox/Drawing 2024-07-11 14.42.16.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "69f92998c83a40ba",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Input/Drawing 2024-07-11 14.48.02.excalidraw.md"
               }
             }
           }
@@ -85,7 +103,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Journal/11 July 24.md",
+            "file": "0-inbox/Drawing 2024-07-11 14.42.16.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +120,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Journal/11 July 24.md",
+            "file": "0-inbox/Drawing 2024-07-11 14.42.16.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +132,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Journal/11 July 24.md"
+            "file": "0-inbox/Drawing 2024-07-11 14.42.16.excalidraw.md"
           }
         }
       }
@@ -129,11 +147,18 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "852b5257d2c45cfb",
   "lastOpenFiles": [
+    "Journal/11 July 24.md",
+    "0-inbox/Drawing 2024-07-11 14.42.16.excalidraw.md",
+    "0-inbox/CMUbbWW 11 July 2024.md",
+    "Excalidraw/Drawing 2024-07-11 14.47.45.excalidraw.md",
+    "Input/Drawing 2024-07-11 14.48.02.excalidraw.md",
+    "Excalidraw",
     "0-inbox/Setting up Obsidian Git on iPAD.md",
     "/Journal/11 July 24.md",
     "/0-inbox/Setting up Obsidian Git on iPAD.md",
