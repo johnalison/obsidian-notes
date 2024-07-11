@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a47fe5559800e81e",
+            "id": "588cd4c905a8fb24",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Input/WorkingPhilosophy.md",
+                "file": "Input/Papers/Do graph neural networks learn traditional jet substructure?.md",
                 "mode": "source",
                 "source": false
               }
@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/decluster3b.md",
+                "file": "1-projects/Mixed2.0/decluster3b.md",
                 "mode": "source",
                 "source": false
               }
@@ -51,7 +51,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/Setting up Obsidian Git on iPAD.md",
+                "file": "Input/Videos/Setting up Obsidian Git on iPAD.md",
                 "mode": "source",
                 "source": false
               }
@@ -63,14 +63,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/Chat with Daniel Primosch 11 July 2024.md",
+                "file": "Input/Videos/Excalidraw intro video.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e253b4c1292ea31e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-inbox/PGSS Planning.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -136,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/Chat with Daniel Primosch 11 July 2024.md",
+                "file": "0-inbox/PGSS Planning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/Chat with Daniel Primosch 11 July 2024.md",
+                "file": "0-inbox/PGSS Planning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,12 +188,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/Chat with Daniel Primosch 11 July 2024.md"
+                "file": "0-inbox/PGSS Planning.md"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -199,35 +210,36 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7b349302731194c4",
+  "active": "e253b4c1292ea31e",
   "lastOpenFiles": [
-    "Input/Videos/Excalidraw intro video.md",
-    "Journal/11 July 24.md",
-    "0-inbox/Chat with Daniel Primosch 11 July 2024.md",
     "0-inbox/Drawing 2024-07-11 14.42.16.excalidraw.md",
-    "0-inbox/decluster3b.md",
-    "0-inbox/CMUbbWW 11 July 2024.md",
+    "00-Zettelkasten/ZettelKasten Index.md",
+    "00-Zettelkasten/It helps to write stuff down.md",
+    "Journal/11 July 24.md",
+    "0-inbox/PGSS Planning.md",
+    "2-areas/Mentoring/Alejandro Espinosa.md",
+    "0-inbox/Things-To-Add-To-Notes.md",
+    "Input/Videos/Excalidraw intro video.md",
+    "1-projects/Mixed2.0/mixed2.0.md",
+    "3-resources/Obsidian/links in markdown.md",
+    "0-inbox/[Paper re jets algorithm.md",
+    "1-projects/bbWW/HHbbWW.md",
+    "Input/Papers/Do graph neural networks learn traditional jet substructure?.md",
+    "1-projects/bbWW",
+    "1-projects/Mixed2.0/decluster3b.md",
+    "Input/Videos/Setting up Obsidian Git on iPAD.md",
+    "Input/WorkingPhilosophy.md",
+    "Input/Meetings/CMUbbWW 11 July 2024.md",
+    "Input/Meetings/Chat with Daniel Primosch 11 July 2024.md",
     "Input/Drawing 2024-07-11 14.48.02.excalidraw.md",
     "Excalidraw/Drawing 2024-07-11 14.47.45.excalidraw.md",
     "Excalidraw",
-    "0-inbox/HHbbWW.md",
-    "0-inbox/Setting up Obsidian Git on iPAD.md",
-    "0-inbox/Things-To-Add-To-Notes.md",
     "Input/Meetings/Chat with Sam SURA 11 July 2024.md",
-    "1-projects/Mixed2.0/mixed2.0.md",
     "00-Zettelkasten/Genius-OneIdea-plus-dogged-persuit.md",
-    "00-Zettelkasten/ZettelKasten Index.md",
-    "3-resources/Obsidian/links in markdown.md",
     "0-inbox/[.md",
     "Journal/10 July 24.md",
-    "Input/WorkingPhilosophy.md",
     "2-areas/Philosophy/Core Virtues.md",
     "00-Zettelkasten/Epicurean-four-part-cure.md",
-    "00-Zettelkasten/Purpose-of-Philosophy.md",
-    "00-Zettelkasten/Dealing-With-Setbacks.md",
-    "2-areas/Philosophy/wrong in future.md",
-    "2-areas/Philosophy/Munger.md",
-    "Input/Lectures/Great Lectures.md",
     "Rationality",
     "0-inbox/#WorkingPhilosophy.md#",
     "Output/HGCMACArticle.txt",
@@ -237,7 +249,6 @@
     "Pasted image 20240707142114.png",
     "Input/Meetings",
     "2-areas/Mentoring",
-    "1-projects/Mixed2.0",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
