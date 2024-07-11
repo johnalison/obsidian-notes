@@ -35,6 +35,7 @@ Getting the new mixing going
 - [ ] Script to compare splitting functions in jet multiplicities
 - [ ] Write out picos with clustered jets (write CI)
 - [ ] Write out picos with the declustered jet (write CI)
+- [ ] Fix the extra jet treatment (for now copy jets < 40 and add new jets)
 
   
 
