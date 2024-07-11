@@ -23,6 +23,9 @@ Unclassified:
 
 (Learning as creativity)
 
+[[Genius-OneIdea-plus-dogged-persuit]]
+
+
 [[AdjacentPossible]]
 
 
