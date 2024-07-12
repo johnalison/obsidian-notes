@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/11 July 24.md",
+                "file": "Journal/12 July 24.md",
                 "mode": "source",
                 "source": false
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/11 July 24.md",
+                "file": "Journal/12 July 24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/11 July 24.md",
+                "file": "Journal/12 July 24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/11 July 24.md"
+                "file": "Journal/12 July 24.md"
               }
             }
           }
@@ -177,8 +177,9 @@
   },
   "active": "89cf34ce61562753",
   "lastOpenFiles": [
-    "0-inbox/Why Categories for Your Note Archive are a Bad Idea.md",
     "Journal/11 July 24.md",
+    "Journal/12 July 24.md",
+    "0-inbox/Why Categories for Your Note Archive are a Bad Idea.md",
     "2-areas/CMS/HIG-22-011.md",
     "Input/Papers/CMS Combine Paper.md",
     "0-inbox/Vera Cluster Setup.md",
@@ -202,7 +203,6 @@
     "1-projects/Mixed2.0/decluster3b.md",
     "Input/Videos/Setting up Obsidian Git on iPAD.md",
     "Input/Videos/Excalidraw intro video.md",
-    "1-projects/Teaching/PGSS Planning.md",
     "1-projects/Teaching",
     "1-projects/bbWW",
     "Excalidraw",
