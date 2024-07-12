@@ -11,9 +11,7 @@ Index:
 
 
 
-# Crypto
 
-[[Problem-with-market-cap]]
 
 
 # Innovation
@@ -30,10 +28,7 @@ Index:
 [[AdjacentPossible]]
 
 
-# Determinism
 
-[[Determinism-Map-vs-Territory]]
-[[Proving-the-word-deterministic]]
 
 
 # Wisdom:
@@ -74,6 +69,30 @@ Index:
 [[Epicurean-four-part-cure]]
 
 
+
+# Innovation
+
+[[Breadth-vs-depth-Inputs-and-Outputs]]
+
+[[Teachers-vs-Experts]]
+
+(Learning as creativity)
+
+[[Genius-OneIdea-plus-dogged-persuit]]
+
+
+[[AdjacentPossible]]
+
+# Determinism
+
+[[Determinism-Map-vs-Territory]]
+[[Proving-the-word-deterministic]]
+[[chaos-determinism-and-real-numbers]]
+
+
+# Crypto
+
+[[Problem-with-market-cap]]
 * 
 
 

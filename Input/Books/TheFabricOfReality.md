@@ -88,9 +88,14 @@
     -) the interference is not "destroyed" it is just (much!) harder harder to observe b/c doing so requires controlling the precise behavior of so many particles.
     -) it is not just "observation" but any effect of the photon on its surroundings that depends on which path the photon has taken that does this.
 
+[[PhilosophyOfPhysics]]
+
 - We do not need deep theories to tell us that parallel universes exist -- single particle interference tells us that. It turns out the QM naturally implies and refers to parallel universes (in the superposition of wave functions). IF our best theory of physics did not refer to parallel universes, it would merely mean that we needed a better theory, one that did, in order to explain what we see.
 
 - The quantum theory of parallel universes is not the problem, it is the solution. It is not some troublesome, optional interpretation emerging from arcane theoretical considerations. It is the explanation -- the only one that is tenable -- of a remarkable and counter-intuitive reality.
+
+[[QM]]
+[[PhilosophyOfPhysics]]
 
 - I may feel subjectively that I am distinguished among the copies as THE "tangible" one, because I can directly perceive myself and not the others, but I must come to terms with the fact that all the others feel the same way about themselves.
 
@@ -101,6 +106,8 @@
 - Observations of every smaller physical effects have been forcing ever greater changes in our world-view
 
 - Solipsism (that only our mind exists) cannot be logically disproved. Since solipsism is an infinite number of related theories are logically consistent with perceiving any possible observational evidence, it follows that you can logically deduce nothing about realty from observational evidence alone.  If scientific reason does not amount to logical deduction from evidence what does it amount to?
+
+[[Solipsism]]
 
  Theories that are more capable of giving more detailed explanation are automatically preferred.
 
@@ -114,19 +121,28 @@
 
 - Against Solipsism:  Joke/argument against solipsism: Professor who give a lecture in defense of solipsism. The students agree with every word of it. 'One so seldom has the opportunity to meet fellow solipsists'. What actually did the students agree with? If they adopt the professors opinion, they will not be solipsists, and if they become solipsists, they will have become convinced that the professor is mistaken. If we take solipsism seriously -- if we assume that is is true and that all valid explanations must conform to it -- it self-destructs.  How does solipsism, taken seriously, really differ from the common-sense rival, realism? The difference is based on no more than a renaming scheme. The solipsists description of the world is in terms of interacting thoughts rather than interacting objects. But the thoughts are real and interact according to the same rules that the realist says govern the interaction of objects.
 
+[[Solipsism]]
+
 - Explanations are not judged by how they were derived, but only by their ability, relative to rival explanations, to solve the problems they address.
 
 - Even purely mathematical arguments derive their reliability from the physical and philosophical theories that underpin them.
 
 - If something can kick back, it exists. Kick is when the object affects us in ways that require independent explanations.
 
-- The claim was maid above about the 'inescapable' conclusion that something must be coming throughout the second pair of slits to prevent light from reaching the screen from the first. It is not ***logically*** inescapable, for if we were not looking for explanations we could just say that the photons we see behave AS IF something passing throughout other slits had deflected them, but that in fact there is nothing there. Similarly, we could have said that our foot rebounded AS IF there was a rock there, but that in fact there was nothing there. (The Inquisition did say that the planets were seen to move as if they and the Earth were in orbit around the Sun, but in that in fact they moved round the fixed Earth). But if the object of the exercise is to explain the motion of planets, or our foot, or photons, we must adopt the rule that if something behaves as if it existed -- by kicking back -- then one regards that as evidence that it does exist. Shadow photons kick back by interfering with the photons that we see, therefore shadow photons must exist.
+- The claim was made above about the 'inescapable' conclusion that something must be coming throughout the second pair of slits to prevent light from reaching the screen from the first. It is not ***logically*** inescapable, for if we were not looking for explanations we could just say that the photons we see behave AS IF something passing throughout other slits had deflected them, but that in fact there is nothing there. Similarly, we could have said that our foot rebounded AS IF there was a rock there, but that in fact there was nothing there. (The Inquisition did say that the planets were seen to move as if they and the Earth were in orbit around the Sun, but in that in fact they moved round the fixed Earth). But if the object of the exercise is to explain the motion of planets, or our foot, or photons, we must adopt the rule that if something behaves as if it existed -- by kicking back -- then one regards that as evidence that it does exist. Shadow photons kick back by interfering with the photons that we see, therefore shadow photons must exist.
+
+[[ManyWorlds]]
+
 
   We do not feel the presence of our counterparts in other universes. Nor did the Inquisition feel the Earth moving beneath their feet. And yet, it moves!
   
 - We should regard as real those complex entities which, if we did not regard them as real, would complicate our explanations. Its not how hard something kickbacks that makes its existence compelling. What matters is its role in the explanations that the theory provides.
 
+[[WhatIsReal]]
+
 - Physicists trying to avoid the many-worlds conclusion try to explain QM as "No shadow photons exist and what carries the effect of the distant slits on the photon we see is -- nothing. Some sort of action at a distance simply makes photons change course when a distant slit is opened" But this action at a distance is not simple, the photon is affected by distant objects exactly AS IF something were passing through the distant gaps and bouncing off distant mirrors etc to intercept the photon at the right time and place. Doing the calculation would require the same computational effort of working out the history of a large number of shadow photons. A story that is in in effect about shadow photons necessarily appears in any explanation of the observed effects. The irreducible complexity of the story makes it philosophically untenable to deny that the shadow objects exist.
+
+[[ManyWorlds]]
 
 - Bohms theory also requires the same computations as the what the shadow photons do.
 
@@ -138,15 +154,13 @@
 
 - The theory of computation has been studied almost entirely in the abstract, as a topic in mathematics. This is to miss the point of it. Computers are physical objects and computation is a physical process; what computers can and cannot do is determined by the laws of physics, not by pure mathematics.
 
-- A universal computer is usually defined as an abstract machine that can mimic the computations of any other abstract machine in a certain well-defined class.
-  The fact that universal computers are possible and can actually be built, is part of the self-similarity of physical reality that makes the world comprehensible.
-  Stated another way, the fact  that virtual reality is possible and that the multiverse has this property, makes science possible.
+- A universal computer is usually defined as an abstract machine that can mimic the computations of any other abstract machine in a certain well-defined class.  The fact that universal computers are possible and can actually be built, is part of the self-similarity of physical reality that makes the world comprehensible. Stated another way, the fact  that virtual reality is possible and that the multiverse has this property, makes science possible.
 
 - What constraints, if any, do the laws of physics impose on the repertoires of virtual-reality generators?
   The laws of physics impose no limit on the range of accuracy of image generators.
 
 
-- One cannot certify that a virtual reality rendering is accurate, but experience can sometimes show that a rendering is in accurate.  This mirrors the case of theory and experiment in science.
+- One cannot certify that a virtual reality rendering is accurate, but experience can sometimes show that a rendering is inaccurate.  This mirrors the case of theory and experiment in science.
   If the environment is physically possible, rendering it is the equivalent to finding rules for predicting the outcome of all possible experiments that can be performed in that environment.
 
 - If we assume that any virtual reality generator that can in principle be built, can at least be built twice, then it follows that every virtual reality generator running a program is rendering SOME physically possible environment. It may be rendering others things as well, including physically impossible environments, but there is always some possible environment that it is rendering.
@@ -155,13 +169,19 @@
 
 - We realists take the view that reality is out there: objective physical and independent of that we believe about it. But we never experience this reality directly. All our experience is VR. And every last scrap of our knowledge -- including our knowledge of the non-physical worlds of logic, math and philosophy -- is encoded in the form of programs for the rendering of those worlds on our brains own VR generator.
 
+[[WhoWeAre]]
+[[1stPersonPerspective]]
+
+
 - The relationship between "ordinary" reality and virtual reality is part of the deep unexpected structure of the world which this book is about.
 
 - We know from QM that all relevant variables are quantized and thus that the set of possible programs that simulate reality is discrete.  (Each program specifies a particular set of values for physical variables) There are infinitely many possible programs, but each can only contain a finite number of symbols, because symbols are made of matter is recognizable configurations. (JA: Then are there really an infinite number of possible programs ???)
 
-- The feasibility of a universal virtual-reality  generator depends on the existence of a universal computer - a single machine that can calculate anything that can be calculated.
+- The feasibility of a universal virtual-reality generator depends on the existence of a universal computer - a single machine that can calculate anything that can be calculated.
 
 - Universality was first studied by mathematicians, they were trying to make precise the intuitive notion of computing (or "calculating" or "proving") but they failed to realize that mathematical calculation is a physical process. It is therefore impossible to to determine by mathematical reasoning alone what can or cannot be calculated mathematically.  That depends entirely on the laws of physics. 
+
+[[ConnectionOfMathAndPhysics]]
 
 - Turing came up with the Universal calculator or Universal Turing machine which he conjecture could calculate anything that could be calculated. eg: everything computable by mathematics.
 
@@ -179,7 +199,7 @@
 - There is no logical necessary connection between truth and explanatory power.  So then what justifies relying on theories that are our best explanations as guides to practical decision-making ?
   This is the modern form of the "problem of induction".
 
-- An "inductivist" is someone who things that the invalidity of the inductive justification is a problem for the foundations of science. eg: there a gap that must be filled, if not by induction then by something else.  How to justify any conclusion about the future from past evidence.
+- An "inductivist" is someone who thinks that the invalidity of the inductive justification is a problem for the foundations of science. eg: there a gap that must be filled, if not by induction then by something else.  How to justify any conclusion about the future from past evidence.
 
 - Claim justification (which is always tentative) comes from the explanations provided by the relevant scientific theories.
   Only argument every justifies anything.
@@ -213,6 +233,8 @@
 
 - Astrologers used to believe that cosmic events influence human affairs; science believed for centuries that neither influences the other; now we see that human affairs influence cosmic events.
 
+[[UnpopularTruth]]
+
 - In the universe as we see it, life has affected nothing of significance, but we only see the past, and a small part of it at that. This is just a small part of physical reality.
 
 - All of the oxygen in our atmosphere -- 1e16 tons was created by plants ans was therefore a side effect of the replication of genes: molecules. Life achieves its effects not by being larger, more massive or more energetic than other physical processes, but by being more knowledgeable.
@@ -226,6 +248,7 @@
 
 - Let us look around the universe. What will catch our eye will be the most striking structures: galaxies and clusters of galaxies. But those objects have no discernible structure across the multiverse. Nothing extends far into other universes without its detailed structure changing unrecognizably. Except, that is in those few places where there is embodied knowledge.  Such places would standout in the multiverse as the location of the processes of life and thought. These have generated the most distinctive structures in the multiverse.
 
+
 - Scientific progress since Galileo has seemed to refute the ancient idea that life is a fundamental phenomena in nature. Modern biology seems to have confirmed this. However life is associated with a fundamental principle of physics -- the Turing principle -- since it was the means by which VR was first realized in nature. Life is also significant on the largest scales of both time and space.  And the largest-scale regular structure ACROSS universes exists where knowledge-bearing matter, such as brains or DNA gene segments, have evolved.f
 
 - The direct connection between the theory of evolution and quantum theory is a striking and unexpected connection between the four strands of the fabric of reality.
@@ -238,7 +261,9 @@
 
 - Feynman considered the computer simulation of QM objects: he showed that predicting the behaviors of QM systems (ie: rendering the QM environments in VR) is in general an intractable task.
 
-- Chaos occur only in classical physics (Check this against quantum chaos...) The flapping of a butterflies wings does not in reality cause hurricanes, b/c the classical phenomena of chaos depends on perfect determinism which does not hold in any single universe.  Quantum systems are unpredictable because they behave differently in different universes and so appear random in most universes.
+- Chaos occur only in classical physics (JA: Check this against quantum chaos...) The flapping of a butterflies wings does not in reality cause hurricanes, b/c the classical phenomena of chaos depends on perfect determinism which does not hold in any single universe.  Quantum systems are unpredictable because they behave differently in different universes and so appear random in most universes.
+
+#Consume 
 
 - Whichever path you set a single photon on inside the apparatus it will emerge randomly. Only when interference occurs between the two paths is the outcome predictable. It follows that what is present in the apparatus just before the end of the interference experiment cannot be a single photon on a single path. There must be something else present, preventing it from bouncing downwards.  We can construct further experiments to show that the "something else" has all the properties of a photon that travels along the other path and interferes with the photon we see, but with nothing else in our universe.
 
