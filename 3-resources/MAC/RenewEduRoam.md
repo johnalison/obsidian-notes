@@ -1,5 +1,7 @@
 # How to renew eduRoam
 
+[[computing]]
+
 Dear John Alison,
 
 The EduRoam certificate issued to CERN\johnda will expire in 30 days, on 13/12/2020.

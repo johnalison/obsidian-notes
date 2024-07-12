@@ -1,4 +1,6 @@
 
+[[HGC]]
+[[CMS]]
 
 
 This August, CMU physicists working on the CMS experiment at CERN's

@@ -4,5 +4,6 @@
   "templater-obsidian",
   "emacs-text-editor",
   "kill-and-yank",
-  "obsidian-excalidraw-plugin"
+  "obsidian-excalidraw-plugin",
+  "obsidian-hotkeys-for-specific-files"
 ]

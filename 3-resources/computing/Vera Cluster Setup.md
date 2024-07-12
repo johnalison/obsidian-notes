@@ -1,4 +1,4 @@
-
+[[computing]]
 # There are instructions about getting started.  
 Once you have a PSC user name Ill have to send a mail to add you to the project.
 

@@ -1,5 +1,6 @@
 # Amor Fati: Embrace what happens, it couldn't have been otherwise.  You can only control what you can control.
 
+[[Philosophy]]
 
 #Consume
 

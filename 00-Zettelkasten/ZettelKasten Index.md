@@ -9,7 +9,7 @@ Index:
 **Unclassified**:
 [[It helps to write stuff down]]
 
-
+[[AI-and-creating-our-own-Gods]]
 
 
 

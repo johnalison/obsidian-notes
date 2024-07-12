@@ -1,3 +1,5 @@
+[[computing]]
+
 In the auton cluster, add the ff. to your ~/.bashrc
 
 if [ -e /opt/miniconda3/etc/profile.d/conda.sh ]; then

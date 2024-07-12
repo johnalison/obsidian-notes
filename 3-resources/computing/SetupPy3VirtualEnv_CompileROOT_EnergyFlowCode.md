@@ -1,3 +1,5 @@
+[[computing]]
+
 > python3 -m venv OT-metric-virtualenv
 
 > source OT-metric-virtualenv/bin/activate

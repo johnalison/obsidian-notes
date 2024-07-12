@@ -19,7 +19,7 @@
 - Relativistic E
 
 **Week 4**
-- Energy and Mass
+-  Start with a recap from last lecture + Inelastic collision / E and mass
 -  0.5 x lecture 5 mass-less particles 
 
 

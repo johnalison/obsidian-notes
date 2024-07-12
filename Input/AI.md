@@ -1,5 +1,7 @@
 # Some AI thoughts
 
+
+
 Artificial Intelligence
 Are we creating our own gods?
 

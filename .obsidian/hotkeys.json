@@ -66,5 +66,13 @@
       ],
       "key": "S"
     }
+  ],
+  "obsidian-hotkeys-for-specific-files:00-Zettelkasten/ZettelKasten Index.md": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Z"
+    }
   ]
 }

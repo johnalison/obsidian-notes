@@ -1,3 +1,4 @@
+[[computing]]
 # Format microSD card
   -> Applications / SD Card formatter 
 

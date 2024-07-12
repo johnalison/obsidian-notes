@@ -1,5 +1,18 @@
 
-Page for infor re:wes
+## SOS
+- [ ] Approval Talk
+
+## Other
+- [ ] Thesis date
+
+## HGC
+
+
+## Future
+ - 5/29/24 not sure about postdoc or industry
+
+
+
 
 
 ## Links: 

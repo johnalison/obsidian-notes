@@ -1,4 +1,11 @@
-Page re:sindy
+## Analysis
+- [ ] Analysis Baselined 
+- [ ] Plots with new code 
+
+
+## HGC 
+- Good work with local DBs
+
 
 
 ## Links: 
