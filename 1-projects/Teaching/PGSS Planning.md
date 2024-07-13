@@ -26,7 +26,7 @@
 
 
 Maybe:
-- Velocity parameter
+
 - Importance of the Higgs
 - General Relativity
 - The right way to think about the world

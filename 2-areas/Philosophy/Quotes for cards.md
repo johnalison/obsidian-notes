@@ -1,4 +1,5 @@
-
+- “The used key is always bright” - Poor Richard
+- 
 
 
 ## Links: 

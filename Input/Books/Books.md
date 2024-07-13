@@ -1,4 +1,5 @@
 
+* Moby Dick [[Moby Dick]]. (Herman Melvill)
 
 -  Fooled By Randomness [[FooledByRandomness]] (Nassim Taleb)
 

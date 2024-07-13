@@ -7,31 +7,19 @@
 Index:
 
 **Unclassified**:
-[[It helps to write stuff down]]
-
-[[AI-and-creating-our-own-Gods]]
-
-
-
-
-# Innovation
-
-[[Breadth-vs-depth-Inputs-and-Outputs]]
-
-[[Teachers-vs-Experts]]
-
-(Learning as creativity)
-
-[[Genius-OneIdea-plus-dogged-persuit]]
-
-
-[[AdjacentPossible]]
 
 
 
 
 
-# Wisdom:
+
+
+
+
+
+
+
+# Wisdom
 
 * **Moral Duty to be more rational**
 [[Reliability-beats-Fancy-Skills]]
@@ -52,9 +40,15 @@ Index:
 
 * **Don't Lie Evil only possible through lies**
 
-* **Be the good:  Intelligent ACTION is power**
-
+## Be the good:  Intelligent ACTION is power
+* [[Action-not-knowledge]]
 	[[DeserveWhatYouWant]]
+	[[Action-Now]]
+	[[Be-better-through-emulation]]
+	
+[[Lessons-from-tit-for-tat-Game-Theory]]
+
+[[Pragmatism-over-idealism]]
 
 * **Amor Fati (What happens couldn't be otherwise. You can only control what you can control)**
 
@@ -80,6 +74,7 @@ Index:
 
 [[Genius-OneIdea-plus-dogged-persuit]]
 
+[[It helps to write stuff down]]
 
 [[AdjacentPossible]]
 
@@ -95,8 +90,9 @@ Index:
 [[Problem-with-market-cap]]
 * 
 
+# AI
 
-
+[[AI-and-creating-our-own-Gods]]
 
 
 

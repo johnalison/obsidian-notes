@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Input/Papers/Do graph neural networks learn traditional jet substructure?.md",
+                "file": "2-areas/Philosophy/Rules.md",
                 "mode": "source",
                 "source": false
               }
@@ -39,19 +39,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-projects/Teaching/PGSS Planning.md",
+                "file": "Journal/13 July 24.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "61848dc4e57e1b86",
+            "id": "300228201f043bfb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/12 July 24.md",
+                "file": "00-Zettelkasten/ZettelKasten Index.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:aniket",
+                "query": "file:mun",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -104,7 +104,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -124,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-projects/Teaching/PGSS Planning.md",
+                "file": "Journal/13 July 24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-projects/Teaching/PGSS Planning.md",
+                "file": "Journal/13 July 24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,11 +165,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-projects/Teaching/PGSS Planning.md"
+                "file": "Journal/13 July 24.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -188,35 +190,35 @@
   },
   "active": "b0bb804031070bb3",
   "lastOpenFiles": [
-    "Journal/11 July 24.md",
+    "00-Zettelkasten/Be-better-through-emulation.md",
+    "Input/BeTheGood.md",
+    "00-Zettelkasten/ZettelKasten Index.md",
+    "00-Zettelkasten/Pragmatism-over-idealism.md",
+    "00-Zettelkasten/Now-is-when-progress-happens.md",
+    "00-Zettelkasten/Action-Now.md",
+    "1-projects/Mixed2.0/mixed2.0.md",
+    "00-Zettelkasten/Lessons-from-tit-for-tat-Game-Theory.md",
+    "00-Zettelkasten/No-perfect-moment-for-action.md",
+    "2-areas/Philosophy/Rules.md",
+    "Output/Lists.md",
+    "2-areas/Philosophy/Munger.md",
+    "00-Zettelkasten/Action-not-knowledge.md",
+    "2-areas/Philosophy/Quotes for cards.md",
+    "Input/Papers/Do graph neural networks learn traditional jet substructure?.md",
     "Journal/12 July 24.md",
+    "0-inbox/Things-To-Add-To-Notes.md",
+    "0-inbox/SomedayMaybe.md",
+    "0-inbox/Drawing 2024-07-11 14.42.16.excalidraw.md",
+    "2-areas/Outreach/outreach.md",
+    "Input/Books/Moby Dick.md",
+    "Input/Books/Books.md",
+    "Journal/13 July 24.md",
+    "1-projects/Teaching/PGSS Planning.md",
+    "Journal/11 July 24.md",
     "PGSS",
     "2-areas/Mentoring/Sindhu Murthy.md",
-    "2-areas/Mentoring/Aniket Khanal.md",
-    "2-areas/Mentoring/Chuyuan Liu.md",
-    "2-areas/Mentoring/Wesley Terrill.md",
-    "0-inbox/Things-To-Add-To-Notes.md",
-    "3-resources/Obsidian/Ideas-for-emacs-Obsidian.md",
-    "Input/Papers/Do graph neural networks learn traditional jet substructure?.md",
-    "1-projects/Mixed2.0/mixed2.0.md",
-    "3-resources/MAC/MonteryInstall.md",
-    "4-archive/HIG-22-011/TriggerClosureInNano.md",
     "4-archive/HIG-22-011",
-    "2-areas/Outreach/EarthShapeFromWithin.md",
-    "2-areas/Outreach/360 Lab tour.md",
-    "0-inbox/outreach.md",
-    "2-areas/Outreach/WhyShouldHighschoolStudentsCareAboutPhysics.md",
-    "2-areas/Outreach/WhyShouldPhysicistsDoOutreach.md",
-    "2-areas/Outreach/Outreach-git-hub.md",
     "2-areas/Outreach",
-    "00-Zettelkasten/ZettelKasten Index.md",
-    "3-resources/computing/PSC Bridges.md",
-    "Input/AI.md",
-    "Input/Papers/Bad Goodness of Fit Tips.md",
-    "00-Zettelkasten/AI-and-creating-our-own-Gods.md",
-    "Excalidraw/Drawing 2024-07-12 15.06.44.excalidraw.md",
-    "1-projects/Teaching/Osher Fall Particle Physics Course.md",
-    "Input/Blogs/Why Categories for Your Note Archive are a Bad Idea.md",
     "Input/Papers/#paers.md#",
     "Input/Blogs/#Blogs.md#",
     "1-projects/Teaching",

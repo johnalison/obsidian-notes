@@ -15,7 +15,8 @@
   - Floss everyday
   - exercise everyday
 
-
+- "If its not right, Dont do it"
+  "If its not true, dont say it" - Markus Aurelius
 
 ## Links: 
 
