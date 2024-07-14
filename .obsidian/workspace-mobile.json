@@ -18,6 +18,16 @@
             }
           },
           {
+            "id": "abb43f388462e74f",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-07-11 17.04.14.excalidraw.md"
+              }
+            }
+          },
+          {
             "id": "b960a76a39405aa2",
             "type": "leaf",
             "state": {
@@ -37,7 +47,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -103,7 +114,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "0-inbox/Drawing 2024-07-11 14.42.16.excalidraw.md",
+            "file": "Excalidraw/Drawing 2024-07-11 17.04.14.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -120,7 +131,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "0-inbox/Drawing 2024-07-11 14.42.16.excalidraw.md",
+            "file": "Excalidraw/Drawing 2024-07-11 17.04.14.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -132,7 +143,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "0-inbox/Drawing 2024-07-11 14.42.16.excalidraw.md"
+            "file": "Excalidraw/Drawing 2024-07-11 17.04.14.excalidraw.md"
           }
         }
       }
@@ -151,10 +162,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "852b5257d2c45cfb",
+  "active": "abb43f388462e74f",
   "lastOpenFiles": [
-    "Journal/11 July 24.md",
     "0-inbox/Drawing 2024-07-11 14.42.16.excalidraw.md",
+    "Excalidraw/Drawing 2024-07-11 17.04.14.excalidraw.md",
+    "Journal/11 July 24.md",
     "0-inbox/CMUbbWW 11 July 2024.md",
     "Excalidraw/Drawing 2024-07-11 14.47.45.excalidraw.md",
     "Input/Drawing 2024-07-11 14.48.02.excalidraw.md",
