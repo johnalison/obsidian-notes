@@ -13,15 +13,10 @@ Index:
 
 
 
-
-
-
-
-
-
 # Wisdom
 
-* **Moral Duty to be more rational**
+## [[Rationality - Moral Duty to be more rational]]
+
 [[Reliability-beats-Fancy-Skills]]
 [[Learn-from-others-mistakes]]
 
@@ -33,12 +28,15 @@ Index:
 			[[Use ZettelKasting For Mindfulness]]
 			[[Kids-as-a-mindfulness-gauge]]
 
-* **Perfection Not required, effective self-improvement critical**
+## Perfection Not required
+effective self-improvement critical**
 
-* **Strict with yourself, Lenient with others (Extreme Ownership)**
+## Strict with yourself, Lenient with others.
+(Extreme Ownership)**
 	*  Leadership is a skill that can be taught/learned
 
-* **Don't Lie Evil only possible through lies**
+## Don't Lie
+ Evil only possible through lies
 
 ## Be the good:  Intelligent ACTION is power
 * [[Action-not-knowledge]]
@@ -57,18 +55,28 @@ Index:
 
 [[External-Events-Dont-Care-About-You]]
 [[The Art of Acquiesce]]
-## Memento Mori: All we have is time; lack of attention throws it away
+[[Goals-must-be-in-your-control]]
+
+## Memento Mori: 
+  All we have is time
+  lack of attention throws it away
 
 
-* **Respond, don't React (Employ Stoic Test Strategy)**
+## Respond, don't React
+
+[[StoicTestChallenge]]
 [[Dealing-With-Setbacks]]
 
-* **Systems not Goals**
-* **Do not let your happiness (well-being) depend on things you cannot control**
+## Systems not Goals
+
+## Happiness 
+
 [[Purpose-of-Philosophy]]
 [[Epicurean-four-part-cure]]
+[[Want-what-you-have]]
+[[Dont-need-a-reason-to-be-happy]]
 
-
+[[Be-Happy-Cannot-Become-Happy]]
 
 # Innovation
 

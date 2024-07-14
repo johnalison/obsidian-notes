@@ -5,6 +5,7 @@ It is pointless to get upset about external events. They happened, because they 
 
 [[Amor-Fati]]
 [[RespondDontReact]]
+[[Goals-must-be-in-your-control]]
 
 
 

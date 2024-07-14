@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-areas/Philosophy/Protocols.md",
+                "file": "2-areas/Philosophy/Advice.md",
                 "mode": "source",
                 "source": false
               }
@@ -39,7 +39,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Input/AmorFati.md",
+                "file": "Input/Happiness.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7499b26f13275663",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00-Zettelkasten/Be-Happy-Cannot-Become-Happy.md",
                 "mode": "source",
                 "source": false
               }
@@ -92,8 +104,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -113,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Input/AmorFati.md",
+                "file": "Input/Happiness.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Input/AmorFati.md",
+                "file": "Input/Happiness.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Input/AmorFati.md"
+                "file": "Input/Happiness.md"
               }
             }
           }
@@ -178,32 +189,32 @@
   },
   "active": "b0bb804031070bb3",
   "lastOpenFiles": [
+    "00-Zettelkasten/Be-Happy-Cannot-Become-Happy.md",
+    "00-Zettelkasten/ZettelKasten Index.md",
+    "2-areas/Philosophy/Advice.md",
+    "1-projects/Mixed2.0/mixed2.0.md",
+    "Input/Happiness.md",
+    "0-inbox/Dont-need-a-reason-to-be-happy.md",
+    "Output/Lists.md",
+    "2-areas/Philosophy/Protocols.md",
+    "00-Zettelkasten/You-set-your-standards.md",
+    "0-inbox/Things-To-Add-To-Notes.md",
+    "00-Zettelkasten/The Art of Acquiesce.md",
+    "00-Zettelkasten/Rationality - Moral Duty to be more rational.md",
+    "00-Zettelkasten/External-Events-Dont-Care-About-You.md",
+    "00-Zettelkasten/Want-what-you-have.md",
+    "00-Zettelkasten/Goals-must-be-in-your-control.md",
+    "Input/AmorFati.md",
     "00-Zettelkasten/LoneWolf-vs-Wolf-pack.md",
     "Input/Books/Books.md",
     "Input/Books/NotAGadget.md",
-    "00-Zettelkasten/ZettelKasten Index.md",
-    "Input/AmorFati.md",
-    "0-inbox/You-set-your-standards.md",
-    "0-inbox/The Art of Acquiesce.md",
-    "2-areas/Philosophy/Protocols.md",
-    "Output/Lists.md",
     "2-areas/Philosophy/Rules.md",
     "00-Zettelkasten/Success-And-Failure-As-Imposters.md",
-    "1-projects/Mixed2.0/mixed2.0.md",
     "00-Zettelkasten/Action-Now.md",
-    "0-inbox/External-Events-Dont-Care-About-You.md",
     "00-Zettelkasten/Amor-Fati.md",
     "Journal/13 July 24.md",
     "00-Zettelkasten/Be-better-through-emulation.md",
     "Input/BeTheGood.md",
-    "00-Zettelkasten/Pragmatism-over-idealism.md",
-    "00-Zettelkasten/Now-is-when-progress-happens.md",
-    "00-Zettelkasten/Lessons-from-tit-for-tat-Game-Theory.md",
-    "00-Zettelkasten/No-perfect-moment-for-action.md",
-    "2-areas/Philosophy/Munger.md",
-    "00-Zettelkasten/Action-not-knowledge.md",
-    "2-areas/Philosophy/Quotes for cards.md",
-    "Input/Papers/Do graph neural networks learn traditional jet substructure?.md",
     "PGSS",
     "4-archive/HIG-22-011",
     "2-areas/Outreach",
