@@ -8,7 +8,7 @@ Index:
 
 **Unclassified**:
 
-
+[[Success-And-Failure-As-Imposters]]
 
 
 
@@ -50,9 +50,15 @@ Index:
 
 [[Pragmatism-over-idealism]]
 
-* **Amor Fati (What happens couldn't be otherwise. You can only control what you can control)**
+[[You-set-your-standards]]
 
-* **Memento Mori: All we have is time; lack of attention throws it away**
+
+## [[Amor-Fati]]
+
+[[External-Events-Dont-Care-About-You]]
+[[The Art of Acquiesce]]
+## Memento Mori: All we have is time; lack of attention throws it away
+
 
 * **Respond, don't React (Employ Stoic Test Strategy)**
 [[Dealing-With-Setbacks]]

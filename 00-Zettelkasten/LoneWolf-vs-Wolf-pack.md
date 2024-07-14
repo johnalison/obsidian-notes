@@ -7,5 +7,10 @@ Humans have two different modes of functioning: lone wolf vs wolf pack.  In lone
 [[SubjectiveTruths]]
 [[Politics]]
 
+## Reference:
+
+Jaron Lanier
+
+
 
 202407091923
