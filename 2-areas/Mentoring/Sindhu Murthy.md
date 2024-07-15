@@ -8,6 +8,10 @@
 
 
 
+## Chats 
+- [[SindhuChat 15 July 2024]]
+
+
 ## Links: 
 
 [[Physics]]
