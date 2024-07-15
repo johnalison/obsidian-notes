@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/15 July 24.md",
+                "file": "1-projects/Teaching/PGSS Planning.md",
                 "mode": "source",
                 "source": false
               }
@@ -51,14 +51,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-Zettelkasten/Jet DeClustering.md",
+                "file": "0-inbox/HH4bResolvedMeeting 15July2024.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-Zettelkasten/Jet DeClustering.md",
+                "file": "1-projects/Teaching/PGSS Planning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00-Zettelkasten/Jet DeClustering.md",
+                "file": "1-projects/Teaching/PGSS Planning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-Zettelkasten/Jet DeClustering.md"
+                "file": "1-projects/Teaching/PGSS Planning.md"
               }
             }
           }
@@ -187,13 +187,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e758debb255d2acc",
+  "active": "fbd5b9a3105be752",
   "lastOpenFiles": [
-    "00-Zettelkasten/Hemisphere Mixing-as-Declustering.md",
+    "Journal/15 July 24.md",
+    "0-inbox/HH4bResolvedMeeting 15July2024.md",
     "00-Zettelkasten/Jet DeClustering.md",
+    "00-Zettelkasten/Hemisphere Mixing-as-Declustering.md",
     "00-Zettelkasten/Synthetic-data-sets-via-hemisphere-mixing.md",
     "00-Zettelkasten/ZettelKasten Index.md",
-    "Journal/15 July 24.md",
     "Journal/13 July 24.md",
     "Journal/14 July 24.md",
     "0-inbox/Things-To-Add-To-Notes.md",
@@ -215,7 +216,6 @@
     "00-Zettelkasten/Death-is-always-with-us.md",
     "00-Zettelkasten/Time-is-your-only-true-possession.md",
     "00-Zettelkasten/Can-lose-time-through-lack-of-attention.md",
-    "00-Zettelkasten/Hawk-a-hey.md",
     "PGSS",
     "4-archive/HIG-22-011",
     "2-areas/Outreach",

@@ -20,18 +20,20 @@
 
 **Week 4**
 -  Start with a recap from last lecture + Inelastic collision / E and mass
--  0.5 x lecture 5 mass-less particles 
+-  0.5 x lecture 5 mass-less particles / + examples (muon-lifetime)
 - Velocity Parameter
-
+- General Relativity
 
 
 Maybe:
 
 - Importance of the Higgs
-- General Relativity
 - The right way to think about the world
 
 ## Links: 
+
+[[Teaching]]
+
 
 
 
