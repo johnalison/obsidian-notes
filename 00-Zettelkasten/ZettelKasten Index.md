@@ -20,11 +20,14 @@ Index:
 - [[Problems-with-hemisphere-mixing]]
 - [[Hemisphere-mixing]]
 - [[Hemisphere-mixing-and-ISR-FSR]]
+- [[Jet DeClustering]]
 
 
 [[Spurious-Signal]]
 
 
+## Potential Analyses
+[[H-bb-vs-cc-using-photons]]
 
 # Wisdom
 

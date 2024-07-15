@@ -4,6 +4,9 @@ An algorithm to explicitly do jet clustering and declustering motivated by the h
 ## Links: 
 [[Splitting Templates]]
 [[MLForSplittingFunctions]]
+[[ISR-FSR-jet-discernment-in-jet-declustering]]
+[[Advantages-of-Jet-declustering]]
+
 
 
 
