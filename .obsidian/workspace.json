@@ -34,24 +34,48 @@
             }
           },
           {
-            "id": "fbd5b9a3105be752",
+            "id": "e758debb255d2acc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-projects/Teaching/PGSS Planning.md",
+                "file": "3-resources/computing/ResetFNALServicesPWD.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e758debb255d2acc",
+            "id": "6f1bd228338420f4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/HH4bResolvedMeeting 15July2024.md",
+                "file": "0-inbox/Things-To-Add-To-Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dcf81cb991aa8dd9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-inbox/ISR-FSR-jet-discernment-in-jet-declustering.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6c67d1dc54489bb6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-inbox/b-tags-as-a-quark-to-quark-gluon-tag.md",
                 "mode": "source",
                 "source": false
               }
@@ -124,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-projects/Teaching/PGSS Planning.md",
+                "file": "3-resources/computing/ResetFNALServicesPWD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-projects/Teaching/PGSS Planning.md",
+                "file": "3-resources/computing/ResetFNALServicesPWD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-projects/Teaching/PGSS Planning.md"
+                "file": "3-resources/computing/ResetFNALServicesPWD.md"
               }
             }
           }
@@ -187,35 +211,36 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fbd5b9a3105be752",
+  "active": "e758debb255d2acc",
   "lastOpenFiles": [
     "Journal/15 July 24.md",
-    "0-inbox/HH4bResolvedMeeting 15July2024.md",
+    "3-resources/computing/ResetFNALServicesPWD.md",
+    "0-inbox/H-bb-vs-cc-using-photons.md",
+    "1-projects/Mixed2.0/mixed2.0.md",
+    "0-inbox/Things-To-Add-To-Notes.md",
+    "0-inbox/ISR-FSR-jet-discernment-in-jet-declustering.md",
+    "0-inbox/b-tags-as-a-quark-to-quark-gluon-tag.md",
+    "Pasted image 20240715123936.png",
+    "0-inbox/SomedayMaybe.md",
+    "00-Zettelkasten/Synthetic-data-sets-via-hemisphere-mixing.md",
+    "00-Zettelkasten/Proxy-datasets-critical-for-data-driven-systematics.md",
+    "0-inbox/Hemisphere Mixing.md",
+    "00-Zettelkasten/Splitting Templates.md",
+    "3-resources/Obsidian/Latex in Obsidian.md",
     "00-Zettelkasten/Jet DeClustering.md",
     "00-Zettelkasten/Hemisphere Mixing-as-Declustering.md",
-    "00-Zettelkasten/Synthetic-data-sets-via-hemisphere-mixing.md",
     "00-Zettelkasten/ZettelKasten Index.md",
+    "00-Zettelkasten/Hemisphere-mixing-and-ISR-FSR.md",
+    "00-Zettelkasten/Hemisphere-mixing-motivation.md",
+    "00-Zettelkasten/Hemisphere-mixing.md",
+    "1-projects/Teaching/PGSS Planning.md",
+    "Input/Meetings/HH4bResolvedMeeting 15July2024.md",
     "Journal/13 July 24.md",
     "Journal/14 July 24.md",
-    "0-inbox/Things-To-Add-To-Notes.md",
     "Output/Lists.md",
     "00-Zettelkasten/Spurious-Signal.md",
     "00-Zettelkasten/Problems-with-hemisphere-mixing.md",
-    "00-Zettelkasten/Hemisphere-mixing.md",
-    "2-areas/CMS/HIG-22-011.md",
-    "00-Zettelkasten/Hemisphere-mixing-and-ISR-FSR.md",
-    "00-Zettelkasten/Hemisphere-mixing-motivation.md",
     "Pasted image 20240714224532.png",
-    "00-Zettelkasten/MLForSplittingFunctions.md",
-    "1-projects/Mixed2.0/mixed2.0.md",
-    "00-Zettelkasten/Life-isnt-short.md",
-    "00-Zettelkasten/Wasting-time-is-a-form-of-suicide.md",
-    "00-Zettelkasten/Time-vs-money-trade-off.md",
-    "00-Zettelkasten/Proxy-datasets-critical-for-data-driven-systematics.md",
-    "Input/MomentoMori.md",
-    "00-Zettelkasten/Death-is-always-with-us.md",
-    "00-Zettelkasten/Time-is-your-only-true-possession.md",
-    "00-Zettelkasten/Can-lose-time-through-lack-of-attention.md",
     "PGSS",
     "4-archive/HIG-22-011",
     "2-areas/Outreach",

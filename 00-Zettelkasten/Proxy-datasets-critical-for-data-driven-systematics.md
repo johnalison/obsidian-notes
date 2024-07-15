@@ -3,7 +3,7 @@ Proxy data sets are critical for assessing systematic uncertainties when you hav
 
 ## Links: 
 [[ABCDMethod]]
-[[Hemisphere Mixing]]
+[[Hemisphere-mixing]]
 
 [[Synthetic-data-sets-via-hemisphere-mixing]]
 

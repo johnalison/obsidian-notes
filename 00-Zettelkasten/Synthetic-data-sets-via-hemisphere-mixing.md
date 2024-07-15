@@ -4,7 +4,7 @@ Hemisphere mixing used to create synthetic dataset with three important properti
 
 ## Links: 
 [[HIG-22-011]]
-[[Hemisphere Mixing]]
+[[Hemisphere-mixing]]
 [[SpuriousSignal]]
 [[Hemisphere Mixing-as-Declustering]]
 

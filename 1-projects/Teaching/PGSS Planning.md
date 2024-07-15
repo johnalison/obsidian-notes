@@ -26,7 +26,6 @@
 
 
 Maybe:
-
 - Importance of the Higgs
 - The right way to think about the world
 
