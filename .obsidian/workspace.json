@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/Things-To-Add-To-Notes.md",
+                "file": "Journal/15 July 24.md",
                 "mode": "source",
                 "source": false
               }
@@ -51,14 +51,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-Zettelkasten/ZettelKasten Index.md",
+                "file": "00-Zettelkasten/Jet DeClustering.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/Things-To-Add-To-Notes.md",
+                "file": "00-Zettelkasten/Jet DeClustering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/Things-To-Add-To-Notes.md",
+                "file": "00-Zettelkasten/Jet DeClustering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/Things-To-Add-To-Notes.md"
+                "file": "00-Zettelkasten/Jet DeClustering.md"
               }
             }
           }
@@ -187,13 +187,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fbd5b9a3105be752",
+  "active": "e758debb255d2acc",
   "lastOpenFiles": [
+    "00-Zettelkasten/Hemisphere Mixing-as-Declustering.md",
+    "00-Zettelkasten/Jet DeClustering.md",
+    "00-Zettelkasten/Synthetic-data-sets-via-hemisphere-mixing.md",
     "00-Zettelkasten/ZettelKasten Index.md",
+    "Journal/15 July 24.md",
+    "Journal/13 July 24.md",
+    "Journal/14 July 24.md",
+    "0-inbox/Things-To-Add-To-Notes.md",
     "Output/Lists.md",
     "00-Zettelkasten/Spurious-Signal.md",
-    "00-Zettelkasten/Hemisphere Mixing-as-Declustering.md",
-    "0-inbox/Things-To-Add-To-Notes.md",
     "00-Zettelkasten/Problems-with-hemisphere-mixing.md",
     "00-Zettelkasten/Hemisphere-mixing.md",
     "2-areas/CMS/HIG-22-011.md",
@@ -206,16 +211,11 @@
     "00-Zettelkasten/Wasting-time-is-a-form-of-suicide.md",
     "00-Zettelkasten/Time-vs-money-trade-off.md",
     "00-Zettelkasten/Proxy-datasets-critical-for-data-driven-systematics.md",
-    "00-Zettelkasten/Synthetic-data-sets-via-hemisphere-mixing.md",
     "Input/MomentoMori.md",
     "00-Zettelkasten/Death-is-always-with-us.md",
     "00-Zettelkasten/Time-is-your-only-true-possession.md",
     "00-Zettelkasten/Can-lose-time-through-lack-of-attention.md",
     "00-Zettelkasten/Hawk-a-hey.md",
-    "0-inbox/Death-is-a-with-us.md",
-    "00-Zettelkasten/How-to-spend-time.md",
-    "00-Zettelkasten/Dont-focus-on-things-you-dont-like.md",
-    "2-areas/Philosophy/Quotes for cards.md",
     "PGSS",
     "4-archive/HIG-22-011",
     "2-areas/Outreach",
