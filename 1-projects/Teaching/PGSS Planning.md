@@ -22,7 +22,7 @@
 -  Start with a recap from last lecture + Inelastic collision / E and mass
 -  0.5 x lecture 5 mass-less particles / + examples (muon-lifetime)
 - Velocity Parameter
-- General Relativity
+- General Relativity OR "QM and objects in the our the world"
 
 
 Maybe:
