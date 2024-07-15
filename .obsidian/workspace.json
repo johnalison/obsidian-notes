@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-areas/Philosophy/Advice.md",
+                "file": "Output/Lists.md",
                 "mode": "source",
                 "source": false
               }
@@ -34,24 +34,24 @@
             }
           },
           {
-            "id": "b0bb804031070bb3",
+            "id": "fbd5b9a3105be752",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Input/Happiness.md",
+                "file": "0-inbox/Things-To-Add-To-Notes.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "7499b26f13275663",
+            "id": "e758debb255d2acc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-Zettelkasten/Be-Happy-Cannot-Become-Happy.md",
+                "file": "00-Zettelkasten/ZettelKasten Index.md",
                 "mode": "source",
                 "source": false
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Input/Happiness.md",
+                "file": "0-inbox/Things-To-Add-To-Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Input/Happiness.md",
+                "file": "0-inbox/Things-To-Add-To-Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Input/Happiness.md"
+                "file": "0-inbox/Things-To-Add-To-Notes.md"
               }
             }
           }
@@ -187,34 +187,35 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b0bb804031070bb3",
+  "active": "fbd5b9a3105be752",
   "lastOpenFiles": [
-    "00-Zettelkasten/Be-Happy-Cannot-Become-Happy.md",
     "00-Zettelkasten/ZettelKasten Index.md",
-    "2-areas/Philosophy/Advice.md",
-    "1-projects/Mixed2.0/mixed2.0.md",
-    "Input/Happiness.md",
-    "0-inbox/Dont-need-a-reason-to-be-happy.md",
     "Output/Lists.md",
-    "2-areas/Philosophy/Protocols.md",
-    "00-Zettelkasten/You-set-your-standards.md",
+    "00-Zettelkasten/Spurious-Signal.md",
+    "00-Zettelkasten/Hemisphere Mixing-as-Declustering.md",
     "0-inbox/Things-To-Add-To-Notes.md",
-    "00-Zettelkasten/The Art of Acquiesce.md",
-    "00-Zettelkasten/Rationality - Moral Duty to be more rational.md",
-    "00-Zettelkasten/External-Events-Dont-Care-About-You.md",
-    "00-Zettelkasten/Want-what-you-have.md",
-    "00-Zettelkasten/Goals-must-be-in-your-control.md",
-    "Input/AmorFati.md",
-    "00-Zettelkasten/LoneWolf-vs-Wolf-pack.md",
-    "Input/Books/Books.md",
-    "Input/Books/NotAGadget.md",
-    "2-areas/Philosophy/Rules.md",
-    "00-Zettelkasten/Success-And-Failure-As-Imposters.md",
-    "00-Zettelkasten/Action-Now.md",
-    "00-Zettelkasten/Amor-Fati.md",
-    "Journal/13 July 24.md",
-    "00-Zettelkasten/Be-better-through-emulation.md",
-    "Input/BeTheGood.md",
+    "00-Zettelkasten/Problems-with-hemisphere-mixing.md",
+    "00-Zettelkasten/Hemisphere-mixing.md",
+    "2-areas/CMS/HIG-22-011.md",
+    "00-Zettelkasten/Hemisphere-mixing-and-ISR-FSR.md",
+    "00-Zettelkasten/Hemisphere-mixing-motivation.md",
+    "Pasted image 20240714224532.png",
+    "00-Zettelkasten/MLForSplittingFunctions.md",
+    "1-projects/Mixed2.0/mixed2.0.md",
+    "00-Zettelkasten/Life-isnt-short.md",
+    "00-Zettelkasten/Wasting-time-is-a-form-of-suicide.md",
+    "00-Zettelkasten/Time-vs-money-trade-off.md",
+    "00-Zettelkasten/Proxy-datasets-critical-for-data-driven-systematics.md",
+    "00-Zettelkasten/Synthetic-data-sets-via-hemisphere-mixing.md",
+    "Input/MomentoMori.md",
+    "00-Zettelkasten/Death-is-always-with-us.md",
+    "00-Zettelkasten/Time-is-your-only-true-possession.md",
+    "00-Zettelkasten/Can-lose-time-through-lack-of-attention.md",
+    "00-Zettelkasten/Hawk-a-hey.md",
+    "0-inbox/Death-is-a-with-us.md",
+    "00-Zettelkasten/How-to-spend-time.md",
+    "00-Zettelkasten/Dont-focus-on-things-you-dont-like.md",
+    "2-areas/Philosophy/Quotes for cards.md",
     "PGSS",
     "4-archive/HIG-22-011",
     "2-areas/Outreach",

@@ -38,6 +38,7 @@ Getting the new mixing going
 - [ ] Write out picos with clustered jets (write CI)
 - [ ] Write out picos with the declustered jet (write CI)
 - [ ] Fix the extra jet treatment (for now copy jets < 40 and add new jets)
+- [ ] update recursion to only check if bjet pt > 40 GeV
 
   
 

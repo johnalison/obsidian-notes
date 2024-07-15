@@ -11,6 +11,19 @@ Index:
 [[Success-And-Failure-As-Imposters]]
 
 
+# Particle Physics
+
+## Synthetic Datasets
+
+- [[Proxy-datasets-critical-for-data-driven-systematics]]
+- [[Synthetic-data-sets-via-hemisphere-mixing]]
+- [[Problems-with-hemisphere-mixing]]
+- [[Hemisphere-mixing]]
+- [[Hemisphere-mixing-and-ISR-FSR]]
+
+
+[[Spurious-Signal]]
+
 
 
 # Wisdom
@@ -57,9 +70,19 @@ effective self-improvement critical**
 [[The Art of Acquiesce]]
 [[Goals-must-be-in-your-control]]
 
-## Memento Mori: 
-  All we have is time
-  lack of attention throws it away
+## Memento Mori
+
+### [[Time-is-your-only-true-possession]]
+- [[Death-is-always-with-us]]
+- [[How-to-spend-time]]
+- [[Time-vs-money-trade-off]]
+
+
+### [[Can-lose-time-through-lack-of-attention]]
+- [[Dont-focus-on-things-you-dont-like]]
+- [[Wasting-time-is-a-form-of-suicide]]
+- [[Life-isnt-short]]
+
 
 
 ## Respond, don't React
@@ -107,6 +130,8 @@ effective self-improvement critical**
 # AI
 
 [[AI-and-creating-our-own-Gods]]
+
+
 
 
 
