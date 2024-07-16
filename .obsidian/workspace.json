@@ -51,7 +51,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/14 July 24.md",
+                "file": "2-areas/Outreach/Outreach-git-hub.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:boo",
+                "query": "outreac",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -104,7 +104,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -124,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/14 July 24.md",
+                "file": "2-areas/Outreach/Outreach-git-hub.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/14 July 24.md",
+                "file": "2-areas/Outreach/Outreach-git-hub.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/14 July 24.md"
+                "file": "2-areas/Outreach/Outreach-git-hub.md"
               }
             }
           }
@@ -189,11 +190,12 @@
   },
   "active": "473b00bb376c7fe9",
   "lastOpenFiles": [
-    "Journal/13 July 24.md",
+    "3-resources/computing/CMU Guest Access.md",
+    "Journal/16 July 24.md",
     "Journal/14 July 24.md",
+    "Journal/13 July 24.md",
     "1-projects/Mixed2.0/mixed2.0.md",
     "Output/Lists.md",
-    "Journal/16 July 24.md",
     "Input/Books/TheMindIlluminated.md",
     "Input/Books/Books.md",
     "Input/Books/TheFabricOfReality.md",
@@ -215,7 +217,6 @@
     "Input/Meetings/SindhuChat 15 July 2024.md",
     "Pasted image 20240715154921.png",
     "2-areas/Mentoring/Sindhu Murthy.md",
-    "3-resources/computing/ResetFNALServicesPWD.md",
     "Pasted image 20240715123936.png",
     "Pasted image 20240714224532.png",
     "PGSS",
