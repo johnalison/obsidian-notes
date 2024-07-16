@@ -133,9 +133,9 @@
 
 - The Mind Illuminated [[TheMindIlluminated]] (Culadasa)
 
-- The Fabric of Reality [[TheFabricOfReality]] (David Deutsch)
-
 #Consume 
+
+- The Fabric of Reality [[TheFabricOfReality]] (David Deutsch)
 
 - The World Without Us [[TheWorldWithoutUs]] (Alan Weisman)
 
