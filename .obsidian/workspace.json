@@ -51,7 +51,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/16 July 24.md",
+                "file": "Input/Meetings/HGCManagementMeeting 16 July 2024.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,8 +104,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -125,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/16 July 24.md",
+                "file": "Input/Meetings/HGCManagementMeeting 16 July 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/16 July 24.md",
+                "file": "Input/Meetings/HGCManagementMeeting 16 July 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/16 July 24.md"
+                "file": "Input/Meetings/HGCManagementMeeting 16 July 2024.md"
               }
             }
           }
@@ -190,9 +189,10 @@
   },
   "active": "473b00bb376c7fe9",
   "lastOpenFiles": [
-    "0-inbox/Teachers Program 2024 Notes.md",
+    "2-areas/Outreach/Teachers Program 2024 Notes.md",
+    "2-areas/Outreach/Teacher Program 2023 vpython links.md",
+    "Input/Meetings/HGCManagementMeeting 16 July 2024.md",
     "Journal/16 July 24.md",
-    "0-inbox/Teacher Program 2023 vpython links.md",
     "2-areas/Outreach/Outreach-git-hub.md",
     "3-resources/computing/CMU Guest Access.md",
     "Journal/14 July 24.md",
@@ -215,7 +215,6 @@
     "Input/Meetings/AniketChat 15 July 2024.md",
     "00-Zettelkasten/Hemisphere-mixing.md",
     "00-Zettelkasten/Hemisphere-mixing-and-ISR-FSR.md",
-    "00-Zettelkasten/ISR-FSR-jet-discernment-in-jet-declustering.md",
     "Pasted image 20240715154921.png",
     "Pasted image 20240715123936.png",
     "Pasted image 20240714224532.png",
