@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a47fe5559800e81e",
+            "id": "588cd4c905a8fb24",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Input/WorkingPhilosophy.md",
+                "file": "Output/Lists.md",
                 "mode": "source",
                 "source": false
               }
@@ -34,43 +34,31 @@
             }
           },
           {
-            "id": "d680caf939857738",
+            "id": "dcf81cb991aa8dd9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/decluster3b.md",
+                "file": "Journal/16 July 24.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b261a7353118d6f3",
+            "id": "473b00bb376c7fe9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/Setting up Obsidian Git on iPAD.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7b349302731194c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0-inbox/Setting up Obsidian Git on iPAD.md",
+                "file": "Input/Meetings/HGCManagementMeeting 16 July 2024.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -99,8 +87,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": true,
+                "query": "outreac",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -136,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/Setting up Obsidian Git on iPAD.md",
+                "file": "Input/Meetings/HGCManagementMeeting 16 July 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/Setting up Obsidian Git on iPAD.md",
+                "file": "Input/Meetings/HGCManagementMeeting 16 July 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/Setting up Obsidian Git on iPAD.md"
+                "file": "Input/Meetings/HGCManagementMeeting 16 July 2024.md"
               }
             }
           }
@@ -195,48 +183,52 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7b349302731194c4",
+  "active": "473b00bb376c7fe9",
   "lastOpenFiles": [
-    "Journal/11 July 24.md",
-    "0-inbox/Setting up Obsidian Git on iPAD.md",
-    "0-inbox/decluster3b.md",
-    "Input/Meetings/Chat with Sam SURA 11 July 2024.md",
-    "0-inbox/CMUbbWW 11 July 2024.md",
+    "2-areas/Outreach/Teachers Program 2024 Notes.md",
+    "2-areas/Outreach/Teacher Program 2023 vpython links.md",
+    "Input/Meetings/HGCManagementMeeting 16 July 2024.md",
+    "Journal/16 July 24.md",
+    "2-areas/Outreach/Outreach-git-hub.md",
+    "3-resources/computing/CMU Guest Access.md",
+    "Journal/14 July 24.md",
+    "Journal/13 July 24.md",
     "1-projects/Mixed2.0/mixed2.0.md",
+    "Output/Lists.md",
+    "Input/Books/TheMindIlluminated.md",
+    "Input/Books/Books.md",
+    "Input/Books/TheFabricOfReality.md",
+    "Input/Books/FourThousandWeeks.md",
+    "Journal/15 July 24.md",
     "0-inbox/Things-To-Add-To-Notes.md",
-    "0-inbox/HHbbWW.md",
-    "00-Zettelkasten/Genius-OneIdea-plus-dogged-persuit.md",
+    "00-Zettelkasten/Happiness-is-about-thinking.md",
+    "1-projects/Teaching/PGSS Planning.md",
     "00-Zettelkasten/ZettelKasten Index.md",
-    "3-resources/Obsidian/links in markdown.md",
-    "0-inbox/[.md",
-    "Journal/10 July 24.md",
-    "Input/WorkingPhilosophy.md",
-    "2-areas/Philosophy/Core Virtues.md",
-    "00-Zettelkasten/Epicurean-four-part-cure.md",
-    "00-Zettelkasten/Purpose-of-Philosophy.md",
-    "00-Zettelkasten/Dealing-With-Setbacks.md",
-    "2-areas/Philosophy/wrong in future.md",
-    "2-areas/Philosophy/Munger.md",
-    "Input/Lectures/Great Lectures.md",
-    "2-areas/Philosophy/Working-Philosophy.md",
-    "2-areas/Philosophy/Wishes.md",
-    "2-areas/Philosophy/Why Now is interesting.md",
-    "2-areas/Philosophy/What Will be Totally Replaced in 100 years?.md",
-    "2-areas/Philosophy/UnpopularImportantTruth.md",
+    "00-Zettelkasten/Advantages-of-Jet-declustering.md",
+    "00-Zettelkasten/Jet DeClustering.md",
+    "00-Zettelkasten/H-bb-vs-cc-using-photons.md",
+    "00-Zettelkasten/b-tags-as-a-quark-to-quark-gluon-tag.md",
+    "Input/Meetings/AniketChat 15 July 2024.md",
+    "00-Zettelkasten/Hemisphere-mixing.md",
+    "00-Zettelkasten/Hemisphere-mixing-and-ISR-FSR.md",
+    "Pasted image 20240715154921.png",
+    "Pasted image 20240715123936.png",
+    "Pasted image 20240714224532.png",
+    "PGSS",
+    "4-archive/HIG-22-011",
+    "2-areas/Outreach",
+    "Input/Papers/#paers.md#",
+    "Input/Blogs/#Blogs.md#",
+    "1-projects/Teaching",
+    "1-projects/bbWW",
+    "Excalidraw",
     "Rationality",
     "0-inbox/#WorkingPhilosophy.md#",
-    "Output/HGCMACArticle.txt",
-    "Input/Dharma",
-    "Climate-change-is-overrated",
-    "Input/Blogs",
     "Pasted image 20240707142114.png",
-    "Input/Meetings",
-    "2-areas/Mentoring",
-    "1-projects/Mixed2.0",
-    "Input/Videos",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]

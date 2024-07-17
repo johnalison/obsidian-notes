@@ -1,21 +1,19 @@
   ("Vote on these every few weeks) 
-  - Dont eat before 4pm or after 8pm
-  - Meditate > 1hr / day
+  - Look for the looker
   - Dont eat food with carb count > 15g (unless special occasion) 
-  - Journal every night
-  - 8 hrs in bed
   - Bullet journal throughout day. (with time blocking) 
   - Dont lie.
-  - Coffee before noon
-  - Some physical activity each morning.
   - Dont get Angry
   - Dont complain. 
   - Dont gossip
   - Be dependable
   - Floss everyday
-  - exercise everyday
+  - Exercise everyday
 
+- "If its not right, Dont do it"
+  "If its not true, dont say it" - Markus Aurelius
 
+- Think before you speak.  Be the calm.
 
 ## Links: 
 

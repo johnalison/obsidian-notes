@@ -31,6 +31,7 @@
 - Never say yes on the spot. Always give yourself some space. Make it a rule. Tell people.
     When he‚Äôs on the phone he says ‚Äòmy rule is I never say yes on the phone. I‚Äôll email you later after I think about it more.‚Äô 
 - Every time you say yes, finishing this sentence :  I am choosing to say yes because ...
+- [[The Art of Acquiesce]]
 
 
 

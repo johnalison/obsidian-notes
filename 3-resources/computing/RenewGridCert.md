@@ -1,5 +1,7 @@
 # How to renew the grid certificante
 
+[[computing]]
+
 From the email:
 
 "The Grid User certificate issued to CERN\johnda will expire in 7 days, on 09/08/2019.

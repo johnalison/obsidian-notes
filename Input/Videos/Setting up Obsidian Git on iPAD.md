@@ -4,7 +4,7 @@ https://forum.obsidian.md/t/yet-another-obsidian-git-tutorial-desktop-pc-ipad-sy
 saved git token to Bitwarden
 
 
-
+Got t set up !!!
 
 ## Links: 
 

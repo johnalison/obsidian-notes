@@ -1,5 +1,9 @@
 Fantastic
 
+[[Dharma]]
+[[Mindfullness]]
+
+
 #Consume. Turn these in to permenant notes!
 
 - Purpose of the Direct approach is to evoke a spiritual awakening of your essential nature, beyond the mind. This awakening fundamentally changes who you take yourself to be and how you experience reality.

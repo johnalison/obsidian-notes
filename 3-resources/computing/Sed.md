@@ -1,4 +1,4 @@
-[[Sed]]
+[[SED]]
 [[computing]]
 
 

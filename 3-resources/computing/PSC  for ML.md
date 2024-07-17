@@ -1,3 +1,5 @@
+[[computing]]
+
 Testing on PSC:
 module load anaconda3
 

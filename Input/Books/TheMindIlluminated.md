@@ -6,15 +6,16 @@
 
 - Meditation is the systematic process of training the mind.  For your personal reality to be created purposefully rather than haphazardly, you must understand your mind and develop a deep intuitive understanding.
 
-- This book explains what skills you need to cultivate, in what order, and how to go about doing it. This is a major stumbling block for many meditators.
-  Teaching by stages is an easy and effective way to reach the highest goals.  Unfortunately many excellent maps lie hidden in the literature of various Buddhist traditions.
-  The modern road-map offered in this book combines experience, tradition and science.
+- This book explains what skills you need to cultivate, in what order, and how to go about doing it. This is a major stumbling block for many meditators. Teaching by stages is an easy and effective way to reach the highest goals.  Unfortunately many excellent maps lie hidden in the literature of various Buddhist traditions.  The modern road-map offered in this book combines experience, tradition and science.
 
 - The five most important Insights are: impermanence, emptiness, the nature of suffering, the causal interdependence of all phenomenon, and the illusion of the separate self.
 
 - To get insight you need stable attention and mindfulness. (stable attention without mindfulness only leads to blissful dullness)
 
 - Stable attention + mindfulness + insight leads to Awakening. Awakening is an accident, but continued practice makes you accident-prone. 
+
+[[Awakening]]
+[[Mindfullness]]
 
 - Distinction made between attention and awareness; supported by cognitive psychology and neuroscience.
 
@@ -32,6 +33,9 @@
 
 - All we are doing in meditation is forming and holding specific conscious intention. Intentions lead to mental actions, and repeated mental actions become mental habits.
 
+[[Mindfullness]]
+[[SystemsNotGoals]]
+
 - The two major objectives to meditation practice are stable attention and mindfulness.
 
 - We have two forms of conscious experience: attention and peripheral awareness. Attention dominates our conscious experience, but through awareness we are generally aware of things in the background.
@@ -47,10 +51,14 @@
 
 - Sustaining attention is harder than directing it. It is possible to voluntarily direct attention, however the part of the mind that sustains attention for more than a few moments works unconsciously.
 
+[[Mindfullness]]
+
 - Just by intending to observe an object and coming back to it when we get distracted, we're training that unconscious process to help us stay focused more continuously.
   Formulating the conscious intention to focus on the meditation object gives a new piece of information for unconscious processes to take into account.
 
 - Skillfully applying conscious intention can completely restructure the mind and transform who we are. This is the essence of meditation: we reprogram unconscious mental processes by repeating basic tasks over and over with a clear intention.
+
+[[AreWhatYouThink]]
 
 - Mindfulness is the optimal interaction between attention and peripheral awareness. It allows us to recognize our options and choose our responses wisely.
 
@@ -123,6 +131,8 @@
 - Insight: Pain is inevitable, but suffering is optional
 
 - The five hindrances are more than just obstacles to meditation. They are the same obstacles that thwart a happy, productive existence.
+
+#Consume 
 
 - **Stage Two**: Interrupted Attention and Overcoming Mind-Wandering
   - The goal for stage two is to shorten the periods of mind-wandering and extend the periods of sustained attention to the meditation object.
