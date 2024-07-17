@@ -21,9 +21,11 @@
             "id": "abb43f388462e74f",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-07-11 17.04.14.excalidraw.md"
+                "file": "Journal/17 July 24.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -114,7 +116,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Excalidraw/Drawing 2024-07-11 17.04.14.excalidraw.md",
+            "file": "Journal/17 July 24.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -131,7 +133,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Excalidraw/Drawing 2024-07-11 17.04.14.excalidraw.md",
+            "file": "Journal/17 July 24.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -143,7 +145,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Excalidraw/Drawing 2024-07-11 17.04.14.excalidraw.md"
+            "file": "Journal/17 July 24.md"
           }
         }
       }
@@ -164,16 +166,47 @@
   },
   "active": "abb43f388462e74f",
   "lastOpenFiles": [
-    "0-inbox/Drawing 2024-07-11 14.42.16.excalidraw.md",
     "Excalidraw/Drawing 2024-07-11 17.04.14.excalidraw.md",
-    "Journal/11 July 24.md",
-    "0-inbox/CMUbbWW 11 July 2024.md",
-    "Excalidraw/Drawing 2024-07-11 14.47.45.excalidraw.md",
-    "Input/Drawing 2024-07-11 14.48.02.excalidraw.md",
-    "Excalidraw",
-    "0-inbox/Setting up Obsidian Git on iPAD.md",
-    "/Journal/11 July 24.md",
-    "/0-inbox/Setting up Obsidian Git on iPAD.md",
-    "0-inbox/HHbbWW.md"
+    "Journal/17 July 24.md",
+    "00-Zettelkasten/Pragmatism-over-idealism.md",
+    "00-Zettelkasten/Action-not-knowledge.md",
+    "Input/Papers/papers.md",
+    "00-Zettelkasten/ISR-FSR-jet-discernment-in-jet-declustering.md",
+    "Input/Meetings/SindhuChat 15 July 2024.md",
+    "3-resources/computing/UpdateCMUWebpage.md",
+    "Input/Blogs/Blogs.md",
+    "3-resources/computing/Vera Cluster Setup.md",
+    "Input/Papers/Bad Goodness of Fit Tips.md",
+    "Input/Papers/CMS Combine Paper.md",
+    "Pasted image 20240714224532.png",
+    "Journal/12 July 24.md",
+    "00-Zettelkasten/Time-vs-money-trade-off.md",
+    "Journal/14 July 24.md",
+    "00-Zettelkasten/Be-Happy-Cannot-Become-Happy.md",
+    "00-Zettelkasten/Be-better-through-emulation.md",
+    "Input/Videos/Excalidraw intro video.md",
+    "00-Zettelkasten/Can-lose-time-through-lack-of-attention.md",
+    "00-Zettelkasten/Advantages-of-Jet-declustering.md",
+    "Input/Books/Computer Age Statistical Inference.md",
+    "00-Zettelkasten/Happiness-is-about-thinking.md",
+    "00-Zettelkasten/Splitting Templates.md",
+    "Input/Blogs/Why Categories for Your Note Archive are a Bad Idea.md",
+    "2-areas/CMS/CMS Paper Diff Tool!.md",
+    "Pasted image 20240715123936.png",
+    "00-Zettelkasten/Hemisphere-mixing.md",
+    "1-projects/bbWW",
+    "1-projects/Teaching",
+    "4-archive/HIG-22-011",
+    "4-archive",
+    "Pasted image 20240715154921.png",
+    "2-areas/Outreach",
+    "/Pasted image 20240715154921.png",
+    "/Pasted image 20240715123936.png",
+    "/Pasted image 20240714224532.png",
+    "/4-archive/HIG-22-011",
+    "/4-archive",
+    "/2-areas/Outreach",
+    "/1-projects/bbWW",
+    "/1-projects/Teaching"
   ]
 }
