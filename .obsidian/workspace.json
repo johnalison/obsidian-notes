@@ -51,7 +51,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Input/Meetings/HGCManagementMeeting 16 July 2024.md",
+                "file": "Journal/17 July 24.md",
                 "mode": "source",
                 "source": false
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Input/Meetings/HGCManagementMeeting 16 July 2024.md",
+                "file": "Journal/17 July 24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Input/Meetings/HGCManagementMeeting 16 July 2024.md",
+                "file": "Journal/17 July 24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Input/Meetings/HGCManagementMeeting 16 July 2024.md"
+                "file": "Journal/17 July 24.md"
               }
             }
           }
@@ -189,10 +189,13 @@
   },
   "active": "473b00bb376c7fe9",
   "lastOpenFiles": [
+    "0-inbox/Modules Summary July 2024.md",
+    "Journal/17 July 24.md",
+    "Excalidraw/Drawing 2024-07-11 17.04.14.excalidraw.md",
+    "Journal/16 July 24.md",
+    "Input/Meetings/HGCManagementMeeting 16 July 2024.md",
     "2-areas/Outreach/Teachers Program 2024 Notes.md",
     "2-areas/Outreach/Teacher Program 2023 vpython links.md",
-    "Input/Meetings/HGCManagementMeeting 16 July 2024.md",
-    "Journal/16 July 24.md",
     "2-areas/Outreach/Outreach-git-hub.md",
     "3-resources/computing/CMU Guest Access.md",
     "Journal/14 July 24.md",
@@ -212,9 +215,6 @@
     "00-Zettelkasten/Jet DeClustering.md",
     "00-Zettelkasten/H-bb-vs-cc-using-photons.md",
     "00-Zettelkasten/b-tags-as-a-quark-to-quark-gluon-tag.md",
-    "Input/Meetings/AniketChat 15 July 2024.md",
-    "00-Zettelkasten/Hemisphere-mixing.md",
-    "00-Zettelkasten/Hemisphere-mixing-and-ISR-FSR.md",
     "Pasted image 20240715154921.png",
     "Pasted image 20240715123936.png",
     "Pasted image 20240714224532.png",
