@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/15 July 24.md",
+                "file": "Journal/17 July 24.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Journal/15 July 24.md",
+            "file": "Journal/17 July 24.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Journal/15 July 24.md",
+            "file": "Journal/17 July 24.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -145,7 +145,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Journal/15 July 24.md"
+            "file": "Journal/17 July 24.md"
           }
         }
       }
@@ -166,7 +166,9 @@
   },
   "active": "abb43f388462e74f",
   "lastOpenFiles": [
+    "0-inbox/Modules Summary July 2024.md",
     "Journal/16 July 24.md",
+    "Journal/15 July 24.md",
     "Journal/17 July 24.md",
     "Excalidraw/Drawing 2024-07-11 17.04.14.excalidraw.md",
     "00-Zettelkasten/Pragmatism-over-idealism.md",
@@ -191,8 +193,6 @@
     "Input/Books/Computer Age Statistical Inference.md",
     "00-Zettelkasten/Happiness-is-about-thinking.md",
     "00-Zettelkasten/Splitting Templates.md",
-    "Input/Blogs/Why Categories for Your Note Archive are a Bad Idea.md",
-    "2-areas/CMS/CMS Paper Diff Tool!.md",
     "Pasted image 20240715123936.png",
     "1-projects/bbWW",
     "1-projects/Teaching",
