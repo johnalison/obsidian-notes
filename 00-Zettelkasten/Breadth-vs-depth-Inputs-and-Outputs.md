@@ -1,4 +1,4 @@
-Breadth comes from your inputs (reading, and talking and seeing). Depth comes from you're outputs (actually doing things).
+Breadth comes from your inputs (reading, and talking and seeing). Depth comes from your outputs (actually doing things).
 
 
 

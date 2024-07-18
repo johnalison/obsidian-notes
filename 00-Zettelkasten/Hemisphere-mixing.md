@@ -4,6 +4,10 @@ The key is defining the metric such that the scrambling of the hemispheres prese
 
 ![[Pasted image 20240714224532.png]]
 
+## Follow-ups
+- How can this be improved [[Jet DeClustering]]
+
+
 ## Links: 
 [[Hemisphere-mixing]]
 [[Problems-with-hemisphere-mixing]]

@@ -31,7 +31,14 @@ Index:
 
 
 # Leadership: a skill that can be taught and learned
+
+[[Leadership-Easy-First-Steps]]
+
 [[Detaching-As-Core-Leadership-Skill]]
+[[How-to-Detach]]
+[[Lack-of-free-will-as-a-hack-to-detach]]
+
+
 
 [[Third-party-praise]]
 
@@ -111,6 +118,8 @@ effective self-improvement critical**
 [[Dont-need-a-reason-to-be-happy]]
 
 [[Be-Happy-Cannot-Become-Happy]]
+[[Happiness-is-about-thinking]]
+
 
 # Innovation
 
@@ -120,11 +129,14 @@ effective self-improvement critical**
 
 (Learning as creativity)
 
-[[Genius-OneIdea-plus-dogged-persuit]]
+[[Genius-One-Idea-plus-dogged-persuit]]
 
 [[It helps to write stuff down]]
 
 [[AdjacentPossible]]
+
+[[Innovation Comes From Knowing More]]
+
 
 # Determinism
 
