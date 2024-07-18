@@ -14,6 +14,20 @@ https://cametoolbox.fnal.gov/Variance/ViewIndividualVAR/9148
 
 
 
+SV
+Preseries: Missing input parts: hexaboard and baseplates
+
+Production: Behind schedule missing hexaboards and baseplates
+
+
+CV: 
+
+  effect of the SV. Standing army issue. 
+  HD full / ESD safety / finalizing Tooling / baseplate R&D / Irradiation campaigns hybrid-gluing. 
+  No value earned on schedule activities. But progress being made.
+  
+
+
 What I did:
 - clicked on SPA CTD (CAM)
 - clicked on my name

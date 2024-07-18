@@ -5,7 +5,7 @@ https://indico.cern.ch/event/1416611/contributions/6013486/attachments/2892448/5
 
 **HGC General**: Given recent report of ATLAS silicon modules cracking, have studied of combination baseplate material to minimize Si stresses. Titanium promising in terms of Si stresses and forces. Expect minimal impact on assembly, tooling , and mounting. An order titanium plates as been placed.
 
-UCSB: Built 2 HD modules at once.  (Manfred,  where this was reported ?) 
+UCSB: Built more than 5 HD modules and have exercised producing two at a time. 
 
 UCSB: Built new HD module with Alumina Baseplate. Observed and studying some noisy channels.
 
