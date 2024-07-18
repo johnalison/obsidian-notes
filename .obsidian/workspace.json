@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Input/Books/Books.md",
+                "file": "Journal/18 July 24.md",
                 "mode": "source",
                 "source": false
               }
@@ -92,8 +92,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -113,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Input/Books/Books.md",
+                "file": "Journal/18 July 24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Input/Books/Books.md",
+                "file": "Journal/18 July 24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Input/Books/Books.md"
+                "file": "Journal/18 July 24.md"
               }
             }
           }
@@ -178,8 +177,11 @@
   },
   "active": "473b00bb376c7fe9",
   "lastOpenFiles": [
-    "Input/Books/SomethingDeeplyHidden.md",
+    "Journal/16 July 24.md",
+    "Journal/17 July 24.md",
+    "Journal/18 July 24.md",
     "Input/Books/Books.md",
+    "Input/Books/SomethingDeeplyHidden.md",
     "Input/Books/LifeAscending.md",
     "Input/Books/GeneralChemistry.md",
     "Input/Books/BookOfCharlie.md",
@@ -197,14 +199,11 @@
     "00-Zettelkasten/Third-party-praise.md",
     "00-Zettelkasten/Noticing-Things-As-They-Actually-Are.md",
     "Output/Lists.md",
-    "Journal/17 July 24.md",
     "00-Zettelkasten/Leadership-Easy-First-Steps.md",
     "0-inbox/Modules Summary July 2024.md",
     "Input/Meetings/ChatSamAniket 17 July 2024.md",
     "Excalidraw/Drawing 2024-07-11 17.04.14.excalidraw.md",
-    "Journal/16 July 24.md",
     "Input/Meetings/HGCManagementMeeting 16 July 2024.md",
-    "2-areas/Outreach/Teachers Program 2024 Notes.md",
     "Pasted image 20240715154921.png",
     "Pasted image 20240715123936.png",
     "Pasted image 20240714224532.png",
