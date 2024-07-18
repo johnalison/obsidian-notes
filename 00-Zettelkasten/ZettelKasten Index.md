@@ -29,6 +29,14 @@ Index:
 ## Potential Analyses
 [[H-bb-vs-cc-using-photons]]
 
+
+# Leadership: a skill that can be taught and learned
+[[Detaching-As-Core-Leadership-Skill]]
+
+[[Third-party-praise]]
+
+
+
 # Wisdom
 
 ## [[Rationality - Moral Duty to be more rational]]

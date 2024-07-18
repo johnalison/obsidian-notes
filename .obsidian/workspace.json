@@ -39,14 +39,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/Modules Summary July 2024.md",
+                "file": "00-Zettelkasten/ZettelKasten Index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a3e3433d9ce558df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00-Zettelkasten/Remembering-To-Detach.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "274fb035a8e91a09",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Input/Leadership.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -75,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "outreac",
+                "query": "file:ext",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -112,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/Modules Summary July 2024.md",
+                "file": "00-Zettelkasten/Remembering-To-Detach.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/Modules Summary July 2024.md",
+                "file": "00-Zettelkasten/Remembering-To-Detach.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/Modules Summary July 2024.md"
+                "file": "00-Zettelkasten/Remembering-To-Detach.md"
               }
             }
           }
@@ -175,11 +199,25 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "473b00bb376c7fe9",
+  "active": "a3e3433d9ce558df",
   "lastOpenFiles": [
+    "0-inbox/Untitled.md",
+    "00-Zettelkasten/Remembering-To-Detach.md",
+    "00-Zettelkasten/How-to-Detach.md",
+    "00-Zettelkasten/Lack-of-free-will-as-a-hack-to-detach.md",
+    "00-Zettelkasten/ZettelKasten Index.md",
+    "Input/Books/ExtremeOwnership.md",
+    "00-Zettelkasten/Detaching-As-Core-Leadership-Skill.md",
+    "Input/Leadership.md",
+    "1-projects/Mixed2.0/mixed2.0.md",
+    "Input/Books/#ExtremeOwnership.md#",
+    "00-Zettelkasten/Third-party-praise.md",
+    "00-Zettelkasten/Noticing-Things-As-They-Actually-Are.md",
+    "Output/Lists.md",
     "Journal/17 July 24.md",
-    "Input/Meetings/ChatSamAniket 17 July 2024.md",
+    "00-Zettelkasten/Leadership-Easy-First-Steps.md",
     "0-inbox/Modules Summary July 2024.md",
+    "Input/Meetings/ChatSamAniket 17 July 2024.md",
     "Excalidraw/Drawing 2024-07-11 17.04.14.excalidraw.md",
     "Journal/16 July 24.md",
     "Input/Meetings/HGCManagementMeeting 16 July 2024.md",
@@ -189,20 +227,7 @@
     "3-resources/computing/CMU Guest Access.md",
     "Journal/14 July 24.md",
     "Journal/13 July 24.md",
-    "1-projects/Mixed2.0/mixed2.0.md",
-    "Output/Lists.md",
     "Input/Books/TheMindIlluminated.md",
-    "Input/Books/Books.md",
-    "Input/Books/TheFabricOfReality.md",
-    "Input/Books/FourThousandWeeks.md",
-    "Journal/15 July 24.md",
-    "0-inbox/Things-To-Add-To-Notes.md",
-    "00-Zettelkasten/Happiness-is-about-thinking.md",
-    "1-projects/Teaching/PGSS Planning.md",
-    "00-Zettelkasten/ZettelKasten Index.md",
-    "00-Zettelkasten/Advantages-of-Jet-declustering.md",
-    "00-Zettelkasten/Jet DeClustering.md",
-    "00-Zettelkasten/H-bb-vs-cc-using-photons.md",
     "Pasted image 20240715154921.png",
     "Pasted image 20240715123936.png",
     "Pasted image 20240714224532.png",
@@ -215,7 +240,6 @@
     "1-projects/bbWW",
     "Excalidraw",
     "Rationality",
-    "0-inbox/#WorkingPhilosophy.md#",
     "Pasted image 20240707142114.png",
     "Untitled.canvas",
     "Untitled 1.canvas"
