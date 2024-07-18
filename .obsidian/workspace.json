@@ -39,38 +39,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-Zettelkasten/ZettelKasten Index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a3e3433d9ce558df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00-Zettelkasten/Remembering-To-Detach.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "274fb035a8e91a09",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Input/Leadership.md",
+                "file": "Input/Books/Books.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -99,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:ext",
+                "query": "file:boo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -116,7 +92,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -136,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-Zettelkasten/Remembering-To-Detach.md",
+                "file": "Input/Books/Books.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00-Zettelkasten/Remembering-To-Detach.md",
+                "file": "Input/Books/Books.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-Zettelkasten/Remembering-To-Detach.md"
+                "file": "Input/Books/Books.md"
               }
             }
           }
@@ -199,16 +176,22 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a3e3433d9ce558df",
+  "active": "473b00bb376c7fe9",
   "lastOpenFiles": [
-    "0-inbox/Untitled.md",
+    "Input/Books/SomethingDeeplyHidden.md",
+    "Input/Books/Books.md",
+    "Input/Books/LifeAscending.md",
+    "Input/Books/GeneralChemistry.md",
+    "Input/Books/BookOfCharlie.md",
+    "Input/Books/TheMindIlluminated.md",
+    "00-Zettelkasten/ZettelKasten Index.md",
     "00-Zettelkasten/Remembering-To-Detach.md",
+    "Input/Leadership.md",
+    "0-inbox/Untitled.md",
     "00-Zettelkasten/How-to-Detach.md",
     "00-Zettelkasten/Lack-of-free-will-as-a-hack-to-detach.md",
-    "00-Zettelkasten/ZettelKasten Index.md",
     "Input/Books/ExtremeOwnership.md",
     "00-Zettelkasten/Detaching-As-Core-Leadership-Skill.md",
-    "Input/Leadership.md",
     "1-projects/Mixed2.0/mixed2.0.md",
     "Input/Books/#ExtremeOwnership.md#",
     "00-Zettelkasten/Third-party-praise.md",
@@ -222,12 +205,6 @@
     "Journal/16 July 24.md",
     "Input/Meetings/HGCManagementMeeting 16 July 2024.md",
     "2-areas/Outreach/Teachers Program 2024 Notes.md",
-    "2-areas/Outreach/Teacher Program 2023 vpython links.md",
-    "2-areas/Outreach/Outreach-git-hub.md",
-    "3-resources/computing/CMU Guest Access.md",
-    "Journal/14 July 24.md",
-    "Journal/13 July 24.md",
-    "Input/Books/TheMindIlluminated.md",
     "Pasted image 20240715154921.png",
     "Pasted image 20240715123936.png",
     "Pasted image 20240714224532.png",

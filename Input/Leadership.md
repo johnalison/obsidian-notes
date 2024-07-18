@@ -9,11 +9,5 @@
 
 
 
-# Extreme Ownership (Jocko Wilnick) 
-
-
-
-- Use lack of free-will in others, as a way to detach, avoid anger avoid envy
-
 - How to build confidence in someone:
    - Give them a job they can do. 

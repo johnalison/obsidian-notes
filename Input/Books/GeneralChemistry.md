@@ -8,6 +8,9 @@
 
 - 1 ml = 1cm^3 or 1L = 10^-3 m^3
 
+[[Estimation]]
+
+
 - The thermochemical calorie, ~ 3 J (4.184J) is the amount of energy needed to raise 1 g of water by 1C.
 
 - To convert temperature from one scale to another you need only remember that the F degree is 100/180 C = 5/9 C and that 0C is the same as 32F.
@@ -52,7 +55,7 @@
 
 - Oxygen is the most abundant element in the earths mantle. 90% of water 20% of air and nearly 50% of the common minerals (silicates)
 
-- Fluorine is the most reactive of all elements. Substances such as wood and rubber bursts into flames when help is a stream of fluorine.
+- Fluorine is the most reactive of all elements. Substances such as wood and rubber bursts into flames when held in a stream of fluorine.
 
 - The hydrocarbons are compounds of hydrogen and carbon alone.
    Methane CH4 is an example. Natural gas is usually about 85% methane.
@@ -82,13 +85,14 @@
 
 - Gases differ remarkably from liquids and solids in that the volume of a sample of gas depends in a striking way on the temperature of the gas and the applied pressure.
 
-- Maxwell showed that according to the kinetic theory the viscosity of a gas should be independent of pressure and should increase with increasing temperature, rather than decrease.
-  These surprising properties were verified by experiment, and the kinetic theory of gases was accepted long before a direct experimental determination of the velocity distribution function could be carried out.
+- Maxwell showed that according to the kinetic theory the viscosity of a gas should be independent of pressure and should increase with increasing temperature, rather than decrease.  These surprising properties were verified by experiment, and the kinetic theory of gases was accepted long before a direct experimental determination of the velocity distribution function could be carried out.
 
 - 1 cal = 4.1840 J
         ~ 3 J
 
 - The heat capacity of water is unusually large.
+
+[[Estimation]]
 
 - The principle commercial method of production of ammonia is the Haber process, the direct combination of nitrogen and hydrogen under high pressure (several hundred atmospheres) in the presence of a catalyst.
 
@@ -104,6 +108,8 @@
   Only the most electronegative atoms - fluorine, oxygen, nitrogen - form these bonds. Water is especially suitable to form hydrogen bonds because each molecule as two attached hydrogen atoms and two unshared electron pairs, and so can form four hydrogen bonds. The tetrahedral arrangement of the electron pairs causes these four bonds to extend in the four tetrahedral directions of space, and leads to the characteristic crystal structure of ice. It is a very open structure; each molecule is surrounded by only four immediate neighbors. This gives ice an abnormally low density. When ice melts, this structure is partially destroyed, and the molecules are packed more closely together, causing water to have a higher density than ice.
 
 - One of the most striking proprieties of water its ability to dissolve many substances, forming aqueous solutions. Solutions are very important kinds of matter. The ocean is an aqueous solution that contains thousands of components. It was in this solution that the first living organisms developed, and from it that they obtained the ions and molecules needed for their growth and life. With time, organisms were evolved that could leave this aqueous environment, and move out onto the land and into the air. They achieved this ability by carrying the aqueous solutions with them, as tissue fluid, blood plasma, and cellular fluids containing the necessary supply of ions and molecules.
+
+[[WhoWeAre]]
 
 - Air is a gaseous solution of nitrogen, oxygen, carbon dioxide, water vapor and the Nobel gases.
 
@@ -155,8 +161,7 @@
 
 - The characteristic properties of rubber are due to the fact that it is an aggregate of very long molecules, intertwined with one another in a random way.
 
-- Carbohydrates are substances with general formula CX(H20)Y. They occur widely in nature. The simpler carbohydrates are called sugars and the complex ones are called polysaccharides.
-  Important polysaccharides include starch, glycogen, and cellulose (the structural element of plants).
+- Carbohydrates are substances with general formula CX(H20)Y. They occur widely in nature. The simpler carbohydrates are called sugars and the complex ones are called polysaccharides.  Important polysaccharides include starch, glycogen, and cellulose (the structural element of plants).
 
 - The human body does not consist of cells alone.  There are also bones, which have been laid down as the excretions of bone-making cells. The bones consist of inorganic calcium molecules and collagen which is a protein.
 
@@ -165,9 +170,7 @@
 - When proteins are heated in acidic or basic solutions they produce substances called amino acids.
 
 - Proteins are an important part of food. They are digested by the stomach and intestines, being split into amino acids. These smaller molecules are able to pass through the walls of the stomach and intestines into the blood stream, where they are carried to the tissues, where they may serve as building blocks for the manufacture of the bodies proteins.
-  Carbohydrates are split into simple sugars in digestion and then pass into the blood stream. They sugars are converted in the liver into glycogen, an important source of energy for animals.
-  Glycogen combines with oxygen to form C02 and water + energy, part of which can be used for doing work and part to keep the body warm.
-  The nitrogen of the protein molecules that are town down is eliminated in urine.
+  Carbohydrates are split into simple sugars in digestion and then pass into the blood stream. The sugars are converted in the liver into glycogen, an important source of energy for animals.  Glycogen combines with oxygen to form C02 and water + energy, part of which can be used for doing work and part to keep the body warm.  The nitrogen of the protein molecules that are town down is eliminated in urine.
 
 - Nine amino acids are essential to man. It is not enough, however, that the diet contain proteins that provides these 9 amino acids, and sufficient supply of carbs and fats to provide energy. Other substances both inorganic and organic are also essential to health. The inorganic requirements are sodium, chloride, potassium, calcium, magnesium, iodine, phosphorus and several transition metals. The other organic requirements are called vitamins.
 

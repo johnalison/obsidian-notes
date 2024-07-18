@@ -127,13 +127,13 @@
 
 - Something Deeply Hidden [[SomethingDeeplyHidden]] (Sean Carroll)
 
+#Consume 
+
 - Life Ascending [[LifeAscending]] (Nick Lane)
 
 - General Chemistry [[GeneralChemistry]] (Linus Pauling)
 
 - The Mind Illuminated [[TheMindIlluminated]] (Culadasa)
-
-#Consume 
 
 - The Fabric of Reality [[TheFabricOfReality]] (David Deutsch)
 
