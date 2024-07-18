@@ -67,10 +67,19 @@
       "key": "S"
     }
   ],
-  "obsidian-hotkeys-for-specific-files:00-Zettelkasten/ZettelKasten Index.md": [
+  "emacs-text-editor:undo": [
     {
       "modifiers": [
         "Mod"
+      ],
+      "key": "Z"
+    }
+  ],
+  "obsidian-hotkeys-for-specific-files:00-Zettelkasten/ZettelKasten Index.md": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
       ],
       "key": "Z"
     }
