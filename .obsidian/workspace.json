@@ -39,26 +39,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/Chat Anika Bhawalkar.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a524d89b6e39ecd6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0-inbox/How to start a homelab for $0.md",
+                "file": "00-Zettelkasten/Action-not-knowledge.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -124,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/How to start a homelab for $0.md",
+                "file": "00-Zettelkasten/Action-not-knowledge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/How to start a homelab for $0.md",
+                "file": "00-Zettelkasten/Action-not-knowledge.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/How to start a homelab for $0.md"
+                "file": "00-Zettelkasten/Action-not-knowledge.md"
               }
             }
           }
@@ -187,22 +175,26 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a524d89b6e39ecd6",
+  "active": "473b00bb376c7fe9",
   "lastOpenFiles": [
+    "0-inbox/The Zettelkasten Method Less wrong.md",
     "Journal/18 July 24.md",
-    "0-inbox/How to start a homelab for $0.md",
+    "00-Zettelkasten/Action-Now.md",
+    "00-Zettelkasten/ZettelKasten Index.md",
+    "00-Zettelkasten/Action-not-knowledge.md",
+    "Input/Meetings/Chat Anika Bhawalkar 18July 2024.md",
+    "templates/Zettel Template.md",
+    "templates/Untitled <% tp.date.now(\"YYYYMMDDHHmm\") %>.md",
+    "Input/Videos/How to start a homelab for $0.md",
     "0-inbox/Modules Summary July 2024.md",
     "Output/CAM/CAM Variance July 2024.md",
     "Output/CAM",
-    "00-Zettelkasten/ZettelKasten Index.md",
-    "0-inbox/Chat Anika Bhawalkar.md",
     "Input/Meetings/Stats Chat 18 July 2024.md",
     "1-projects/Mixed2.0/mixed2.0.md",
     "3-resources/Obsidian/Tables-in-Markup.md",
     "templates/Daily Template.md",
     "0-inbox/#Tables-in-Markup.md#",
     "Input/Meetings/HGC Mac Meeting 18 July 2024.md",
-    "0-inbox/The Zettelkasten Method Less wrong.md",
     "3-resources/computing/CMU Guest Access.md",
     "Journal/16 July 24.md",
     "Journal/17 July 24.md",
@@ -213,10 +205,6 @@
     "Input/Books/BookOfCharlie.md",
     "Input/Books/TheMindIlluminated.md",
     "00-Zettelkasten/Remembering-To-Detach.md",
-    "Input/Leadership.md",
-    "00-Zettelkasten/How-to-Detach.md",
-    "00-Zettelkasten/Lack-of-free-will-as-a-hack-to-detach.md",
-    "Input/Books/ExtremeOwnership.md",
     "Input/Books/#ExtremeOwnership.md#",
     "Pasted image 20240715154921.png",
     "Pasted image 20240715123936.png",
