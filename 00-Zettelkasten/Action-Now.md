@@ -1,4 +1,4 @@
-The only real question is what is the right thing to do now. The past is fix, the future cannot be relied upon. 
+The only real question is what is the right thing to do now. The past is fixed, the future cannot be relied upon. 
 
 
 ## Links: 

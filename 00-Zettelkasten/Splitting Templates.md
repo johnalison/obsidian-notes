@@ -5,8 +5,11 @@ The subjets can then be described by 4 degrees-of-freedom: ($\theta_A$. zA, mA, 
 Note that randomly sampling from the splitting templates will change the combined jets mass (which is of course a function of its substructure.)
 
 
-## Links: 
+# Followups
+- Do the splitting templates depend on the jet flavor?  [[b-tags-as-a-quark-to-quark-gluon-tag]]
 
+## Links: 
+[[b-tags-as-a-quark-to-quark-gluon-tag]]
 
 
 202407151217
