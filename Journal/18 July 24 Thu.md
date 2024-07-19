@@ -35,7 +35,7 @@ ex: NA
 # Action
  - [x] Add anika to canvas
  - [x] Submit Var
- - [ ] Send HGC summary
+ - [> ] Send HGC summary
  - [ ]  
 
 
@@ -88,5 +88,7 @@ Got raspberry pi back online
 
 [[Cleanroom RaspberryPis]]
 
+Working notes.
+## Beers with Tony! ##
 
 

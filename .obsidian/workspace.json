@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Input/AmorFati.md",
+                "file": "Journal/19 July 24 Fri.md",
                 "mode": "source",
                 "source": false
               }
@@ -51,14 +51,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/Only-your-choices-can-be-good-evil.md",
+                "file": "Journal/18 July 24 Thu.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -104,8 +104,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -125,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/Only-your-choices-can-be-good-evil.md",
+                "file": "Journal/19 July 24 Fri.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/Only-your-choices-can-be-good-evil.md",
+                "file": "Journal/19 July 24 Fri.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/Only-your-choices-can-be-good-evil.md"
+                "file": "Journal/19 July 24 Fri.md"
               }
             }
           }
@@ -188,8 +187,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e50aa56b4f9113ad",
+  "active": "0706ec86ea7d0d7a",
   "lastOpenFiles": [
+    "Journal/18 July 24 Thu.md",
+    "Journal/19 July 24 Fri.md",
+    "Journal/17 July 24 Wed.md",
+    "Journal/16 July 24 Tue.md",
+    "Journal/15 July 24 Mon.md",
     "Input/AmorFati.md",
     "0-inbox/Only-your-choices-can-be-good-evil.md",
     "00-Zettelkasten/Wisdom-index.md",
@@ -199,7 +203,6 @@
     "00-Zettelkasten/Giving-them-a-job-they-can-do.md",
     "0-inbox/Modules Summary July 2024.md",
     "3-resources/computing/RaspberryPi720.md",
-    "Journal/18 July 24.md",
     "3-resources/computing/Cleanroom RaspberryPis.md",
     "00-Zettelkasten/You-set-your-standards.md",
     "00-Zettelkasten/Wasting-time-is-a-form-of-suicide.md",
@@ -212,10 +215,6 @@
     "00-Zettelkasten/Teachers-vs-Experts.md",
     "00-Zettelkasten/Synthetic-data-sets-via-hemisphere-mixing.md",
     "00-Zettelkasten/Success-And-Failure-As-Imposters.md",
-    "00-Zettelkasten/Spurious-Signal.md",
-    "00-Zettelkasten/Splitting Templates.md",
-    "00-Zettelkasten/Remembering-To-Detach.md",
-    "00-Zettelkasten/Reliability-beats-Fancy-Skills.md",
     "Output/CAM",
     "0-inbox/#Tables-in-Markup.md#",
     "Input/Books/#ExtremeOwnership.md#",
