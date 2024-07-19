@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-Zettelkasten/ZettelKasten Index.md",
+                "file": "00-Zettelkasten/Wisdom-index.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,8 +32,33 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "0706ec86ea7d0d7a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Input/AmorFati.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e50aa56b4f9113ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-inbox/Only-your-choices-can-be-good-evil.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -62,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "raspb",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -100,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-Zettelkasten/ZettelKasten Index.md",
+                "file": "0-inbox/Only-your-choices-can-be-good-evil.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00-Zettelkasten/ZettelKasten Index.md",
+                "file": "0-inbox/Only-your-choices-can-be-good-evil.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-Zettelkasten/ZettelKasten Index.md"
+                "file": "0-inbox/Only-your-choices-can-be-good-evil.md"
               }
             }
           }
@@ -163,13 +188,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "588cd4c905a8fb24",
+  "active": "e50aa56b4f9113ad",
   "lastOpenFiles": [
+    "Input/AmorFati.md",
+    "0-inbox/Only-your-choices-can-be-good-evil.md",
+    "00-Zettelkasten/Wisdom-index.md",
+    "00-Zettelkasten/ZettelKasten Index.md",
+    "Input/Leadership.md",
     "1-projects/Mixed2.0/mixed2.0.md",
+    "00-Zettelkasten/Giving-them-a-job-they-can-do.md",
+    "0-inbox/Modules Summary July 2024.md",
     "3-resources/computing/RaspberryPi720.md",
     "Journal/18 July 24.md",
     "3-resources/computing/Cleanroom RaspberryPis.md",
-    "00-Zettelkasten/ZettelKasten Index.md",
     "00-Zettelkasten/You-set-your-standards.md",
     "00-Zettelkasten/Wasting-time-is-a-form-of-suicide.md",
     "00-Zettelkasten/Want-what-you-have.md",
@@ -185,12 +216,6 @@
     "00-Zettelkasten/Splitting Templates.md",
     "00-Zettelkasten/Remembering-To-Detach.md",
     "00-Zettelkasten/Reliability-beats-Fancy-Skills.md",
-    "00-Zettelkasten/Rationality - Moral Duty to be more rational.md",
-    "00-Zettelkasten/Purpose-of-Philosophy.md",
-    "00-Zettelkasten/Proxy-datasets-critical-for-data-driven-systematics.md",
-    "00-Zettelkasten/Proving-the-word-deterministic.md",
-    "00-Zettelkasten/Problems-with-hemisphere-mixing.md",
-    "00-Zettelkasten/Problem-with-market-cap.md",
     "Output/CAM",
     "0-inbox/#Tables-in-Markup.md#",
     "Input/Books/#ExtremeOwnership.md#",
