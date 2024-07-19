@@ -9,7 +9,7 @@ How important is it to cluster in the mass mass plane after a DvB cut ?
 
 
 ## Follow-ups
-[[4bResonantSearch]]
+[[4b Resonant Search]]
 
 
 

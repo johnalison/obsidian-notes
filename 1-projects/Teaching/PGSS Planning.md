@@ -22,12 +22,9 @@
 -  Start with a recap from last lecture + Inelastic collision / E and mass
 -  0.5 x lecture 5 mass-less particles / + examples (muon-lifetime)
 - Velocity Parameter
-- General Relativity OR "QM and objects in the our the world"
+- QM and objects in the our the world
 
 
-Maybe:
-- Importance of the Higgs
-- The right way to think about the world
 
 ## Links: 
 

@@ -16,6 +16,7 @@ Watching ZettelKasting notes
 
 [[Wesley Terrill]]
 
+
 [[Chat with Elliot about future hadron colliders]]
 
 Working some book notes

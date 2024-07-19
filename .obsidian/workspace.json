@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-Zettelkasten/Wisdom-index.md",
+                "file": "Journal/19 July 24 Fri.md",
                 "mode": "source",
                 "source": false
               }
@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/19 July 24 Fri.md",
+                "file": "Journal/July 2024.md",
                 "mode": "source",
                 "source": false
               }
@@ -76,7 +76,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/19 July 24 Fri.md",
+                "file": "Journal/July 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/19 July 24 Fri.md",
+                "file": "Journal/July 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/19 July 24 Fri.md"
+                "file": "Journal/July 2024.md"
               }
             }
           }
@@ -177,33 +177,34 @@
   },
   "active": "0706ec86ea7d0d7a",
   "lastOpenFiles": [
-    "0-inbox/Chat w Sindhu 19 July.md",
-    "Journal/19 July 24 Fri.md",
-    "0-inbox/4bResonantSearch.md",
-    "Chat w/Sindhu.md",
-    "Chat w",
-    "Input/Meetings/CMU Round Table 19 July.md",
-    "3-resources/computing/CMU Guest Access.md",
-    "Journal/18 July 24 Thu.md",
-    "Journal/16 July 24 Tue.md",
-    "Journal/17 July 24 Wed.md",
-    "Journal/15 July 24 Mon.md",
-    "Input/AmorFati.md",
-    "0-inbox/Only-your-choices-can-be-good-evil.md",
-    "00-Zettelkasten/Wisdom-index.md",
-    "00-Zettelkasten/ZettelKasten Index.md",
-    "Input/Leadership.md",
     "1-projects/Mixed2.0/mixed2.0.md",
-    "00-Zettelkasten/Giving-them-a-job-they-can-do.md",
+    "Journal/19 July 24 Fri.md",
+    "Journal/18 July 24 Thu.md",
+    "Journal/17 July 24 Wed.md",
+    "Journal/16 July 24 Tue.md",
+    "Journal/15 July 24 Mon.md",
+    "Journal/14 July 24 Sun.md",
+    "Input/SomedayMaybe.md",
+    "Output/Lists.md",
+    "Journal/July 2024.md",
+    "Input/Learning List.md",
+    "00-Zettelkasten/ZettelKasten Index.md",
     "0-inbox/Modules Summary July 2024.md",
-    "3-resources/computing/RaspberryPi720.md",
-    "3-resources/computing/Cleanroom RaspberryPis.md",
-    "00-Zettelkasten/You-set-your-standards.md",
-    "00-Zettelkasten/Wasting-time-is-a-form-of-suicide.md",
-    "00-Zettelkasten/Want-what-you-have.md",
-    "00-Zettelkasten/Use ZettelKasting For Mindfulness.md",
-    "00-Zettelkasten/Time-vs-money-trade-off.md",
-    "00-Zettelkasten/Time-is-your-only-true-possession.md",
+    "00-Zettelkasten/Wisdom-index.md",
+    "0-inbox/Goals.md",
+    "0-inbox/Future Log.md",
+    "1-projects/Teaching/PGSS Planning.md",
+    "Journal/11 July 24 Thur.md",
+    "0-inbox/MPL.md",
+    "Input/Papers/MossbauerNobelAddress.md",
+    "0-inbox/Scott Thoughts.md",
+    "2-areas/Aspirations.md",
+    "2-areas/CMS/Undergrads.md",
+    "2-areas/Mentoring/Wesley Terrill.md",
+    "Journal/9 July 24 Tue.md",
+    "Journal/10 July 24 Wed.md",
+    "Journal/#July 2024.md#",
+    "Chat w",
     "Output/CAM",
     "0-inbox/#Tables-in-Markup.md#",
     "Input/Books/#ExtremeOwnership.md#",
@@ -215,7 +216,6 @@
     "2-areas/Outreach",
     "Input/Papers/#paers.md#",
     "Input/Blogs/#Blogs.md#",
-    "1-projects/Teaching",
     "Pasted image 20240707142114.png",
     "Untitled.canvas",
     "Untitled 1.canvas"

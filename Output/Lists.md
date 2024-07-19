@@ -1,3 +1,5 @@
+- [[Learning List]]
+- [[SomedayMaybe]]
 - [[Things Ive changed my mind on]]
 - [[Why Now is interesting]]
 - [[Crazy things scientists used to believe]]

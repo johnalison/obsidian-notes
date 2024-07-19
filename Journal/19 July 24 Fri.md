@@ -28,13 +28,21 @@ ex
 
 # To do
  - [ ] Send HGC summary
- - [ ] Move more of notebook to obsidian
+ - [x] Move more of notebook to obsidian
  - [ ]  update HIG-22-011 for arxiv
- - [ ]  mail Valentina jets plitting slides
- - [ ] 
+ - [x]  mail Valentina jets plitting slides
+ - [ ] cloud chamber
+ - [ ] HGC Training 
+ - [ ] 4b 
+	 - [ ] Mixed data public
+	 - [ ] Update 22-011 refs
+	 - [ ] check splitting 
+	 - [ ] other jets
+- [ ] HH Compute s-factors
+- [ ] Reciepts for Teachers program
 
 # Action
- - [ ] cloud chamber
+ - [x] cloud chamber
  - [ ] 
  - [ ]  
  - [ ]  
@@ -67,7 +75,11 @@ Tried (failed) to get new computer.  Try again on Monday.
 
 [[Chat w Sindhu 19 July]]
 
-Need to start: [[4bResonantSearch]]
+Need to start: [[4b Resonant Search]]
+
+Moving notebook to obsidian
+
+[[Undergrads]]
 
 
 
