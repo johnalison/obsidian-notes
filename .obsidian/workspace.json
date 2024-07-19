@@ -39,18 +39,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-resources/computing/CMU Guest Access.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e50aa56b4f9113ad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Journal/19 July 24 Fri.md",
                 "mode": "source",
                 "source": false
@@ -58,7 +46,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -187,13 +175,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e50aa56b4f9113ad",
+  "active": "0706ec86ea7d0d7a",
   "lastOpenFiles": [
-    "Journal/18 July 24 Thu.md",
+    "0-inbox/Chat w Sindhu 19 July.md",
+    "Journal/19 July 24 Fri.md",
+    "0-inbox/4bResonantSearch.md",
+    "Chat w/Sindhu.md",
+    "Chat w",
+    "Input/Meetings/CMU Round Table 19 July.md",
     "3-resources/computing/CMU Guest Access.md",
+    "Journal/18 July 24 Thu.md",
     "Journal/16 July 24 Tue.md",
     "Journal/17 July 24 Wed.md",
-    "Journal/19 July 24 Fri.md",
     "Journal/15 July 24 Mon.md",
     "Input/AmorFati.md",
     "0-inbox/Only-your-choices-can-be-good-evil.md",
@@ -211,10 +204,6 @@
     "00-Zettelkasten/Use ZettelKasting For Mindfulness.md",
     "00-Zettelkasten/Time-vs-money-trade-off.md",
     "00-Zettelkasten/Time-is-your-only-true-possession.md",
-    "00-Zettelkasten/Third-party-praise.md",
-    "00-Zettelkasten/The Art of Acquiesce.md",
-    "00-Zettelkasten/Teachers-vs-Experts.md",
-    "00-Zettelkasten/Synthetic-data-sets-via-hemisphere-mixing.md",
     "Output/CAM",
     "0-inbox/#Tables-in-Markup.md#",
     "Input/Books/#ExtremeOwnership.md#",
@@ -227,7 +216,6 @@
     "Input/Papers/#paers.md#",
     "Input/Blogs/#Blogs.md#",
     "1-projects/Teaching",
-    "1-projects/bbWW",
     "Pasted image 20240707142114.png",
     "Untitled.canvas",
     "Untitled 1.canvas"

@@ -21,7 +21,7 @@
 W:
 DW:
 OT: 
-ex:
+ex
 
 # The ONE thing:  Teachers Program, cloud chamber
 
@@ -29,11 +29,12 @@ ex:
 # To do
  - [ ] Send HGC summary
  - [ ] Move more of notebook to obsidian
- - [ ]  
- - [ ]  
+ - [ ]  update HIG-22-011 for arxiv
+ - [ ]  mail Valentina jets plitting slides
+ - [ ] 
 
 # Action
- - [ ] 
+ - [ ] cloud chamber
  - [ ] 
  - [ ]  
  - [ ]  
@@ -60,7 +61,13 @@ Making Cloud chamber:
 # Hoops  3s and 4s
 - 10 min steam room at Tmax = 118 (weak)
 
-Tried (failed) to get new computer.  Try again on Monday
+Tried (failed) to get new computer.  Try again on Monday.
+
+[[CMU Round Table 19 July]]
+
+[[Chat w Sindhu 19 July]]
+
+Need to start: [[4bResonantSearch]]
 
 
 
