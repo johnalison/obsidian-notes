@@ -47,6 +47,20 @@ Used walk tracker on watch.
 
 [[Scott Thoughts]]
 
+# Gave Last PGSS Lecture
+
+# ZZ and ZH -> 4b Published !!!
+
+Making Cloud chamber: 
+- To Mellon for Dry ice
+- Got container and tub from Diane
+- Gloves from the UG lab
+- Saw some tracks... Not great
+
+
+
+
+
 
 
 

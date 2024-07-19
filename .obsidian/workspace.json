@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/19 July 24 Fri.md",
+                "file": "3-resources/computing/CMU Guest Access.md",
                 "mode": "source",
                 "source": false
               }
@@ -51,14 +51,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/18 July 24 Thu.md",
+                "file": "Journal/19 July 24 Fri.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -187,12 +187,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0706ec86ea7d0d7a",
+  "active": "e50aa56b4f9113ad",
   "lastOpenFiles": [
     "Journal/18 July 24 Thu.md",
-    "Journal/19 July 24 Fri.md",
-    "Journal/17 July 24 Wed.md",
+    "3-resources/computing/CMU Guest Access.md",
     "Journal/16 July 24 Tue.md",
+    "Journal/17 July 24 Wed.md",
+    "Journal/19 July 24 Fri.md",
     "Journal/15 July 24 Mon.md",
     "Input/AmorFati.md",
     "0-inbox/Only-your-choices-can-be-good-evil.md",
@@ -214,7 +215,6 @@
     "00-Zettelkasten/The Art of Acquiesce.md",
     "00-Zettelkasten/Teachers-vs-Experts.md",
     "00-Zettelkasten/Synthetic-data-sets-via-hemisphere-mixing.md",
-    "00-Zettelkasten/Success-And-Failure-As-Imposters.md",
     "Output/CAM",
     "0-inbox/#Tables-in-Markup.md#",
     "Input/Books/#ExtremeOwnership.md#",
