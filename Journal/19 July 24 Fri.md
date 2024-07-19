@@ -11,8 +11,8 @@
 |     | Hoops         |     |
 | 1   | Hoops         |     |
 |     | Hoops         |     |
-| 2   |               |     |
-|     |               |     |
+| 2   | Notebook      |     |
+|     | Notebook      |     |
 | 3   | CMU CMS       |     |
 |     | CMU CMS       |     |
 | 4   | Sindhu        |     |
@@ -57,9 +57,10 @@ Making Cloud chamber:
 - Gloves from the UG lab
 - Saw some tracks... Not great
 
+# Hoops  3s and 4s
+- 10 min steam room at Tmax = 118 (weak)
 
-
-
+Tried (failed) to get new computer.  Try again on Monday
 
 
 
