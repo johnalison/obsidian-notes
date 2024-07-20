@@ -20,31 +20,19 @@
             }
           },
           {
-            "id": "295fa39551d83a0b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00-Zettelkasten/Dont-Chase-external-approval.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "077e247580fd4afc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/Kubernetes Course.md",
+                "file": "Journal/20 July 24 Sat.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/Kubernetes Course.md",
+                "file": "Journal/20 July 24 Sat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/Kubernetes Course.md",
+                "file": "Journal/20 July 24 Sat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/Kubernetes Course.md"
+                "file": "Journal/20 July 24 Sat.md"
               }
             }
           }
@@ -175,22 +163,22 @@
   },
   "active": "077e247580fd4afc",
   "lastOpenFiles": [
-    "3-resources/computing/Static IP for Raspberry Pi.md",
     "00-Zettelkasten/Dont-Chase-external-approval.md",
-    "Input/Books/Seneca-Letters-from-a-Stoic.md",
     "Journal/20 July 24 Sat.md",
+    "0-inbox/Kubernetes Course.md",
+    "0-inbox/Only-way-.md",
+    "3-resources/computing/Static IP for Raspberry Pi.md",
+    "Input/Books/Seneca-Letters-from-a-Stoic.md",
     "2-areas/Mentoring/Sindhu Murthy.md",
     "Chat w/Sindhu.md",
     "Journal/Goals.md",
     "Journal/14 July 24 Sun.md",
-    "0-inbox/Kubernetes Course.md",
     "Journal/19 July 24 Fri.md",
     "3-resources/computing/RaspberryPi720.md",
     "Journal/18 July 24 Thu.md",
     "Input/Happiness.md",
     "00-Zettelkasten/Be-Happy-with-right-now-all-there-is.md",
     "templates/Daily Template.md",
-    "0-inbox/Only-way-.md",
     "2-areas/HGC/Modules Summary July 2024.md",
     "Journal/17 July 24 Wed.md",
     "2-areas/Philosophy/History.md",

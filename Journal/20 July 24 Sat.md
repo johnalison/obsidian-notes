@@ -24,3 +24,10 @@ Need to look into https://www.cloudflare.com/. Dont think i need to use this aft
 
 Some [[Seneca-Letters-from-a-Stoic]]
 
+More Kubernetes
+
+Mom and suzi over.
+
+Saving the Relativity lectures in gitlab [[https://gitlab.cern.ch/johnda/pgss-relativity-lectures]]
+
+
