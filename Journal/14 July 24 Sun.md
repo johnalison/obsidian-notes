@@ -1,4 +1,4 @@
-Some Libertarianism 
+Some [[Libertarianism-A-primer]]
 
 Working Notes
 
