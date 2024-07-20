@@ -1,14 +1,20 @@
 
 
-# connecting
+# connecting to pi via ss
 
-Need to figure out address. 
-Can get ip address from the eero app !
+I setup a [[Static IP for Raspberry Pi]]
 
-pwd:720Copeland
+Can connect with
 
+```bash
+ssh pi@192.168.4.38 
+```
 
-[Give Your Raspberry Pi a Static IP Address](https://blog.richardkeller.net/how-to-give-your-raspberry-pi-a-static-ip-address-so-that-you-can-access-it-from-anywhere-2/)
+```bash
+ssh pi@192.168.4.38 -p 2222
+```
+
+pwd: 720Copeland
 
 
 

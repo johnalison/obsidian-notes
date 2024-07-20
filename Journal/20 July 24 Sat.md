@@ -13,3 +13,9 @@
 - Up at 9
 
 [[RaspberryPi720]]
+
+Setting up [[Static IP for Raspberry Pi]]
+
+Need to look into https://www.cloudflare.com/
+
+

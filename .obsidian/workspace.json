@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "50a33b936f762f81",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-inbox/Static IP for Raspberry Pi.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-resources/computing/RaspberryPi720.md",
+                "file": "Journal/20 July 24 Sat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-resources/computing/RaspberryPi720.md",
+                "file": "Journal/20 July 24 Sat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-resources/computing/RaspberryPi720.md"
+                "file": "Journal/20 July 24 Sat.md"
               }
             }
           }
@@ -173,10 +185,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "077e247580fd4afc",
+  "active": "295fa39551d83a0b",
   "lastOpenFiles": [
-    "Journal/20 July 24 Sat.md",
     "3-resources/computing/RaspberryPi720.md",
+    "0-inbox/Static IP for Raspberry Pi.md",
+    "Journal/20 July 24 Sat.md",
     "Journal/18 July 24 Thu.md",
     "Journal/19 July 24 Fri.md",
     "Input/Happiness.md",
@@ -201,7 +214,6 @@
     "1-projects/4b Resonant",
     "Input/Meetings/Chat w Sindhu 19 July.md",
     "0-inbox/Things-To-Add-To-Notes.md",
-    "Input/Videos/The Zettelkasten Method Less wrong.md",
     "Journal/#July 2024.md#",
     "Chat w",
     "Output/CAM",
