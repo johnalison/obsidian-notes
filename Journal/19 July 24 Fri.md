@@ -29,18 +29,19 @@ ex
 # To do
  - [x] Send HGC summary
  - [x] Move more of notebook to obsidian
- - [ ]  update HIG-22-011 for arxiv
+ - [> ]  update HIG-22-011 for arxiv
  - [x]  mail Valentina jets plitting slides
  - [x] cloud chamber
  - [ ] HGC Training 
  - [ ] 4b 
 	 - [ ] Mixed data public
-	 - [ ] Update 22-011 refs
+	 - [ >] Update 22-011 refs
 	 - [ ] check splitting 
 	 - [ ] other jets
 - [ ] HH Compute s-factors
 - [ ] Receipts for Teachers program
 - [ ] Start Lab Repo for code
+
 
 
 

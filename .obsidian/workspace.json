@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/20 July 24 Sat.md",
+                "file": "Journal/19 July 24 Fri.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/20 July 24 Sat.md",
+                "file": "Journal/19 July 24 Fri.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/20 July 24 Sat.md",
+                "file": "Journal/19 July 24 Fri.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/20 July 24 Sat.md"
+                "file": "Journal/19 July 24 Fri.md"
               }
             }
           }
@@ -163,8 +163,8 @@
   },
   "active": "077e247580fd4afc",
   "lastOpenFiles": [
-    "00-Zettelkasten/Dont-Chase-external-approval.md",
     "Journal/20 July 24 Sat.md",
+    "00-Zettelkasten/Dont-Chase-external-approval.md",
     "0-inbox/Kubernetes Course.md",
     "0-inbox/Only-way-.md",
     "3-resources/computing/Static IP for Raspberry Pi.md",
