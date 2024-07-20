@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/19 July 24 Fri.md",
+                "file": "3-resources/computing/RaspberryPi720.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/19 July 24 Fri.md",
+                "file": "3-resources/computing/RaspberryPi720.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/19 July 24 Fri.md",
+                "file": "3-resources/computing/RaspberryPi720.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/19 July 24 Fri.md"
+                "file": "3-resources/computing/RaspberryPi720.md"
               }
             }
           }
@@ -176,15 +176,16 @@
   "active": "077e247580fd4afc",
   "lastOpenFiles": [
     "Journal/20 July 24 Sat.md",
-    "Input/Happiness.md",
+    "3-resources/computing/RaspberryPi720.md",
+    "Journal/18 July 24 Thu.md",
     "Journal/19 July 24 Fri.md",
+    "Input/Happiness.md",
     "0-inbox/Kubernetes Course.md",
     "00-Zettelkasten/Be-Happy-with-right-now-all-there-is.md",
     "templates/Daily Template.md",
     "0-inbox/Only-way-.md",
     "2-areas/HGC/Modules Summary July 2024.md",
     "Journal/17 July 24 Wed.md",
-    "Journal/18 July 24 Thu.md",
     "0-inbox/Dont-Chase-external-approval.md",
     "2-areas/Philosophy/History.md",
     "Input/Books/Sapiens.md",
@@ -201,7 +202,6 @@
     "Input/Meetings/Chat w Sindhu 19 July.md",
     "0-inbox/Things-To-Add-To-Notes.md",
     "Input/Videos/The Zettelkasten Method Less wrong.md",
-    "00-Zettelkasten/Only-your-choices-can-be-good-evil.md",
     "Journal/#July 2024.md#",
     "Chat w",
     "Output/CAM",
