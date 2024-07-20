@@ -16,6 +16,8 @@
 
 Setting up [[Static IP for Raspberry Pi]]
 
-Need to look into https://www.cloudflare.com/
+Need to look into https://www.cloudflare.com/. Dont think i need to use this afterall...
+
+[[Kubernetes Course]]
 
 

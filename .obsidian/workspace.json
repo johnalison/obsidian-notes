@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-resources/computing/RaspberryPi720.md",
+                "file": "0-inbox/Kubernetes Course.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/20 July 24 Sat.md",
+                "file": "0-inbox/Kubernetes Course.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/20 July 24 Sat.md",
+                "file": "0-inbox/Kubernetes Course.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/20 July 24 Sat.md"
+                "file": "0-inbox/Kubernetes Course.md"
               }
             }
           }
@@ -185,15 +185,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "295fa39551d83a0b",
+  "active": "077e247580fd4afc",
   "lastOpenFiles": [
+    "Journal/20 July 24 Sat.md",
+    "0-inbox/Kubernetes Course.md",
+    "Journal/19 July 24 Fri.md",
     "3-resources/computing/RaspberryPi720.md",
     "0-inbox/Static IP for Raspberry Pi.md",
-    "Journal/20 July 24 Sat.md",
     "Journal/18 July 24 Thu.md",
-    "Journal/19 July 24 Fri.md",
     "Input/Happiness.md",
-    "0-inbox/Kubernetes Course.md",
     "00-Zettelkasten/Be-Happy-with-right-now-all-there-is.md",
     "templates/Daily Template.md",
     "0-inbox/Only-way-.md",
