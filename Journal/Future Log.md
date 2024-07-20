@@ -1,6 +1,6 @@
 
 # August 
-
+- [ ] Steph and M away Aug 31 - 1
 
 # September
 
@@ -19,7 +19,7 @@
 
 
 
-## Links: 
+
 
 
 

@@ -16,7 +16,7 @@
 | 3   | CMU CMS       |     |
 |     | CMU CMS       |     |
 | 4   | Sindhu        |     |
-|     |               |     |
+|     | Notebook      |     |
 
 W:
 DW:
@@ -31,7 +31,7 @@ ex
  - [x] Move more of notebook to obsidian
  - [ ]  update HIG-22-011 for arxiv
  - [x]  mail Valentina jets plitting slides
- - [ ] cloud chamber
+ - [x] cloud chamber
  - [ ] HGC Training 
  - [ ] 4b 
 	 - [ ] Mixed data public
@@ -80,6 +80,11 @@ Need to start: [[4b Resonant Search]]
 Moving notebook to obsidian
 
 [[Undergrads]]
+
+Home with M & T 
+
+Some [[Libertarianism-A-primer]]
+
 
 
 

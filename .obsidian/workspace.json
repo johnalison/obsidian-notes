@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/19 July 24 Fri.md",
+                "file": "00-Zettelkasten/Wisdom-index.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,9 +44,20 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "295fa39551d83a0b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Input/Happiness.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -75,8 +86,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": true,
+                "query": "#consume",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -92,7 +103,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -112,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/July 2024.md",
+                "file": "00-Zettelkasten/Wisdom-index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/July 2024.md",
+                "file": "00-Zettelkasten/Wisdom-index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/July 2024.md"
+                "file": "00-Zettelkasten/Wisdom-index.md"
               }
             }
           }
@@ -175,10 +187,27 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0706ec86ea7d0d7a",
+  "active": "588cd4c905a8fb24",
   "lastOpenFiles": [
-    "1-projects/Mixed2.0/mixed2.0.md",
+    "00-Zettelkasten/ZettelKasten Index.md",
+    "Input/Books/Libertarianism-A-primer.md",
+    "Input/Happiness.md",
+    "4-archive/HIG-22-011/HIG-22-011.md",
+    "1-projects/bbWW/HHbbWW.md",
+    "1-projects/4b Resonant/4b Resonant Search.md",
+    "1-projects/4b Resonant",
+    "Input/Meetings/Chat w Sindhu 19 July.md",
+    "0-inbox/Things-To-Add-To-Notes.md",
+    "Input/Videos/The Zettelkasten Method Less wrong.md",
+    "00-Zettelkasten/Only-your-choices-can-be-good-evil.md",
+    "Journal/Goals.md",
+    "Journal/Future Log.md",
+    "1-projects/Teaching/MPL.md",
+    "0-inbox/Drawing 2024-07-11 14.42.16.excalidraw.md",
+    "templates/Daily Template.md",
     "Journal/19 July 24 Fri.md",
+    "Journal/July 2024.md",
+    "1-projects/Mixed2.0/mixed2.0.md",
     "Journal/18 July 24 Thu.md",
     "Journal/17 July 24 Wed.md",
     "Journal/16 July 24 Tue.md",
@@ -186,23 +215,7 @@
     "Journal/14 July 24 Sun.md",
     "Input/SomedayMaybe.md",
     "Output/Lists.md",
-    "Journal/July 2024.md",
     "Input/Learning List.md",
-    "00-Zettelkasten/ZettelKasten Index.md",
-    "0-inbox/Modules Summary July 2024.md",
-    "00-Zettelkasten/Wisdom-index.md",
-    "0-inbox/Goals.md",
-    "0-inbox/Future Log.md",
-    "1-projects/Teaching/PGSS Planning.md",
-    "Journal/11 July 24 Thur.md",
-    "0-inbox/MPL.md",
-    "Input/Papers/MossbauerNobelAddress.md",
-    "0-inbox/Scott Thoughts.md",
-    "2-areas/Aspirations.md",
-    "2-areas/CMS/Undergrads.md",
-    "2-areas/Mentoring/Wesley Terrill.md",
-    "Journal/9 July 24 Tue.md",
-    "Journal/10 July 24 Wed.md",
     "Journal/#July 2024.md#",
     "Chat w",
     "Output/CAM",
@@ -215,7 +228,6 @@
     "4-archive/HIG-22-011",
     "2-areas/Outreach",
     "Input/Papers/#paers.md#",
-    "Input/Blogs/#Blogs.md#",
     "Pasted image 20240707142114.png",
     "Untitled.canvas",
     "Untitled 1.canvas"

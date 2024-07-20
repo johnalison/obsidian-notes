@@ -10,7 +10,6 @@
 # Code Base
 - [ ] Classifier 
 - [ ] Synthetic datasets
-- [ ] 
 
 
 # Run 3
