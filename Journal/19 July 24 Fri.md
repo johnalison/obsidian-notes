@@ -27,7 +27,7 @@ ex
 
 
 # To do
- - [ ] Send HGC summary
+ - [x] Send HGC summary
  - [x] Move more of notebook to obsidian
  - [ ]  update HIG-22-011 for arxiv
  - [x]  mail Valentina jets plitting slides
@@ -39,13 +39,10 @@ ex
 	 - [ ] check splitting 
 	 - [ ] other jets
 - [ ] HH Compute s-factors
-- [ ] Reciepts for Teachers program
+- [ ] Receipts for Teachers program
+- [ ] Start Lab Repo for code
 
-# Action
- - [x] cloud chamber
- - [ ] 
- - [ ]  
- - [ ]  
+
 
 
 # Log
@@ -85,7 +82,10 @@ Home with M & T
 
 Some [[Libertarianism-A-primer]]
 
+Sent [[Modules Summary July 2024]]
 
+Start [[Kubernetes Course]]
 
+[[HowToStartABlog]]
 
 
