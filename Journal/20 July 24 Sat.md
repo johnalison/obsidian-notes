@@ -1,7 +1,7 @@
 
 
 # To Do
- - [ ] update HIG-22-011 for arxiv
+ - [x] update HIG-22-011 for arxiv
  - [ ] 
  - [ ]  
  - [ ]  
@@ -29,5 +29,8 @@ More Kubernetes
 Mom and suzi over.
 
 Saving the Relativity lectures in gitlab [[https://gitlab.cern.ch/johnda/pgss-relativity-lectures]]
+
+Updated the [[HIG-22-011]] reference and pdf in CADI and in gitlab
+
 
 
