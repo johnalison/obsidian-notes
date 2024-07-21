@@ -18,7 +18,7 @@
 
 - The future of work is increasingly cognitive. This means that the sooner we take seriously how human brains actually function, the sooner we'll realize that the hyperactive hive mind is a disastrously ineffective way to organize our efforts. [[NowIsDifferent]] [[WrongIn20Years]]
 
-- Knowledge work does not yet have its Henry Ford, but workflow innovations with impact on the same scale as the assembly line are inevitable. [[WrongIn20Years]] [[ImportantUnpopularTruth]]
+- Knowledge work does not yet have its Henry Ford, but workflow innovations with impact on the same scale as the assembly line are inevitable. [[WrongIn20Years]] [[UnpopularImportantTruth]]
 
 - Our brains do not parallel process information.
 

@@ -7,7 +7,7 @@
 - [[Mental Models]]
 - [[Protocols]]
 - [[What Will be Totally Replaced in 100 years?]]
-- [[UnpopularImportantTruth]]
+- [[2-areas/Philosophy/UnpopularImportantTruth]]
 - [[Montras]]
 - [[People I look up to (North stars)]]
 - [[Paradoxes]]

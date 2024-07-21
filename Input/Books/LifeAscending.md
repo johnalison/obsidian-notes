@@ -1,5 +1,6 @@
 # Life Ascending (Nick Lane)
 
+
 - Fantastic! Another new favorite author. Great big picture overviews of biology with a chemists perspective. 
 
 - Life itself turned our planet blue and green. Photosynthetic bacterial cleansed the air and sea and filled them with oxygen. This new and potent source of energy powered larger life forms.
@@ -8,16 +9,15 @@
 
 - Its a joy to be alive at this time, when we already know so much, and yet still look forward to so much more.
 
+[[NowIsDifferent]]
+
 - Life emerged 3.8 billion years ago. Bacteria dominated our planet for 2.5 billion years before the first complex organisms appeared.
 
 - Chemistry => that life had to emerge quickly. Chemical reactions must happen rapidly or not at all. If a reaction takes 1000 years then the reactants will simply dissipate unless they are continually replenished by other faster reactions.
 
 - The origin of life is not the great mystery that it is sometimes made out to be. Life emerges, perhaps almost inevitably from the turning of the globe.
 
-- Miller-Urey experiment, amino acids forming is "primordial soup" after electrifying a simple mixture of gases.
-  Over time this has fallen out of favor. Ancient rocks make it clear that the earth never was rich in methane, ammonia and hydrogen.
-  The soup idea was rescued by the detection of abundant organic molecules in space (comets and meteorites)
-
+- Miller-Urey experiment, amino acids forming is "primordial soup" after electrifying a simple mixture of gases.  Over time this has fallen out of favor. Ancient rocks make it clear that the earth never was rich in methane, ammonia and hydrogen.  The soup idea was rescued by the detection of abundant organic molecules in space (comets and meteorites)
 
 - The origin of life is the origin of replication.  A corpse cant be brought back to life by electrocuting it repeatedly.
 
@@ -52,10 +52,11 @@
 - Chlorophyll turns light from the sun into chemical energy.
 
 - Without photosynthesis there would be no free oxygen. There might not be oceans, without oxygen there is not ozone which block UV rays. UV rays split water into oxygen and hydrogen. Hydrogen evaporates.
+[[WhoWeAre]]
 
 - Mars is dead. it is in near-perfect equilibrium.
 
-- All animal and plants depend on oxygen. Life, in a world without free oxygen, is microscopic.
+- All animals and plants depend on oxygen. Life, in a world without free oxygen, is microscopic.
 
 - All the oxygen put into the air by photosynthesis (co2-> c + o2) is taken out by respiration (o2 + c (food) -> co2). The only way that a planet can gain an oxygen atmosphere is if plant matter is preserved intact... it must be buried. Preserved plant matter is buried as coal, oil, natural gas, soot, charcoal in rocks deep in the earth. There is ~25k times more dead organic carbon trapped in the earth than living in the biosphere; the vast majority of organic carbon is buried as microscopic detritus in rocks like shales, inaccessible to human industry.
 
@@ -65,10 +66,11 @@
 
 - Oxygen liberated by photosynthesis comes from water, not co2. (This is the first step to solving the energy and climate crisis)
 
-- Solar energy splits water into H and O2. Photosynthesis can do this (we haven't figured it how to yet) with gentle sunlight rather than UV rays.
-  We when figure out how to do it we will solve the worlds energy crisis; water is the most ubiquitous and raw material on our planet.
+- Solar energy splits water into H and O2. Photosynthesis can do this (we haven't figured how to yet) with gentle sunlight rather than UV rays. We when figure out how to do it we will solve the worlds energy crisis; water is the most ubiquitous and raw material on our planet.
 
-- Photosynthesis is conceptually simple: its all about electrons. Add a few  electrons to CO2, along with a few protons to balance out charges and you get a sugar. Sugars are the ultimate source of all our food. Cyanobacteria split H2o to get the the electrons. Water is very stable: it has a high affinity for its electrons.
+[[UnpopularImportantTruth]]
+
+- Photosynthesis is conceptually simple: its all about electrons. Add a few electrons to CO2, along with a few protons to balance out charges and you get a sugar. Sugars are the ultimate source of all our food. Cyanobacteria split H2o to get the the electrons. Water is very stable: it has a high affinity for its electrons.
 
 - Today the gap between plants and animals is perceived as narrow, while a huge gulf has opened up between bacteria and the rest of complex life. The crossing of this gulf causes much disagreement among scientists: How did life go from simplicity of bacteria to the complexity of plants and animals ? Was it always likely to happen? Would it happen elsewhere in the universe?
 
@@ -82,14 +84,12 @@
 
 - The transition from simple bacteria to complex eukaryotes was perhaps the single most important transition in the planets history.
 
-- When Darwin was writing, there really was a missing link in the fossil record. This has now been filled in; any claims that there is still a missing link are untrue.
-  It is the fine structure of genes, more than anything else, that has eliminated all the gaps.
+- When Darwin was writing, there really was a missing link in the fossil record. This has now been filled in; any claims that there is still a missing link are untrue.  It is the fine structure of genes, more than anything else, that has eliminated all the gaps.
 
 - All life on the planet falls into three big groups (domains)
   Bacteria / Eukaryotes / Archaea 
 
-- Archaea were originally thought to be just a minor component of the Bacteria. Claim all the differences between plants an animals are small compared to that between Bacteria and Archaea.
-  They amount to a missing link between bacteria and eukaryotes.
+- Archaea were originally thought to be just a minor component of the Bacteria. Claim all the differences between plants an animals are small compared to that between Bacteria and Archaea. They amount to a missing link between bacteria and eukaryotes.
 
 - The Eukaryotic cell did not evolve in s standard "Darwinian" way. but rather by some sort of big gene fusion: half archaea and half bacteria.
 
@@ -101,15 +101,19 @@
 
 - Sex is a strange randominzer of genes. No sooner has sex engineered a winning combination that it dissolves them again.
 
+[[WhoWeAre]]
+
 - Most of us sense the magic of sex is the ability to pull a unique being from a hat every time. But its far from obvious that variety for variety's sake is a good thing. In fact, cloning gene combinations that have been found to be successful is often better.
 
 - The list of the disadvantages should put off any sane person from sex for good: Sex can blight lives directly.  Peacocks tail.
+
+[[UnpopularImportantTruth]]
 
 - Rooted to the spot, plants are the most implausible of sexual organisms, yet the overwhelming majority of them are.
 
 - Flowering plants swept the world 80 million years ago. Flowers are pure cost to plants. They must attract pollinators with their colors and shapes; produce sweet nectar to make these visits worthwhile (nectar is a quarter sugar by weight); and distribute themselves with finesse -- not too close (or inbreeding makes sex pointless) and not too far (or the pollinators will never make it to fertilize a partner).  Having settled on a pollinator of choice, the flower and pollinator, evolve in tandem.
 
-- No cost is more extreme than that paid by a tiny hummingbird for the static sex life of plants. The humming bird must be tiny, no larger bird could hover motionless over the flower. Its wings beating at 50 hz, requiring a colossal metabolic rate. Hummingbirds need to refuel constantly. They extract more than half their own weight in nectar every day. If forced to stop feeding for more than a couple of hours, they fall unconscious.  they have been seduced by they enchanged potions of plants into a life of bondage, moving relentlessly from flower to flower, distributing pollen, or collapsing in a coma.
+- No cost is more extreme than that paid by a tiny hummingbird for the static sex life of plants. The humming bird must be tiny, no larger bird could hover motionless over the flower. Its wings beating at 50 Hz, requiring a colossal metabolic rate. Hummingbirds need to refuel constantly. They extract more than half their own weight in nectar every day. If forced to stop feeding for more than a couple of hours, they fall unconscious.  they have been seduced by they enchanged potions of plants into a life of bondage, moving relentlessly from flower to flower, distributing pollen, or collapsing in a coma.
 
 - A race of cloning females ought to double in numbers every generation, a cloning female could swamp a population of a million sexually reproducing individuals in 50 generations.
   For sex to spread, sexual individuals would have to produce twice as many surviving offspring each generation. And yet the even-handed mechanics of sex are well understood: for every winner there is a loser. The explanation for the success of sex must be at once subtle and gigantic, staring us in the face, yet invisible.
@@ -122,9 +126,7 @@
 
 - The unrelenting competition between parasites and their hosts provides an endlessly shifting backdrop needed for sex to offer a big advantage.
 
-- Rather than a gradual accrual of complexity of motion over time, it seems that there was a sudden shift after the great Permian extinction.
-  At the heart of all this innovation is a single invention that made it all possible: muscle.
-  Muscle is machines that convert chemical energy into mechanical force.
+- Rather than a gradual accrual of complexity of motion over time, it seems that there was a sudden shift after the great Permian extinction.  At the heart of all this innovation is a single invention that made it all possible: muscle.  Muscle is machines that convert chemical energy into mechanical force.
 
 - The explosion of color in flowers and fruit was purely a response to the animal world.
 
@@ -145,11 +147,16 @@
 
 - We seem to view the world from a single cyclopean aperture in the front of the skull, which is quite obviously an illusion.
 
+[[WhoWeAre]]
+
+
 - Vision is more complex than it seems, but we can gain no sense of this complexity through introspection, and it could never have been predicted by a philosopher thinking about it logically.
 
 - We perceive neither the brain nor the physical mind by thinking about it. Only the objective methods of science have linked the mind with the brain.  Sensitive to so much of the world the brain has no pain preceptors of its own.
 
 - Feelings feel real because they have real meaning, meaning that has been acquired in the crucible of selection, meaning that comes from real life, real death. Feeling are in reality a neural code, yet a code that is vibrant.
+
+[[WhoWeAre]]
 
 - Longer life is usually coupled with longer youth. Examples abound of animals whose life's have increased by a factor of 3 4 or 5X.
 
@@ -160,6 +167,8 @@
 - A gene that engenders even a tiny bit of sexual success is selected for even if it causes the most dreadful degeneration later on.
 
 - All diseases of old age (from cancer to heart disease to Alzheimer's) can in principle be delayed, even avoided by simple permutations of a single pathway. Its a shocking conclusion, yet its staring us in the face. It should be easier to "cure" aging and all age-related diseases with a single panacea than it will ever be to cure any one age-related disease in people who are otherwise old. Age-related diseases depend on biological age, not chronological time. The significance of this cannot be overstated. Cure aging and we cure the diseases of old age -- all of them. The overriding lesson from genetic studies is that aging is curable.
+
+[[Aging]]
 
 - The most shocking fact in all of medicine: A tiny change in the mitochondria halves our risk of being hospitalized for any-related disease and double our prospects of living to 100.
   In principle, small adjustments to particular pathways should enable us to lead longer, healthier lives. Evolutionary theory suggests that we can eradicate the diseases of old age; the anti-aging pill is not a myth. If we spend a fraction of the time and effort dedicated to medical research on the underlying mechanisms of aging, I would be amazed if we didn't have an answer within the next two decades. And answer that cures all diseases of old age at once. 

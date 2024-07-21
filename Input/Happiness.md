@@ -1,8 +1,22 @@
-# Do not let your happiness (well-being) depend on things you cannot control
 
-#Consume 
+[[Purpose-of-Philosophy]]
 
+[[Want-what-you-have]]
+[[Dont-need-a-reason-to-be-happy]]
 
-- "Unhappy is he who depends on success to be happy. For him, the end of a successful career is the end of the line. He will be destined to die of bitterness or search for other careers where success my be had. There can be no life after success"  - Retired F1 racer
+[[Be-Happy-Cannot-Become-Happy]]
+[[Happiness-is-about-thinking]]
 
-- Only metric of sucess: are you spending time doing things you like,  with people you enjoy, in a way that is sustainable. -- pMBA
+[[Epicurean-four-part-cure]]
+
+[[Dont-Chase-external-approval]]
+[[Be-Happy-with-right-now-all-there-is]]
+
+[[Well-being-based-on-your-actions]]
+
+[[Happiness-about-expectations]]
+[[Happiness-independent-of-success]]
+[[Happiness-has-to-be-in-your-control]]
+
+[[Metric-of-success]]
+

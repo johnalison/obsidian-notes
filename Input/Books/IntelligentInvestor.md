@@ -146,7 +146,8 @@
 
 - To achieve satisfactory investment results is easier than most people think; to achieve superior results is harder than most people think.
 
-  [[ImportantUnpopularTruth]]
+  [[UnpopularImportantTruth]]
+
 
 - You have to have the knowledge to enable you to make a very general estimate about the value of the underlying business. But you do not cut it close! 
   This is the margin of safety. You dont try to buy a business worth 83M for 80M.

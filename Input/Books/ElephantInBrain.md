@@ -10,7 +10,7 @@
 
 - Large randomized studies find that people given free health care consume a lot more medicine, yet dont end up noticeably healthier. Non-medical interventions such as efforts to alleviate stress or improve diet, exercise, sleep, or air quality -- have a much bigger apparent effect on health, and yet patients and policymakers are far less eager to purse them.  Patients are else easily satisfied with the appearance of good medical care.
 
-[[ImportantUnpopularTruth]]
+[[UnpopularImportantTruth]]
 
 - Were suggesting that key human behaviors are often driven by multiple motives -- even behaviors that seem pretty single-minded, like giving and receiving medical care. More importantly, were suggesting that some of these motives are unconscious.
 

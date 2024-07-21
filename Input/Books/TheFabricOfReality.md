@@ -1,4 +1,4 @@
-# The Fabric of Reality (David Deutsch)
+
 
 - Another one of my favorite authors. Not as good as Beginning of Infinity, but very interesting.  Got a little wacky in places.
 
@@ -18,7 +18,7 @@
 
 - Some philosophers -- and even some scientist -- disparage the role of explanation in science. However the overwhelming majority of theories are rejected b/c they are bad explanations not b/c they fail experimental tests. (eg: eating a kg of grass is a cure for the common cold)
 
-[[UnpopularImportantTruth]]
+[[2-areas/Philosophy/UnpopularImportantTruth]]
 
 - To say that prediction is the purpose of a scientific theory is to confuse the means with the ends. Passing experimental tests is only one of many things a theory has to do to achieve the real purpose of science, which is to explain the world.
 
@@ -358,7 +358,7 @@
 
 - All four basic strands have the unusual status of being simultaneously accepted and rejected, relied upon and disbelieved, by most people working in those fields.
 
-[[ImportantUnpopularTruth]]
+[[UnpopularImportantTruth]]
 
 - Kuhns theory explains the succession from one paradigm to another in sociological or psychological terms, rather than as having primarily to do with the objective merit of rival explanations.  This is a fatal flaw that forces Kuhn to deny that there has been objective improvement in successive scientific explanations, or that such improvement is even possible.  The growth of objective knowledge cannot be explained in Kuhns theory
 

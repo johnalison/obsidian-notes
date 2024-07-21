@@ -1,4 +1,4 @@
-## [[Rationality - Moral Duty to be more rational]]
+# [[Rationality - Moral Duty to be more rational]]
 
 [[Reliability-beats-Fancy-Skills]]
 [[Learn-from-others-mistakes]]
@@ -11,17 +11,17 @@
 			[[Use ZettelKasting For Mindfulness]]
 			[[Kids-as-a-mindfulness-gauge]]
 
-## Perfection Not required
+# Perfection Not required
 effective self-improvement critical**
 
-## Strict with yourself, Lenient with others.
+# Strict with yourself, Lenient with others.
 (Extreme Ownership)**
 	*  Leadership is a skill that can be taught/learned
 
-## Don't Lie
+# Don't Lie
  Evil only possible through lies
 
-## Be the good:  Intelligent ACTION is power
+# Be the good:  Intelligent ACTION is power
 * [[Action-not-knowledge]]
 	[[DeserveWhatYouWant]]
 	[[Action-Now]]
@@ -34,35 +34,38 @@ effective self-improvement critical**
 [[You-set-your-standards]]
 
 
-## [[Amor-Fati]]
+# [[Amor-Fati]]
 
 [[External-Events-Dont-Care-About-You]]
 [[The Art of Acquiesce]]
 [[Goals-must-be-in-your-control]]
 
-## Memento Mori
+# Memento Mori
 
-### [[Time-is-your-only-true-possession]]
+## [[Time-is-your-only-true-possession]]
 - [[Death-is-always-with-us]]
 - [[How-to-spend-time]]
 - [[Time-vs-money-trade-off]]
 
 
-### [[Can-lose-time-through-lack-of-attention]]
+## [[Can-lose-time-through-lack-of-attention]]
 - [[Dont-focus-on-things-you-dont-like]]
 - [[Wasting-time-is-a-form-of-suicide]]
 - [[Life-isnt-short]]
 
 
 
-## Respond, don't React
+# Respond, don't React
+
 
 [[StoicTestChallenge]]
 [[Dealing-With-Setbacks]]
 
-## Systems not Goals
+# Systems not Goals
 
-## Happiness 
+
+# [[Happiness ]]
+
 
 [[Purpose-of-Philosophy]]
 [[Epicurean-four-part-cure]]
@@ -79,6 +82,9 @@ effective self-improvement critical**
 [[Well-being-based-on-your-actions]]
 
 [[Happiness-about-expectations]]
+[[Happiness-independent-of-success]]
+
+[[Metric-of-success]]
 
 
 202407182008

@@ -12,7 +12,7 @@
 
 - However most time management books ignore the basic fact that we have so little time.
 
-[[UnpopularImportantTruth]]
+[[2-areas/Philosophy/UnpopularImportantTruth]]
 
 - When people make enough money to meet their needs, they find new needs to need.
 
