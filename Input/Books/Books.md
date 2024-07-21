@@ -125,9 +125,9 @@
 
 - Proof of Stake [[ProofOfStake]] (Vitalik Buterin)
 
-- Something Deeply Hidden [[SomethingDeeplyHidden]] (Sean Carroll)
-
 #Consume 
+
+- Something Deeply Hidden [[SomethingDeeplyHidden]] (Sean Carroll)
 
 - Life Ascending [[LifeAscending]] (Nick Lane)
 

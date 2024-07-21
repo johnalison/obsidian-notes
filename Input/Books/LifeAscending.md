@@ -168,7 +168,7 @@
 
 - All diseases of old age (from cancer to heart disease to Alzheimer's) can in principle be delayed, even avoided by simple permutations of a single pathway. Its a shocking conclusion, yet its staring us in the face. It should be easier to "cure" aging and all age-related diseases with a single panacea than it will ever be to cure any one age-related disease in people who are otherwise old. Age-related diseases depend on biological age, not chronological time. The significance of this cannot be overstated. Cure aging and we cure the diseases of old age -- all of them. The overriding lesson from genetic studies is that aging is curable.
 
-[[Aging]]
+[[Longevity]]
 
-- The most shocking fact in all of medicine: A tiny change in the mitochondria halves our risk of being hospitalized for any-related disease and double our prospects of living to 100.
-  In principle, small adjustments to particular pathways should enable us to lead longer, healthier lives. Evolutionary theory suggests that we can eradicate the diseases of old age; the anti-aging pill is not a myth. If we spend a fraction of the time and effort dedicated to medical research on the underlying mechanisms of aging, I would be amazed if we didn't have an answer within the next two decades. And answer that cures all diseases of old age at once. 
+- The most shocking fact in all of medicine: A tiny change in the mitochondria halves our risk of being hospitalized for any-related disease and double our prospects of living to 100.  In principle, small adjustments to particular pathways should enable us to lead longer, healthier lives. Evolutionary theory suggests that we can eradicate the diseases of old age; the anti-aging pill is not a myth. If we spend a fraction of the time and effort dedicated to medical research on the underlying mechanisms of aging, I would be amazed if we didn't have an answer within the next two decades. And answer that cures all diseases of old age at once. 
+[[Longevity]]

@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Input/Books/LifeAscending.md",
+                "file": "Input/Books/SomethingDeeplyHidden.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,22 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Output/Lists.md",
+                "file": "0-inbox/Things-To-Add-To-Notes.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "f702313b65a57e33",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -81,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tags",
+                "query": "#Cons",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,8 +90,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -119,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Input/Books/LifeAscending.md",
+                "file": "0-inbox/Things-To-Add-To-Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Input/Books/LifeAscending.md",
+                "file": "0-inbox/Things-To-Add-To-Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Input/Books/LifeAscending.md"
+                "file": "0-inbox/Things-To-Add-To-Notes.md"
               }
             }
           }
@@ -182,10 +173,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5eff6f8803fcba5e",
+  "active": "9d64a6b5073e1c7c",
   "lastOpenFiles": [
-    "Journal/21 July 24 Sun.md",
+    "0-inbox/Scott Thoughts.md",
+    "0-inbox/Kubernetes Course.md",
+    "Input/Longevity.md",
+    "Output/Lists.md",
+    "Input/Books/SomethingDeeplyHidden.md",
+    "Input/Books/Books.md",
     "Input/Books/LifeAscending.md",
+    "Journal/21 July 24 Sun.md",
     "2-areas/Philosophy/UnpopularImportantTruth 1.md",
     "Input/Books/IntelligentInvestor.md",
     "Input/Books/WakeUpNow.md",
@@ -193,8 +190,6 @@
     "Input/Books/TheFabricOfReality.md",
     "2-areas/Philosophy/UnpopularImportantTruth.md",
     "Input/Books/ElephantInBrain.md",
-    "Input/Books/Books.md",
-    "Output/Lists.md",
     "Input/Happiness.md",
     "00-Zettelkasten/Metric-of-success.md",
     "00-Zettelkasten/Happiness-has-to-be-in-your-control.md",
@@ -206,10 +201,6 @@
     "00-Zettelkasten/ZettelKasten Index.md",
     "00-Zettelkasten/Dont-Chase-external-approval.md",
     "0-inbox/Things-To-Add-To-Notes.md",
-    "Journal/15 July 24 Mon.md",
-    "Journal/16 July 24 Tue.md",
-    "Journal/17 July 24 Wed.md",
-    "Journal/18 July 24 Thu.md",
     "1-projects/4b Resonant",
     "Journal/#July 2024.md#",
     "Chat w",
