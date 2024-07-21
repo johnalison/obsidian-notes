@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/Things-To-Add-To-Notes.md",
+                "file": "Journal/21 July 24 Sun.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/Things-To-Add-To-Notes.md",
+                "file": "Journal/21 July 24 Sun.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/Things-To-Add-To-Notes.md",
+                "file": "Journal/21 July 24 Sun.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/Things-To-Add-To-Notes.md"
+                "file": "Journal/21 July 24 Sun.md"
               }
             }
           }
@@ -175,6 +175,7 @@
   },
   "active": "9d64a6b5073e1c7c",
   "lastOpenFiles": [
+    "0-inbox/Things-To-Add-To-Notes.md",
     "0-inbox/Scott Thoughts.md",
     "0-inbox/Kubernetes Course.md",
     "Input/Longevity.md",
@@ -200,7 +201,6 @@
     "00-Zettelkasten/Wisdom-index.md",
     "00-Zettelkasten/ZettelKasten Index.md",
     "00-Zettelkasten/Dont-Chase-external-approval.md",
-    "0-inbox/Things-To-Add-To-Notes.md",
     "1-projects/4b Resonant",
     "Journal/#July 2024.md#",
     "Chat w",
