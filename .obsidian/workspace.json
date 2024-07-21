@@ -25,7 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/19 July 24 Fri.md",
+                "file": "Input/Happiness.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eda004e80f2db2a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00-Zettelkasten/Happiness-about-expectations.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "#consume",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +90,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -98,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/19 July 24 Fri.md",
+                "file": "Input/Happiness.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/19 July 24 Fri.md",
+                "file": "Input/Happiness.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/19 July 24 Fri.md"
+                "file": "Input/Happiness.md"
               }
             }
           }
@@ -163,7 +176,17 @@
   },
   "active": "077e247580fd4afc",
   "lastOpenFiles": [
+    "00-Zettelkasten/Happiness-about-expectations.md",
+    "Input/Happiness.md",
+    "00-Zettelkasten/Wisdom-index.md",
+    "00-Zettelkasten/ZettelKasten Index.md",
+    "0-inbox/Things-To-Add-To-Notes.md",
     "Journal/20 July 24 Sat.md",
+    "Journal/15 July 24 Mon.md",
+    "Journal/16 July 24 Tue.md",
+    "Journal/17 July 24 Wed.md",
+    "Journal/18 July 24 Thu.md",
+    "Journal/19 July 24 Fri.md",
     "00-Zettelkasten/Dont-Chase-external-approval.md",
     "0-inbox/Kubernetes Course.md",
     "0-inbox/Only-way-.md",
@@ -173,22 +196,12 @@
     "Chat w/Sindhu.md",
     "Journal/Goals.md",
     "Journal/14 July 24 Sun.md",
-    "Journal/19 July 24 Fri.md",
     "3-resources/computing/RaspberryPi720.md",
-    "Journal/18 July 24 Thu.md",
-    "Input/Happiness.md",
     "00-Zettelkasten/Be-Happy-with-right-now-all-there-is.md",
     "templates/Daily Template.md",
     "2-areas/HGC/Modules Summary July 2024.md",
-    "Journal/17 July 24 Wed.md",
     "2-areas/Philosophy/History.md",
     "Input/Books/Sapiens.md",
-    "00-Zettelkasten/Well-being-based-on-your-actions.md",
-    "00-Zettelkasten/Wisdom-index.md",
-    "1-projects/Mixed2.0/mixed2.0.md",
-    "Journal/July 2024.md",
-    "00-Zettelkasten/ZettelKasten Index.md",
-    "Input/Books/Libertarianism-A-primer.md",
     "1-projects/4b Resonant",
     "Journal/#July 2024.md#",
     "Chat w",

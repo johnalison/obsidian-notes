@@ -29,14 +29,14 @@ ex: NA
  - [x] Teachers Program 
  - [x] PGSS Lecture
  - [x]  Coffee Box
- - [ ] 
- - [ ]  
+ 
+ 
 
 # Action
  - [x] Add anika to canvas
  - [x] Submit Var
  - [> ] Send HGC summary
- - [ ]  
+ 
 
 
 
