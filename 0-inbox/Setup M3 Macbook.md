@@ -15,7 +15,7 @@
 
 to do
 - [[GetSSHKey]]
-- 
+- Setup backup disk
 
 
 ## Follow-ups
