@@ -52,3 +52,6 @@ Jonas Roemer back with us!
 - Need to understand [[ResamplingBug]]
 
 
+Bought new computer:  3699 Computer + 106 harddrive + 290 Apple care (3years)
+
+[[Setup M3 Macbook]]

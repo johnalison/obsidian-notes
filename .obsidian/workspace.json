@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/22 July 24 Mon.md",
+                "file": "0-inbox/Setup M3 Macbook.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "guest",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +90,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -110,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/22 July 24 Mon.md",
+                "file": "0-inbox/Setup M3 Macbook.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/22 July 24 Mon.md",
+                "file": "0-inbox/Setup M3 Macbook.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/22 July 24 Mon.md"
+                "file": "0-inbox/Setup M3 Macbook.md"
               }
             }
           }
@@ -175,6 +176,10 @@
   },
   "active": "ac9a8d4f5f0614f2",
   "lastOpenFiles": [
+    "Journal/22 July 24 Mon.md",
+    "0-inbox/Setup M3 Macbook.md",
+    "3-resources/computing/CMU Guest Access.md",
+    "Journal/16 July 24 Tue.md",
     "1-projects/Mixed2.0/mixed2.0.md",
     "1-projects/Mixed2.0/ResamplingBug.md",
     "Pasted image 20240722103340.png",
@@ -183,7 +188,6 @@
     "Pasted image 20240722103302.png",
     "0-inbox/Script to check reclustered splittings.md",
     "1-projects/Mixed2.0/script to compare the splittings.md",
-    "Journal/22 July 24 Mon.md",
     "0-inbox/BulletJournalProtocol.md",
     "0-inbox/Kubernetes Course.md",
     "00-Zettelkasten/Wisdom-index.md",
@@ -191,7 +195,6 @@
     "Journal/19 July 24 Fri.md",
     "Journal/18 July 24 Thu.md",
     "Journal/17 July 24 Wed.md",
-    "Journal/16 July 24 Tue.md",
     "Journal/15 July 24 Mon.md",
     "Journal/21 July 24 Sun.md",
     "Journal/20 July 24 Sat.md",
@@ -203,7 +206,6 @@
     "00-Zettelkasten/Learn-from-others-mistakes.md",
     "00-Zettelkasten/ZettelKasten Index.md",
     "Input/Books/SomethingDeeplyHidden.md",
-    "0-inbox/Go-frist-go-postiive.md",
     "1-projects/4b Resonant",
     "Journal/#July 2024.md#",
     "Chat w",
