@@ -9,7 +9,7 @@
 | 11  | New Computer          |     |
 |     | Lunch w/Diana & Jyoti |     |
 | 12  | Lunch w/Diana & Jyo   |     |
-|     | computer              |     |
+|     | Lunch w/Diana & Jyo   |     |
 | 1   | computer              |     |
 |     | Gym / Steamroom       |     |
 | 2   | Gym / Steamroom       |     |
@@ -35,6 +35,8 @@ ex:
  - [ ]  4b
 	 - [ ] Check splitting
 	 - [ ] other jets
+ - [ ] Reciept for Lunch
+ - [ ] Send Diana the outreach git link
 
 
 
@@ -55,4 +57,9 @@ Jonas Roemer back with us!
 Bought new computer:  3699 Computer + 106 harddrive + 290 Apple care (3years)
 
 [[Setup M3 Macbook]]
+
+Lunch with Diane and Jyoti: 
+	
+
+Need to pay stephs discover card: 
 

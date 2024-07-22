@@ -1,5 +1,6 @@
 
-Making account with standars pwd
+-  Making account with standard pwd
+- Config Terminal 
 
 
 ## Follow-ups
