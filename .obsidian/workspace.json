@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/GetSSHKey.md",
+                "file": "Journal/22 July 24 Mon.md",
                 "mode": "source",
                 "source": false
               }
@@ -195,9 +195,9 @@
   },
   "active": "ac9a8d4f5f0614f2",
   "lastOpenFiles": [
-    "0-inbox/GetSSHKey.md",
-    "0-inbox/Setup M3 Macbook.md",
     "Journal/22 July 24 Mon.md",
+    "3-resources/computing/GetSSHKey.md",
+    "0-inbox/Setup M3 Macbook.md",
     "Input/Meetings/ChatwAniket 22 July 2024.md",
     "Journal/21 July 24 Sun.md",
     "Journal/20 July 24 Sat.md",
