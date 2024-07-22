@@ -33,6 +33,7 @@ Working some notes.
 
 Cooked out. Angle over. Listen to Rhythm and Roots
 
+[[Kubernetes Course]]
 
 
 
