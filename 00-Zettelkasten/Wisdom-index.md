@@ -1,15 +1,23 @@
 # [[Rationality - Moral Duty to be more rational]]
 
 [[Reliability-beats-Fancy-Skills]]
+	- [[Key-Virtues-Honesty-and-Integrity]]
+	- [[Compounding-returns]]
+	- [[Path-to-dependability]]
+
 [[Learn-from-others-mistakes]]
 
-* **You are what you think,** 
+[[Look-For-The-Good]]
+
+# You are what you think
 
 [[LoneWolf-vs-Wolf-pack]]
-		* but with practice, you can change what you think.
-			* Mindfulness
-			[[Use ZettelKasting For Mindfulness]]
-			[[Kids-as-a-mindfulness-gauge]]
+
+## but with practice, you can change what you think.
+
+### Mindfulness
+	[[Use ZettelKasting For Mindfulness]]
+	[[Kids-as-a-mindfulness-gauge]]
 
 # Perfection Not required
 effective self-improvement critical**
@@ -26,13 +34,14 @@ effective self-improvement critical**
 	[[DeserveWhatYouWant]]
 	[[Action-Now]]
 	[[Be-better-through-emulation]]
-	
+
+[[Go-first-go-positive]]
+
 [[Lessons-from-tit-for-tat-Game-Theory]]
 
 [[Pragmatism-over-idealism]]
 
 [[You-set-your-standards]]
-
 
 # [[Amor-Fati]]
 
