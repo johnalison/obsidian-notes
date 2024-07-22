@@ -33,14 +33,18 @@ Getting the new mixing going
 - [ ] Recursive ISR removal (Needed for 4b + >1j)
 - [ ] Compare splitting functions ( + 0j vs +1j vs +>1j )
 - [ ] Read [[Do graph neural networks learn traditional jet substructure?]]]
-- [ ] Script to compare cluster vs reclusterd
+- [x] Script to compare cluster vs reclusterd
+- [x] scripts to compare splitting functions
 - [ ] Script to compare splitting functions in jet multiplicities
 - [ ] Write out picos with clustered jets (write CI)
 - [ ] Write out picos with the declustered jet (write CI)
 - [ ] Fix the extra jet treatment (for now copy jets < 40 and add new jets)
 - [ ] update recursion to only check if bjet pt > 40 GeV
+- [ ] [[ResamplingBug]]
 
   
+# Bugs
+
 
 
 
@@ -50,6 +54,12 @@ Getting the new mixing going
 [[CMS]]
 [[physics]]
 [[ABCDMethod]]
+
+
+# Work:
+[[script to compare the splittings]]
+[[Script to check reclustered splittings]]
+
 
 
 202407091049

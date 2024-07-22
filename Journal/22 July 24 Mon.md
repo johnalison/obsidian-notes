@@ -47,3 +47,8 @@ Jonas Roemer back with us!
 [[BulletJournalProtocol]]
 
 [[mixed2.0]]
+- Working the [[script to compare the splittings]]
+- Working [[Script to check reclustered splittings]]
+- Need to understand [[ResamplingBug]]
+
+

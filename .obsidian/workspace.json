@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ac9a8d4f5f0614f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Journal/22 July 24 Mon.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-projects/Mixed2.0/mixed2.0.md",
+                "file": "Journal/22 July 24 Mon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-projects/Mixed2.0/mixed2.0.md",
+                "file": "Journal/22 July 24 Mon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-projects/Mixed2.0/mixed2.0.md"
+                "file": "Journal/22 July 24 Mon.md"
               }
             }
           }
@@ -161,8 +173,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cb55a85a1fbaa174",
+  "active": "ac9a8d4f5f0614f2",
   "lastOpenFiles": [
+    "1-projects/Mixed2.0/mixed2.0.md",
+    "1-projects/Mixed2.0/ResamplingBug.md",
+    "Pasted image 20240722103340.png",
+    "Pasted image 20240722103331.png",
+    "Pasted image 20240722103320.png",
+    "Pasted image 20240722103302.png",
+    "0-inbox/Script to check reclustered splittings.md",
+    "1-projects/Mixed2.0/script to compare the splittings.md",
     "Journal/22 July 24 Mon.md",
     "0-inbox/BulletJournalProtocol.md",
     "0-inbox/Kubernetes Course.md",
@@ -184,11 +204,6 @@
     "00-Zettelkasten/ZettelKasten Index.md",
     "Input/Books/SomethingDeeplyHidden.md",
     "0-inbox/Go-frist-go-postiive.md",
-    "00-Zettelkasten/Lessons-from-tit-for-tat-Game-Theory.md",
-    "00-Zettelkasten/Compounding-returns.md",
-    "00-Zettelkasten/Look-For-The-Good.md",
-    "Input/Tactics.md",
-    "Input/optimism.md",
     "1-projects/4b Resonant",
     "Journal/#July 2024.md#",
     "Chat w",
