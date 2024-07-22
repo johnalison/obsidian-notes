@@ -19,10 +19,10 @@
 | 4   | Berman                |     |
 |     | 4b                    |     |
 
-W:
-DW:
-OT: 
-ex:
+W: 7 
+DW: 2
+OT: 1
+ex
 
 # The ONE thing: 
 - [ ] 4b templates understood 
@@ -72,8 +72,10 @@ Need to pay stephs discover card:  330
 
 More setting up the new computer
 
-
 write up s/Sqrt(B) argument.
+
+Getting new machine going!!!!
+
 
 
 

@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/Setup M3 Macbook.md",
+                "file": "Journal/22 July 24 Mon.md",
                 "mode": "source",
                 "source": false
               }
@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Journal/22 July 24 Mon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Journal/22 July 24 Mon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Journal/22 July 24 Mon.md"
               }
             }
           }
@@ -193,11 +193,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0a6bdb69fc9d6f1c",
+  "active": "ac9a8d4f5f0614f2",
   "lastOpenFiles": [
+    "0-inbox/rectangle.md",
     "0-inbox/Setup M3 Macbook.md",
-    "3-resources/computing/GetSSHKey.md",
+    "1-projects/Mixed2.0/mixed2.0.md",
     "conflict-files-obsidian-git.md",
+    "3-resources/computing/GetSSHKey.md",
     "0-inbox/GetSSHKey.md",
     "Journal/22 July 24 Mon.md",
     "Input/Meetings/ChatwAniket 22 July 2024.md",
@@ -207,7 +209,6 @@
     "0-inbox/Kubernetes Course.md",
     "3-resources/computing/CMU Guest Access.md",
     "Journal/16 July 24 Tue.md",
-    "1-projects/Mixed2.0/mixed2.0.md",
     "1-projects/Mixed2.0/ResamplingBug.md",
     "Pasted image 20240722103340.png",
     "Pasted image 20240722103331.png",
@@ -224,7 +225,6 @@
     "00-Zettelkasten/Go-first-go-positive.md",
     "Input/Reliability.md",
     "00-Zettelkasten/Reversibility-beats-perfection.md",
-    "00-Zettelkasten/Path-to-dependability.md",
     "1-projects/4b Resonant",
     "Journal/#July 2024.md#",
     "Chat w",

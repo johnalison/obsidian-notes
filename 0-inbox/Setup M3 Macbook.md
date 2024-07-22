@@ -7,17 +7,16 @@
 - Installed bitwarden
 - typed git and was promted to install xcode developer tools... installed them
 - Installed homebrew
-- Installed rectangle as a spectacle replacement 
+- Installed [[rectangle]] as a spectacle replacement 
 - ```brew install emacs
 - installed ```dotfiles```
-
+- [[GetSSHKey]]
 
 
 
 to do
-- [[GetSSHKey]]
 - Setup backup disk
-
+- get git tab complete working
 
 ## Follow-ups
 
