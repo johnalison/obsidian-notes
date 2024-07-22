@@ -31,7 +31,7 @@ ex:
 # To Do
  - [ ] Get new computer
  - [ ]  Receipts for Teachers program
- - [ ]  Start Lab Repo for code
+ - [x]  Start Lab Repo for code
  - [ ]  4b
 	 - [ ] Check splitting
 	 - [ ] other jets
@@ -55,3 +55,4 @@ Jonas Roemer back with us!
 Bought new computer:  3699 Computer + 106 harddrive + 290 Apple care (3years)
 
 [[Setup M3 Macbook]]
+
