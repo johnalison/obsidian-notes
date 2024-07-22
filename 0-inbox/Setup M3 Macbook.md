@@ -3,7 +3,7 @@
 - Config Terminal 
 - Got chrome
 - logged in to CMU wireless
-- Configed keyboard
+- Configured keyboard
 - Installed bitwarden
 - typed git and was promted to install xcode developer tools... installed them
 - Installed homebrew
