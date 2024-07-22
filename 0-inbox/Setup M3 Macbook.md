@@ -17,6 +17,9 @@
 to do
 - Setup backup disk
 - get git tab complete working
+- clean-up old computer
+	- ROOTHElp to lab
+	- 
 
 ## Follow-ups
 

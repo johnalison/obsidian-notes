@@ -37,19 +37,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/22 July 24 Mon.md",
+                "file": "0-inbox/Setup M3 Macbook.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "0a6bdb69fc9d6f1c",
+            "id": "885e8c4026bb32cd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Journal/22 July 24 Mon.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/22 July 24 Mon.md",
+                "file": "0-inbox/Setup M3 Macbook.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/22 July 24 Mon.md",
+                "file": "0-inbox/Setup M3 Macbook.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/22 July 24 Mon.md"
+                "file": "0-inbox/Setup M3 Macbook.md"
               }
             }
           }
@@ -195,13 +195,10 @@
   },
   "active": "ac9a8d4f5f0614f2",
   "lastOpenFiles": [
-    "0-inbox/rectangle.md",
-    "0-inbox/Setup M3 Macbook.md",
-    "1-projects/Mixed2.0/mixed2.0.md",
-    "conflict-files-obsidian-git.md",
-    "3-resources/computing/GetSSHKey.md",
-    "0-inbox/GetSSHKey.md",
     "Journal/22 July 24 Mon.md",
+    "0-inbox/Setup M3 Macbook.md",
+    "0-inbox/rectangle.md",
+    "3-resources/computing/GetSSHKey.md",
     "Input/Meetings/ChatwAniket 22 July 2024.md",
     "Journal/21 July 24 Sun.md",
     "Journal/20 July 24 Sat.md",
@@ -209,6 +206,7 @@
     "0-inbox/Kubernetes Course.md",
     "3-resources/computing/CMU Guest Access.md",
     "Journal/16 July 24 Tue.md",
+    "1-projects/Mixed2.0/mixed2.0.md",
     "1-projects/Mixed2.0/ResamplingBug.md",
     "Pasted image 20240722103340.png",
     "Pasted image 20240722103331.png",
@@ -225,6 +223,8 @@
     "00-Zettelkasten/Go-first-go-positive.md",
     "Input/Reliability.md",
     "00-Zettelkasten/Reversibility-beats-perfection.md",
+    "00-Zettelkasten/Path-to-dependability.md",
+    "00-Zettelkasten/Be-better-through-emulation.md",
     "1-projects/4b Resonant",
     "Journal/#July 2024.md#",
     "Chat w",

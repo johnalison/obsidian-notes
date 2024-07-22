@@ -38,6 +38,7 @@ ex
  - [ ] Reciept for Lunch
  - [ ] Send Diana the outreach git link
  - [ ] write up S/sqrt(B) argument
+ - [ ] Clean up old MAC book
 
 
 
@@ -64,6 +65,8 @@ Lunch with Diane and Jyoti:
 
 Need to pay stephs discover card:  330
 
+Guy sold the dexcom claiming was opened. 
+
 **Gym /Steamroom**
 - core/Bench/ lift/ row
 - 10 min at Tmax = 124
@@ -76,6 +79,9 @@ write up s/Sqrt(B) argument.
 
 Getting new machine going!!!!
 
+Walked the kids home
+
+Car show !
 
 
 
