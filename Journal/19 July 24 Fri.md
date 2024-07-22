@@ -18,10 +18,10 @@
 | 4   | Sindhu        |     |
 |     | Notebook      |     |
 
-W:
-DW:
-OT: 
-ex
+W: 6 
+DW: 2
+OT:  2
+ex 
 
 # The ONE thing:  Teachers Program, cloud chamber
 
@@ -36,11 +36,11 @@ ex
  - [ ] 4b 
 	 - [ ] Mixed data public
 	 - [ >] Update 22-011 refs
-	 - [ ] check splitting 
+	 - [> ] check splitting 
 	 - [ ] other jets
 - [ ] HH Compute s-factors
-- [ ] Receipts for Teachers program
-- [ ] Start Lab Repo for code
+- [> ] Receipts for Teachers program
+- [> ] Start Lab Repo for code
 
 
 

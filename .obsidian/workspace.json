@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-Zettelkasten/Reversibility-beats-perfection.md",
+                "file": "Journal/19 July 24 Fri.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Input/Reliability.md",
+                "file": "Journal/22 July 24 Mon.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-Zettelkasten/Reversibility-beats-perfection.md",
+                "file": "Journal/19 July 24 Fri.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00-Zettelkasten/Reversibility-beats-perfection.md",
+                "file": "Journal/19 July 24 Fri.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-Zettelkasten/Reversibility-beats-perfection.md"
+                "file": "Journal/19 July 24 Fri.md"
               }
             }
           }
@@ -199,12 +199,14 @@
   },
   "active": "1b2696f4b89a5402",
   "lastOpenFiles": [
-    "00-Zettelkasten/Go-first-go-positive.md",
+    "Journal/22 July 24 Mon.md",
+    "Journal/19 July 24 Fri.md",
+    "Input/Reliability.md",
     "00-Zettelkasten/Reversibility-beats-perfection.md",
+    "00-Zettelkasten/Go-first-go-positive.md",
     "00-Zettelkasten/Wisdom-index.md",
     "0-inbox/Kubernetes Course.md",
     "Journal/21 July 24 Sun.md",
-    "Input/Reliability.md",
     "00-Zettelkasten/Path-to-dependability.md",
     "00-Zettelkasten/Be-better-through-emulation.md",
     "00-Zettelkasten/Learn-from-others-mistakes.md",
@@ -223,8 +225,6 @@
     "0-inbox/Scott Thoughts.md",
     "Input/Longevity.md",
     "Output/Lists.md",
-    "Input/Books/Books.md",
-    "Input/Books/LifeAscending.md",
     "1-projects/4b Resonant",
     "Journal/#July 2024.md#",
     "Chat w",
