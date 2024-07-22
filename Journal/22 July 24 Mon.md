@@ -29,7 +29,7 @@ ex:
 
 
 # To Do
- - [ ] Get new computer
+ - [x] Get new computer
  - [ ]  Receipts for Teachers program
  - [x]  Start Lab Repo for code
  - [ ]  4b
@@ -37,6 +37,7 @@ ex:
 	 - [ ] other jets
  - [ ] Reciept for Lunch
  - [ ] Send Diana the outreach git link
+ - [ ] write up S/sqrt(B) argument
 
 
 
@@ -61,5 +62,17 @@ Bought new computer:  3699 Computer + 106 harddrive + 290 Apple care (3years)
 Lunch with Diane and Jyoti: 
 	
 
-Need to pay stephs discover card: 
+Need to pay stephs discover card:  330
+
+**Gym /Steamroom**
+- core/Bench/ lift/ row
+- 10 min at Tmax = 124
+
+[[ChatwAniket 22 July 2024]]
+
+
+write up s/Sqrt(B) argument.
+
+
+
 

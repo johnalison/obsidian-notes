@@ -49,14 +49,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/Setup M3 Macbook.md",
+                "file": "0-inbox/GetSSHKey.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "4b7a6dc6918790d7",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -185,14 +193,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "885e8c4026bb32cd",
+  "active": "ac9a8d4f5f0614f2",
   "lastOpenFiles": [
+    "0-inbox/GetSSHKey.md",
+    "0-inbox/Setup M3 Macbook.md",
     "Journal/22 July 24 Mon.md",
+    "Input/Meetings/ChatwAniket 22 July 2024.md",
     "Journal/21 July 24 Sun.md",
     "Journal/20 July 24 Sat.md",
     "Journal/19 July 24 Fri.md",
     "0-inbox/Kubernetes Course.md",
-    "0-inbox/Setup M3 Macbook.md",
     "3-resources/computing/CMU Guest Access.md",
     "Journal/16 July 24 Tue.md",
     "1-projects/Mixed2.0/mixed2.0.md",
@@ -215,8 +225,6 @@
     "00-Zettelkasten/Path-to-dependability.md",
     "00-Zettelkasten/Be-better-through-emulation.md",
     "00-Zettelkasten/Learn-from-others-mistakes.md",
-    "00-Zettelkasten/ZettelKasten Index.md",
-    "Input/Books/SomethingDeeplyHidden.md",
     "1-projects/4b Resonant",
     "Journal/#July 2024.md#",
     "Chat w",

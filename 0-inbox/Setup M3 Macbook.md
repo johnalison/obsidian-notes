@@ -6,6 +6,16 @@
 - Configed keyboard
 - Installed bitwarden
 - typed git and was promted to install xcode developer tools... installed them
+- Installed homebrew
+- Installed rectangle as a spectacle replacement 
+- ```brew install emacs
+- 
+
+
+
+to do
+- [[GetSSHKey]]
+- 
 
 
 ## Follow-ups
