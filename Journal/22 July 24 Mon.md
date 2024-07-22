@@ -70,6 +70,8 @@ Need to pay stephs discover card:  330
 
 [[ChatwAniket 22 July 2024]]
 
+More setting up the new computer
+
 
 write up s/Sqrt(B) argument.
 

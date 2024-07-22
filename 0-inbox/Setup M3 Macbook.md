@@ -9,7 +9,8 @@
 - Installed homebrew
 - Installed rectangle as a spectacle replacement 
 - ```brew install emacs
-- 
+- installed ```dotfiles```
+
 
 
 
