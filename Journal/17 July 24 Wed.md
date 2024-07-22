@@ -12,7 +12,6 @@ Working PGSS Lecture 15
 
 Kettle Bell workout
 
-
 [[ChatSamAniket 17 July 2024]]
 
 

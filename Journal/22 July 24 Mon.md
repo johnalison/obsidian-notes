@@ -1,23 +1,23 @@
 # Timeblock
 
-|     |     |     |
-| --- | --- | --- |
-| 9   |     |     |
-|     |     |     |
-| 10  |     |     |
-|     |     |     |
-| 11  |     |     |
-|     |     |     |
-| 12  |     |     |
-|     |     |     |
-| 1   |     |     |
-|     |     |     |
-| 2   |     |     |
-|     |     |     |
-| 3   |     |     |
-|     |     |     |
-| 4   |     |     |
-|     |     |     |
+|     |                       |     |
+| --- | --------------------- | --- |
+| 9   | setup                 |     |
+|     | 4b mixed2.0           |     |
+| 10  | 4b mixed2.0           |     |
+|     | New computer          |     |
+| 11  | New Computer          |     |
+|     | Lunch w/Diana & Jyoti |     |
+| 12  | Lunch w/Diana & Jyo   |     |
+|     | computer              |     |
+| 1   | computer              |     |
+|     | Gym / Steamroom       |     |
+| 2   | Gym / Steamroom       |     |
+|     | 4b                    |     |
+| 3   | Aniket                |     |
+|     | 4b                    |     |
+| 4   | Berman                |     |
+|     | 4b                    |     |
 
 W:
 DW:
@@ -25,7 +25,7 @@ OT:
 ex:
 
 # The ONE thing: 
-- [ ] 
+- [ ] 4b templates understood 
 
 
 # To Do
@@ -34,8 +34,16 @@ ex:
  - [ ]  Start Lab Repo for code
  - [ ]  4b
 	 - [ ] Check splitting
-	 - [ ] 
+	 - [ ] other jets
 
 
 
 # Log
+
+M and T to school
+
+Jonas Roemer back with us!
+
+[[BulletJournalProtocol]]
+
+[[mixed2.0]]

@@ -10,7 +10,6 @@ Taught PGSS
 
 Scott tells me he is leaving !
 
-
 Lunch at Ali Baba
 
 Back to chat about demos, ordered supplies for Thursday. 

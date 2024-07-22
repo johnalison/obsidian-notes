@@ -37,7 +37,7 @@ ex
 	 - [ ] Mixed data public
 	 - [ >] Update 22-011 refs
 	 - [> ] check splitting 
-	 - [ ] other jets
+	 - [> ] other jets
 - [ ] HH Compute s-factors
 - [> ] Receipts for Teachers program
 - [> ] Start Lab Repo for code
@@ -58,7 +58,7 @@ Used walk tracker on watch.
 
 # ZZ and ZH -> 4b Published !!!
 
-Making Cloud chamber: 
+# Making Cloud chamber: 
 - To Mellon for Dry ice
 - Got container and tub from Diane
 - Gloves from the UG lab
