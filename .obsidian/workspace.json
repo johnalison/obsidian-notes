@@ -49,7 +49,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/23 July 24 Tue.md",
+                "file": "0-inbox/RunROOTwithDocker.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7d0c007a6367c572",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-inbox/Setup M3 Macbook.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "markdown",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,8 +114,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -123,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/23 July 24 Tue.md",
+                "file": "0-inbox/RunROOTwithDocker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/23 July 24 Tue.md",
+                "file": "0-inbox/RunROOTwithDocker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/23 July 24 Tue.md"
+                "file": "0-inbox/RunROOTwithDocker.md"
               }
             }
           }
@@ -188,10 +199,12 @@
   },
   "active": "39eb654421574213",
   "lastOpenFiles": [
+    "3-resources/computing/Docker.md",
+    "0-inbox/RunROOTwithDocker.md",
+    "0-inbox/Setup M3 Macbook.md",
+    "Journal/23 July 24 Tue.md",
     "3-resources/computing/FormattingInMarkdown.md",
     "3-resources/computing/DockerSetup.md",
-    "3-resources/computing/Docker.md",
-    "Journal/23 July 24 Tue.md",
     "3-resources/Obsidian/Tables-in-Markdown.md",
     "1-projects/Mixed2.0/Script to check reclustered splittings.md",
     "0-inbox/CompileCMSPapers.md",
@@ -200,7 +213,6 @@
     "1-projects/Mixed2.0/script to compare the splittings.md",
     "Input/Books/EffectivePython.md",
     "0-inbox/HGCManagementMeeting 23 July 2024.md",
-    "0-inbox/Setup M3 Macbook.md",
     "3-resources/computing/PSC Bridges.md",
     "Journal/12 July 24 Fri.md",
     "Journal/22 July 24 Mon.md",
@@ -214,7 +226,6 @@
     "3-resources/computing/GetSSHKey.md",
     "0-inbox/GetSSHKey.md",
     "Input/Meetings/ChatwAniket 22 July 2024.md",
-    "Journal/21 July 24 Sun.md",
     "Pasted image 20240722103340.png",
     "Pasted image 20240722103331.png",
     "Pasted image 20240722103320.png",
