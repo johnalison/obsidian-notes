@@ -10,7 +10,9 @@
 - Fill out monthly logs
 
 
-
+# Monthly
+- move meetings into monthly folders
+- 
 
 ## Links: 
 

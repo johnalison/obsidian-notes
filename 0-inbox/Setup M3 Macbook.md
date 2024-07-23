@@ -15,11 +15,20 @@
 
 
 to do
-- Setup backup disk
-- get git tab complete working
-- clean-up old computer
-	- ROOTHElp to lab
-	- 
+- [ ] Setup backup disk
+- [ ]  get git tab complete working
+- [ ] Grid Certificate
+- [ ]  clean-up old computer
+	- [x] Presentaiotns 
+	- [ ] ROOT Help to lab
+	- [ ] Consolidate Teaching 
+- [ ] Copy presentations
+- [ ] Copy papers
+- [ ] Copy Documents
+
+
+
+
 
 ## Follow-ups
 
