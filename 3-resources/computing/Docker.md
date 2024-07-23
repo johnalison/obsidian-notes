@@ -1,18 +1,15 @@
-[[CMS]]
-[[Docker]]
 
-# To compile a CMS Note
-
-> cd ~/papers/BTV-22-001/
-> docker run -it --rm -v "$PWD":/workspace gitlab-registry.cern.ch/tdr/containers/tdrlatex
-> source complile
+# To compile a CMS Note with docker
+[[CompileCMSPapers]]
 
 
-To remove stopped containers
-> docker container prune
+# To remove stopped containers
 
-To list all containers (running and stoped)
-> docker container ls -a 
+ `docker container prune`
+
+# To list all containers (running and stoped)
+
+ `docker container ls -a`
 
 
 
@@ -24,3 +21,6 @@ docker tag b0c65fb6301d johnalison/example-ot:fixPlotting
 docker push johnalison/example-ot
 
 
+## Links: 
+
+[[CMS]]

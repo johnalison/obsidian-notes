@@ -37,22 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/23 July 24 Tue.md",
+                "file": "3-resources/computing/DockerSetup.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "4b7a6dc6918790d7",
+            "id": "39eb654421574213",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Journal/23 July 24 Tue.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -81,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "virtual",
+                "query": "markdown",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -182,13 +186,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ac9a8d4f5f0614f2",
+  "active": "39eb654421574213",
   "lastOpenFiles": [
-    "3-resources/computing/PythonVirtualEnvironment.md",
+    "3-resources/computing/FormattingInMarkdown.md",
+    "3-resources/computing/DockerSetup.md",
+    "3-resources/computing/Docker.md",
+    "Journal/23 July 24 Tue.md",
+    "3-resources/Obsidian/Tables-in-Markdown.md",
     "1-projects/Mixed2.0/Script to check reclustered splittings.md",
+    "0-inbox/CompileCMSPapers.md",
+    "3-resources/computing/PythonVirtualEnvironment.md",
     "1-projects/Mixed2.0/mixed2.0.md",
     "1-projects/Mixed2.0/script to compare the splittings.md",
-    "Journal/23 July 24 Tue.md",
     "Input/Books/EffectivePython.md",
     "0-inbox/HGCManagementMeeting 23 July 2024.md",
     "0-inbox/Setup M3 Macbook.md",
@@ -206,11 +215,6 @@
     "0-inbox/GetSSHKey.md",
     "Input/Meetings/ChatwAniket 22 July 2024.md",
     "Journal/21 July 24 Sun.md",
-    "Journal/20 July 24 Sat.md",
-    "Journal/19 July 24 Fri.md",
-    "0-inbox/Kubernetes Course.md",
-    "3-resources/computing/CMU Guest Access.md",
-    "Journal/16 July 24 Tue.md",
     "Pasted image 20240722103340.png",
     "Pasted image 20240722103331.png",
     "Pasted image 20240722103320.png",

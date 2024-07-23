@@ -6,9 +6,9 @@
 |     | Wes           |     |
 | 10  | CPU setup     |     |
 |     | CPU setup     |     |
-| 11  | 4b            |     |
-|     | 4b            |     |
-| 12  | 4b            |     |
+| 11  | CPU           |     |
+|     | CPU           |     |
+| 12  | CPU           |     |
 |     | Hoops         |     |
 | 1   | Hoops         |     |
 |     | Hoops         |     |
@@ -19,13 +19,13 @@
 | 4   | Mans          |     |
 |     | computer      |     |
 
-W:
-DW:
+W: 7 
+DW: 3
 OT: 
 ex:
 
 # The ONE thing: 
-- [ ] Setup computer
+- [x] Setup computer
 
 
 # To Do
@@ -54,6 +54,21 @@ Chat with Scott will leave in September
 [[PythonVirtualEnvironment]]
 
 Got the local plotting going for the 4b code.
+
+Got lpc and lxplus connected. 
+
+Got the external keyboard and monitors going!
+
+Got the [[DockerSetup]] working!
+
+Can compile HIG-22-011 in a container
+
+Walk M&T home. 
+
+Running ROOT in a container
+
+[[FormattingInMarkdown]]
+
 
 
 
