@@ -30,15 +30,15 @@ ex
 
 # To Do
  - [x] Get new computer
- - [ ]  Receipts for Teachers program
+ - [> ]  Receipts for Teachers program
  - [x]  Start Lab Repo for code
  - [ ]  4b
 	 - [ ] Check splitting
 	 - [ ] other jets
- - [ ] Reciept for Lunch
- - [ ] Send Diana the outreach git link
+ - [> ] Reciept for Lunch
+ - [x] Send Diana the outreach git link
  - [ ] write up S/sqrt(B) argument
- - [ ] Clean up old MAC book
+ - [> ] Clean up old MAC book
 
 
 
