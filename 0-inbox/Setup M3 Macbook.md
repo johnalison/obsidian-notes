@@ -11,13 +11,15 @@
 - ```brew install emacs
 - installed ```dotfiles```
 - [[GetSSHKey]]
+- [[BitWardenCISetup]] 
+- Installed Zoom
 
 
 
 to do
-- [ ] Setup backup disk (Will use previous 4TB disk)
+- [x] Setup backup disk (Will use previous 4TB disk)
 - [x]  get git tab complete working
-- [ ] Grid Certificate
+- [x] Grid Certificate
 - [x]  clean-up old computer
 	- [x] Presentaiotns 
 	- [ ] ROOTHelp to lab ? 

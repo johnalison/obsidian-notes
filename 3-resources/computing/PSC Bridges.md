@@ -8,6 +8,14 @@ conda activate ZZ4bGPU
 
 (https://www.psc.edu/resources/bridges-2/user-guide/)
 
+# connect:
+
+```
+alias PSCBridges2='ssh alison@bridges2.psc.edu'
+```
+
+
+
 
 
 ## Links: 

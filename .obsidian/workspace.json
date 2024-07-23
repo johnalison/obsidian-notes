@@ -61,14 +61,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/23 July 24 Tue.md",
+                "file": "3-resources/computing/BitWardenCISetup.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "outreach",
+                "query": "PSC",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,7 +114,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -134,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/23 July 24 Tue.md",
+                "file": "0-inbox/Setup M3 Macbook.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/23 July 24 Tue.md",
+                "file": "0-inbox/Setup M3 Macbook.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/23 July 24 Tue.md"
+                "file": "0-inbox/Setup M3 Macbook.md"
               }
             }
           }
@@ -197,13 +198,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4288a1ff838970ef",
+  "active": "ac9a8d4f5f0614f2",
   "lastOpenFiles": [
+    "Journal/12 July 24 Fri.md",
+    "3-resources/computing/PSC Bridges.md",
     "0-inbox/Setup M3 Macbook.md",
+    "0-inbox/BulletJournalProtocol.md",
+    "3-resources/computing/BitWardenCISetup.md",
     "Journal/23 July 24 Tue.md",
     "2-areas/Mentoring/Wesley Terrill.md",
     "2-areas/Personal/Salaries.md",
-    "0-inbox/BulletJournalProtocol.md",
     "Input/Meetings/Chat w Wes 23 July 2024.md",
     "1-projects/Mixed2.0/Script to check reclustered splittings.md",
     "2-areas/Personal",
@@ -212,7 +216,6 @@
     "Journal/22 July 24 Mon.md",
     "1-projects/Mixed2.0/mixed2.0.md",
     "2-areas/Outreach/Outreach-git-hub.md",
-    "Journal/12 July 24 Fri.md",
     "conflict-files-obsidian-git.md",
     "3-resources/computing/GetSSHKey.md",
     "Input/Meetings/ChatwAniket 22 July 2024.md",
@@ -228,8 +231,6 @@
     "Pasted image 20240722103302.png",
     "1-projects/Mixed2.0/script to compare the splittings.md",
     "00-Zettelkasten/Wisdom-index.md",
-    "Journal/July 2024.md",
-    "Journal/18 July 24 Thu.md",
     "1-projects/4b Resonant",
     "Journal/#July 2024.md#",
     "Chat w",
