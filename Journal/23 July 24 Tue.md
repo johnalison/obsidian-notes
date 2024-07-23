@@ -42,3 +42,5 @@ M and T to school
 
 [[Chat w Wes 23 July 2024]]
 
+Dont want to save presentations in git ! Too large (backups should be enough!)
+
