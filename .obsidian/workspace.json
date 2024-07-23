@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-resources/computing/PSC Bridges.md",
+                "file": "0-inbox/HGCManagementMeeting 23 July 2024.md",
                 "mode": "source",
                 "source": false
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-resources/computing/PSC Bridges.md",
+                "file": "0-inbox/HGCManagementMeeting 23 July 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-resources/computing/PSC Bridges.md",
+                "file": "0-inbox/HGCManagementMeeting 23 July 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-resources/computing/PSC Bridges.md"
+                "file": "0-inbox/HGCManagementMeeting 23 July 2024.md"
               }
             }
           }
@@ -184,9 +184,11 @@
   },
   "active": "ac9a8d4f5f0614f2",
   "lastOpenFiles": [
+    "Journal/23 July 24 Tue.md",
+    "0-inbox/HGCManagementMeeting 23 July 2024.md",
+    "3-resources/computing/PSC Bridges.md",
     "Journal/12 July 24 Fri.md",
     "Journal/22 July 24 Mon.md",
-    "Journal/23 July 24 Tue.md",
     "Input/rectangle.md",
     "Input/Videos/Kubernetes Course.md",
     "Input/Meetings/Chat w Wes 23 July 2024.md",
@@ -213,8 +215,6 @@
     "Pasted image 20240722103302.png",
     "0-inbox/Script to check reclustered splittings.md",
     "1-projects/Mixed2.0/script to compare the splittings.md",
-    "0-inbox/BulletJournalProtocol.md",
-    "00-Zettelkasten/Wisdom-index.md",
     "1-projects/4b Resonant",
     "Journal/#July 2024.md#",
     "Chat w",

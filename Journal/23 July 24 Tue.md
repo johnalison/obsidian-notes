@@ -12,8 +12,8 @@
 |     | Hoops         |     |
 | 1   | Hoops         |     |
 |     | Hoops         |     |
-| 2   | 4b            |     |
-|     | 4b            |     |
+| 2   | Computer      |     |
+|     | Computer      |     |
 | 3   | Mans          |     |
 |     | Mans          |     |
 | 4   | Mans          |     |
@@ -46,3 +46,4 @@ Dont want to save presentations in git ! Too large (backups should be enough!)
 
 Lots of [[Setup M3 Macbook]]
 
+[[HGCManagementMeeting 23 July 2024]]
