@@ -47,3 +47,7 @@ Dont want to save presentations in git ! Too large (backups should be enough!)
 Lots of [[Setup M3 Macbook]]
 
 [[HGCManagementMeeting 23 July 2024]]
+
+Chat with Scott will leave in September
+- broke down / Told him we should have a party before he leaves
+

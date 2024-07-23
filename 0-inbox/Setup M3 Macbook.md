@@ -11,6 +11,7 @@
 - ```brew install emacs
 - installed ```dotfiles```
 - [[GetSSHKey]]
+- Need to wait until my PSC key has been accepted
 
 
 
