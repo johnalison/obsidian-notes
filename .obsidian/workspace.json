@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/Setup M3 Macbook.md",
+                "file": "Journal/23 July 24 Tue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/Setup M3 Macbook.md",
+                "file": "Journal/23 July 24 Tue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/Setup M3 Macbook.md"
+                "file": "Journal/23 July 24 Tue.md"
               }
             }
           }
@@ -197,11 +197,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ac9a8d4f5f0614f2",
+  "active": "4288a1ff838970ef",
   "lastOpenFiles": [
+    "0-inbox/Setup M3 Macbook.md",
     "Journal/23 July 24 Tue.md",
     "2-areas/Mentoring/Wesley Terrill.md",
-    "0-inbox/Setup M3 Macbook.md",
     "2-areas/Personal/Salaries.md",
     "0-inbox/BulletJournalProtocol.md",
     "Input/Meetings/Chat w Wes 23 July 2024.md",

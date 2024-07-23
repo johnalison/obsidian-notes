@@ -18,14 +18,15 @@ to do
 - [ ] Setup backup disk (Will use previous 4TB disk)
 - [x]  get git tab complete working
 - [ ] Grid Certificate
-- [ ]  clean-up old computer
+- [x]  clean-up old computer
 	- [x] Presentaiotns 
-	- [ ] ROOT Help to lab
+	- [ ] ROOTHelp to lab ? 
 	- [x] Consolidate Teaching ?
-- [ ] Copy presentations
-- [ ] Copy papers
-- [ ] Copy Documents
+- [x] Copy presentations
+- [x] Copy papers
+- [x] Copy Documents
 - [x] Clone Teaching
+- [x] RecLetters
 
 
 

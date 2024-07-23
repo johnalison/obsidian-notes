@@ -44,3 +44,5 @@ M and T to school
 
 Dont want to save presentations in git ! Too large (backups should be enough!)
 
+Lots of [[Setup M3 Macbook]]
+
