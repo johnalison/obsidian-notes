@@ -17,7 +17,7 @@
 | 3   | Mans          |     |
 |     | Mans          |     |
 | 4   | Mans          |     |
-|     |               |     |
+|     | computer      |     |
 
 W:
 DW:
@@ -31,7 +31,7 @@ ex:
 # To Do
  - [ ] Receipts for Teachers program
  - [ ] Receipt for Lunch
- - [ ] Clean up old MAC book
+ - [x] Clean up old MAC book
  - [ ]  
 
 
@@ -50,4 +50,11 @@ Lots of [[Setup M3 Macbook]]
 
 Chat with Scott will leave in September
 - broke down / Told him we should have a party before he leaves
+
+[[PythonVirtualEnvironment]]
+
+Got the local plotting going for the 4b code.
+
+
+
 
