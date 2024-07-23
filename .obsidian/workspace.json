@@ -44,12 +44,36 @@
             }
           },
           {
+            "id": "cf4e66102dbd8927",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-inbox/Salaries.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "885e8c4026bb32cd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Journal/22 July 24 Mon.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b6ad6cdbcb4ceab7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": false
               }
@@ -64,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -130,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/Setup M3 Macbook.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/Setup M3 Macbook.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/Setup M3 Macbook.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -193,9 +217,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ac9a8d4f5f0614f2",
+  "active": "b6ad6cdbcb4ceab7",
   "lastOpenFiles": [
     "Journal/22 July 24 Mon.md",
+    "conflict-files-obsidian-git.md",
+    "0-inbox/Salaries.md",
     "0-inbox/Setup M3 Macbook.md",
     "0-inbox/rectangle.md",
     "3-resources/computing/GetSSHKey.md",
@@ -223,8 +249,6 @@
     "00-Zettelkasten/Go-first-go-positive.md",
     "Input/Reliability.md",
     "00-Zettelkasten/Reversibility-beats-perfection.md",
-    "00-Zettelkasten/Path-to-dependability.md",
-    "00-Zettelkasten/Be-better-through-emulation.md",
     "1-projects/4b Resonant",
     "Journal/#July 2024.md#",
     "Chat w",

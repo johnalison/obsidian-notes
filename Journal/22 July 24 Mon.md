@@ -81,8 +81,11 @@ Getting new machine going!!!!
 
 Walked the kids home
 
-Car show !
+Did the Car show !
 
+[[Salaries]]
+
+Updating Presentations
 
 
 
