@@ -30,9 +30,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "cfa4958303164b10",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Input/AmorFati.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7d1b94e3145a088f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00-Zettelkasten/ZettelKasten Index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0aaf229669f142be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3-resources/Obsidian/Ideas-for-emacs-Obsidian.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -61,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mattermost",
+                "query": "obsidian emac",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +114,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -98,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/24 July 24 Wed.md",
+                "file": "3-resources/Obsidian/Ideas-for-emacs-Obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/24 July 24 Wed.md",
+                "file": "3-resources/Obsidian/Ideas-for-emacs-Obsidian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/24 July 24 Wed.md"
+                "file": "3-resources/Obsidian/Ideas-for-emacs-Obsidian.md"
               }
             }
           }
@@ -161,11 +198,23 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "45b363b917a6b063",
+  "active": "0aaf229669f142be",
   "lastOpenFiles": [
+    "0-inbox/Things-To-Add-To-Notes.md",
+    "00-Zettelkasten/Unnecessary-Thoughts-Lead-To-Unnecessary-Actions.md",
+    "00-Zettelkasten/ZettelKasten Index.md",
+    "Input/AmorFati.md",
+    "00-Zettelkasten/Most-of-what-we-do-is-unnecessary.md",
+    "00-Zettelkasten/Memento Mori-index.md",
+    "00-Zettelkasten/Wisdom-index.md",
+    "00-Zettelkasten/Only-your-choices-can-be-good-evil.md",
+    "00-Zettelkasten/Goals-must-be-in-your-control.md",
+    "00-Zettelkasten/The Art of Acquiesce.md",
+    "00-Zettelkasten/External-Events-Dont-Care-About-You.md",
+    "00-Zettelkasten/Amor-Fati.md",
+    "Journal/24 July 24 Wed.md",
     "0-inbox/Setup M3 Macbook.md",
     "3-resources/MAC/RenewEduRoam.md",
-    "Journal/24 July 24 Wed.md",
     "3-resources/computing/Mattermost Setup.md",
     "3-resources/computing/PythonVirtualEnvironment.md",
     "Input/Meetings/Silicon Modules and MACs Meeting 24 July 2024.md",
@@ -177,18 +226,6 @@
     "3-resources/computing/SetupPy3VirtualEnv_CompileROOT_EnergyFlowCode.md",
     "Journal/22 July 24 Mon.md",
     "00-Zettelkasten/Live-As-Though-You-Have-A-Terminal-Disease.md",
-    "00-Zettelkasten/Memento Mori-index.md",
-    "Input/Meetings/HHbbWW 24 July 2024.md",
-    "00-Zettelkasten/Wisdom-index.md",
-    "00-Zettelkasten/Amor-Fati.md",
-    "00-Zettelkasten/ZettelKasten Index.md",
-    "Input/BeTheGood.md",
-    "Input/MomentoMori.md",
-    "00-Zettelkasten/Meaning-is-linked-to-attention.md",
-    "00-Zettelkasten/Paying-Attention-And-Live-Without-Regret.md",
-    "00-Zettelkasten/Time-vs-money-trade-off.md",
-    "Journal/July 2024.md",
-    "Input/rectangle.md",
     "2-areas/Personal",
     "Pasted image 20240722103340.png",
     "Pasted image 20240722103331.png",

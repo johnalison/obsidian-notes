@@ -48,6 +48,8 @@ effective self-improvement critical
 [[External-Events-Dont-Care-About-You]]
 [[The Art of Acquiesce]]
 [[Goals-must-be-in-your-control]]
+[[Only-your-choices-can-be-good-evil]]
+
 
 # [[Memento Mori-index]]
 

@@ -41,5 +41,7 @@ Walk to WT to get H
 
 Did FNAL security training
 
+Cooked hamburgers
+
 
 

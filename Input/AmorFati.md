@@ -5,15 +5,6 @@
 #Consume
 
 
-- Only your choices are good or evil. Everything else just happens.
-
-- No point being upset with what happens.  Don't take it personally. Remove emotional coloring. 
-
-- Objective things just are. They are not good or bad. They are just information. Only *your* reactions matter. Only *your* reactions are not simply given facts.
-
-- Nothing can prevent you from getting better, becoming wiser. The obstacle is the way.
-
-- Vast majority of our words/actions are unnecessary
 
   > Corralling them will create an abundance of leisure and
   > tranquility.  Shouldn't forget each moment to ask: "Is this one of
