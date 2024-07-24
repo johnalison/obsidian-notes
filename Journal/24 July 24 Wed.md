@@ -33,6 +33,11 @@ Setting up notebooks
 
 [[Mattermost Setup]]
 
+# Kettle bell workout
+- Clean, snatch, press + 3 squats each sides
+- 20 reps: 15 at 35 lbs last 5 at 55
+
+Walk to WT to get H
 
 
 
