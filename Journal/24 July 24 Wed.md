@@ -39,5 +39,7 @@ Setting up notebooks
 
 Walk to WT to get H
 
+Did FNAL security training
+
 
 
