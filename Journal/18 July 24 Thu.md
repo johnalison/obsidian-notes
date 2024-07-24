@@ -60,7 +60,7 @@ Working PGSS notes
 [[HGC Mac Meeting 18 July 2024]]
 
 
-Looking into [[Tables-in-Markup]]
+Looking into [[Tables-in-Markdown]]
 
 Chat with MP re: [[CAM Variance July 2024]]
 

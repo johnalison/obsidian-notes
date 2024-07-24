@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/BulletJournalProtocol.md",
+                "file": "Journal/22 July 24 Mon.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/Setup M3 Macbook.md",
+                "file": "Journal/23 July 24 Tue.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/BulletJournalProtocol.md",
+                "file": "Journal/23 July 24 Tue.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,8 +114,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -135,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/Setup M3 Macbook.md",
+                "file": "Journal/23 July 24 Tue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/Setup M3 Macbook.md",
+                "file": "Journal/23 July 24 Tue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/Setup M3 Macbook.md"
+                "file": "Journal/23 July 24 Tue.md"
               }
             }
           }
@@ -200,37 +199,37 @@
   },
   "active": "ac9a8d4f5f0614f2",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "0-inbox/Setup M3 Macbook.md",
+    "Journal/23 July 24 Tue.md",
+    "Journal/24 July 24 Wed.md",
+    "Input/Meetings/SindhuChat 15 July 2024.md",
+    "Input/Meetings/Stats Chat 18 July 2024.md",
+    "Input/Meetings/StatsChat-10-July-24.md",
+    "1-projects/Mixed2.0/Script to check reclustered splittings.md",
+    "Journal/22 July 24 Mon.md",
+    "Journal/BulletJournalProtocol.md",
+    "Input/Meetings/HHbbWW 24 July 2024.md",
+    "Input/Meetings/HGCManagementMeeting 23 July 2024.md",
+    "3-resources/computing/RunROOTwithDocker.md",
+    "3-resources/computing/ROOTInstall.md",
+    "3-resources/computing/PythonVirtualEnvironment.md",
+    "3-resources/computing/FormattingInMarkdown.md",
+    "3-resources/computing/DockerSetup.md",
+    "3-resources/Obsidian/Tables-in-Markdown.md",
+    "2-areas/CMS/CompileCMSPapers.md",
+    "00-Zettelkasten/Paying-Attention-And-Live-Without-Regret.md",
+    "00-Zettelkasten/Memento Mori-index.md",
+    "00-Zettelkasten/Meaning-is-linked-to-attention.md",
+    "00-Zettelkasten/Live-As-Though-You-Have-A-Terminal-Disease.md",
+    "0-inbox/Silicon Modules and MACs Meeting 24 July 2024.md",
+    "conflict-files-obsidian-git.md",
     "Journal/12 July 24 Fri.md",
     "3-resources/computing/PSC Bridges.md",
-    "0-inbox/BulletJournalProtocol.md",
-    "3-resources/computing/BitWardenCISetup.md",
-    "Journal/23 July 24 Tue.md",
-    "2-areas/Mentoring/Wesley Terrill.md",
-    "2-areas/Personal/Salaries.md",
-    "Input/Meetings/Chat w Wes 23 July 2024.md",
-    "1-projects/Mixed2.0/Script to check reclustered splittings.md",
     "2-areas/Personal",
-    "Input/rectangle.md",
-    "Input/Videos/Kubernetes Course.md",
-    "Journal/22 July 24 Mon.md",
-    "1-projects/Mixed2.0/mixed2.0.md",
-    "2-areas/Outreach/Outreach-git-hub.md",
-    "3-resources/computing/GetSSHKey.md",
-    "Input/Meetings/ChatwAniket 22 July 2024.md",
-    "Journal/21 July 24 Sun.md",
-    "Journal/20 July 24 Sat.md",
-    "Journal/19 July 24 Fri.md",
-    "3-resources/computing/CMU Guest Access.md",
-    "Journal/16 July 24 Tue.md",
-    "1-projects/Mixed2.0/ResamplingBug.md",
     "Pasted image 20240722103340.png",
     "Pasted image 20240722103331.png",
     "Pasted image 20240722103320.png",
     "Pasted image 20240722103302.png",
-    "1-projects/Mixed2.0/script to compare the splittings.md",
-    "00-Zettelkasten/Wisdom-index.md",
     "1-projects/4b Resonant",
     "Journal/#July 2024.md#",
     "Chat w",
