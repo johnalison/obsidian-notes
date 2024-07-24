@@ -13,6 +13,7 @@
 - [[GetSSHKey]]
 - Need to wait until my PSC key has been accepted
 - To get keyboard working I had to copy the `~/dotfiles/KeyboardLayouts/Jamie.*` files to `/Library/Keyboard\ Layouts/`
+- Copied pub to PSC
 
 
 	
