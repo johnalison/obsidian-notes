@@ -37,7 +37,7 @@
 - [x] Clone Teaching
 - [x] RecLetters
 - [ ] Setup notebooks
-- [ ] Eduroam  certificate 
+- [x] Eduroam certificate 
 - [x] ROOT for old 4b code
 	- [x] install cmake `brew install cmake`
 - [ ] Matter most

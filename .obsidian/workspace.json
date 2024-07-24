@@ -49,14 +49,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/Setup M3 Macbook.md",
+                "file": "Journal/24 July 24 Wed.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/Setup M3 Macbook.md",
+                "file": "Journal/24 July 24 Wed.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/Setup M3 Macbook.md",
+                "file": "Journal/24 July 24 Wed.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/Setup M3 Macbook.md"
+                "file": "Journal/24 July 24 Wed.md"
               }
             }
           }
@@ -186,10 +186,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ac9a8d4f5f0614f2",
+  "active": "45b363b917a6b063",
   "lastOpenFiles": [
-    "3-resources/MAC/RenewEduRoam.md",
     "0-inbox/Setup M3 Macbook.md",
+    "3-resources/MAC/RenewEduRoam.md",
     "Journal/24 July 24 Wed.md",
     "3-resources/computing/ROOTInstall.md",
     "0-inbox/Silicon Modules and MACs Meeting 24 July 2024.md",

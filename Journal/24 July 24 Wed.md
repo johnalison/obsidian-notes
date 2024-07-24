@@ -25,6 +25,9 @@ To Giant Eagle with M
 
 [[ROOTInstall]]
 
+got Eduroam installed
+
+
 
 
 
