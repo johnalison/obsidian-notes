@@ -24,15 +24,15 @@ https://twiki.cern.ch/twiki/bin/view/CMSPublic/WorkBookStartingGrid#ObtainingCer
 
 6) move the file to the globus directory
 7) remove old cert and key:    
-    > rm usercert.pem 
-    > rm userkey.pem
+	`rm usercert.pem `
+    `rm userkey.pem`
 
 8) > openssl pkcs12 -in myCertificate.p12 -clcerts -nokeys -out usercert.pem
    [Have to give password]
 
 9) > openssl pkcs12 -in myCertificate.p12 -nocerts -out userkey.pem
-   [Have to give cert pwd]
-   [Then create/veriffiy PEM pasa phrase (asd...)
+   Have to give cert pwd
+   Then create/veriffiy PEM pasa phrase (asd...)
 
 10)
 

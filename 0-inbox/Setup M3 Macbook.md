@@ -13,7 +13,10 @@
 - [[GetSSHKey]]
 - Need to wait until my PSC key has been accepted
 - To get keyboard working I had to copy the `~/dotfiles/KeyboardLayouts/Jamie.*` files to `/Library/Keyboard\ Layouts/`
-- Copied pub to PSC
+- Copied pub key to PSC
+- Eduroam:
+	- Requesting a new eduroam from : 
+	- 
 
 
 	
@@ -23,7 +26,7 @@
 # To do
 - [x] Setup backup disk (Will use previous 4TB disk)
 - [x]  get git tab complete working
-- [ ] Grid Certificate in keychain
+- [x] Grid Certificate in keychain
 - [x]  clean-up old computer
 	- [x] Presentaiotns 
 	- [ ] ROOTHelp to lab ? 
@@ -34,8 +37,11 @@
 - [x] Clone Teaching
 - [x] RecLetters
 - [ ] Setup notebooks
-- [ ] Eduroam 
+- [ ] Eduroam  certificate 
 - [ ] ROOT for old 4b code
+	- [ ] install cmake `brew install cmake`
+- [ ] Matter most
+- [ ] Skype
 
 
 
@@ -45,7 +51,9 @@
 
 
 ## Links: 
-
+[[computing]]
+[[PythonVirtualEnvironment]]
+[[DockerSetup]]
 
 
 202407221123

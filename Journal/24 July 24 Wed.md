@@ -21,4 +21,11 @@ To Giant Eagle with M
 
 [[Setup M3 Macbook]]
 
+[[Silicon Modules and MACs Meeting 24 July 2024]]
+
+[[ROOTInstall]]
+
+
+
+
 

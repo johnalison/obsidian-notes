@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1b2696f4b89a5402",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Journal/BulletJournalProtocol.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "cb55a85a1fbaa174",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-projects/Mixed2.0/Script to check reclustered splittings.md",
+                "file": "3-resources/MAC/RenewEduRoam.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/22 July 24 Mon.md",
+                "file": "0-inbox/Setup M3 Macbook.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/HHbbWW 24 July 2024.md",
+                "file": "0-inbox/Silicon Modules and MACs Meeting 24 July 2024.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,14 +49,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/Setup M3 Macbook.md",
+                "file": "0-inbox/ROOTInstall.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "eduroam",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,7 +102,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -134,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/HHbbWW 24 July 2024.md",
+                "file": "0-inbox/Setup M3 Macbook.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/HHbbWW 24 July 2024.md",
+                "file": "0-inbox/Setup M3 Macbook.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/HHbbWW 24 July 2024.md"
+                "file": "0-inbox/Setup M3 Macbook.md"
               }
             }
           }
@@ -197,34 +186,34 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1930469eea01ce6f",
+  "active": "ac9a8d4f5f0614f2",
   "lastOpenFiles": [
+    "3-resources/MAC/RenewEduRoam.md",
+    "1-projects/Mixed2.0/Script to check reclustered splittings.md",
     "0-inbox/Setup M3 Macbook.md",
+    "0-inbox/Silicon Modules and MACs Meeting 24 July 2024.md",
+    "3-resources/computing/RenewGridCert.md",
+    "Journal/BulletJournalProtocol.md",
+    "0-inbox/ROOTInstall.md",
+    "3-resources/computing/SetupPy3VirtualEnv_CompileROOT_EnergyFlowCode.md",
     "Journal/24 July 24 Wed.md",
-    "0-inbox/HHbbWW 24 July 2024.md",
+    "3-resources/computing/PythonVirtualEnvironment.md",
     "Journal/22 July 24 Mon.md",
+    "00-Zettelkasten/Live-As-Though-You-Have-A-Terminal-Disease.md",
+    "00-Zettelkasten/Memento Mori-index.md",
+    "Input/Meetings/HHbbWW 24 July 2024.md",
     "Journal/23 July 24 Tue.md",
     "00-Zettelkasten/Wisdom-index.md",
-    "0-inbox/Memento Mori-index.md",
     "00-Zettelkasten/Amor-Fati.md",
     "00-Zettelkasten/ZettelKasten Index.md",
     "Input/BeTheGood.md",
     "Input/MomentoMori.md",
     "00-Zettelkasten/Meaning-is-linked-to-attention.md",
     "00-Zettelkasten/Paying-Attention-And-Live-Without-Regret.md",
-    "1-projects/Mixed2.0/Script to check reclustered splittings.md",
     "00-Zettelkasten/Time-vs-money-trade-off.md",
-    "0-inbox/Live-As-Though-You-Have-A-Terminal-Disease.md",
     "Journal/July 2024.md",
-    "Journal/BulletJournalProtocol.md",
     "Input/rectangle.md",
     "3-resources/computing/DockerSetup.md",
-    "0-inbox/Drawing 2024-07-11 14.42.16.excalidraw.md",
-    "0-inbox/Scott Thoughts.md",
-    "Input/Meetings/HGCManagementMeeting 23 July 2024.md",
-    "2-areas/CMS/CompileCMSPapers.md",
-    "Journal/21 July 24 Sun.md",
-    "Journal/20 July 24 Sat.md",
     "2-areas/Personal",
     "Pasted image 20240722103340.png",
     "Pasted image 20240722103331.png",
