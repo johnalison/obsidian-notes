@@ -15,6 +15,8 @@
 
 Up at 8
 
+# with M and T
+
 To Giant Eagle with M
 
 [[HHbbWW 24 July 2024]]
@@ -27,7 +29,9 @@ To Giant Eagle with M
 
 got Eduroam installed
 
+Setting up notebooks
 
+[[Mattermost Setup]]
 
 
 

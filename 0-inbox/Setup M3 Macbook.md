@@ -17,7 +17,8 @@
 - Eduroam:
 	- Requesting a new eduroam from :  https://ca.cern.ch/ca/
 	- Followed the instructions at those websites
-
+- [[Mattermost Setup]]
+- 
 
 
 
@@ -29,20 +30,21 @@
 - [x] Grid Certificate in keychain
 - [x]  clean-up old computer
 	- [x] Presentaiotns 
-	- [ ] ROOTHelp to lab ? 
+	- [x] ROOTHelp to lab ?  --> No already has a nice repo
 	- [x] Consolidate Teaching ?
 - [x] Copy presentations
 - [x] Copy papers
 - [x] Copy Documents
 - [x] Clone Teaching
 - [x] RecLetters
-- [ ] Setup notebooks
+- [x] Setup notebooks
 - [x] Eduroam certificate 
 - [x] ROOT for old 4b code
 	- [x] install cmake `brew install cmake`
-- [ ] Matter most
-- [ ] Skype
-
+- [x] Matter most
+- [ ] Skype 
+- [x ] Dropbox Use Web
+- [x ] Google Drive
 
 
 
