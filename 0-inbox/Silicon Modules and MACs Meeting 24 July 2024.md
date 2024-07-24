@@ -6,6 +6,14 @@ https://indico.cern.ch/event/1439523/
   
   For modules being built soon, Rong-Shyang prepared a [document](https://docs.google.com/document/d/17d-srYzMhzHcfaJUh_QdVGQBLdzKwAE3e4Dl8biNCqE/edit?usp=sharing) on ESD protection that MACs can reasonably be able to use. It also discusses some additional testing that is needed, for the time being, to help track exactly at what step in hexaboard/module handling/processing the 1/2 chip losses may occur.
 
+# CMU looks good
+Nice documentation of what we do and not very many damaged modules!
+
+
+# Can test for common mode failure by checking resistance to ground.
+good: ~O(150k ohms)  bad: ~O(20 ohms)
+
+
 
 ## Follow-ups
 

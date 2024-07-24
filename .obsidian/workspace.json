@@ -44,12 +44,12 @@
             }
           },
           {
-            "id": "1e460fed94277470",
+            "id": "45b363b917a6b063",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/ROOTInstall.md",
+                "file": "0-inbox/Setup M3 Macbook.md",
                 "mode": "source",
                 "source": false
               }
@@ -189,14 +189,14 @@
   "active": "ac9a8d4f5f0614f2",
   "lastOpenFiles": [
     "3-resources/MAC/RenewEduRoam.md",
-    "1-projects/Mixed2.0/Script to check reclustered splittings.md",
     "0-inbox/Setup M3 Macbook.md",
+    "Journal/24 July 24 Wed.md",
+    "3-resources/computing/ROOTInstall.md",
     "0-inbox/Silicon Modules and MACs Meeting 24 July 2024.md",
+    "1-projects/Mixed2.0/Script to check reclustered splittings.md",
     "3-resources/computing/RenewGridCert.md",
     "Journal/BulletJournalProtocol.md",
-    "0-inbox/ROOTInstall.md",
     "3-resources/computing/SetupPy3VirtualEnv_CompileROOT_EnergyFlowCode.md",
-    "Journal/24 July 24 Wed.md",
     "3-resources/computing/PythonVirtualEnvironment.md",
     "Journal/22 July 24 Mon.md",
     "00-Zettelkasten/Live-As-Though-You-Have-A-Terminal-Disease.md",

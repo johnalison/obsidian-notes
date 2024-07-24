@@ -15,11 +15,11 @@
 - To get keyboard working I had to copy the `~/dotfiles/KeyboardLayouts/Jamie.*` files to `/Library/Keyboard\ Layouts/`
 - Copied pub key to PSC
 - Eduroam:
-	- Requesting a new eduroam from : 
-	- 
+	- Requesting a new eduroam from :  https://ca.cern.ch/ca/
+	- Followed the instructions at those websites
 
 
-	
+
 
 
 
@@ -38,8 +38,8 @@
 - [x] RecLetters
 - [ ] Setup notebooks
 - [ ] Eduroam  certificate 
-- [ ] ROOT for old 4b code
-	- [ ] install cmake `brew install cmake`
+- [x] ROOT for old 4b code
+	- [x] install cmake `brew install cmake`
 - [ ] Matter most
 - [ ] Skype
 

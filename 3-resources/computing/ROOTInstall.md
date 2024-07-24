@@ -20,11 +20,25 @@ mkdir root_build root_install && cd root_build
 Need to install cmake `brew install cmake`
 
 ``` bash
+cat ~/setupROOT.sh
 cmake -DCMAKE_INSTALL_PREFIX=../root_install ../root_src
 cmake --build . -- install -j4
 ```
 
+Then
 
+`source ../root_install/bin/thisroot.sh`
+
+Now works!
+
+# Setup script
+
+Run this each time after login
+
+```bash
+source python-environments/ROOTenv/bin/activate
+source python-environments/ROOTenv/root_install/bin/thisroot.sh
+```
 
 
 ## Follow-ups
