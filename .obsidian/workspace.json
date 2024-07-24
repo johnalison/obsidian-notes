@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-resources/Obsidian/Ideas-for-emacs-Obsidian.md",
+                "file": "0-inbox/TestEmacsNote.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "obsidian emac",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,8 +114,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -135,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-resources/Obsidian/Ideas-for-emacs-Obsidian.md",
+                "file": "0-inbox/TestEmacsNote.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-resources/Obsidian/Ideas-for-emacs-Obsidian.md",
+                "file": "0-inbox/TestEmacsNote.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-resources/Obsidian/Ideas-for-emacs-Obsidian.md"
+                "file": "0-inbox/TestEmacsNote.md"
               }
             }
           }
@@ -200,6 +199,13 @@
   },
   "active": "0aaf229669f142be",
   "lastOpenFiles": [
+    "0-inbox/2.md",
+    "0-inbox/TestNew2.md",
+    "3-resources/Obsidian/Ideas-for-emacs-Obsidian.md",
+    "0-inbox/#Setup M3 Macbook.md#",
+    "0-inbox/TestEmacsNote.md",
+    "Journal/2024-07-24.md",
+    "0-inbox/#Scott Thoughts.md#",
     "0-inbox/Things-To-Add-To-Notes.md",
     "00-Zettelkasten/Unnecessary-Thoughts-Lead-To-Unnecessary-Actions.md",
     "00-Zettelkasten/ZettelKasten Index.md",
@@ -221,11 +227,6 @@
     "Journal/23 July 24 Tue.md",
     "3-resources/computing/ROOTInstall.md",
     "1-projects/Mixed2.0/Script to check reclustered splittings.md",
-    "3-resources/computing/RenewGridCert.md",
-    "Journal/BulletJournalProtocol.md",
-    "3-resources/computing/SetupPy3VirtualEnv_CompileROOT_EnergyFlowCode.md",
-    "Journal/22 July 24 Mon.md",
-    "00-Zettelkasten/Live-As-Though-You-Have-A-Terminal-Disease.md",
     "2-areas/Personal",
     "Pasted image 20240722103340.png",
     "Pasted image 20240722103331.png",
@@ -241,8 +242,6 @@
     "Pasted image 20240715123936.png",
     "Pasted image 20240714224532.png",
     "PGSS",
-    "4-archive/HIG-22-011",
-    "2-areas/Outreach",
     "Pasted image 20240707142114.png",
     "Untitled.canvas",
     "Untitled 1.canvas"

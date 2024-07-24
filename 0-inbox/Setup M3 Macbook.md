@@ -1,5 +1,5 @@
 
--  Making account with standard pwd
+- Making account with standard pwd
 - Config Terminal 
 - Got chrome
 - logged in to CMU wireless
