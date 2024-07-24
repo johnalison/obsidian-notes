@@ -21,7 +21,7 @@
 
 W: 7 
 DW: 3
-OT: 
+OT: 2
 ex:
 
 # The ONE thing: 

@@ -60,14 +60,13 @@ Bought new computer:  3699 Computer + 106 harddrive + 290 Apple care (3years)
 
 [[Setup M3 Macbook]]
 
-Lunch with Diane and Jyoti: 
-	
+# Lunch with Diane and Jyoti: 
 
 Need to pay stephs discover card:  330
 
 Guy sold the dexcom claiming was opened. 
 
-**Gym /Steamroom**
+# Gym /Steamroom
 - core/Bench/ lift/ row
 - 10 min at Tmax = 124
 
