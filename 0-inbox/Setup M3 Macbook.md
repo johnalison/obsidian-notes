@@ -33,6 +33,8 @@
 - [x] Clone Teaching
 - [x] RecLetters
 - [ ] Setup notebooks
+- [ ] Eduroam 
+- [ ] ROOT for old 4b code
 
 
 

@@ -20,7 +20,7 @@
 	[[Kids-as-a-mindfulness-gauge]]
 
 # Perfection Not required
-effective self-improvement critical**
+effective self-improvement critical
 
 # Strict with yourself, Lenient with others.
 (Extreme Ownership)**
@@ -49,18 +49,8 @@ effective self-improvement critical**
 [[The Art of Acquiesce]]
 [[Goals-must-be-in-your-control]]
 
-# Memento Mori
+# [[Memento Mori-index]]
 
-## [[Time-is-your-only-true-possession]]
-- [[Death-is-always-with-us]]
-- [[How-to-spend-time]]
-- [[Time-vs-money-trade-off]]
-
-
-## [[Can-lose-time-through-lack-of-attention]]
-- [[Dont-focus-on-things-you-dont-like]]
-- [[Wasting-time-is-a-form-of-suicide]]
-- [[Life-isnt-short]]
 
 
 

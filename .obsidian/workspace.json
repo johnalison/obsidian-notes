@@ -37,19 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Input/rectangle.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7d0c007a6367c572",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0-inbox/Setup M3 Macbook.md",
+                "file": "Journal/23 July 24 Tue.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "#con",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,7 +90,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -122,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Input/rectangle.md",
+                "file": "Journal/23 July 24 Tue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Input/rectangle.md",
+                "file": "Journal/23 July 24 Tue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Input/rectangle.md"
+                "file": "Journal/23 July 24 Tue.md"
               }
             }
           }
@@ -187,11 +176,24 @@
   },
   "active": "ac9a8d4f5f0614f2",
   "lastOpenFiles": [
-    "0-inbox/Setup M3 Macbook.md",
-    "Journal/22 July 24 Mon.md",
-    "Journal/23 July 24 Tue.md",
-    "3-resources/computing/DockerSetup.md",
+    "00-Zettelkasten/Wisdom-index.md",
+    "0-inbox/Memento Mori-index.md",
+    "00-Zettelkasten/Amor-Fati.md",
+    "00-Zettelkasten/ZettelKasten Index.md",
+    "Input/BeTheGood.md",
+    "Input/MomentoMori.md",
+    "00-Zettelkasten/Meaning-is-linked-to-attention.md",
+    "00-Zettelkasten/Paying-Attention-And-Live-Without-Regret.md",
+    "1-projects/Mixed2.0/Script to check reclustered splittings.md",
+    "00-Zettelkasten/Time-vs-money-trade-off.md",
+    "0-inbox/Live-As-Though-You-Have-A-Terminal-Disease.md",
+    "Journal/July 2024.md",
     "Journal/BulletJournalProtocol.md",
+    "Journal/23 July 24 Tue.md",
+    "0-inbox/Setup M3 Macbook.md",
+    "Input/rectangle.md",
+    "Journal/22 July 24 Mon.md",
+    "3-resources/computing/DockerSetup.md",
     "0-inbox/Drawing 2024-07-11 14.42.16.excalidraw.md",
     "0-inbox/Scott Thoughts.md",
     "Input/Meetings/HGCManagementMeeting 23 July 2024.md",
@@ -200,19 +202,6 @@
     "Journal/20 July 24 Sat.md",
     "3-resources/computing/RunROOTwithDocker.md",
     "3-resources/computing/Docker.md",
-    "3-resources/computing/FormattingInMarkdown.md",
-    "3-resources/Obsidian/Tables-in-Markdown.md",
-    "1-projects/Mixed2.0/Script to check reclustered splittings.md",
-    "3-resources/computing/PythonVirtualEnvironment.md",
-    "1-projects/Mixed2.0/mixed2.0.md",
-    "1-projects/Mixed2.0/script to compare the splittings.md",
-    "Input/Books/EffectivePython.md",
-    "3-resources/computing/PSC Bridges.md",
-    "Journal/12 July 24 Fri.md",
-    "Input/rectangle.md",
-    "Input/Videos/Kubernetes Course.md",
-    "Input/Meetings/Chat w Wes 23 July 2024.md",
-    "2-areas/Personal/Salaries.md",
     "2-areas/Personal",
     "Pasted image 20240722103340.png",
     "Pasted image 20240722103331.png",
