@@ -63,3 +63,6 @@ Getting emacs going!
 
 
 [[HGC MAC Meeting 25 July 2024]]
+
+
+Chat with AE. Back in two weeks
