@@ -18,7 +18,7 @@
 	- Requesting a new eduroam from :  https://ca.cern.ch/ca/
 	- Followed the instructions at those websites
 - [[Mattermost Setup]]
--  'brew install colordiff'
+- 'brew install colordiff'
 
 
 
@@ -45,8 +45,6 @@
 - [ ] Skype 
 - [x] Dropbox Use Web
 - [x] Google Drive
-
-
 
 
 ## Follow-ups

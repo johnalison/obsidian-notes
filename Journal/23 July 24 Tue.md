@@ -29,8 +29,8 @@ ex:
 
 
 # To Do
- - [ ] Receipts for Teachers program
- - [ ] Receipt for Lunch
+ - [> ] Receipts for Teachers program
+ - [> ] Receipt for Lunch
  - [x] Clean up old MAC book
  - [ ]  
 

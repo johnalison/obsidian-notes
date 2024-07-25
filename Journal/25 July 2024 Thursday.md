@@ -46,3 +46,20 @@ Want to get [[Ideas-for-emacs-Obsidian]] going more
 Take H to school
 
 Mail from Marc Dandin looking into SiPMs in CMU ECE
+
+More [[Setup M3 Macbook]]
+
+Checked out the the emacs packages locally (obsidian.el and markdown). 
+- can now edit and commit these!
+
+Chat w/Manfre re: student tuition
+ - CL charged 55%
+
+Getting emacs going!
+
+# Working 4b 
+- Will test the vs pt pdfs
+- [[mixed2.0]]
+
+
+[[HGC MAC Meeting 25 July 2024]]

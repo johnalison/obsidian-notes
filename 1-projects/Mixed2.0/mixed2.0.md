@@ -41,12 +41,11 @@ Getting the new mixing going
 - [ ] Fix the extra jet treatment (for now copy jets < 40 and add new jets)
 - [ ] update recursion to only check if bjet pt > 40 GeV
 - [ ] [[ResamplingBug]]
+- [ ] Add a dR AB > 0.4 check
 
-  
-# Bugs
-
-
-
+# Template Fixes
+- [ ]  mA_vs_pT -> 100 bins
+- [ ] b(bj) mA -> mA_l
 
 
 ## Links: 
