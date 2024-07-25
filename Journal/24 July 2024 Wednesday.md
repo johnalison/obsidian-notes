@@ -42,7 +42,7 @@ Cooked hamburgers
 
 # Looking into [[Ideas-for-emacs-Obsidian]]
  - Will try this tomorrow !!!
- - [[Emacs Tricks]] 
+ - [[Emacs tricks]] 
 
 To Mecerios for ice cream
 

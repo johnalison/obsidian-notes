@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-projects/Mixed2.0/mixed2.0.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6ab547ef06d2fed5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Input/Books/OnGrandStrategy.md",
+                "file": "0-inbox/Things-To-Add-To-Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-projects/Mixed2.0/mixed2.0.md",
+                "file": "0-inbox/Things-To-Add-To-Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-projects/Mixed2.0/mixed2.0.md",
+                "file": "0-inbox/Things-To-Add-To-Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-projects/Mixed2.0/mixed2.0.md"
+                "file": "0-inbox/Things-To-Add-To-Notes.md"
               }
             }
           }
@@ -163,40 +150,40 @@
   },
   "active": "ac9a8d4f5f0614f2",
   "lastOpenFiles": [
-    "Journal/10 July 24 Wednesday.md",
+    "0-inbox/Setup M3 Macbook.md",
+    "Input/Meetings/bbWW Meeting 25 July 2024.md",
+    "Journal/23 July 24 Tuesday.md",
+    "Journal/22 July 24 Monday.md",
+    "Journal/21 July 24 Sunday.md",
+    "Journal/20 July 24 Saturday.md",
+    "Journal/19 July 24 Friday.md",
+    "Journal/18 July 24 Thursday.md",
+    "Journal/17 July 24 Wednesday.md",
+    "Journal/16 July 24 Tuesday.md",
+    "Journal/15 July 24 Monday.md",
+    "Journal/14 July 24 Sunday.md",
+    "Journal/13 July 24 Saturday.md",
+    "Journal/12 July 24 Friday.md",
+    "Journal/11 July 24 Thursday.md",
+    "3-resources/computing/Emacs tricks.md",
     "Journal/25 July 2024 Thursday.md",
+    "1-projects/Mixed2.0/mixed2.0.md",
+    "Journal/10 July 24 Wednesday.md",
     "2-areas/Mentoring/Alejandro Espinosa.md",
     "Journal/11 July 24 Thur.md",
     "0-inbox/#bbWW Meeting 25 July 2024.md#",
     "Journal/#25 July 2024 Thursday.md#",
-    "0-inbox/bbWW Meeting 25 July 2024.md",
     "Journal/Future Log.md",
     "Input/Meetings/HGC MAC Meeting 25 July 2024.md",
     "Input/Books/OnGrandStrategy.md",
-    "0-inbox/Emacs tricks.md",
     "0-inbox/emacs.md",
     "0-inbox/#HGC MAC Meeting 25 July 2024.md#",
-    "1-projects/Mixed2.0/mixed2.0.md",
     "Input/Papers/Do graph neural networks learn traditional jet substructure?.md",
-    "0-inbox/Lists.md",
     "0-inbox/#Emacs tricks.md#",
     "0-inbox/#Setup M3 Macbook.md#",
-    "3-resources/Obsidian/Ideas-for-emacs-Obsidian.md",
     "Journal/#23 July 24 Tue.md#",
-    "00-Zettelkasten/ZettelKasten Index.md",
-    "Input/AmorFati.md",
-    "Journal/24 July 2024 Wednesday.md",
     "Journal/#24 July 2024 Wednesday.md#",
-    "0-inbox/Setup M3 Macbook.md",
-    "Output/Scott Thoughts.md",
     "3-resources/Obsidian/#Ideas-for-emacs-Obsidian.md#",
-    "0-inbox/TestFileNew27.md",
-    "0-inbox/TestEmacsNote.md",
-    "Journal/24 July 24 Wed.md",
-    "3-resources/emacs/emacs-file-search.md",
-    "0-inbox/2.md",
-    "0-inbox/TestNew2.md",
-    "Journal/2024-07-24.md",
     "0-inbox/#Scott Thoughts.md#",
     "2-areas/Personal",
     "Pasted image 20240722103340.png",

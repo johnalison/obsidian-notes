@@ -1,28 +1,28 @@
 # Timeblock
 
-|     |     |     |
-| --- | --- | --- |
-| 9   |     |     |
-|     |     |     |
-| 10  |     |     |
-|     |     |     |
-| 11  | MAC Meeting    |     |
-|     | MAC Meeting    |     |
-| 12  | bbWW    |     |
-|     | Chat AE    |     |
-| 1   | Gym    |     |
-|     | Gym    |     |
-| 2   | 4b    |     |
-|     | 4b    |     |
-| 3   | 4b    |     |
-|     | Get H    |     |
-| 4   |     |     |
-|     |     |     |
+|    |             |   |
+|----|-------------|---|
+| 9  | emacs       | X |
+|    | emacs       | X |
+| 10 | emacs       | X |
+|    | emacs       | X |
+| 11 | MAC Meeting |   |
+|    | MAC Meeting |   |
+| 12 | bbWW        |   |
+|    | Chat AE     |   |
+| 1  | Gym         |   |
+|    | Gym         |   |
+| 2  | 4b          | X |
+|    | 4b          | X |
+| 3  | 4b          |   |
+|    | Get H       |   |
+| 4  |             |   |
+|    |             |   |
 
-W:
-DW:
-OT: 
-ex:
+W: 6 
+DW: 6
+OT: 3
+ex: 
 
 # The ONE thing: 
 - [ ] 4b mixed 2.0
@@ -35,8 +35,8 @@ ex:
 	 - [ ] Check splitting
 	 - [ ] other jets
 - [ ] write up S/sqrt(B) argument
-- [ ] obsidian.el in git
-- [ ] probably also markdown 
+- [x] obsidian.el in git
+- [x] probably also markdown 
 - [ ] CAM training
 
 # Log
@@ -70,4 +70,13 @@ Chat with AE. Back in two weeks
 # Gym/Steamroom
 - Core/ 50' Zone 2 
 - 11 Min Tmax = 122
+
+Working 4b 
+
+# Whiskey with Fenguei and Simran
+- Simran agrees with powwow with scott/
+- Scott told Simram
+
+# Giant Eagle with H
+- They are getting rid of the mix and match!
 
