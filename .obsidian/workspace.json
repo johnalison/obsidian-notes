@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/25 July 2024 Thursday.md",
+                "file": "1-projects/Mixed2.0/mixed2.0.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/25 July 2024 Thursday.md",
+                "file": "1-projects/Mixed2.0/mixed2.0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/25 July 2024 Thursday.md",
+                "file": "1-projects/Mixed2.0/mixed2.0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/25 July 2024 Thursday.md"
+                "file": "1-projects/Mixed2.0/mixed2.0.md"
               }
             }
           }
@@ -163,9 +163,9 @@
   },
   "active": "ac9a8d4f5f0614f2",
   "lastOpenFiles": [
+    "Journal/25 July 2024 Thursday.md",
     "2-areas/Mentoring/Alejandro Espinosa.md",
     "Journal/11 July 24 Thur.md",
-    "Journal/25 July 2024 Thursday.md",
     "0-inbox/#bbWW Meeting 25 July 2024.md#",
     "Journal/#25 July 2024 Thursday.md#",
     "0-inbox/bbWW Meeting 25 July 2024.md",

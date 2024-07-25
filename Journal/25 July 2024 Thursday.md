@@ -66,3 +66,8 @@ Getting emacs going!
 
 
 Chat with AE. Back in two weeks
+
+# Gym/Steamroom
+- Core/ 50' Zone 2 
+- 11 Min Tmax = 122
+
