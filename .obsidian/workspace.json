@@ -13,55 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/24 July 2024 Wednesday.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "45b363b917a6b063",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Journal/24 July 2024 Wednesday.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cfa4958303164b10",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Input/AmorFati.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7d1b94e3145a088f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00-Zettelkasten/ZettelKasten Index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0aaf229669f142be",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Journal/24 July 2024 Wednesday.md",
+                "file": "Journal/25 July 2024 Thursday.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-resources/Obsidian/Ideas-for-emacs-Obsidian.md",
+                "file": "Journal/25 July 2024 Thursday.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -145,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/24 July 2024 Wednesday.md",
+                "file": "Journal/25 July 2024 Thursday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/24 July 2024 Wednesday.md",
+                "file": "Journal/25 July 2024 Thursday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/24 July 2024 Wednesday.md"
+                "file": "Journal/25 July 2024 Thursday.md"
               }
             }
           }
@@ -208,17 +161,22 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ac9a8d4f5f0614f2",
+  "active": "6ab547ef06d2fed5",
   "lastOpenFiles": [
+    "3-resources/Obsidian/Ideas-for-emacs-Obsidian.md",
+    "Journal/#25 July 2024 Thursday.md#",
+    "Journal/#23 July 24 Tue.md#",
+    "Journal/25 July 2024 Thursday.md",
+    "00-Zettelkasten/ZettelKasten Index.md",
+    "Input/AmorFati.md",
+    "Journal/24 July 2024 Wednesday.md",
     "Journal/#24 July 2024 Wednesday.md#",
     "0-inbox/emacs.md",
     "0-inbox/OnGrandStrategy.md",
     "0-inbox/Setup M3 Macbook.md",
     "Output/Scott Thoughts.md",
     "3-resources/Obsidian/#Ideas-for-emacs-Obsidian.md#",
-    "Journal/24 July 2024 Wednesday.md",
     "0-inbox/TestFileNew27.md",
-    "3-resources/Obsidian/Ideas-for-emacs-Obsidian.md",
     "0-inbox/TestEmacsNote.md",
     "Journal/24 July 24 Wed.md",
     "0-inbox/Emacs tricks.md",
@@ -230,15 +188,12 @@
     "0-inbox/#Scott Thoughts.md#",
     "0-inbox/Things-To-Add-To-Notes.md",
     "00-Zettelkasten/Unnecessary-Thoughts-Lead-To-Unnecessary-Actions.md",
-    "00-Zettelkasten/ZettelKasten Index.md",
-    "Input/AmorFati.md",
     "00-Zettelkasten/Most-of-what-we-do-is-unnecessary.md",
     "00-Zettelkasten/Memento Mori-index.md",
     "00-Zettelkasten/Wisdom-index.md",
     "00-Zettelkasten/Only-your-choices-can-be-good-evil.md",
     "00-Zettelkasten/Goals-must-be-in-your-control.md",
     "00-Zettelkasten/The Art of Acquiesce.md",
-    "00-Zettelkasten/External-Events-Dont-Care-About-You.md",
     "2-areas/Personal",
     "Pasted image 20240722103340.png",
     "Pasted image 20240722103331.png",
@@ -247,8 +202,6 @@
     "1-projects/4b Resonant",
     "Journal/#July 2024.md#",
     "Chat w",
-    "Output/CAM",
-    "0-inbox/#Tables-in-Markup.md#",
     "Pasted image 20240715154921.png",
     "Pasted image 20240715123936.png",
     "Pasted image 20240714224532.png",

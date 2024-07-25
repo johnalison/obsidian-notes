@@ -1,0 +1,46 @@
+# Timeblock
+
+|     |     |     |
+| --- | --- | --- |
+| 9   |     |     |
+|     |     |     |
+| 10  |     |     |
+|     |     |     |
+| 11  | MAC Meeting    |     |
+|     | MAC Meeting    |     |
+| 12  | bbWW    |     |
+|     | Chat AE    |     |
+| 1   | Gym    |     |
+|     | Gym    |     |
+| 2   |     |     |
+|     |     |     |
+| 3   |     |     |
+|     |     |     |
+| 4   |     |     |
+|     |     |     |
+
+W:
+DW:
+OT: 
+ex:
+
+# The ONE thing: 
+- [ ] 4b mixed 2.0
+
+
+# To Do
+ - [ ] Receipts for Teachers program
+ - [ ] Receipt for Lunch
+ - [ ]  4b
+	 - [ ] Check splitting
+	 - [ ] other jets
+ - [ ] write up S/sqrt(B) argument
+ - [ ] obsidian.el in git
+ - [ ] probably also markdown 
+
+
+# Log
+
+Want to get [[Ideas-for-emacs-Obsidian]] going more
+
+Take H to school

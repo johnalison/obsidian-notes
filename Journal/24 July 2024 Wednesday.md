@@ -1,8 +1,5 @@
 
 
-
-
-
 # To Do
  - [ ] 
  - [ ] 
@@ -50,7 +47,4 @@ Cooked hamburgers
 To Mecerios for ice cream
 
 To Book store: Bought [[OnGrandStrategy]]
-
-
-
 
