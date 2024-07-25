@@ -42,10 +42,13 @@ Getting the new mixing going
 - [ ] update recursion to only check if bjet pt > 40 GeV
 - [ ] [[ResamplingBug]]
 - [ ] Add a dR AB > 0.4 check
+- [ ] Why is bj_pt so off after the recluster (Is it the Δr ?)
 
 # Template Fixes
-- [ ]  mA_vs_pT -> 100 bins
-- [ ] b(bj) mA -> mA_l
+- [x]  mA_vs_pT -> 100 bins
+- [ ] b(bj) mB -> mB_l
+
+
 
 
 ## Links: 
