@@ -43,5 +43,6 @@ Did FNAL security training
 
 Cooked hamburgers
 
+Looking into [[Ideas-for-emacs-Obsidian]]
 
-
+Will try this tomorrow !!!

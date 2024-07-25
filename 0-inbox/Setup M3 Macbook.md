@@ -43,8 +43,8 @@
 	- [x] install cmake `brew install cmake`
 - [x] Matter most
 - [ ] Skype 
-- [x ] Dropbox Use Web
-- [x ] Google Drive
+- [x] Dropbox Use Web
+- [x] Google Drive
 
 
 

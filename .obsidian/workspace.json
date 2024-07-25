@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/Setup M3 Macbook.md",
+                "file": "Journal/24 July 2024 Wednesday.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/24 July 24 Wed.md",
+                "file": "Journal/24 July 2024 Wednesday.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,14 +61,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/TestEmacsNote.md",
+                "file": "Journal/24 July 2024 Wednesday.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6ab547ef06d2fed5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3-resources/Obsidian/Ideas-for-emacs-Obsidian.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/TestEmacsNote.md",
+                "file": "Journal/24 July 2024 Wednesday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/TestEmacsNote.md",
+                "file": "Journal/24 July 2024 Wednesday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/TestEmacsNote.md"
+                "file": "Journal/24 July 2024 Wednesday.md"
               }
             }
           }
@@ -197,13 +208,22 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0aaf229669f142be",
+  "active": "ac9a8d4f5f0614f2",
   "lastOpenFiles": [
+    "0-inbox/Setup M3 Macbook.md",
+    "Output/Scott Thoughts.md",
+    "3-resources/Obsidian/#Ideas-for-emacs-Obsidian.md#",
+    "Journal/24 July 2024 Wednesday.md",
+    "0-inbox/TestFileNew27.md",
+    "Journal/#24 July 2024 Wednesday.md#",
+    "3-resources/Obsidian/Ideas-for-emacs-Obsidian.md",
+    "0-inbox/TestEmacsNote.md",
+    "Journal/24 July 24 Wed.md",
+    "0-inbox/Emacs tricks.md",
+    "3-resources/emacs/emacs-file-search.md",
     "0-inbox/2.md",
     "0-inbox/TestNew2.md",
-    "3-resources/Obsidian/Ideas-for-emacs-Obsidian.md",
     "0-inbox/#Setup M3 Macbook.md#",
-    "0-inbox/TestEmacsNote.md",
     "Journal/2024-07-24.md",
     "0-inbox/#Scott Thoughts.md#",
     "0-inbox/Things-To-Add-To-Notes.md",
@@ -218,15 +238,8 @@
     "00-Zettelkasten/The Art of Acquiesce.md",
     "00-Zettelkasten/External-Events-Dont-Care-About-You.md",
     "00-Zettelkasten/Amor-Fati.md",
-    "Journal/24 July 24 Wed.md",
-    "0-inbox/Setup M3 Macbook.md",
     "3-resources/MAC/RenewEduRoam.md",
     "3-resources/computing/Mattermost Setup.md",
-    "3-resources/computing/PythonVirtualEnvironment.md",
-    "Input/Meetings/Silicon Modules and MACs Meeting 24 July 2024.md",
-    "Journal/23 July 24 Tue.md",
-    "3-resources/computing/ROOTInstall.md",
-    "1-projects/Mixed2.0/Script to check reclustered splittings.md",
     "2-areas/Personal",
     "Pasted image 20240722103340.png",
     "Pasted image 20240722103331.png",
@@ -237,11 +250,9 @@
     "Chat w",
     "Output/CAM",
     "0-inbox/#Tables-in-Markup.md#",
-    "Input/Books/#ExtremeOwnership.md#",
     "Pasted image 20240715154921.png",
     "Pasted image 20240715123936.png",
     "Pasted image 20240714224532.png",
-    "PGSS",
     "Pasted image 20240707142114.png",
     "Untitled.canvas",
     "Untitled 1.canvas"
