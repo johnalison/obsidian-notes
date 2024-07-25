@@ -19,6 +19,7 @@
 	- Followed the instructions at those websites
 - [[Mattermost Setup]]
 - 'brew install colordiff'
+- 'brew install ispell'
 
 
 
