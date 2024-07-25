@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2bd3a9f7b2c254a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00-Zettelkasten/Nothing-is-almost-like-having-it-all.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/25 July 2024 Thursday.md",
+                "file": "00-Zettelkasten/Nothing-is-almost-like-having-it-all.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/25 July 2024 Thursday.md",
+                "file": "00-Zettelkasten/Nothing-is-almost-like-having-it-all.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/25 July 2024 Thursday.md"
+                "file": "00-Zettelkasten/Nothing-is-almost-like-having-it-all.md"
               }
             }
           }
@@ -148,8 +161,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ac9a8d4f5f0614f2",
+  "active": "2bd3a9f7b2c254a9",
   "lastOpenFiles": [
+    "00-Zettelkasten/ZettelKasten Index.md",
+    "00-Zettelkasten/Wisdom-index.md",
+    "00-Zettelkasten/Nothing-is-almost-like-having-it-all.md",
+    "Journal/25 July 2024 Thursday.md",
     "0-inbox/Things-To-Add-To-Notes.md",
     "0-inbox/Setup M3 Macbook.md",
     "Input/Meetings/bbWW Meeting 25 July 2024.md",
@@ -167,7 +184,6 @@
     "Journal/12 July 24 Friday.md",
     "Journal/11 July 24 Thursday.md",
     "3-resources/computing/Emacs tricks.md",
-    "Journal/25 July 2024 Thursday.md",
     "1-projects/Mixed2.0/mixed2.0.md",
     "Journal/10 July 24 Wednesday.md",
     "2-areas/Mentoring/Alejandro Espinosa.md",
@@ -175,9 +191,6 @@
     "0-inbox/#bbWW Meeting 25 July 2024.md#",
     "Journal/#25 July 2024 Thursday.md#",
     "Journal/Future Log.md",
-    "Input/Meetings/HGC MAC Meeting 25 July 2024.md",
-    "Input/Books/OnGrandStrategy.md",
-    "0-inbox/emacs.md",
     "0-inbox/#HGC MAC Meeting 25 July 2024.md#",
     "0-inbox/#Emacs tricks.md#",
     "0-inbox/#Setup M3 Macbook.md#",
