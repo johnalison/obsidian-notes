@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/Things-To-Add-To-Notes.md",
+                "file": "Journal/25 July 2024 Thursday.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/Things-To-Add-To-Notes.md",
+                "file": "Journal/25 July 2024 Thursday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/Things-To-Add-To-Notes.md",
+                "file": "Journal/25 July 2024 Thursday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/Things-To-Add-To-Notes.md"
+                "file": "Journal/25 July 2024 Thursday.md"
               }
             }
           }
@@ -150,6 +150,7 @@
   },
   "active": "ac9a8d4f5f0614f2",
   "lastOpenFiles": [
+    "0-inbox/Things-To-Add-To-Notes.md",
     "0-inbox/Setup M3 Macbook.md",
     "Input/Meetings/bbWW Meeting 25 July 2024.md",
     "Journal/23 July 24 Tuesday.md",
@@ -178,7 +179,6 @@
     "Input/Books/OnGrandStrategy.md",
     "0-inbox/emacs.md",
     "0-inbox/#HGC MAC Meeting 25 July 2024.md#",
-    "Input/Papers/Do graph neural networks learn traditional jet substructure?.md",
     "0-inbox/#Emacs tricks.md#",
     "0-inbox/#Setup M3 Macbook.md#",
     "Journal/#23 July 24 Tue.md#",
