@@ -44,7 +44,7 @@ Getting the new mixing going
 - [x] Add a dR AB > 0.4 check
 - [ ] Why is bj_pt so off after the recluster (Is it the Δr ?)
 - [ ] [[bj pt mismodeling]]
-- [ ] 
+- [ ] Do mass based on jet flavor ?  (mA vs mB in pt bins?)
 
 # Template Fixes
 - [x]  mA_vs_pT -> 100 bins
