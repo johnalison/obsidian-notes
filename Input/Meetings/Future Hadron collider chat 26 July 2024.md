@@ -11,9 +11,8 @@ Should come up with costed benchmarks
 - 8.3  T 91km -> 50 TeV
 - 
 
+https://docs.google.com/document/d/1oSxdf6VS-eaNCTq_Gq4Eog3gglwD4kRQF9pBeywVmHQ/edit
 
-H vs VH ?
-ZZ / WZ / 
 
 ## Follow-ups
 
