@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-Zettelkasten/Nothing-is-almost-like-having-it-all.md",
+                "file": "Journal/25 July 2024 Thursday.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-Zettelkasten/Nothing-is-almost-like-having-it-all.md",
+                "file": "Journal/25 July 2024 Thursday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00-Zettelkasten/Nothing-is-almost-like-having-it-all.md",
+                "file": "Journal/25 July 2024 Thursday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-Zettelkasten/Nothing-is-almost-like-having-it-all.md"
+                "file": "Journal/25 July 2024 Thursday.md"
               }
             }
           }
@@ -163,9 +163,9 @@
   },
   "active": "2bd3a9f7b2c254a9",
   "lastOpenFiles": [
+    "00-Zettelkasten/Nothing-is-almost-like-having-it-all.md",
     "00-Zettelkasten/ZettelKasten Index.md",
     "00-Zettelkasten/Wisdom-index.md",
-    "00-Zettelkasten/Nothing-is-almost-like-having-it-all.md",
     "Journal/25 July 2024 Thursday.md",
     "0-inbox/Things-To-Add-To-Notes.md",
     "0-inbox/Setup M3 Macbook.md",
