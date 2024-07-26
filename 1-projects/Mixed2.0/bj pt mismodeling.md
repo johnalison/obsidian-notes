@@ -1,6 +1,6 @@
 ![[bj Pt problem.png]]
 
-
+![[Pasted image 20240726154559.png]]
 
 
 

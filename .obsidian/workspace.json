@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/The Craft of Effective Writing.md",
+                "file": "1-projects/Mixed2.0/mixed2.0.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,7 +38,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tactics",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -54,8 +54,19 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "8cd6e87e88b50c39",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -75,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled 1.canvas",
+                "file": "1-projects/Mixed2.0/mixed2.0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled 1.canvas",
+                "file": "1-projects/Mixed2.0/mixed2.0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled 1.canvas"
+                "file": "1-projects/Mixed2.0/mixed2.0.md"
               }
             }
           }
@@ -138,19 +149,22 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5eff6f8803fcba5e",
+  "active": "2bd3a9f7b2c254a9",
   "lastOpenFiles": [
+    "1-projects/Mixed2.0/bj pt mismodeling.md",
+    "attachments/Pasted image 20240726154559.png",
+    "1-projects/Mixed2.0/mixed2.0.md",
+    "Journal/26 July 2024 Friday.md",
+    "Journal/January 2021.md",
+    "Journal/#January 2021.md#",
+    "0-inbox/The Craft of Effective Writing.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
-    "Journal/January 2021.md",
-    "0-inbox/The Craft of Effective Writing.md",
-    "Journal/#January 2021.md#",
     "Journal/2020/November 2020.md",
     "Journal/2020/December 2020.md",
     "Journal/2020",
     "0-inbox/#The Craft of Effective Writing.md#",
     "Input/Tactics.md",
-    "Journal/26 July 2024 Friday.md",
     "Input/Books/ExtremeOwnership.md",
     "Journal/December 2020.md",
     "0-inbox/#The Craft of Effective Writting .md#",
@@ -159,9 +173,7 @@
     "Journal/November 2020.md",
     "Journal/#November 2020.md#",
     "Journal/July 2024.md",
-    "1-projects/Mixed2.0/mixed2.0.md",
     "Input/Meetings/Future Hadron collider chat 26 July 2024.md",
-    "1-projects/Mixed2.0/bj pt mismodeling.md",
     "00-Zettelkasten/ISR-FSR-jet-discernment-in-jet-declustering.md",
     "00-Zettelkasten/Advantages-of-Jet-declustering.md",
     "00-Zettelkasten/Jet DeClustering.md",
@@ -176,7 +188,6 @@
     "attachments/Pasted image 20240722103302.png",
     "attachments/Pasted image 20240715154921.png",
     "attachments/Jet Declustering ISR and FSR.png",
-    "attachments/Pasted image 20240714224532.png",
     "attachments",
     "0-inbox/attachments",
     "1-projects/Mixed2.0/ResamplingBug.md",
