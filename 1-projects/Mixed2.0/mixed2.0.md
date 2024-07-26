@@ -66,5 +66,10 @@ Getting the new mixing going
 [[Script to check reclustered splittings]]
 
 
+# Performance
+
+decluster and cluster
+**32m30.007s**. 25 July 2024 
+
 
 202407091049
