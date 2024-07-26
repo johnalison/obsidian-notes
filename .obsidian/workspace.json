@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Input/Meetings/Future Hadron collider chat 26 July 2024.md",
+                "file": "Journal/26 July 2024 Friday.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Input/Meetings/Future Hadron collider chat 26 July 2024.md",
+                "file": "Journal/26 July 2024 Friday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Input/Meetings/Future Hadron collider chat 26 July 2024.md",
+                "file": "Journal/26 July 2024 Friday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Input/Meetings/Future Hadron collider chat 26 July 2024.md"
+                "file": "Journal/26 July 2024 Friday.md"
               }
             }
           }
@@ -163,8 +163,8 @@
   },
   "active": "b49a939ecd258df6",
   "lastOpenFiles": [
-    "Journal/26 July 2024 Friday.md",
     "Input/Meetings/Future Hadron collider chat 26 July 2024.md",
+    "Journal/26 July 2024 Friday.md",
     "1-projects/Mixed2.0/mixed2.0.md",
     "1-projects/Mixed2.0/bj pt mismodeling.md",
     "00-Zettelkasten/ISR-FSR-jet-discernment-in-jet-declustering.md",
