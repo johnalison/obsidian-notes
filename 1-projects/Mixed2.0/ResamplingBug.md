@@ -14,6 +14,7 @@ Check clustering code vs sampling code when making PDFS....
 
 
 ## Links: 
+[[mixed2.0]]
 
 
 

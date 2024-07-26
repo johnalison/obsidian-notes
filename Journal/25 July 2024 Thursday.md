@@ -29,15 +29,15 @@ ex:
 
 
 # To Do
-- [ ] Receipts for Teachers program
-- [ ] Receipt for Lunch
-- [ ]  4b
-	 - [ ] Check splitting
-	 - [ ] other jets
-- [ ] write up S/sqrt(B) argument
+- [> ] Receipts for Teachers program
+- [> ] Receipt for Lunch
+- [> ]  4b
+	 - [> ] Check splitting
+	 - [> ] other jets
+- [> ] write up S/sqrt(B) argument
 - [x] obsidian.el in git
 - [x] probably also markdown 
-- [ ] CAM training
+- [> ] CAM training
 
 # Log
 
@@ -52,8 +52,8 @@ More [[Setup M3 Macbook]]
 Checked out the the emacs packages locally (obsidian.el and markdown). 
 - can now edit and commit these!
 
-Chat w/Manfre re: student tuition
- - CL charged 55%
+Chat w/Manfred re: student tuition
+ - CL charged 55% (as expected)
 
 Getting emacs going!
 

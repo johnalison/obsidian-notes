@@ -41,8 +41,10 @@ Getting the new mixing going
 - [ ] Fix the extra jet treatment (for now copy jets < 40 and add new jets)
 - [ ] update recursion to only check if bjet pt > 40 GeV
 - [ ] [[ResamplingBug]]
-- [ ] Add a dR AB > 0.4 check
+- [x] Add a dR AB > 0.4 check
 - [ ] Why is bj_pt so off after the recluster (Is it the Δr ?)
+- [ ] [[bj pt mismodeling]]
+- [ ] 
 
 # Template Fixes
 - [x]  mA_vs_pT -> 100 bins
@@ -56,6 +58,7 @@ Getting the new mixing going
 [[CMS]]
 [[physics]]
 [[ABCDMethod]]
+[[Jet DeClustering]]
 
 
 # Work:
