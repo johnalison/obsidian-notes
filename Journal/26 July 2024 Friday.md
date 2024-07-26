@@ -51,7 +51,9 @@ more 4b
 
 # Lunch with Manfred
 
+Trying to fix ΔR < 0.4... not clear how to bailing...
 
+Trying to work on nested clusterings...
 
 
 
