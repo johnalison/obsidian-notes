@@ -3,7 +3,7 @@ The jet declustering algorithm allows for some discernment between ISR and FSR j
 
 
 Example with 4bs + 1 non-bjets
-![[Pasted image 20240715123936.png]]
+![[Jet Declustering ISR and FSR.png]]
 
 ## Links: 
 [[Jet DeClustering]]

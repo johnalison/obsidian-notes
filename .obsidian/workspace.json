@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1b2696f4b89a5402",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Journal/22 July 24 Mon.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "cb55a85a1fbaa174",
             "type": "leaf",
             "state": {
@@ -37,19 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/23 July 24 Tue.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "885e8c4026bb32cd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Journal/23 July 24 Tue.md",
+                "file": "Input/Books/PythonTutorial.md",
                 "mode": "source",
                 "source": false
               }
@@ -68,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "PSC",
+                "query": "pip ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,7 +90,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -134,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/23 July 24 Tue.md",
+                "file": "Input/Books/PythonTutorial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/23 July 24 Tue.md",
+                "file": "Input/Books/PythonTutorial.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/23 July 24 Tue.md"
+                "file": "Input/Books/PythonTutorial.md"
               }
             }
           }
@@ -199,51 +176,53 @@
   },
   "active": "ac9a8d4f5f0614f2",
   "lastOpenFiles": [
-    "0-inbox/Setup M3 Macbook.md",
-    "Journal/23 July 24 Tue.md",
-    "Journal/24 July 24 Wed.md",
-    "Input/Meetings/SindhuChat 15 July 2024.md",
-    "Input/Meetings/Stats Chat 18 July 2024.md",
-    "Input/Meetings/StatsChat-10-July-24.md",
-    "1-projects/Mixed2.0/Script to check reclustered splittings.md",
-    "Journal/22 July 24 Mon.md",
-    "Journal/BulletJournalProtocol.md",
-    "Input/Meetings/HHbbWW 24 July 2024.md",
-    "Input/Meetings/HGCManagementMeeting 23 July 2024.md",
-    "3-resources/computing/RunROOTwithDocker.md",
-    "3-resources/computing/ROOTInstall.md",
-    "3-resources/computing/PythonVirtualEnvironment.md",
-    "3-resources/computing/FormattingInMarkdown.md",
-    "3-resources/computing/DockerSetup.md",
-    "3-resources/Obsidian/Tables-in-Markdown.md",
-    "2-areas/CMS/CompileCMSPapers.md",
-    "00-Zettelkasten/Paying-Attention-And-Live-Without-Regret.md",
-    "00-Zettelkasten/Memento Mori-index.md",
-    "00-Zettelkasten/Meaning-is-linked-to-attention.md",
-    "00-Zettelkasten/Live-As-Though-You-Have-A-Terminal-Disease.md",
-    "0-inbox/Silicon Modules and MACs Meeting 24 July 2024.md",
-    "conflict-files-obsidian-git.md",
-    "Journal/12 July 24 Fri.md",
-    "3-resources/computing/PSC Bridges.md",
+    "1-projects/Mixed2.0/mixed2.0.md",
+    "Input/Books/PythonTutorial.md",
+    "attachments/bj Pt problem.png",
+    "attachments/Pasted image 20240726154559.png",
+    "attachments/Pasted image 20240726091858.png",
+    "attachments/Pasted image 20240726092723.png",
+    "attachments/Pasted image 20240722103340.png",
+    "attachments/Pasted image 20240722103331.png",
+    "attachments/Pasted image 20240722103320.png",
+    "attachments/Pasted image 20240722103302.png",
+    "attachments/Pasted image 20240715154921.png",
+    "attachments/Pasted image 20240714224532.png",
+    "attachments",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "Output/Scott Thoughts.md",
+    "Journal/January 2021.md",
+    "Journal/26 July 2024 Friday.md",
+    "Journal/25 July 2024 Thursday.md",
+    "Journal/24 July 2024 Wednesday.md",
+    "Journal/23 July 24 Tuesday.md",
+    "Journal/22 July 24 Monday.md",
+    "Journal/21 July 24 Sunday.md",
+    "Journal/2024-07-24.md",
+    "Journal/2020/November 2020.md",
+    "Journal/2020/December 2020.md",
+    "Journal/2020",
+    "Journal/20 July 24 Saturday.md",
+    "Journal/19 July 24 Friday.md",
+    "Journal/18 July 24 Thursday.md",
+    "Journal/17 July 24 Wednesday.md",
+    "Journal/16 July 24 Tuesday.md",
+    "Journal/15 July 24 Monday.md",
+    "Journal/14 July 24 Sunday.md",
+    "Journal/13 July 24 Saturday.md",
+    "Journal/12 July 24 Friday.md",
+    "Journal/11 July 24 Thursday.md",
+    "Journal/10 July 24 Wednesday.md",
+    "Journal/#January 2021.md#",
+    "Input/Meetings/bbWW Meeting 25 July 2024.md",
+    "Input/Meetings/Silicon Modules and MACs Meeting 24 July 2024.md",
+    "0-inbox/attachments",
+    "0-inbox/#Setup M3 Macbook.md#",
     "2-areas/Personal",
-    "Pasted image 20240722103340.png",
-    "Pasted image 20240722103331.png",
-    "Pasted image 20240722103320.png",
-    "Pasted image 20240722103302.png",
     "1-projects/4b Resonant",
     "Journal/#July 2024.md#",
     "Chat w",
-    "Output/CAM",
-    "0-inbox/#Tables-in-Markup.md#",
-    "Input/Books/#ExtremeOwnership.md#",
-    "Pasted image 20240715154921.png",
-    "Pasted image 20240715123936.png",
-    "Pasted image 20240714224532.png",
-    "PGSS",
-    "4-archive/HIG-22-011",
-    "2-areas/Outreach",
-    "Pasted image 20240707142114.png",
-    "Untitled.canvas",
-    "Untitled 1.canvas"
+    "Output/CAM"
   ]
 }

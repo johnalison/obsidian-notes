@@ -24,7 +24,7 @@ Getting the new mixing going
 
 
 ## To Do: 
-- [ ] Check ΔRs
+- [ ] Check ΔRs (HARD!)
 - [ ] Compare synthetic vs nominal
 	- [ ] 4b + 0j
 	- [ ] 4b + 1j
@@ -41,10 +41,15 @@ Getting the new mixing going
 - [ ] Fix the extra jet treatment (for now copy jets < 40 and add new jets)
 - [ ] update recursion to only check if bjet pt > 40 GeV
 - [ ] [[ResamplingBug]]
+- [x] Add a dR AB > 0.4 check
+- [ ] Why is bj_pt so off after the recluster (Is it the Δr ?)
+- [ ] [[bj pt mismodeling]]
+- [x] Do mass based on jet flavor ?  (mA vs mB in pt bins?)
+- [ ] use jet_flavor when declustering (eg: part_A is b in bj / or has the larger combination ect) 
 
-  
-# Bugs
-
+# Template Fixes
+- [x]  mA_vs_pT -> 100 bins
+- [ ] b(bj) mB -> mB_l
 
 
 
@@ -54,12 +59,18 @@ Getting the new mixing going
 [[CMS]]
 [[physics]]
 [[ABCDMethod]]
+[[Jet DeClustering]]
 
 
 # Work:
 [[script to compare the splittings]]
 [[Script to check reclustered splittings]]
 
+
+# Performance
+
+decluster and cluster
+**32m30.007s**. 25 July 2024 
 
 
 202407091049

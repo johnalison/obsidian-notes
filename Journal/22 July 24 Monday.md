@@ -32,12 +32,12 @@ ex
  - [x] Get new computer
  - [> ]  Receipts for Teachers program
  - [x]  Start Lab Repo for code
- - [ ]  4b
-	 - [ ] Check splitting
-	 - [ ] other jets
+ - [> ]  4b
+	 - [> ] Check splitting
+	 - [> ] other jets
  - [> ] Reciept for Lunch
  - [x] Send Diana the outreach git link
- - [ ] write up S/sqrt(B) argument
+ - [> ] write up S/sqrt(B) argument
  - [> ] Clean up old MAC book
 
 

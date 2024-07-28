@@ -6,6 +6,8 @@ Having proper goals explains how people can be poor and happy.
 ## Links: 
 
 [[Happiness]]
+[[AmorFati]]
+
 
 
 202407132107
