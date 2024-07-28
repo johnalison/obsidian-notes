@@ -1,12 +1,5 @@
 
 
-# To Do
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-
-
 # Log
 
 Up at 8
@@ -48,6 +41,8 @@ Some [[Senecaf-Letters-from-a-Stoic]]
 Start [[BlackSwan]]
 
 Some [[AmorFati]]
+
+[[Larry McEnerney analyses the Gettysburg Address]]
 
 
 
