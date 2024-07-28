@@ -2,7 +2,7 @@ Want estimate to be same factor away from upper and lower bounds
  => use geometric means
     <x> = (xL xH)^1/2
 Approximate geometric means by averaging coefficient and exponents
-- Geometric mean c = sqrt(ab) ~
+- Geometric mean c = sqrt(ab) ~ (a+b)/2 x 10 ^(alpha + beta) /2
 - 10^(1/2) = sqrt(10) ~ 3
 
 

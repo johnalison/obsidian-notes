@@ -3,7 +3,7 @@ You don't need a reason to be happy, or tranquil. You know what it,s like to be 
 
 ## Links: 
 
-[[BeTheGood]]
+[[BeTheGood - Intelligent ACTION is power]]
 [[Be-Happy-Cannot-Become-Happy]]
 
 

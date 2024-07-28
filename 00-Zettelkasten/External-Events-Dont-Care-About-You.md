@@ -3,7 +3,7 @@ It is pointless to get upset about external events. They happened, because they 
 
 ## Links: 
 
-[[Amor-Fati]]
+[[00-Zettelkasten/AmorFati]]
 [[RespondDontReact]]
 [[Goals-must-be-in-your-control]]
 

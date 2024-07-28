@@ -4,7 +4,7 @@ If something happens in a way that you don't want it to: change your want.  Its 
 ## Links: 
 
 [[Acquiesce]]
-[[Amor-Fati]]
+[[00-Zettelkasten/AmorFati]]
 [[Tactics]]
 
 

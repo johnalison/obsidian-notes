@@ -29,11 +29,13 @@ effective self-improvement critical
 # Don't Lie
  Evil only possible through lies
 
-# Be the good:  Intelligent ACTION is power
+# [[BeTheGood - Intelligent ACTION is power]]
+
 * [[Action-not-knowledge]]
 	[[DeserveWhatYouWant]]
 	[[Action-Now]]
 	[[Be-better-through-emulation]]
+
 
 [[Go-first-go-positive]]
 
@@ -43,7 +45,10 @@ effective self-improvement critical
 
 [[You-set-your-standards]]
 
-# [[Amor-Fati]]
+[[Not-Done-becasue-Not-Tried]]
+
+
+# [[AmorFati]]
 
 [[External-Events-Dont-Care-About-You]]
 [[The Art of Acquiesce]]
@@ -88,5 +93,6 @@ effective self-improvement critical
 [[Metric-of-success]]
 
 [[Nothing-is-almost-like-having-it-all]]
+[[Be-Rich-by-Wanting-Less]]
 
 202407182008

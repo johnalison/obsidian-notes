@@ -6,7 +6,7 @@ Why is this hard to do ?
 
 ## Links: 
 [[Tactics]]
-[[BeTheGood]]
+[[BeTheGood - Intelligent ACTION is power]]
 
 
 202407211634

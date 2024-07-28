@@ -61,7 +61,7 @@
 
 - Educations tells us that it is enough to build up the information base and that action is then easy. It is not. The skills of action are every bit as important as the skills of knowledge. That this is not recognized in education is a tragedy. Operacy should rand alongside literacy and numeracy as a major aim of education.  
 
-  [[BeTheGood]] [[ShouldTeachKids]] [[UnpopularTruth]] [[DefaultAggressive]]
+  [[BeTheGood - Intelligent ACTION is power]] [[ShouldTeachKids]] [[UnpopularTruth]] [[DefaultAggressive]]
 
 - Plans are almost always wrong because they have to be based on the present state and the extrapolation of present trends. This fallibility of plans is not a reason to ignore them but a warning that they should not be made inflexible. Planning for flexibility and uncertainty is important.
 

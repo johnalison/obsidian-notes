@@ -24,11 +24,11 @@
 
 - We never look at projections, but we care very much about, and look very deeply at, track records. If a company has a lousy track record and a very bright future, we will miss the opportunity. - Warren Buffet
 
-[[BeTheGood]]
+[[BeTheGood - Intelligent ACTION is power]]
 
 - Bad news that is true is better than good news that is wrong.
 
-- The task of man is not to see what lies dimly in the distance, but to do what lies clearly at hand. [[BeTheGood]]
+- The task of man is not to see what lies dimly in the distance, but to do what lies clearly at hand. [[BeTheGood - Intelligent ACTION is power]]
 
 - Obviously, you look ahead as far as you can. But thats not very far. But if you respond intelligently and diligently to the challenges before you, we think you'll tend to end up with a pretty good institution.
 
@@ -38,7 +38,7 @@
 
 [[UnpopularTruth]]
 
-- Predicting rain doesn't count, building arks does. [[BeTheGood]]
+- Predicting rain doesn't count, building arks does. [[BeTheGood - Intelligent ACTION is power]]
 
 - All mental pleasure consists in being able to compare oneself with others to ones own advantage.
 

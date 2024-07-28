@@ -4,7 +4,7 @@
  
 - "The ability to deal with people is as purchasable a commodity as sugar or coffee. And I will pay more for that ability than for any other under the sun" John D Rockefeller. [[Leadership]]
 
-- "The great aim of education is not knowledge, but action" Herbert Spencer. And this is an action book. [[BeTheGood]]
+- "The great aim of education is not knowledge, but action" Herbert Spencer. And this is an action book. [[BeTheGood - Intelligent ACTION is power]]
 
 - My popularity, my happiness and sense of worth depend to no small extent upon my skill in dealing with people. [[Happiness]]
 
@@ -36,7 +36,7 @@
 
 - Be anxious to praise, loath to find fault. If you like anything "Be hearty in your approbation and lavish in your praise" [[Checklists]]
 
-- I shall pass this way only once; any good, therefore that I can do or any kindness that I can show to any human being, let me do it now. Let me not defer nor neglect it, for I shall not pass this way again. [[BeTheGood]]
+- I shall pass this way only once; any good, therefore that I can do or any kindness that I can show to any human being, let me do it now. Let me not defer nor neglect it, for I shall not pass this way again. [[BeTheGood - Intelligent ACTION is power]]
 
 - Every man you meet is superior in some say,  In that, learn from him.  [[MentalModels]] [[Rationality]] [[Montras]] 
 
@@ -75,7 +75,7 @@
 
 - I have also eliminated criticism from my system. I give appreciation and praise now instead of condemnation. I have stopped talking about what I want. I am now trying to see the other person's viewpoint. And these things have literally revolutionized my life. [[Rules]] [[Rationality]] [[Advice]]
 
-- Action seems to follow feeling, but really action and feeling go together; and by regulating the action, which is under the more direct control of the will, we can indirectly regulate the feeling, which is not. Thus the sovereign voluntary path to cheerfulness, if our cheerfulness be lost, is to sit up cheerfully and to act and speak as if cheerfulness were already there. [[BeTheGood]]
+- Action seems to follow feeling, but really action and feeling go together; and by regulating the action, which is under the more direct control of the will, we can indirectly regulate the feeling, which is not. Thus the sovereign voluntary path to cheerfulness, if our cheerfulness be lost, is to sit up cheerfully and to act and speak as if cheerfulness were already there. [[BeTheGood - Intelligent ACTION is power]]
 
 - Everybody in the world is seeking happiness -- and there is one sure way to find it. That is by controlling your thoughts. Happiness doesn't depend on outward conditions. It depends on inner conditions.  [[Happiness]]
 
@@ -175,7 +175,7 @@
 
 - People dont want to change their minds. They cant be forced or driven to agree with you. But they may possibly be lead to. [[Rationality]]
 
-- Begin in a friendly way. [[BeTheGood]]
+- Begin in a friendly way. [[BeTheGood - Intelligent ACTION is power]]
 
 - In talking with people, dont begin by discussing the things on which you differ. Begin by emphasizing and keeping on emphasizing -- the things on which you agree.
    - The skillful speaker gets, at the outset, a number of "Yes" responses.

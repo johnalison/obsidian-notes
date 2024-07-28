@@ -86,6 +86,7 @@ Index:
 # Productivity 
 [[Most-of-what-we-do-is-unnecessary]]
 
+[[Writing-for-yourself-vs-for-readers]]
 
 
 

@@ -63,8 +63,12 @@ Writting up old notebooks
 
 # Got H 
 
-# happy Hour
+# Happy Hour
 * Connor and Tony join.
+
+Hang out at the social 
+
+Home
 
 
 

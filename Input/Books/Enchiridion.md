@@ -20,7 +20,7 @@
 - Everything has two handles, the one by which it may be used and the other by which it may not.
 
 - On no occasion call yourself of a philosopher, and do not speak much among the uninstructed about theorems, but do that which follows form them.
-  (at a banquet dont say how a man ought to eat, but eat as you ought to.) [[BeTheGood]]
+  (at a banquet dont say how a man ought to eat, but eat as you ought to.) [[BeTheGood - Intelligent ACTION is power]]
 
   If a philosophical discussion should arise among uninstructed persons, generally be silent.
   There is great danger that you will immediately vomit up what you have not digested.

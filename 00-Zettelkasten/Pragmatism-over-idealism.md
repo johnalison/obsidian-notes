@@ -3,7 +3,7 @@ For action always to choose pragmatism over idealism.  Idealism can be useful in
 
 ## Links: 
 
-[[BeTheGood]]
+[[BeTheGood - Intelligent ACTION is power]]
 
 
 202407131409

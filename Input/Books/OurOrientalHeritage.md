@@ -264,7 +264,7 @@
 - The foundation of character is sincerity. He acts before he speaks and afterwards speaks according to his actions.
   He is modest in his speech but exceeds in his actions. He seldom speaks; when he does he is sure to hit the point.
 
-  [[BeTheGood]]
+  [[BeTheGood - Intelligent ACTION is power]]
 
 - Is there one word which may serve as a rule of practice for all ones life?  Yes, reciprocity.
 
