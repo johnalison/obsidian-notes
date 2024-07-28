@@ -1,7 +1,5 @@
 https://www.youtube.com/watch?v=vtIzMaLkCaM
 
-#Consume
-
 Outstanding! 
 
 The writing you do in school is not real writing.
@@ -71,7 +69,7 @@ Your witting should help a particular set of readers better understand something
 Create tension and Instability: 
  eg: anomoly, inconsistent, but, however, although
  
- Open with the problem for specifi set of readers, them ove to solution. The readers need to see the problem and the solution.
+ Open with the problem for specific set of readers, then move to solution. The readers need to see the problem and the solution.
  
  
 

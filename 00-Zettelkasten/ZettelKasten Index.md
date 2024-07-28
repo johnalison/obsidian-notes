@@ -1,4 +1,4 @@
-
+	
 
 [[Lists]]
 
@@ -89,7 +89,10 @@ Index:
 [[Writing-for-yourself-vs-for-readers]]
 
 
+# Libertarianism 
+[[Libertarianism-is-bottom-up]]
+[[Top down societal organization is impossible]]
 
-
+[[Libertarianism-optimal-under-uncertianty]]
 
 
