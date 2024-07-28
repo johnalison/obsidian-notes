@@ -46,6 +46,12 @@ Dont want to save presentations in git ! Too large (backups should be enough!)
 
 Lots of [[Setup M3 Macbook]]
 
+
+# Hoops 
+Lots of good runs
+
+More MAC setup.  Trying to get keyboard layout right.
+
 [[HGCManagementMeeting 23 July 2024]]
 
 Chat with Scott will leave in September
@@ -72,6 +78,7 @@ Running ROOT in a container
 Trying to [[RunROOTwithDocker]]
 
 Some [[MomentoMori]]
+
 
 
 

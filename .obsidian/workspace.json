@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "0a1cca430486bbfb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "43c12330460c0756",
             "type": "leaf",
             "state": {
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-resources/Obsidian/Ideas-for-emacs-Obsidian.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-resources/Obsidian/Ideas-for-emacs-Obsidian.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-resources/Obsidian/Ideas-for-emacs-Obsidian.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -160,8 +173,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "da981df6d381f38a",
+  "active": "0a1cca430486bbfb",
   "lastOpenFiles": [
+    "3-resources/Obsidian/Ideas-for-emacs-Obsidian.md",
+    "conflict-files-obsidian-git.md",
+    "3-resources/computing/BitWardenCISetup.md",
     "00-Zettelkasten/ZettelKasten Index.md",
     "00-Zettelkasten/BeTheGood - Intelligent ACTION is power.md",
     "00-Zettelkasten/Wisdom-index.md",
@@ -190,10 +206,7 @@
     "Journal/March 2021.md",
     "Journal/#March 2021.md#",
     "4-archive/HIG-22-011/#HIG-22-011.md#",
-    "00-Zettelkasten/Writing-for-yourself-vs-for-readers.md",
     "Journal/#February 2021.md#",
-    "Journal/January 2021.md",
-    "Journal/2024-07-24.md",
     "Journal/#January 2021.md#",
     "attachments/Pasted image 20240726154559.png",
     "Untitled.canvas",
