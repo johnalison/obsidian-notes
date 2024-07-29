@@ -52,3 +52,10 @@ LPC very slow today... trying another node 330  (was 334)
 
 Chat with Tony re: quantum information 
 
+Debugging b(bj) splittings
+
+# Gym/Steamroom
+- core / front squat / pullup/ 95lb calf raises
+- 10' at Tmax = 122
+
+
