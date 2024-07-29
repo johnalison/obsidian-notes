@@ -35,7 +35,7 @@ ex:
 - [ ] write up S/sqrt(B) argument
 - [ ] CAM training
 - [ ] Sura Grades mail: "99-270 SURA Final Grades Due August 5"
-- [ ] Send Berman Jet splitting data bb 0jet
+- [x] Send Berman Jet splitting data bb 0jet
 
 
 # Log
@@ -71,6 +71,7 @@ Writting out jet_splitting inputs for Berman
 
 [[Preparing Fermilab to Carry Out the P5 Plan]]
 
+Sent Berman input data for splittings_bb
 
 
 
