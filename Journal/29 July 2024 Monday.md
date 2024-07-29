@@ -35,7 +35,7 @@ ex:
 - [ ] write up S/sqrt(B) argument
 - [ ] CAM training
 - [ ] Sura Grades mail: "99-270 SURA Final Grades Due August 5"
-- [ ] 
+- [ ] Send Berman Jet splitting data bb 0jet
 
 
 # Log
@@ -47,3 +47,5 @@ M and T to school
 [[mixed2.0]]
 
 LPC very slow today... trying another node 330  (was 334)
+
+[[Chat Chris Berman SURF 29 July 2024]]
