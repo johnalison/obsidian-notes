@@ -76,7 +76,7 @@ Index:
 # Crypto
 
 [[Problem-with-market-cap]]
-* 
+
 
 # AI
 

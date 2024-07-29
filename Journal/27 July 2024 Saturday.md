@@ -22,16 +22,10 @@ T to sleep.
 - 3 intervals: pace 
 - 10 min at Tmax = 119 (very hard!)
 
-#Consume 
-Some thoughts on Libertarianism:
-- Sensible if you dont knwo the answer (could be fallible )
-- 
-
 #Consume
 Is looking at things through the lens of not having free will useful?
-- YEs for prison reform / Your attitudes toward others.
+- Yes for prison reform / Your attitudes toward others.
 - Should try this. Does a habit/practice make sense in a world with/w/o free will ?
-
 
 Pick up H from Emersons 
 
