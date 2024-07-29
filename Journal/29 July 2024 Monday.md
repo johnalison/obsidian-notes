@@ -49,3 +49,6 @@ M and T to school
 LPC very slow today... trying another node 330  (was 334)
 
 [[Chat Chris Berman SURF 29 July 2024]]
+
+Chat with Tony re: quantum information 
+
