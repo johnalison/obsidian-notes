@@ -58,4 +58,6 @@ Debugging b(bj) splittings
 - core / front squat / pullup/ 95lb calf raises
 - 10' at Tmax = 122
 
+[[Chat with Marc Dandin 29 July 2024]]
+
 
