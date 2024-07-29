@@ -74,11 +74,11 @@ Chat with AE. Back in two weeks
 Working 4b 
 
 # Whiskey with Fenguei and Simran
-- Simran agrees with powwow with scott/
+- Simran agrees with powwow with scott
 - Scott told Simram
 
 # Giant Eagle with H
-- They are getting rid of the mix and match!
+- They are getting rid of the mix and match beers !
 
 Home. 
 

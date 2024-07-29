@@ -32,8 +32,6 @@ ex:
  - [> ] Receipts for Teachers program
  - [> ] Receipt for Lunch
  - [x] Clean up old MAC book
- - [ ]  
-
 
 
 # Log
@@ -71,7 +69,7 @@ Can compile HIG-22-011 in a container
 
 Walk M&T home. 
 
-Running ROOT in a container
+Running ROOT in a container.. not working with xcode.
 
 [[FormattingInMarkdown]]
 

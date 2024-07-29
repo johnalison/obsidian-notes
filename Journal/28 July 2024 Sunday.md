@@ -10,10 +10,7 @@ Some [[BlackSwan]]
 
 [[Advice to High-School Students interesting in physics]]
 
-
-#Consume 
-  Can you define a good action in absense of free will:
-    - Long-term benifit to rational beings?
+[[How-to-define-good-action-if-no-free-will]]
 
 There is also an empirical basis for Libertarianism 
 
@@ -25,5 +22,5 @@ There is also an empirical basis for Libertarianism
 
 Some [[Seneca-Letters-from-a-Stoic]]
 
-
+Some Notes
 
