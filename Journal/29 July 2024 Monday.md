@@ -45,3 +45,5 @@ Up at 7
 M and T to school
 
 [[mixed2.0]]
+
+LPC very slow today... trying another node 330  (was 334)
