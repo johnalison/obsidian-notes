@@ -60,4 +60,11 @@ Debugging b(bj) splittings
 
 [[Chat with Marc Dandin 29 July 2024]]
 
+More 4b,
+	- Testing the PDFs vs pt
+
+[[ChatwAniket 29 July 2024]]
+
+
+
 
