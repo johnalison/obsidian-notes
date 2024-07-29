@@ -43,7 +43,7 @@
 - [x] ROOT for old 4b code
 	- [x] install cmake `brew install cmake`
 - [x] Matter most
-- [ ] Skype 
+- [x] Skype 
 - [x] Dropbox Use Web
 - [x] Google Drive
 

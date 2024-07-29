@@ -22,7 +22,7 @@
 W: 7 
 DW: 5
 OT:  5
-ex:
+
 
 # The ONE thing: 
 - [ ] 4b mixed 2.0

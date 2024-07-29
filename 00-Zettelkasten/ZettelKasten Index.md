@@ -95,4 +95,9 @@ Index:
 
 [[Libertarianism-optimal-under-uncertianty]]
 
+[[Libertarianism]]
+[[Libertarianism-more-effective-in-complicated-societies]]
 
+
+# Free Will
+[[Free-Will-Lens-As-Mental-Model]]

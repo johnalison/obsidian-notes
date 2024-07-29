@@ -19,10 +19,10 @@
 | 4   |     |     |
 |     |     |     |
 
-W:
-DW:
-OT: 
-ex:
+**W:**
+**DW:**
+**OT:**
+**ex or ~~ex~~**
 
 # The ONE thing: 
 - [ ] 

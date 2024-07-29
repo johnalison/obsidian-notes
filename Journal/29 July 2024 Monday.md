@@ -1,28 +1,28 @@
 # Timeblock
 
-|     |             |     |
-| --- | ----------- | --- |
-| 9   | setup       |     |
-|     | mixed 2.0   |     |
-| 10  | Berman      |     |
-|     | Berman      |     |
-| 11  | mixed 2.0   |     |
-|     | mixed 2.0   |     |
-| 12  | Gym         |     |
-|     | Gym         |     |
-| 1   | Gym         |     |
-|     | mixed 2.0   |     |
-| 2   | Marc Dandin |     |
-|     | Marc Dandin |     |
-| 3   | Aniket      |     |
-|     | mixed 2.0   |     |
-| 4   | Berman      |     |
-|     | notebooks   |     |
+|     |                      |     |
+| --- | -------------------- | --- |
+| 9   | setup                |     |
+|     | mixed 2.0            |     |
+| 10  | Berman               |     |
+|     | Berman               |     |
+| 11  | mixed 2.0            |     |
+|     | mixed 2.0            |     |
+| 12  | Gym                  |     |
+|     | Gym                  |     |
+| 1   | Gym                  |     |
+|     | mixed 2.0            |     |
+| 2   | Marc Dandin          |     |
+|     | Marc Dandin          |     |
+| 3   | Aniket               |     |
+|     | mixed 2.0            |     |
+| 4   | mixed 2.0 for Berman |     |
+|     | mixed 2.0 for Berman |     |
 
-W:
-DW:
-OT: 
-ex:
+**W:** 7 
+**DW:** 3 
+**OT:** 4
+**ex:**
 
 # The ONE thing: 
 - [ ] mixed 2.0
@@ -73,6 +73,8 @@ Writting out jet_splitting inputs for Berman
 
 Sent Berman input data for splittings_bb
 
+Home with Kids
 
+Writing up [[Libertarianism-A-primer]]
 
 
