@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/ChatwAniket 29 July 2024.md",
+                "file": "Journal/29 July 2024 Monday.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/ChatwAniket 29 July 2024.md",
+                "file": "Journal/29 July 2024 Monday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/ChatwAniket 29 July 2024.md",
+                "file": "Journal/29 July 2024 Monday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/ChatwAniket 29 July 2024.md"
+                "file": "Journal/29 July 2024 Monday.md"
               }
             }
           }
@@ -164,8 +164,8 @@
   },
   "active": "b848a1d26b1f1c06",
   "lastOpenFiles": [
+    "Input/Meetings/ChatwAniket 29 July 2024.md",
     "Journal/29 July 2024 Monday.md",
-    "0-inbox/ChatwAniket 29 July 2024.md",
     "1-projects/Mixed2.0/mixed2.0.md",
     "Input/Meetings/Chat with Marc Dandin 29 July 2024.md",
     "Input/Meetings/Chat Chris Berman SURF 29 July 2024.md",
