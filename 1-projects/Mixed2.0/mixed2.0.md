@@ -48,6 +48,8 @@ Getting the new mixing going
 - [ ] use jet_flavor when declustering (eg: part_A is b in bj / or has the larger combination ect) 
 - [x] fix mB in b(bj) 
 - [ ] [[bj splitting mismodelings]]
+- [ ] [[6 jet clean ISR bugs]]
+- [ ] 
 
 
 
