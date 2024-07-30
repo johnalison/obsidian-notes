@@ -52,3 +52,9 @@ Wes in on daq shift (with a trainee) today so cannot meet
 
 [[Matteo Cremonesi reappointment Letter]]
 
+Can run just one test case at a time with:
+```python
+python -m unittest jet_clustering.tests.test_clustering.clusteringTestCase.test_synthetic_datasets_bbjjets
+```
+
+
