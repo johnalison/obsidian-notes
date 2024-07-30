@@ -8,11 +8,11 @@
 |     | jet splitting   |     |
 | 11  | jet splitting   |     |
 |     | jet splitting   |     |
-| 12  | Gym             |     |
+| 12  | jet splitting   |     |
 |     | Gym             |     |
 | 1   | Gym             |     |
-|     | jet splitting   |     |
-| 2   | jet splitting   |     |
+|     | Gym             |     |
+| 2   | Gym             |     |
 |     | jet splitting   |     |
 | 3   | Jeremey Meeting |     |
 |     | Jeremey Meeting |     |
@@ -22,7 +22,7 @@
 **W:**
 **DW:**
 **OT:**
-**ex or ~~ex~~**
+**ex**
 
 # The ONE thing: 
 - [ ] mixed 4b
@@ -60,4 +60,14 @@ Adding b(bj) test to the jet_clustering test script.
 
 # Found the b(bj) bug!  
 was not assigning jet_flavor correctly when declustering.
+
+# Hoops 
+3s and then a lots of 4s 
+
+More 4b: Comparing the synthetic data sets in different jet bins.
+
+[[HGCManagementMeeting 30 July 2024]]
+
+[[Images in Obsidian]]
+
 

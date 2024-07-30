@@ -26,8 +26,8 @@ Getting the new mixing going
 ## To Do: 
 - [ ] Check ΔRs (HARD!)
 - [ ] Compare synthetic vs nominal
-	- [ ] 4b + 0j
-	- [ ] 4b + 1j
+	- [x] 4b + 0j
+	- [x] 4b + 1j
 	- [ ] 4b + >1j
 - [x] Run jet multiplicities together / Plots separate 
 - [ ] Recursive ISR removal (Needed for 4b + >1j)
@@ -48,7 +48,9 @@ Getting the new mixing going
 - [ ] use jet_flavor when declustering (eg: part_A is b in bj / or has the larger combination ect) 
 - [x] fix mB in b(bj) 
 - [ ] [[bj splitting mismodelings]]
-- [ ] 
+
+
+
 # Template Fixes
 - [x]  mA_vs_pT -> 100 bins
 - [x] b(bj) mB -> mB_l
@@ -67,6 +69,8 @@ Getting the new mixing going
 # Work:
 [[script to compare the splittings]]
 [[Script to check reclustered splittings]]
+[[Script to compare synthetic and nominal datasets]]
+
 
 
 # Performance

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/30 July 2024 Tuesday.md",
+                "file": "0-inbox/Images in Obsidian.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,69 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/bj splitting mismodelings.md",
+                "file": "1-projects/Mixed2.0/mixed2.0.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "3d882015b3cb8d8f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3-resources/Obsidian/obsidian.md",
+                "mode": "source",
+                "source": false
+              }
+            },
+            "group": "f65c7e1b865a69c2"
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "dd4cbea2be424ea9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "872aa688fec9a395",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "3-resources/Obsidian/obsidian.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              }
+            },
+            "group": "f65c7e1b865a69c2"
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -51,7 +106,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "unittest",
+                "query": "obsidian",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/bj splitting mismodelings.md",
+                "file": "1-projects/Mixed2.0/mixed2.0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/bj splitting mismodelings.md",
+                "file": "1-projects/Mixed2.0/mixed2.0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/bj splitting mismodelings.md"
+                "file": "1-projects/Mixed2.0/mixed2.0.md"
               }
             }
           }
@@ -163,12 +218,19 @@
   },
   "active": "6905d1ea973deaaf",
   "lastOpenFiles": [
+    "0-inbox/bj splitting mismodelings.md",
+    "0-inbox/Images in Obsidian.md",
+    "Journal/30 July 2024 Tuesday.md",
+    "3-resources/Obsidian/obsidian.md",
+    "3-resources/Obsidian/Obsidian-Intro.md",
+    "0-inbox/HGCManagementMeeting 30 July 2024.md",
+    "1-projects/Mixed2.0/mixed2.0.md",
+    "0-inbox/Script to compare synthetic and nominal datasets.md",
+    "1-projects/Mixed2.0/script to compare the splittings.md",
+    "1-projects/Mixed2.0/Script to check reclustered splittings.md",
     "attachments/Pasted image 20240730120049.png",
     "attachments/Pasted image 20240730120040.png",
-    "1-projects/Mixed2.0/mixed2.0.md",
-    "0-inbox/bj splitting mismodelings.md",
     "1-projects/Mixed2.0/bj pt mismodeling.md",
-    "Journal/30 July 2024 Tuesday.md",
     "Input/Books/EffectivePython.md",
     "3-resources/computing/python-Unittests-tips.md",
     "0-inbox/Matteo Cremonesi reappointment Letter.md",
@@ -186,12 +248,6 @@
     "0-inbox/FreeWill.md",
     "00-Zettelkasten/How-to-define-good-action-if-no-free-will.md",
     "00-Zettelkasten/ZettelKasten Index.md",
-    "0-inbox/Senecaf-Letters-from-a-Stoic.md",
-    "Journal/27 July 2024 Saturday.md",
-    "0-inbox/Drawing 2024-07-11 14.42.16.excalidraw.md",
-    "Input/Papers/Development of the CMS detector for the CERN LHC Run 3.md",
-    "3-resources/computing/Setup M3 Macbook.md",
-    "3-resources/computing/BitWardenCISetup.md",
     "attachments/Pasted image 20240726092502.png",
     "0-inbox/Pasted image 20240726092234.png",
     "0-inbox/Pasted image 20240726092333.png",
@@ -209,7 +265,6 @@
     "Untitled 1.canvas",
     "Journal/2020",
     "attachments/bj Pt problem.png",
-    "attachments/Pasted image 20240726092723.png",
-    "attachments/Pasted image 20240726091858.png"
+    "attachments/Pasted image 20240726092723.png"
   ]
 }
