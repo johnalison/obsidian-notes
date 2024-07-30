@@ -37,57 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-resources/Obsidian/obsidian.md",
+                "file": "0-inbox/HGCManagementMeeting 30 July 2024.md",
                 "mode": "source",
                 "source": false
               }
-            },
-            "group": "f65c7e1b865a69c2"
+            }
           }
         ],
-        "currentTab": 1
-      },
-      {
-        "id": "dd4cbea2be424ea9",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "872aa688fec9a395",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "3-resources/Obsidian/obsidian.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": false
-                }
-              }
-            },
-            "group": "f65c7e1b865a69c2"
-          }
-        ]
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -153,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-projects/Mixed2.0/mixed2.0.md",
+                "file": "0-inbox/HGCManagementMeeting 30 July 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-projects/Mixed2.0/mixed2.0.md",
+                "file": "0-inbox/HGCManagementMeeting 30 July 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-projects/Mixed2.0/mixed2.0.md"
+                "file": "0-inbox/HGCManagementMeeting 30 July 2024.md"
               }
             }
           }
@@ -216,15 +173,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6905d1ea973deaaf",
+  "active": "3d882015b3cb8d8f",
   "lastOpenFiles": [
-    "0-inbox/bj splitting mismodelings.md",
-    "0-inbox/Images in Obsidian.md",
     "Journal/30 July 2024 Tuesday.md",
     "3-resources/Obsidian/obsidian.md",
+    "1-projects/Mixed2.0/mixed2.0.md",
+    "0-inbox/bj splitting mismodelings.md",
+    "0-inbox/Images in Obsidian.md",
     "3-resources/Obsidian/Obsidian-Intro.md",
     "0-inbox/HGCManagementMeeting 30 July 2024.md",
-    "1-projects/Mixed2.0/mixed2.0.md",
     "0-inbox/Script to compare synthetic and nominal datasets.md",
     "1-projects/Mixed2.0/script to compare the splittings.md",
     "1-projects/Mixed2.0/Script to check reclustered splittings.md",
