@@ -121,7 +121,9 @@ Great book. Changed the way I think.
 
 - Capitalism has produced a standard of living that earlier generations literally could not have imagined.
 
-- p214
+- The libertarian argument is not that all government spending is worthless, but that people can purchase better goods at a better price through voluntary exchanges in the marketplace than they can expect a bureaucratic monopoly to provide.
+
+- 
 
 
 ## Follow-ups

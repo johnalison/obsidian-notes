@@ -39,13 +39,14 @@ Getting the new mixing going
 - [ ] Write out picos with clustered jets (write CI)
 - [ ] Write out picos with the declustered jet (write CI)
 - [ ] Fix the extra jet treatment (for now copy jets < 40 and add new jets)
+	- [ ] Or just do splitting for all jets > 20 GeV
 - [ ] update recursion to only check if bjet pt > 40 GeV
 - [ ] [[ResamplingBug]]
 - [x] Add a dR AB > 0.4 check
-- [ ] Why is bj_pt so off after the recluster (Is it the Δr ?)
 - [ ] [[bj pt mismodeling]]
 - [x] Do mass based on jet flavor ?  (mA vs mB in pt bins?)
 - [ ] use jet_flavor when declustering (eg: part_A is b in bj / or has the larger combination ect) 
+- [ ] fix mB in b(bj) 
 
 # Template Fixes
 - [x]  mA_vs_pT -> 100 bins
