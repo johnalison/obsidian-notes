@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-projects/Mixed2.0/mixed2.0.md",
+                "file": "0-inbox/bj splitting mismodelings.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/30 July 2024 Tuesday.md",
+                "file": "0-inbox/bj splitting mismodelings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/30 July 2024 Tuesday.md",
+                "file": "0-inbox/bj splitting mismodelings.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/30 July 2024 Tuesday.md"
+                "file": "0-inbox/bj splitting mismodelings.md"
               }
             }
           }
@@ -160,12 +161,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6051c3253f034d48",
+  "active": "6905d1ea973deaaf",
   "lastOpenFiles": [
+    "attachments/Pasted image 20240730120049.png",
+    "attachments/Pasted image 20240730120040.png",
+    "1-projects/Mixed2.0/mixed2.0.md",
+    "0-inbox/bj splitting mismodelings.md",
+    "1-projects/Mixed2.0/bj pt mismodeling.md",
+    "Journal/30 July 2024 Tuesday.md",
     "Input/Books/EffectivePython.md",
     "3-resources/computing/python-Unittests-tips.md",
-    "Journal/30 July 2024 Tuesday.md",
-    "1-projects/Mixed2.0/mixed2.0.md",
     "0-inbox/Matteo Cremonesi reappointment Letter.md",
     "0-inbox/Reproducible Random Numbers.md",
     "0-inbox/Chat w Wes 30 July 2024.md",
@@ -174,7 +179,6 @@
     "Journal/9 July 24 Tue.md",
     "Journal/29 July 2024 Monday.md",
     "1-projects/Mixed2.0/ResamplingBug.md",
-    "1-projects/Mixed2.0/bj pt mismodeling.md",
     "Journal/#30 July 2024 Tuesday.md#",
     "2-areas/Philosophy/PhilosophyOfPhysics.md",
     "00-Zettelkasten/Libertarianism-more-effective-in-complicated-societies.md",
@@ -188,8 +192,6 @@
     "Input/Papers/Development of the CMS detector for the CERN LHC Run 3.md",
     "3-resources/computing/Setup M3 Macbook.md",
     "3-resources/computing/BitWardenCISetup.md",
-    "Input/Meetings/bbWW Meeting 25 July 2024.md",
-    "00-Zettelkasten/Free-Will-Lens-As-Mental-Model.md",
     "attachments/Pasted image 20240726092502.png",
     "0-inbox/Pasted image 20240726092234.png",
     "0-inbox/Pasted image 20240726092333.png",
@@ -208,7 +210,6 @@
     "Journal/2020",
     "attachments/bj Pt problem.png",
     "attachments/Pasted image 20240726092723.png",
-    "attachments/Pasted image 20240726091858.png",
-    "attachments/Pasted image 20240722103340.png"
+    "attachments/Pasted image 20240726091858.png"
   ]
 }

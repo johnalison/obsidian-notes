@@ -43,15 +43,16 @@ Getting the new mixing going
 - [ ] update recursion to only check if bjet pt > 40 GeV
 - [ ] [[ResamplingBug]]
 - [x] Add a dR AB > 0.4 check
-- [ ] [[bj pt mismodeling]]
+- [x] [[bj pt mismodeling]]
 - [x] Do mass based on jet flavor ?  (mA vs mB in pt bins?)
 - [ ] use jet_flavor when declustering (eg: part_A is b in bj / or has the larger combination ect) 
-- [ ] fix mB in b(bj) 
-
+- [x] fix mB in b(bj) 
+- [ ] [[bj splitting mismodelings]]
+- [ ] 
 # Template Fixes
 - [x]  mA_vs_pT -> 100 bins
-- [ ] b(bj) mB -> mB_l
-
+- [x] b(bj) mB -> mB_l
+- [ ] Extend range of mB 
 
 
 
