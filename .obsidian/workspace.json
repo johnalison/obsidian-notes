@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "unittest",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -162,10 +162,12 @@
   },
   "active": "6051c3253f034d48",
   "lastOpenFiles": [
-    "0-inbox/Matteo Cremonesi reappointment Letter.md",
+    "Input/Books/EffectivePython.md",
+    "3-resources/computing/python-Unittests-tips.md",
     "Journal/30 July 2024 Tuesday.md",
-    "0-inbox/Reproducible Random Numbers.md",
     "1-projects/Mixed2.0/mixed2.0.md",
+    "0-inbox/Matteo Cremonesi reappointment Letter.md",
+    "0-inbox/Reproducible Random Numbers.md",
     "0-inbox/Chat w Wes 30 July 2024.md",
     "Input/Meetings/Chat w Wes 23 July 2024.md",
     "2-areas/Mentoring/Wesley Terrill.md",
@@ -188,8 +190,6 @@
     "3-resources/computing/BitWardenCISetup.md",
     "Input/Meetings/bbWW Meeting 25 July 2024.md",
     "00-Zettelkasten/Free-Will-Lens-As-Mental-Model.md",
-    "Input/Books/Libertarianism-A-primer.md",
-    "3-resources/computing/Using sha to test if files have same content.md",
     "attachments/Pasted image 20240726092502.png",
     "0-inbox/Pasted image 20240726092234.png",
     "0-inbox/Pasted image 20240726092333.png",

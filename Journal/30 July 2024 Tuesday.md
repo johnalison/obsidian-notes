@@ -52,10 +52,12 @@ Wes in on daq shift (with a trainee) today so cannot meet
 
 [[Matteo Cremonesi reappointment Letter]]
 
-Can run just one test case at a time with:
-```python
-python -m unittest jet_clustering.tests.test_clustering.clusteringTestCase.test_synthetic_datasets_bbjjets
-```
+[[python-Unittests-tips]]
 
 Adding plots comparing the input jets to the declustered jets
+
+Adding b(bj) test to the jet_clustering test script.
+
+# Found the b(bj) bug!  
+was not assigning jet_flavor correctly when declustering.
 
