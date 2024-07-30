@@ -64,8 +64,64 @@ Great book. Changed the way I think.
 
 - To finance the Civil war, Congress aurthorized the issuing of inflationary paper money, which it declared to be "legal tender" meaning that it had to accepted in payment of debts, even if the lender had expected to be repaid in gold or silver.
 
-p120
+- In the 1930s Congress started passing broad laws and leaving the details ov lawmaking up to administrative agencies. eg: Agriculture department / FDA / FTC / EPA and countless more.
+  They now right the rules that have the force of law but were never passed by teh constitutional lawmaking authority.
+  Worse still, these agencies then interpret and enfore their own rules. 
+  
+- A government of delegated, enumerated and limited powers is the great American contribution to the development of liberty under law.
 
+- Today when a new law is proposed many libertarians look to the Bill of rights to see whether the lass will violate any constitutional rights. 
+  But we should look first to the enumerated powers to see if the federal government has been granted the power to undertake the proposed action.
+  Only if it has such a powe should we move on to ask whether it would violate any protected rights.
+
+- Credit is not a right. 
+  Demanding it as a right undermines the system of trust.
+  If reliable credit information is unavailable, interest rates will go up to cover the increased risk.
+  
+- When we shield people from the consequences of their actions, we get a society characterized not by thrift, sobriety, ect. but one indifferent to consquences.
+
+- Markets are based on consent
+
+- Price contains within it information about consumer demands and all the various factors that effect the costs of production. 
+  Instead of having to know all the details, one is presented with a simple number: the price.
+  
+- The real cost of anything is not the price in dollars; it is whatever could have been done instead with the resources used.
+
+- Unlike government, which at best takes the will of the majority (and more often acts according to pressure from a small group) and imposes it on everyone, markets use prices to let buyers and sellers freely decide what they want to do with their money.
+
+- High profits signal the need for more investment in making drugs and curing disease. 
+  The drug companies that were making the highest profits were filling the greatest gap between what consumers needed and what the market was hitherto producing.
+  (JA: True if the government is not interfering with the free market)
+  
+- In the long run, in real terms, the only price that consistently seems to rise is the price of human labor. 
+  
+- Every economist understands that rent controls produce shortages of rental housing.
+
+- The primary consequence of the minimum wage law is not an increase in the incomes of the least skilled workers but a restriction of their employment opportunities.
+
+- If you tax something you get less of it. Taxing the rewards of entrepreneurship means that we will get less entrepreneurship, less alertness to ways that resources could be shifted to serve consumers needs better.
+
+- The very notion of a "balance of trade" is misguided. Trade has to balance.
+
+- The benefit of trade is the import; the cost is the export.
+
+- Gunnar Myrdal, (Nobel Prize in Economics) write that laborsaving machines should not be introduced in underdeveloped countries b/c they "decrease the demand for labor"
+
+- One could argue that in every presidential election since 1969 (until 1994), the American people have tried to vote for smaller government, but in that time the federal budget has risen from 1e9 to 1e13.
+
+- Buchanan's "Public Choice" theory is that government doesnt just act. Some people in government act and they are subject to the same incentives as individuals in a market.
+
+- The problem with democracy (and probably why libertarians have lost) is that benefits to corruption are concentrated and the costs are diffuse.
+
+- Government doesnt have customers which can use its products or try a competitor instead, so its difficult to decide when government is doing a good job.
+
+- The great leaps in federal spending, taxation, and regulation, have occurred during wartime -- the Civil War then WWI and WWII.
+
+- You can use libertarian principles to help address real-world problems that have been caused by excessive government.
+
+- Capitalism has produced a standard of living that earlier generations literally could not have imagined.
+
+- p214
 
 
 ## Follow-ups

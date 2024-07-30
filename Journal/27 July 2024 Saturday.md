@@ -28,7 +28,7 @@ Pick up H from Emersons
 
 Aunt Lori over.
 
-Some [[Senecaf-Letters-from-a-Stoic]]
+Some [[Seneca-Letters-from-a-Stoic]]
 
 Start [[BlackSwan]]
 

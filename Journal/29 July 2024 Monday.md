@@ -22,7 +22,7 @@
 **W:** 7 
 **DW:** 3 
 **OT:** 4
-**ex:**
+**ex**
 
 # The ONE thing: 
 - [ ] mixed 2.0
@@ -76,5 +76,10 @@ Sent Berman input data for splittings_bb
 Home with Kids
 
 Writing up [[Libertarianism-A-primer]]
+
+Some [[BlackSwan]] some [[Seneca-Letters-from-a-Stoic]]
+
+
+
 
 
