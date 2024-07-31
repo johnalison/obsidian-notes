@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6051c3253f034d48",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0-inbox/Images in Obsidian.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "6905d1ea973deaaf",
             "type": "leaf",
             "state": {
@@ -37,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Input/Meetings/HGCManagementMeeting 30 July 2024.md",
+                "file": "3-resources/computing/Setup M3 Macbook.md",
                 "mode": "source",
                 "source": false
               }
@@ -63,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "obsidian",
+                "query": "setup",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/30 July 2024 Tuesday.md",
+                "file": "3-resources/computing/Setup M3 Macbook.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/30 July 2024 Tuesday.md",
+                "file": "3-resources/computing/Setup M3 Macbook.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/30 July 2024 Tuesday.md"
+                "file": "3-resources/computing/Setup M3 Macbook.md"
               }
             }
           }
@@ -173,20 +161,25 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6905d1ea973deaaf",
+  "active": "3d882015b3cb8d8f",
   "lastOpenFiles": [
+    "Journal/24 July 2024 Wednesday.md",
+    "Journal/31 July 2024 Wednesday.md",
+    "1-projects/Mixed2.0/Script to compare synthetic and nominal datasets.md",
+    "2-areas/coffea4bs/Reproducible Random Numbers.md",
+    "2-areas/coffea4bs",
+    "3-resources/Obsidian/Images in Obsidian.md",
+    "2-areas/Philosophy/FreeWill.md",
+    "1-projects/Mixed2.0/mixed2.0.md",
+    "1-projects/Mixed2.0/bj splitting mismodelings.md",
+    "0-inbox/Untitled.md",
+    "1-projects/Mixed2.0/6 jet clean ISR bugs.md",
+    "Input/Meetings/HGCManagementMeeting 30 July 2024.md",
+    "Journal/30 July 2024 Tuesday.md",
     "Input/Books/Libertarianism-A-primer.md",
     "Input/Books/#Libertarianism-A-primer.md#",
-    "Journal/30 July 2024 Tuesday.md",
-    "0-inbox/6 jet clean ISR bugs.md",
-    "0-inbox/Untitled.md",
-    "1-projects/Mixed2.0/mixed2.0.md",
-    "Input/Meetings/HGCManagementMeeting 30 July 2024.md",
     "3-resources/Obsidian/obsidian.md",
-    "0-inbox/bj splitting mismodelings.md",
-    "0-inbox/Images in Obsidian.md",
     "3-resources/Obsidian/Obsidian-Intro.md",
-    "0-inbox/Script to compare synthetic and nominal datasets.md",
     "1-projects/Mixed2.0/script to compare the splittings.md",
     "1-projects/Mixed2.0/Script to check reclustered splittings.md",
     "attachments/Pasted image 20240730120049.png",
@@ -195,16 +188,12 @@
     "Input/Books/EffectivePython.md",
     "3-resources/computing/python-Unittests-tips.md",
     "0-inbox/Matteo Cremonesi reappointment Letter.md",
-    "0-inbox/Reproducible Random Numbers.md",
     "0-inbox/Chat w Wes 30 July 2024.md",
     "Input/Meetings/Chat w Wes 23 July 2024.md",
     "2-areas/Mentoring/Wesley Terrill.md",
     "Journal/9 July 24 Tue.md",
     "Journal/29 July 2024 Monday.md",
-    "1-projects/Mixed2.0/ResamplingBug.md",
     "Journal/#30 July 2024 Tuesday.md#",
-    "2-areas/Philosophy/PhilosophyOfPhysics.md",
-    "00-Zettelkasten/Libertarianism-more-effective-in-complicated-societies.md",
     "attachments/Pasted image 20240726092502.png",
     "0-inbox/Pasted image 20240726092234.png",
     "0-inbox/Pasted image 20240726092333.png",
@@ -220,7 +209,6 @@
     "attachments/Pasted image 20240726154559.png",
     "Untitled.canvas",
     "Untitled 1.canvas",
-    "Journal/2020",
     "attachments/bj Pt problem.png",
     "attachments/Pasted image 20240726092723.png"
   ]
