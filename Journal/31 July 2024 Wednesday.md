@@ -18,3 +18,10 @@ Up at 8
 Walked H to school 
 
 Move 7k to capital one
+
+with kids
+
+Working [[mixed2.0]]
+
+Scott official announcement. 
+

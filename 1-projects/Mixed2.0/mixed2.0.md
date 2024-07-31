@@ -49,7 +49,7 @@ Getting the new mixing going
 - [x] fix mB in b(bj) 
 - [ ] [[bj splitting mismodelings]]
 - [ ] [[6 jet clean ISR bugs]]
-- [ ] 
+- [ ] plot all splittings (only use bj from b(bj) ?
 
 
 
