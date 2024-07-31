@@ -123,7 +123,60 @@ Great book. Changed the way I think.
 
 - The libertarian argument is not that all government spending is worthless, but that people can purchase better goods at a better price through voluntary exchanges in the marketplace than they can expect a bureaucratic monopoly to provide.
 
-- 
+- the basic libertarian tax policy is to reduce taxes, on everyone.
+
+- Cutting the Budget:
+  - End corporate welfare: businesses that need subsidies shouldnt exist
+  - End farm welfare: Farmers should compete in the free market place
+  - Privatize government programs and assets: 
+  
+- The single biggest federal program -- bigger than national defense -- is Social Security
+  Allowing people to put not some small fixed amount, but the entire amount of their Social Security taxes (or more) into tax-exempt retirement accounts. 
+  The potential payoff would be much better than Social security, and much more robust.
+  
+- During WWII the federal government imposed wage-and-price controls to conceal the massive inflation that it was creating by printing money. 
+  Companies came up with the idea of offering health insurance as an employee benefit not banned by the wage controls. 
+  After the war the benefit was so well established that Congress decided not to count it as part of taxable income.
+  
+- Using "health insurance" to pay for checkups and minor illnesses is like using automobile insurance to pay for gas and tune-ups.
+
+- The war on poverty and affirmative action: treated blacks not as individuals but as members of a group.
+  This has done little or nothing for poor and undereducated blacks, while causing resentment among white males, who fear they are losing college and job opportunities they deserve.
+  
+- If you're not convinced that private charity can replace government welfare, ask yourself: If you had won 100k and had to give it to charity would you just cut a check to the government?
+  Or chose a private charity?
+  
+- The most important thing states could do to reduce crime is to legalize drugs. 
+  Current policies drive prices high and make drug dealing seem the most profitable and glamorour option for inner-city youth.
+  
+- Private schools do a much better job at educating students, but most parents find it difficult to pay once for public school and again for private school.
+
+- We need to open up the 300 billion a year education industry and let the market process in.
+
+- The way to avoid the tragedy of the commons is to privatize the commons.
+
+- We lose the benefits of decentralization and experimentation when we impose one solution on the whole country.
+  No one has all the answers so no ones answers should be imposed on the whole society
+  
+- The US can no more police and plan the whole world than it can plan an national economy.
+
+- The claim of "market failure" is probably the most imnportant intellectual argument for state intervention in the market. 
+
+- When the government runs the provision of important goods we encounter many problems 
+	- Lack of real market signals
+	- absences of incentives
+	- decision-making dominated by special intrests and political influence
+
+
+- It is usually assumed that government steps in to provide a service when the private sector fails to supply it. 
+  Even if that were true, why should people be taxed to supply a service that they werent willing to pay for?
+  
+- When a service is transfered from the market to the government, its provision is no longer directly responsive to the consumers, it begins to reflect the preferences of the providers not the customers.
+  Reciepients of government services can influence them only through the cumbersome and indirect political process rather than the much more efficient process of choosing among competing providers.
+  
+- 40% of of big city public school teachers send their children to private schools.
+
+
 
 
 ## Follow-ups
