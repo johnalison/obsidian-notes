@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/30 July 2024 Tuesday.md",
+                "file": "Journal/31 July 2024 Wednesday.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-resources/computing/Setup M3 Macbook.md",
+                "file": "Journal/31 July 2024 Wednesday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-resources/computing/Setup M3 Macbook.md",
+                "file": "Journal/31 July 2024 Wednesday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-resources/computing/Setup M3 Macbook.md"
+                "file": "Journal/31 July 2024 Wednesday.md"
               }
             }
           }
@@ -161,8 +160,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3d882015b3cb8d8f",
+  "active": "6905d1ea973deaaf",
   "lastOpenFiles": [
+    "Journal/30 July 2024 Tuesday.md",
+    "3-resources/computing/Setup M3 Macbook.md",
     "Journal/24 July 2024 Wednesday.md",
     "Journal/31 July 2024 Wednesday.md",
     "1-projects/Mixed2.0/Script to compare synthetic and nominal datasets.md",
@@ -175,7 +176,6 @@
     "0-inbox/Untitled.md",
     "1-projects/Mixed2.0/6 jet clean ISR bugs.md",
     "Input/Meetings/HGCManagementMeeting 30 July 2024.md",
-    "Journal/30 July 2024 Tuesday.md",
     "Input/Books/Libertarianism-A-primer.md",
     "Input/Books/#Libertarianism-A-primer.md#",
     "3-resources/Obsidian/obsidian.md",
@@ -192,7 +192,6 @@
     "Input/Meetings/Chat w Wes 23 July 2024.md",
     "2-areas/Mentoring/Wesley Terrill.md",
     "Journal/9 July 24 Tue.md",
-    "Journal/29 July 2024 Monday.md",
     "Journal/#30 July 2024 Tuesday.md#",
     "attachments/Pasted image 20240726092502.png",
     "0-inbox/Pasted image 20240726092234.png",

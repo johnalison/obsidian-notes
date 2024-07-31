@@ -29,12 +29,12 @@
 
 
 # To Do
-- [ ]  4b
+- [> ]  4b
 	 - [x] Check splitting
-	 - [ ] 4b + 2j
+	 - [> ] 4b + 2j
 - [ ] write up S/sqrt(B) argument
 - [ ] CAM training
-- [ ] Sura Grades mail: "99-270 SURA Final Grades Due August 5"
+- [> ] Sura Grades mail: "99-270 SURA Final Grades Due August 5"
 
 
 # Log
