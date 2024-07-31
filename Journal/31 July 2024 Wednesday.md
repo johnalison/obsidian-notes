@@ -22,6 +22,12 @@ Move 7k to capital one
 with kids
 
 Working [[mixed2.0]]
+- got cleanISR to be able to clean more than one type
+- Weird s -> str(s) changes (maybe b/c the container changed?)
 
 Scott official announcement. 
+
+tmux on **cmslpc329**
+
+Need to start using tmux !!!
 

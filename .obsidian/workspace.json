@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-projects/Mixed2.0/mixed2.0.md",
+                "file": "Journal/31 July 2024 Wednesday.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-projects/Mixed2.0/mixed2.0.md",
+                "file": "Journal/31 July 2024 Wednesday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-projects/Mixed2.0/mixed2.0.md",
+                "file": "Journal/31 July 2024 Wednesday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-projects/Mixed2.0/mixed2.0.md"
+                "file": "Journal/31 July 2024 Wednesday.md"
               }
             }
           }
@@ -162,6 +162,7 @@
   },
   "active": "6905d1ea973deaaf",
   "lastOpenFiles": [
+    "1-projects/Mixed2.0/mixed2.0.md",
     "Journal/31 July 2024 Wednesday.md",
     "Journal/30 July 2024 Tuesday.md",
     "3-resources/computing/Setup M3 Macbook.md",
@@ -171,7 +172,6 @@
     "2-areas/coffea4bs",
     "3-resources/Obsidian/Images in Obsidian.md",
     "2-areas/Philosophy/FreeWill.md",
-    "1-projects/Mixed2.0/mixed2.0.md",
     "1-projects/Mixed2.0/bj splitting mismodelings.md",
     "0-inbox/Untitled.md",
     "1-projects/Mixed2.0/6 jet clean ISR bugs.md",
