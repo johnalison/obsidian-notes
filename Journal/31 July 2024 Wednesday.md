@@ -31,3 +31,5 @@ tmux on **cmslpc329**
 
 Need to start using tmux !!!
 
+$231,421  remaining on start up 
+
