@@ -52,3 +52,8 @@ Lots of debugging!
 - debugging particle order
 - Adding nice unit test to verify (FINDING BUGS!!!!)
 
+[[HGC Mac Meeting 1 August 2024]]
+
+[[CMUbbWW 1 August 2024]]
+
+

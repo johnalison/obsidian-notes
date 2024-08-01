@@ -45,8 +45,8 @@ Getting the new mixing going
 - [x] fix mB in b(bj) 
 - [ ] [[bj splitting mismodelings]]
 - [x] [[6 jet clean ISR bugs]]
-- [ ] clean splittings during clustering, so only plot those actually used 
-- [ ] ISR is everything but (b+x) + (b+x) splittings!!!!
+- [ ] [[clean splittings during clustering]], so only plot those actually used 
+- [x] ISR is everything but (b+x) + (b+x) splittings!!!!
 
 
 

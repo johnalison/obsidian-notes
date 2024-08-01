@@ -5,7 +5,8 @@
 Could this be a mislabeling of the jets partA should always be "b" 
 
 ## Follow-ups
-
+- Could this be a mislabeling of the jets partA should always be "b" ?
+- Could this be an issue of using both ISR and FSR templates ?(probably no b/c made before)
 
 ## Links: 
 
