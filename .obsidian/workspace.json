@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-projects/Mixed2.0/mixed2.0.md",
+                "file": "Journal/1 August 2024 Thursday.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-projects/Mixed2.0/mixed2.0.md",
+                "file": "Journal/1 August 2024 Thursday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-projects/Mixed2.0/mixed2.0.md",
+                "file": "Journal/1 August 2024 Thursday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-projects/Mixed2.0/mixed2.0.md"
+                "file": "Journal/1 August 2024 Thursday.md"
               }
             }
           }
@@ -151,8 +151,8 @@
   },
   "active": "6905d1ea973deaaf",
   "lastOpenFiles": [
-    "1-projects/Mixed2.0/6 jet clean ISR bugs.md",
     "1-projects/Mixed2.0/mixed2.0.md",
+    "1-projects/Mixed2.0/6 jet clean ISR bugs.md",
     "1-projects/Mixed2.0/bj splitting mismodelings.md",
     "Journal/1 August 2024 Thursday.md",
     "Journal/Goals.md",
