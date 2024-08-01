@@ -33,3 +33,8 @@ Need to start using tmux !!!
 
 $231,421  remaining on start up 
 
+Place limit sell order at 45.1c for Harris as president. 
+
+made signal plots for new mixing scheme (LOOKS DAMN GOOD!!!!)
+
+
