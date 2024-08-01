@@ -5,15 +5,11 @@ Getting the new mixing going
    Presents the overall idea and the 4b + 0j in 2018 data
    
 
-
-
 ## Plan
 - [x] 4b + 0j
 - [x] 4b + 1j
-- [ ] 4b + > 1j
-
-
-
+- [ ] 4b + 2j
+- [ ] 4b + > 2j
 
 
 ## Ideas: 
@@ -48,8 +44,9 @@ Getting the new mixing going
 - [ ] use jet_flavor when declustering (eg: part_A is b in bj / or has the larger combination ect) 
 - [x] fix mB in b(bj) 
 - [ ] [[bj splitting mismodelings]]
-- [ ] [[6 jet clean ISR bugs]]
-- [ ] plot all splittings (only use bj from b(bj) ?
+- [x] [[6 jet clean ISR bugs]]
+- [ ] clean splittings during clustering, so only plot those actually used 
+- [ ] ISR is everything but (b+x) + (b+x) splittings!!!!
 
 
 

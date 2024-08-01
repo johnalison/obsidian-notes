@@ -17,7 +17,7 @@ Watching ZettelKasting notes
 [[Wesley Terrill]]
 
 
-[[Chat with Elliot about future hadron colliders]]
+[[Chat with Elliot about future hadron colliders 9 July 2024]]
 
 Working some book notes
 

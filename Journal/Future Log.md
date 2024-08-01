@@ -1,6 +1,6 @@
 
 # August 
-- [ ] Steph and M away Aug 31 - 1
+- [x] Steph and M away Aug 31 - 1
 
 # September
   * [ ]  Saturday, Sept. 14 around 1:30pm.

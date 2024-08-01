@@ -5,8 +5,8 @@
 - [x] Pay stub to steph
 - [x] check pay
 - [x] Sura Grades mail: "99-270 SURA Final Grades Due August 5"
-- [ ] 4b
-	- [ ] 4b+2j
+- [> ] 4b
+	- [> ] 4b+2j
 - [ ] 
 - [ ] 
 
