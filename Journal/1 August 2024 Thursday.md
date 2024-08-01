@@ -60,3 +60,6 @@ Lots of debugging!
 - core / farmers carry 80s / cling / step-ups
 - 10min at Tmax = 124
 
+More [[mixed2.0]]
+- fix children_jet_flavors to deal with (XX)Y combinations
+- Added unittest

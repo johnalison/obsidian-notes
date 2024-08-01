@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f3d3b4245bac7860",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Journal/1 August 2024 Thursday.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-projects/Mixed2.0/mixed2.0.md",
+                "file": "Journal/1 August 2024 Thursday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-projects/Mixed2.0/mixed2.0.md",
+                "file": "Journal/1 August 2024 Thursday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-projects/Mixed2.0/mixed2.0.md"
+                "file": "Journal/1 August 2024 Thursday.md"
               }
             }
           }
@@ -149,13 +162,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6905d1ea973deaaf",
+  "active": "f3d3b4245bac7860",
   "lastOpenFiles": [
+    "1-projects/Mixed2.0/mixed2.0.md",
     "Journal/1 August 2024 Thursday.md",
     "Input/Meetings/CMUbbWW 1 August 2024.md",
     "Input/Meetings/HGC Mac Meeting 1 August 2024.md",
     "1-projects/Mixed2.0/clean splittings during clustering.md",
-    "1-projects/Mixed2.0/mixed2.0.md",
     "1-projects/Mixed2.0/bj splitting mismodelings.md",
     "1-projects/Mixed2.0/6 jet clean ISR bugs.md",
     "Journal/Goals.md",
