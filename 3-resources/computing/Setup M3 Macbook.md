@@ -18,8 +18,11 @@
 	- Requesting a new eduroam from :  https://ca.cern.ch/ca/
 	- Followed the instructions at those websites
 - [[Mattermost Setup]]
-- 'brew install colordiff'
-- 'brew install ispell'
+- `brew install colordiff
+- `brew install ispell
+- `brew install tmux
+- installed Proton VPN
+
 
 
 

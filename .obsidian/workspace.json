@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/31 July 2024 Wednesday.md",
+                "file": "3-resources/computing/Setup M3 Macbook.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/31 July 2024 Wednesday.md",
+                "file": "3-resources/computing/Setup M3 Macbook.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/31 July 2024 Wednesday.md"
+                "file": "3-resources/computing/Setup M3 Macbook.md"
               }
             }
           }
@@ -160,10 +161,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6905d1ea973deaaf",
+  "active": "3d882015b3cb8d8f",
   "lastOpenFiles": [
-    "1-projects/Mixed2.0/mixed2.0.md",
     "Journal/31 July 2024 Wednesday.md",
+    "1-projects/Mixed2.0/mixed2.0.md",
     "Journal/30 July 2024 Tuesday.md",
     "3-resources/computing/Setup M3 Macbook.md",
     "Journal/24 July 2024 Wednesday.md",
