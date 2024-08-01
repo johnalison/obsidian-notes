@@ -60,7 +60,7 @@ Adding plots comparing the input jets to the declustered jets
 Adding b(bj) test to the jet_clustering test script.
 
 # Found the b(bj) bug!  
-was not assigning jet_flavor correctly when declustering.
+- was not assigning jet_flavor correctly when declustering.
 
 # Hoops 
 3s and then a lots of 4s 

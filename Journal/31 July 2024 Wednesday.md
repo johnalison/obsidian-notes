@@ -17,7 +17,7 @@ Up at 8
 
 Walked H to school 
 
-Move 7k to capital one
+Got paid! Move 7k to capital one
 
 with kids
 
@@ -25,16 +25,19 @@ Working [[mixed2.0]]
 - got cleanISR to be able to clean more than one type
 - Weird s -> str(s) changes (maybe b/c the container changed?)
 
-Scott official announcement. 
+Scott official announcement that he is going back to FNAL
 
 tmux on **cmslpc329**
 
 Need to start using tmux !!!
 
-$231,421  remaining on start up 
+$231,421  remaining on start up.  Look into [[StartupSpending]]
+
+Got H from school. 
 
 Place limit sell order at 45.1c for Harris as president. 
 
 made signal plots for new mixing scheme (LOOKS DAMN GOOD!!!!)
 
+# Chat with Olivito 
 

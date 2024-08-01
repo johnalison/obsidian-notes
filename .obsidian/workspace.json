@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-resources/computing/Setup M3 Macbook.md",
+                "file": "Journal/30 July 2024 Tuesday.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -78,7 +77,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-resources/computing/Setup M3 Macbook.md",
+                "file": "Journal/31 July 2024 Wednesday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-resources/computing/Setup M3 Macbook.md",
+                "file": "Journal/31 July 2024 Wednesday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-resources/computing/Setup M3 Macbook.md"
+                "file": "Journal/31 July 2024 Wednesday.md"
               }
             }
           }
@@ -161,12 +161,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3d882015b3cb8d8f",
+  "active": "6905d1ea973deaaf",
   "lastOpenFiles": [
-    "Journal/31 July 2024 Wednesday.md",
-    "1-projects/Mixed2.0/mixed2.0.md",
+    "Journal/#July 2024.md#",
     "Journal/30 July 2024 Tuesday.md",
+    "Journal/31 July 2024 Wednesday.md",
+    "Journal/29 July 2024 Monday.md",
+    "Journal/1 August 2024 Thursday.md",
+    "Journal/2024",
     "3-resources/computing/Setup M3 Macbook.md",
+    "1-projects/Mixed2.0/mixed2.0.md",
     "Journal/24 July 2024 Wednesday.md",
     "1-projects/Mixed2.0/Script to compare synthetic and nominal datasets.md",
     "2-areas/coffea4bs/Reproducible Random Numbers.md",
@@ -190,9 +194,6 @@
     "3-resources/computing/python-Unittests-tips.md",
     "0-inbox/Matteo Cremonesi reappointment Letter.md",
     "0-inbox/Chat w Wes 30 July 2024.md",
-    "Input/Meetings/Chat w Wes 23 July 2024.md",
-    "2-areas/Mentoring/Wesley Terrill.md",
-    "Journal/9 July 24 Tue.md",
     "Journal/#30 July 2024 Tuesday.md#",
     "attachments/Pasted image 20240726092502.png",
     "0-inbox/Pasted image 20240726092234.png",
@@ -204,8 +205,6 @@
     "Journal/#April 2021.md#",
     "Journal/#March 2021.md#",
     "4-archive/HIG-22-011/#HIG-22-011.md#",
-    "Journal/#February 2021.md#",
-    "Journal/#January 2021.md#",
     "attachments/Pasted image 20240726154559.png",
     "Untitled.canvas",
     "Untitled 1.canvas",
