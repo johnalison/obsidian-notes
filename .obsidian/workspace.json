@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/1 August 2024 Thursday.md",
+                "file": "1-projects/Mixed2.0/mixed2.0.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/1 August 2024 Thursday.md",
+                "file": "1-projects/Mixed2.0/mixed2.0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/1 August 2024 Thursday.md",
+                "file": "1-projects/Mixed2.0/mixed2.0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/1 August 2024 Thursday.md"
+                "file": "1-projects/Mixed2.0/mixed2.0.md"
               }
             }
           }
@@ -151,8 +151,8 @@
   },
   "active": "6905d1ea973deaaf",
   "lastOpenFiles": [
-    "Input/Meetings/CMUbbWW 1 August 2024.md",
     "Journal/1 August 2024 Thursday.md",
+    "Input/Meetings/CMUbbWW 1 August 2024.md",
     "Input/Meetings/HGC Mac Meeting 1 August 2024.md",
     "1-projects/Mixed2.0/clean splittings during clustering.md",
     "1-projects/Mixed2.0/mixed2.0.md",

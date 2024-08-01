@@ -11,7 +11,7 @@
 | 12  | bbWW             |     |
 |     | Gym              |     |
 | 1   | Gym              |     |
-|     | jet declustering |     |
+|     | Gym              |     |
 | 2   | jet declustering |     |
 |     | jet declustering |     |
 | 3   | Meet Tony        |     |
@@ -56,4 +56,7 @@ Lots of debugging!
 
 [[CMUbbWW 1 August 2024]]
 
+# Gym/Steam Room
+- core / farmers carry 80s / cling / step-ups
+- 10min at Tmax = 124
 

@@ -47,7 +47,7 @@ Getting the new mixing going
 - [x] [[6 jet clean ISR bugs]]
 - [ ] [[clean splittings during clustering]], so only plot those actually used 
 - [x] ISR is everything but (b+x) + (b+x) splittings!!!!
-
+- [ ] Test for splitting function
 
 
 # Template Fixes
