@@ -63,3 +63,16 @@ Lots of debugging!
 More [[mixed2.0]]
 - fix children_jet_flavors to deal with (XX)Y combinations
 - Added unittest
+
+SURA Meeting with Tony
+- Useless 
+- Met ___name___
+
+
+More bug fixes
+- Cleaning the parentheses form the children jet flavors
+- Now need recursive clean_ISR
+	`['bb', '(bb)(jj)'] -> with ISR cleaning ['bb', 'bb', 'jj']
+- clustering test job failing ! 
+	- Runs in debug... think im running out of memory !!!
+
