@@ -50,6 +50,7 @@ Getting the new mixing going
 - [ ] Test for splitting function
 - [x] Test script crashing b/c of memory
 	- [ ] When max 2 extra jets / Running with 1 worker fixes it
+	- [ ] Now think this was b/c I was making too many hists! 
 - [ ] Need to reduce memory!
 
 
