@@ -52,7 +52,12 @@ https://cms.cern.ch/iCMS/analysisadmin/cadi?ancode=SMP-24-005
 - Start working on iterative ISR declustering
 	- Got it going ... Easier than I thought.
 - Check the reclustered splittings.
+	- Running out of Memory..trying with 2 cores
 - Now try to do the declustering with 4b+0,1,2j...
+	- 
 
 ETH limit order was filled. 
+
+# HEP Lunch Matteo and Manfred
+- Get computer have UGs build kubernetes cluster
 
