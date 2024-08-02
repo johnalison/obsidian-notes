@@ -27,6 +27,7 @@ Getting the new mixing going
 	- [ ] 4b + >1j
 - [x] Run jet multiplicities together / Plots separate 
 - [ ] Recursive ISR removal (Needed for 4b + >1j)
+	- [ ] `['bb', '(bb)(jj)'] -> with ISR cleaning ['bb', 'bb', 'jj']
 - [ ] Compare splitting functions ( + 0j vs +1j vs +>1j )
 - [ ] Read [[Do graph neural networks learn traditional jet substructure?]]]
 - [x] Script to compare cluster vs reclusterd
@@ -49,8 +50,9 @@ Getting the new mixing going
 - [x] ISR is everything but (b+x) + (b+x) splittings!!!!
 - [ ] Test for splitting function
 - [x] Test script crashing b/c of memory
-	- [ ] When max 2 extra jets / Running with 1 worker fixes it
-	- [ ] Now think this was b/c I was making too many hists! 
+	- [x] When max 2 extra jets / Running with 1 worker fixes it
+	- [ ] Now think this was b/c I was making too many hists! / back to 4 workers
+	- [ ] Swap memory -> 0 / Maybe faster using 2 workers ?
 - [ ] Need to reduce memory!
 
 
@@ -81,5 +83,8 @@ Getting the new mixing going
 decluster and cluster
 **32m30.007s**. 25 July 2024 
 **33m20.966s** 30 July 2024
+
+Just cluster with upto 2 extra jets:
+**real 28m46.523s**
 
 202407091049

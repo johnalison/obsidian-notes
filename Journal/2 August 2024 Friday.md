@@ -47,3 +47,5 @@ https://cms.cern.ch/iCMS/analysisadmin/cadi?ancode=SMP-24-005
 
 [[mixed2.0]]
 
+Made **make_jet_splitting_PDFs.py** robust against changing cuts in the histogram file.
+Cleaned configuration of splittings: needed when many varieties

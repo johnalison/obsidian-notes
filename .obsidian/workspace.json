@@ -44,7 +44,7 @@
             }
           },
           {
-            "id": "5484e3e5db512dfb",
+            "id": "f96ad8d6d3706824",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -55,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -186,7 +185,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f0d1841ba7bbe66c",
+  "active": "6905d1ea973deaaf",
   "lastOpenFiles": [
     "Journal/2 August 2024 Friday.md",
     "Journal/1 August 2024 Thursday.md",
