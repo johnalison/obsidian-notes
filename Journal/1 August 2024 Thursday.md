@@ -66,7 +66,7 @@ More [[mixed2.0]]
 
 SURA Meeting with Tony
 - Useless 
-- Met ___name___
+- Met ___ ___
 
 
 More bug fixes
@@ -89,3 +89,7 @@ Some [[BlackSwan]]
 
 Make a stand for the humidifier with H
 - H made a stand for his legos
+
+Filled Kamal bet at 45c!  
+
+Sent to coinbase, buying 1.8 of spot ETC at $3100
