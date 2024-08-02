@@ -76,3 +76,16 @@ More bug fixes
 - clustering test job failing ! 
 	- Runs in debug... think im running out of memory !!!
 
+
+Picked up H
+
+# Drinks with H
+- Pvino: saw calvins mom
+- new mexican on elsworth: ave
+
+Home
+
+Some [[BlackSwan]]
+
+Make a stand for the humidifier with H
+- H made a stand for his legos
