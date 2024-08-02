@@ -11,9 +11,9 @@
 | 12  | HEP Lunch        |     |
 |     | HEP Lunch        |     |
 | 1   | HEP Lunch        |     |
-|     |                  |     |
-| 2   | jet declustering |     |
 |     | jet declustering |     |
+| 2   | stats chat       |     |
+|     | stats chat       |     |
 | 3   | jet declustering |     |
 |     | jet declustering |     |
 | 4   | jet declustering |     |
@@ -22,7 +22,7 @@
 **W:**
 **DW:**
 **OT:**
-**ex or ~~ex~~**
+**~~ex~~**
 
 # The ONE thing: 
 - [ ] mixed 4j + 2j (recursion)
@@ -61,3 +61,4 @@ ETH limit order was filled.
 # HEP Lunch Matteo and Manfred
 - Get computer have UGs build kubernetes cluster
 
+[[StatsChat-2-August-24]]
