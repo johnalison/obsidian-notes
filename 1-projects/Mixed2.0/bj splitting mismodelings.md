@@ -1,7 +1,7 @@
-![[Pasted image 20240730120040.png|400]]
+![[Pasted image 20240730120040.png]]
 
 
-![[Pasted image 20240730120049.png|400]]
+![[Pasted image 20240730120049.png]]
 Could this be a mislabeling of the jets partA should always be "b" 
 
 ## Follow-ups

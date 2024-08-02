@@ -25,7 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/StatsChat-2-August-24.md",
+                "file": "Journal/2021/May 2021.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0e732737bf5fccaf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Journal/2 August 2024 Friday.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,26 +49,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-projects/Mixed2.0/mixed2.0.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f96ad8d6d3706824",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Journal/2 August 2024 Friday.md",
+                "file": "0-inbox/Things-To-Add-To-Notes.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -75,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "chat",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/StatsChat-2-August-24.md",
+                "file": "Journal/2 August 2024 Friday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/StatsChat-2-August-24.md",
+                "file": "Journal/2 August 2024 Friday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/StatsChat-2-August-24.md"
+                "file": "Journal/2 August 2024 Friday.md"
               }
             }
           }
@@ -186,20 +186,36 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f3d3b4245bac7860",
+  "active": "0e732737bf5fccaf",
   "lastOpenFiles": [
+    "2-areas/Physics/PT track to reach Calorimeter.md",
     "Journal/2 August 2024 Friday.md",
+    "2-areas/Physics/Boosted Angle Formula.md",
+    "Journal/2021/May 2021.md",
+    "1-projects/Mixed2.0/mixed2.0.md",
+    "1-projects/Mixed2.0/ResamplingBug.md",
+    "1-projects/Mixed2.0/bj splitting mismodelings.md",
+    "Journal/2021/#May 2021.md#",
+    "0-inbox/Things-To-Add-To-Notes.md",
+    "Input/Meetings/StatsChat-2-August-24.md",
+    "0-inbox/Matteo Cremonesi reappointment Letter.md",
+    "4-archive/Optimal Transport/OptimalTransport.md",
+    "1-projects/HGC/HGC Projects.md",
+    "4-archive/Optimal Transport",
+    "4-archive/B-jet Trigger",
+    "4-archive/BTV",
+    "1-projects/HGC/RaspberryPiSetup.md",
+    "1-projects/HGC/Modules Summary July 2024.md",
+    "1-projects/HGC",
+    "1-projects/SOS",
     "Input/Meetings/July/StatsChat-10-July-24.md",
     "Input/Meetings/July/Stats Chat 18 July 2024.md",
-    "0-inbox/StatsChat-2-August-24.md",
     "Journal/1 August 2024 Thursday.md",
-    "1-projects/Mixed2.0/mixed2.0.md",
     "Journal/#2 August 2024 Friday.md#",
     "Journal/#1 August 2024 Thursday.md#",
     "Input/Meetings/CMUbbWW 1 August 2024.md",
     "Input/Meetings/HGC Mac Meeting 1 August 2024.md",
     "1-projects/Mixed2.0/clean splittings during clustering.md",
-    "1-projects/Mixed2.0/bj splitting mismodelings.md",
     "1-projects/Mixed2.0/6 jet clean ISR bugs.md",
     "Journal/Goals.md",
     "Journal/August 2024.md",
@@ -207,23 +223,7 @@
     "Journal/#August 2024.md#",
     "Journal/BulletJournalProtocol.md",
     "Journal/July/31 July 2024 Wednesday.md",
-    "Journal/July/30 July 2024 Tuesday.md",
     "Journal/July/#30 July 2024 Tuesday.md#",
-    "Journal/July/29 July 2024 Monday.md",
-    "Journal/July/9 July 24 Tuesday.md",
-    "Input/Meetings/Chat with Elliot about future hadron colliders 9 July 2024.md",
-    "Input/Meetings/July/Chat with Elliot about future hadron colliders 9 July 2024.md",
-    "Input/Meetings/July/bbWW Meeting 25 July 2024.md",
-    "Input/Meetings/July/SindhuChat 15 July 2024.md",
-    "Input/Meetings/July/Silicon Modules and MACs Meeting 24 July 2024.md",
-    "Input/Meetings/July/HHbbWW 24 July 2024.md",
-    "Input/Meetings/July/HH4bResolvedMeeting 15July2024.md",
-    "Input/Meetings/July",
-    "Journal/July",
-    "Journal/#July 2024.md#",
-    "Journal/2024",
-    "2-areas/coffea4bs",
-    "Input/Books/#Libertarianism-A-primer.md#",
     "attachments/Pasted image 20240730120049.png",
     "attachments/Pasted image 20240730120040.png",
     "attachments/Pasted image 20240726092502.png",

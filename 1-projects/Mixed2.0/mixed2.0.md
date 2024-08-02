@@ -8,7 +8,8 @@ Getting the new mixing going
 ## Plan
 - [x] 4b + 0j
 - [x] 4b + 1j
-- [ ] 4b + 2j
+- [x] 4b + 2j
+- [ ] 4b + 4j
 - [ ] 4b + > 2j
 
 
@@ -24,7 +25,8 @@ Getting the new mixing going
 - [ ] Compare synthetic vs nominal
 	- [x] 4b + 0j
 	- [x] 4b + 1j
-	- [ ] 4b + >1j
+	- [x] 4b + 2j
+	- [ ] 4b + 4j
 - [x] Run jet multiplicities together / Plots separate 
 - [x] Recursive ISR removal (Needed for 4b + >1j)
 	- [x] `['bb', '(bb)(jj)'] -> with ISR cleaning ['bb', 'bb', 'jj']
@@ -32,7 +34,7 @@ Getting the new mixing going
 - [ ] Read [[Do graph neural networks learn traditional jet substructure?]]]
 - [x] Script to compare cluster vs reclusterd
 - [x] scripts to compare splitting functions
-- [ ] Script to compare splitting functions in jet multiplicities
+- [ ] ~~Script to compare splitting functions in jet multiplicities~~
 - [ ] Write out picos with clustered jets (write CI)
 - [ ] Write out picos with the declustered jet (write CI)
 - [ ] Fix the extra jet treatment (for now copy jets < 40 and add new jets)
@@ -42,13 +44,12 @@ Getting the new mixing going
 - [x] Add a dR AB > 0.4 check
 - [x] [[bj pt mismodeling]]
 - [x] Do mass based on jet flavor ?  (mA vs mB in pt bins?)
-- [ ] use jet_flavor when declustering (eg: part_A is b in bj / or has the larger combination ect) 
+- [x] use jet_flavor when declustering (eg: part_A is b in bj / or has the larger combination ect) 
 - [x] fix mB in b(bj) 
 - [ ] [[bj splitting mismodelings]]
 - [x] [[6 jet clean ISR bugs]]
 - [ ] [[clean splittings during clustering]], so only plot those actually used 
 - [x] ISR is everything but (b+x) + (b+x) splittings!!!!
-- [ ] Test for splitting function
 - [x] Test script crashing b/c of memory
 	- [x] When max 2 extra jets / Running with 1 worker fixes it
 	- [ ] Now think this was b/c I was making too many hists! / back to 4 workers
@@ -80,11 +81,14 @@ Getting the new mixing going
 
 # Performance
 
-decluster and cluster
+## decluster and cluster
 **32m30.007s**. 25 July 2024 
 **33m20.966s** 30 July 2024
+ **56m22.760s** 2 Aug 4b+2j
 
-Just cluster with upto 2 extra jets:
+## Just cluster 4b+2 j:
 **real 28m46.523s**
+
+
 
 202407091049
