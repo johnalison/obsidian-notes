@@ -46,8 +46,13 @@ H to school (Got caught in the rain!)
 https://cms.cern.ch/iCMS/analysisadmin/cadi?ancode=SMP-24-005
 
 [[mixed2.0]]
-
-Made **make_jet_splitting_PDFs.py** robust against changing cuts in the histogram file.
-Cleaned configuration of splittings: needed when many varieties
+- Made **make_jet_splitting_PDFs.py** robust against changing cuts in the histogram file.
+- Cleaned configuration of splittings: needed when many varieties
+- make input pdfs for 4b + 0,1,2j : **jet-splitting-PDFs-00-03-00**
+- Start working on iterative ISR declustering
+	- Got it going ... Easier than I thought.
+- Check the reclustered splittings.
+- Now try to do the declustering with 4b+0,1,2j...
 
 ETH limit order was filled. 
+
