@@ -55,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-projects/Mixed2.0/mixed2.0.md",
+                "file": "Journal/2 August 2024 Friday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-projects/Mixed2.0/mixed2.0.md",
+                "file": "Journal/2 August 2024 Friday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-projects/Mixed2.0/mixed2.0.md"
+                "file": "Journal/2 August 2024 Friday.md"
               }
             }
           }
@@ -185,11 +186,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6905d1ea973deaaf",
+  "active": "f3d3b4245bac7860",
   "lastOpenFiles": [
+    "1-projects/Mixed2.0/mixed2.0.md",
     "Journal/2 August 2024 Friday.md",
     "Journal/1 August 2024 Thursday.md",
-    "1-projects/Mixed2.0/mixed2.0.md",
     "Journal/#2 August 2024 Friday.md#",
     "Journal/#1 August 2024 Thursday.md#",
     "Input/Meetings/CMUbbWW 1 August 2024.md",
