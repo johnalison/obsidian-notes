@@ -19,20 +19,20 @@
 | 4   |                  |     |
 |     |                  |     |
 
-**W:**
-**DW:**
-**OT:**
-**ex or ~~ex~~**
+**W:** 5 
+**DW:** 3 
+**OT:** 3
+**ex**
 
 # The ONE thing: 
 - [ ] mixed 4j + 2j (recursion)
 
 
 # To Do
-- [ ] 4b
-	 - [ ] 4b + 2j
-- [ ] write up S/sqrt(B) argument
-- [ ] CAM training
+- [> ] 4b
+	 - [> ] 4b + 2j
+- [> ] write up S/sqrt(B) argument
+- [> ] CAM training
 - [ ] 
 
 

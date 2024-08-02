@@ -48,6 +48,9 @@ Getting the new mixing going
 - [ ] [[clean splittings during clustering]], so only plot those actually used 
 - [x] ISR is everything but (b+x) + (b+x) splittings!!!!
 - [ ] Test for splitting function
+- [x] Test script crashing b/c of memory
+	- [ ] When max 2 extra jets / Running with 1 worker fixes it
+- [ ] Need to reduce memory!
 
 
 # Template Fixes
