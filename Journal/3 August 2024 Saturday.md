@@ -1,13 +1,5 @@
 
 
-
-# To Do
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-
-
 # Log
 
 Up at 8
@@ -22,3 +14,14 @@ Some [[BlackSwan]]
 
 Writing up
 - [[July 2021]]
+- [[August 2021]]
+- [[September 2021]]
+- [[October 2021]]
+
+# To the vintage Grand Prix
+- Beers from Pvino (on point)
+- Saw Zuke
+
+Home
+
+more writting up old notebooks
