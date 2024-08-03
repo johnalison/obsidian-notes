@@ -88,4 +88,4 @@ Steph does not get load repayment grant :(
 - tried clustering with upto 8 jets ... No problem on test job!
 - tried clustering with no nJet limit ...No problem on test job!
 - Running all clustering on **cmslpc329**
-	- ran our of memory with 4 workers... trying 3
+	- ran our of memory with 4 workers... trying 3 (also failed) ... trying 2
