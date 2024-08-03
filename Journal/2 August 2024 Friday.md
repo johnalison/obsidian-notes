@@ -59,7 +59,7 @@ https://cms.cern.ch/iCMS/analysisadmin/cadi?ancode=SMP-24-005
 	- problem with 5 bjets... fixed: bug in the min dR ISR-jet to splitting
 	- tmux on **cmslpc329**
 	- Looks DAMN GOOD !!!!  Both data and signal ! LETS GO!!!
-	- Think its time to go in steps of +2 jets
+	- Think its time to go in steps of +2 jets.. 
 
 ETH limit order was filled. 
 

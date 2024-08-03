@@ -89,9 +89,10 @@ Getting the new mixing going
 **33m20.966s** 30 July 2024
  **56m22.760s** 2 Aug 4b+2j
 
-## Just cluster 4b+2 j:
-**real 28m46.523s**
 
+## Just clustering:
+4b+2j: **28m46.523s**
+4b+ Xj (all splittings / trimmed histograms) **37m0.066s**. 
 
 
 202407091049

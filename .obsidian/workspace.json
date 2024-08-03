@@ -43,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-projects/Mixed2.0/mixed2.0.md",
+                "file": "Journal/3 August 2024 Saturday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-projects/Mixed2.0/mixed2.0.md",
+                "file": "Journal/3 August 2024 Saturday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-projects/Mixed2.0/mixed2.0.md"
+                "file": "Journal/3 August 2024 Saturday.md"
               }
             }
           }
@@ -173,12 +174,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6905d1ea973deaaf",
+  "active": "f0d1841ba7bbe66c",
   "lastOpenFiles": [
-    "Journal/2 August 2024 Friday.md",
-    "Journal/3 August 2024 Saturday.md",
-    "0-inbox/Things-To-Add-To-Notes.md",
     "1-projects/Mixed2.0/mixed2.0.md",
+    "Journal/3 August 2024 Saturday.md",
+    "Journal/2 August 2024 Friday.md",
+    "0-inbox/Things-To-Add-To-Notes.md",
     "Journal/2021/June 2021.md",
     "2-areas/Philosophy/Protocols.md",
     "Input/Books/DeathBeNotProud.md",
