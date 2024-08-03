@@ -89,3 +89,6 @@ Steph does not get load repayment grant :(
 - tried clustering with no nJet limit ...No problem on test job!
 - Running all clustering on **cmslpc329**
 	- ran our of memory with 4 workers... trying 3 (also failed) ... trying 2
+	- Problem was too many histograms (reduced) now trying 2 workers WORK
+	- Now trying again with 4
+- Added recursive function to get all the sub-splittings from a given splitting.. will us to reduce the number of splittings I need to plot.

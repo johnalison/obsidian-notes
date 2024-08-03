@@ -22,10 +22,10 @@
 - 3-day fasts 4 times a year
 - When angry: what can I learn from this so this never happns again?
 - Write Book Reports
-  - w/Jypter notebooks if needed (ala vatalik)
-  - Ideas, topics, philosophies
-  - Review and revie
-  - Helps you understand a topic "In your own words"
+	  - w/Jypter notebooks if needed (ala vatalik)
+	  - Ideas, topics, philosophies
+	  - Review and revise
+	  - Helps you understand a topic "In your own words"
 - Use google docs to proof read text
 - Have students write first drafts of rec. letters 
 - Never say yes on the spot. Always give yourself some space. Make it a rule. Tell people.
