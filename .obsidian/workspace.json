@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/3 August 2024 Saturday.md",
+                "file": "Journal/2021/August 2021.md",
                 "mode": "source",
                 "source": false
               }
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/3 August 2024 Saturday.md",
+                "file": "Journal/2021/August 2021.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/3 August 2024 Saturday.md",
+                "file": "Journal/2021/August 2021.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/3 August 2024 Saturday.md"
+                "file": "Journal/2021/August 2021.md"
               }
             }
           }
@@ -176,9 +176,16 @@
   },
   "active": "f0d1841ba7bbe66c",
   "lastOpenFiles": [
-    "1-projects/Mixed2.0/mixed2.0.md",
+    "Journal/2021/#August 2021.md#",
+    "4-archive/HIG-22-011/HIG-22-011.md",
+    "Journal/2021/July 2021.md",
+    "Journal/2021/August 2021.md",
+    "4-archive/BTV/BTV.md",
+    "Journal/August 2024.md",
+    "Journal/2021/#July 2021.md#",
     "Journal/3 August 2024 Saturday.md",
     "Journal/2 August 2024 Friday.md",
+    "1-projects/Mixed2.0/mixed2.0.md",
     "0-inbox/Things-To-Add-To-Notes.md",
     "Journal/2021/June 2021.md",
     "2-areas/Philosophy/Protocols.md",
@@ -203,15 +210,7 @@
     "1-projects/SOS",
     "Input/Meetings/July/StatsChat-10-July-24.md",
     "Input/Meetings/July/Stats Chat 18 July 2024.md",
-    "Journal/1 August 2024 Thursday.md",
     "Journal/#2 August 2024 Friday.md#",
-    "Journal/#1 August 2024 Thursday.md#",
-    "Input/Meetings/CMUbbWW 1 August 2024.md",
-    "Input/Meetings/HGC Mac Meeting 1 August 2024.md",
-    "1-projects/Mixed2.0/clean splittings during clustering.md",
-    "1-projects/Mixed2.0/6 jet clean ISR bugs.md",
-    "Journal/Goals.md",
-    "Journal/#August 2024.md#",
     "attachments/Pasted image 20240730120049.png",
     "attachments/Pasted image 20240730120040.png",
     "attachments/Pasted image 20240726092502.png",

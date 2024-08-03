@@ -54,9 +54,13 @@ Getting the new mixing going
 	- [x] When max 2 extra jets / Running with 1 worker fixes it
 	- [ ] Now think this was b/c I was making too many hists! / back to 4 workers
 	- [ ] Swap memory -> 0 / Maybe faster using 2 workers ? A: no it doesnt! 
-- [ ] Reduce memory!
+- [x] Reduce memory!
 	- [x] Remove unneeded histograms 
-	- [ ] Only write out splittings we need
+	- [x] Only write out splittings we need
+- [ ] Add back detailed splittting hists
+	- [ ] option to turn them on/off
+- [ ] PDF script to only rely on trimmed histograms
+	- [ ] separate study_splitting_fuctions from make_PDFs
 
 
 

@@ -92,3 +92,8 @@ Steph does not get load repayment grant :(
 	- Problem was too many histograms (reduced) now trying 2 workers ... WORKs
 	- Now trying again with 4 ... Works !
 - Added recursive function to get all the sub-splittings from a given splitting.. will us to reduce the number of splittings I need to plot.
+
+Writing up: 
+- [[April 2021]]
+- [[May 2021]]
+- [[June 2021]]
