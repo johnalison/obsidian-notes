@@ -84,3 +84,8 @@ Wrote up [[Boosted Angle Formula]]
 
 Steph does not get load repayment grant :( 
 
+# Evening [[mixed2.0]]
+- tried clustering with upto 8 jets ... No problem on test job!
+- tried clustering with no nJet limit ...No problem on test job!
+- Running all clustering on **cmslpc329**
+	- ran our of memory with 4 workers... trying 3
