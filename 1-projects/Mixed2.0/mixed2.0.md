@@ -54,6 +54,9 @@ Getting the new mixing going
 	- [x] When max 2 extra jets / Running with 1 worker fixes it
 	- [ ] Now think this was b/c I was making too many hists! / back to 4 workers
 	- [ ] Swap memory -> 0 / Maybe faster using 2 workers ? A: no it doesnt! 
+- [ ] Reduce memory!
+	- [x] Remove unneeded histograms 
+	- [ ] Only write out splittings we need
 
 
 

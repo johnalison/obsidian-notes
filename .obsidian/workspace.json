@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/2021/May 2021.md",
+                "file": "Journal/2021/June 2021.md",
                 "mode": "source",
                 "source": false
               }
@@ -55,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/2 August 2024 Friday.md",
+                "file": "1-projects/Mixed2.0/mixed2.0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/2 August 2024 Friday.md",
+                "file": "1-projects/Mixed2.0/mixed2.0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/2 August 2024 Friday.md"
+                "file": "1-projects/Mixed2.0/mixed2.0.md"
               }
             }
           }
@@ -186,12 +185,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0e732737bf5fccaf",
+  "active": "6905d1ea973deaaf",
   "lastOpenFiles": [
-    "2-areas/Physics/PT track to reach Calorimeter.md",
-    "Journal/2 August 2024 Friday.md",
-    "2-areas/Physics/Boosted Angle Formula.md",
+    "Journal/2021/June 2021.md",
+    "Journal/2021/#June 2021.md#",
     "Journal/2021/May 2021.md",
+    "Journal/2 August 2024 Friday.md",
+    "2-areas/Physics/PT track to reach Calorimeter.md",
+    "2-areas/Physics/Boosted Angle Formula.md",
     "1-projects/Mixed2.0/mixed2.0.md",
     "1-projects/Mixed2.0/ResamplingBug.md",
     "1-projects/Mixed2.0/bj splitting mismodelings.md",
@@ -221,9 +222,6 @@
     "Journal/August 2024.md",
     "Journal/Future Log.md",
     "Journal/#August 2024.md#",
-    "Journal/BulletJournalProtocol.md",
-    "Journal/July/31 July 2024 Wednesday.md",
-    "Journal/July/#30 July 2024 Tuesday.md#",
     "attachments/Pasted image 20240730120049.png",
     "attachments/Pasted image 20240730120040.png",
     "attachments/Pasted image 20240726092502.png",
