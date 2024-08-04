@@ -25,3 +25,5 @@ in file root://cmseos.fnal.gov//store/user/algomez/XX4b/20231115/data2018D/picoA
 Looking at a CMU caladar
 
 [[MPL Fall 2024]]
+
+Reading about [[Numba]]
