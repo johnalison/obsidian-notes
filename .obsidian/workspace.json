@@ -18,6 +18,37 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "856b44cf196e5628",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Input/Books/SomethingDeeplyHidden.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "bf0b132222e7e4cb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "36d1dfe597d5396c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Output/Lists.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -69,7 +100,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "30a04ba2c1bf765c",
@@ -85,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/4 August 2024 Sunday.md",
+                "file": "Input/Books/SomethingDeeplyHidden.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/4 August 2024 Sunday.md",
+                "file": "Input/Books/SomethingDeeplyHidden.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/4 August 2024 Sunday.md"
+                "file": "Input/Books/SomethingDeeplyHidden.md"
               }
             }
           }
@@ -134,7 +166,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,40 +181,40 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9826d8c7d3d2c60a",
+  "active": "5eff6f8803fcba5e",
   "lastOpenFiles": [
-    "1-projects/Mixed2.0/mixed2.0.md",
     "Journal/4 August 2024 Sunday.md",
+    "Journal/August 2024.md",
+    "Input/Books/SomethingDeeplyHidden.md",
+    "Output/Lists.md",
+    "0-inbox/ExpertsDisagree.md",
+    "Input/Books/IntelligentInvestor.md",
+    "Input/Books/TheRedQueen.md",
+    "2-areas/Philosophy/Things where experts disagree.md",
+    "1-projects/Mixed2.0/mixed2.0.md",
+    "Input/Books/Books.md",
+    "Journal/Future Log.md",
+    "1-projects/Teaching/MPL Fall 2024.md",
+    "Journal/2021/August 2021.md",
     "00-Zettelkasten/MLForSplittingFunctions.md",
     "Journal/3 August 2024 Saturday.md",
     "Journal/2 August 2024 Friday.md",
     "Input/Learning List.md",
-    "Output/Lists.md",
     "Input/SomedayMaybe.md",
     "2-areas/Physics/Estimation.md",
     "4-archive/BTV/BTV.md",
     "Journal/2021/October 2021.md",
     "Journal/2021/September 2021.md",
     "Journal/2021/#October 2021.md#",
-    "Journal/2021/August 2021.md",
     "4-archive/HIG-22-011/HIG-22-011.md",
     "Journal/2021/#September 2021.md#",
     "Journal/2021/#August 2021.md#",
     "Journal/2021/July 2021.md",
-    "Journal/August 2024.md",
     "Journal/2021/#July 2021.md#",
     "0-inbox/Things-To-Add-To-Notes.md",
     "Journal/2021/June 2021.md",
-    "2-areas/Philosophy/Protocols.md",
-    "Input/Books/DeathBeNotProud.md",
     "Journal/2021/#June 2021.md#",
-    "Journal/2021/May 2021.md",
-    "2-areas/Physics/PT track to reach Calorimeter.md",
-    "2-areas/Physics/Boosted Angle Formula.md",
-    "1-projects/Mixed2.0/ResamplingBug.md",
-    "1-projects/Mixed2.0/bj splitting mismodelings.md",
     "Journal/2021/#May 2021.md#",
-    "Input/Meetings/StatsChat-2-August-24.md",
     "4-archive/Optimal Transport",
     "4-archive/B-jet Trigger",
     "4-archive/BTV",

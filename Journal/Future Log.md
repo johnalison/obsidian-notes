@@ -3,12 +3,15 @@
 - [x] Steph and M away Aug 31 - 1
 
 # September
-  * [ ]  Saturday, Sept. 14 around 1:30pm.
-
+- [ ] 2nd Labor Day, no classes
+* [ ]  14th Erics Birthday Saturday,  1:30pm.
+- [ ] 24th Classes over for Prof Alison
 # October
 - [ ] Steph away 7- 10 
+- [ ] Fall Break Oct 14-18
 
 # November
+- [ ] 5th No classes
 
 
 # December

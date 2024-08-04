@@ -60,7 +60,8 @@ Getting the new mixing going
 - [x] Add back detailed splittting hists
 	- [x] option to turn them on/off
 - [ ] PDF script to only rely on trimmed histograms
-	- [ ] separate study_splitting_fuctions from make_PDFs
+	- [x] separate study_splitting_fuctions from make_PDFs
+	- [ ] plot the splitting type multiplicity
 
 
 

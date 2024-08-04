@@ -27,7 +27,7 @@
 
 - The greatest "experts" our species have produced on the subject of human nature were people like Buddha and Shakespeare, not scientists or philosophers. ([[Buddhism]])
 
-- Why did sex evolve: Survey the scientists and virtually all will agree that the problem has been solved, but none will agree on the solution. ([[ExpertsDisagree]])
+- Why did sex evolve: Survey the scientists and virtually all will agree that the problem has been solved, but none will agree on the solution. ([[Things where experts disagree]]
 
 - Selection within species is always going to be more important than selection between the species.
 
