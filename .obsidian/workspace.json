@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/3 August 2024 Saturday.md",
+                "file": "Journal/4 August 2024 Sunday.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/3 August 2024 Saturday.md",
+                "file": "Journal/4 August 2024 Sunday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/3 August 2024 Saturday.md",
+                "file": "Journal/4 August 2024 Sunday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/3 August 2024 Saturday.md"
+                "file": "Journal/4 August 2024 Sunday.md"
               }
             }
           }
@@ -150,6 +150,10 @@
   },
   "active": "9826d8c7d3d2c60a",
   "lastOpenFiles": [
+    "1-projects/Mixed2.0/mixed2.0.md",
+    "Journal/4 August 2024 Sunday.md",
+    "00-Zettelkasten/MLForSplittingFunctions.md",
+    "Journal/3 August 2024 Saturday.md",
     "Journal/2 August 2024 Friday.md",
     "Input/Learning List.md",
     "Output/Lists.md",
@@ -158,7 +162,6 @@
     "4-archive/BTV/BTV.md",
     "Journal/2021/October 2021.md",
     "Journal/2021/September 2021.md",
-    "1-projects/Mixed2.0/mixed2.0.md",
     "Journal/2021/#October 2021.md#",
     "Journal/2021/August 2021.md",
     "4-archive/HIG-22-011/HIG-22-011.md",
@@ -167,7 +170,6 @@
     "Journal/2021/July 2021.md",
     "Journal/August 2024.md",
     "Journal/2021/#July 2021.md#",
-    "Journal/3 August 2024 Saturday.md",
     "0-inbox/Things-To-Add-To-Notes.md",
     "Journal/2021/June 2021.md",
     "2-areas/Philosophy/Protocols.md",
@@ -180,8 +182,6 @@
     "1-projects/Mixed2.0/bj splitting mismodelings.md",
     "Journal/2021/#May 2021.md#",
     "Input/Meetings/StatsChat-2-August-24.md",
-    "0-inbox/Matteo Cremonesi reappointment Letter.md",
-    "4-archive/Optimal Transport/OptimalTransport.md",
     "4-archive/Optimal Transport",
     "4-archive/B-jet Trigger",
     "4-archive/BTV",

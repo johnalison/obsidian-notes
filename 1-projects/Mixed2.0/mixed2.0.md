@@ -9,8 +9,8 @@ Getting the new mixing going
 - [x] 4b + 0j
 - [x] 4b + 1j
 - [x] 4b + 2j
-- [ ] 4b + 4j
-- [ ] 4b + > 2j
+- [ ] ~~4b + 4j
+- [ ] 4b + Xj
 
 
 ## Ideas: 
@@ -26,7 +26,7 @@ Getting the new mixing going
 	- [x] 4b + 0j
 	- [x] 4b + 1j
 	- [x] 4b + 2j
-	- [ ] 4b + 4j
+	- [ ] 4b + Xj
 - [x] Run jet multiplicities together / Plots separate 
 - [x] Recursive ISR removal (Needed for 4b + >1j)
 	- [x] `['bb', '(bb)(jj)'] -> with ISR cleaning ['bb', 'bb', 'jj']
@@ -39,7 +39,7 @@ Getting the new mixing going
 - [ ] Write out picos with the declustered jet (write CI)
 - [ ] Fix the extra jet treatment (for now copy jets < 40 and add new jets)
 	- [ ] Or just do splitting for all jets > 20 GeV
-- [ ] update recursion to only check if bjet pt > 40 GeV
+	- [ ] update recursion to only check if bjet pt > 40 GeV
 - [ ] [[ResamplingBug]]
 - [x] Add a dR AB > 0.4 check
 - [x] [[bj pt mismodeling]]
@@ -52,13 +52,13 @@ Getting the new mixing going
 - [x] ISR is everything but (b+x) + (b+x) splittings!!!!
 - [x] Test script crashing b/c of memory
 	- [x] When max 2 extra jets / Running with 1 worker fixes it
-	- [ ] Now think this was b/c I was making too many hists! / back to 4 workers
-	- [ ] Swap memory -> 0 / Maybe faster using 2 workers ? A: no it doesnt! 
+	- [x] Now think this was b/c I was making too many hists! / back to 4 workers
+	- [x] Swap memory -> 0 / Maybe faster using 2 workers ? A: no it doesnt! 
 - [x] Reduce memory!
 	- [x] Remove unneeded histograms 
 	- [x] Only write out splittings we need
-- [ ] Add back detailed splittting hists
-	- [ ] option to turn them on/off
+- [x] Add back detailed splittting hists
+	- [x] option to turn them on/off
 - [ ] PDF script to only rely on trimmed histograms
 	- [ ] separate study_splitting_fuctions from make_PDFs
 
