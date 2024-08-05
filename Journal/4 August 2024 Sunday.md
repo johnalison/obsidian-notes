@@ -27,3 +27,12 @@ Looking at a CMU caladar
 [[MPL Fall 2024]]
 
 Reading about [[Numba]]
+
+# Kettle Bell workout
+- EMOM 35 lbs for 15 then 55 for 5. 
+
+Bus to pool
+
+# Pool
+- Beers with Tony, will get drinks on Tuesday
+

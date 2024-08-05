@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/Numba.md",
+                "file": "Journal/4 August 2024 Sunday.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/Numba.md",
+                "file": "Journal/4 August 2024 Sunday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/Numba.md",
+                "file": "Journal/4 August 2024 Sunday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/Numba.md"
+                "file": "Journal/4 August 2024 Sunday.md"
               }
             }
           }
@@ -164,8 +164,8 @@
   },
   "active": "856b44cf196e5628",
   "lastOpenFiles": [
-    "Journal/4 August 2024 Sunday.md",
     "0-inbox/Numba.md",
+    "Journal/4 August 2024 Sunday.md",
     "Input/rectangle.md",
     "Input/Papers/papers.md",
     "Input/Books/Computer Age Statistical Inference.md",
