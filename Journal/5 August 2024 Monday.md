@@ -42,6 +42,9 @@
 
 Up at 7:15
 
+# Escajeda (Masons) Here
+- More involved than they thought
+
 M and T to School
 
 Setup
@@ -57,8 +60,9 @@ EOS down on LPC... joined LPC computing mattermost channel
 - Running all clustering to check detailed plots
 - inclusive Declustering test job works !  with old 00-03-00 pdf
 - inclusive Declustering w/ 00-04-00 pdfs  ... works fine
-- inclusive declustering full 18 sample... 
+- inclusive declustering full 18 sample...  works with 00-04-00 !
 - Bug when making inputs for 00-04-00 (random comb jet flavor order) ... remaking
+- Declustered data look good !
 
 Chat markus re:Aniket for MPL
 - Follow up with Aniket
@@ -68,6 +72,10 @@ Chat markus re:Aniket for MPL
 
 [[multiHiggs working meeting 5 August 2024]]
 
+
+# Gym / Steamroom
+- core / Bench / Row / Lift
+- 10' at Tmax = 122
 
 
 
