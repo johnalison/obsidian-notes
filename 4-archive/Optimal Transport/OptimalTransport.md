@@ -16,7 +16,7 @@ https://arxiv.org/abs/2208.02807
 - [x] Alternative Metrics ?
 - [ ] Speed up LOT
 - [ ] Compare weights OT vs FvT
-∂
+
 
 
 
@@ -44,3 +44,4 @@ https://arxiv.org/abs/2208.02807
 **
 # Links
 [[OptimalTransport]]
+[[ABCDMethod]]

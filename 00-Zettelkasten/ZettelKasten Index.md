@@ -9,6 +9,7 @@ Index:
 **Unclassified**:
 
 [[Success-And-Failure-As-Imposters]]
+[[PCA and Autoencoder]]
 
 
 # Particle Physics
@@ -25,10 +26,12 @@ Index:
 
 [[Spurious-Signal]]
 
-
 ## Potential Analyses
 [[H-bb-vs-cc-using-photons]]
 
+# Data Science
+
+[[PCA and Autoencoder]]
 
 # Leadership: a skill that can be taught and learned
 

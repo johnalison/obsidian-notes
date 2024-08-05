@@ -1,28 +1,28 @@
 # Timeblock
 
-|     |                  |     |
-| --- | ---------------- | --- |
-| 9   | setup            |     |
-|     | jet declustering |     |
-| 10  | jet declustering |     |
-|     | jet declustering |     |
-| 11  | jet declustering |     |
-|     | jet declustering |     |
-| 12  | multi-Higgs      |     |
-|     | Gym              |     |
-| 1   | Gym              |     |
-|     | Gym              |     |
-| 2   |                  |     |
-|     | Sindhu Chat      |     |
-| 3   | Aniket           |     |
-|     |                  |     |
-| 4   | Berman           |     |
-|     |                  |     |
+|     |                       |     |
+| --- | --------------------- | --- |
+| 9   | setup                 |     |
+|     | jet declustering      |     |
+| 10  | jet declustering      |     |
+|     | jet declustering      |     |
+| 11  | jet declustering      |     |
+|     | jet declustering      |     |
+| 12  | multi-Higgs           |     |
+|     | Gym                   |     |
+| 1   | Gym                   |     |
+|     | Gym                   |     |
+| 2   | To library            |     |
+|     | Sindhu Chat           |     |
+| 3   | Aniket                |     |
+|     | Chat                  |     |
+| 4   | Berman                |     |
+|     | PCAs and Autoencoders |     |
 
-**W:**
-**DW:**
-**OT:**
-**ex** or **~~ex~~**
+**W:**. 6 
+**DW:** 3
+**OT:** 3
+**EX** 
 
 # The ONE thing: 
 - [ ] Jet declustering
@@ -30,11 +30,11 @@
 
 # To Do
 - [ ] Read W/Z
-- [ ] 4b
-	 - [ ] 4b + Xj
+- [x] 4b
+	 - [x] 4b + Xj
 - [ ] write up S/sqrt(B) argument
 - [ ] CAM training
-- [ ] Aniket re:MPL
+- [x] Aniket re:MPL
 - [ ] 
 
 
@@ -63,21 +63,41 @@ EOS down on LPC... joined LPC computing mattermost channel
 - inclusive declustering full 18 sample...  works with 00-04-00 !
 - Bug when making inputs for 00-04-00 (random comb jet flavor order) ... remaking
 - Declustered data look good !
+- Declustered signal looks GOOD !!
+- Scaling up clustering to all years running on **cmslpc329**... 84mins
+- Making PDFs from all years  00-05-00
+- Scaling up declustering to all years running on **cmslpc329**...
 
-Chat markus re:Aniket for MPL
+# Chat markus re:Aniket for MPL
 - Follow up with Aniket
 
 [[DOE Grant Numbers]]
 
-
 [[multiHiggs working meeting 5 August 2024]]
-
 
 # Gym / Steamroom
 - core / Bench / Row / Lift
 - 10' at Tmax = 122
 
-
 # To Library Got [[American Covenant ]]
 
+More mixed... (see above)
+
+[[Chat w Sindhu 5 August]]
+
+[[ChatwAniket 5 August 2024]]
+
+More mixed... (see above)
+
+[[Chat Chris Berman 5 Aug 2024]]
+
+[[PCA and Autoencoder]]
+
+Brought M&T home
+
+Backdoor blocked 
+
+Some more mixed ... (see above)
+
+# Hoops w/H 
 

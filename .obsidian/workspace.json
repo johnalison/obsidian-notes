@@ -8,19 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9826d8c7d3d2c60a",
+            "id": "ea580d294540a501",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/4 August 2024 Sunday.md",
+                "file": "00-Zettelkasten/PCA and Autoencoder.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ea580d294540a501",
+            "id": "8a7082a7c89530e5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1129adb9d1744e06",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00-Zettelkasten/ZettelKasten Index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -111,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-projects/Mixed2.0/mixed2.0.md",
+                "file": "Journal/5 August 2024 Monday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-projects/Mixed2.0/mixed2.0.md",
+                "file": "Journal/5 August 2024 Monday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-projects/Mixed2.0/mixed2.0.md"
+                "file": "Journal/5 August 2024 Monday.md"
               }
             }
           }
@@ -174,35 +186,36 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "97a2e0edbdca5f16",
+  "active": "8a7082a7c89530e5",
   "lastOpenFiles": [
-    "1-projects/Mixed2.0/clean splittings during clustering.md",
     "1-projects/Mixed2.0/mixed2.0.md",
     "Journal/5 August 2024 Monday.md",
-    "0-inbox/multiHiggs working meeting 5 August 2024.md",
+    "0-inbox/Chat Chris Berman 5 Aug 2024.md",
     "00-Zettelkasten/MLForSplittingFunctions.md",
+    "00-Zettelkasten/PCA and Autoencoder.md",
+    "00-Zettelkasten/ZettelKasten Index.md",
+    "0-inbox/Numba.md",
+    "00-Zettelkasten/Get Better at getting better.md",
+    "00-Zettelkasten/Wisdom-index.md",
+    "Input/Meetings/July/ChatwAniket 29 July 2024.md",
+    "2-areas/CMU/DOE Grant Numbers.md",
+    "2-areas/CMU",
+    "Journal/Goals.md",
+    "Journal/2021/January 2021.md",
+    "4-archive/Optimal Transport/OptimalTransport.md",
+    "Input/Meetings/ChatwAniket 5 August 2024.md",
+    "2-areas/Mentoring/Aniket Khanal.md",
+    "Input/Meetings/Chat w Sindhu 5 August.md",
+    "1-projects/Mixed2.0/clean splittings during clustering.md",
+    "0-inbox/multiHiggs working meeting 5 August 2024.md",
     "Journal/4 August 2024 Sunday.md",
-    "0-inbox/DOE Grant Numbers.md",
     "Journal/August 2024.md",
     "Journal/July/30 July 2024 Tuesday.md",
     "Journal/July 2024.md",
     "Journal/July/29 July 2024 Monday.md",
     "Journal/July/26 July 2024 Friday.md",
     "Journal/July/25 July 2024 Thursday.md",
-    "Journal/July/24 July 2024 Wednesday.md",
-    "Journal/July/23 July 24 Tuesday.md",
-    "Journal/July/22 July 24 Monday.md",
-    "Journal/July/21 July 24 Sunday.md",
-    "Journal/July/20 July 24 Saturday.md",
-    "Journal/July/10 July 24 Wednesday.md",
-    "Journal/July/18 July 24 Thursday.md",
-    "Journal/July/17 July 24 Wednesday.md",
-    "Journal/July/19 July 24 Friday.md",
-    "Journal/July/9 July 24 Tuesday.md",
     "Journal/#August 2024.md#",
-    "Journal/3 August 2024 Saturday.md",
-    "Journal/2 August 2024 Friday.md",
-    "Journal/05 August 2024 Monday.md",
     "Journal/2021/#October 2021.md#",
     "Journal/2021/#September 2021.md#",
     "Journal/2021/#August 2021.md#",
@@ -211,7 +224,6 @@
     "Journal/2021/#May 2021.md#",
     "4-archive/Optimal Transport",
     "4-archive/B-jet Trigger",
-    "4-archive/BTV",
     "attachments/Pasted image 20240730120049.png",
     "attachments/Pasted image 20240730120040.png",
     "attachments/Pasted image 20240726092502.png",

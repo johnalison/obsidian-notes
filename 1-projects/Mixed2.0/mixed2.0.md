@@ -10,8 +10,9 @@ Getting the new mixing going
 - [x] 4b + 1j
 - [x] 4b + 2j
 - [ ] ~~4b + 4j
-- [ ] 4b + Xj
-- [ ] Scale years
+- [x] 4b + Xj
+- [ ] Scale years clustering
+- [ ] Scale years declustering
 	- [ ] PDFs by year ?
 
 
@@ -37,8 +38,9 @@ Getting the new mixing going
 - [x] Script to compare cluster vs reclusterd
 - [x] scripts to compare splitting functions
 - [ ] ~~Script to compare splitting functions in jet multiplicities~~
-- [ ] Write out picos with clustered jets (write CI)
-- [ ] Write out picos with the declustered jet (write CI)
+- [ ] ~~Write out picos with clustered jets (write CI)
+- [ ] Write out picos with the synthetic datasets jet (write CI)
+- [ ] CI for code to make the clustering histograms
 - [ ] Fix the extra jet treatment (for now copy jets < 40 and add new jets)
 	- [ ] Or just do splitting for all jets > 20 GeV
 	- [ ] update recursion to only check if bjet pt > 40 GeV
@@ -66,7 +68,8 @@ Getting the new mixing going
 	- [ ] plot the splitting type multiplicity
 - [ ] Seeing types
 	- `(bj)((jj)b)` and `((jj)b)(bj)`
-	- 
+- [ ] Update presentation with inclusive sample
+- [ ] Compare splittings by year
 
 
 
@@ -75,14 +78,6 @@ Getting the new mixing going
 - [x] b(bj) mB -> mB_l
 - [ ] Extend range of mB 
 
-
-
-## Links: 
-
-[[CMS]]
-[[physics]]
-[[ABCDMethod]]
-[[Jet DeClustering]]
 
 
 # Work:
@@ -103,10 +98,18 @@ Getting the new mixing going
 ## Just clustering:
 4b+2j: **28m46.523s**
 4b+ Xj (all splittings / trimmed histograms) **37m0.066s**. 
-
+4b+Xj all years: **83m53.974s**
 
 ## Synthetic Datasets
 Inclusive in jet multiplicity (rerunning SvB) **real 38m1.994s**
+
+
+## Links: 
+
+[[CMS]]
+[[physics]]
+[[ABCDMethod]]
+[[Jet DeClustering]]
 
 
 202407091049
