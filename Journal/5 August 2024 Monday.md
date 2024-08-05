@@ -34,8 +34,7 @@
 	 - [ ] 4b + Xj
 - [ ] write up S/sqrt(B) argument
 - [ ] CAM training
-
-- [ ] 
+- [ ] Aniket re:MPL
 - [ ] 
 
 
@@ -53,4 +52,9 @@ EOS down on LPC... joined LPC computing mattermost channel
 - Cant run jobs... can do test jobs!
 - Try to optimize with [[Numba]]
 - 
+
+Chat markus re:Aniket for MPL
+- Follow up with Aniket
+
+
 
