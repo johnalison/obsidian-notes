@@ -25,14 +25,14 @@
 **~~ex~~**
 
 # The ONE thing: 
-- [ ] mixed 4j + 2j (recursion)
+- [x] mixed 4j + 2j (recursion)
 
 
 # To Do
-- [ ] 4b
-	 - [ ] 4b + 2j
-- [ ] write up S/sqrt(B) argument
-- [ ] CAM training
+- [x] 4b
+	 - [x] 4b + 2j
+- [> ] write up S/sqrt(B) argument
+- [> ] CAM training
 - [ ] 
 
 

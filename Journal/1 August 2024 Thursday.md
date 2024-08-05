@@ -1,23 +1,23 @@
 # Timeblock
 
-|     |                  |     |
-| --- | ---------------- | --- |
-| 9   | setup migration  |     |
-|     | jet declustering |     |
-| 10  | jet declustering |     |
-|     | jet declustering |     |
-| 11  | HGC              |     |
-|     | HGC              |     |
-| 12  | bbWW             |     |
-|     | Gym              |     |
-| 1   | Gym              |     |
-|     | Gym              |     |
-| 2   | jet declustering |     |
-|     | jet declustering |     |
-| 3   | Meet Tony        |     |
-|     | Get H            |     |
-| 4   |                  |     |
-|     |                  |     |
+|     |                   |     |
+| --- | ----------------- | --- |
+| 9   | setup / migration |     |
+|     | jet declustering  |     |
+| 10  | jet declustering  |     |
+|     | jet declustering  |     |
+| 11  | HGC               |     |
+|     | HGC               |     |
+| 12  | bbWW              |     |
+|     | Gym               |     |
+| 1   | Gym               |     |
+|     | Gym               |     |
+| 2   | jet declustering  |     |
+|     | jet declustering  |     |
+| 3   | Meet Tony         |     |
+|     | Get H             |     |
+| 4   |                   |     |
+|     |                   |     |
 
 **W:** 5 
 **DW:** 3 

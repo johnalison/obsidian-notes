@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ea580d294540a501",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Journal/5 August 2024 Monday.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/4 August 2024 Sunday.md",
+                "file": "Journal/5 August 2024 Monday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/4 August 2024 Sunday.md",
+                "file": "Journal/5 August 2024 Monday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/4 August 2024 Sunday.md"
+                "file": "Journal/5 August 2024 Monday.md"
               }
             }
           }
@@ -149,34 +162,35 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9826d8c7d3d2c60a",
+  "active": "ea580d294540a501",
   "lastOpenFiles": [
-    "Input/PerfectionNotRequired.md",
-    "00-Zettelkasten/TheAmericanExperiment.md",
-    "00-Zettelkasten/Seek out feedback loops.md",
-    "00-Zettelkasten/Wisdom-index.md",
-    "00-Zettelkasten/ZettelKasten Index.md",
-    "0-inbox/Get Better at getting better.md",
-    "0-inbox/Specialize in being the best version of you.md",
     "Journal/4 August 2024 Sunday.md",
-    "3-resources/Obsidian/Ideas-for-emacs-Obsidian.md",
-    "Input/Books/Antifragile.md",
-    "0-inbox/Numba.md",
-    "Input/rectangle.md",
-    "Input/Papers/papers.md",
-    "Input/Books/Computer Age Statistical Inference.md",
-    "Input/Books/SomethingDeeplyHidden.md",
     "Journal/August 2024.md",
-    "Output/Lists.md",
-    "0-inbox/ExpertsDisagree.md",
-    "Input/Books/IntelligentInvestor.md",
-    "Input/Books/TheRedQueen.md",
-    "2-areas/Philosophy/Things where experts disagree.md",
-    "1-projects/Mixed2.0/mixed2.0.md",
-    "Input/Books/Books.md",
-    "Journal/Future Log.md",
-    "1-projects/Teaching/MPL Fall 2024.md",
-    "Journal/2021/August 2021.md",
+    "Journal/5 August 2024 Monday.md",
+    "Journal/July/30 July 2024 Tuesday.md",
+    "Journal/July 2024.md",
+    "Journal/July/29 July 2024 Monday.md",
+    "Journal/July/26 July 2024 Friday.md",
+    "Journal/July/25 July 2024 Thursday.md",
+    "Journal/July/24 July 2024 Wednesday.md",
+    "Journal/July/23 July 24 Tuesday.md",
+    "Journal/July/22 July 24 Monday.md",
+    "Journal/July/21 July 24 Sunday.md",
+    "Journal/July/20 July 24 Saturday.md",
+    "Journal/July/10 July 24 Wednesday.md",
+    "Journal/July/18 July 24 Thursday.md",
+    "Journal/July/17 July 24 Wednesday.md",
+    "Journal/July/19 July 24 Friday.md",
+    "Journal/July/9 July 24 Tuesday.md",
+    "Journal/#August 2024.md#",
+    "Journal/3 August 2024 Saturday.md",
+    "Journal/2 August 2024 Friday.md",
+    "Journal/05 August 2024 Monday.md",
+    "Journal/1 August 2024 Thursday.md",
+    "Journal/2020/December 2020.md",
+    "Journal/July/27 July 2024 Saturday.md",
+    "Journal/July/28 July 2024 Sunday.md",
+    "Journal/July/31 July 2024 Wednesday.md",
     "Journal/2021/#October 2021.md#",
     "Journal/2021/#September 2021.md#",
     "Journal/2021/#August 2021.md#",
@@ -186,7 +200,6 @@
     "4-archive/Optimal Transport",
     "4-archive/B-jet Trigger",
     "4-archive/BTV",
-    "1-projects/HGC",
     "attachments/Pasted image 20240730120049.png",
     "attachments/Pasted image 20240730120040.png",
     "attachments/Pasted image 20240726092502.png",
