@@ -7,6 +7,9 @@ Can we improve PDF sampling in the jets (de)clustering with Maching Learning ? M
 - Test the 1D marginals conditioned on comb pt
 - Test one of zA or thetaA marginal conditions on the other
 - check the compression (eg: size of data stored)
+- Think what we want is some kind of generative model
+	- eg: auto encoder parameterized with pT,  pT + rand -> {z, θ, phi, m, m}
+
 
 ## Links: 
 [[UndergradProjects]]

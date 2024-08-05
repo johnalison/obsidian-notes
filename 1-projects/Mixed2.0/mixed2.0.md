@@ -11,6 +11,8 @@ Getting the new mixing going
 - [x] 4b + 2j
 - [ ] ~~4b + 4j
 - [ ] 4b + Xj
+- [ ] Scale years
+	- [ ] PDFs by year ?
 
 
 ## Ideas: 
@@ -62,6 +64,9 @@ Getting the new mixing going
 - [ ] PDF script to only rely on trimmed histograms
 	- [x] separate study_splitting_fuctions from make_PDFs
 	- [ ] plot the splitting type multiplicity
+- [ ] Seeing types
+	- `(bj)((bj)(jj))
+	- `(bj)(((jj)j)b)
 
 
 
