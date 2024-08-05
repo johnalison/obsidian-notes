@@ -65,8 +65,8 @@ Getting the new mixing going
 	- [x] separate study_splitting_fuctions from make_PDFs
 	- [ ] plot the splitting type multiplicity
 - [ ] Seeing types
-	- `(bj)((bj)(jj))
-	- `(bj)(((jj)j)b)
+	- `(bj)((jj)b)` and `((jj)b)(bj)`
+	- 
 
 
 
