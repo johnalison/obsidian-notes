@@ -36,3 +36,5 @@ Bus to pool
 # Pool
 - Beers with Tony, will get drinks on Tuesday
 
+Did some [[PerfectionNotRequired]]
+

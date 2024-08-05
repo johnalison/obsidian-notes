@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "856b44cf196e5628",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Journal/4 August 2024 Sunday.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -51,7 +38,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "#consume",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +65,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -147,8 +135,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -162,10 +149,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "856b44cf196e5628",
+  "active": "9826d8c7d3d2c60a",
   "lastOpenFiles": [
-    "0-inbox/Numba.md",
+    "Input/PerfectionNotRequired.md",
+    "00-Zettelkasten/TheAmericanExperiment.md",
+    "00-Zettelkasten/Seek out feedback loops.md",
+    "00-Zettelkasten/Wisdom-index.md",
+    "00-Zettelkasten/ZettelKasten Index.md",
+    "0-inbox/Get Better at getting better.md",
+    "0-inbox/Specialize in being the best version of you.md",
     "Journal/4 August 2024 Sunday.md",
+    "3-resources/Obsidian/Ideas-for-emacs-Obsidian.md",
+    "Input/Books/Antifragile.md",
+    "0-inbox/Numba.md",
     "Input/rectangle.md",
     "Input/Papers/papers.md",
     "Input/Books/Computer Age Statistical Inference.md",
@@ -181,15 +177,6 @@
     "Journal/Future Log.md",
     "1-projects/Teaching/MPL Fall 2024.md",
     "Journal/2021/August 2021.md",
-    "00-Zettelkasten/MLForSplittingFunctions.md",
-    "Journal/3 August 2024 Saturday.md",
-    "Journal/2 August 2024 Friday.md",
-    "Input/Learning List.md",
-    "Input/SomedayMaybe.md",
-    "2-areas/Physics/Estimation.md",
-    "4-archive/BTV/BTV.md",
-    "Journal/2021/October 2021.md",
-    "Journal/2021/September 2021.md",
     "Journal/2021/#October 2021.md#",
     "Journal/2021/#September 2021.md#",
     "Journal/2021/#August 2021.md#",

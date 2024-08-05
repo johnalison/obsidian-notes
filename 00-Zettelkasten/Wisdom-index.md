@@ -22,6 +22,13 @@
 # Perfection Not required
 effective self-improvement critical
 
+[[Seek out feedback loops]]
+[[Specialize in being the best version of you]]
+[[Get Better at getting better]]
+[[TheAmericanExperiment]]
+
+
+
 # Strict with yourself, Lenient with others.
 (Extreme Ownership)**
 	*  Leadership is a skill that can be taught/learned
