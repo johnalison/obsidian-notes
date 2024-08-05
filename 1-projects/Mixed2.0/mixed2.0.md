@@ -32,7 +32,7 @@ Getting the new mixing going
 - [x] Run jet multiplicities together / Plots separate 
 - [x] Recursive ISR removal (Needed for 4b + >1j)
 	- [x] `['bb', '(bb)(jj)'] -> with ISR cleaning ['bb', 'bb', 'jj']
-- [ ] Compare splitting functions ( + 0j vs +1j vs +>1j )
+- [ ] ~~Compare splitting functions ( + 0j vs +1j vs +>1j )
 - [ ] Read [[Do graph neural networks learn traditional jet substructure?]]]
 - [x] Script to compare cluster vs reclusterd
 - [x] scripts to compare splitting functions
@@ -103,6 +103,10 @@ Getting the new mixing going
 ## Just clustering:
 4b+2j: **28m46.523s**
 4b+ Xj (all splittings / trimmed histograms) **37m0.066s**. 
+
+
+## Synthetic Datasets
+Inclusive in jet multiplicity (rerunning SvB) **real 38m1.994s**
 
 
 202407091049
