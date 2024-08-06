@@ -11,8 +11,8 @@ Getting the new mixing going
 - [x] 4b + 2j
 - [ ] ~~4b + 4j
 - [x] 4b + Xj
-- [ ] Scale years clustering
-- [ ] Scale years declustering
+- [x] Scale years clustering
+- [x] Scale years declustering
 	- [ ] PDFs by year ?
 
 
@@ -68,7 +68,7 @@ Getting the new mixing going
 	- [ ] plot the splitting type multiplicity
 - [ ] Seeing types
 	- `(bj)((jj)b)` and `((jj)b)(bj)`
-- [ ] Update presentation with inclusive sample
+- [ ] Update presentation with inclusive sample and all years
 - [ ] Compare splittings by year
 
 
@@ -101,8 +101,8 @@ Getting the new mixing going
 4b+Xj all years: **83m53.974s**
 
 ## Synthetic Datasets
-Inclusive in jet multiplicity (rerunning SvB) **real 38m1.994s**
-
+Inclusive in jet multiplicity (rerunning SvB) **38m1.994s**
+inclusive in jet multiplicity and all years **88m46.643s**
 
 ## Links: 
 

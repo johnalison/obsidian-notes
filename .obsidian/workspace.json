@@ -8,36 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ea580d294540a501",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00-Zettelkasten/PCA and Autoencoder.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8a7082a7c89530e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Journal/5 August 2024 Monday.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "97a2e0edbdca5f16",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-projects/Mixed2.0/mixed2.0.md",
+                "file": "Journal/2021/November 2021.md",
                 "mode": "source",
                 "source": false
               }
@@ -55,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -75,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#consume",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -123,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/5 August 2024 Monday.md",
+                "file": "Journal/2021/November 2021.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/5 August 2024 Monday.md",
+                "file": "Journal/2021/November 2021.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/5 August 2024 Monday.md"
+                "file": "Journal/2021/November 2021.md"
               }
             }
           }
@@ -186,35 +161,36 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8a7082a7c89530e5",
+  "active": "97a2e0edbdca5f16",
   "lastOpenFiles": [
-    "1-projects/Mixed2.0/mixed2.0.md",
-    "Journal/5 August 2024 Monday.md",
-    "0-inbox/Chat Chris Berman 5 Aug 2024.md",
-    "00-Zettelkasten/MLForSplittingFunctions.md",
-    "00-Zettelkasten/PCA and Autoencoder.md",
-    "00-Zettelkasten/ZettelKasten Index.md",
-    "0-inbox/Numba.md",
-    "00-Zettelkasten/Get Better at getting better.md",
-    "00-Zettelkasten/Wisdom-index.md",
-    "Input/Meetings/July/ChatwAniket 29 July 2024.md",
-    "2-areas/CMU/DOE Grant Numbers.md",
-    "2-areas/CMU",
-    "Journal/Goals.md",
+    "Journal/2021/#November 2021.md#",
     "Journal/2021/January 2021.md",
-    "4-archive/Optimal Transport/OptimalTransport.md",
-    "Input/Meetings/ChatwAniket 5 August 2024.md",
-    "2-areas/Mentoring/Aniket Khanal.md",
-    "Input/Meetings/Chat w Sindhu 5 August.md",
-    "1-projects/Mixed2.0/clean splittings during clustering.md",
-    "0-inbox/multiHiggs working meeting 5 August 2024.md",
-    "Journal/4 August 2024 Sunday.md",
-    "Journal/August 2024.md",
-    "Journal/July/30 July 2024 Tuesday.md",
-    "Journal/July 2024.md",
-    "Journal/July/29 July 2024 Monday.md",
-    "Journal/July/26 July 2024 Friday.md",
-    "Journal/July/25 July 2024 Thursday.md",
+    "Journal/2021/November 2021.md",
+    "Journal/2021/August 2021.md",
+    "Journal/2021/July 2021.md",
+    "Journal/2021/April 2021.md",
+    "Journal/2021/February 2021.md",
+    "Journal/2021/June 2021.md",
+    "Journal/2020/11 November 2020.md",
+    "Journal/2020/12 December 2020.md",
+    "4-archive/HIG-22-011/HIG-22-011.md",
+    "Input/SomedayMaybe.md",
+    "Journal/July/11 July 24 Thursday.md",
+    "4-archive/BTV/BTV.md",
+    "1-projects/HGC/HGC Projects.md",
+    "1-projects/4b Resonant/4b Resonant Search.md",
+    "2-areas/Untitled.md",
+    "2-areas/PGSS",
+    "4-archive/VHH Run-2.md",
+    "Journal/5 August 2024 Monday.md",
+    "0-inbox/Things-To-Add-To-Notes.md",
+    "00-Zettelkasten/ZettelKasten Index.md",
+    "1-projects/Mixed2.0/mixed2.0.md",
+    "Input/Meetings/Chat Chris Berman 5 Aug 2024.md",
+    "00-Zettelkasten/Specialize in being the best version of you.md",
+    "Input/Meetings/multiHiggs working meeting 5 August 2024.md",
+    "00-Zettelkasten/PCA and Autoencoder.md",
+    "2-areas/CMU",
     "Journal/#August 2024.md#",
     "Journal/2021/#October 2021.md#",
     "Journal/2021/#September 2021.md#",
@@ -223,7 +199,6 @@
     "Journal/2021/#June 2021.md#",
     "Journal/2021/#May 2021.md#",
     "4-archive/Optimal Transport",
-    "4-archive/B-jet Trigger",
     "attachments/Pasted image 20240730120049.png",
     "attachments/Pasted image 20240730120040.png",
     "attachments/Pasted image 20240726092502.png",

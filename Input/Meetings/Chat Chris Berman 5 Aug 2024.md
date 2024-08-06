@@ -3,7 +3,7 @@ Start with 1D
 try with pNN 
 
 Connection between PCA and Autoencoder ?
-
+[[PCA and Autoencoder]]
 
 
 
@@ -11,6 +11,8 @@ Connection between PCA and Autoencoder ?
 
 
 ## Links: 
+[[ChrisBerman]]
+[[MLForSplittingFunctions]]
 
 
 

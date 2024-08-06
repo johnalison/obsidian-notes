@@ -56,8 +56,8 @@ Trying to fix ΔR < 0.4... not clear how to bailing...
 Trying to work on nested clusterings...
 
 Writting up old notebooks
-[[November 2020]]
-[[December 2020]]
+[[11 November 2020]]
+[[12 December 2020]]
 
 [[The Craft of Effective Writing]]
 

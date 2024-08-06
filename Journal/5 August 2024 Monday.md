@@ -66,7 +66,7 @@ EOS down on LPC... joined LPC computing mattermost channel
 - Declustered signal looks GOOD !!
 - Scaling up clustering to all years running on **cmslpc329**... 84mins
 - Making PDFs from all years  00-05-00
-- Scaling up declustering to all years running on **cmslpc329**...
+- Scaling up declustering to all years running on **cmslpc329**...**88m46.643s**
 
 # Chat markus re:Aniket for MPL
 - Follow up with Aniket
@@ -101,3 +101,4 @@ Some more mixed ... (see above)
 
 # Hoops w/H 
 
+Some [[BlackSwan]]
