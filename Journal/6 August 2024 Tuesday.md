@@ -51,6 +51,9 @@ Setup
 - Re-running HH4b declustering for all years ... fails
 	- Seeing splitting `((bj)`  /  `(((jj)j)j)((bj)` / `40`
 	- Found Errors, was overflow in "XXXX" replacement (need better fix longterm)
+- Re-running HH4b declustering for all years ... 
+- Updating slides with new declustering
+- 
 
 # Alejandro back ! 
 
@@ -69,3 +72,7 @@ good runs: 4s / 5s/ 4s / 3s
 More mixed debugging (see above)
 
 No mans meeting
+
+install pdflatex [[Setup M3 Macbook]]
+
+Starting to make pdflatex slides 

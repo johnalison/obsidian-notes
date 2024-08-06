@@ -71,6 +71,8 @@ Getting the new mixing going
 - [ ] Update presentation with inclusive sample and all years
 - [ ] Compare splittings by year
 - [ ] Proper Protection from missing splitting ? 
+- [ ] pdflatex for dataset comparisions
+- [ ] 
 
 
 

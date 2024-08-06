@@ -22,6 +22,8 @@
 - `brew install ispell
 - `brew install tmux
 - installed Proton VPN
+- Installed pdflatex `brew install basictex
+
 
 
 
