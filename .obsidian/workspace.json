@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/2021/November 2021.md",
+                "file": "2-areas/Mentoring/Manfred.md",
                 "mode": "source",
                 "source": false
               }
@@ -75,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "manfred",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -188,8 +188,10 @@
   },
   "active": "1129adb9d1744e06",
   "lastOpenFiles": [
-    "templates/Wes Template.md",
+    "2-areas/Mentoring/Manfred.md",
+    "Journal/2021/November 2021.md",
     "Journal/6 August 2024 Tuesday.md",
+    "templates/Wes Template.md",
     "Input/Meetings/Chat with Wes 6 August 2024.md",
     "0-inbox/Chat w Wes 6 August 2024.md",
     "templates/Zettel Template.md",
@@ -205,7 +207,6 @@
     "Input/Meetings/Chat w Sindhu 5 August.md",
     "Journal/#6 August 2024 Tuesday.md#",
     "00-Zettelkasten/ZettelKasten Index.md",
-    "Journal/2021/November 2021.md",
     "Journal/2021/#November 2021.md#",
     "Journal/2021/January 2021.md",
     "Journal/2021/August 2021.md",
@@ -215,7 +216,6 @@
     "Journal/2021/June 2021.md",
     "Journal/2020/11 November 2020.md",
     "Journal/2020/12 December 2020.md",
-    "4-archive/HIG-22-011/HIG-22-011.md",
     "2-areas/PGSS",
     "2-areas/CMU",
     "Journal/#August 2024.md#",
