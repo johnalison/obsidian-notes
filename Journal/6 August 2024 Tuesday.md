@@ -50,6 +50,7 @@ Setup
 - Hack for missing input splittings (use the last one)
 - Re-running HH4b declustering for all years ... fails
 	- Seeing splitting `((bj)`  /  `(((jj)j)j)((bj)` / `40`
+	- Found Errors, was overflow in "XXXX" replacement (need better fix longterm)
 
 # Alejandro back ! 
 
