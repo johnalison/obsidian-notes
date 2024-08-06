@@ -51,7 +51,7 @@ Setup
 - Re-running HH4b declustering for all years ... fails
 	- Seeing splitting `((bj)`  /  `(((jj)j)j)((bj)` / `40`
 	- Found Errors, was overflow in "XXXX" replacement (need better fix longterm)
-- Re-running HH4b declustering for all years ... 
+- Re-running HH4b declustering for all years ...  now memory leak somewhere!
 - Updating slides with new declustering
 - 
 
