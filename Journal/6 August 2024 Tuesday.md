@@ -75,4 +75,12 @@ No mans meeting
 
 install pdflatex [[Setup M3 Macbook]]
 
-Starting to make pdflatex slides 
+# Starting to make pdflatex slides 
+added them to my log
+
+Seeing a big memory leak during the synthetic datasets... debugging
+
+
+
+
+
