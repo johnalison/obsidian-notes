@@ -29,11 +29,11 @@
 
 
 # To Do
-- [ ] Read W/Z
+- [> ] Read W/Z
 - [x] 4b
 	 - [x] 4b + Xj
-- [ ] write up S/sqrt(B) argument
-- [ ] CAM training
+- [> ] write up S/sqrt(B) argument
+- [> ] CAM training
 - [x] Aniket re:MPL
 - [ ] 
 

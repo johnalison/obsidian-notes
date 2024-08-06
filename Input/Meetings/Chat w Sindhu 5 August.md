@@ -1,7 +1,7 @@
 
 Had a nice time at the summer school. 
-recommends the lectures
 
+Recommends the lectures
 https://indico.fnal.gov/event/63696/timetable/#20240726.detailed
 
 
@@ -9,7 +9,7 @@ https://indico.fnal.gov/event/63696/timetable/#20240726.detailed
 
 
 ## Links: 
-
+[[Sindhu Murthy]]
 
 
 202408051521

@@ -25,13 +25,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-Zettelkasten/ZettelKasten Index.md",
+                "file": "Journal/6 August 2024 Tuesday.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8f2dc7d315072373",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "templates/Wes Template.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7955aa80469a2fa5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "templates/Zettel Template.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/2021/November 2021.md",
+                "file": "Journal/6 August 2024 Tuesday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/2021/November 2021.md",
+                "file": "Journal/6 August 2024 Tuesday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/2021/November 2021.md"
+                "file": "Journal/6 August 2024 Tuesday.md"
               }
             }
           }
@@ -161,11 +186,28 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "97a2e0edbdca5f16",
+  "active": "1129adb9d1744e06",
   "lastOpenFiles": [
+    "templates/Wes Template.md",
+    "Journal/6 August 2024 Tuesday.md",
+    "Input/Meetings/Chat with Wes 6 August 2024.md",
+    "0-inbox/Chat w Wes 6 August 2024.md",
+    "templates/Zettel Template.md",
+    "templates/Daily Template.md",
+    "1-projects/Mixed2.0/Script to compare synthetic and nominal datasets.md",
+    "1-projects/Mixed2.0/mixed2.0.md",
+    "1-projects/Mixed2.0/Script to check reclustered splittings.md",
+    "1-projects/Mixed2.0/script to compare the splittings.md",
+    "Journal/5 August 2024 Monday.md",
+    "00-Zettelkasten/PCA and Autoencoder.md",
+    "Input/Meetings/Chat Chris Berman 5 Aug 2024.md",
+    "Input/Meetings/ChatwAniket 5 August 2024.md",
+    "Input/Meetings/Chat w Sindhu 5 August.md",
+    "Journal/#6 August 2024 Tuesday.md#",
+    "00-Zettelkasten/ZettelKasten Index.md",
+    "Journal/2021/November 2021.md",
     "Journal/2021/#November 2021.md#",
     "Journal/2021/January 2021.md",
-    "Journal/2021/November 2021.md",
     "Journal/2021/August 2021.md",
     "Journal/2021/July 2021.md",
     "Journal/2021/April 2021.md",
@@ -174,22 +216,7 @@
     "Journal/2020/11 November 2020.md",
     "Journal/2020/12 December 2020.md",
     "4-archive/HIG-22-011/HIG-22-011.md",
-    "Input/SomedayMaybe.md",
-    "Journal/July/11 July 24 Thursday.md",
-    "4-archive/BTV/BTV.md",
-    "1-projects/HGC/HGC Projects.md",
-    "1-projects/4b Resonant/4b Resonant Search.md",
-    "2-areas/Untitled.md",
     "2-areas/PGSS",
-    "4-archive/VHH Run-2.md",
-    "Journal/5 August 2024 Monday.md",
-    "0-inbox/Things-To-Add-To-Notes.md",
-    "00-Zettelkasten/ZettelKasten Index.md",
-    "1-projects/Mixed2.0/mixed2.0.md",
-    "Input/Meetings/Chat Chris Berman 5 Aug 2024.md",
-    "00-Zettelkasten/Specialize in being the best version of you.md",
-    "Input/Meetings/multiHiggs working meeting 5 August 2024.md",
-    "00-Zettelkasten/PCA and Autoencoder.md",
     "2-areas/CMU",
     "Journal/#August 2024.md#",
     "Journal/2021/#October 2021.md#",
@@ -197,8 +224,6 @@
     "Journal/2021/#August 2021.md#",
     "Journal/2021/#July 2021.md#",
     "Journal/2021/#June 2021.md#",
-    "Journal/2021/#May 2021.md#",
-    "4-archive/Optimal Transport",
     "attachments/Pasted image 20240730120049.png",
     "attachments/Pasted image 20240730120040.png",
     "attachments/Pasted image 20240726092502.png",

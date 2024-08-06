@@ -70,6 +70,7 @@ Getting the new mixing going
 	- `(bj)((jj)b)` and `((jj)b)(bj)`
 - [ ] Update presentation with inclusive sample and all years
 - [ ] Compare splittings by year
+- [ ] Proper Protection from missing splitting ? 
 
 
 
