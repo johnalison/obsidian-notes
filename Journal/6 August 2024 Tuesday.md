@@ -51,10 +51,13 @@ Setup
 - Re-running HH4b declustering for all years ... fails
 	- Seeing splitting `((bj)`  /  `(((jj)j)j)((bj)` / `40`
 
-- 
-
 Alejandro back ! 
 
 Trying to use templates for meetings
 
 [[Chat with Wes 6 August 2024]]
+
+Long chat with Alejandro:
+- group rare splitting by multiplicity
+- fit templates ? 
+- iterative unwinding  nC + nC' ?
