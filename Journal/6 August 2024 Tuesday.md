@@ -2,7 +2,7 @@
 
 |     |               |               |
 | --- | ------------- | ------------- |
-| 9   |               |               |
+| 9   | setup         |               |
 |     | Chat w/Wes    |               |
 | 10  | jet splitting |               |
 |     | jet splitting |               |
@@ -19,10 +19,10 @@
 | 4   | ~~Mans~~      | jet splitting |
 |     |               | jet splitting |
 
-**W:**
-**DW:**
-**OT:**
-**ex** or **~~ex~~**
+**W:**. 6 
+**DW:** 4
+**OT:** 4
+**ex** 
 
 # The ONE thing: 
 - [ ] jet declustering
@@ -51,9 +51,9 @@ Setup
 - Re-running HH4b declustering for all years ... fails
 	- Seeing splitting `((bj)`  /  `(((jj)j)j)((bj)` / `40`
 	- Found Errors, was overflow in "XXXX" replacement (need better fix longterm)
-- Re-running HH4b declustering for all years ...  now memory leak somewhere!
+- Re-running HH4b declustering for all years ...  now memory leak somewhere! ?
 - Updating slides with new declustering
-- 
+
 
 # Alejandro back ! 
 
@@ -71,13 +71,18 @@ good runs: 4s / 5s/ 4s / 3s
 
 More mixed debugging (see above)
 
-No mans meeting
+No Mans meeting
 
 install pdflatex [[Setup M3 Macbook]]
 
 # Starting to make pdflatex slides 
-added them to my log
+added them to my lab repro
 
-Seeing a big memory leak during the synthetic datasets... debugging
+Seeing signal crash when running all years (out of memory) during the synthetic datasets... 
 - Testing 2018 signal on **cmslpc331**
 
+
+Got M and T
+
+# Drinks / Dinner with Tony
+Good times 
