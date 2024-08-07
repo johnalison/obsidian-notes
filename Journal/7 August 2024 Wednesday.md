@@ -6,7 +6,7 @@
 
 Up at 8
 
-w/Kids 
+w/M & T 
 
 # [[mixed2.0]]
  Following up on signal crash when running all years (out of memory) during the synthetic datasets... 
@@ -18,6 +18,8 @@ w/Kids
 	- Trying with 2 workers.. works !  **72m27.918s**
 - Making the nominal signal for all years.. 
 - data and signal all years looks good!
+- Added CI to make the clustering histograms and the PDFs
+- Found the slow down of the testing was do to all the pdf in 00-05-00 vs 00-03-00 !
 
 [[CryptoMoves]]
 
@@ -27,7 +29,12 @@ Escajada paid $3900 via credit card (no fee)
 
 merge obsidian note on 15in
 
-[[Tmux Tips]]
+Got the tmux scrolling (page up and page down) going [[Tmux Tips]]
+
+more mixed ... see above
+
+Write up [[December 2021]]
+
 
 Walk home
 

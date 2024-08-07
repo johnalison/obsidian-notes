@@ -40,7 +40,7 @@ Getting the new mixing going
 - [ ] ~~Script to compare splitting functions in jet multiplicities~~
 - [ ] ~~Write out picos with clustered jets (write CI)
 - [ ] Write out picos with the synthetic datasets jet (write CI)
-- [ ] CI for code to make the clustering histograms
+- [x] CI for code to make the clustering histograms
 - [ ] Fix the extra jet treatment (for now copy jets < 40 and add new jets)
 	- [ ] Or just do splitting for all jets > 20 GeV
 	- [ ] update recursion to only check if bjet pt > 40 GeV
