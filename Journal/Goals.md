@@ -1,15 +1,16 @@
 # Run 2 HH
-- [ ] Add kl 
-- [ ] VBF
-- [ ] Low Pt
-- [ ] Comments
-- [ ] tt vs not 
-- [ ] mixed 2.9
+- [x] Add kl 
+	- [ ] How much gain from refit ? 8/1 CL on it
+- [ ] VBF 
+- [ ] Low Pt | 8/1 starting
+- [ ] Comments | 8/1 no movement
+	- [ ] tt vs not  | 8/1 no movement
+- [ ] mixed 2.0 | 8.1 lots of progress
 
 
 # Code Base
-- [ ] Classifier 
-- [ ] Synthetic datasets
+- [ ] Classifier | 8/1 Lots of work, unclear
+- [ ] Synthetic datasets | 8/1 not yet
 
 
 # Run 3

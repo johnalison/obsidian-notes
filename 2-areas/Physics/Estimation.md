@@ -14,6 +14,7 @@ Distances:
 - 1in = 2.5 cm
 - km ~ 0.5 mi
 - r_earth ~ 6e6m
+- d_cell ~ 10 µm
 
 Volumes: 
 - 1L = (10 cm)^3 (1000L = m^3)
@@ -37,6 +38,15 @@ Energy:
  - 1c ~ 3 J
  - C (food calorie) ~ 3e3 J (4e3 J)
  - eV ~ 1e-19 J
+
+Power: 
+ - ~10 kWh / day
+
+Gas: 
+ - 1MCF / month (summer) 10 / month (winter)
+
+Water:
+- 3 k gallons/month
 
 Chemistry:
 Hydrocarbons:

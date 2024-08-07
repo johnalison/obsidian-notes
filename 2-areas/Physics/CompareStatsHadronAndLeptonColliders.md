@@ -9,7 +9,7 @@ Compare Higgs yeilds hadron vs lepton colliders:
 
 
 ## Links: 
-[[Chat with Elliot about future hadron colliders]]
+[[Chat with Elliot about future hadron colliders 9 July 2024]]
 
 
 

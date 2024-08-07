@@ -16,6 +16,7 @@
 # Every 6 months
 - Migrate future log
 - Review monthlies and day
+- Move months to yearly forlders
 
 
 ## Links: 

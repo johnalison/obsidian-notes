@@ -9,7 +9,7 @@ Homebrew install
 
 
 ## Links: 
-
+[[computing]]
 
 
 202407231431

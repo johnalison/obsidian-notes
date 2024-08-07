@@ -1,4 +1,4 @@
-
+	
 
 [[Lists]]
 
@@ -9,6 +9,7 @@ Index:
 **Unclassified**:
 
 [[Success-And-Failure-As-Imposters]]
+[[PCA and Autoencoder]]
 
 
 # Particle Physics
@@ -25,10 +26,12 @@ Index:
 
 [[Spurious-Signal]]
 
-
 ## Potential Analyses
 [[H-bb-vs-cc-using-photons]]
 
+# Data Science
+
+[[PCA and Autoencoder]]
 
 # Leadership: a skill that can be taught and learned
 
@@ -76,7 +79,7 @@ Index:
 # Crypto
 
 [[Problem-with-market-cap]]
-* 
+
 
 # AI
 
@@ -89,7 +92,16 @@ Index:
 [[Writing-for-yourself-vs-for-readers]]
 
 
+# Libertarianism 
+[[Libertarianism-is-bottom-up]]
+[[Top down societal organization is impossible]]
+
+[[Libertarianism-optimal-under-uncertianty]]
+
+[[Libertarianism]]
+[[Libertarianism-more-effective-in-complicated-societies]]
 
 
-
-
+# Free Will
+[[Free-Will-Lens-As-Mental-Model]]
+[[How-to-define-good-action-if-no-free-will]]
