@@ -14,7 +14,8 @@ w/Kids
 - Testing 2017 signal works ..  **26m53.926s**
 - Testing 2016 see ERROR on **UL16_preVFP** ... debugging
 - Now all UL16 runs in  18m36.627s
-- Running all signal samples together runs out of memory... trying with 3 workers
+- Running all signal samples together runs out of memory... trying with 3 workers...fails
+	- Trying with 2 workers
 
 [[CryptoMoves]]
 
@@ -25,3 +26,7 @@ Escajada send check for $3500
 merge obsidian note on 15in
 
 [[Tmux Tips]]
+
+Walk home
+
+[[Osher Fall Particle Physics Course]]

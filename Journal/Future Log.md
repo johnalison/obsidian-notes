@@ -12,6 +12,7 @@
 
 # November
 - [ ] 5th No classes
+- [ ] 6th Osher Class starts
 
 
 # December

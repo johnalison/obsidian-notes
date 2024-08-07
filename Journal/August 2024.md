@@ -19,7 +19,7 @@
 | 17 S | (Mierski Fest)                                                               |       |
 | 18 S |                                                                              |       |
 | 19 M |                                                                              |       |
-| 20 T |                                                                              |       |
+| 20 T | (Osher Leader session)                                                       |       |
 | 21 W |                                                                              |       |
 | 22 H |                                                                              |       |
 | 23 F |                                                                              |       |
