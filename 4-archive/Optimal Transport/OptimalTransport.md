@@ -2,7 +2,12 @@
 # Published Paper:
 https://arxiv.org/abs/2208.02807
 
+# Talks
+Larry: PHYSTAT seminar: Optimal Transport With Applications to Background Modeling
+https://indico.cern.ch/event/968985/
 
+Tudor: Transfer Learning for data-driven background modelling: Optimal Transport v Classifier Extrapolation
+https://indico.cern.ch/event/1051224/timetable/
 # Ideas
 - [ ] Synthetic Events ? (from Barycenters ? ) --> Probably no
 - [x] Run on data)
