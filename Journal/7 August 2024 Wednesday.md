@@ -1,5 +1,5 @@
 
-- [ ] Ping Predrag
+- [x] Ping Predrag
 - [ ] Ping Kareem
 
 # Log
@@ -16,6 +16,8 @@ w/Kids
 - Now all UL16 runs in  18m36.627s
 - Running all signal samples together runs out of memory... trying with 3 workers...fails
 	- Trying with 2 workers.. works !  **72m27.918s**
+- Making the nominal signal for all years.. 
+- data and signal all years looks good!
 
 [[CryptoMoves]]
 
@@ -35,3 +37,7 @@ Some [[BlackSwan]]
 
 # Eva Resigns
 Will move back to Seattle
+
+Picked up H
+
+More mixed ... see above

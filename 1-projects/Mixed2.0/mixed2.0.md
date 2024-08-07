@@ -70,9 +70,9 @@ Getting the new mixing going
 	- `(bj)((jj)b)` and `((jj)b)(bj)`
 - [ ] Update presentation with inclusive sample and all years
 - [ ] Compare splittings by year
-- [ ] Proper Protection from missing splitting ? 
-- [ ] pdflatex for dataset comparisions
-- [ ] 
+- [ ] ~~Proper Protection from missing splitting ? 
+- [x] pdflatex for dataset comparisions
+
 
 
 
