@@ -72,6 +72,7 @@ Getting the new mixing going
 - [ ] Compare splittings by year
 - [ ] ~~Proper Protection from missing splitting ? 
 - [x] pdflatex for dataset comparisions
+- [ ] Group rare splitting types to reduce total numbers / speed
 
 
 
