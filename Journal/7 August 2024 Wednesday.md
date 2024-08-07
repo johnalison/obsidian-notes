@@ -15,11 +15,11 @@ w/Kids
 - Testing 2016 see ERROR on **UL16_preVFP** ... debugging
 - Now all UL16 runs in  18m36.627s
 - Running all signal samples together runs out of memory... trying with 3 workers...fails
-	- Trying with 2 workers
+	- Trying with 2 workers.. works !  **72m27.918s**
 
 [[CryptoMoves]]
 
-Escajada send check for $3500
+Escajada paid $3900 via credit card (no fee)
 
 # Walk M and T to library
 
@@ -30,3 +30,8 @@ merge obsidian note on 15in
 Walk home
 
 [[Osher Fall Particle Physics Course]]
+
+Some [[BlackSwan]]
+
+# Eva Resigns
+Will move back to Seattle
