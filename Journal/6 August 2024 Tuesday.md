@@ -79,8 +79,5 @@ install pdflatex [[Setup M3 Macbook]]
 added them to my log
 
 Seeing a big memory leak during the synthetic datasets... debugging
-
-
-
-
+- Testing 2018 signal on **cmslpc331**
 
