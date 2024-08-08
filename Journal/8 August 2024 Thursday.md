@@ -32,7 +32,9 @@
 - [ ] Read W/Z (schedule meeting)
 - [ ] write up S/sqrt(B) argument
 - [ ] CAM Training
-- [ ] 
+- [ ] 4b
+	- [ ] Fix buggy splitting types
+	- [ ] plot splitting multiplicites
 
 
 # Log
@@ -47,4 +49,5 @@ M and T to School
 
 # [[mixed2.0]]
 - Debugging `(bj)((jj)b)` splittings
+	- ERROR in combine particle logic ... FIXED.
 - Speed up tests by loading the ymal in init
