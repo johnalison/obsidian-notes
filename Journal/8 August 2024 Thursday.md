@@ -19,10 +19,10 @@
 | 4   |                  |     |
 |     |                  |     |
 
-**W:**
-**DW:**
+**W:**. 5
+**DW:** 3
 **OT:**
-**ex** or **~~ex~~**
+**ex** 
 
 # The ONE thing: 
 - [ ] Jet Declustering
@@ -33,8 +33,8 @@
 - [ ] write up S/sqrt(B) argument
 - [ ] CAM Training
 - [ ] 4b
-	- [ ] Fix buggy splitting types
-	- [ ] plot splitting multiplicites
+	- [x] Fix buggy splitting types
+	- [x] plot splitting multiplicites
 
 
 # Log
@@ -53,6 +53,8 @@ M and T to School
 - Speed up tests by loading the ymal in init
 - Making plot of clustering multiplicities
 - Remaking the clustering inputs on **cmslpc314**....**101m24.461s**
+- remade the PDFs 89->79 differnet splitting types
+- Made function (and test) to calculate splitting summaries
 
 
 # Chat IRA
@@ -65,3 +67,5 @@ M and T to School
 # Hoops
 - 5s and 3s 
 - Played OK, lost some games we shouldnt have
+
+More mixed see above

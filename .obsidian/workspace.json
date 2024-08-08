@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-projects/Mixed2.0/mixed2.0.md",
+                "file": "0-inbox/Dressed Bjets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-projects/Mixed2.0/mixed2.0.md",
+                "file": "0-inbox/Dressed Bjets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-projects/Mixed2.0/mixed2.0.md"
+                "file": "0-inbox/Dressed Bjets.md"
               }
             }
           }
@@ -198,7 +198,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4ed0af6c1064c9b4",
+  "active": "fd910a11b74338e9",
   "lastOpenFiles": [
     "Journal/8 August 2024 Thursday.md",
     "1-projects/Mixed2.0/mixed2.0.md",
