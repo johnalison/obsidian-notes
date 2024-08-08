@@ -46,3 +46,5 @@ M and T to School
 [[Turn a MacBook into an UbuntuServer]]
 
 # [[mixed2.0]]
+- Debugging `(bj)((jj)b)` splittings
+- Speed up tests by loading the ymal in init
