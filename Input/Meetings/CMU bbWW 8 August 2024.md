@@ -3,20 +3,19 @@
 
 
 # Aniket
-mTop loosk buggy
-mH looks good. 
+Good plots
+mTop looks buggy, signal at ttbar are too close.
+mH looks OK
 WIll update slides with jet selection
 
 # Sam
 looking into s vs B
 
 # Sena
-
+progress on code
 
 # Alejandro 
 
-
-# Matteo
 
 
 ## Follow-ups

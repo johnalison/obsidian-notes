@@ -14,6 +14,8 @@ Getting the new mixing going
 - [x] Scale years clustering
 - [x] Scale years declustering
 	- [ ] PDFs by year ?
+- [ ] use all non-b jets
+	- [ ] pt/eta cuts only on the b-jets
 
 
 ## Ideas: 
@@ -25,11 +27,11 @@ Getting the new mixing going
 
 ## To Do: 
 - [ ] Check ΔRs (HARD!)
-- [ ] Compare synthetic vs nominal
+- [x] Compare synthetic vs nominal
 	- [x] 4b + 0j
 	- [x] 4b + 1j
 	- [x] 4b + 2j
-	- [ ] 4b + Xj
+	- [x] 4b + Xj
 - [x] Run jet multiplicities together / Plots separate 
 - [x] Recursive ISR removal (Needed for 4b + >1j)
 	- [x] `['bb', '(bb)(jj)'] -> with ISR cleaning ['bb', 'bb', 'jj']
@@ -63,12 +65,13 @@ Getting the new mixing going
 	- [x] Only write out splittings we need
 - [x] Add back detailed splittting hists
 	- [x] option to turn them on/off
-- [ ] PDF script to only rely on trimmed histograms
+- [x] PDF script to only rely on trimmed histograms
 	- [x] separate study_splitting_fuctions from make_PDFs
-	- [ ] plot the splitting type multiplicity
+	- [x] plot the splitting type multiplicity
 - [x] Seeing types
 	- `(bj)((jj)b)` and `((jj)b)(bj)`
 - [ ] Update presentation with inclusive sample and all years
+	- [ ] [[Dressed Bjets]]
 - [ ] Compare splittings by year
 - [ ] ~~Proper Protection from missing splitting ? 
 - [x] pdflatex for dataset comparisions

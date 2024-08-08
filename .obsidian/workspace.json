@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/CMU bbWW 8 August 2024.md",
+                "file": "Journal/8 August 2024 Thursday.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,14 +61,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/Dressed Bjets.md",
+                "file": "00-Zettelkasten/Dressed Bjets.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/Dressed Bjets.md",
+                "file": "Journal/8 August 2024 Thursday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/Dressed Bjets.md",
+                "file": "Journal/8 August 2024 Thursday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/Dressed Bjets.md"
+                "file": "Journal/8 August 2024 Thursday.md"
               }
             }
           }
@@ -198,12 +198,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fd910a11b74338e9",
+  "active": "b49b187f2c81b733",
   "lastOpenFiles": [
-    "Journal/8 August 2024 Thursday.md",
+    "Input/Meetings/CMU bbWW 8 August 2024.md",
     "1-projects/Mixed2.0/mixed2.0.md",
-    "0-inbox/CMU bbWW 8 August 2024.md",
-    "0-inbox/Dressed Bjets.md",
+    "00-Zettelkasten/Dressed Bjets.md",
+    "Journal/8 August 2024 Thursday.md",
     "templates/CMU bbWW Template.md",
     "Input/Meetings/July/CMUbbWW 11 July 2024.md",
     "templates/Daily Template.md",

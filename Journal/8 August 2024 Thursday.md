@@ -69,3 +69,8 @@ M and T to School
 - Played OK, lost some games we shouldnt have
 
 More mixed see above
+
+Picked up H
+
+Home and to cyert to pick up crew.
+
