@@ -52,7 +52,7 @@ M and T to School
 	- ERROR in combine particle logic ... FIXED.
 - Speed up tests by loading the ymal in init
 - Making plot of clustering multiplicities
-- Remaking the clustering inputs on **cmslpc314**
+- Remaking the clustering inputs on **cmslpc314**....**101m24.461s**
 
 
 # Chat IRA
@@ -65,3 +65,8 @@ M and T to School
 
 
 [[CMU bbWW 8 August 2024]]
+
+
+# Hoops
+- 5s and 3s 
+- Played OK, lost some games we shouldnt have

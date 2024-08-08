@@ -103,6 +103,7 @@ Getting the new mixing going
 4b+2j: **28m46.523s**
 4b+ Xj (all splittings / trimmed histograms) **37m0.066s**. 
 4b+Xj all years: **83m53.974s**
+             **101m24.461s** 8 Aug 2024
 
 ## Synthetic Datasets
 Inclusive in jet multiplicity (rerunning SvB) **38m1.994s**
