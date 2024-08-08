@@ -32,24 +32,12 @@
             }
           },
           {
-            "id": "adc38f05f3c5ad8f",
+            "id": "b49b187f2c81b733",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Journal/8 August 2024 Thursday.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3a6b050cd3041960",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-projects/Mixed2.0/mixed2.0.md",
                 "mode": "source",
                 "source": false
               }
@@ -75,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "manfred",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -186,11 +174,24 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "adc38f05f3c5ad8f",
+  "active": "b49b187f2c81b733",
   "lastOpenFiles": [
-    "1-projects/Mixed2.0/mixed2.0.md",
+    "0-inbox/CMU bbWW 8 August 2024.md",
     "Journal/8 August 2024 Thursday.md",
+    "templates/CMU bbWW Template.md",
+    "Input/Meetings/July/CMUbbWW 11 July 2024.md",
+    "templates/Daily Template.md",
+    "templates/Zettel Template.md",
+    "Journal/July/11 July 24 Thursday.md",
+    "1-projects/Mixed2.0/mixed2.0.md",
+    "0-inbox/Untitled 3.md",
+    "0-inbox/Untitled 2.md",
+    "0-inbox/Untitled 1.md",
+    "0-inbox/CMUbbWW 8 August 2024.md",
+    "templates/HGC MAC Template.md",
+    "Input/Meetings/HGC Mac Meeting 8 August 2024.md",
     "Journal/August 2024.md",
+    "Input/Meetings/HGC Mac Meeting 1 August 2024.md",
     "3-resources/computing/Turn a MacBook into an UbuntuServer.md",
     "Journal/7 August 2024 Wednesday.md",
     "Journal/6 August 2024 Tuesday.md",
@@ -201,19 +202,6 @@
     "1-projects/Teaching/Osher Fall Particle Physics Course.md",
     "Journal/2021/December 2021.md",
     "3-resources/computing/Tmux Tips.md",
-    "2-areas/Mentoring/Manfred.md",
-    "3-resources/computing/Setup M3 Macbook.md",
-    "templates/Zettel Template.md",
-    "templates/Wes Template.md",
-    "Journal/2021/November 2021.md",
-    "Input/Meetings/Chat with Wes 6 August 2024.md",
-    "0-inbox/Chat w Wes 6 August 2024.md",
-    "templates/Daily Template.md",
-    "1-projects/Mixed2.0/Script to compare synthetic and nominal datasets.md",
-    "1-projects/Mixed2.0/Script to check reclustered splittings.md",
-    "1-projects/Mixed2.0/script to compare the splittings.md",
-    "00-Zettelkasten/PCA and Autoencoder.md",
-    "Input/Meetings/Chat Chris Berman 5 Aug 2024.md",
     "Journal/#6 August 2024 Tuesday.md#",
     "Journal/2021/#November 2021.md#",
     "2-areas/PGSS",

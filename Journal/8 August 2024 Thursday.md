@@ -51,3 +51,17 @@ M and T to School
 - Debugging `(bj)((jj)b)` splittings
 	- ERROR in combine particle logic ... FIXED.
 - Speed up tests by loading the ymal in init
+- Making plot of clustering multiplicities
+- Remaking the clustering inputs on **cmslpc314**
+
+
+# Chat IRA
+- will do sophmore colloq at 10am on Thursday Aug 29
+
+
+
+[[HGC Mac Meeting 8 August 2024]]
+
+
+
+[[CMU bbWW 8 August 2024]]

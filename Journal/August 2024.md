@@ -28,7 +28,7 @@
 | 26 M | (Classes Start)                                                              |       |
 | 27 T |                                                                              |       |
 | 28 W |                                                                              |       |
-| 29 H |                                                                              |       |
+| 29 H | (Sophmore Colloq)                                                            |       |
 | 30 F |                                                                              |       |
 | 31 S | (S&M away)                                                                   |       |
 
