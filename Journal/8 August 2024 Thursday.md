@@ -58,14 +58,9 @@ M and T to School
 # Chat IRA
 - will do sophmore colloq at 10am on Thursday Aug 29
 
-
-
 [[HGC Mac Meeting 8 August 2024]]
 
-
-
 [[CMU bbWW 8 August 2024]]
-
 
 # Hoops
 - 5s and 3s 

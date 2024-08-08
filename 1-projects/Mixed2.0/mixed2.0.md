@@ -66,13 +66,15 @@ Getting the new mixing going
 - [ ] PDF script to only rely on trimmed histograms
 	- [x] separate study_splitting_fuctions from make_PDFs
 	- [ ] plot the splitting type multiplicity
-- [ ] Seeing types
+- [x] Seeing types
 	- `(bj)((jj)b)` and `((jj)b)(bj)`
 - [ ] Update presentation with inclusive sample and all years
 - [ ] Compare splittings by year
 - [ ] ~~Proper Protection from missing splitting ? 
 - [x] pdflatex for dataset comparisions
 - [ ] Group rare splitting types to reduce total numbers / speed
+	- [ ] Function to get splitting summary statistics
+- [ ] Seeing pt overflows in some of the clusterings
 
 
 

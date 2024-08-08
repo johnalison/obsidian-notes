@@ -1,4 +1,4 @@
-Nice way to think about 4b+
+Nice way to think about 4b+Xj
 Preserve both jet multiplicity and clustering history 
 
 
@@ -6,7 +6,7 @@ Preserve both jet multiplicity and clustering history
 
 
 ## Links: 
-
+[[Jet DeClustering]]
 
 
 202408081408
