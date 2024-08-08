@@ -29,11 +29,11 @@
 
 
 # To Do
-- [ ] Read W/Z
+- [> ] Read W/Z
 - [x] 4b
 	 - [x] 4b + Xj
-- [ ] write up S/sqrt(B) argument
-- [ ] CAM training
+- [> ] write up S/sqrt(B) argument
+- [> ] CAM training
 - [ ] 
 
 
@@ -52,6 +52,7 @@ Setup
 	- Seeing splitting `((bj)`  /  `(((jj)j)j)((bj)` / `40`
 	- Found Errors, was overflow in "XXXX" replacement (need better fix longterm)
 - Re-running HH4b declustering for all years ...  now memory leak somewhere! ?
+	- ===> No, turns out much slower with 00-05-00
 - Updating slides with new declustering
 
 
@@ -85,4 +86,4 @@ Seeing signal crash when running all years (out of memory) during the synthetic 
 Got M and T
 
 # Drinks / Dinner with Tony
-Good times 
+Good times / Over Eden and Parler

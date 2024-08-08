@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-areas/Personal/CryptoMoves.md",
+                "file": "0-inbox/Things-To-Add-To-Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,26 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/7 August 2024 Wednesday.md",
+                "file": "Journal/8 August 2024 Thursday.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "314386ebb1a6c7dc",
+            "id": "3a6b050cd3041960",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/August 2024.md",
+                "file": "1-projects/Mixed2.0/mixed2.0.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/7 August 2024 Wednesday.md",
+                "file": "1-projects/Mixed2.0/mixed2.0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/7 August 2024 Wednesday.md",
+                "file": "1-projects/Mixed2.0/mixed2.0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/7 August 2024 Wednesday.md"
+                "file": "1-projects/Mixed2.0/mixed2.0.md"
               }
             }
           }
@@ -186,18 +186,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "adc38f05f3c5ad8f",
+  "active": "3a6b050cd3041960",
   "lastOpenFiles": [
-    "1-projects/Mixed2.0/mixed2.0.md",
-    "Journal/7 August 2024 Wednesday.md",
+    "Journal/8 August 2024 Thursday.md",
     "Journal/August 2024.md",
-    "Journal/Future Log.md",
-    "1-projects/Teaching/Osher Fall Particle Physics Course.md",
-    "2-areas/Personal/CryptoMoves.md",
-    "Journal/2021/December 2021.md",
-    "3-resources/computing/Tmux Tips.md",
+    "3-resources/computing/Turn a MacBook into an UbuntuServer.md",
+    "Journal/7 August 2024 Wednesday.md",
     "Journal/6 August 2024 Tuesday.md",
     "Journal/5 August 2024 Monday.md",
+    "0-inbox/Things-To-Add-To-Notes.md",
+    "2-areas/Personal/CryptoMoves.md",
+    "1-projects/Mixed2.0/mixed2.0.md",
+    "Journal/Future Log.md",
+    "1-projects/Teaching/Osher Fall Particle Physics Course.md",
+    "Journal/2021/December 2021.md",
+    "3-resources/computing/Tmux Tips.md",
     "2-areas/Mentoring/Manfred.md",
     "3-resources/computing/Setup M3 Macbook.md",
     "templates/Zettel Template.md",
@@ -211,10 +214,7 @@
     "1-projects/Mixed2.0/script to compare the splittings.md",
     "00-Zettelkasten/PCA and Autoencoder.md",
     "Input/Meetings/Chat Chris Berman 5 Aug 2024.md",
-    "Input/Meetings/ChatwAniket 5 August 2024.md",
-    "Input/Meetings/Chat w Sindhu 5 August.md",
     "Journal/#6 August 2024 Tuesday.md#",
-    "00-Zettelkasten/ZettelKasten Index.md",
     "Journal/2021/#November 2021.md#",
     "2-areas/PGSS",
     "2-areas/CMU",
