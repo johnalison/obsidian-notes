@@ -19,10 +19,10 @@
 | 4   |                  |     |
 |     |                  |     |
 
-**W:**
-**DW:**
-**OT:**
-**ex** or **~~ex~~**
+**W:**. 5
+**DW:** 3
+**OT:** 3 
+**ex** 
 
 # The ONE thing: 
 - [ ] Jet Declustering
@@ -33,7 +33,7 @@
 - [ ] write up S/sqrt(B) argument
 - [ ] CAM Training
 - [ ] Jet declustering
-	- [ ] Correct additional jet treatment
+	- [x] Correct additional jet treatment
 	- [ ] Update slides
 	- [ ] ΔR fix ?
 - [ ] 
@@ -56,6 +56,8 @@ M 7 T to school (Last day!)
 	- **155** splittings! 
 - Scheme to combine splittings.
 	- 1st version of code to do groupings 155 -> 49
+- Start implementing jet splitting names in the clustering.
+- Running clustering with splitting categories all years on **cmslpc310** ... 
 
 
 Working the slides describing the treatement with dressed bs.
@@ -70,3 +72,12 @@ more mixed
 
 
 Long chat with sindhu about her getting started on X->hh->4b
+
+To cyert to get car from steph
+
+# Last Day of Year at Cyert
+- Steph doing tatoos / M sad 
+
+Grad social for pizza and beer
+
+Some more mixed ... see above

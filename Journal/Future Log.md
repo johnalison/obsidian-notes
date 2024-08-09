@@ -9,6 +9,7 @@
 # October
 - [ ] Steph away 7- 10 
 - [ ] Fall Break Oct 14-18
+- [ ] Site visits by Santa Barbara Oct 21 
 
 # November
 - [ ] 5th No classes

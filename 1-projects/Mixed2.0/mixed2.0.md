@@ -76,7 +76,9 @@ Getting the new mixing going
 - [ ] ~~Proper Protection from missing splitting ? 
 - [x] pdflatex for dataset comparisions
 - [ ] Group rare splitting types to reduce total numbers / speed
-	- [ ] Function to get splitting summary statistics
+	- [x] Function to get splitting summary statistics
+	- [ ] Update declustering to get splitting name from jet_flavor
+	- [ ] Add test 
 - [ ] Seeing pt overflows in some of the clusterings
 - [ ] Compute fractions of dressed b splittings: 2g->bb vs g->bb + b + b
 
