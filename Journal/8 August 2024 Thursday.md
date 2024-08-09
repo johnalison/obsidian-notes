@@ -29,10 +29,10 @@
 
 
 # To Do
-- [ ] Read W/Z (schedule meeting)
-- [ ] write up S/sqrt(B) argument
-- [ ] CAM Training
-- [ ] 4b
+- [> ] Read W/Z (schedule meeting)
+- [> ] write up S/sqrt(B) argument
+- [> ] CAM Training
+- [x] 4b
 	- [x] Fix buggy splitting types
 	- [x] plot splitting multiplicites
 

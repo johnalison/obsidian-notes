@@ -29,9 +29,13 @@
 
 
 # To Do
-- [ ] 
-- [ ] 
-- [ ] 
+- [ ] Read W/Z (schedule meeting)
+- [ ] write up S/sqrt(B) argument
+- [ ] CAM Training
+- [ ] Jet declustering
+	- [ ] Correct additional jet treatment
+	- [ ] Update slides
+	- [ ] ΔR fix ?
 - [ ] 
 
 
@@ -44,4 +48,5 @@ Meditated in the morning
 M 7 T to school (Last day!)
 
 # [[mixed2.0]]
-- Working on fixing the extra jet treatment
+- Fixed the extra jet treatment for clustering.
+- Re:clustering Run2 on **cmslpc328** 

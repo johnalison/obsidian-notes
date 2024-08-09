@@ -45,7 +45,7 @@ Getting the new mixing going
 - [x] CI for code to make the clustering histograms
 - [ ] Fix the extra jet treatment (for now copy jets < 40 and add new jets)
 	- [ ] Or just do splitting for all jets > 20 GeV
-	- [ ] update recursion to only check if bjet pt > 40 GeV
+	- [x] update recursion to only check if bjet pt > 40 GeV
 - [ ] [[ResamplingBug]]
 - [x] Add a dR AB > 0.4 check
 - [x] [[bj pt mismodeling]]
@@ -78,6 +78,7 @@ Getting the new mixing going
 - [ ] Group rare splitting types to reduce total numbers / speed
 	- [ ] Function to get splitting summary statistics
 - [ ] Seeing pt overflows in some of the clusterings
+
 
 
 
