@@ -69,4 +69,4 @@ more mixed
 - 18' at Tmax = 115
 
 
-
+Long chat with sindhu about her getting started on X->hh->4b
