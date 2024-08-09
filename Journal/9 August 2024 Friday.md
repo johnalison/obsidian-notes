@@ -51,3 +51,6 @@ M 7 T to school (Last day!)
 - Fixed the extra jet treatment for clustering.
 - Re:clustering Run2 on **cmslpc328** 
 - Fixed the extra jet treatment for declustering
+
+
+Working the slides describing the treatement with dressed bs.

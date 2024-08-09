@@ -44,19 +44,19 @@
             }
           },
           {
-            "id": "80d58619c83e6a9d",
+            "id": "dc376465d466db64",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/8 August 2024 Thursday.md",
+                "file": "Journal/August 2024.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-projects/Mixed2.0/mixed2.0.md",
+                "file": "Journal/9 August 2024 Friday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-projects/Mixed2.0/mixed2.0.md",
+                "file": "Journal/9 August 2024 Friday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-projects/Mixed2.0/mixed2.0.md"
+                "file": "Journal/9 August 2024 Friday.md"
               }
             }
           }
@@ -186,11 +186,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4ed0af6c1064c9b4",
+  "active": "d00961dcff6f3f8c",
   "lastOpenFiles": [
+    "Journal/August 2024.md",
     "Journal/9 August 2024 Friday.md",
-    "1-projects/Mixed2.0/mixed2.0.md",
     "Journal/8 August 2024 Thursday.md",
+    "Journal/7 August 2024 Wednesday.md",
+    "Journal/6 August 2024 Tuesday.md",
+    "Journal/5 August 2024 Monday.md",
+    "1-projects/Mixed2.0/mixed2.0.md",
     "Input/Meetings/CMU bbWW 8 August 2024.md",
     "00-Zettelkasten/Dressed Bjets.md",
     "templates/CMU bbWW Template.md",
@@ -204,12 +208,8 @@
     "0-inbox/CMUbbWW 8 August 2024.md",
     "templates/HGC MAC Template.md",
     "Input/Meetings/HGC Mac Meeting 8 August 2024.md",
-    "Journal/August 2024.md",
     "Input/Meetings/HGC Mac Meeting 1 August 2024.md",
     "3-resources/computing/Turn a MacBook into an UbuntuServer.md",
-    "Journal/7 August 2024 Wednesday.md",
-    "Journal/6 August 2024 Tuesday.md",
-    "Journal/5 August 2024 Monday.md",
     "0-inbox/Things-To-Add-To-Notes.md",
     "2-areas/Personal/CryptoMoves.md",
     "Journal/Future Log.md",

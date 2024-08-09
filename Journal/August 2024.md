@@ -4,10 +4,10 @@
 | 2  F | Lots of jet declustering / HEP lunch / Digitize some log books               | 7/4/4 |
 | 3  S | Declustering / digitize logbooks / Vintage Grand Prix / Parents              |       |
 | 4  S | Reading / some declustering / Kettle bells / Pool                            |       |
-| 5  M |                                                                              |       |
-| 6  T |                                                                              |       |
-| 7  W | (Mark over)                                                                  |       |
-| 8  H |                                                                              |       |
+| 5  M | Escajeda / Lots of declustering /**Gym SR** / Hoops w/H                      | 6/3/3 |
+| 6  T | AE back ! / **Hoops** / pdflatex / Dinner/Drinks w/Tony                      | 6/4/4 |
+| 7  W | (Mark over) w/kids/ Library / Eva Resigns! / Dinner                          | ---   |
+| 8  H | Declustering / **Hoops** / Long pick up / **Roys band practice**             | 5/3/3 |
 | 9  F |                                                                              |       |
 | 10 S | (Helman Family Reunion)                                                      |       |
 | 11 S |                                                                              |       |
