@@ -16,12 +16,12 @@
 |     | Jet Declustering |     |
 | 3   | Leave to get H   |     |
 |     | Leave to get H   |     |
-| 4   |                  |     |
-|     |                  |     |
+| 4   | Cyert Pickup     |     |
+|     | Cyert Pickup     |     |
 
 **W:**. 5
 **DW:** 3
-**OT:**
+**OT:** 3
 **ex** 
 
 # The ONE thing: 
@@ -45,7 +45,7 @@ Meditated in the morning (Want to try this now)
 
 M and T to School
 
-[[Turn a MacBook into an UbuntuServer]]
+How to [[Turn a MacBook into an UbuntuServer]]
 
 # [[mixed2.0]]
 - Debugging `(bj)((jj)b)` splittings
@@ -53,12 +53,11 @@ M and T to School
 - Speed up tests by loading the ymal in init
 - Making plot of clustering multiplicities
 - Remaking the clustering inputs on **cmslpc314**....**101m24.461s**
-- remade the PDFs 89->79 differnet splitting types
+- remade the PDFs 89->79 different splitting types
 - Made function (and test) to calculate splitting summaries
 
-
 # Chat IRA
-- will do sophmore colloq at 10am on Thursday Aug 29
+- will do sophomore colloq at 10am on Thursday Aug 29
 
 [[HGC Mac Meeting 8 August 2024]]
 
@@ -68,9 +67,14 @@ M and T to School
 - 5s and 3s 
 - Played OK, lost some games we shouldnt have
 
-More mixed see above
+More mixed ... see above
 
 Picked up H
 
 Home and to cyert to pick up crew.
 
+Some [[BlackSwan]]
+
+[[Dressed Bjets]]
+# Roys Band Practice
+- Morning side with kids / Good times

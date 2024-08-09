@@ -32,36 +32,12 @@
             }
           },
           {
-            "id": "b49b187f2c81b733",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Journal/8 August 2024 Thursday.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "d00961dcff6f3f8c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/8 August 2024 Thursday.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fd910a11b74338e9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00-Zettelkasten/Dressed Bjets.md",
+                "file": "Journal/9 August 2024 Friday.md",
                 "mode": "source",
                 "source": false
               }
@@ -135,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/8 August 2024 Thursday.md",
+                "file": "Journal/9 August 2024 Friday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/8 August 2024 Thursday.md",
+                "file": "Journal/9 August 2024 Friday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/8 August 2024 Thursday.md"
+                "file": "Journal/9 August 2024 Friday.md"
               }
             }
           }
@@ -198,12 +174,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b49b187f2c81b733",
+  "active": "d00961dcff6f3f8c",
   "lastOpenFiles": [
-    "Input/Meetings/CMU bbWW 8 August 2024.md",
     "1-projects/Mixed2.0/mixed2.0.md",
-    "00-Zettelkasten/Dressed Bjets.md",
     "Journal/8 August 2024 Thursday.md",
+    "Journal/9 August 2024 Friday.md",
+    "Input/Meetings/CMU bbWW 8 August 2024.md",
+    "00-Zettelkasten/Dressed Bjets.md",
     "templates/CMU bbWW Template.md",
     "Input/Meetings/July/CMUbbWW 11 July 2024.md",
     "templates/Daily Template.md",
@@ -225,7 +202,6 @@
     "2-areas/Personal/CryptoMoves.md",
     "Journal/Future Log.md",
     "1-projects/Teaching/Osher Fall Particle Physics Course.md",
-    "Journal/2021/December 2021.md",
     "Journal/#6 August 2024 Tuesday.md#",
     "Journal/2021/#November 2021.md#",
     "2-areas/PGSS",
