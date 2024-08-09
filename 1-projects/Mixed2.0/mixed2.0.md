@@ -14,8 +14,8 @@ Getting the new mixing going
 - [x] Scale years clustering
 - [x] Scale years declustering
 	- [ ] PDFs by year ?
-- [ ] use all non-b jets
-	- [ ] pt/eta cuts only on the b-jets
+- [x] use all non-b jets
+	- [x] pt/eta cuts only on the b-jets
 
 
 ## Ideas: 
@@ -43,8 +43,8 @@ Getting the new mixing going
 - [ ] ~~Write out picos with clustered jets (write CI)
 - [ ] Write out picos with the synthetic datasets jet (write CI)
 - [x] CI for code to make the clustering histograms
-- [ ] Fix the extra jet treatment (for now copy jets < 40 and add new jets)
-	- [ ] Or just do splitting for all jets > 20 GeV
+- [x] Fix the extra jet treatment (for now copy jets < 40 and add new jets)
+	- [x] Or just do splitting for all jets > 20 GeV
 	- [x] update recursion to only check if bjet pt > 40 GeV
 - [ ] [[ResamplingBug]]
 - [x] Add a dR AB > 0.4 check
@@ -78,6 +78,7 @@ Getting the new mixing going
 - [ ] Group rare splitting types to reduce total numbers / speed
 	- [ ] Function to get splitting summary statistics
 - [ ] Seeing pt overflows in some of the clusterings
+- [ ] Compute fractions of dressed b splittings: 2g->bb vs g->bb + b + b
 
 
 
@@ -87,6 +88,7 @@ Getting the new mixing going
 - [x]  mA_vs_pT -> 100 bins
 - [x] b(bj) mB -> mB_l
 - [ ] Extend range of mB 
+- [ ] Seeing pt overflows in some of the clusterings (mB_l / mA_vl / ect)
 
 
 

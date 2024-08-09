@@ -50,3 +50,4 @@ M 7 T to school (Last day!)
 # [[mixed2.0]]
 - Fixed the extra jet treatment for clustering.
 - Re:clustering Run2 on **cmslpc328** 
+- Fixed the extra jet treatment for declustering
