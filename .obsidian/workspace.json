@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-Zettelkasten/Dressed Bjets.md",
+                "file": "1-projects/Mixed2.0/mixed2.0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00-Zettelkasten/Dressed Bjets.md",
+                "file": "1-projects/Mixed2.0/mixed2.0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-Zettelkasten/Dressed Bjets.md"
+                "file": "1-projects/Mixed2.0/mixed2.0.md"
               }
             }
           }
@@ -185,17 +185,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "dc376465d466db64",
+  "active": "4ed0af6c1064c9b4",
   "lastOpenFiles": [
-    "Journal/August 2024.md",
+    "0-inbox/Things-To-Add-To-Notes.md",
+    "1-projects/Mixed2.0/mixed2.0.md",
     "Journal/9 August 2024 Friday.md",
+    "00-Zettelkasten/Dressed Bjets.md",
+    "Journal/August 2024.md",
     "Journal/8 August 2024 Thursday.md",
     "Journal/7 August 2024 Wednesday.md",
     "Journal/6 August 2024 Tuesday.md",
     "Journal/5 August 2024 Monday.md",
-    "1-projects/Mixed2.0/mixed2.0.md",
     "Input/Meetings/CMU bbWW 8 August 2024.md",
-    "00-Zettelkasten/Dressed Bjets.md",
     "templates/CMU bbWW Template.md",
     "Input/Meetings/July/CMUbbWW 11 July 2024.md",
     "templates/Daily Template.md",
@@ -209,7 +210,6 @@
     "Input/Meetings/HGC Mac Meeting 8 August 2024.md",
     "Input/Meetings/HGC Mac Meeting 1 August 2024.md",
     "3-resources/computing/Turn a MacBook into an UbuntuServer.md",
-    "0-inbox/Things-To-Add-To-Notes.md",
     "2-areas/Personal/CryptoMoves.md",
     "Journal/Future Log.md",
     "1-projects/Teaching/Osher Fall Particle Physics Course.md",

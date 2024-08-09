@@ -110,12 +110,19 @@ Getting the new mixing going
 ## Just clustering:
 4b+2j: **28m46.523s**
 4b+ Xj (all splittings / trimmed histograms) **37m0.066s**. 
+	    2018 using all non b-jets  **46m30.667s**
 4b+Xj all years: **83m53.974s**
              **101m24.461s** 8 Aug 2024
 
 ## Synthetic Datasets
 Inclusive in jet multiplicity (rerunning SvB) **38m1.994s**
 inclusive in jet multiplicity and all years **88m46.643s**
+
+
+Splittings PDFs:
+- 00-05-00:  All years and all jet multiplicities (old notCanJet_sel def)
+- 00-05-01:  bug fix combined jet flavor definition 
+- 00-06-00: 18 with fix all jet mutliplicites (updated nonCanJet def )
 
 ## Links: 
 
