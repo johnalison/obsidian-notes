@@ -55,6 +55,7 @@ M 7 T to school (Last day!)
 - making PDFs 18 with new jet def ... 00-06-00
 	- **155** splittings! 
 - Scheme to combine splittings.
+	- 1st version of code to do groupings 155 -> 49
 
 
 Working the slides describing the treatement with dressed bs.
