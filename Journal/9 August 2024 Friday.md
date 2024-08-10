@@ -63,7 +63,7 @@ M 7 T to school (Last day!)
 - Took out jet ISR cleaning ... might need to put it back!
 	- PDFs with new groupings
 - Added back the ISR cleaning 
-- Trying all years again **cmslpc310**
+- Trying all years again **cmslpc310**.. works **110m3.378s**
 
 
 Working the slides describing the treatement with dressed bs.

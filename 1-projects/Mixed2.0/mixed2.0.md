@@ -126,6 +126,7 @@ Splittings PDFs:
 - 00-05-01:  bug fix combined jet flavor definition 
 - 00-06-00: 18 with fix all jet mutliplicites (updated nonCanJet def )
 - 00-06-01: 18 new groupings (not cleaning ISR)
+- 00-06-02: All years / new groupings 
 
 ## Links: 
 
