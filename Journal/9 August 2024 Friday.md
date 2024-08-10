@@ -58,7 +58,12 @@ M 7 T to school (Last day!)
 	- 1st version of code to do groupings 155 -> 49
 - Start implementing jet splitting names in the clustering.
 - Running clustering with splitting categories all years on **cmslpc310** ... failed out of memory
-	- Trying just 18 again
+	- Trying just 18 again...works...**47m44.662s**
+	- PDFs with new grouping... 00-06-01
+- Took out jet ISR cleaning ... might need to put it back!
+	- PDFs with new groupings
+- Added back the ISR cleaning 
+- Trying all years again **cmslpc310**
 
 
 Working the slides describing the treatement with dressed bs.
