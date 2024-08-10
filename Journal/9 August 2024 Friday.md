@@ -57,7 +57,8 @@ M 7 T to school (Last day!)
 - Scheme to combine splittings.
 	- 1st version of code to do groupings 155 -> 49
 - Start implementing jet splitting names in the clustering.
-- Running clustering with splitting categories all years on **cmslpc310** ... 
+- Running clustering with splitting categories all years on **cmslpc310** ... failed out of memory
+	- Trying just 18 again
 
 
 Working the slides describing the treatement with dressed bs.
