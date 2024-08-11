@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/WZ production cross section in pp collisions at 13.6 TeV.md",
+                "file": "Journal/2021/December 2021.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,14 +49,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/2 August 2024 Friday.md",
+                "file": "Journal/10 August 2024 Saturday.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/WZ production cross section in pp collisions at 13.6 TeV.md",
+                "file": "Journal/10 August 2024 Saturday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/WZ production cross section in pp collisions at 13.6 TeV.md",
+                "file": "Journal/10 August 2024 Saturday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/WZ production cross section in pp collisions at 13.6 TeV.md"
+                "file": "Journal/10 August 2024 Saturday.md"
               }
             }
           }
@@ -186,12 +186,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d00961dcff6f3f8c",
+  "active": "cbfe3892be1a0576",
   "lastOpenFiles": [
+    "Journal/11 August 2024 Sunday.md",
     "Journal/2 August 2024 Friday.md",
+    "Journal/2021/December 2021.md",
+    "0-inbox/WZ production cross section in pp collisions at 13.6 TeV.md",
     "Journal/1 August 2024 Thursday.md",
     "Journal/9 August 2024 Friday.md",
-    "0-inbox/WZ production cross section in pp collisions at 13.6 TeV.md",
     "Journal/10 August 2024 Saturday.md",
     "1-projects/Mixed2.0/mixed2.0.md",
     "Journal/Future Log.md",
@@ -212,8 +214,6 @@
     "0-inbox/Untitled 2.md",
     "0-inbox/Untitled 1.md",
     "0-inbox/CMUbbWW 8 August 2024.md",
-    "templates/HGC MAC Template.md",
-    "Input/Meetings/HGC Mac Meeting 8 August 2024.md",
     "Journal/#6 August 2024 Tuesday.md#",
     "Journal/2021/#November 2021.md#",
     "2-areas/PGSS",
