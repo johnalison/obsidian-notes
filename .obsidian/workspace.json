@@ -32,31 +32,19 @@
             }
           },
           {
-            "id": "d00961dcff6f3f8c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Journal/2021/December 2021.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "cbfe3892be1a0576",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/10 August 2024 Saturday.md",
+                "file": "Journal/2022/January 2022.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -123,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/10 August 2024 Saturday.md",
+                "file": "Journal/2022/January 2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/10 August 2024 Saturday.md",
+                "file": "Journal/2022/January 2022.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/10 August 2024 Saturday.md"
+                "file": "Journal/2022/January 2022.md"
               }
             }
           }
@@ -189,13 +177,17 @@
   "active": "cbfe3892be1a0576",
   "lastOpenFiles": [
     "Journal/11 August 2024 Sunday.md",
-    "Journal/2 August 2024 Friday.md",
+    "1-projects/Mixed2.0/mixed2.0.md",
     "Journal/2021/December 2021.md",
+    "Journal/2022/January 2022.md",
+    "Journal/10 August 2024 Saturday.md",
+    "Journal/2021/#December 2021.md#",
+    "Journal/2022/January 2021.md",
+    "Journal/2022",
+    "Journal/2 August 2024 Friday.md",
     "0-inbox/WZ production cross section in pp collisions at 13.6 TeV.md",
     "Journal/1 August 2024 Thursday.md",
     "Journal/9 August 2024 Friday.md",
-    "Journal/10 August 2024 Saturday.md",
-    "1-projects/Mixed2.0/mixed2.0.md",
     "Journal/Future Log.md",
     "0-inbox/Things-To-Add-To-Notes.md",
     "00-Zettelkasten/Dressed Bjets.md",
@@ -211,9 +203,6 @@
     "templates/Zettel Template.md",
     "Journal/July/11 July 24 Thursday.md",
     "0-inbox/Untitled 3.md",
-    "0-inbox/Untitled 2.md",
-    "0-inbox/Untitled 1.md",
-    "0-inbox/CMUbbWW 8 August 2024.md",
     "Journal/#6 August 2024 Tuesday.md#",
     "Journal/2021/#November 2021.md#",
     "2-areas/PGSS",
@@ -222,8 +211,6 @@
     "Journal/2021/#October 2021.md#",
     "Journal/2021/#September 2021.md#",
     "Journal/2021/#August 2021.md#",
-    "Journal/2021/#July 2021.md#",
-    "Journal/2021/#June 2021.md#",
     "attachments/Pasted image 20240730120049.png",
     "attachments/Pasted image 20240730120040.png",
     "attachments/Pasted image 20240726092502.png",
