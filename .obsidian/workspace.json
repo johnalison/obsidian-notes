@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/multiHiggs working meeting 12 August 2024.md",
+                "file": "Journal/12 August 2024 Monday.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,18 +44,6 @@
             }
           },
           {
-            "id": "5ddaf3055bca15c7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0-inbox/StatsChat-12-August-2024.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "0ec96f4327046142",
             "type": "leaf",
             "state": {
@@ -66,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3a7b1c818b1eec07",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3-resources/computing/PythonVirtualEnvironment.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -87,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "venv",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,8 +114,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -135,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/StatsChat-12-August-2024.md",
+                "file": "3-resources/computing/PythonVirtualEnvironment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/StatsChat-12-August-2024.md",
+                "file": "3-resources/computing/PythonVirtualEnvironment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/StatsChat-12-August-2024.md"
+                "file": "3-resources/computing/PythonVirtualEnvironment.md"
               }
             }
           }
@@ -198,13 +197,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5ddaf3055bca15c7",
+  "active": "3a7b1c818b1eec07",
   "lastOpenFiles": [
+    "0-inbox/SindhuChat 12 August 2024.md",
     "Journal/12 August 2024 Monday.md",
-    "0-inbox/StatsChat-12-August-2024.md",
     "1-projects/Mixed2.0/mixed2.0.md",
     "0-inbox/multiHiggs working meeting 12 August 2024.md",
+    "0-inbox/Things-To-Add-To-Notes.md",
     "0-inbox/WZ production cross section in pp collisions at 13.6 TeV.md",
+    "Input/Meetings/StatsChat-12-August-2024.md",
+    "Journal/2 August 2024 Friday.md",
+    "Input/Meetings/StatsChat-2-August-24.md",
     "Input/Meetings/FBC2 Meeting 12 August 2024.md",
     "Journal/July/18 July 24 Thursday.md",
     "3-resources/computing/RaspberryPi720.md",
@@ -224,12 +227,8 @@
     "Journal/5 August 2024 Monday.md",
     "Journal/2022/#February 2022.md#",
     "Journal/2022/January 2022.md",
-    "Journal/2021/December 2021.md",
     "Journal/2021/#December 2021.md#",
-    "Journal/2022/January 2021.md",
     "Journal/2022",
-    "Journal/2 August 2024 Friday.md",
-    "Journal/1 August 2024 Thursday.md",
     "Journal/#6 August 2024 Tuesday.md#",
     "Journal/2021/#November 2021.md#",
     "2-areas/PGSS",

@@ -9,7 +9,6 @@ Getting the new mixing going
 - [x] 4b + 0j
 - [x] 4b + 1j
 - [x] 4b + 2j
-- [ ] ~~4b + 4j
 - [x] 4b + Xj
 - [x] Scale years clustering
 - [x] Scale years declustering
@@ -71,14 +70,13 @@ Getting the new mixing going
 - [x] Seeing types
 	- `(bj)((jj)b)` and `((jj)b)(bj)`
 - [ ] Update presentation with inclusive sample and all years
-	- [ ] [[Dressed Bjets]]
+	- [x] [[Dressed Bjets]]
 - [ ] Compare splittings by year
 - [ ] ~~Proper Protection from missing splitting ? 
 - [x] pdflatex for dataset comparisions
-- [ ] Group rare splitting types to reduce total numbers / speed
+- [x] Group rare splitting types to reduce total numbers / speed
 	- [x] Function to get splitting summary statistics
-	- [ ] Update declustering to get splitting name from jet_flavor
-	- [ ] Add test 
+	- [x] Update declustering to get splitting name from jet_flavor
 - [ ] Seeing pt overflows in some of the clusterings
 - [ ] Compute fractions of dressed b splittings: 2g->bb vs g->bb + b + b
 - [ ] Add other jets to presentation

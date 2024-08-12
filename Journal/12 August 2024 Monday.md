@@ -45,6 +45,8 @@ Home with kids
 - Update declustering to use new groupings
 - Declustering  2018 on...**cmslpc313** ...crashed ? ... now on **cmslpc308**
 - Now running all years...**114m0.018s**
+- Declustering the signal on **cmslpc308**
+- 
 
 [[FBC2 Meeting 12 August 2024]]
 
@@ -57,5 +59,6 @@ Lynn over
 
 [[StatsChat-12-August-2024]]
 
+[[SindhuChat 12 August 2024]]
 
 
