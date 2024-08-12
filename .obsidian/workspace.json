@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "eae711c5d4bddc33",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0-inbox/WZ production cross section in pp collisions at 13.6 TeV.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "0ec96f4327046142",
             "type": "leaf",
             "state": {
@@ -49,14 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Input/Meetings/SindhuChat 12 August 2024.md",
+                "file": "Journal/12 August 2024 Monday.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -123,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Input/Meetings/SindhuChat 12 August 2024.md",
+                "file": "Journal/12 August 2024 Monday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Input/Meetings/SindhuChat 12 August 2024.md",
+                "file": "Journal/12 August 2024 Monday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Input/Meetings/SindhuChat 12 August 2024.md"
+                "file": "Journal/12 August 2024 Monday.md"
               }
             }
           }
@@ -188,15 +176,16 @@
   },
   "active": "ed111d9e5b572a7b",
   "lastOpenFiles": [
-    "Journal/12 August 2024 Monday.md",
-    "Input/Meetings/StatsChat-12-August-2024.md",
     "1-projects/Mixed2.0/mixed2.0.md",
-    "Input/Meetings/AniketChat 12 August 2024.md",
     "0-inbox/Things-To-Add-To-Notes.md",
+    "0-inbox/WZ production cross section in pp collisions at 13.6 TeV.md",
+    "Journal/12 August 2024 Monday.md",
+    "1-projects/4b Resonant/4b Resonant Search.md",
     "Input/Meetings/SindhuChat 12 August 2024.md",
+    "Input/Meetings/StatsChat-12-August-2024.md",
+    "Input/Meetings/AniketChat 12 August 2024.md",
     "3-resources/computing/PythonVirtualEnvironment.md",
     "0-inbox/multiHiggs working meeting 12 August 2024.md",
-    "0-inbox/WZ production cross section in pp collisions at 13.6 TeV.md",
     "Journal/2 August 2024 Friday.md",
     "Input/Meetings/StatsChat-2-August-24.md",
     "Input/Meetings/FBC2 Meeting 12 August 2024.md",
@@ -214,7 +203,6 @@
     "Journal/10 August 2024 Saturday.md",
     "Journal/8 August 2024 Thursday.md",
     "Journal/7 August 2024 Wednesday.md",
-    "Journal/6 August 2024 Tuesday.md",
     "Journal/2022/#February 2022.md#",
     "Journal/2021/#December 2021.md#",
     "Journal/2022",
