@@ -44,4 +44,7 @@ Home with kids
 # [[mixed2.0]]
 - Update declustering to use new groupings
 - Declustering  2018 on...**cmslpc313** ...crashed ? ... now on **cmslpc308**
-- 
+- Now running all years...
+
+[[FBC2 Meeting 12 August 2024]]
+
