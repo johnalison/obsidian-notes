@@ -13,14 +13,24 @@ Muon;
 
 # Questions:
 
+CDS Link:
+[http://cms.cern.ch/cds/SMP-24-005](http://cms.cern.ch/cds/SMP-24-005)
+
+Dear Colleagues, 
+
+Here is the institutional review from the CMU team.  
+We found the paper very well written and have only a 
+
+Congratulations 
+
 - l156: Can you have 2 OSSF if you veto 3 leptons.
 	 "In case two or more OSSF lepton pairs"
 
-- 217. The purity of ZZ in the ZZ CR is about 98% of the total yield,??
+
 - fig3 suggest to make these plots with same scale on x-axis 
-- Table 2, why does the ISR uncertainty only affect the WZ ? 
+- Table 2, why does the ISR uncertainty only affect the WZ and not the other backgrounds from MC ? 
 - Table 3: what cross section is assumed for the WZ here ?
-- 250. is is 30%
+
 
 ## Follow-ups
 

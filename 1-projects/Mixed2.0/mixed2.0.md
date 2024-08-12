@@ -81,6 +81,7 @@ Getting the new mixing going
 	- [ ] Add test 
 - [ ] Seeing pt overflows in some of the clusterings
 - [ ] Compute fractions of dressed b splittings: 2g->bb vs g->bb + b + b
+- [ ] Add other jets to presentation
 
 
 
@@ -119,6 +120,7 @@ Getting the new mixing going
 ## Synthetic Datasets
 Inclusive in jet multiplicity (rerunning SvB) **38m1.994s**
 inclusive in jet multiplicity and all years **88m46.643s**
+inclusive in jet multiplicty all years, correct jet def: **114m0.018s**
 
 
 Splittings PDFs:

@@ -25,31 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-projects/Mixed2.0/mixed2.0.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "edb008360108616e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Journal/2022/February 2022.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "612a924dfe5e00c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0-inbox/FBC2 Meeting 12 August 2024.md",
+                "file": "0-inbox/multiHiggs working meeting 12 August 2024.md",
                 "mode": "source",
                 "source": false
               }
@@ -62,6 +38,30 @@
               "type": "markdown",
               "state": {
                 "file": "0-inbox/WZ production cross section in pp collisions at 13.6 TeV.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5ddaf3055bca15c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Journal/12 August 2024 Monday.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0ec96f4327046142",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-projects/Mixed2.0/mixed2.0.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#consum",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,8 +114,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -135,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/WZ production cross section in pp collisions at 13.6 TeV.md",
+                "file": "1-projects/Mixed2.0/mixed2.0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/WZ production cross section in pp collisions at 13.6 TeV.md",
+                "file": "1-projects/Mixed2.0/mixed2.0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/WZ production cross section in pp collisions at 13.6 TeV.md"
+                "file": "1-projects/Mixed2.0/mixed2.0.md"
               }
             }
           }
@@ -198,14 +197,22 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "eae711c5d4bddc33",
+  "active": "0ec96f4327046142",
   "lastOpenFiles": [
-    "0-inbox/FBC2 Meeting 12 August 2024.md",
-    "0-inbox/WZ production cross section in pp collisions at 13.6 TeV.md",
-    "0-inbox/Paper discussion.md",
     "Journal/12 August 2024 Monday.md",
-    "Journal/2022/February 2022.md",
+    "0-inbox/multiHiggs working meeting 12 August 2024.md",
+    "0-inbox/WZ production cross section in pp collisions at 13.6 TeV.md",
     "1-projects/Mixed2.0/mixed2.0.md",
+    "Input/Meetings/FBC2 Meeting 12 August 2024.md",
+    "Journal/July/18 July 24 Thursday.md",
+    "3-resources/computing/RaspberryPi720.md",
+    "0-inbox/Untitled.md",
+    "templates/FBC2 or MultiHiggs Template.md",
+    "templates/Zettel Template.md",
+    "1-projects/HH4b/Low Pt HH4b.md",
+    "1-projects/HH4b",
+    "Journal/2022/February 2022.md",
+    "0-inbox/Paper discussion.md",
     "Journal/9 August 2024 Friday.md",
     "Journal/11 August 2024 Sunday.md",
     "Journal/10 August 2024 Saturday.md",
@@ -221,21 +228,12 @@
     "Journal/2022",
     "Journal/2 August 2024 Friday.md",
     "Journal/1 August 2024 Thursday.md",
-    "Journal/Future Log.md",
-    "0-inbox/Things-To-Add-To-Notes.md",
-    "00-Zettelkasten/Dressed Bjets.md",
-    "Journal/August 2024.md",
-    "Input/Meetings/CMU bbWW 8 August 2024.md",
-    "templates/CMU bbWW Template.md",
-    "Input/Meetings/July/CMUbbWW 11 July 2024.md",
-    "templates/Daily Template.md",
     "Journal/#6 August 2024 Tuesday.md#",
     "Journal/2021/#November 2021.md#",
     "2-areas/PGSS",
     "2-areas/CMU",
     "Journal/#August 2024.md#",
     "Journal/2021/#October 2021.md#",
-    "Journal/2021/#September 2021.md#",
     "attachments/Pasted image 20240730120049.png",
     "attachments/Pasted image 20240730120040.png",
     "attachments/Pasted image 20240726092502.png",
