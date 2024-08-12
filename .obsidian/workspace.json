@@ -8,19 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "97a2e0edbdca5f16",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2-areas/Personal/CryptoMoves.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4ed0af6c1064c9b4",
+            "id": "cb55a85a1fbaa174",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,31 +20,31 @@
             }
           },
           {
-            "id": "adc38f05f3c5ad8f",
+            "id": "ac9a8d4f5f0614f2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/7 August 2024 Wednesday.md",
+                "file": "Journal/2021/December 2021.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "314386ebb1a6c7dc",
+            "id": "4288a1ff838970ef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/August 2024.md",
+                "file": "3-resources/computing/BitWardenCISetup.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -70,12 +58,22 @@
         "type": "tabs",
         "children": [
           {
+            "id": "c67b88aabdb7c902",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
             "id": "5eff6f8803fcba5e",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "manfred",
+                "query": "optimal transport",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -91,19 +89,8 @@
               "type": "bookmarks",
               "state": {}
             }
-          },
-          {
-            "id": "8cd6e87e88b50c39",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical"
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -123,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/7 August 2024 Wednesday.md",
+                "file": "Journal/2021/December 2021.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/7 August 2024 Wednesday.md",
+                "file": "Journal/2021/December 2021.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/7 August 2024 Wednesday.md"
+                "file": "Journal/2021/December 2021.md"
               }
             }
           }
@@ -186,55 +173,55 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "adc38f05f3c5ad8f",
+  "active": "ac9a8d4f5f0614f2",
   "lastOpenFiles": [
-    "1-projects/Mixed2.0/mixed2.0.md",
-    "Journal/7 August 2024 Wednesday.md",
-    "Journal/August 2024.md",
-    "Journal/Future Log.md",
-    "1-projects/Teaching/Osher Fall Particle Physics Course.md",
     "2-areas/Personal/CryptoMoves.md",
+    "Journal/2021/#December 2021.md#",
+    "Journal/7 August 2024 Wednesday.md",
     "Journal/2021/December 2021.md",
-    "3-resources/computing/Tmux Tips.md",
-    "Journal/6 August 2024 Tuesday.md",
-    "Journal/5 August 2024 Monday.md",
-    "2-areas/Mentoring/Manfred.md",
-    "3-resources/computing/Setup M3 Macbook.md",
-    "templates/Zettel Template.md",
-    "templates/Wes Template.md",
+    "4-archive/Optimal Transport/OptimalTransport.md",
     "Journal/2021/November 2021.md",
-    "Input/Meetings/Chat with Wes 6 August 2024.md",
-    "0-inbox/Chat w Wes 6 August 2024.md",
-    "templates/Daily Template.md",
-    "1-projects/Mixed2.0/Script to compare synthetic and nominal datasets.md",
-    "1-projects/Mixed2.0/Script to check reclustered splittings.md",
-    "1-projects/Mixed2.0/script to compare the splittings.md",
-    "00-Zettelkasten/PCA and Autoencoder.md",
-    "Input/Meetings/Chat Chris Berman 5 Aug 2024.md",
-    "Input/Meetings/ChatwAniket 5 August 2024.md",
-    "Input/Meetings/Chat w Sindhu 5 August.md",
-    "Journal/#6 August 2024 Tuesday.md#",
-    "00-Zettelkasten/ZettelKasten Index.md",
-    "Journal/2021/#November 2021.md#",
-    "2-areas/PGSS",
-    "2-areas/CMU",
-    "Journal/#August 2024.md#",
-    "Journal/2021/#October 2021.md#",
-    "Journal/2021/#September 2021.md#",
-    "Journal/2021/#August 2021.md#",
-    "Journal/2021/#July 2021.md#",
-    "Journal/2021/#June 2021.md#",
+    "3-resources/computing/Tmux Tips.md",
+    "Input/Books/PythonTutorial.md",
+    "conflict-files-obsidian-git.md",
+    "templates/Wes Template.md",
     "attachments/Pasted image 20240730120049.png",
     "attachments/Pasted image 20240730120040.png",
     "attachments/Pasted image 20240726092502.png",
-    "0-inbox/Pasted image 20240726092234.png",
-    "0-inbox/Pasted image 20240726092333.png",
-    "0-inbox/Pasted image 20240726092213.png",
-    "0-inbox/Pasted image 20240726092207.png",
-    "attachments/Pasted image 20240726154559.png",
-    "Untitled.canvas",
-    "Untitled 1.canvas",
+    "Output/Advice to High-School Students interesting in physics.md",
+    "Journal/July/9 July 24 Tuesday.md",
+    "Journal/July/31 July 2024 Wednesday.md",
+    "Journal/July/30 July 2024 Tuesday.md",
+    "Journal/July/29 July 2024 Monday.md",
+    "Journal/July/28 July 2024 Sunday.md",
+    "Journal/July/27 July 2024 Saturday.md",
+    "Journal/July/26 July 2024 Friday.md",
+    "Journal/July/25 July 2024 Thursday.md",
+    "Journal/July/24 July 2024 Wednesday.md",
+    "Journal/July/23 July 24 Tuesday.md",
+    "Journal/July/22 July 24 Monday.md",
+    "Journal/July/21 July 24 Sunday.md",
+    "Journal/July/20 July 24 Saturday.md",
+    "Journal/July/19 July 24 Friday.md",
+    "Journal/July/18 July 24 Thursday.md",
+    "Journal/July/17 July 24 Wednesday.md",
+    "Journal/July",
+    "Input/Meetings/July",
+    "4-archive/Optimal Transport",
+    "4-archive/BTV",
+    "2-areas/coffea4bs",
+    "2-areas/CMU",
+    "1-projects/HGC",
+    "Journal/2021",
     "attachments/bj Pt problem.png",
-    "attachments/Pasted image 20240726092723.png"
+    "attachments/Pasted image 20240726154559.png",
+    "attachments/Pasted image 20240726091858.png",
+    "attachments/Pasted image 20240726092723.png",
+    "attachments/Pasted image 20240722103340.png",
+    "attachments/Pasted image 20240722103331.png",
+    "attachments/Pasted image 20240722103320.png",
+    "attachments",
+    "Untitled.canvas",
+    "Untitled 1.canvas"
   ]
 }
