@@ -29,13 +29,13 @@
 
 
 # To Do
-- [ ] Read W/Z (schedule meeting)
+- [x] Read W/Z (schedule meeting)
 - [ ] write up S/sqrt(B) argument
 - [ ] CAM Training
-- [ ] Jet declustering
+- [> ] Jet declustering
 	- [x] Correct additional jet treatment
 	- [ ] Update slides
-	- [ ] ΔR fix ?
+	- [ ] ~~ΔR fix ?
 - [ ] 
 
 
