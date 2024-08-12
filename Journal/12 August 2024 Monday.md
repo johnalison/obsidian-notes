@@ -43,4 +43,5 @@ Home with kids
 
 # [[mixed2.0]]
 - Update declustering to use new groupings
-- Declustering  2018 on...**cmslpc313** ...
+- Declustering  2018 on...**cmslpc313** ...crashed ? ... now on **cmslpc308**
+- 
