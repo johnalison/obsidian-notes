@@ -48,3 +48,5 @@ Home with kids
 
 [[FBC2 Meeting 12 August 2024]]
 
+[[Paper discussion]]
+
