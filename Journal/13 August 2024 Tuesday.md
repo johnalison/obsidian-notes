@@ -45,6 +45,9 @@ Wrote up [[March 2022]]
 - Declustering all on **cmslpc308** finished in **109m23.402s**
 - Iterating on Slides 
 - Idea for [[Recursive Splitting Types]]
+- Implemented new splitting scheme... 
+	- only 55 splitting types before groupings
+	- 
 
 [[Chat w Wes 14 August 2024]]
 
