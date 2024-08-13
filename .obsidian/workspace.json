@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/Recursive Splitting Types.md",
+                "file": "Journal/13 August 2024 Tuesday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/Recursive Splitting Types.md",
+                "file": "Journal/13 August 2024 Tuesday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/Recursive Splitting Types.md"
+                "file": "Journal/13 August 2024 Tuesday.md"
               }
             }
           }
@@ -186,10 +186,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "15b050cdb6b0d4c2",
+  "active": "0ec96f4327046142",
   "lastOpenFiles": [
-    "1-projects/Mixed2.0/mixed2.0.md",
     "0-inbox/Recursive Splitting Types.md",
+    "1-projects/Mixed2.0/mixed2.0.md",
     "Journal/13 August 2024 Tuesday.md",
     "Input/Meetings/Chat with Wes 6 August 2024.md",
     "0-inbox/Chat w Wes 14 August 2024.md",
