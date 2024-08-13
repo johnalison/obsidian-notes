@@ -47,7 +47,8 @@ Wrote up [[March 2022]]
 - Idea for [[Recursive Splitting Types]]
 - Implemented new splitting scheme... 
 	- only 55 splitting types before groupings
-	- 
+	- after groupings got it down to 21
+* Rerunning clustering with new splitting scheme
 
 [[Chat w Wes 14 August 2024]]
 
@@ -59,10 +60,12 @@ Working on mixing ... see above
 - Core / 50' of Zone 2 / 1 Farmers carry
 - 12' at Tmax = 122
 
-More mixed
+More mixed ... see above
 
 Home 
 
 # Mans meeting 
 - Tiles and cassettes
 - no meeting next week
+
+More mixed ... 

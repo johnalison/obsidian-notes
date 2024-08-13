@@ -1,7 +1,5 @@
 Instead of keeping track of all splitting types (See list below) we can define them recursively using the masses to parameterize the clustering history. 
 
-(Actually not sure if this buys much in the end...)
-
 eg:  
 - bb: is g->bb  with mA ~ mB ≈ m1
 - bj: b->bj with mA ~ mB ≈ m1
@@ -13,7 +11,8 @@ ect
 ## Actually not sure if this buys much in the end...)
 - eg how much do z/theta/phi depend on mA ?
 
-## Could group splittings based on flavor and multiplicity
+# Better idea: group splittings based on flavor and multiplicity
+
 eg: 
 **bb** (1,0)/(1,0)
 **(bj)b** (1,1)/(1,0)
