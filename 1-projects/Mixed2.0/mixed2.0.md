@@ -79,7 +79,7 @@ Getting the new mixing going
 	- [x] Update declustering to get splitting name from jet_flavor
 - [ ] Seeing pt overflows in some of the clusterings
 - [ ] Compute fractions of dressed b splittings: 2g->bb vs g->bb + b + b
-- [ ] Add other jets to presentation
+- [x] Add other jets to presentation
 
 
 
