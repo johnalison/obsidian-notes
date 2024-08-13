@@ -60,3 +60,9 @@ Working on mixing ... see above
 - 12' at Tmax = 122
 
 More mixed
+
+Home 
+
+# Mans meeting 
+- Tiles and cassettes
+- no meeting next week
