@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "15b050cdb6b0d4c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-inbox/Recursive Splitting Types.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -111,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-projects/Mixed2.0/mixed2.0.md",
+                "file": "0-inbox/Recursive Splitting Types.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-projects/Mixed2.0/mixed2.0.md",
+                "file": "0-inbox/Recursive Splitting Types.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-projects/Mixed2.0/mixed2.0.md"
+                "file": "0-inbox/Recursive Splitting Types.md"
               }
             }
           }
@@ -174,11 +186,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "378e96cab2effe60",
+  "active": "15b050cdb6b0d4c2",
   "lastOpenFiles": [
-    "Input/Meetings/Chat with Wes 6 August 2024.md",
     "1-projects/Mixed2.0/mixed2.0.md",
+    "0-inbox/Recursive Splitting Types.md",
     "Journal/13 August 2024 Tuesday.md",
+    "Input/Meetings/Chat with Wes 6 August 2024.md",
     "0-inbox/Chat w Wes 14 August 2024.md",
     "Journal/6 August 2024 Tuesday.md",
     "Journal/12 August 2024 Monday.md",
@@ -203,7 +216,6 @@
     "1-projects/HH4b/Low Pt HH4b.md",
     "1-projects/HH4b",
     "Journal/2022/February 2022.md",
-    "0-inbox/Paper discussion.md",
     "Journal/2022/#February 2022.md#",
     "Journal/2021/#December 2021.md#",
     "Journal/2022",

@@ -42,7 +42,7 @@ Up at 8
 Wrote up [[March 2022]]
 
 # [[mixed2.0]]
-- Declustering all on **cmslpc308**
+- Declustering all on **cmslpc308** finished in **109m23.402s**
 
 [[Chat w Wes 14 August 2024]]
 
