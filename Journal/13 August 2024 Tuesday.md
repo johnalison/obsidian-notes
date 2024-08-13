@@ -1,31 +1,31 @@
 # Timeblock
 
-|     |          |     |
-| --- | -------- | --- |
-| 9   |          |     |
-|     | Chat Wes |     |
-| 10  |          |     |
-|     |          |     |
-| 11  |          |     |
-|     |          |     |
-| 12  |          |     |
-|     |          |     |
-| 1   |          |     |
-|     |          |     |
-| 2   |          |     |
-|     |          |     |
-| 3   |          |     |
-|     |          |     |
-| 4   |          |     |
-|     |          |     |
+|     |                  |     |
+| --- | ---------------- | --- |
+| 9   |                  |     |
+|     | Chat Wes         |     |
+| 10  | To campus        |     |
+|     | Jet DeClustering |     |
+| 11  | Jet DeClustering |     |
+|     | Jet DeClustering |     |
+| 12  | Gym              |     |
+|     | Gym              |     |
+| 1   | Gym              |     |
+|     | Jet DeClustering |     |
+| 2   | Jet DeClustering |     |
+|     | Home             |     |
+| 3   | Mans Meeting     |     |
+|     | Mans Meeting     |     |
+| 4   | Mans Meeting     |     |
+|     |                  |     |
 
 **W:**
 **DW:**
 **OT:**
-**ex** or **~~ex~~**
+**ex** 
 
 # The ONE thing: 
-- [ ] 
+- [ ] Jet DeClustering
 
 
 # To Do
