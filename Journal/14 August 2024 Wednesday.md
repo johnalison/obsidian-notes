@@ -5,7 +5,8 @@
 Up at 8
 
 # [[mixed2.0]]
-- Declustering signal on **cmslpc308** w/ 2 workers failed... running now with 1
+- Declustering signal on **cmslpc308** w/ 2 workers failed... 1 worked failed :( 
+- running now with 1 on **cmslpc333**
 
 
 [[Going big]]
@@ -23,6 +24,8 @@ Figure out how to use variables with a make file
 	- Can change via command line! 
 
 
+To Giant Eagle to get ribs
 
+Making ribs
 
 
