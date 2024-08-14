@@ -88,6 +88,8 @@ Getting the new mixing going
 - [ ] TTbar Subtractions
 	- [ ] Templates
 	- [ ] Input data being clustered
+- [ ] Add top can making to declustered data
+- [ ] How are there any b-jets with m > 50 GeV ? (given the template cut off)
 
 
 
