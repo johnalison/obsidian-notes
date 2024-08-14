@@ -19,9 +19,9 @@
 | 4   | Mans Meeting     |     |
 |     |                  |     |
 
-**W:**
-**DW:**
-**OT:**
+**W:** 5 
+**DW:** 2
+**OT:** 2
 **ex** 
 
 # The ONE thing: 
@@ -29,7 +29,7 @@
 
 
 # To Do
-- [ ] 
+- [x] Submit comments to CDS
 - [ ] 
 - [ ] 
 - [ ] 
@@ -71,3 +71,6 @@ Home
 - no meeting next week
 
 More mixed ... 
+
+To Add to obsidian  
+- Paste image rename

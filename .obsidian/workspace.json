@@ -30,18 +30,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "378e96cab2effe60",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-projects/Mixed2.0/mixed2.0.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
         "currentTab": 1
@@ -176,19 +164,21 @@
   },
   "active": "0ec96f4327046142",
   "lastOpenFiles": [
-    "1-projects/Mixed2.0/mixed2.0.md",
+    "0-inbox/WZ production cross section in pp collisions at 13.6 TeV.md",
+    "Journal/12 August 2024 Monday.md",
     "Journal/13 August 2024 Tuesday.md",
+    "Journal/9 August 2024 Friday.md",
+    "Journal/11 August 2024 Sunday.md",
+    "1-projects/Mixed2.0/mixed2.0.md",
     "4-archive/HIG-22-011/HIG-22-011.md",
     "0-inbox/Recursive Splitting Types.md",
     "Journal/August 2024.md",
     "Input/Meetings/Chat with Wes 6 August 2024.md",
     "0-inbox/Chat w Wes 14 August 2024.md",
     "Journal/6 August 2024 Tuesday.md",
-    "Journal/12 August 2024 Monday.md",
     "Journal/2022/March 2022.md",
     "Journal/2022/#March 2022.md#",
     "0-inbox/Things-To-Add-To-Notes.md",
-    "0-inbox/WZ production cross section in pp collisions at 13.6 TeV.md",
     "1-projects/4b Resonant/4b Resonant Search.md",
     "Input/Meetings/SindhuChat 12 August 2024.md",
     "Input/Meetings/StatsChat-12-August-2024.md",
@@ -201,8 +191,6 @@
     "Journal/July/18 July 24 Thursday.md",
     "3-resources/computing/RaspberryPi720.md",
     "0-inbox/Untitled.md",
-    "templates/FBC2 or MultiHiggs Template.md",
-    "templates/Zettel Template.md",
     "1-projects/HH4b",
     "Journal/2022/#February 2022.md#",
     "Journal/2021/#December 2021.md#",
