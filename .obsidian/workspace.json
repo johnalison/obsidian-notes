@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/13 August 2024 Tuesday.md",
+                "file": "3-resources/Obsidian/obsidian.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6b5d61bbae065b68",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Journal/August 2024.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -51,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "venv",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -99,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/13 August 2024 Tuesday.md",
+                "file": "Journal/August 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/13 August 2024 Tuesday.md",
+                "file": "Journal/August 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/13 August 2024 Tuesday.md"
+                "file": "Journal/August 2024.md"
               }
             }
           }
@@ -162,19 +174,28 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0ec96f4327046142",
+  "active": "6b5d61bbae065b68",
   "lastOpenFiles": [
-    "0-inbox/WZ production cross section in pp collisions at 13.6 TeV.md",
-    "Journal/12 August 2024 Monday.md",
+    "Journal/Future Log.md",
+    "3-resources/Obsidian/obsidian.md",
+    "Journal/August 2024.md",
+    "Journal/14 August 2024 Wednesday.md",
+    "Input/Videos/Excalidraw intro video.md",
+    "attachments/CMS Test.png",
     "Journal/13 August 2024 Tuesday.md",
     "Journal/9 August 2024 Friday.md",
+    "Journal/12 August 2024 Monday.md",
     "Journal/11 August 2024 Sunday.md",
+    "Journal/10 August 2024 Saturday.md",
     "1-projects/Mixed2.0/mixed2.0.md",
+    "Input/Papers/WZ production cross section in pp collisions at 13.6 TeV.md",
+    "00-Zettelkasten/Recursive Splitting Types.md",
+    "00-Zettelkasten/Group Splittings Based on Multiplicity.md",
+    "Input/Meetings/multiHiggs working meeting 12 August 2024.md",
+    "Input/Books/Going big.md",
+    "Input/Meetings/Chat w Wes 14 August 2024.md",
     "4-archive/HIG-22-011/HIG-22-011.md",
-    "0-inbox/Recursive Splitting Types.md",
-    "Journal/August 2024.md",
     "Input/Meetings/Chat with Wes 6 August 2024.md",
-    "0-inbox/Chat w Wes 14 August 2024.md",
     "Journal/6 August 2024 Tuesday.md",
     "Journal/2022/March 2022.md",
     "Journal/2022/#March 2022.md#",
@@ -183,14 +204,6 @@
     "Input/Meetings/SindhuChat 12 August 2024.md",
     "Input/Meetings/StatsChat-12-August-2024.md",
     "Input/Meetings/AniketChat 12 August 2024.md",
-    "3-resources/computing/PythonVirtualEnvironment.md",
-    "0-inbox/multiHiggs working meeting 12 August 2024.md",
-    "Journal/2 August 2024 Friday.md",
-    "Input/Meetings/StatsChat-2-August-24.md",
-    "Input/Meetings/FBC2 Meeting 12 August 2024.md",
-    "Journal/July/18 July 24 Thursday.md",
-    "3-resources/computing/RaspberryPi720.md",
-    "0-inbox/Untitled.md",
     "1-projects/HH4b",
     "Journal/2022/#February 2022.md#",
     "Journal/2021/#December 2021.md#",
@@ -210,7 +223,6 @@
     "attachments/Pasted image 20240726154559.png",
     "Untitled.canvas",
     "Untitled 1.canvas",
-    "attachments/bj Pt problem.png",
-    "attachments/Pasted image 20240726092723.png"
+    "attachments/bj Pt problem.png"
   ]
 }

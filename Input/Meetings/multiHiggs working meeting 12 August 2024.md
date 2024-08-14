@@ -2,7 +2,9 @@
 Not much. 
 
 Should Boosted do ZZ/ZH -> 4b ?
-- Claim they already have it.
+- Claim they already setup to do it for ZH, will look into making the signal
+
+Will also try ZZ
 
 
 

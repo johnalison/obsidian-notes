@@ -1,35 +1,17 @@
-Instead of keeping track of all splitting types (See list below) we can define them recursively using the masses to parameterize the clustering history. 
+Instead of keeping track of all splitting types (see list below) we can define them recursively using the masses to parameterize the clustering history. 
 
 eg:  
 - bb: is g->bb  with mA ~ mB ≈ m1
 - bj: b->bj with mA ~ mB ≈ m1
 - jj:  j -> jj with mA ~ mB  ≈ m1
 - (bj)b:  is really g->bb with mA ≈ m2 / mB ~ m1
-ect
-
 
 ## Actually not sure if this buys much in the end...)
 - eg how much do z/theta/phi depend on mA ?
 
-# Better idea: group splittings based on flavor and multiplicity
+Better idea is to  [[Group Splittings Based on Multiplicity]]
 
-eg: 
-**bb** (1,0)/(1,0)
-**(bj)b** (1,1)/(1,0)
 
-1b2j/0b1j
-	**((bj)j)j** : 
-	**((jj)b)j**
-1b2j/1b0j
-	**((jj)b)b**:
-	**((bj)j)b**
-(1,2)/(1,1)
-	**((bj)j)(bj)**
-
-(0,3)/(1,0)
-	**((jj)j)b**
-
-This is s good way to go !
 # (Partial) List of splittings
 bb                            323313.0 
 bj                            268439.0 
@@ -66,7 +48,8 @@ jj                             77487.0
 
 
 ## Links: 
-
+[[Jet DeClustering]]
+[[mixed2.0]]
 
 
 202408131058

@@ -4,6 +4,7 @@
 
 # September
 - [ ] 2nd Labor Day, no classes
+- [ ] 10th Faculty reception 4:30
 * [ ]  14th Erics Birthday Saturday,  1:30pm.
 - [ ] 24th Classes over for Prof Alison
 # October

@@ -7,7 +7,7 @@ Issues getting cards for combine going.
 Porting code to python3 RDF
 
 # Thesis
-
+Some progress. 
 
 ## Follow-ups
 

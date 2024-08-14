@@ -21,7 +21,8 @@ Getting the new mixing going
 * [[decluster3b]]
 * [[MLForSplittingFunctions]]
 * Run on boosted ? [Sub-jet code](https://github.com/rkansal47/HHbbVV/blob/main/src/HHbbVV/processors/TaggerInference.py#L63-L66)
-* [[Recursive Splitting Types]]
+* (Not the way to go... [[Recursive Splitting Types]]) 
+* [[Group Splittings Based on Multiplicity]]
 * 
 
 

@@ -8,11 +8,11 @@
 | 6  T | AE back ! / **Hoops** / pdflatex / Dinner/Drinks w/Tony                      | 6/4/4 |
 | 7  W | (Mark over) w/kids/ Library / Eva Resigns! / Dinner                          | ---   |
 | 8  H | Declustering / **Hoops** / Long pick up / **Roys band practice**             | 5/3/3 |
-| 9  F |                                                                              |       |
-| 10 S | (Helman Family Reunion)                                                      |       |
-| 11 S |                                                                              |       |
-| 12 M | (No)                                                                         |       |
-| 13 T | (C  )                                                                        |       |
+| 9  F | Lots Declustering / **Gym / SR** / Last day of Cyert / Grad social           | 5/3/3 |
+| 10 S | Read WZ x-sec (Helman Family Reunion) / Jons after party                     |       |
+| 11 S | Reading / Library / **kettle bells** / Aunt T at parents                     |       |
+| 12 M | (No) w/M&T / Meetings / Think about [[4b Resonant Search]]                   | 4/2/2 |
+| 13 T | (C  ) Better splittings / **Gym / SR** / Home early / Reading                | 5/2/2 |
 | 14 W | (y  )                                                                        |       |
 | 15 H | (er )                                                                        |       |
 | 16 F | (t   )                                                                       |       |
