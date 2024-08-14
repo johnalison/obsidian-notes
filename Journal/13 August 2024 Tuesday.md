@@ -51,6 +51,8 @@ Wrote up [[March 2022]]
 * Rerunning clustering with new splitting scheme
 * Making new PDFs 00-07-00
 * Running Declustering with new PDFs
+	* Looks good
+* Declustering signal on **cmslpc308** ... trying 2 workers
 
 [[Chat w Wes 14 August 2024]]
 
