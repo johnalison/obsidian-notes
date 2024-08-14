@@ -1,5 +1,7 @@
 
-
+# To Do
+- [x] Update Jet Declustering slides  
+- [ ] Submit VAR
 # Log
 
 Up at 8
@@ -29,5 +31,16 @@ Figure out how to use variables with a make file
 To Giant Eagle to get ribs
 
 Making ribs
+
+Got H 
+
+[[April 2022]]
+
+[[BitWarden]]
+
+
+
+
+
 
 

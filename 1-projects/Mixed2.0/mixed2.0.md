@@ -85,10 +85,11 @@ Getting the new mixing going
 - [x] Add other jets to presentation
 - [ ] Template Fixes
 - [x] Regroup splittings (<10)
-- [ ] TTbar Subtractions
-	- [ ] Templates
-	- [ ] Input data being clustered
-- [ ] Add top can making to declustered data
+- [ ] TTbar Subtractions/ Additions
+	- [ ] Subtrackt ttbar from Templates
+	- [ ] Subtract ttbar from Input data being clustered
+	- [ ] Then add back non declustered TTbar
+- [ ] Add top candidate making to declustered data
 - [ ] How are there any b-jets with m > 50 GeV ? (given the template cut off)
 
 
