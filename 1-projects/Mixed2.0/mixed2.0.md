@@ -84,7 +84,10 @@ Getting the new mixing going
 - [ ] Compute fractions of dressed b splittings: 2g->bb vs g->bb + b + b
 - [x] Add other jets to presentation
 - [ ] Template Fixes
-- [ ] Regroup splittings (<10)
+- [x] Regroup splittings (<10)
+- [ ] TTbar Subtractions
+	- [ ] Templates
+	- [ ] Input data being clustered
 
 
 

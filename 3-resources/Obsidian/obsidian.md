@@ -9,7 +9,6 @@
 - Emacs text editor
 - kill and yank
 - Quick Explorer
-- 
 
 
 

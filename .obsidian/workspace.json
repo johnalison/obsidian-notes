@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-resources/Obsidian/obsidian.md",
+                "file": "0-inbox/Matteo Cremonesi reappointment Letter.md",
                 "mode": "source",
                 "source": false
               }
@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "582216ec382e1be8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-projects/Mixed2.0/mixed2.0.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -111,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/14 August 2024 Wednesday.md",
+                "file": "1-projects/Mixed2.0/mixed2.0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/14 August 2024 Wednesday.md",
+                "file": "1-projects/Mixed2.0/mixed2.0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/14 August 2024 Wednesday.md"
+                "file": "1-projects/Mixed2.0/mixed2.0.md"
               }
             }
           }
@@ -174,12 +186,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6b5d61bbae065b68",
+  "active": "582216ec382e1be8",
   "lastOpenFiles": [
+    "Journal/14 August 2024 Wednesday.md",
+    "0-inbox/Matteo Cremonesi reappointment Letter.md",
+    "3-resources/Obsidian/obsidian.md",
+    "Untitled 2.canvas",
     "Journal/August 2024.md",
     "Journal/Future Log.md",
-    "3-resources/Obsidian/obsidian.md",
-    "Journal/14 August 2024 Wednesday.md",
     "Input/Videos/Excalidraw intro video.md",
     "attachments/CMS Test.png",
     "Journal/13 August 2024 Tuesday.md",
@@ -203,7 +217,6 @@
     "1-projects/4b Resonant/4b Resonant Search.md",
     "Input/Meetings/SindhuChat 12 August 2024.md",
     "Input/Meetings/StatsChat-12-August-2024.md",
-    "Input/Meetings/AniketChat 12 August 2024.md",
     "1-projects/HH4b",
     "Journal/2022/#February 2022.md#",
     "Journal/2021/#December 2021.md#",
