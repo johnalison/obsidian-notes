@@ -6,7 +6,9 @@ Up at 8
 
 # [[mixed2.0]]
 - Declustering signal on **cmslpc308** w/ 2 workers failed... 1 worked failed :( 
-- running now with 1 on **cmslpc333**
+- running now with 1 on **cmslpc333**.. Ran
+- Adding plots to slides
+- Sent first draft
 
 
 [[Going big]]
