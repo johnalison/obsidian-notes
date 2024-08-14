@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/August 2024.md",
+                "file": "Journal/14 August 2024 Wednesday.md",
                 "mode": "source",
                 "source": false
               }
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/August 2024.md",
+                "file": "Journal/14 August 2024 Wednesday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/August 2024.md",
+                "file": "Journal/14 August 2024 Wednesday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/August 2024.md"
+                "file": "Journal/14 August 2024 Wednesday.md"
               }
             }
           }
@@ -176,9 +176,9 @@
   },
   "active": "6b5d61bbae065b68",
   "lastOpenFiles": [
+    "Journal/August 2024.md",
     "Journal/Future Log.md",
     "3-resources/Obsidian/obsidian.md",
-    "Journal/August 2024.md",
     "Journal/14 August 2024 Wednesday.md",
     "Input/Videos/Excalidraw intro video.md",
     "attachments/CMS Test.png",

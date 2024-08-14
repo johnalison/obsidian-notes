@@ -15,13 +15,14 @@ w/ M & T
 Some [[BlackSwan]]
 
 [[obsidian]]
+- Installed "Paste Image Rename" obsidian plugin
+	- Works great!
+- Installed "Remember Cursor position"
+
+Figure out how to use variables with a make file 
+	- Can change via command line! 
 
 
-Installed "Paste Image Rename" obsidian plugin
-- Works great!
-
-Installed "Remember Cursor position"
-- 
 
 
 
