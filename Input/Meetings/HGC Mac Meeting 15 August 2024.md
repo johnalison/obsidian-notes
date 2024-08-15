@@ -1,8 +1,8 @@
 
 # Action 
 - [ ] Get new carrying trays
-- [ ] How many preseries modules do they need at FNAL ? 
-	- [ ] Ping zoltan
+- [x] How many preseries modules do they need at FNAL ? 
+	- [x] Ping zoltan
 - [ ] Clean lab/change filters soon
 - [ ] UG lab tech ? x 2 ?
 - [ ] Fittings for manual pickup tool
@@ -10,7 +10,7 @@
 # News
 - Andrew away.
 - Eva leaving
-- Pritam / Andrew
+- Pritam sick 
 
 # Jessica
 - Components: <10 baseplates (2 hybrid / 5 tape-only)
@@ -22,7 +22,7 @@
 
 # Jonas
 - New camera mount
-- Shelving needs holes /
+- Shelving needs holes 
 
 # Eva
 - Wrapping up the sheveling. 

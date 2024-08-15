@@ -33,6 +33,7 @@
 - [ ] CAM Training
 - [ ] Submit VAR
 - [x] Clean up 7316
+- [ ] Read HGC TDR
 
 
 # Log
@@ -47,10 +48,14 @@ to campus
 
 [[CAM Variance August 2024]]
 
-[[Read HGC TDR]]
-
 [[CAM Turnaround Report]]
 
 [[HGC Personnel per MAC ]]
 
 [[HGC Mac Meeting 15 August 2024]]
+
+Pinged Zoltan re:preseries modules to FNAL
+
+[[Speech for Scotts going away party]]
+
+[[CMUbbWW 15 August 2024]]
