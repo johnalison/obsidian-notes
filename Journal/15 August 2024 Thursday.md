@@ -32,7 +32,7 @@
 - [ ] write up S/sqrt(B) argument
 - [ ] CAM Training
 - [ ] Submit VAR
-- [ ] 
+- [ ] Clean up 7316
 
 
 # Log
@@ -40,3 +40,5 @@
 Up at 7
 
 Meditated early
+
+to campus
