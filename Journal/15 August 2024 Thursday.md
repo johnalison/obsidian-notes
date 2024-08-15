@@ -63,4 +63,6 @@ Pinged Zoltan re:preseries modules to FNAL
 # Gym
 - core/ Farmers carry (75/80/85) / Cling / step ups
 
+Chat Kristine, she says do Diana first!
+
 [[Chat Chris Berman 15 Aug 2024]]
