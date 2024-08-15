@@ -68,12 +68,12 @@
             }
           },
           {
-            "id": "dd7423449cb878f7",
+            "id": "1a720767284df874",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/CMUbbWW 15 August 2024.md",
+                "file": "0-inbox/Chat Chris Berman 15 Aug 2024.md",
                 "mode": "source",
                 "source": false
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/CMUbbWW 15 August 2024.md",
+                "file": "0-inbox/Chat Chris Berman 15 Aug 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/CMUbbWW 15 August 2024.md",
+                "file": "0-inbox/Chat Chris Berman 15 Aug 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/CMUbbWW 15 August 2024.md"
+                "file": "0-inbox/Chat Chris Berman 15 Aug 2024.md"
               }
             }
           }
@@ -210,11 +210,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "dd7423449cb878f7",
+  "active": "1a720767284df874",
   "lastOpenFiles": [
+    "Input/Meetings/Chat Chris Berman 5 Aug 2024.md",
+    "0-inbox/Chat Chris Berman 15 Aug 2024.md",
     "Journal/15 August 2024 Thursday.md",
-    "0-inbox/CMUbbWW 15 August 2024.md",
     "0-inbox/Speech for Scotts going away party.md",
+    "Input/Meetings/CMUbbWW 15 August 2024.md",
     "Output/Scott Thoughts.md",
     "0-inbox/CAM Variance August 2024.md",
     "0-inbox/HGC Personnel per MAC.md",
@@ -237,8 +239,6 @@
     "Journal/9 August 2024 Friday.md",
     "Input/Learning List.md",
     "Journal/8 August 2024 Thursday.md",
-    "Journal/7 August 2024 Wednesday.md",
-    "Journal/6 August 2024 Tuesday.md",
     "Journal/2022/#May 2022.md#",
     "Journal/2022/#April 2022.md#",
     "Untitled 2.canvas",

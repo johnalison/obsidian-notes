@@ -13,6 +13,7 @@ Connection between PCA and Autoencoder ?
 ## Links: 
 [[ChrisBerman]]
 [[MLForSplittingFunctions]]
+[[Chat Chris Berman SURF 29 July 2024]]
 
 
 

@@ -59,3 +59,8 @@ Pinged Zoltan re:preseries modules to FNAL
 [[Speech for Scotts going away party]]
 
 [[CMUbbWW 15 August 2024]]
+
+# Gym
+- core/ Farmers carry (75/80/85) / Cling / step ups
+
+[[Chat Chris Berman 15 Aug 2024]]
