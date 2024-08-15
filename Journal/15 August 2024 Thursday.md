@@ -4,34 +4,32 @@
 | --- | ------------ | --- |
 | 9   | w/kids       |     |
 |     | To school    |     |
-| 10  | VAR          |     |
-|     |              |     |
+| 10  | Clean 7316   |     |
+|     | VAR          |     |
 | 11  | MAC Meeting  |     |
 |     | MAC Meeting  |     |
 | 12  | bbWW         |     |
-|     | GYM          |     |
+|     | AE chat      |     |
 | 1   | GYM          |     |
 |     | GYM          |     |
-| 2   |              |     |
+| 2   | VAR          |     |
 |     | Chris Berman |     |
-| 3   |              |     |
-|     |              |     |
+| 3   | Home         |     |
+|     | VAR          |     |
 | 4   |              |     |
 |     |              |     |
 
-**W:**
-**DW:**
-**OT:**
-**ex** or **~~ex~~**
+**W:** 4
+**DW:** 0
+**~~OT:**~~
+**ex** 
 
-# The ONE thing: 
-- [ ] 
 
 
 # To Do
 - [x] write up S/sqrt(B) argument
 - [ ] CAM Training
-- [ ] Submit VAR
+- [x] Submit VAR
 - [x] Clean up 7316
 - [ ] Read HGC TDR
 
@@ -60,9 +58,21 @@ Pinged Zoltan re:preseries modules to FNAL
 
 [[CMUbbWW 15 August 2024]]
 
+Chat w/AE
+ - poll for 4b Meeting
+ - discussed fixing ΔR, will try next!
+
 # Gym
 - core/ Farmers carry (75/80/85) / Cling / step ups
 
 Chat Kristine, she says do Diana first!
 
 [[Chat Chris Berman 15 Aug 2024]]
+
+Home
+
+Submitted [[CAM Variance August 2024]]
+
+Some work on Scotts speach.
+
+Start [[HGC TDR]] read chapter 1
