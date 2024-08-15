@@ -30,8 +30,8 @@
 
 # To Do
 - [x] Read W/Z (schedule meeting)
-- [ ] write up S/sqrt(B) argument
-- [ ] CAM Training
+- [> ] write up S/sqrt(B) argument
+- [> ] CAM Training
 - [> ] Jet declustering
 	- [x] Correct additional jet treatment
 	- [> ] Update slides

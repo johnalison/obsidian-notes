@@ -1,7 +1,7 @@
 
 # To Do
 - [x] Update Jet Declustering slides  
-- [ ] Submit VAR
+- [> ] Submit VAR
 # Log
 
 Up at 8
@@ -10,7 +10,7 @@ Up at 8
 - Declustering signal on **cmslpc308** w/ 2 workers failed... 1 worked failed :( 
 - running now with 1 on **cmslpc333**.. Ran
 - Adding plots to slides
-- Sent first draft
+- Sent first draft of slides to CMU group
 
 
 [[Going big]]
@@ -24,7 +24,7 @@ Some [[BlackSwan]]
 	- Works great!
 - Installed "Remember Cursor position"
 
-Figure out how to use variables with a make file 
+Figure out how to use variables with a make files
 	- Can change via command line! 
 
 

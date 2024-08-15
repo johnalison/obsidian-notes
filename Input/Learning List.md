@@ -21,6 +21,12 @@
 - [ ] Cosmology
 - [ ] Assembly
 - [x] Mental Math
+- [ ] Astrophysics
+- [ ] Gaussian Processes
+- [ ] Structure: Why things dont fall down
+- [ ] The Art of Electronics
+- [x] QFT and the Standard Model
+- [ ] Fly by Night Physics
 
 
 
