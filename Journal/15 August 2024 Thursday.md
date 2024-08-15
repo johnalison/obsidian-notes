@@ -4,7 +4,7 @@
 | --- | ------------ | --- |
 | 9   | w/kids       |     |
 |     | To school    |     |
-| 10  |              |     |
+| 10  | VAR          |     |
 |     |              |     |
 | 11  | MAC Meeting  |     |
 |     | MAC Meeting  |     |
@@ -29,10 +29,10 @@
 
 
 # To Do
-- [ ] write up S/sqrt(B) argument
+- [x] write up S/sqrt(B) argument
 - [ ] CAM Training
 - [ ] Submit VAR
-- [ ] Clean up 7316
+- [x] Clean up 7316
 
 
 # Log
@@ -42,3 +42,15 @@ Up at 7
 Meditated early
 
 to campus
+
+[[Naive Limit Combination]]
+
+[[CAM Variance August 2024]]
+
+[[Read HGC TDR]]
+
+[[CAM Turnaround Report]]
+
+[[HGC Personnel per MAC ]]
+
+[[HGC Mac Meeting 15 August 2024]]

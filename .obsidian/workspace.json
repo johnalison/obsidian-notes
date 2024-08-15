@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/15 August 2024 Thursday.md",
+                "file": "Output/CAM/CAM Variance July 2024.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,14 +49,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/15 August 2024 Thursday.md",
+                "file": "0-inbox/CAM Variance August 2024.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "304db66f3054d251",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-inbox/HGC Personnel per MAC.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "32297f7503da49ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-inbox/HGC Mac Meeting 15 August 2024.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -75,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "var",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -123,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/15 August 2024 Thursday.md",
+                "file": "0-inbox/HGC Personnel per MAC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/15 August 2024 Thursday.md",
+                "file": "0-inbox/HGC Personnel per MAC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/15 August 2024 Thursday.md"
+                "file": "0-inbox/HGC Personnel per MAC.md"
               }
             }
           }
@@ -186,10 +210,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "09908f7c9d83799b",
+  "active": "304db66f3054d251",
   "lastOpenFiles": [
-    "Journal/14 August 2024 Wednesday.md",
     "Journal/15 August 2024 Thursday.md",
+    "0-inbox/CAM Turnaround Report.md",
+    "0-inbox/HGC Mac Meeting 15 August 2024.md",
+    "Input/Meetings/HGC Mac Meeting 8 August 2024.md",
+    "templates/HGC MAC Template.md",
+    "0-inbox/HGC Personnel per MAC.md",
+    "attachments/HGC Personnel per MAC.png",
+    "0-inbox/CAM Variance August 2024.md",
+    "Output/CAM/CAM Variance July 2024.md",
+    "00-Zettelkasten/ZettelKasten Index.md",
+    "Journal/July/18 July 24 Thursday.md",
+    "00-Zettelkasten/Naive Limit Combination.md",
+    "Journal/14 August 2024 Wednesday.md",
     "Journal/13 August 2024 Tuesday.md",
     "Journal/12 August 2024 Monday.md",
     "Journal/11 August 2024 Sunday.md",
@@ -204,20 +239,10 @@
     "4-archive/HIG-22-011/HIG-22-011.md",
     "Output/Lists.md",
     "Input/SomedayMaybe.md",
-    "Journal/2022/May 2022.md",
     "Journal/2022/#May 2022.md#",
-    "Journal/2022/April 2022.md",
-    "3-resources/computing/BitWarden.md",
-    "3-resources/computing/BitWardenCISetup.md",
-    "1-projects/Mixed2.0/mixed2.0.md",
     "Journal/2022/#April 2022.md#",
-    "3-resources/Obsidian/obsidian.md",
     "Untitled 2.canvas",
-    "Journal/August 2024.md",
-    "Journal/Future Log.md",
-    "Input/Videos/Excalidraw intro video.md",
     "attachments/CMS Test.png",
-    "Input/Papers/WZ production cross section in pp collisions at 13.6 TeV.md",
     "Journal/2022/#March 2022.md#",
     "1-projects/HH4b",
     "Journal/2022/#February 2022.md#",
@@ -235,7 +260,6 @@
     "0-inbox/Pasted image 20240726092207.png",
     "attachments/Pasted image 20240726154559.png",
     "Untitled.canvas",
-    "Untitled 1.canvas",
-    "attachments/bj Pt problem.png"
+    "Untitled 1.canvas"
   ]
 }

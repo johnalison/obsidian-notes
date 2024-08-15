@@ -6,7 +6,7 @@ Get new carrying trays
 
 # Jessica
 - 9 modules built. (Front side Ecapuslation not done... need it for 4 modules)
-- Can Build 2 more next week (How many do they need)
+- Can Build 2 more next week (How many do they need at FNAL ? )
 - No need for Cu Tungsten
 - Clean lab/change filters soon.
 - Minor updated needed to component trays

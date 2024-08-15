@@ -14,6 +14,9 @@ Index:
 
 # Particle Physics
 
+[[Naive Limit Combination]]
+[[Spurious-Signal]]
+
 ## Synthetic Datasets
 
 - [[Proxy-datasets-critical-for-data-driven-systematics]]
@@ -24,7 +27,7 @@ Index:
 - [[Jet DeClustering]]
 
 
-[[Spurious-Signal]]
+
 
 ## Potential Analyses
 [[H-bb-vs-cc-using-photons]]

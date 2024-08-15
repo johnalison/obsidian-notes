@@ -95,6 +95,8 @@ Impact:
 The activities contributing to the cumulative SV and CV are all activities that have been delayed and will be completed later than scheduled but will not impact the overall schedule such as the start of module production.
 
 ## Links: 
+[[HGC]]
+[[CAM]]
 
 
 
