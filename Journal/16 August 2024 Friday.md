@@ -20,5 +20,8 @@ Some [[American Covenant]]
 
 [[July 2022]]
 
+# To Phipps 
+- Say Stats prof _____Will Townes___
+
 
 
