@@ -80,3 +80,4 @@ Start [[HGC TDR]] read chapter 1
 
 [[June 2022]]
 
+Did Finances: 1.7

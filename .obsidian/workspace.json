@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-projects/HGC/CAM Turnaround Report.md",
+                "file": "2-areas/Personal/CryptoMoves.md",
                 "mode": "source",
                 "source": false
               }
@@ -75,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "file:crypto",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,8 +102,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -123,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-projects/HGC/CAM Turnaround Report.md",
+                "file": "2-areas/Personal/CryptoMoves.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-projects/HGC/CAM Turnaround Report.md",
+                "file": "2-areas/Personal/CryptoMoves.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-projects/HGC/CAM Turnaround Report.md"
+                "file": "2-areas/Personal/CryptoMoves.md"
               }
             }
           }
@@ -188,10 +187,11 @@
   },
   "active": "6b84ae142668eba9",
   "lastOpenFiles": [
+    "Journal/15 August 2024 Thursday.md",
+    "1-projects/HGC/CAM Turnaround Report.md",
     "0-inbox/HGC TDR.md",
     "1-projects/HGC/HGC Personnel per MAC.md",
     "0-inbox/Drawing 2024-07-11 14.42.16.excalidraw.md",
-    "Journal/15 August 2024 Thursday.md",
     "Journal/2022/June 2022.md",
     "4-archive/HIG-22-011/HIG-22-011.md",
     "Journal/2022/#June 2022.md#",
@@ -216,7 +216,6 @@
     "2-areas/Philosophy/Advice.md",
     "Output/CAM/CAM Variance July 2024.md",
     "Output/CAM/CAM Variance August 2024.md",
-    "Input/Meetings/Chat Chris Berman 15 Aug 2024.md",
     "attachments/HGC Personnel per MAC.png",
     "Journal/2022/#May 2022.md#",
     "Journal/2022/#April 2022.md#",
