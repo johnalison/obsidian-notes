@@ -15,6 +15,8 @@ Started thesis drafting
 
 ## Links: 
 [[Wesley Terrill]]
+[[Chat w Wes 23 July 2024]]
+
 
 
 202408060937

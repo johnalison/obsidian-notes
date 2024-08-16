@@ -12,6 +12,8 @@ Walked her through next steps for X->hh->4b
 
 
 ## Links: 
+[[Sindhu Murthy]]
+[[Chat w Sindhu 5 August 2024]]
 
 
 

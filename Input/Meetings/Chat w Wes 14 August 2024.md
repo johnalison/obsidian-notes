@@ -14,6 +14,8 @@ Some progress.
 
 ## Links: 
 [[Wesley Terrill]]
+[[Chat with Wes 6 August 2024]]
+
 
 
 202408130930

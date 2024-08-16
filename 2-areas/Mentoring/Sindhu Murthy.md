@@ -7,9 +7,9 @@
 - Good work with local DBs
 
 
-
-## Chats 
-- [[SindhuChat 15 July 2024]]
+# Other 
+- TA award
+- Did teachers program (Outreach TA)
 
 
 ## Links: 

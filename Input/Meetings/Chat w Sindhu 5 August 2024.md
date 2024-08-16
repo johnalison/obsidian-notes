@@ -10,6 +10,6 @@ https://indico.fnal.gov/event/63696/timetable/#20240726.detailed
 
 ## Links: 
 [[Sindhu Murthy]]
-
+[[Chat w Sindhu 19 July 2024]]
 
 202408051521

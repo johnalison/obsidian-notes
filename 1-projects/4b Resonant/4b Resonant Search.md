@@ -29,7 +29,7 @@
 
 
 ## Links: 
-[[Chat w Sindhu 19 July]]
+[[Chat w Sindhu 19 July 2024]]
 
 
 

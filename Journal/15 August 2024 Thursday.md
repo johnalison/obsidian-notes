@@ -32,6 +32,7 @@
 - [x] Submit VAR
 - [x] Clean up 7316
 - [ ] Read HGC TDR
+- [ ] Parno Letter
 
 
 # Log
@@ -76,3 +77,6 @@ Submitted [[CAM Variance August 2024]]
 Some work on Scotts speach.
 
 Start [[HGC TDR]] read chapter 1
+
+[[June 2022]]
+

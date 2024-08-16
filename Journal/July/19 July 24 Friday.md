@@ -71,7 +71,7 @@ Tried (failed) to get new computer.  Try again on Monday.
 
 [[CMU Round Table 19 July]]
 
-[[Chat w Sindhu 19 July]]
+[[Chat w Sindhu 19 July 2024]]
 
 Need to start: [[4b Resonant Search]]
 
