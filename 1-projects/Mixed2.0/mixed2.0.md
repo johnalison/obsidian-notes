@@ -30,6 +30,7 @@ Getting the new mixing going
 	- [ ] Then add back non declustered TTbar
 - [ ] Add top candidate making to declustered data
 - [ ] How are there any b-jets with m > 50 GeV ? (given the template cut off)
+	- [ ] A: Form the (bb) + b + b + X  events
 
 
 # Template Fixes

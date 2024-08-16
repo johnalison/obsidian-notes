@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/16 August 2024 Friday.md",
+                "file": "1-projects/Mixed2.0/mixed2.0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/16 August 2024 Friday.md",
+                "file": "1-projects/Mixed2.0/mixed2.0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/16 August 2024 Friday.md"
+                "file": "1-projects/Mixed2.0/mixed2.0.md"
               }
             }
           }
@@ -185,10 +185,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7c04504c204a9d16",
+  "active": "0ec96f4327046142",
   "lastOpenFiles": [
-    "1-projects/Mixed2.0/mixed2.0.md",
     "Journal/16 August 2024 Friday.md",
+    "1-projects/Mixed2.0/mixed2.0.md",
     "0-inbox/Diana Parno Promotion Letter.md",
     "0-inbox/Matteo Cremonesi reappointment Letter.md",
     "0-inbox/How to write effective tenure review letters.md",
