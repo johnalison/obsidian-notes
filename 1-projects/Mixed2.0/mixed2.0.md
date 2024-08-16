@@ -1,23 +1,41 @@
 Getting the new mixing going
 
-## Documentation: 
+# Documentation: 
 [1st presentation in H→bb](https://indico.cern.ch/event/1429006/contributions/6030942/attachments/2889527/5065145/SyntheticDataSetsFromJetSplitting.pdf)
    Presents the overall idea and the 4b + 0j in 2018 data
    
 
-## Plan
-- [x] 4b + 0j
-- [x] 4b + 1j
-- [x] 4b + 2j
-- [x] 4b + Xj
-- [x] Scale years clustering
-- [x] Scale years declustering
-	- [ ] PDFs by year ?
-- [x] use all non-b jets
-	- [x] pt/eta cuts only on the b-jets
+# Plan
+- [ ] Delta R
+- [ ] PDFs by year ?
 
 
-## Ideas: 
+# To Do
+- [ ] Check ΔRs (HARD!)
+- [ ] Read [[Do graph neural networks learn traditional jet substructure?]]]
+- [ ] Write out picos with the synthetic datasets jet (write CI)
+- [ ] [[ResamplingBug]]
+- [ ] [[bj pt mismodeling]]
+- [ ] [[bj splitting mismodelings]]
+- [ ] [[clean splittings during clustering]], so only plot those actually used 
+- [ ] Compare splittings by year
+- [ ] Seeing pt overflows in some of the clusterings
+- [ ] Compute fractions of dressed b splittings: 2g->bb vs g->bb + b + b
+- [ ] Template Fixes
+- [ ] TTbar Subtractions/ Additions
+	- [ ] Subtrackt ttbar from Templates
+	- [ ] Subtract ttbar from Input data being clustered
+	- [ ] Then add back non declustered TTbar
+- [ ] Add top candidate making to declustered data
+- [ ] How are there any b-jets with m > 50 GeV ? (given the template cut off)
+
+
+# Template Fixes
+- [ ] Extend range of mB 
+- [ ] Seeing pt overflows in some of the clusterings (mB_l / mA_vl / ect)
+
+
+# Ideas: 
 * [[decluster3b]]
 * [[MLForSplittingFunctions]]
 * Run on boosted ? [Sub-jet code](https://github.com/rkansal47/HHbbVV/blob/main/src/HHbbVV/processors/TaggerInference.py#L63-L66)
@@ -27,87 +45,12 @@ Getting the new mixing going
 
 
 
-## To Do: 
-- [ ] Check ΔRs (HARD!)
-- [x] Compare synthetic vs nominal
-	- [x] 4b + 0j
-	- [x] 4b + 1j
-	- [x] 4b + 2j
-	- [x] 4b + Xj
-- [x] Run jet multiplicities together / Plots separate 
-- [x] Recursive ISR removal (Needed for 4b + >1j)
-	- [x] `['bb', '(bb)(jj)'] -> with ISR cleaning ['bb', 'bb', 'jj']
-- [ ] ~~Compare splitting functions ( + 0j vs +1j vs +>1j )
-- [ ] Read [[Do graph neural networks learn traditional jet substructure?]]]
-- [x] Script to compare cluster vs reclusterd
-- [x] scripts to compare splitting functions
-- [ ] ~~Script to compare splitting functions in jet multiplicities~~
-- [ ] ~~Write out picos with clustered jets (write CI)
-- [ ] Write out picos with the synthetic datasets jet (write CI)
-- [x] CI for code to make the clustering histograms
-- [x] Fix the extra jet treatment (for now copy jets < 40 and add new jets)
-	- [x] Or just do splitting for all jets > 20 GeV
-	- [x] update recursion to only check if bjet pt > 40 GeV
-- [ ] [[ResamplingBug]]
-- [x] Add a dR AB > 0.4 check
-- [x] [[bj pt mismodeling]]
-- [x] Do mass based on jet flavor ?  (mA vs mB in pt bins?)
-- [x] use jet_flavor when declustering (eg: part_A is b in bj / or has the larger combination ect) 
-- [x] fix mB in b(bj) 
-- [ ] [[bj splitting mismodelings]]
-- [x] [[6 jet clean ISR bugs]]
-- [ ] [[clean splittings during clustering]], so only plot those actually used 
-- [x] ISR is everything but (b+x) + (b+x) splittings!!!!
-- [x] Test script crashing b/c of memory
-	- [x] When max 2 extra jets / Running with 1 worker fixes it
-	- [x] Now think this was b/c I was making too many hists! / back to 4 workers
-	- [x] Swap memory -> 0 / Maybe faster using 2 workers ? A: no it doesnt! 
-- [x] Reduce memory!
-	- [x] Remove unneeded histograms 
-	- [x] Only write out splittings we need
-- [x] Add back detailed splittting hists
-	- [x] option to turn them on/off
-- [x] PDF script to only rely on trimmed histograms
-	- [x] separate study_splitting_fuctions from make_PDFs
-	- [x] plot the splitting type multiplicity
-- [x] Seeing types
-	- `(bj)((jj)b)` and `((jj)b)(bj)`
-- [ ] Update presentation with inclusive sample and all years
-	- [x] [[Dressed Bjets]]
-- [ ] Compare splittings by year
-- [ ] ~~Proper Protection from missing splitting ? 
-- [x] pdflatex for dataset comparisions
-- [x] Group rare splitting types to reduce total numbers / speed
-	- [x] Function to get splitting summary statistics
-	- [x] Update declustering to get splitting name from jet_flavor
-- [ ] Seeing pt overflows in some of the clusterings
-- [ ] Compute fractions of dressed b splittings: 2g->bb vs g->bb + b + b
-- [x] Add other jets to presentation
-- [ ] Template Fixes
-- [x] Regroup splittings (<10)
-- [ ] TTbar Subtractions/ Additions
-	- [ ] Subtrackt ttbar from Templates
-	- [ ] Subtract ttbar from Input data being clustered
-	- [ ] Then add back non declustered TTbar
-- [ ] Add top candidate making to declustered data
-- [ ] How are there any b-jets with m > 50 GeV ? (given the template cut off)
-
-
-
-
-
-# Template Fixes
-- [x]  mA_vs_pT -> 100 bins
-- [x] b(bj) mB -> mB_l
-- [ ] Extend range of mB 
-- [ ] Seeing pt overflows in some of the clusterings (mB_l / mA_vl / ect)
-
-
-
 # Work:
 [[script to compare the splittings]]
 [[Script to check reclustered splittings]]
 [[Script to compare synthetic and nominal datasets]]
+
+
 
 
 
@@ -132,13 +75,82 @@ inclusive in jet multiplicity and all years **88m46.643s**
 inclusive in jet multiplicty all years, correct jet def: **114m0.018s**
 
 
-Splittings PDFs:
+# Splittings PDFs:
 - 00-05-00:  All years and all jet multiplicities (old notCanJet_sel def)
 - 00-05-01:  bug fix combined jet flavor definition 
 - 00-06-00: 18 with fix all jet mutliplicites (updated nonCanJet def )
 - 00-06-01: 18 new groupings (not cleaning ISR)
 - 00-06-02: All years / new groupings 
 - 00-07-00: All years / Xb/Yj groupings (21 total)
+
+
+# Archive:
+
+## Plan
+- [x] 4b + 0j
+- [x] 4b + 1j
+- [x] 4b + 2j
+- [x] 4b + Xj
+- [x] Scale years clustering
+- [x] Scale years declustering
+	- [ ] PDFs by year ?
+- [x] use all non-b jets
+	- [x] pt/eta cuts only on the b-jets
+
+## To Do: 
+- [x] Compare synthetic vs nominal
+	- [x] 4b + 0j
+	- [x] 4b + 1j
+	- [x] 4b + 2j
+	- [x] 4b + Xj
+- [x] Run jet multiplicities together / Plots separate 
+- [x] Recursive ISR removal (Needed for 4b + >1j)
+	- [x] `['bb', '(bb)(jj)'] -> with ISR cleaning ['bb', 'bb', 'jj']
+- [x] Script to compare cluster vs reclusterd
+- [x] scripts to compare splitting functions
+- [ ] ~~Script to compare splitting functions in jet multiplicities~~
+- [ ] ~~Write out picos with clustered jets (write CI)
+- [x] CI for code to make the clustering histograms
+- [x] Fix the extra jet treatment (for now copy jets < 40 and add new jets)
+	- [x] Or just do splitting for all jets > 20 GeV
+	- [x] update recursion to only check if bjet pt > 40 GeV
+- [x] Add a dR AB > 0.4 check
+- [x] [[bj pt mismodeling]]
+- [x] Do mass based on jet flavor ?  (mA vs mB in pt bins?)
+- [x] use jet_flavor when declustering (eg: part_A is b in bj / or has the larger combination ect) 
+- [x] fix mB in b(bj) 
+- [x] [[6 jet clean ISR bugs]]
+- [x] ISR is everything but (b+x) + (b+x) splittings!!!!
+- [x] Test script crashing b/c of memory
+	- [x] When max 2 extra jets / Running with 1 worker fixes it
+	- [x] Now think this was b/c I was making too many hists! / back to 4 workers
+	- [x] Swap memory -> 0 / Maybe faster using 2 workers ? A: no it doesnt! 
+- [x] Reduce memory!
+	- [x] Remove unneeded histograms 
+	- [x] Only write out splittings we need
+- [x] Add back detailed splittting hists
+	- [x] option to turn them on/off
+- [x] PDF script to only rely on trimmed histograms
+	- [x] separate study_splitting_fuctions from make_PDFs
+	- [x] plot the splitting type multiplicity
+- [x] Seeing types
+	- `(bj)((jj)b)` and `((jj)b)(bj)`
+- [x] Update presentation with inclusive sample and all years
+	- [x] [[Dressed Bjets]]
+- [ ] ~~Proper Protection from missing splitting ? 
+- [x] pdflatex for dataset comparisions
+- [x] Group rare splitting types to reduce total numbers / speed
+	- [x] Function to get splitting summary statistics
+	- [x] Update declustering to get splitting name from jet_flavor
+- [x] Add other jets to presentation
+- [x] Regroup splittings (<10)
+
+
+## Template Fixes
+- [x]  mA_vs_pT -> 100 bins
+- [x] b(bj) mB -> mB_l
+
+
 
 ## Links: 
 

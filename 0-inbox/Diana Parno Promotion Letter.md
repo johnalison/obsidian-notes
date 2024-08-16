@@ -10,7 +10,7 @@ Great fit for the department
 
 
 Leadership role in snowmass (Topical Convener)
-- decadal community-planning process for par- ticle physics.
+- decadal community-planning process for particle physics.
 
 KATRIN
 - Analysis Co-Coordination Team

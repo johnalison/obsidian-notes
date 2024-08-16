@@ -28,11 +28,11 @@
 
 # To Do
 - [x] write up S/sqrt(B) argument
-- [ ] CAM Training
+- [ >] CAM Training
 - [x] Submit VAR
 - [x] Clean up 7316
-- [ ] Read HGC TDR
-- [ ] Parno Letter
+- [ >] Read HGC TDR
+- [ >] Parno Letter
 
 
 # Log
