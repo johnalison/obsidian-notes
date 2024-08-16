@@ -22,6 +22,8 @@ Getting the new mixing going
 - [ ] What happens to  pt overflows in the clustering ?
 - [x] Compute fractions of dressed b splittings: 2g->bb vs g->bb + b + b
 - [ ] Template Fixes
+	- [ ] Script to plot all the 1D marginals for all the splittings
+	- [x] Option for mA_vl and mB_vl
 - [ ] TTbar Subtractions/ Additions
 	- [ ] Subtrackt ttbar from Templates
 	- [ ] Subtract ttbar from Input data being clustered
