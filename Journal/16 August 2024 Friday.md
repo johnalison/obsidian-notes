@@ -27,4 +27,6 @@ Some [[American Covenant]]
 - Add hist to count the number of clustered jets 
 - Add more PDF ranges
 - Running clustering on **cmslpc306**....**108m52.381s**
+- Fine tuning pdfs
+
 
