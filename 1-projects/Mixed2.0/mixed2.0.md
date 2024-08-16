@@ -19,8 +19,8 @@ Getting the new mixing going
 - [ ] [[bj splitting mismodelings]]
 - [ ] [[clean splittings during clustering]], so only plot those actually used 
 - [ ] Compare splittings by year
-- [ ] Seeing pt overflows in some of the clusterings
-- [ ] Compute fractions of dressed b splittings: 2g->bb vs g->bb + b + b
+- [ ] What happens to  pt overflows in the clustering ?
+- [x] Compute fractions of dressed b splittings: 2g->bb vs g->bb + b + b
 - [ ] Template Fixes
 - [ ] TTbar Subtractions/ Additions
 	- [ ] Subtrackt ttbar from Templates
