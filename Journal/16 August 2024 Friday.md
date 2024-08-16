@@ -26,5 +26,5 @@ Some [[American Covenant]]
 # [[mixed2.0]]
 - Add hist to count the number of clustered jets 
 - Add more PDF ranges
-- Running clustering on **cmslpc306**....
+- Running clustering on **cmslpc306**....**108m52.381s**
 
