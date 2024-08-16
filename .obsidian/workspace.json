@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-areas/Personal/CryptoMoves.md",
+                "file": "0-inbox/How to write effective tenure review letters.md",
                 "mode": "source",
                 "source": false
               }
@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7c04504c204a9d16",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-inbox/Diana Parno Promotion Letter.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -75,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:crypto",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,7 +114,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -122,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-areas/Personal/CryptoMoves.md",
+                "file": "0-inbox/Diana Parno Promotion Letter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-areas/Personal/CryptoMoves.md",
+                "file": "0-inbox/Diana Parno Promotion Letter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-areas/Personal/CryptoMoves.md"
+                "file": "0-inbox/Diana Parno Promotion Letter.md"
               }
             }
           }
@@ -185,9 +198,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6b84ae142668eba9",
+  "active": "7c04504c204a9d16",
   "lastOpenFiles": [
     "Journal/15 August 2024 Thursday.md",
+    "0-inbox/Diana Parno Promotion Letter.md",
+    "0-inbox/How to write effective tenure review letters.md",
+    "2-areas/Personal/CryptoMoves.md",
     "1-projects/HGC/CAM Turnaround Report.md",
     "0-inbox/HGC TDR.md",
     "1-projects/HGC/HGC Personnel per MAC.md",
@@ -213,9 +229,6 @@
     "Output/Lists.md",
     "2-areas/Philosophy/Quotes for cards.md",
     "2-areas/Philosophy/Wishes.md",
-    "2-areas/Philosophy/Advice.md",
-    "Output/CAM/CAM Variance July 2024.md",
-    "Output/CAM/CAM Variance August 2024.md",
     "attachments/HGC Personnel per MAC.png",
     "Journal/2022/#May 2022.md#",
     "Journal/2022/#April 2022.md#",
