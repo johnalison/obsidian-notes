@@ -71,6 +71,8 @@ Getting the new mixing going
 4b+Xj all years: **83m53.974s**
              **101m24.461s** 8 Aug 2024
              **108m52.381s** 16 Aug with correct jet def
+Signal 1 worker: **196m47.039s**
+
 
 ## Synthetic Datasets
 Inclusive in jet multiplicity (rerunning SvB) **38m1.994s**

@@ -31,12 +31,13 @@ Some [[American Covenant]]
 - Made pdf set 00-07-01 with the ranges tuned
 - Running the declustering... done **116m39.358s**
 - clustered data looks great!
-- Declustering signal on **cmslpc306**
+- Declustering signal on **cmslpc306**... **196m47.039s**
 
 Got new van Morrison album.
 
 # Peter Theil on Joe Rogan
 - Nuke died because too hard to control dual use
-- 
+- Recommends Chaos book
+- Interesting discussion of JFK assassination 
 
 
