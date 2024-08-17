@@ -29,8 +29,14 @@ Some [[American Covenant]]
 - Running clustering on **cmslpc306**....**108m52.381s**
 - Fine tuning pdfs
 - Made pdf set 00-07-01 with the ranges tuned
-- Running the declustering
+- Running the declustering... done **116m39.358s**
+- clustered data looks great!
+- Declustering signal on **cmslpc306**
 
-Got new van Morrison album
+Got new van Morrison album.
+
+# Peter Theil on Joe Rogan
+- Nuke died because too hard to control dual use
+- 
 
 

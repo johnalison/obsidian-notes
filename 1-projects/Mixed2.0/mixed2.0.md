@@ -12,7 +12,7 @@ Getting the new mixing going
 
 # To Do
 - [ ] Check ΔRs (HARD!)
-- [ ] Read [[Do graph neural networks learn traditional jet substructure?]]]
+- [ ] Read [[Do graph neural networks learn traditional jet substructure?]]
 - [ ] Write out picos with the synthetic datasets jet (write CI)
 - [ ] [[ResamplingBug]]
 - [ ] [[bj pt mismodeling]]
@@ -21,21 +21,20 @@ Getting the new mixing going
 - [ ] Compare splittings by year
 - [ ] What happens to  pt overflows in the clustering ?
 - [x] Compute fractions of dressed b splittings: 2g->bb vs g->bb + b + b
-- [ ] Template Fixes
-	- [ ] Script to plot all the 1D marginals for all the splittings
+- [x] Template Fixes
+	- [x] Script to plot all the 1D marginals for all the splittings
 	- [x] Option for mA_vl and mB_vl
 - [ ] TTbar Subtractions/ Additions
 	- [ ] Subtrackt ttbar from Templates
 	- [ ] Subtract ttbar from Input data being clustered
 	- [ ] Then add back non declustered TTbar
 - [ ] Add top candidate making to declustered data
-- [ ] How are there any b-jets with m > 50 GeV ? (given the template cut off)
-	- [ ] A: Form the (bb) + b + b + X  events
+- [x] How are there any b-jets with m > 50 GeV ? (given the template cut off)
+	==> A: Form the (bb) + b + b + X  events
+- [ ] run clustering on ttbar MC ?
+- [ ] Add hists of ptt / (ptt + pmj) try this as DvT
 
 
-# Template Fixes
-- [ ] Extend range of mB 
-- [ ] Seeing pt overflows in some of the clusterings (mB_l / mA_vl / ect)
 
 
 # Ideas: 
@@ -71,12 +70,13 @@ Getting the new mixing going
 	    2018 using all non b-jets  **46m30.667s**
 4b+Xj all years: **83m53.974s**
              **101m24.461s** 8 Aug 2024
+             **108m52.381s** 16 Aug with correct jet def
 
 ## Synthetic Datasets
 Inclusive in jet multiplicity (rerunning SvB) **38m1.994s**
 inclusive in jet multiplicity and all years **88m46.643s**
 inclusive in jet multiplicty all years, correct jet def: **114m0.018s**
-
+with 00-07-01 PDFs **116m39.358s**
 
 # Splittings PDFs:
 - 00-05-00:  All years and all jet multiplicities (old notCanJet_sel def)
