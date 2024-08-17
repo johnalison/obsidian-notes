@@ -28,5 +28,9 @@ Some [[American Covenant]]
 - Add more PDF ranges
 - Running clustering on **cmslpc306**....**108m52.381s**
 - Fine tuning pdfs
+- Made pdf set 00-07-01 with the ranges tuned
+- Running the declustering
+
+Got new van Morrison album
 
 
