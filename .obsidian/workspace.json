@@ -49,14 +49,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/17 August 2024 Saturday.md",
+                "file": "Journal/2022/August 2022.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -102,7 +102,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -122,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-projects/Mixed2.0/mixed2.0.md",
+                "file": "Journal/2022/August 2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-projects/Mixed2.0/mixed2.0.md",
+                "file": "Journal/2022/August 2022.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-projects/Mixed2.0/mixed2.0.md"
+                "file": "Journal/2022/August 2022.md"
               }
             }
           }
@@ -185,11 +186,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0ec96f4327046142",
+  "active": "7c04504c204a9d16",
   "lastOpenFiles": [
     "Journal/17 August 2024 Saturday.md",
-    "Journal/16 August 2024 Friday.md",
+    "Journal/2022/#August 2022.md#",
+    "Journal/2022/August 2022.md",
     "1-projects/Mixed2.0/mixed2.0.md",
+    "Journal/16 August 2024 Friday.md",
     "1-projects/Mixed2.0/clean splittings during clustering.md",
     "1-projects/Mixed2.0/ResamplingBug.md",
     "1-projects/Mixed2.0/bj splitting mismodelings.md",
@@ -213,8 +216,6 @@
     "Input/Meetings/Chat with Wes 6 August 2024.md",
     "Input/Meetings/July/Chat w Wes 23 July 2024.md",
     "Input/Meetings/SindhuChat 12 August 2024.md",
-    "Input/Meetings/Chat w Sindhu 5 August 2024.md",
-    "Input/Meetings/ChatwAniket 5 August 2024.md",
     "attachments/HGC TDR Summary Table.png",
     "attachments/HGC Dose.png",
     "attachments/HGC Personnel per MAC.png",
@@ -227,7 +228,6 @@
     "Journal/2022/#February 2022.md#",
     "Journal/2021/#December 2021.md#",
     "Journal/2022",
-    "Journal/#6 August 2024 Tuesday.md#",
     "attachments/Pasted image 20240730120049.png",
     "attachments/Pasted image 20240730120040.png",
     "attachments/Pasted image 20240726092502.png",
