@@ -28,11 +28,12 @@ Getting the new mixing going
 	- [ ] Subtrackt ttbar from Templates
 	- [ ] Subtract ttbar from Input data being clustered
 	- [ ] Then add back non declustered TTbar
-- [ ] Add top candidate making to declustered data
+- [x] Add top candidate making to declustered data
 - [x] How are there any b-jets with m > 50 GeV ? (given the template cut off)
 	==> A: Form the (bb) + b + b + X  events
 - [ ] run clustering on ttbar MC ?
-- [ ] Add hists of ptt / (ptt + pmj) try this as DvT
+- [x] Add hists of ptt / (ptt + pmj)
+	- [ ] try this as DvT
 
 
 
