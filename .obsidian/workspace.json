@@ -61,14 +61,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/18 August 2024 Sunday.md",
+                "file": "0-inbox/Tmux has forever changed the way I write code..md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/2022/August 2022.md",
+                "file": "0-inbox/Tmux has forever changed the way I write code..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/2022/August 2022.md",
+                "file": "0-inbox/Tmux has forever changed the way I write code..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/2022/August 2022.md"
+                "file": "0-inbox/Tmux has forever changed the way I write code..md"
               }
             }
           }
@@ -198,11 +198,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7c04504c204a9d16",
+  "active": "59073135048ea830",
   "lastOpenFiles": [
     "Journal/18 August 2024 Sunday.md",
-    "Journal/17 August 2024 Saturday.md",
+    "0-inbox/Tmux has forever changed the way I write code..md",
     "Journal/2022/August 2022.md",
+    "Journal/17 August 2024 Saturday.md",
     "Journal/2022/#August 2022.md#",
     "1-projects/Mixed2.0/mixed2.0.md",
     "Journal/16 August 2024 Friday.md",
@@ -228,7 +229,6 @@
     "Input/Meetings/Chat w Wes 14 August 2024.md",
     "Input/Meetings/Chat with Wes 6 August 2024.md",
     "Input/Meetings/July/Chat w Wes 23 July 2024.md",
-    "Input/Meetings/SindhuChat 12 August 2024.md",
     "attachments/HGC TDR Summary Table.png",
     "attachments/HGC Dose.png",
     "attachments/HGC Personnel per MAC.png",

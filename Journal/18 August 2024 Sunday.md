@@ -1,38 +1,17 @@
-# Timeblock
 
-|     |     |     |
-| --- | --- | --- |
-| 9   |     |     |
-|     |     |     |
-| 10  |     |     |
-|     |     |     |
-| 11  |     |     |
-|     |     |     |
-| 12  |     |     |
-|     |     |     |
-| 1   |     |     |
-|     |     |     |
-| 2   |     |     |
-|     |     |     |
-| 3   |     |     |
-|     |     |     |
-| 4   |     |     |
-|     |     |     |
-
-**W:**
-**DW:**
-**OT:**
-**ex** or **~~ex~~**
-
-# The ONE thing: 
-- [ ] 
-
-
-# To Do
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
 
 
 # Log
+
+Up at 9
+
+Fixed gutters
+
+Tried to get car detailed... will try again tomorrow
+
+[[August 2022]]
+
+
+[[Tmux has forever changed the way I write code.]]
+   
+   
