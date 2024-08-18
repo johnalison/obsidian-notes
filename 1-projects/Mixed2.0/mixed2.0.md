@@ -34,6 +34,8 @@ Getting the new mixing going
 - [ ] run clustering on ttbar MC ?
 - [x] Add hists of ptt / (ptt + pmj)
 	- [ ] try this as DvT
+- [x] Add hT hist 
+- [x] Recalc HT
 
 
 

@@ -14,6 +14,7 @@ https://tmuxcheatsheet.com/
 `<prefix>` + %  - split pane vertically 
 `<prefix>` + " - split pane horizontally 
 `<prefix>` + (arrow key) to move among panes
+`<prefix>` + z to zoom 
 
 ## Follow-ups
 
