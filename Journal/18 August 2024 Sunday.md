@@ -13,5 +13,7 @@ Tried to get car detailed... will try again tomorrow
 
 
 [[Tmux has forever changed the way I write code.]]
+
+declustering all years w/slow top Can reconstruction: **123m41.618s**
    
    
