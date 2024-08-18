@@ -17,3 +17,7 @@ Up at 8
 - re running on **cmslpc337** ... ran out of memory... Try with 2 workers on 337
 
 To Giant Eagle
+
+To Meirskis party
+
+Vowed to quit beer

@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "59073135048ea830",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Journal/18 August 2024 Sunday.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -123,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/2022/August 2022.md",
+                "file": "Journal/18 August 2024 Sunday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/2022/August 2022.md",
+                "file": "Journal/18 August 2024 Sunday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/2022/August 2022.md"
+                "file": "Journal/18 August 2024 Sunday.md"
               }
             }
           }
@@ -186,11 +198,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7c04504c204a9d16",
+  "active": "59073135048ea830",
   "lastOpenFiles": [
     "Journal/17 August 2024 Saturday.md",
-    "Journal/2022/#August 2022.md#",
+    "Journal/18 August 2024 Sunday.md",
     "Journal/2022/August 2022.md",
+    "Journal/2022/#August 2022.md#",
     "1-projects/Mixed2.0/mixed2.0.md",
     "Journal/16 August 2024 Friday.md",
     "1-projects/Mixed2.0/clean splittings during clustering.md",
