@@ -69,3 +69,8 @@ Bought towel service
 Got round 2 of VHH comments ... happy with the FH replies.
 
 [[SindhuChat 19 August 2024]]
+
+Skip Aniket chat
+
+MSC townhall
+- Not much / Will probably require Math SAT test next year
