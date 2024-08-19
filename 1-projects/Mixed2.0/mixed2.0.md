@@ -17,7 +17,7 @@ Getting the new mixing going
 - [ ] [[ResamplingBug]]
 - [ ] [[bj pt mismodeling]]
 - [ ] [[bj splitting mismodelings]]
-- [ ] [[clean splittings during clustering]], so only plot those actually used 
+- [ ] ~~[[clean splittings during clustering]], so only plot those actually used 
 - [ ] Compare splittings by year
 - [ ] What happens to  pt overflows in the clustering ?
 - [x] Compute fractions of dressed b splittings: 2g->bb vs g->bb + b + b
@@ -25,7 +25,7 @@ Getting the new mixing going
 	- [x] Script to plot all the 1D marginals for all the splittings
 	- [x] Option for mA_vl and mB_vl
 - [ ] TTbar Subtractions/ Additions
-	- [ ] Subtrackt ttbar from Templates
+	- [ ] Subtract ttbar from Templates
 	- [ ] Subtract ttbar from Input data being clustered
 	- [ ] Then add back non declustered TTbar
 - [x] Add top candidate making to declustered data
@@ -37,6 +37,7 @@ Getting the new mixing going
 - [x] Add hT hist 
 - [x] Recalc HT
 - [ ] Random number for BTagging (sorting fucking up top reconstruction ?)
+- [ ] Is there a problem with jet phis ?  Why discontinuous ?
 
 
 

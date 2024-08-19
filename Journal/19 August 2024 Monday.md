@@ -65,6 +65,8 @@ Bought towel service
 - update presenations with hT and top reco
 - Adding a fix (?) for jet selection (int to bools) for the hT calculation 
 - Running on **cmslpc333**
+- selJets fixed hT distribution 
+- randomize assignment of deepJet scores to fix (?) top reconstruction.
 
 Got round 2 of VHH comments ... happy with the FH replies.
 
@@ -74,3 +76,5 @@ Skip Aniket chat
 
 MSC townhall
 - Not much / Will probably require Math SAT test next year
+
+more mixed
