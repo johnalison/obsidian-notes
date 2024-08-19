@@ -32,43 +32,19 @@
             }
           },
           {
-            "id": "6b84ae142668eba9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Input/Blogs/How to write effective tenure review letters.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "59073135048ea830",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Journal/17 August 2024 Saturday.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "7ec4bdb7c4f8a766",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/19 August 2024 Monday.md",
+                "file": "0-inbox/SindhuChat 19 August 2024.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -135,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/19 August 2024 Monday.md",
+                "file": "0-inbox/SindhuChat 19 August 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/19 August 2024 Monday.md",
+                "file": "0-inbox/SindhuChat 19 August 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/19 August 2024 Monday.md"
+                "file": "0-inbox/SindhuChat 19 August 2024.md"
               }
             }
           }
@@ -200,21 +176,23 @@
   },
   "active": "7ec4bdb7c4f8a766",
   "lastOpenFiles": [
+    "Input/Meetings/SindhuChat 12 August 2024.md",
+    "0-inbox/SindhuChat 19 August 2024.md",
+    "Journal/19 August 2024 Monday.md",
+    "1-projects/Mixed2.0/mixed2.0.md",
+    "Journal/17 August 2024 Saturday.md",
+    "Input/Blogs/How to write effective tenure review letters.md",
     "0-inbox/Diana Parno Promotion Letter.md",
     "3-resources/computing/Tmux Tips.md",
     "0-inbox/Tmux has forever changed the way I write code..md",
-    "Input/Blogs/How to write effective tenure review letters.md",
     "0-inbox/Drawing 2024-07-11 14.42.16.excalidraw.md",
-    "Journal/19 August 2024 Monday.md",
     "Journal/18 August 2024 Sunday.md",
     "Journal/August 2024.md",
-    "Journal/17 August 2024 Saturday.md",
     "Journal/16 August 2024 Friday.md",
     "Journal/15 August 2024 Thursday.md",
     "Journal/13 August 2024 Tuesday.md",
     "Journal/12 August 2024 Monday.md",
     "Journal/14 August 2024 Wednesday.md",
-    "1-projects/Mixed2.0/mixed2.0.md",
     "Input/Books/Going big.md",
     "Journal/2022/August 2022.md",
     "Journal/2022/#August 2022.md#",
@@ -226,8 +204,6 @@
     "4-archive/HIG-22-011/HIG-22-011.md",
     "Journal/2022/July 2022.md",
     "Journal/2022/#July 2022.md#",
-    "2-areas/Personal/CryptoMoves.md",
-    "1-projects/HGC/CAM Turnaround Report.md",
     "Journal/2022/#June 2022.md#",
     "attachments/HGC TDR Summary Table.png",
     "attachments/HGC Dose.png",
