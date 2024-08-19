@@ -36,7 +36,8 @@ Getting the new mixing going
 	- [ ] try this as DvT
 - [x] Add hT hist 
 - [x] Recalc HT
-- [ ] Random number for BTagging (sorting fucking up top reconstruction ?)
+- [x] Random number for BTagging (sorting fucking up top reconstruction ?)
+	 A: Yes ! it was.  now fixed
 - [ ] Is there a problem with jet phis ?  Why discontinuous ?
 
 
