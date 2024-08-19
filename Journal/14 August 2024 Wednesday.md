@@ -24,7 +24,7 @@ Some [[BlackSwan]]
 	- Works great!
 - Installed "Remember Cursor position"
 
-Figure out how to use variables with a make files
+Figured out how to use variables with a make files
 	- Can change via command line! 
 
 

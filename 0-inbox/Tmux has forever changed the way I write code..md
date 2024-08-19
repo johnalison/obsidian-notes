@@ -21,6 +21,9 @@ https://tmuxcheatsheet.com/
 
 ## Links: 
 
+[[computing]]
+[[Tmux Tips]]
+[[Tmux]]
 
 
 202408181348

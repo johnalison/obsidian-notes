@@ -1,9 +1,9 @@
 
 
 # To Do
-- [ ] Read HGC TDR
-- [ ] Parno Letter
-- [ ] CAM Training
+- [ >] Read HGC TDR
+- [ >] Parno Letter
+- [ >] CAM Training
 - [ ] 
 - [ ] 
 

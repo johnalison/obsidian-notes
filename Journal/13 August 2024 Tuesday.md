@@ -30,7 +30,7 @@
 
 # To Do
 - [x] Submit comments to CDS
-- [ ] Update Jet Declustering slides  
+- [x] Update Jet Declustering slides  
 - [ ] 
 - [ ] 
 

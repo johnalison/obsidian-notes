@@ -1,10 +1,4 @@
 
-# To Do
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-
 
 # Log
 
@@ -18,6 +12,7 @@ Up at 8
 
 To Giant Eagle
 
-To Meirskis party
+Grilled Hot docs
+# Meirskis party
 
-Vowed to quit beer
+# Vowed to quit beer
