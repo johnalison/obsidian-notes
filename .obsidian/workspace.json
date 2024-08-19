@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/Diana Parno Promotion Letter.md",
+                "file": "Journal/19 August 2024 Monday.md",
                 "mode": "source",
                 "source": false
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/Diana Parno Promotion Letter.md",
+                "file": "Journal/19 August 2024 Monday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/Diana Parno Promotion Letter.md",
+                "file": "Journal/19 August 2024 Monday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/Diana Parno Promotion Letter.md"
+                "file": "Journal/19 August 2024 Monday.md"
               }
             }
           }
@@ -200,6 +200,7 @@
   },
   "active": "7ec4bdb7c4f8a766",
   "lastOpenFiles": [
+    "0-inbox/Diana Parno Promotion Letter.md",
     "3-resources/computing/Tmux Tips.md",
     "0-inbox/Tmux has forever changed the way I write code..md",
     "Input/Blogs/How to write effective tenure review letters.md",
@@ -221,7 +222,6 @@
     "1-projects/Mixed2.0/ResamplingBug.md",
     "1-projects/Mixed2.0/bj splitting mismodelings.md",
     "0-inbox/Things-To-Add-To-Notes.md",
-    "0-inbox/Diana Parno Promotion Letter.md",
     "0-inbox/Matteo Cremonesi reappointment Letter.md",
     "4-archive/HIG-22-011/HIG-22-011.md",
     "Journal/2022/July 2022.md",
