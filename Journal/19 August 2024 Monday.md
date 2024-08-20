@@ -14,15 +14,15 @@
 |     | Jet Declustering |     |
 | 2   | Jet Declustering |     |
 |     | Murthy           |     |
-| 3   | Aniket           |     |
-|     |                  |     |
-| 4   | Berman           |     |
-|     |                  |     |
+| 3   | MCS              |     |
+|     | Jet Declustering |     |
+| 4   | Jet Declustering |     |
+|     | Jet Declustering |     |
 
-**W:**
-**DW:**
-**OT:**
-**ex** or **~~ex~~**
+**W:** 5
+**DW:** 4
+**OT:** 4
+**ex** 
 
 # The ONE thing: 
 - [x] Parno Letter
@@ -31,8 +31,8 @@
 
 # To Do
 - [x] Parno Letter
-- [ ] Read HGC TDR
-- [ ] CAM Training
+- [ >] Read HGC TDR
+- [ >] CAM Training
 - [ ] 
 - [ ] 
 
