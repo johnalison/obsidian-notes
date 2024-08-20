@@ -86,5 +86,6 @@ Pinged the Hbb conveners re:JetDeclustering Talk... Will do it September 4th
 
 home w/Kids
 
-[How public intellectuals can extend their shelf lives](https://marginalrevolution.com/marginalrevolution/2020/02/how-public-intellectuals-can-extend-their-shelf-lives.html)
+[[How public intellectuals can extend their shelf lives]]
 
+[[September 2022]]
