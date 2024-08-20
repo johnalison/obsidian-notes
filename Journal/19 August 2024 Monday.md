@@ -67,6 +67,7 @@ Bought towel service
 - Running on **cmslpc333**
 - selJets fixed hT distribution 
 - randomize assignment of deepJet scores to fix (?) top reconstruction.
+	- Did indeed fix the top reconstruction!  Next to tt_vs_mj! 
 
 Got round 2 of VHH comments ... happy with the FH replies.
 

@@ -39,6 +39,7 @@ Getting the new mixing going
 - [x] Random number for BTagging (sorting fucking up top reconstruction ?)
 	 A: Yes ! it was.  now fixed
 - [ ] Is there a problem with jet phis ?  Why discontinuous ?
+	- THink its Ok, added histograms with larger range
 
 
 
