@@ -32,7 +32,6 @@
 - [x] Jet declustering
 	- [x] Declustering w/new jet definition
 - [x] Send WZ comments
-- [ ] 
 
 
 # Log

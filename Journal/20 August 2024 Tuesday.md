@@ -19,10 +19,10 @@
 | 4   | Jet Declustering |     |
 |     | Jet Declustering |     |
 
-**W:**
-**DW:**
-**OT:**
-**ex** or **~~ex~~**
+**W:** 7 
+**DW:** 5
+**OT:** 3
+**ex** 
 
 # The ONE thing: 
 - [ ] JetDeclustering
@@ -83,3 +83,8 @@ Imported Music directly from Backup.
 Did [[Valentina Dutta reappointment Letter]]
 
 Pinged the Hbb conveners re:JetDeclustering Talk... Will do it September 4th
+
+home w/Kids
+
+[How public intellectuals can extend their shelf lives](https://marginalrevolution.com/marginalrevolution/2020/02/how-public-intellectuals-can-extend-their-shelf-lives.html)
+

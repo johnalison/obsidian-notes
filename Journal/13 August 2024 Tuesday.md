@@ -31,8 +31,6 @@
 # To Do
 - [x] Submit comments to CDS
 - [x] Update Jet Declustering slides  
-- [ ] 
-- [ ] 
 
 
 # Log

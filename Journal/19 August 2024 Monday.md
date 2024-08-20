@@ -33,8 +33,7 @@
 - [x] Parno Letter
 - [ >] Read HGC TDR
 - [ >] CAM Training
-- [ ] 
-- [ ] 
+
 
 
 # Log
