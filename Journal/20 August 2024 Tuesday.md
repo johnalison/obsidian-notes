@@ -6,8 +6,8 @@
 |     | Osher Training   |     |
 | 10  | Osher Training   |     |
 |     | Osher Training   |     |
-| 11  | Osher Training   |     |
-|     | GYM              |     |
+| 11  | Jet Declustering |     |
+|     | Jet Declustering |     |
 | 12  | GYM              |     |
 |     | GYM              |     |
 | 1   | Jet Declustering |     |
@@ -47,4 +47,9 @@ M & T to school
 setup
 
 # [[mixed2.0]]
-- Adding ttbar subtraction 
+- Adding ttbar subtraction ... troubles added a cut to selev
+	- Figured it out, ala binding 
+- Adding ttbar subtraction to clustering proc
+
+
+[[Osher Study Leader Training 20 Aug 2024]]
