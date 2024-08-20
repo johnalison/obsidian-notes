@@ -48,8 +48,15 @@ setup
 
 # [[mixed2.0]]
 - Adding ttbar subtraction ... troubles added a cut to selev
-	- Figured it out, ala binding 
-- Adding ttbar subtraction to clustering proc
+	- Figured it out, ala binding in processor_HH4b
+	- Need to read in old SvB... do ttbar veto... DONE
+	- Then calculate new SvB ... DONE
+	- Need to test
+- Added ttbar subtraction to clustering processor 
+- running clustering on **cmslpc328**  will make pdfs 00-07-02
+
 
 
 [[Osher Study Leader Training 20 Aug 2024]]
+
+Paid Discover bill
