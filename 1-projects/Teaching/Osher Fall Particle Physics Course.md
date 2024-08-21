@@ -1,8 +1,6 @@
 https://www.cmu.edu/osher/teach-for-us/catalog_fall-2024_for-final-edits.pdf
 
-
-
-
+Each chapter in the Particle Physics Public course could be Osher course
 
 Press: 
 https://x.com/physics_cmu/status/1811833634892186027?s=46
@@ -23,6 +21,8 @@ Room :  Osher Room A
 
 
 ## Links: 
+[[Teaching]]
+[[Osher Study Leader Training 20 Aug 2024]]
 
 
 

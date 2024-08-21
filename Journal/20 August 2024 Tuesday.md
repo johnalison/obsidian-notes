@@ -72,10 +72,10 @@ more mixed
 
 Imported Music directly from Backup. 
 # Steamroom Thoughts: 
-- Each chapter in Particle physics Public course could be Osher course
+- ~~Each chapter in Particle physics Public course could be Osher course
 - Idea for basic science course: Ideas of particles physics : 
 	- conceptual particle physics with out detailed calculations
-- Relativity is triangles with a minus sign thrown in. 
+- ~~Relativity is triangles with a minus sign thrown in. 
 - ~~Should just give Jet DeClustering talk in Hbb
 
 [[Matteo Cremonesi reappointment Letter]]
@@ -89,3 +89,5 @@ home w/Kids
 [[How public intellectuals can extend their shelf lives]]
 
 [[September 2022]]
+
+
