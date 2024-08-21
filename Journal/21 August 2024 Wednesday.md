@@ -39,3 +39,6 @@ Some [[HGC TDR]]
 Moving CV to do in to note [[ToAddToCV]]
 
 Fixing mixed CI
+
+Running declustering after global pt sort after synthetirc dataset. on **cmslpc340**
+
