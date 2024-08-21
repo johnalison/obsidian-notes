@@ -32,8 +32,8 @@
 # To Do
 - [x] Valentina Letter
 - [ ] Matteo Letter
-- [ ] CAM Training
-- [ ] Read HGC TDR
+- [ >] CAM Training
+- [ >] Read HGC TDR
 
 
 # Log
@@ -47,15 +47,15 @@ M & T to school
 setup
 
 # [[mixed2.0]]
-- Adding ttbar subtraction ... troubles added a cut to selev
-	- Figured it out, ala binding in processor_HH4b
+- Adding ttbar subtraction ... troubles adding a cut to selev
+	- Figured it out, a la binding in processor_HH4b
 	- Need to read in old SvB... do ttbar veto... DONE
 	- Then calculate new SvB ... DONE
 	- Need to test
 - Added ttbar subtraction to clustering processor 
 - running clustering on **cmslpc328**  will make pdfs 00-07-02
 - running the declustering on 328 ... **109m46.045s**
-
+- Made plots with ttbar subtraction... not 
 
 
 [[Osher Study Leader Training 20 Aug 2024]]
@@ -73,8 +73,8 @@ more mixed
 Imported Music directly from Backup. 
 # Steamroom Thoughts: 
 - ~~Each chapter in Particle physics Public course could be Osher course
-- Idea for basic science course: Ideas of particles physics : 
-	- conceptual particle physics with out detailed calculations
+- ~~Idea for basic science course: Ideas of particles physics : 
+	- ~~conceptual particle physics with out detailed calculations
 - ~~Relativity is triangles with a minus sign thrown in. 
 - ~~Should just give Jet DeClustering talk in Hbb
 

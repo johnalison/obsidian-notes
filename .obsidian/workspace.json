@@ -49,14 +49,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-Zettelkasten/Relativity is Triangles with a minus sign.md",
+                "file": "0-inbox/CAM Training.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/20 August 2024 Tuesday.md",
+                "file": "0-inbox/CAM Training.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/20 August 2024 Tuesday.md",
+                "file": "0-inbox/CAM Training.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/20 August 2024 Tuesday.md"
+                "file": "0-inbox/CAM Training.md"
               }
             }
           }
@@ -185,12 +185,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4caf2dd66c00b534",
+  "active": "18881c575341d215",
   "lastOpenFiles": [
+    "Journal/20 August 2024 Tuesday.md",
+    "0-inbox/CAM Training.md",
+    "Journal/21 August 2024 Wednesday.md",
+    "00-Zettelkasten/Relativity is Triangles with a minus sign.md",
     "1-projects/Teaching/Osher Fall Particle Physics Course.md",
     "Input/Meetings/Osher Study Leader Training 20 Aug 2024.md",
-    "Journal/20 August 2024 Tuesday.md",
-    "00-Zettelkasten/Relativity is Triangles with a minus sign.md",
     "Input/Books/Going big.md",
     "Input/Blogs/How public intellectuals can extend their shelf lives.md",
     "Journal/2022/September 2022.md",
@@ -213,8 +215,6 @@
     "Input/Blogs/How to write effective tenure review letters.md",
     "0-inbox/Diana Parno Promotion Letter.md",
     "3-resources/computing/Tmux Tips.md",
-    "0-inbox/Tmux has forever changed the way I write code..md",
-    "0-inbox/Drawing 2024-07-11 14.42.16.excalidraw.md",
     "Journal/2022/#August 2022.md#",
     "Journal/2022/#July 2022.md#",
     "Journal/2022/#June 2022.md#",
