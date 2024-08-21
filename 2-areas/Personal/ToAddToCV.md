@@ -1,0 +1,88 @@
+
+# Talks
+- Status of the LHC experimental program, Lake Louise Winter Institute 18–24 Feb 2024**
+- Colloq in University of Cinncinati**
+- Stamps Talk 
+-  DPF Talk
+
+  
+# Papers:
+
+HIG-22-011 Accepted EPJC
+https://cms-results.web.cern.ch/cms-results/public-results/publications/HIG-22-011/
+
+HIG-22-006 Submitted to JHEP
+https://cms-results.web.cern.ch/cms-results/public-results/publications/HIG-22-006
+
+OT Paper (Accepted to XX)
+
+Construction and commissioning of CMS CE prototype silicon modules
+https://arxiv.org/abs/2012.06336
+
+BTV-22-001: BTV Boosted performance nad calibration
+TRG-19-001: Performance of the CMS High Level Trigger during LHC Run 2
+PRF-21-001: 
+https://cds.cern.ch/record/2851412/files/PRF-21-001-paper-v3.pdf
+
+Focus topics for the ECFA study on Higgs / Top / EW factories
+https://arxiv.org/abs/2401.07564
+# Grad Students:
+
+Chuyuan Liu: Tracking Validator
+		    VHH
+			HH -> 4b
+
+
+Wesley Terrill:  SOS
+       		Btaggign
+			 HGC
+
+Sindhu Murthy:   HGC
+       		  4b
+
+
+Aniket: bbWW
+		BTaggin
+
+# Work:
+
+SOS 
+VHH -> 4b (analysis out / paper pending)
+ZZ/ZH -> 4b analysis out
+
+# ARCs:
+  bbWW
+
+
+# Others
+Member of local organizing committee for DPF-Pheno 2024 ( joint 2024 meeting of APS Division of Particles and Fields and Phenomenology 2024 Symposium), co-hosted by University of Pittsburgh and Carnegie Mellon University
+
+Member of local organizing committee for 2023 US CMS annual meeting, hosted at Carnegie Mellon University
+
+# Thesis committies:
+  - Vlads student
+  - Battels student
+
+
+# Outreach:
+
+- Pine richaland physics cirriculluym advising
+- PGSS relativity course
+- Oshcher Higgs course
+- Teachers program
+  
+
+  
+
+  
+
+
+
+## Follow-ups
+
+
+## Links: 
+
+
+
+202408211825

@@ -1,8 +1,10 @@
 
 
 # To Do
-- [x] CAM Training
+- [ ] CAM Training
+	- [x] V2
 - [ ] Read HGC TDR
+	- [x] Si Sensors
 - [ ] 
 
 
@@ -32,4 +34,8 @@ Got Chrome to actually be the default browser
 
 [[October 2022]]
 
-[[HGC TDR]]
+Some [[HGC TDR]]
+
+Moving CV to do in to note [[ToAddToCV]]
+
+Fixing mixed CI

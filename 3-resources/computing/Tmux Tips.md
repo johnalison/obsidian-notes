@@ -16,6 +16,7 @@ C-b :       Prompt for a command
 `<prefix>` + " - split pane horizontally 
 `<prefix>` + (arrow key) to move among panes
 `<prefix>` + z to zoom 
+`<prefix>` + space to switch vertical and horizontal panes
 
 
 tmux list-keys 

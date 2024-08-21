@@ -38,8 +38,9 @@ Getting the new mixing going
 - [x] Recalc HT
 - [x] Random number for BTagging (sorting fucking up top reconstruction ?)
 	 A: Yes ! it was.  now fixed
-- [ ] Is there a problem with jet phis ?  Why discontinuous ?
+- [x] Is there a problem with jet phis ?  Why discontinuous ?
 	- THink its Ok, added histograms with larger range
+- [ ] Add sanity check for number of sel jets
 
 
 
