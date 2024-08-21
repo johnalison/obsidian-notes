@@ -1,7 +1,7 @@
 
 
 # To Do
-- [ ] CAM Training
+- [x] CAM Training
 - [ ] Read HGC TDR
 - [ ] 
 
@@ -21,4 +21,8 @@ Hbb Meeting
 
 [[Excalidraw intro video]]
 
-Setup Excalidraw template and hotkey
+Setup Excalidraw template and hotkey CMD-X
+
+Starting [[Modules Summary August 2024]]]
+
+Finished EVMS #2

@@ -37,7 +37,7 @@ Vacations, lots of people away
 - Added other partials
 
 ## Links: 
-
+[[HGC]]
 
 
 202407181107
