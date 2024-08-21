@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/21 August 2024 Wednesday.md",
+                "file": "Output/CAM/CAM Variance August 2024.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -75,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "cam",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/21 August 2024 Wednesday.md",
+                "file": "0-inbox/EVMS 2 Developing a Schedule and Estimate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/21 August 2024 Wednesday.md",
+                "file": "0-inbox/EVMS 2 Developing a Schedule and Estimate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/21 August 2024 Wednesday.md"
+                "file": "0-inbox/EVMS 2 Developing a Schedule and Estimate.md"
               }
             }
           }
@@ -185,12 +185,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4caf2dd66c00b534",
+  "active": "18881c575341d215",
   "lastOpenFiles": [
-    "Journal/20 August 2024 Tuesday.md",
-    "0-inbox/EVMS 2 Developing a Schedule and Estimate.md",
+    "Output/CAM/CAM Variance August 2024.md",
+    "Journal/15 August 2024 Thursday.md",
+    "1-projects/HGC/CAM Turnaround Report.md",
     "0-inbox/CAM Training.md",
     "Journal/21 August 2024 Wednesday.md",
+    "0-inbox/EVMS 2 Developing a Schedule and Estimate.md",
+    "Journal/20 August 2024 Tuesday.md",
     "00-Zettelkasten/Relativity is Triangles with a minus sign.md",
     "1-projects/Teaching/Osher Fall Particle Physics Course.md",
     "Input/Meetings/Osher Study Leader Training 20 Aug 2024.md",
@@ -202,7 +205,6 @@
     "Journal/12 August 2024 Monday.md",
     "Journal/13 August 2024 Tuesday.md",
     "Journal/14 August 2024 Wednesday.md",
-    "Journal/15 August 2024 Thursday.md",
     "Journal/16 August 2024 Friday.md",
     "Journal/17 August 2024 Saturday.md",
     "Journal/18 August 2024 Sunday.md",
@@ -213,8 +215,6 @@
     "Journal/2022/#September 2022.md#",
     "0-inbox/SindhuChat 19 August 2024.md",
     "Input/Meetings/SindhuChat 12 August 2024.md",
-    "Input/Blogs/How to write effective tenure review letters.md",
-    "0-inbox/Diana Parno Promotion Letter.md",
     "Journal/2022/#August 2022.md#",
     "Journal/2022/#July 2022.md#",
     "Journal/2022/#June 2022.md#",

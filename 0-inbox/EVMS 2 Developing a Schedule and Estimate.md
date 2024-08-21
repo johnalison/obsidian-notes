@@ -1,4 +1,6 @@
-Watching now
+Downloaded video and slides
+
+
 
 
 
@@ -7,6 +9,8 @@ Watching now
 
 
 ## Links: 
+[[CAM]]
+[[HGC]]
 
 
 
