@@ -47,9 +47,11 @@
             "id": "ced86343fc612b3e",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Input/Meetings/JetPairingInVqqHcc.excalidraw.md"
+                "file": "Journal/21 August 2024 Wednesday.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -66,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -133,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Input/Meetings/JetPairingInVqqHcc.excalidraw.md",
+                "file": "1-projects/Mixed2.0/mixed2.0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Input/Meetings/JetPairingInVqqHcc.excalidraw.md",
+                "file": "1-projects/Mixed2.0/mixed2.0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Input/Meetings/JetPairingInVqqHcc.excalidraw.md"
+                "file": "1-projects/Mixed2.0/mixed2.0.md"
               }
             }
           }
@@ -196,11 +198,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ced86343fc612b3e",
+  "active": "0ec96f4327046142",
   "lastOpenFiles": [
     "Journal/21 August 2024 Wednesday.md",
-    "Input/Meetings/JetPairingInVqqHcc.excalidraw.md",
     "0-inbox/Speech for Scotts going away party.md",
+    "Input/Meetings/JetPairingInVqqHcc.excalidraw.md",
     "Input/Meetings/SindhuChat 19 August 2024.md",
     "0-inbox/PGSSRelativityPlan.excalidraw.md",
     "0-inbox/HGC TDR.md",
