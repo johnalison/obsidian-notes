@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Output/CAM/CAM Variance August 2024.md",
+                "file": "Journal/21 August 2024 Wednesday.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/EVMS 2 Developing a Schedule and Estimate.md",
+                "file": "Journal/21 August 2024 Wednesday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/EVMS 2 Developing a Schedule and Estimate.md",
+                "file": "Journal/21 August 2024 Wednesday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/EVMS 2 Developing a Schedule and Estimate.md"
+                "file": "Journal/21 August 2024 Wednesday.md"
               }
             }
           }
@@ -185,14 +185,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "18881c575341d215",
+  "active": "4caf2dd66c00b534",
   "lastOpenFiles": [
     "Output/CAM/CAM Variance August 2024.md",
+    "0-inbox/EVMS 2 Developing a Schedule and Estimate.md",
     "Journal/15 August 2024 Thursday.md",
     "1-projects/HGC/CAM Turnaround Report.md",
     "0-inbox/CAM Training.md",
     "Journal/21 August 2024 Wednesday.md",
-    "0-inbox/EVMS 2 Developing a Schedule and Estimate.md",
     "Journal/20 August 2024 Tuesday.md",
     "00-Zettelkasten/Relativity is Triangles with a minus sign.md",
     "1-projects/Teaching/Osher Fall Particle Physics Course.md",
