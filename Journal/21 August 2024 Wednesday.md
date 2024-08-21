@@ -16,3 +16,9 @@ w/M&T today
 
 Watching [[EVMS 2 Developing a Schedule and Estimate]]
 
+Hbb Meeting
+- [[JetPairingInVqqHcc.excalidraw]]
+
+[[Excalidraw intro video]]
+
+Setup Excalidraw template and hotkey

@@ -44,19 +44,29 @@
             }
           },
           {
-            "id": "18881c575341d215",
+            "id": "ced86343fc612b3e",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Input/Meetings/JetPairingInVqqHcc.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "d0bf09a62b48e9c5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/EVMS 2 Developing a Schedule and Estimate.md",
+                "file": "0-inbox/Speech for Scotts going away party.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -75,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cam",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,7 +112,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -122,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/21 August 2024 Wednesday.md",
+                "file": "Input/Meetings/JetPairingInVqqHcc.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/21 August 2024 Wednesday.md",
+                "file": "Input/Meetings/JetPairingInVqqHcc.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/21 August 2024 Wednesday.md"
+                "file": "Input/Meetings/JetPairingInVqqHcc.excalidraw.md"
               }
             }
           }
@@ -185,36 +196,39 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4caf2dd66c00b534",
+  "active": "ced86343fc612b3e",
   "lastOpenFiles": [
-    "Output/CAM/CAM Variance August 2024.md",
+    "Journal/21 August 2024 Wednesday.md",
+    "Input/Meetings/JetPairingInVqqHcc.excalidraw.md",
+    "0-inbox/Speech for Scotts going away party.md",
+    "Input/Meetings/SindhuChat 19 August 2024.md",
+    "0-inbox/PGSSRelativityPlan.excalidraw.md",
+    "0-inbox/HGC TDR.md",
     "0-inbox/EVMS 2 Developing a Schedule and Estimate.md",
+    "0-inbox/Drawing 2024-08-21 11.31.29.excalidraw.md",
+    "0-inbox/Drawing 2024-08-21 11.30.34.excalidraw.md",
+    "0-inbox/Drawing 2024-07-11 14.42.16.excalidraw.md",
+    "Excalidraw/template.excalidraw.md",
+    "0-inbox/Untitled.md",
+    "Excalidraw/Drawing 2024-07-11 14.47.45.excalidraw.md",
+    "Excalidraw/Drawing 2024-07-11 17.04.14.excalidraw.md",
+    "Excalidraw/Drawing 2024-07-12 15.06.44.excalidraw.md",
+    "Excalidraw/Drawing 2024-07-27 21.13.42.excalidraw.md",
+    "Excalidraw/Drawing 2024-08-21 11.06.41.excalidraw.md",
+    "Input/Videos/Excalidraw intro video.md",
+    "0-inbox/CAM Training.md",
+    "Output/Recommendation  Letters/Diana Parno Promotion Letter.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "Untitled 2.canvas",
+    "Output/CAM/CAM Variance August 2024.md",
     "Journal/15 August 2024 Thursday.md",
     "1-projects/HGC/CAM Turnaround Report.md",
-    "0-inbox/CAM Training.md",
-    "Journal/21 August 2024 Wednesday.md",
     "Journal/20 August 2024 Tuesday.md",
     "00-Zettelkasten/Relativity is Triangles with a minus sign.md",
     "1-projects/Teaching/Osher Fall Particle Physics Course.md",
-    "Input/Meetings/Osher Study Leader Training 20 Aug 2024.md",
-    "Input/Books/Going big.md",
-    "Input/Blogs/How public intellectuals can extend their shelf lives.md",
-    "Journal/2022/September 2022.md",
-    "Journal/August 2024.md",
-    "Journal/19 August 2024 Monday.md",
-    "Journal/12 August 2024 Monday.md",
-    "Journal/13 August 2024 Tuesday.md",
-    "Journal/14 August 2024 Wednesday.md",
-    "Journal/16 August 2024 Friday.md",
-    "Journal/17 August 2024 Saturday.md",
-    "Journal/18 August 2024 Sunday.md",
-    "Journal/Future Log.md",
-    "1-projects/Mixed2.0/mixed2.0.md",
-    "Output/Recommendation  Letters/Valentina Dutta reappointment Letter.md",
     "Output/Recommendation  Letters",
     "Journal/2022/#September 2022.md#",
-    "0-inbox/SindhuChat 19 August 2024.md",
-    "Input/Meetings/SindhuChat 12 August 2024.md",
     "Journal/2022/#August 2022.md#",
     "Journal/2022/#July 2022.md#",
     "Journal/2022/#June 2022.md#",
@@ -223,7 +237,6 @@
     "attachments/HGC Personnel per MAC.png",
     "Journal/2022/#May 2022.md#",
     "Journal/2022/#April 2022.md#",
-    "Untitled 2.canvas",
     "attachments/CMS Test.png",
     "Journal/2022/#March 2022.md#",
     "1-projects/HH4b",
@@ -233,8 +246,6 @@
     "attachments/Pasted image 20240726092502.png",
     "0-inbox/Pasted image 20240726092234.png",
     "0-inbox/Pasted image 20240726092333.png",
-    "0-inbox/Pasted image 20240726092213.png",
-    "Untitled.canvas",
-    "Untitled 1.canvas"
+    "0-inbox/Pasted image 20240726092213.png"
   ]
 }

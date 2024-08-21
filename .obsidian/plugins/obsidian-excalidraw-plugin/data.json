@@ -1,9 +1,9 @@
 {
-  "folder": "Excalidraw",
+  "folder": "0-inbox",
   "cropFolder": "",
   "annotateFolder": "",
   "embedUseExcalidrawFolder": false,
-  "templateFilePath": "Excalidraw/Template.excalidraw",
+  "templateFilePath": "Excalidraw/template.excalidraw",
   "scriptFolderPath": "Excalidraw/Scripts",
   "compress": true,
   "decompressForMDView": false,
