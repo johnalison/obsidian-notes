@@ -26,3 +26,6 @@ Setup Excalidraw template and hotkey CMD-X
 Starting [[Modules Summary August 2024]]]
 
 Finished EVMS #2
+
+Got Chrome to actually be the default browser
+- Chrome settings - > "Default Browser on right"

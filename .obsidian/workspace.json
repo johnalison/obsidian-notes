@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/CAM Training.md",
+                "file": "Journal/21 August 2024 Wednesday.md",
                 "mode": "source",
                 "source": false
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/CAM Training.md",
+                "file": "Journal/21 August 2024 Wednesday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/CAM Training.md",
+                "file": "Journal/21 August 2024 Wednesday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/CAM Training.md"
+                "file": "Journal/21 August 2024 Wednesday.md"
               }
             }
           }
@@ -188,7 +188,9 @@
   },
   "active": "d0bf09a62b48e9c5",
   "lastOpenFiles": [
+    "Input/Videos/Excalidraw intro video.md",
     "Journal/21 August 2024 Wednesday.md",
+    "0-inbox/CAM Training.md",
     "Input/Meetings/July/HGC Mac Meeting 18 July 2024.md",
     "Input/Meetings/July/HGC MAC Meeting 25 July 2024.md",
     "Input/Meetings/HGC Mac Meeting 1 August 2024.md",
@@ -212,8 +214,6 @@
     "Excalidraw/Drawing 2024-07-11 17.04.14.excalidraw.md",
     "Excalidraw/Drawing 2024-07-12 15.06.44.excalidraw.md",
     "Excalidraw/Drawing 2024-07-27 21.13.42.excalidraw.md",
-    "Excalidraw/Drawing 2024-08-21 11.06.41.excalidraw.md",
-    "Input/Videos/Excalidraw intro video.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Untitled 2.canvas",
