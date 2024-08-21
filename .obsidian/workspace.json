@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/20 August 2024 Tuesday.md",
+                "file": "Journal/21 August 2024 Wednesday.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,14 +49,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/CAM Training.md",
+                "file": "0-inbox/EVMS 2 Developing a Schedule and Estimate.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/CAM Training.md",
+                "file": "Journal/21 August 2024 Wednesday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/CAM Training.md",
+                "file": "Journal/21 August 2024 Wednesday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/CAM Training.md"
+                "file": "Journal/21 August 2024 Wednesday.md"
               }
             }
           }
@@ -185,9 +185,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "18881c575341d215",
+  "active": "4caf2dd66c00b534",
   "lastOpenFiles": [
     "Journal/20 August 2024 Tuesday.md",
+    "0-inbox/EVMS 2 Developing a Schedule and Estimate.md",
     "0-inbox/CAM Training.md",
     "Journal/21 August 2024 Wednesday.md",
     "00-Zettelkasten/Relativity is Triangles with a minus sign.md",
@@ -214,7 +215,6 @@
     "Input/Meetings/SindhuChat 12 August 2024.md",
     "Input/Blogs/How to write effective tenure review letters.md",
     "0-inbox/Diana Parno Promotion Letter.md",
-    "3-resources/computing/Tmux Tips.md",
     "Journal/2022/#August 2022.md#",
     "Journal/2022/#July 2022.md#",
     "Journal/2022/#June 2022.md#",
