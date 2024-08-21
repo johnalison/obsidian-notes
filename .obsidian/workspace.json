@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/21 August 2024 Wednesday.md",
+                "file": "0-inbox/HGC TDR.md",
                 "mode": "source",
                 "source": false
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/21 August 2024 Wednesday.md",
+                "file": "0-inbox/HGC TDR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/21 August 2024 Wednesday.md",
+                "file": "0-inbox/HGC TDR.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/21 August 2024 Wednesday.md"
+                "file": "0-inbox/HGC TDR.md"
               }
             }
           }
@@ -188,32 +188,33 @@
   },
   "active": "d0bf09a62b48e9c5",
   "lastOpenFiles": [
-    "Input/Videos/Excalidraw intro video.md",
+    "attachments/HGC TDR LD and HD Sensors.png",
+    "attachments/HGC TDR Si Sensor Table.png",
     "Journal/21 August 2024 Wednesday.md",
-    "0-inbox/CAM Training.md",
+    "Journal/2022/October 2022.md",
+    "0-inbox/HGC TDR.md",
+    "1-projects/HGC/CAM Training.md",
+    "0-inbox/Modules Summary August 2024.md",
+    "Input/Videos/Tmux has forever changed the way I write code..md",
+    "0-inbox/Untitled.md",
+    "0-inbox/Speech for Scotts going away party.md",
+    "0-inbox/PGSSRelativityPlan.excalidraw.md",
+    "Input/Lectures/EVMS 2 Developing a Schedule and Estimate.md",
+    "Input/Videos/Excalidraw intro video.md",
     "Input/Meetings/July/HGC Mac Meeting 18 July 2024.md",
     "Input/Meetings/July/HGC MAC Meeting 25 July 2024.md",
     "Input/Meetings/HGC Mac Meeting 1 August 2024.md",
     "Input/Meetings/HGC Mac Meeting 8 August 2024.md",
     "Input/Meetings/HGC Mac Meeting 15 August 2024.md",
-    "0-inbox/Modules Summary August 2024.md",
-    "0-inbox/Speech for Scotts going away party.md",
     "1-projects/HGC/Modules Summary July 2024.md",
     "1-projects/Mixed2.0/mixed2.0.md",
     "Input/Meetings/JetPairingInVqqHcc.excalidraw.md",
     "Input/Meetings/SindhuChat 19 August 2024.md",
-    "0-inbox/PGSSRelativityPlan.excalidraw.md",
-    "0-inbox/HGC TDR.md",
-    "0-inbox/EVMS 2 Developing a Schedule and Estimate.md",
     "0-inbox/Drawing 2024-08-21 11.31.29.excalidraw.md",
     "0-inbox/Drawing 2024-08-21 11.30.34.excalidraw.md",
     "0-inbox/Drawing 2024-07-11 14.42.16.excalidraw.md",
     "Excalidraw/template.excalidraw.md",
-    "0-inbox/Untitled.md",
     "Excalidraw/Drawing 2024-07-11 14.47.45.excalidraw.md",
-    "Excalidraw/Drawing 2024-07-11 17.04.14.excalidraw.md",
-    "Excalidraw/Drawing 2024-07-12 15.06.44.excalidraw.md",
-    "Excalidraw/Drawing 2024-07-27 21.13.42.excalidraw.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Untitled 2.canvas",
@@ -235,7 +236,6 @@
     "attachments/Pasted image 20240730120040.png",
     "attachments/Pasted image 20240726092502.png",
     "0-inbox/Pasted image 20240726092234.png",
-    "0-inbox/Pasted image 20240726092333.png",
-    "0-inbox/Pasted image 20240726092213.png"
+    "0-inbox/Pasted image 20240726092333.png"
   ]
 }

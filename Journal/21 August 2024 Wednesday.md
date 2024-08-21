@@ -29,3 +29,7 @@ Finished EVMS #2
 
 Got Chrome to actually be the default browser
 - Chrome settings - > "Default Browser on right"
+
+[[October 2022]]
+
+[[HGC TDR]]

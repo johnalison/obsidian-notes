@@ -18,6 +18,26 @@ Highest dose:
 
 ![[HGC TDR Summary Table.png]]
 
+# Sensors
+
+Thin: 
+The sensor leakage current increases linearly with fluence, resulting in increased noise and, combined with the very high bias voltages, leads to substantial power dissipation within the sensors themselves. These ob- servations motivated the investigation of sensors thinner than the 300 μm typically used so far,
+
+Fleunce is dominated by neutrons
+
+Ncells / Wafer = 3 (diamonds) x 4 (rows) x 4 (cols) x 4 (cells) = 192 (LD).   (Cell Area 1.18 cm2)
+              3 (diamonds) x 4 (rows) x 4 (cols) x 9 (cells) = 432 (LD).   (Cell Area 0.52 cm2)
+               (But they have the same number of trigger inputs)
+
+![[HGC TDR LD and HD Sensors.png]]
+
+200 and 300 µm are LD
+120 is the HD
+
+Two cells per readout chip are segmented to include calibration pads with smaller size and correspondingly lower capacitance and noise.
+
+![[HGC TDR Si Sensor Table.png]]
+
 
 # Trigger: 
 - uses only every other layer
