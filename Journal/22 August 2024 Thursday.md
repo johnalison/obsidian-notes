@@ -46,4 +46,11 @@ M & T to school
 
 # [[mixed2.0]]
 - Back to trying to fix ΔR...
+- Found a way to mask and write the jets
+- Starting to impement consistent random numbers
 - Start with case where there is no problem
+
+
+[[HGC Mac Meeting 22 August 2024]]
+
+[[CMUbbWW 22 August 2024]]

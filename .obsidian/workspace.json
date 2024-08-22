@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/22 August 2024 Thursday.md",
+                "file": "0-inbox/HGC Mac Meeting 22 August 2024.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,14 +61,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/22 August 2024 Thursday.md",
+                "file": "0-inbox/CMUbbWW 22 August 2024.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e2b0d70258fa4954",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Input/Meetings/CMUbbWW 15 August 2024.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -135,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/22 August 2024 Thursday.md",
+                "file": "Input/Meetings/CMUbbWW 15 August 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/22 August 2024 Thursday.md",
+                "file": "Input/Meetings/CMUbbWW 15 August 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/22 August 2024 Thursday.md"
+                "file": "Input/Meetings/CMUbbWW 15 August 2024.md"
               }
             }
           }
@@ -198,10 +210,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "91100ef807df69d2",
+  "active": "e2b0d70258fa4954",
   "lastOpenFiles": [
-    "Journal/21 August 2024 Wednesday.md",
+    "0-inbox/CMUbbWW 22 August 2024.md",
+    "0-inbox/HGC Mac Meeting 22 August 2024.md",
+    "Input/Meetings/CMUbbWW 15 August 2024.md",
     "Journal/22 August 2024 Thursday.md",
+    "Input/Meetings/HGC Mac Meeting 15 August 2024.md",
+    "2-areas/coffea4bs/Reproducible Random Numbers.md",
+    "Journal/21 August 2024 Wednesday.md",
     "Journal/20 August 2024 Tuesday.md",
     "Journal/19 August 2024 Monday.md",
     "0-inbox/Modules Summary August 2024.md",
@@ -223,11 +240,6 @@
     "attachments/HGC TDR Si Sensor Table.png",
     "Journal/2022/October 2022.md",
     "1-projects/HGC/CAM Training.md",
-    "Input/Videos/Tmux has forever changed the way I write code..md",
-    "0-inbox/Speech for Scotts going away party.md",
-    "0-inbox/PGSSRelativityPlan.excalidraw.md",
-    "Input/Lectures/EVMS 2 Developing a Schedule and Estimate.md",
-    "Input/Videos/Excalidraw intro video.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Untitled 2.canvas",
