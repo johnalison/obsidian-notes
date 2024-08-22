@@ -63,8 +63,8 @@ Bought towel service
 # [[mixed2.0]]
 - update presenations with hT and top reco
 - Adding a fix (?) for jet selection (int to bools) for the hT calculation 
+	- Did indeed fix the hT Calculation
 - Running on **cmslpc333**
-- selJets fixed hT distribution 
 - randomize assignment of deepJet scores to fix (?) top reconstruction.
 	- Did indeed fix the top reconstruction!  Next to tt_vs_mj! 
 

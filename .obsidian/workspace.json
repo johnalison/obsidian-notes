@@ -44,24 +44,24 @@
             }
           },
           {
-            "id": "dc4774e87379cb82",
+            "id": "22afb6f18625b147",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-Zettelkasten/Wisdom-index.md",
+                "file": "Journal/22 August 2024 Thursday.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "22afb6f18625b147",
+            "id": "91100ef807df69d2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Input/RespondDontReact.md",
+                "file": "Journal/22 August 2024 Thursday.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#consum",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,7 +114,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -134,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Input/RespondDontReact.md",
+                "file": "Journal/22 August 2024 Thursday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Input/RespondDontReact.md",
+                "file": "Journal/22 August 2024 Thursday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Input/RespondDontReact.md"
+                "file": "Journal/22 August 2024 Thursday.md"
               }
             }
           }
@@ -197,20 +198,23 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "22afb6f18625b147",
+  "active": "91100ef807df69d2",
   "lastOpenFiles": [
+    "Journal/21 August 2024 Wednesday.md",
+    "Journal/22 August 2024 Thursday.md",
+    "Journal/20 August 2024 Tuesday.md",
+    "Journal/19 August 2024 Monday.md",
+    "0-inbox/Modules Summary August 2024.md",
     "00-Zettelkasten/Wisdom-index.md",
+    "Input/RespondDontReact.md",
     "00-Zettelkasten/Stoic Test Strategy.md",
     "00-Zettelkasten/How to Succeed at Stoic Test Challenge.md",
-    "Input/RespondDontReact.md",
     "0-inbox/Things-To-Add-To-Notes.md",
-    "0-inbox/Modules Summary August 2024.md",
     "0-inbox/PossibleReframesOfSetbacks.md",
     "00-Zettelkasten/Value of Unconscious Emotions.md",
     "00-Zettelkasten/Let anger go.md",
     "00-Zettelkasten/ZettelKasten Index.md",
     "3-resources/Obsidian/Ideas-for-emacs-Obsidian.md",
-    "Journal/21 August 2024 Wednesday.md",
     "3-resources/computing/Tmux Tips.md",
     "1-projects/Mixed2.0/mixed2.0.md",
     "2-areas/Personal/ToAddToCV.md",
@@ -224,9 +228,6 @@
     "0-inbox/PGSSRelativityPlan.excalidraw.md",
     "Input/Lectures/EVMS 2 Developing a Schedule and Estimate.md",
     "Input/Videos/Excalidraw intro video.md",
-    "Input/Meetings/July/HGC Mac Meeting 18 July 2024.md",
-    "Input/Meetings/July/HGC MAC Meeting 25 July 2024.md",
-    "Input/Meetings/HGC Mac Meeting 1 August 2024.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Untitled 2.canvas",

@@ -1,11 +1,10 @@
 
 
 # To Do
-- [ ] CAM Training
+- [ >] CAM Training
 	- [x] V2
-- [ ] Read HGC TDR
+- [ >] Read HGC TDR
 	- [x] Si Sensors
-- [ ] 
 
 
 # Log

@@ -31,7 +31,7 @@
 
 # To Do
 - [x] Valentina Letter
-- [ ] Matteo Letter
+- [ >] Matteo Letter
 - [ >] CAM Training
 - [ >] Read HGC TDR
 
