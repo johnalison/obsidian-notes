@@ -69,3 +69,10 @@ Chat Sindhu
 - pullup/ front squat / press / core
 - 10' at Tmax 124
 
+more mixed 
+
+Think I have now the reproducible random numbers working.
+
+Got kids
+
+[[Translations of Kubernetes Ad]]
