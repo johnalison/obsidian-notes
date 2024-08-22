@@ -68,8 +68,10 @@ effective self-improvement critical
 
 
 
-# Respond, don't React
-
+# Respond, don't React (Employ Stoic Test Strategy)
+[[Let anger go]]
+[[Stoic Test Strategy]]
+[[Value of Unconscious Emotions]]
 
 [[StoicTestChallenge]]
 [[Dealing-With-Setbacks]]

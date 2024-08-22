@@ -1,7 +1,5 @@
 [[obsidian]]
 
-#Consume
-
 Installed 
 https://github.com/licht1stein/obsidian.el
 
@@ -12,7 +10,7 @@ Look into
 https://company-mode.github.io/
 
 This looks great!
-
+... Links dont really work.  Turned out not to really be a big deal
 
 # Follow-up
 - How can you search all the links by file name ?
