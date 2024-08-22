@@ -3,7 +3,8 @@
 
 
 # Aniket
-
+- Chi2 off will remake 
+- Will start making comprehensive slides
 
 # Alejandro 
 

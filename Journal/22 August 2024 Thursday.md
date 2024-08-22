@@ -54,3 +54,7 @@ M & T to school
 [[HGC Mac Meeting 22 August 2024]]
 
 [[CMUbbWW 22 August 2024]]
+
+Faculty Meeting:
+- Kirean leaving
+- 

@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/CMUbbWW 22 August 2024.md",
+                "file": "2-areas/coffea4bs/Reproducible Random Numbers.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Input/Meetings/CMUbbWW 15 August 2024.md",
+                "file": "2-areas/coffea4bs/Reproducible Random Numbers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Input/Meetings/CMUbbWW 15 August 2024.md",
+                "file": "2-areas/coffea4bs/Reproducible Random Numbers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Input/Meetings/CMUbbWW 15 August 2024.md"
+                "file": "2-areas/coffea4bs/Reproducible Random Numbers.md"
               }
             }
           }
@@ -210,12 +210,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e2b0d70258fa4954",
+  "active": "91100ef807df69d2",
   "lastOpenFiles": [
-    "0-inbox/CMUbbWW 22 August 2024.md",
-    "0-inbox/HGC Mac Meeting 22 August 2024.md",
-    "Input/Meetings/CMUbbWW 15 August 2024.md",
     "Journal/22 August 2024 Thursday.md",
+    "0-inbox/CMUbbWW 22 August 2024.md",
+    "Input/Meetings/CMUbbWW 15 August 2024.md",
+    "0-inbox/HGC Mac Meeting 22 August 2024.md",
     "Input/Meetings/HGC Mac Meeting 15 August 2024.md",
     "2-areas/coffea4bs/Reproducible Random Numbers.md",
     "Journal/21 August 2024 Wednesday.md",
