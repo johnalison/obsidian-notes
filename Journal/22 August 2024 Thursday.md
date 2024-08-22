@@ -1,23 +1,23 @@
 # Timeblock
 
-|     |             |     |
-| --- | ----------- | --- |
-| 9   |             |     |
-|     |             |     |
-| 10  |             |     |
-|     |             |     |
-| 11  | MAC Meeting |     |
-|     | MAC Meeting |     |
-| 12  |             |     |
-|     |             |     |
-| 1   |             |     |
-|     |             |     |
-| 2   |             |     |
-|     |             |     |
-| 3   |             |     |
-|     |             |     |
-| 4   |             |     |
-|     |             |     |
+|     |                              |     |
+| --- | ---------------------------- | --- |
+| 9   | Jet Declustering             |     |
+|     | Jet Declustering             |     |
+| 10  | Jet Declustering             |     |
+|     | Jet Declustering             |     |
+| 11  | MAC Meeting                  |     |
+|     | MAC Meeting                  |     |
+| 12  | bbWW                         |     |
+|     | Faculty Meeting              |     |
+| 1   | Faculty Meeting              |     |
+|     | Chat Rupert / Reinhard       |     |
+| 2   | [[StatsChat-22-August-2024]] |     |
+|     | [[StatsChat-22-August-2024]] |     |
+| 3   | **Gym**                      |     |
+|     | **Gym**                      |     |
+| 4   | **Gym**                      |     |
+|     | Jet Declustering             |     |
 
 **W:**
 **DW:**
@@ -48,6 +48,7 @@ M & T to school
 - Back to trying to fix ΔR...
 - Found a way to mask and write the jets
 - Starting to impement consistent random numbers
+	- Looking into code
 - Start with case where there is no problem
 
 
@@ -57,4 +58,14 @@ M & T to school
 
 Faculty Meeting:
 - Kirean leaving
-- 
+
+[[StatsChat-22-August-2024]]
+
+Chat Sindhu
+- Whence the double peaks in mHH ? 
+- Will try to run on mixed data and SM
+
+# Gym
+- pullup/ front squat / press / core
+- 10' at Tmax 124
+

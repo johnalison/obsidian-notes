@@ -78,9 +78,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "69e9a2413271b517",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Journal/22 August 2024 Thursday.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -147,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-areas/coffea4bs/Reproducible Random Numbers.md",
+                "file": "Journal/22 August 2024 Thursday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-areas/coffea4bs/Reproducible Random Numbers.md",
+                "file": "Journal/22 August 2024 Thursday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-areas/coffea4bs/Reproducible Random Numbers.md"
+                "file": "Journal/22 August 2024 Thursday.md"
               }
             }
           }
@@ -210,14 +222,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "91100ef807df69d2",
+  "active": "69e9a2413271b517",
   "lastOpenFiles": [
+    "0-inbox/StatsChat-22-August-2024.md",
     "Journal/22 August 2024 Thursday.md",
+    "0-inbox/Untitled.md",
+    "2-areas/coffea4bs/Reproducible Random Numbers.md",
     "0-inbox/CMUbbWW 22 August 2024.md",
     "Input/Meetings/CMUbbWW 15 August 2024.md",
     "0-inbox/HGC Mac Meeting 22 August 2024.md",
     "Input/Meetings/HGC Mac Meeting 15 August 2024.md",
-    "2-areas/coffea4bs/Reproducible Random Numbers.md",
     "Journal/21 August 2024 Wednesday.md",
     "Journal/20 August 2024 Tuesday.md",
     "Journal/19 August 2024 Monday.md",
@@ -238,8 +252,6 @@
     "0-inbox/HGC TDR.md",
     "attachments/HGC TDR LD and HD Sensors.png",
     "attachments/HGC TDR Si Sensor Table.png",
-    "Journal/2022/October 2022.md",
-    "1-projects/HGC/CAM Training.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Untitled 2.canvas",
