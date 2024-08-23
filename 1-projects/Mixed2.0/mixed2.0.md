@@ -92,6 +92,8 @@ Inclusive in jet multiplicity (rerunning SvB) **38m1.994s**
 inclusive in jet multiplicity and all years **88m46.643s**
 inclusive in jet multiplicty all years, correct jet def: **114m0.018s**
 with 00-07-01 PDFs **116m39.358s**
+with 00-07-02 PDFs and dR fix...**117m16.100s**
+with 00-07-02 PDFs and retry at 8 ... **121m1.577s**
 
 # Splittings PDFs:
 - 00-05-00:  All years and all jet multiplicities (old notCanJet_sel def)

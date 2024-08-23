@@ -6,8 +6,8 @@
 |     | Abdulla Alhosani |     |
 | 10  | Matteo Letter    |     |
 |     | Matteo Letter    |     |
-| 11  | MMTS             |     |
-|     | MMTS             |     |
+| 11  | ~~MMTS~~         |     |
+|     | ~~MMTS~~         |     |
 | 12  | JR Faculty Lunch |     |
 |     | JR Faculty Lunch |     |
 | 1   | JR Faculty Lunch |     |
@@ -19,20 +19,19 @@
 | 4   | Jet Declustering |     |
 |     | Grad Social      |     |
 
-**W:**
-**DW:**
-**OT:**
-**ex** or **~~ex~~**
+**W:** 8 
+**DW:** 2
+**OT:** 1
+ **~~ex~~**
 
 # The ONE thing: 
-- [ ] [[Matteo Cremonesi reappointment Letter]]
+- [x] [[Matteo Cremonesi reappointment Letter]]
 
 
 # To Do
-- [ ] [[Matteo Cremonesi reappointment Letter]]
-- [ ] Fix random number seeds
-- [ ] 
-- [ ] 
+- [x] [[Matteo Cremonesi reappointment Letter]]
+- [ ] Fix random number seeds / counter 
+
 
 
 # Log
@@ -67,13 +66,13 @@ Tech spark logon
 https://cmu.fbs.io/Apps/FBS/Default.aspx?f=619
 
 # Faculty Lunch
-- [ ] Get reimbursed
+- [x] Get reimbursed
 
-Some matteo
+Some Matteo letter
 
 # 4b Chat:
 - AE getting low pt going
-- CL working on kl fits
+- CL working on kl fits ?
 
 # Round Table
 - AE: low pt 4b / bbWW running new processor 
@@ -85,3 +84,21 @@ Some matteo
 - Matteo: news form jet, no more MeT :) 
 - Andrew: Weird IV curves / Analysis stuff
 - Chuyuan: Tool for plotting k_l signals / 
+
+Working [[Matteo Cremonesi reappointment Letter]]
+
+# Chat CL re: fixing random numbers
+- use "constants" as seed
+- jet spcefic things in the counter
+- **len(np.asarray(pts).view(np.uint64))**
+# Grad Social 
+- No beers / Good convo
+- Chat with Racheal 
+
+Got kids
+
+Marlos bday party
+
+Finish [[Matteo Cremonesi reappointment Letter]]
+
+Marlos b-day presents/dinner

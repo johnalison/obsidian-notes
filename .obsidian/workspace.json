@@ -11,11 +11,9 @@
             "id": "97a2e0edbdca5f16",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Output/Translations of Kubernetes Ad.md",
-                "mode": "source",
-                "source": false
+                "file": "0-inbox/PGSSRelativityPlan.excalidraw.md"
               }
             }
           },
@@ -26,18 +24,6 @@
               "type": "markdown",
               "state": {
                 "file": "1-projects/Mixed2.0/mixed2.0.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "04757706704d3abc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0-inbox/Matteo Cremonesi reappointment Letter.md",
                 "mode": "source",
                 "source": false
               }
@@ -55,8 +41,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/Matteo Cremonesi reappointment Letter.md",
+                "file": "0-inbox/PGSSRelativityPlan.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/Matteo Cremonesi reappointment Letter.md",
+                "file": "0-inbox/PGSSRelativityPlan.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/Matteo Cremonesi reappointment Letter.md"
+                "file": "0-inbox/PGSSRelativityPlan.excalidraw.md"
               }
             }
           }
@@ -186,21 +171,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "04757706704d3abc",
+  "active": "97a2e0edbdca5f16",
   "lastOpenFiles": [
-    "Journal/23 August 2024 Friday.md",
-    "0-inbox/Matteo Cremonesi reappointment Letter.md",
+    "Output/Translations of Kubernetes Ad.md",
     "1-projects/Mixed2.0/mixed2.0.md",
+    "Output/Recommendation  Letters/Matteo Cremonesi reappointment Letter.md",
+    "Journal/23 August 2024 Friday.md",
+    "Journal/22 August 2024 Thursday.md",
     "0-inbox/AnalysesOverview.excalidraw.md",
     "0-inbox/Drawing 2024-07-11 14.42.16.excalidraw.md",
-    "Output/Translations of Kubernetes Ad.md",
     "Output/Translations of Kubernetes Ad 1.md",
     "0-inbox/Things-To-Add-To-Notes.md",
     "0-inbox/Speech for Scotts going away party.md",
     "0-inbox/PGSSRelativityPlan.excalidraw.md",
     "0-inbox/Numba.md",
     "0-inbox/HGC TDR.md",
-    "Journal/22 August 2024 Thursday.md",
     "Input/Meetings/StatsChat-22-August-2024.md",
     "0-inbox/Untitled.md",
     "00-Zettelkasten/PossibleReframesOfSetbacks.md",
