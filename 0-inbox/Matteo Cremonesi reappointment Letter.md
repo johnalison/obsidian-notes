@@ -1,6 +1,17 @@
 
 Matteo 
 
+Planted a lot of seeds
+
+Wisely broadened scope of physics interested 
+
+Di-Higgs / jet performace 
+While no CMS papers, couple in the oven 
+
+Funded in FNAL
+L2 
+L3 Met
+Level-3 USCMS Analysis Facility Manager
 
 # Note
 

@@ -51,14 +51,20 @@ M & T to school
 - Starting to impement consistent random numbers
 	- Looking into code
 - Start with case where there is no problem
+- think I finally got the global dR working !!!!!
+- Fixed a bug in the eta check of one of the bs
+- Deculstering on **cmslpc305**...
+
 
 
 [[HGC Mac Meeting 22 August 2024]]
 
 [[CMUbbWW 22 August 2024]]
 
-Faculty Meeting:
+# Faculty Meeting:
 - Kirean leaving
+- Physics being Audited 
+- Send Rachel good news
 
 [[StatsChat-22-August-2024]]
 
@@ -80,5 +86,7 @@ Got kids
 
 Sent draft of summary to Nural.
 
+Think I may finally have the Delta R protection working !!!!
 
+Run
 
