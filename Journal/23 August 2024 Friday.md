@@ -30,7 +30,7 @@
 
 # To Do
 - [ ] [[Matteo Cremonesi reappointment Letter]]
-- [ ] 
+- [ ] Fix random number seeds
 - [ ] 
 - [ ] 
 
@@ -46,7 +46,7 @@ Up at 7.
 - dR looks good now!  
 - Need to fix random numbers (probably add more than just pt)
 - Send slides around
-- Trying with max retries set to 8
+- Trying with max retries set to 8...**121m1.577s**
 
 
 To school
@@ -69,3 +69,19 @@ https://cmu.fbs.io/Apps/FBS/Default.aspx?f=619
 # Faculty Lunch
 - [ ] Get reimbursed
 
+Some matteo
+
+# 4b Chat:
+- AE getting low pt going
+- CL working on kl fits
+
+# Round Table
+- AE: low pt 4b / bbWW running new processor 
+- SM: X->HH->4b / HGC reentry meeting / Good summer school
+- Joy: bbtt work / background reweighting 
+- Daniel: FNAL productive / DM search mono-W'
+- Aniket: chi2 signal vs Tt  problem with floats ? 
+- Tony: Autoencode moved to new package
+- Matteo: news form jet, no more MeT :) 
+- Andrew: Weird IV curves / Analysis stuff
+- Chuyuan: Tool for plotting k_l signals / 
