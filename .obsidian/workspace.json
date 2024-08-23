@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/23 August 2024 Friday.md",
+                "file": "1-projects/Mixed2.0/mixed2.0.md",
                 "mode": "source",
                 "source": false
               }
@@ -47,9 +47,11 @@
             "id": "79bcca110f8f456f",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "0-inbox/Drawing 2024-08-23 09.01.51.excalidraw.md"
+                "file": "Journal/23 August 2024 Friday.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -121,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/Drawing 2024-08-23 09.01.51.excalidraw.md",
+                "file": "Journal/23 August 2024 Friday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/Drawing 2024-08-23 09.01.51.excalidraw.md",
+                "file": "Journal/23 August 2024 Friday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/Drawing 2024-08-23 09.01.51.excalidraw.md"
+                "file": "Journal/23 August 2024 Friday.md"
               }
             }
           }
@@ -187,8 +189,10 @@
   "active": "79bcca110f8f456f",
   "lastOpenFiles": [
     "0-inbox/Matteo Cremonesi reappointment Letter.md",
-    "0-inbox/Drawing 2024-08-23 09.01.51.excalidraw.md",
     "Journal/23 August 2024 Friday.md",
+    "0-inbox/AnalysesOverview.excalidraw.md",
+    "0-inbox/Drawing 2024-07-11 14.42.16.excalidraw.md",
+    "1-projects/Mixed2.0/mixed2.0.md",
     "Output/Translations of Kubernetes Ad.md",
     "Output/Translations of Kubernetes Ad 1.md",
     "0-inbox/Things-To-Add-To-Notes.md",
@@ -196,7 +200,6 @@
     "0-inbox/PGSSRelativityPlan.excalidraw.md",
     "0-inbox/Numba.md",
     "0-inbox/HGC TDR.md",
-    "0-inbox/Drawing 2024-07-11 14.42.16.excalidraw.md",
     "Journal/22 August 2024 Thursday.md",
     "Input/Meetings/StatsChat-22-August-2024.md",
     "0-inbox/Untitled.md",
@@ -204,7 +207,6 @@
     "Input/Meetings/CMUbbWW 22 August 2024.md",
     "Output/CAM/Modules Summary August 2024.md",
     "Output/CAM/Modules Summary July 2024.md",
-    "1-projects/Mixed2.0/mixed2.0.md",
     "Input/Meetings/HGC Mac Meeting 22 August 2024.md",
     "2-areas/coffea4bs/Reproducible Random Numbers.md",
     "Input/Meetings/CMUbbWW 15 August 2024.md",

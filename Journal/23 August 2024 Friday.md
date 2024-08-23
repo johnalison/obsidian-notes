@@ -43,7 +43,22 @@ Up at 7.
 # [[mixed2.0]]
 - Checked dR results.  Working !  Looks like random numbers are not
 - Trying again with old random number set up
+- dR looks good now!  
+- Need to fix random numbers (probably add more than just pt)
+- 
 
 
 To school
+
+Start [[AnalysesOverview.excalidraw]]
+
+# Chat with Abdulla Alhosani
+- Seems very good
+- Gave him big picture
+- Idea: Can connect quantum fluctution with Hawking radiation (he had heard of that)
+
+
+Installed slack
+
+Can do plagarism check at https://library.cmu.edu/services/ithenticate
 

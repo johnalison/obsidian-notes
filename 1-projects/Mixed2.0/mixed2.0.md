@@ -6,12 +6,15 @@ Getting the new mixing going
    
 
 # Plan
-- [ ] Delta R
 - [ ] PDFs by year ?
 
 
 # To Do
-- [ ] Check ΔRs (HARD!)
+- [x] Check ΔRs (HARD!)
+- [ ] Fix random numbers
+- [ ] Fix jet_flavor == "b" Hacks
+- [ ] PDFs by year ?
+- [ ] Check re-clustering
 - [ ] Read [[Do graph neural networks learn traditional jet substructure?]]
 - [ ] Write out picos with the synthetic datasets jet (write CI)
 - [ ] [[ResamplingBug]]
@@ -25,9 +28,10 @@ Getting the new mixing going
 	- [x] Script to plot all the 1D marginals for all the splittings
 	- [x] Option for mA_vl and mB_vl
 - [ ] TTbar Subtractions/ Additions
-	- [ ] Subtract ttbar from Templates
-	- [ ] Subtract ttbar from Input data being clustered
+	- [x] Subtract ttbar from Templates
+	- [x] Subtract ttbar from Input data being clustered
 	- [ ] Then add back non declustered TTbar
+	- [x] Or compare to ttbar subtracted data ? 
 - [x] Add top candidate making to declustered data
 - [x] How are there any b-jets with m > 50 GeV ? (given the template cut off)
 	==> A: Form the (bb) + b + b + X  events
@@ -40,7 +44,7 @@ Getting the new mixing going
 	 A: Yes ! it was.  now fixed
 - [x] Is there a problem with jet phis ?  Why discontinuous ?
 	- THink its Ok, added histograms with larger range
-- [ ] Add sanity check for number of sel jets
+- [x] Add sanity check for number of sel jets
 
 
 
