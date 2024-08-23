@@ -53,7 +53,7 @@ M & T to school
 - Start with case where there is no problem
 - think I finally got the global dR working !!!!!
 - Fixed a bug in the eta check of one of the bs
-- Deculstering on **cmslpc305**...failed.. now on **cmslpc340**
+- Deculstering on **cmslpc305**...failed.. now on **cmslpc340**... **117m16.100s**
 
 
 
@@ -65,6 +65,7 @@ M & T to school
 - Kirean leaving
 - Physics being Audited 
 - Send Rachel good news
+- https://docs.google.com/document/d/1APly04ARGwMxgEJPVwbFSiuZv_0bxIsYxnzmL6VW7MU/edit#heading=h.gapf957x53wz
 
 [[StatsChat-22-August-2024]]
 

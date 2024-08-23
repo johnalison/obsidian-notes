@@ -13,10 +13,12 @@ L2
 L3 Met
 Level-3 USCMS Analysis Facility Manager
 
-# Note
+Well recieived. Teaching I have heard from several students that his graduate particle course was very useful and 
 
-Computing leader
-chosen as new JDM convener 
+# Notes
+
+- Computing leader
+- chosen as new JDM convener 
 
 Grad Particle course well received 
 
