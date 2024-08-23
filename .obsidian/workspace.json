@@ -11,59 +11,9 @@
             "id": "97a2e0edbdca5f16",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "0-inbox/Things-To-Add-To-Notes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0ec96f4327046142",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-projects/Mixed2.0/mixed2.0.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ced86343fc612b3e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0-inbox/Modules Summary August 2024.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "22afb6f18625b147",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0-inbox/HGC Mac Meeting 22 August 2024.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "91100ef807df69d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2-areas/coffea4bs/Reproducible Random Numbers.md",
-                "mode": "source",
-                "source": false
+                "file": "0-inbox/PGSSRelativityPlan.excalidraw.md"
               }
             }
           },
@@ -73,26 +23,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Input/Meetings/CMUbbWW 15 August 2024.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "69e9a2413271b517",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0-inbox/Translations of Kubernetes Ad.md",
+                "file": "0-inbox/Matteo Cremonesi reappointment Letter.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -111,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "file:summary",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -159,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/Translations of Kubernetes Ad.md",
+                "file": "0-inbox/Matteo Cremonesi reappointment Letter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/Translations of Kubernetes Ad.md",
+                "file": "0-inbox/Matteo Cremonesi reappointment Letter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/Translations of Kubernetes Ad.md"
+                "file": "0-inbox/Matteo Cremonesi reappointment Letter.md"
               }
             }
           }
@@ -222,34 +160,34 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "69e9a2413271b517",
+  "active": "e2b0d70258fa4954",
   "lastOpenFiles": [
-    "Journal/22 August 2024 Thursday.md",
     "0-inbox/Translations of Kubernetes Ad.md",
-    "0-inbox/StatsChat-22-August-2024.md",
+    "Journal/22 August 2024 Thursday.md",
+    "0-inbox/PGSSRelativityPlan.excalidraw.md",
+    "0-inbox/Numba.md",
+    "0-inbox/Speech for Scotts going away party.md",
+    "0-inbox/Things-To-Add-To-Notes.md",
+    "Input/Meetings/StatsChat-22-August-2024.md",
     "0-inbox/Untitled.md",
+    "00-Zettelkasten/PossibleReframesOfSetbacks.md",
+    "Input/Meetings/CMUbbWW 22 August 2024.md",
+    "Output/CAM/Modules Summary August 2024.md",
+    "Output/CAM/Modules Summary July 2024.md",
+    "1-projects/Mixed2.0/mixed2.0.md",
+    "Input/Meetings/HGC Mac Meeting 22 August 2024.md",
     "2-areas/coffea4bs/Reproducible Random Numbers.md",
-    "0-inbox/CMUbbWW 22 August 2024.md",
     "Input/Meetings/CMUbbWW 15 August 2024.md",
-    "0-inbox/HGC Mac Meeting 22 August 2024.md",
+    "Output/Translations of Kubernetes Ad.md",
     "Input/Meetings/HGC Mac Meeting 15 August 2024.md",
     "Journal/21 August 2024 Wednesday.md",
     "Journal/20 August 2024 Tuesday.md",
     "Journal/19 August 2024 Monday.md",
-    "0-inbox/Modules Summary August 2024.md",
     "00-Zettelkasten/Wisdom-index.md",
     "Input/RespondDontReact.md",
     "00-Zettelkasten/Stoic Test Strategy.md",
     "00-Zettelkasten/How to Succeed at Stoic Test Challenge.md",
-    "0-inbox/Things-To-Add-To-Notes.md",
-    "0-inbox/PossibleReframesOfSetbacks.md",
     "00-Zettelkasten/Value of Unconscious Emotions.md",
-    "00-Zettelkasten/Let anger go.md",
-    "00-Zettelkasten/ZettelKasten Index.md",
-    "3-resources/Obsidian/Ideas-for-emacs-Obsidian.md",
-    "3-resources/computing/Tmux Tips.md",
-    "1-projects/Mixed2.0/mixed2.0.md",
-    "2-areas/Personal/ToAddToCV.md",
     "attachments/HGC TDR LD and HD Sensors.png",
     "attachments/HGC TDR Si Sensor Table.png",
     "Untitled 1.canvas",

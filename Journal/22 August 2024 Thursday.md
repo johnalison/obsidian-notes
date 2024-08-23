@@ -19,17 +19,18 @@
 | 4   | **Gym**                      |     |
 |     | Jet Declustering             |     |
 
-**W:**
-**DW:**
-**OT:**
-**ex** or **~~ex~~**
+**W:** 7 
+**DW:** 2  
+**OT:** 2
+**ex** 
 
 # The ONE thing: 
 - [ ] Jet DeClustering
 
 
 # To Do
-- [ ] [[Modules Summary August 2024]]
+- [x] [[Modules Summary August 2024]]
+	- [ ] Send
 - [ ] [[Matteo Cremonesi reappointment Letter]]
 - [ ] CAM Training
 - [ ] Read HGC TDR
@@ -76,3 +77,8 @@ Think I have now the reproducible random numbers working.
 Got kids
 
 [[Translations of Kubernetes Ad]]
+
+Sent draft of summary to Nural.
+
+
+

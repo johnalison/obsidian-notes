@@ -3,9 +3,9 @@
 
 
 # Aniket
-- Chi2 off will remake 
+- Chi2 scale off will remake (likely bug)
 - Will start making comprehensive slides
-
+- Discussion of various chi2 terms
 # Alejandro 
 
 
