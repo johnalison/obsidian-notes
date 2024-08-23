@@ -45,7 +45,8 @@ Up at 7.
 - Trying again with old random number set up
 - dR looks good now!  
 - Need to fix random numbers (probably add more than just pt)
-- 
+- Send slides around
+- Trying with max retries set to 8
 
 
 To school
@@ -62,4 +63,9 @@ Installed slack
 
 Can do plagarism check at https://library.cmu.edu/services/ithenticate
 
+Tech spark logon
 https://cmu.fbs.io/Apps/FBS/Default.aspx?f=619
+
+# Faculty Lunch
+- [ ] Get reimbursed
+
