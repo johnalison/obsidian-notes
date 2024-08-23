@@ -53,7 +53,7 @@ M & T to school
 - Start with case where there is no problem
 - think I finally got the global dR working !!!!!
 - Fixed a bug in the eta check of one of the bs
-- Deculstering on **cmslpc305**...
+- Deculstering on **cmslpc305**...failed.. now on **cmslpc340**
 
 
 
@@ -88,5 +88,5 @@ Sent draft of summary to Nural.
 
 Think I may finally have the Delta R protection working !!!!
 
-Run
+
 
