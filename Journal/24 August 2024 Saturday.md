@@ -18,3 +18,9 @@ Wrote up [[American Covenant]]
 # Art Fair
 - Bought some olives / Free bobble heads
 
+# [[mixed2.0]]
+- Fix for random numbers.
+- Trying on **cmslpc337**
+
+
+[[MPL]]
