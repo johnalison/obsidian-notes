@@ -13,7 +13,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "0-inbox/PGSSRelativityPlan.excalidraw.md"
+                "file": "1-projects/Teaching/PGSSRelativityPlan.excalidraw.md"
               }
             }
           },
@@ -35,13 +35,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/23 August 2024 Friday.md",
+                "file": "Output/CAM/Modules Summary August 2024.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "66b27ef6a12ea680",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-projects/Teaching/PGSS Planning.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7716a9f1e90e08ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00-Zettelkasten/ZettelKasten Index.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -60,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "file:val",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -108,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/PGSSRelativityPlan.excalidraw.md",
+                "file": "Output/CAM/Modules Summary August 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/PGSSRelativityPlan.excalidraw.md",
+                "file": "Output/CAM/Modules Summary August 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/PGSSRelativityPlan.excalidraw.md"
+                "file": "Output/CAM/Modules Summary August 2024.md"
               }
             }
           }
@@ -171,34 +196,34 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "97a2e0edbdca5f16",
+  "active": "79bcca110f8f456f",
   "lastOpenFiles": [
-    "Output/Translations of Kubernetes Ad.md",
-    "1-projects/Mixed2.0/mixed2.0.md",
-    "Output/Recommendation  Letters/Matteo Cremonesi reappointment Letter.md",
-    "Journal/23 August 2024 Friday.md",
     "Journal/22 August 2024 Thursday.md",
+    "Journal/23 August 2024 Friday.md",
     "0-inbox/AnalysesOverview.excalidraw.md",
     "0-inbox/Drawing 2024-07-11 14.42.16.excalidraw.md",
+    "1-projects/Teaching/PGSSRelativityPlan.excalidraw.md",
+    "1-projects/Teaching/PGSS Planning.md",
+    "0-inbox/Numba.md",
+    "0-inbox/PGSS Relativity Week 2.md",
+    "0-inbox/PGSS Relativity Week 1.md",
+    "0-inbox/PGSS Relativity Week 3.md",
+    "0-inbox/HGC TDR.md",
+    "Output/Recommendation  Letters/Valentina Dutta reappointment Letter.md",
+    "Output/Recommendation  Letters/Matteo Cremonesi reappointment Letter.md",
+    "00-Zettelkasten/ZettelKasten Index.md",
+    "00-Zettelkasten/Dark Matter and Missing Momentum.md",
+    "0-inbox/PGSS Week 1.md",
+    "Output/Translations of Kubernetes Ad.md",
+    "1-projects/Mixed2.0/mixed2.0.md",
     "Output/Translations of Kubernetes Ad 1.md",
     "0-inbox/Things-To-Add-To-Notes.md",
     "0-inbox/Speech for Scotts going away party.md",
-    "0-inbox/PGSSRelativityPlan.excalidraw.md",
-    "0-inbox/Numba.md",
-    "0-inbox/HGC TDR.md",
     "Input/Meetings/StatsChat-22-August-2024.md",
-    "0-inbox/Untitled.md",
     "00-Zettelkasten/PossibleReframesOfSetbacks.md",
     "Input/Meetings/CMUbbWW 22 August 2024.md",
     "Output/CAM/Modules Summary August 2024.md",
     "Output/CAM/Modules Summary July 2024.md",
-    "Input/Meetings/HGC Mac Meeting 22 August 2024.md",
-    "2-areas/coffea4bs/Reproducible Random Numbers.md",
-    "Input/Meetings/CMUbbWW 15 August 2024.md",
-    "Input/Meetings/HGC Mac Meeting 15 August 2024.md",
-    "Journal/21 August 2024 Wednesday.md",
-    "Journal/20 August 2024 Tuesday.md",
-    "Journal/19 August 2024 Monday.md",
     "attachments/HGC TDR LD and HD Sensors.png",
     "attachments/HGC TDR Si Sensor Table.png",
     "Untitled 1.canvas",
