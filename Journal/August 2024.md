@@ -18,11 +18,11 @@
 | 16 F | (t   ) day off / Read/ Phipps / fix mixed pdfs / new VanMorrison               |       |
 | 17 S | (Mierski Fest) Good times/ drank too much **Vowed to quit drinking**           |       |
 | 18 S | Fixed gutter / Car cleaned / Tmux ! / get top reco going                       |       |
-| 19 M |                                                                                |       |
-| 20 T | (Osher Leader session)                                                         |       |
-| 21 W |                                                                                |       |
-| 22 H |                                                                                |       |
-| 23 F |                                                                                |       |
+| 19 M | Parno Letter / New Cyert year / **Gym/SR** / 1/2 day home / bug fixin          | 5/4/4 |
+| 20 T | (Osher Leader session) ttbar subtraction / **Gym/SR**/  Dutta letter           | 7/5/3 |
+| 21 W | Home w/M&T / CAM training 2 / some declustering                                | ---   |
+| 22 H | Fixing ΔR / Faculty meeting / Stats chat / **Gym/SR** / ΔR cut working         | 7/2/2 |
+| 23 F | **M B-day** / Abdulla / **Jr faculty lunch** / Social / Cremonesi letter       | 8/2/1 |
 | 24 S |                                                                                |       |
 | 25 S |                                                                                |       |
 | 26 M | (Classes Start)                                                                |       |

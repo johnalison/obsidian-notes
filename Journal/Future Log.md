@@ -10,6 +10,7 @@
 - [ ] 24th Classes over for Prof Alison
 # October
 - [ ] Steph away 7- 10 
+- [ ] 16 October CAPs visit
 - [ ] Fall Break Oct 14-18
 - [ ] Site visits by Santa Barbara Oct 21 
 

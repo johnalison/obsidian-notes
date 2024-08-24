@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/23 August 2024 Friday.md",
+                "file": "Journal/24 August 2024 Saturday.md",
                 "mode": "source",
                 "source": false
               }
@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-Zettelkasten/ZettelKasten Index.md",
+                "file": "Journal/August 2024.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:val",
+                "query": "file:book",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -100,8 +100,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -121,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/23 August 2024 Friday.md",
+                "file": "Journal/24 August 2024 Saturday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/23 August 2024 Friday.md",
+                "file": "Journal/24 August 2024 Saturday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/23 August 2024 Friday.md"
+                "file": "Journal/24 August 2024 Saturday.md"
               }
             }
           }
@@ -186,32 +185,32 @@
   },
   "active": "66b27ef6a12ea680",
   "lastOpenFiles": [
-    "00-Zettelkasten/ZettelKasten Index.md",
+    "Input/Books/Books.md",
+    "Journal/August 2024.md",
+    "Input/Books/American Covenant.md",
+    "Input/Books/ASingularlyUnfeminineProfession.md",
+    "Journal/16 August 2024 Friday.md",
+    "Journal/17 August 2024 Saturday.md",
     "Journal/23 August 2024 Friday.md",
-    "1-projects/Teaching/PGSS Planning.md",
     "1-projects/Mixed2.0/mixed2.0.md",
-    "Output/CAM/Modules Summary August 2024.md",
     "Journal/22 August 2024 Thursday.md",
-    "0-inbox/AnalysesOverview.excalidraw.md",
-    "0-inbox/Drawing 2024-07-11 14.42.16.excalidraw.md",
-    "1-projects/Teaching/PGSSRelativityPlan.excalidraw.md",
-    "0-inbox/Numba.md",
-    "0-inbox/PGSS Relativity Week 2.md",
-    "0-inbox/PGSS Relativity Week 1.md",
-    "0-inbox/PGSS Relativity Week 3.md",
-    "0-inbox/HGC TDR.md",
-    "Output/Recommendation  Letters/Valentina Dutta reappointment Letter.md",
-    "Output/Recommendation  Letters/Matteo Cremonesi reappointment Letter.md",
-    "00-Zettelkasten/Dark Matter and Missing Momentum.md",
-    "0-inbox/PGSS Week 1.md",
-    "Output/Translations of Kubernetes Ad.md",
-    "Output/Translations of Kubernetes Ad 1.md",
-    "0-inbox/Things-To-Add-To-Notes.md",
+    "1-projects/4b Resonant/4b Resonant Search.md",
+    "Journal/21 August 2024 Wednesday.md",
+    "Journal/20 August 2024 Tuesday.md",
+    "Journal/19 August 2024 Monday.md",
+    "00-Zettelkasten/ZettelKasten Index.md",
     "0-inbox/Speech for Scotts going away party.md",
-    "Input/Meetings/StatsChat-22-August-2024.md",
-    "00-Zettelkasten/PossibleReframesOfSetbacks.md",
-    "Input/Meetings/CMUbbWW 22 August 2024.md",
-    "Output/CAM/Modules Summary July 2024.md",
+    "0-inbox/Numba.md",
+    "0-inbox/HGC TDR.md",
+    "Input/Meetings/CMU Round Table 24 August 2024.md",
+    "0-inbox/AnalysesOverview.excalidraw.md",
+    "Input/Meetings/CMU 4b Chat 24 August 2024.md",
+    "Input/Meetings/July/CMU Round Table 19 July.md",
+    "Journal/24 August 2024 Saturday.md",
+    "Journal/Future Log.md",
+    "1-projects/Teaching/PGSS Planning.md",
+    "Output/CAM/Modules Summary August 2024.md",
+    "0-inbox/Drawing 2024-07-11 14.42.16.excalidraw.md",
     "attachments/HGC TDR LD and HD Sensors.png",
     "attachments/HGC TDR Si Sensor Table.png",
     "Untitled 1.canvas",

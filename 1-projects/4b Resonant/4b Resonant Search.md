@@ -4,12 +4,14 @@
 
 
 # X → HH → 4b
-- Separate HH SR from ZZ and ZH
-- Check modeling in SB (ZZ)
-- Check modeling in mixed data SR after SvB Cut
-- Check bias of SvB cut
-- Refit SvB with decorrelation in mHH
-- Systematics
+- [x] Separate HH SR from ZZ and ZH
+- [ ] Check modeling in SB (ZZ)
+- [ ] Check modeling in mixed data SR after SvB Cut
+- [ ] Check bias of SvB cut
+- [ ] Refit SvB with decorrelation in mHH
+- [ ] Systematics
+- [ ] Whence the double peaks in mHH ? 
+
 
 # X → YH → 4b
 - 2D Brute force scan

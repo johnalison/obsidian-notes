@@ -31,6 +31,7 @@
 # To Do
 - [x] [[Matteo Cremonesi reappointment Letter]]
 - [ ] Fix random number seeds / counter 
+- [x] Send [[Modules Summary August 2024]]
 
 
 
@@ -39,6 +40,7 @@
 Up at 7. 
 
 # Marlos Birthday !  4! 
+
 # [[mixed2.0]]
 - Checked dR results.  Working !  Looks like random numbers are not
 - Trying again with old random number set up
@@ -62,7 +64,7 @@ Installed slack
 
 Can do plagarism check at https://library.cmu.edu/services/ithenticate
 
-Tech spark logon
+Techspark logon
 https://cmu.fbs.io/Apps/FBS/Default.aspx?f=619
 
 # Faculty Lunch
@@ -70,27 +72,17 @@ https://cmu.fbs.io/Apps/FBS/Default.aspx?f=619
 
 Some Matteo letter
 
-# 4b Chat:
-- AE getting low pt going
-- CL working on kl fits ?
-
-# Round Table
-- AE: low pt 4b / bbWW running new processor 
-- SM: X->HH->4b / HGC reentry meeting / Good summer school
-- Joy: bbtt work / background reweighting 
-- Daniel: FNAL productive / DM search mono-W'
-- Aniket: chi2 signal vs Tt  problem with floats ? 
-- Tony: Autoencode moved to new package
-- Matteo: news form jet, no more MeT :) 
-- Andrew: Weird IV curves / Analysis stuff
-- Chuyuan: Tool for plotting k_l signals / 
+# [[CMU 4b Chat 24 August 2024]]
+\
+# [[CMU Round Table 24 August 2024]]
 
 Working [[Matteo Cremonesi reappointment Letter]]
 
 # Chat CL re: fixing random numbers
 - use "constants" as seed
-- jet spcefic things in the counter
+- Put jet specific things in the counter
 - **len(np.asarray(pts).view(np.uint64))**
+
 # Grad Social 
 - No beers / Good convo
 - Chat with Racheal 

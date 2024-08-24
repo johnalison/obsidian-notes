@@ -30,8 +30,8 @@
 
 # To Do
 - [x] [[Modules Summary August 2024]]
-	- [ ] Send
-- [ ] [[Matteo Cremonesi reappointment Letter]]
+	- [ >] Send
+- [ >] [[Matteo Cremonesi reappointment Letter]]
 - [ ] CAM Training
 - [ ] Read HGC TDR
 
@@ -56,7 +56,6 @@ M & T to school
 - Deculstering on **cmslpc305**...failed.. now on **cmslpc340**... **117m16.100s**
 
 
-
 [[HGC Mac Meeting 22 August 2024]]
 
 [[CMUbbWW 22 August 2024]]
@@ -67,11 +66,12 @@ M & T to school
 - Send Rachel good news
 - https://docs.google.com/document/d/1APly04ARGwMxgEJPVwbFSiuZv_0bxIsYxnzmL6VW7MU/edit#heading=h.gapf957x53wz
 
+Chat Rupert and Reinhard
+- Rupert getting harassed for riding in the dismount zone
+
 [[StatsChat-22-August-2024]]
 
-Chat Sindhu
-- Whence the double peaks in mHH ? 
-- Will try to run on mixed data and SM
+Chat Sindhu re: [[4b Resonant Search]]
 
 # Gym
 - pullup/ front squat / press / core
@@ -88,6 +88,4 @@ Got kids
 Sent draft of summary to Nural.
 
 Think I may finally have the Delta R protection working !!!!
-
-
 

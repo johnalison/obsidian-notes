@@ -24,7 +24,7 @@ Hbb Meeting
 
 Setup Excalidraw template and hotkey CMD-X
 
-Starting [[Modules Summary August 2024]]]
+Starting [[Modules Summary August 2024]]
 
 Finished EVMS #2
 
