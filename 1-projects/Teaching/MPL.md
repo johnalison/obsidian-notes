@@ -13,7 +13,7 @@
 [[Magnetic Susceptibiliy Introduction]]
 NMR
 Optical pumping
-X-ray difraction
+X-ray diffraction
 
 
 202407191654

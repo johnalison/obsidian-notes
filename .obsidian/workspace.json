@@ -42,18 +42,6 @@
             }
           },
           {
-            "id": "b97682c8558f8a1b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-projects/Teaching/MPL.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "7716a9f1e90e08ff",
             "type": "leaf",
             "state": {
@@ -66,7 +54,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -195,7 +183,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b97682c8558f8a1b",
+  "active": "66b27ef6a12ea680",
   "lastOpenFiles": [
     "1-projects/Teaching/Magnetic Susceptibiliy Introduction.md",
     "1-projects/Teaching/MPL.md",
