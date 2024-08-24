@@ -11,7 +11,7 @@ Getting the new mixing going
 
 # To Do
 - [x] Check ΔRs (HARD!)
-- [ ] Fix random numbers
+- [x] Fix random numbers
 - [ ] Fix jet_flavor == "b" Hacks
 - [ ] PDFs by year ?
 - [ ] Check re-clustering
@@ -46,6 +46,7 @@ Getting the new mixing going
 	- THink its Ok, added histograms with larger range
 - [x] Add sanity check for number of sel jets
 - [ ] Propagate Btagging scores ?
+- [ ] Check to make sure that the lepton veto wont kill synthetic jets
 
 
 
