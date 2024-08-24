@@ -1,7 +1,7 @@
 
 # To Do
 - [ ] notes for MPL intros on Tuesday
-- [ ] 
+- [x] Fix random numbers
 - [ ] 
 - [ ] 
 
@@ -23,4 +23,10 @@ Wrote up [[American Covenant]]
 - Trying on **cmslpc337**
 
 
-[[MPL]]
+Some [[MPL]] videos 
+
+Bike to library to return [[American Covenant]] ... Need to buy at some point.
+
+Finished [[BlackSwan]]
+
+

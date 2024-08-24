@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-projects/Teaching/MPL.md",
+                "file": "Journal/24 August 2024 Saturday.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-projects/Teaching/MPL.md",
+                "file": "Journal/24 August 2024 Saturday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-projects/Teaching/MPL.md",
+                "file": "Journal/24 August 2024 Saturday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-projects/Teaching/MPL.md"
+                "file": "Journal/24 August 2024 Saturday.md"
               }
             }
           }
@@ -185,8 +185,8 @@
   },
   "active": "66b27ef6a12ea680",
   "lastOpenFiles": [
-    "1-projects/Teaching/Magnetic Susceptibiliy Introduction.md",
     "1-projects/Teaching/MPL.md",
+    "1-projects/Teaching/Magnetic Susceptibiliy Introduction.md",
     "1-projects/Teaching/Raman Introduction.md",
     "Journal/24 August 2024 Saturday.md",
     "Input/Books/Books.md",
