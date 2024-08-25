@@ -54,7 +54,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-projects/Teaching/MPL.md",
+                "file": "Journal/25 August 2024 Sunday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-projects/Teaching/MPL.md",
+                "file": "Journal/25 August 2024 Sunday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-projects/Teaching/MPL.md"
+                "file": "Journal/25 August 2024 Sunday.md"
               }
             }
           }
@@ -184,10 +184,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "66b27ef6a12ea680",
+  "active": "7716a9f1e90e08ff",
   "lastOpenFiles": [
-    "1-projects/Teaching/Optical pumping.md",
     "1-projects/Teaching/MPL.md",
+    "1-projects/Mixed2.0/mixed2.0.md",
+    "1-projects/Teaching/Optical pumping.md",
     "1-projects/Teaching/Nuclear Magnetic Resonance.md",
     "1-projects/Teaching/X-ray diffraction.md",
     "Journal/25 August 2024 Sunday.md",
@@ -196,7 +197,6 @@
     "Journal/2022/October 2022.md",
     "Journal/August 2024.md",
     "Journal/24 August 2024 Saturday.md",
-    "1-projects/Mixed2.0/mixed2.0.md",
     "1-projects/Teaching/Magnetic Susceptibiliy Introduction.md",
     "1-projects/Teaching/Raman Introduction.md",
     "Input/Books/Books.md",

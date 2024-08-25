@@ -20,9 +20,12 @@ Start [[Gulag Archipelago]]
 
 [[Nuclear Magnetic Resonance]]
 
-
 # To Pool 
 
 Some [[Seneca-Letters-from-a-Stoic]]
 
 Home
+
+[[Optical pumping]]
+
+Cleaning up jet declustering hacks and python style

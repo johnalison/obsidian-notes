@@ -12,7 +12,7 @@ Getting the new mixing going
 # To Do
 - [x] Check ΔRs (HARD!)
 - [x] Fix random numbers
-- [ ] Fix jet_flavor == "b" Hacks
+- [x] Fix jet_flavor == "b" Hacks
 - [ ] PDFs by year ?
 - [ ] Check re-clustering
 - [ ] Read [[Do graph neural networks learn traditional jet substructure?]]
@@ -22,7 +22,7 @@ Getting the new mixing going
 - [ ] [[bj splitting mismodelings]]
 - [ ] ~~[[clean splittings during clustering]], so only plot those actually used 
 - [ ] Compare splittings by year
-- [ ] What happens to  pt overflows in the clustering ?
+- [ ] What happens to pt overflows in the clustering ?
 - [x] Compute fractions of dressed b splittings: 2g->bb vs g->bb + b + b
 - [x] Template Fixes
 	- [x] Script to plot all the 1D marginals for all the splittings
