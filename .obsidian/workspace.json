@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-projects/Teaching/MPL.md",
+                "file": "1-projects/Teaching/X-ray diffraction.md",
                 "mode": "source",
                 "source": false
               }
@@ -47,14 +47,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/August 2024.md",
+                "file": "Journal/25 August 2024 Sunday.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-projects/Teaching/MPL.md",
+                "file": "Journal/25 August 2024 Sunday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-projects/Teaching/MPL.md",
+                "file": "Journal/25 August 2024 Sunday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-projects/Teaching/MPL.md"
+                "file": "Journal/25 August 2024 Sunday.md"
               }
             }
           }
@@ -184,17 +184,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "66b27ef6a12ea680",
+  "active": "7716a9f1e90e08ff",
   "lastOpenFiles": [
-    "0-inbox/X-ray diffraction.md",
-    "1-projects/Teaching/Nuclear Magnetic Resonance.md",
+    "Journal/2022/November 2022.md",
+    "Journal/25 August 2024 Sunday.md",
+    "Journal/2022/#November 2022.md#",
+    "Journal/2022/October 2022.md",
+    "Journal/August 2024.md",
+    "1-projects/Teaching/X-ray diffraction.md",
     "1-projects/Teaching/MPL.md",
+    "1-projects/Teaching/Nuclear Magnetic Resonance.md",
     "Journal/24 August 2024 Saturday.md",
     "1-projects/Mixed2.0/mixed2.0.md",
     "1-projects/Teaching/Magnetic Susceptibiliy Introduction.md",
     "1-projects/Teaching/Raman Introduction.md",
     "Input/Books/Books.md",
-    "Journal/August 2024.md",
     "Input/Books/American Covenant.md",
     "Input/Books/ASingularlyUnfeminineProfession.md",
     "Journal/16 August 2024 Friday.md",
@@ -209,9 +213,6 @@
     "0-inbox/Speech for Scotts going away party.md",
     "0-inbox/Numba.md",
     "0-inbox/HGC TDR.md",
-    "Input/Meetings/CMU Round Table 24 August 2024.md",
-    "0-inbox/AnalysesOverview.excalidraw.md",
-    "Input/Meetings/CMU 4b Chat 24 August 2024.md",
     "attachments/HGC TDR LD and HD Sensors.png",
     "attachments/HGC TDR Si Sensor Table.png",
     "Untitled 1.canvas",
@@ -230,7 +231,6 @@
     "attachments/CMS Test.png",
     "Journal/2022/#March 2022.md#",
     "1-projects/HH4b",
-    "Journal/2022/#February 2022.md#",
     "attachments/Pasted image 20240730120049.png",
     "attachments/Pasted image 20240730120040.png",
     "attachments/Pasted image 20240726092502.png",
