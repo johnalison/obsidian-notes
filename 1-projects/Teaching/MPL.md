@@ -13,7 +13,9 @@
 [[Magnetic Susceptibiliy Introduction]]
 NMR
 Optical pumping
-X-ray diffraction
+[[X-ray diffraction]]
+Zeeman Effect
+
 
 
 202407191654

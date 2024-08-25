@@ -29,4 +29,9 @@ Bike to library to return [[American Covenant]] ... Need to buy at some point.
 
 Finished [[BlackSwan]]
 
+Meditated 
+
+# Kettle bells
+- Program 
+
 

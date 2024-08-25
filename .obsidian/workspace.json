@@ -54,7 +54,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-projects/Mixed2.0/mixed2.0.md",
+                "file": "Journal/24 August 2024 Saturday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-projects/Mixed2.0/mixed2.0.md",
+                "file": "Journal/24 August 2024 Saturday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-projects/Mixed2.0/mixed2.0.md"
+                "file": "Journal/24 August 2024 Saturday.md"
               }
             }
           }
@@ -183,10 +183,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1491dfb337441910",
+  "active": "66b27ef6a12ea680",
   "lastOpenFiles": [
-    "Journal/24 August 2024 Saturday.md",
     "1-projects/Teaching/MPL.md",
+    "0-inbox/X-ray diffraction.md",
+    "Journal/24 August 2024 Saturday.md",
+    "1-projects/Mixed2.0/mixed2.0.md",
     "1-projects/Teaching/Magnetic Susceptibiliy Introduction.md",
     "1-projects/Teaching/Raman Introduction.md",
     "Input/Books/Books.md",
@@ -196,7 +198,6 @@
     "Journal/16 August 2024 Friday.md",
     "Journal/17 August 2024 Saturday.md",
     "Journal/23 August 2024 Friday.md",
-    "1-projects/Mixed2.0/mixed2.0.md",
     "Journal/22 August 2024 Thursday.md",
     "1-projects/4b Resonant/4b Resonant Search.md",
     "Journal/21 August 2024 Wednesday.md",
@@ -210,7 +211,6 @@
     "0-inbox/AnalysesOverview.excalidraw.md",
     "Input/Meetings/CMU 4b Chat 24 August 2024.md",
     "Input/Meetings/July/CMU Round Table 19 July.md",
-    "Journal/Future Log.md",
     "attachments/HGC TDR LD and HD Sensors.png",
     "attachments/HGC TDR Si Sensor Table.png",
     "Untitled 1.canvas",
