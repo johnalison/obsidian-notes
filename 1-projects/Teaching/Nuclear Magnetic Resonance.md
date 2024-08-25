@@ -29,6 +29,7 @@ Goal: Learn the underlying physics of nuclear magnetic resonance foundation of M
 
 
 ## Links: 
+[[MPL]]
 
 
 

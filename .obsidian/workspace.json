@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-projects/Teaching/X-ray diffraction.md",
+                "file": "1-projects/Teaching/MPL.md",
                 "mode": "source",
                 "source": false
               }
@@ -54,7 +54,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/25 August 2024 Sunday.md",
+                "file": "1-projects/Teaching/MPL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/25 August 2024 Sunday.md",
+                "file": "1-projects/Teaching/MPL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/25 August 2024 Sunday.md"
+                "file": "1-projects/Teaching/MPL.md"
               }
             }
           }
@@ -184,16 +184,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7716a9f1e90e08ff",
+  "active": "66b27ef6a12ea680",
   "lastOpenFiles": [
-    "Journal/2022/November 2022.md",
+    "1-projects/Teaching/Optical pumping.md",
+    "1-projects/Teaching/MPL.md",
+    "1-projects/Teaching/Nuclear Magnetic Resonance.md",
+    "1-projects/Teaching/X-ray diffraction.md",
     "Journal/25 August 2024 Sunday.md",
+    "Journal/2022/November 2022.md",
     "Journal/2022/#November 2022.md#",
     "Journal/2022/October 2022.md",
     "Journal/August 2024.md",
-    "1-projects/Teaching/X-ray diffraction.md",
-    "1-projects/Teaching/MPL.md",
-    "1-projects/Teaching/Nuclear Magnetic Resonance.md",
     "Journal/24 August 2024 Saturday.md",
     "1-projects/Mixed2.0/mixed2.0.md",
     "1-projects/Teaching/Magnetic Susceptibiliy Introduction.md",
@@ -212,7 +213,6 @@
     "00-Zettelkasten/ZettelKasten Index.md",
     "0-inbox/Speech for Scotts going away party.md",
     "0-inbox/Numba.md",
-    "0-inbox/HGC TDR.md",
     "attachments/HGC TDR LD and HD Sensors.png",
     "attachments/HGC TDR Si Sensor Table.png",
     "Untitled 1.canvas",

@@ -12,7 +12,7 @@
 [[Raman Introduction]]
 [[Magnetic Susceptibiliy Introduction]]
 [[Nuclear Magnetic Resonance]]
-Optical pumping
+[[Optical pumping]]
 [[X-ray diffraction]]
 Zeeman Effect
 
