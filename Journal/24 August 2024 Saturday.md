@@ -32,6 +32,9 @@ Finished [[BlackSwan]]
 Meditated 
 
 # Kettle bells
-- Program 
+- Standard Program 
+
+
+Work some more MPL notes
 
 

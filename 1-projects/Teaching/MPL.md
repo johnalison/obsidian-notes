@@ -11,7 +11,7 @@
 ## Links: 
 [[Raman Introduction]]
 [[Magnetic Susceptibiliy Introduction]]
-NMR
+[[Nuclear Magnetic Resonance]]
 Optical pumping
 [[X-ray diffraction]]
 Zeeman Effect

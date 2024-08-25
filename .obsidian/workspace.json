@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/24 August 2024 Saturday.md",
+                "file": "1-projects/Teaching/MPL.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,7 +100,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -120,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/24 August 2024 Saturday.md",
+                "file": "1-projects/Teaching/MPL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/24 August 2024 Saturday.md",
+                "file": "1-projects/Teaching/MPL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/24 August 2024 Saturday.md"
+                "file": "1-projects/Teaching/MPL.md"
               }
             }
           }
@@ -185,8 +186,9 @@
   },
   "active": "66b27ef6a12ea680",
   "lastOpenFiles": [
-    "1-projects/Teaching/MPL.md",
     "0-inbox/X-ray diffraction.md",
+    "1-projects/Teaching/Nuclear Magnetic Resonance.md",
+    "1-projects/Teaching/MPL.md",
     "Journal/24 August 2024 Saturday.md",
     "1-projects/Mixed2.0/mixed2.0.md",
     "1-projects/Teaching/Magnetic Susceptibiliy Introduction.md",
@@ -210,7 +212,6 @@
     "Input/Meetings/CMU Round Table 24 August 2024.md",
     "0-inbox/AnalysesOverview.excalidraw.md",
     "Input/Meetings/CMU 4b Chat 24 August 2024.md",
-    "Input/Meetings/July/CMU Round Table 19 July.md",
     "attachments/HGC TDR LD and HD Sensors.png",
     "attachments/HGC TDR Si Sensor Table.png",
     "Untitled 1.canvas",
