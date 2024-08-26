@@ -8,16 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "97a2e0edbdca5f16",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "1-projects/Teaching/PGSSRelativityPlan.excalidraw.md"
-              }
-            }
-          },
-          {
             "id": "1491dfb337441910",
             "type": "leaf",
             "state": {
@@ -54,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -188,6 +178,7 @@
   "lastOpenFiles": [
     "1-projects/Mixed2.0/mixed2.0.md",
     "Journal/26 August 2024 Monday.md",
+    "1-projects/Teaching/PGSSRelativityPlan.excalidraw.md",
     "1-projects/Teaching/Raman Introduction.md",
     "1-projects/Teaching/MPL.md",
     "Journal/25 August 2024 Sunday.md",
@@ -213,7 +204,6 @@
     "Journal/2022/October 2022.md",
     "1-projects/Teaching/Magnetic Susceptibiliy Introduction.md",
     "Input/Books/Books.md",
-    "Input/Books/American Covenant.md",
     "attachments/HGC TDR LD and HD Sensors.png",
     "attachments/HGC TDR Si Sensor Table.png",
     "Untitled 1.canvas",

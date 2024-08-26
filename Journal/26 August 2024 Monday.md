@@ -53,4 +53,11 @@ M&T to school
 - Skimmer test job **source .ci-workflows/skimmer-test-job.sh**  failing locally.
 - Trying without --dask... works without dask!
 - Questions:
-	- 
+	- How to turn off chunking ? Crank up picoSize ? ... fails if picoSize 10x
+- To Do
+	- [ ] Turn off unneeded branches (eg: ZHSR, SB...)
+
+
+
+FBC2:
+- Not much: Jaco and Lukas away
