@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:some",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -174,13 +174,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7716a9f1e90e08ff",
+  "active": "8cd6e87e88b50c39",
   "lastOpenFiles": [
+    "1-projects/Mixed2.0/mixed2.0.md",
+    "Journal/26 August 2024 Monday.md",
+    "0-inbox/Chat w Sindhu 28 August 2024.md",
+    "1-projects/4b Resonant/4b Resonant Search.md",
     "0-inbox/Electron Spin Resonance.md",
     "1-projects/Teaching/MPL.md",
-    "Journal/26 August 2024 Monday.md",
     "Journal/August 2024.md",
-    "1-projects/Mixed2.0/mixed2.0.md",
     "1-projects/Teaching/PGSSRelativityPlan.excalidraw.md",
     "1-projects/Teaching/Raman Introduction.md",
     "Journal/25 August 2024 Sunday.md",
@@ -202,8 +204,6 @@
     "1-projects/Teaching/X-ray diffraction.md",
     "Journal/2022/November 2022.md",
     "Journal/2022/#November 2022.md#",
-    "Journal/2022/October 2022.md",
-    "1-projects/Teaching/Magnetic Susceptibiliy Introduction.md",
     "attachments/HGC TDR LD and HD Sensors.png",
     "attachments/HGC TDR Si Sensor Table.png",
     "Untitled 1.canvas",

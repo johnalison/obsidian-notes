@@ -9,7 +9,8 @@
 - [ ] Check modeling in mixed data SR after SvB Cut
 - [ ] Check bias of SvB cut
 - [ ] Refit SvB with decorrelation in mHH
-- [ ] Systematics
+	- [ ] Will want to keep ZZ/ZH/HH signals too 
+- [ ] Systematics from mixed data
 - [ ] Whence the double peaks in mHH ? 
 
 

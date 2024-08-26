@@ -22,7 +22,7 @@
 **W:**
 **DW:**
 **OT:**
-**ex** or **~~ex~~**
+**ex**
 
 # The ONE thing: 
 - [ ] JetDeclustering
@@ -32,7 +32,7 @@
 - [x]  notes for MPL intros on Tuesday: Only Zeeman Effect left
 	- [ ] Review Particle Notes
 	- [ ] Make/Print PDFs
-- [ ] Check out MPL Labs
+- [x] Check out MPL Labs
 - [ ] CAM Training
 - [ ] Read HGC TDR
 - [x] Poll new HGC Meeting time
@@ -71,3 +71,5 @@ Chat with Kristine:  Will use my booze for Scotts party
 Checked out MPL rooms
 
 [[Electron Spin Resonance]]
+
+[[Chat w Sindhu 28 August 2024]]
