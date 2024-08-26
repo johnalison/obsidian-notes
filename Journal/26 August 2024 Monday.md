@@ -61,3 +61,6 @@ M&T to school
 
 FBC2:
 - Not much: Jaco and Lukas away
+
+Chat with Kristine:  Will use my booze for Scotts party
+
