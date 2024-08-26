@@ -54,7 +54,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-projects/Mixed2.0/mixed2.0.md",
+                "file": "Journal/26 August 2024 Monday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-projects/Mixed2.0/mixed2.0.md",
+                "file": "Journal/26 August 2024 Monday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-projects/Mixed2.0/mixed2.0.md"
+                "file": "Journal/26 August 2024 Monday.md"
               }
             }
           }
@@ -184,8 +184,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1491dfb337441910",
+  "active": "7716a9f1e90e08ff",
   "lastOpenFiles": [
+    "1-projects/Mixed2.0/mixed2.0.md",
     "Journal/26 August 2024 Monday.md",
     "1-projects/Teaching/Raman Introduction.md",
     "1-projects/Teaching/MPL.md",
@@ -204,7 +205,6 @@
     "Input/SomedayMaybe.md",
     "Journal/2022/December 2022.md",
     "Journal/2022/#December 2022.md#",
-    "1-projects/Mixed2.0/mixed2.0.md",
     "1-projects/Teaching/Optical pumping.md",
     "1-projects/Teaching/Nuclear Magnetic Resonance.md",
     "1-projects/Teaching/X-ray diffraction.md",

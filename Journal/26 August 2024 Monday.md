@@ -37,7 +37,7 @@
 - [ ] Read HGC TDR
 - [x] Poll new HGC Meeting time
 	- [ ] Waiting on MP and VD
-- [ ] 
+- [ ] Update skimmer CI: Compare cutflow during skim vs later processing vs known values
 
 
 # Log
@@ -49,4 +49,8 @@ M&T to school
 [[MPL]]
 
 # [[mixed2.0]]
-- 
+- Starting to look into making synthetic datasets
+- Skimmer test job **source .ci-workflows/skimmer-test-job.sh**  failing locally.
+- Trying without --dask... works without dask!
+- Questions:
+	- 
