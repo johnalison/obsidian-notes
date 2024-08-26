@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:book",
+                "query": "file:some",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -100,8 +100,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -186,8 +185,11 @@
   },
   "active": "7716a9f1e90e08ff",
   "lastOpenFiles": [
-    "Journal/2022/December 2022.md",
+    "Input/Learning List.md",
+    "Output/Lists.md",
+    "Input/SomedayMaybe.md",
     "Journal/25 August 2024 Sunday.md",
+    "Journal/2022/December 2022.md",
     "Journal/2022/#December 2022.md#",
     "1-projects/Teaching/MPL.md",
     "1-projects/Mixed2.0/mixed2.0.md",
@@ -211,8 +213,6 @@
     "1-projects/4b Resonant/4b Resonant Search.md",
     "Journal/21 August 2024 Wednesday.md",
     "Journal/20 August 2024 Tuesday.md",
-    "Journal/19 August 2024 Monday.md",
-    "00-Zettelkasten/ZettelKasten Index.md",
     "attachments/HGC TDR LD and HD Sensors.png",
     "attachments/HGC TDR Si Sensor Table.png",
     "Untitled 1.canvas",
