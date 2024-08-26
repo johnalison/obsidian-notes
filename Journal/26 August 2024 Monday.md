@@ -72,4 +72,6 @@ Checked out MPL rooms
 
 [[Electron Spin Resonance]]
 
-[[Chat w Sindhu 28 August 2024]]
+[[Chat w Sindhu 26 August 2024]]
+
+[[Chat w Aniket 26 August 2024]]
