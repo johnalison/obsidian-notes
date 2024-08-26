@@ -46,7 +46,7 @@ Up at 7
 
 M&T to school
 
-[[MPL]]
+[[Zeeman Effect]]
 
 # [[mixed2.0]]
 - Starting to look into making synthetic datasets
@@ -54,8 +54,9 @@ M&T to school
 - Trying without --dask... works without dask!
 - Questions:
 	- How to turn off chunking ? Crank up picoSize ? ... fails if picoSize 10x
+	- Now 10x pico size works ! only one output file
 - To Do
-	- [ ] Turn off unneeded branches (eg: ZHSR, SB...)
+	- [x] Turn off unneeded branches (eg: ZHSR, SB...)
 
 
 
@@ -64,3 +65,9 @@ FBC2:
 
 Chat with Kristine:  Will use my booze for Scotts party
 
+# Hoops
+- good run / Got some good wins. 
+
+Checked out MPL rooms
+
+[[Electron Spin Resonance]]

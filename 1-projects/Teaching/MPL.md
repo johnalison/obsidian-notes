@@ -15,6 +15,8 @@ https://canvas.cmu.edu/courses/41499
 [[Optical pumping]]
 [[X-ray diffraction]]
 [[Zeeman Effect]] 
+[[Electron Spin Resonance]]
+
 
 
 
