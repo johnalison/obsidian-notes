@@ -23,14 +23,6 @@ Two relaxation time:
 - T2 - spin/spin relaxation time
 
 Goal: Learn the underlying physics of nuclear magnetic resonance foundation of MRI
-
-
-## Follow-ups
-
-
 ## Links: 
 [[MPL]]
-
-
-
 202408250827

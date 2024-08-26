@@ -16,6 +16,12 @@ https://canvas.cmu.edu/courses/41499
 [[X-ray diffraction]]
 [[Zeeman Effect]] 
 [[Electron Spin Resonance]]
+[[Cosmic Muons]]
+[[Neutron Activation]]
+[[Mossbauer Experiment]]
+[[Compton Scattering]]
+[[Chaos]]
+[[Light Scattering Experiment]]
 
 
 

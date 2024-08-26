@@ -22,10 +22,6 @@ Task to test 3 force models
 DAQ very simple. Automated. Most computationally oriented.
 
 
-
-## Follow-ups
-
-
 ## Links: 
 [[MPL]]
 

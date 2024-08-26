@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/August 2024.md",
+                "file": "Journal/26 August 2024 Monday.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/Chat w Aniket 26 August 2024.md",
+                "file": "0-inbox/Speech for Scotts going away party.md",
                 "mode": "source",
                 "source": false
               }
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/Chat w Aniket 26 August 2024.md",
+                "file": "0-inbox/Speech for Scotts going away party.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/Chat w Aniket 26 August 2024.md",
+                "file": "0-inbox/Speech for Scotts going away party.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/Chat w Aniket 26 August 2024.md"
+                "file": "0-inbox/Speech for Scotts going away party.md"
               }
             }
           }
@@ -176,18 +176,24 @@
   },
   "active": "7716a9f1e90e08ff",
   "lastOpenFiles": [
+    "1-projects/Teaching/MPL.md",
+    "0-inbox/Neutron Activation.md",
+    "0-inbox/Cosmic Muons.md",
+    "1-projects/Mixed2.0/mixed2.0.md",
+    "0-inbox/Electron Spin Resonance.md",
+    "1-projects/Teaching/Zeeman Effect.md",
+    "1-projects/Teaching/X-ray diffraction.md",
+    "1-projects/Teaching/Optical pumping.md",
+    "1-projects/Teaching/Nuclear Magnetic Resonance.md",
+    "1-projects/Teaching/Magnetic Susceptibiliy Introduction.md",
+    "1-projects/Teaching/Raman Introduction.md",
     "Journal/26 August 2024 Monday.md",
+    "Journal/August 2024.md",
     "0-inbox/Chat w Aniket 26 August 2024.md",
     "0-inbox/Chat w Sindhu 26 August 2024.md",
-    "1-projects/Mixed2.0/mixed2.0.md",
     "1-projects/4b Resonant/4b Resonant Search.md",
-    "0-inbox/Electron Spin Resonance.md",
-    "1-projects/Teaching/MPL.md",
-    "Journal/August 2024.md",
     "1-projects/Teaching/PGSSRelativityPlan.excalidraw.md",
-    "1-projects/Teaching/Raman Introduction.md",
     "Journal/25 August 2024 Sunday.md",
-    "1-projects/Teaching/Zeeman Effect.md",
     "Journal/24 August 2024 Saturday.md",
     "Journal/23 August 2024 Friday.md",
     "Journal/22 August 2024 Thursday.md",
@@ -196,13 +202,7 @@
     "Input/Blogs/How public intellectuals can extend their shelf lives.md",
     "Journal/19 August 2024 Monday.md",
     "Input/Learning List.md",
-    "Output/Lists.md",
-    "Input/SomedayMaybe.md",
-    "Journal/2022/December 2022.md",
     "Journal/2022/#December 2022.md#",
-    "1-projects/Teaching/Optical pumping.md",
-    "1-projects/Teaching/Nuclear Magnetic Resonance.md",
-    "1-projects/Teaching/X-ray diffraction.md",
     "Journal/2022/#November 2022.md#",
     "attachments/HGC TDR LD and HD Sensors.png",
     "attachments/HGC TDR Si Sensor Table.png",

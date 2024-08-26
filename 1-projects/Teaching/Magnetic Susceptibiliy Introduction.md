@@ -1,6 +1,6 @@
 One of our condensed matter experiments.
 
-Goal: Discern the low temperature magnetic behavior of a varienty of different materials.
+<u>Goal</u>: Discern the low temperature magnetic behavior of a varienty of different materials.
 
 Dipole in a magnetic field => torque on the magnet to align it with the direction of the magnetic field. Uniform magnetic field.
 

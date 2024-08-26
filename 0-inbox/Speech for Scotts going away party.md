@@ -28,7 +28,8 @@ And Scott has really made our ramping up easy...  in ways both big and small.
 For us -- like it our not -- you will be the standard with all other department heads will be judged!
 So you will be missed, but certainly not forgotten. 
 
-Thank you!
+To Scott !
+
 
 # Lists
 - John 

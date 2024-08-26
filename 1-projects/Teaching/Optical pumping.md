@@ -1,5 +1,4 @@
 In this experiment we learn all about atomic physics. 
-
 Atoms with a single valance electron, which determines its optical properties.
 
 Learn 
@@ -12,8 +11,7 @@ To manipulate the electrons we shine light.  Turns out  if light circularly pola
 Thermal distribution --> To particular state. 
 
 Important for 
-- laser physics, 
-- quantum optics, 
+- laser physics/  quantum optics / q-bits
 - q-bits optically pumped Rb is one of the textbook models for how you can create q-bits
 
 Equipment :
