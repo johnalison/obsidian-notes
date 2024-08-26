@@ -23,8 +23,8 @@
 | 21 W | Home w/M&T / CAM training 2 / some declustering                                | ---   |
 | 22 H | Fixing ΔR / Faculty meeting / Stats chat / **Gym/SR** / ΔR cut working         | 7/2/2 |
 | 23 F | **M B-day** / Abdulla / **Jr faculty lunch** / Social / Cremonesi letter       | 8/2/1 |
-| 24 S |                                                                                |       |
-| 25 S |                                                                                |       |
+| 24 S | Art Fair / Took back [[American Covenant]] /  **Kettle Bells** / MPL notes     |       |
+| 25 S | Start [[Gulag Archipelago]] [[MindfullnessBook]] / MPL notes/ clean python     |       |
 | 26 M | (Classes Start)                                                                |       |
 | 27 T |                                                                                |       |
 | 28 W |                                                                                |       |

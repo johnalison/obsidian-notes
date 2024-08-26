@@ -1,15 +1,12 @@
 
 # To Do
-- [ ] notes for MPL intros on Tuesday
+- [ >] notes for MPL intros on Tuesday
 - [x] Fix random numbers
-- [ ] 
-- [ ] 
-
 
 # Log
 
 Looking at USCMS meeting slides:
-Appareantly CMU is assigned the Purdue T2 as our "home" T2
+Apparently CMU is assigned the Purdue T2 as our "home" T2
 https://uscms.org/uscms_at_work/software_computing/tier2/store_user.shtml
 
 

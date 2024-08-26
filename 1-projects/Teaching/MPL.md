@@ -2,7 +2,7 @@
 - Least squares in python ?
 
 
-
+https://canvas.cmu.edu/courses/41499
 
 
 ## Follow-ups
@@ -14,7 +14,7 @@
 [[Nuclear Magnetic Resonance]]
 [[Optical pumping]]
 [[X-ray diffraction]]
-Zeeman Effect
+[[Zeeman Effect]] 
 
 
 

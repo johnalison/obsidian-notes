@@ -20,7 +20,7 @@ Getting the new mixing going
 - [ ] [[ResamplingBug]]
 - [ ] [[bj pt mismodeling]]
 - [ ] [[bj splitting mismodelings]]
-- [ ] ~~[[clean splittings during clustering]], so only plot those actually used 
+- [ x] ~~[[clean splittings during clustering]], so only plot those actually used 
 - [ ] Compare splittings by year
 - [ ] What happens to pt overflows in the clustering ?
 - [x] Compute fractions of dressed b splittings: 2g->bb vs g->bb + b + b
@@ -37,7 +37,7 @@ Getting the new mixing going
 	==> A: Form the (bb) + b + b + X  events
 - [ ] run clustering on ttbar MC ?
 - [x] Add hists of ptt / (ptt + pmj)
-	- [ ] try this as DvT
+	- [x] try this as DvT
 - [x] Add hT hist 
 - [x] Recalc HT
 - [x] Random number for BTagging (sorting fucking up top reconstruction ?)

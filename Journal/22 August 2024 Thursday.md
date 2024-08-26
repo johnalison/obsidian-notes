@@ -32,8 +32,8 @@
 - [x] [[Modules Summary August 2024]]
 	- [ >] Send
 - [ >] [[Matteo Cremonesi reappointment Letter]]
-- [ ] CAM Training
-- [ ] Read HGC TDR
+- [ >] CAM Training
+- [ >] Read HGC TDR
 
 
 # Log
@@ -50,7 +50,6 @@ M & T to school
 - Found a way to mask and write the jets
 - Starting to impement consistent random numbers
 	- Looking into code
-- Start with case where there is no problem
 - think I finally got the global dR working !!!!!
 - Fixed a bug in the eta check of one of the bs
 - Deculstering on **cmslpc305**...failed.. now on **cmslpc340**... **117m16.100s**
