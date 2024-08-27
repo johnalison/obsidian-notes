@@ -52,3 +52,7 @@ First day MPL
 - Once a week take a break and give a progress report (Good idea for notebook ?)
 
 Review [[MPL]]
+
+Back to take kids to the Dr
+
+[[Chat w Wes 27 August 2024]]
