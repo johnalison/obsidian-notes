@@ -57,7 +57,8 @@ M&T to school
 	- Now 10x pico size works ! only one output file
 - To Do
 	- [x] Turn off unneeded branches (eg: ZHSR, SB...)
-
+- Got first dummy draft working... now fails when declustering
+- Testing on **cmslpc306**
 
 
 FBC2:
@@ -75,3 +76,13 @@ Checked out MPL rooms
 [[Chat w Sindhu 26 August 2024]]
 
 [[Chat w Aniket 26 August 2024]]
+
+Printed intro printout for [[MPL]]
+
+more mixed
+
+Home with M&T
+
+T sick...
+
+https://whenisgood.net/ss4cfpn
