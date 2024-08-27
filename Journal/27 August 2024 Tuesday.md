@@ -50,6 +50,7 @@ Up at 6:30
 - To Do
 	- Add random number seed input
 	- Add random number seed to output file name
+- Now running on **cmslpc337**
 
 Bike to school
 
