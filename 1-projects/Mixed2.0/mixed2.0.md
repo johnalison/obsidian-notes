@@ -98,7 +98,7 @@ Getting the new mixing going
 - with 00-07-02 PDFs and retry at 8 ... **121m1.577s**
 
 # Making Datasets
-- with 00-07-02 PDFs and retry at 8 ... 
+- with 00-07-02 PDFs and retry at 8 ... **86m56.847s**
 
 # Splittings PDFs:
 - 00-05-00:  All years and all jet multiplicities (old notCanJet_sel def)
