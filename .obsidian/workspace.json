@@ -32,24 +32,12 @@
             }
           },
           {
-            "id": "7716a9f1e90e08ff",
+            "id": "756efbe3ec7e5cae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/Chat w Wes 27 August 2024.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fb03c38537d17ba4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Input/Meetings/Chat w Wes 14 August 2024.md",
+                "file": "1-projects/Mixed2.0/mixed2.0.md",
                 "mode": "source",
                 "source": false
               }
@@ -123,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/Chat w Wes 27 August 2024.md",
+                "file": "1-projects/Mixed2.0/mixed2.0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/Chat w Wes 27 August 2024.md",
+                "file": "1-projects/Mixed2.0/mixed2.0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/Chat w Wes 27 August 2024.md"
+                "file": "1-projects/Mixed2.0/mixed2.0.md"
               }
             }
           }
@@ -186,13 +174,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7716a9f1e90e08ff",
+  "active": "756efbe3ec7e5cae",
   "lastOpenFiles": [
-    "Input/Meetings/Chat w Wes 14 August 2024.md",
-    "0-inbox/Chat w Wes 27 August 2024.md",
     "Journal/27 August 2024 Tuesday.md",
+    "Input/Meetings/HGC Mac Meeting 22 August 2024.md",
+    "Input/Meetings/HGC Mac Meeting 27 August 2024.md",
     "Journal/26 August 2024 Monday.md",
     "1-projects/Mixed2.0/mixed2.0.md",
+    "Input/Meetings/Chat w Wes 14 August 2024.md",
+    "0-inbox/Chat w Wes 27 August 2024.md",
     "1-projects/Teaching/MPL.md",
     "1-projects/Teaching/Compton Scattering.md",
     "attachments/Pasted image 20240826220009.png",
@@ -214,8 +204,6 @@
     "1-projects/4b Resonant/4b Resonant Search.md",
     "1-projects/Teaching/PGSSRelativityPlan.excalidraw.md",
     "Journal/25 August 2024 Sunday.md",
-    "Journal/24 August 2024 Saturday.md",
-    "Journal/23 August 2024 Friday.md",
     "Journal/2022/#December 2022.md#",
     "Journal/2022/#November 2022.md#",
     "attachments/HGC TDR LD and HD Sensors.png",

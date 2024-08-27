@@ -17,6 +17,10 @@ Getting the new mixing going
 - [ ] Check re-clustering
 - [ ] Read [[Do graph neural networks learn traditional jet substructure?]]
 - [ ] Write out picos with the synthetic datasets jet (write CI)
+	- [ ] Add random number seed input
+	- [ ] Add random number seed to output file name
+	- [ ] Test processor HH4b on output files
+	- [ ] Add CI
 - [ ] [[ResamplingBug]]
 - [ ] [[bj pt mismodeling]]
 - [ ] [[bj splitting mismodelings]]
