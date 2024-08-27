@@ -71,34 +71,34 @@ Getting the new mixing going
 [[Script to compare synthetic and nominal datasets]]
 
 
-
-
-
 # Performance
 
 ## decluster and cluster
-**32m30.007s**. 25 July 2024 
-**33m20.966s** 30 July 2024
- **56m22.760s** 2 Aug 4b+2j
+- **32m30.007s**. 25 July 2024 
+- **33m20.966s** 30 July 2024
+- **56m22.760s** 2 Aug 4b+2j
 
 
 ## Just clustering:
-4b+2j: **28m46.523s**
-4b+ Xj (all splittings / trimmed histograms) **37m0.066s**. 
+- 4b+2j: **28m46.523s**
+- 4b+ Xj (all splittings / trimmed histograms) **37m0.066s**. 
 	    2018 using all non b-jets  **46m30.667s**
-4b+Xj all years: **83m53.974s**
+- 4b+Xj all years: **83m53.974s**
              **101m24.461s** 8 Aug 2024
              **108m52.381s** 16 Aug with correct jet def
-Signal 1 worker: **196m47.039s**
+- Signal 1 worker: **196m47.039s**
 
 
 ## Synthetic Datasets
-Inclusive in jet multiplicity (rerunning SvB) **38m1.994s**
-inclusive in jet multiplicity and all years **88m46.643s**
-inclusive in jet multiplicty all years, correct jet def: **114m0.018s**
-with 00-07-01 PDFs **116m39.358s**
-with 00-07-02 PDFs and dR fix...**117m16.100s**
-with 00-07-02 PDFs and retry at 8 ... **121m1.577s**
+- Inclusive in jet multiplicity (rerunning SvB) **38m1.994s**
+- inclusive in jet multiplicity and all years **88m46.643s**
+- inclusive in jet multiplicty all years, correct jet def: **114m0.018s**
+- with 00-07-01 PDFs **116m39.358s**
+- with 00-07-02 PDFs and dR fix...**117m16.100s**
+- with 00-07-02 PDFs and retry at 8 ... **121m1.577s**
+
+# Making Datasets
+- with 00-07-02 PDFs and retry at 8 ... 
 
 # Splittings PDFs:
 - 00-05-00:  All years and all jet multiplicities (old notCanJet_sel def)

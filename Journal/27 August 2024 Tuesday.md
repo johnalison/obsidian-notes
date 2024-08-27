@@ -15,17 +15,17 @@
 | 2   | MPL              |     |
 |     | MPL              |     |
 | 3   | MPL              |     |
-|     | MPL              |     |
-| 4   | MPL              |     |
-|     | MPL              |     |
+|     | Mans             |     |
+| 4   | Mans             |     |
+|     | Mans             |     |
 
-**W:**
-**DW:**
-**OT:**
+**W:** 7 
+**DW:** 1
+**OT:** 2
 **ex** or **~~ex~~**
 
 # The ONE thing: 
-- [ ] MPL
+- [x] MPL
 
 
 # To Do
@@ -51,6 +51,7 @@ Up at 6:30
 	- Add random number seed to output file name
 - Now running on **cmslpc337**. data2018 took **30m9.774s**
 - Running not with full Run-2
+- Pushed first version: 
 
 Bike to school
 
@@ -79,5 +80,7 @@ More mixing.
 - [[MPL]]
 
 [[HGCManagementMeeting 27 August 2024]]
+
+[[What’s Really Going On in Machine Learning? Some Minimal Models]]
 
 
