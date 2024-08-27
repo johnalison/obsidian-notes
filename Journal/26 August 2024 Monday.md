@@ -1,27 +1,27 @@
 # Timeblock
 
-|     | Setup      |     |
-| --- | ---------- | --- |
-| 9   |            |     |
-|     |            |     |
-| 10  |            |     |
-|     | FBC2       |     |
-| 11  | FBC2       |     |
-|     |            |     |
-| 12  | Multihiggs |     |
-|     | Hoops      |     |
-| 1   | Hoops      |     |
-|     | Hoops      |     |
-| 2   |            |     |
-|     | Sindhu     |     |
-| 3   | Aniket     |     |
-|     |            |     |
-| 4   |            |     |
-|     |            |     |
+|     | Setup           |     |
+| --- | --------------- | --- |
+| 9   | JetDeclustering |     |
+|     | JetDeclustering |     |
+| 10  | JetDeclustering |     |
+|     | FBC2            |     |
+| 11  | FBC2            |     |
+|     | JetDeclustering |     |
+| 12  | Multihiggs      |     |
+|     | Hoops           |     |
+| 1   | Hoops           |     |
+|     | Hoops           |     |
+| 2   | JetDeclustering |     |
+|     | Sindhu          |     |
+| 3   | Aniket          |     |
+|     | JetDeclustering |     |
+| 4   | JetDeclustering |     |
+|     | JetDeclustering |     |
 
-**W:**
-**DW:**
-**OT:**
+**W:**  7 
+**DW:** 4
+**OT:** 2
 **ex**
 
 # The ONE thing: 
@@ -33,11 +33,11 @@
 	- [x] Review Particle Notes
 	- [x] Make/Print PDFs
 - [x] Check out MPL Labs
-- [ ] CAM Training
-- [ ] Read HGC TDR
+- [ >] CAM Training
+- [ >] Read HGC TDR
 - [x] Poll new HGC Meeting time
 	- [x] Waiting on MP and VD
-- [ ] Update skimmer CI: Compare cutflow during skim vs later processing vs known values
+- [ >] Update skimmer CI: Compare cutflow during skim vs later processing vs known values
 
 
 # Log
@@ -85,5 +85,8 @@ Home with M&T
 
 T sick...
 
+New Meeting time 12 on T
 https://whenisgood.net/ss4cfpn
+
+More pumping on synthetic datasets
 
