@@ -30,13 +30,13 @@
 
 # To Do
 - [x]  notes for MPL intros on Tuesday: Only Zeeman Effect left
-	- [ ] Review Particle Notes
-	- [ ] Make/Print PDFs
+	- [x] Review Particle Notes
+	- [x] Make/Print PDFs
 - [x] Check out MPL Labs
 - [ ] CAM Training
 - [ ] Read HGC TDR
 - [x] Poll new HGC Meeting time
-	- [ ] Waiting on MP and VD
+	- [x] Waiting on MP and VD
 - [ ] Update skimmer CI: Compare cutflow during skim vs later processing vs known values
 
 
@@ -86,3 +86,4 @@ Home with M&T
 T sick...
 
 https://whenisgood.net/ss4cfpn
+
