@@ -70,8 +70,13 @@ Mail to Nural re: turnaround report
 Bought Steph a massage:
 - Redemption Code: JOHN_ALISON_4806_8B7FD6CF69
 
-
 [[HGCAL Rentrée General Meeting August 2024]]
 
 
 Pinged Ash re:date night
+
+Got kids. 
+
+Indian for dinner 
+
+Adam cuts dogwood (Steph not happy)
