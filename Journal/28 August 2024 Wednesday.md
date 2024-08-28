@@ -34,7 +34,8 @@
 - [ ] CAM Training
 - [ ] Read HGC TDR
 - [ ] Update skimmer CI: Compare cutflow during skim vs later processing vs known values
-- [ ] 
+- [x] Steph back massage 
+- [ ] Date Night
 
 
 # Log
@@ -53,4 +54,15 @@ Mail to Sinead
 - Start letter writters: [[ToAddToCV]]
 
 Mail to Nural re: turnaround report
+
+# [[mixed2.0]]
+- Added ttbar subtraction to **Declusterer**
+- 
+
+# Hoops / SR
+- Good runs 5s
+- 10' at Tmax = 121
+
+Bought Steph a massage:
+- Redemption Code: JOHN_ALISON_4806_8B7FD6CF69
 

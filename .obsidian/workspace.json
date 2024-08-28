@@ -44,18 +44,6 @@
             }
           },
           {
-            "id": "743f188e28449f5e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Input/Meetings/StatsChat-28-August-2024.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "bd95b783253e265c",
             "type": "leaf",
             "state": {
@@ -199,14 +187,14 @@
   },
   "active": "756efbe3ec7e5cae",
   "lastOpenFiles": [
+    "Input/Meetings/StatsChat-28-August-2024.md",
+    "Journal/28 August 2024 Wednesday.md",
     "2-areas/Personal/ToAddToCV.md",
     "2-areas/Physics/CompareStatsHadronAndLeptonColliders.md",
-    "Journal/28 August 2024 Wednesday.md",
     "1-projects/HGC/CAM Turnaround Report.md",
     "Input/Meetings/HGCManagementMeeting 27 August 2024.md",
     "Journal/27 August 2024 Tuesday.md",
     "Journal/26 August 2024 Monday.md",
-    "Input/Meetings/StatsChat-28-August-2024.md",
     "Input/Meetings/StatsChat-22-August-2024.md",
     "Output/CAM/Modules Summary August 2024.md",
     "1-projects/Mixed2.0/mixed2.0.md",
