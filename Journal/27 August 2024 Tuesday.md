@@ -29,9 +29,9 @@
 
 
 # To Do
-- [ ] CAM Training
-- [ ] Read HGC TDR
-- [ ] Update skimmer CI: Compare cutflow during skim vs later processing vs known values
+- [ >] CAM Training
+- [ >] Read HGC TDR
+- [ >] Update skimmer CI: Compare cutflow during skim vs later processing vs known values
 
 
 
