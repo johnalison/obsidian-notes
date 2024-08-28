@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-projects/HGC/CAM Turnaround Report.md",
+                "file": "Journal/28 August 2024 Wednesday.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "file:toadd",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,8 +114,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -135,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-projects/HGC/CAM Turnaround Report.md",
+                "file": "Journal/28 August 2024 Wednesday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-projects/HGC/CAM Turnaround Report.md",
+                "file": "Journal/28 August 2024 Wednesday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-projects/HGC/CAM Turnaround Report.md"
+                "file": "Journal/28 August 2024 Wednesday.md"
               }
             }
           }
@@ -200,9 +199,12 @@
   },
   "active": "756efbe3ec7e5cae",
   "lastOpenFiles": [
+    "2-areas/Personal/ToAddToCV.md",
+    "2-areas/Physics/CompareStatsHadronAndLeptonColliders.md",
+    "Journal/28 August 2024 Wednesday.md",
+    "1-projects/HGC/CAM Turnaround Report.md",
     "Input/Meetings/HGCManagementMeeting 27 August 2024.md",
     "Journal/27 August 2024 Tuesday.md",
-    "Journal/28 August 2024 Wednesday.md",
     "Journal/26 August 2024 Monday.md",
     "Input/Meetings/StatsChat-28-August-2024.md",
     "Input/Meetings/StatsChat-22-August-2024.md",
@@ -225,9 +227,6 @@
     "0-inbox/Electron Spin Resonance.md",
     "1-projects/Teaching/Zeeman Effect.md",
     "1-projects/Teaching/X-ray diffraction.md",
-    "1-projects/Teaching/Optical pumping.md",
-    "1-projects/Teaching/Nuclear Magnetic Resonance.md",
-    "1-projects/Teaching/Magnetic Susceptibiliy Introduction.md",
     "Journal/2022/#December 2022.md#",
     "Journal/2022/#November 2022.md#",
     "attachments/HGC TDR LD and HD Sensors.png",

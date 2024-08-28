@@ -47,3 +47,10 @@ w/M&T
 Awesome feeling.
 
 [[StatsChat-28-August-2024]]
+
+Mail to Sinead 
+- Heather speaks highly of the LHCP HH talk ! 
+- Start letter writters: [[ToAddToCV]]
+
+Mail to Nural re: turnaround report
+

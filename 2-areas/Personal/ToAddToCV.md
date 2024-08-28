@@ -70,10 +70,18 @@ Member of local organizing committee for 2023 US CMS annual meeting, hosted at C
 - PGSS relativity course
 - Oshcher Higgs course
 - Teachers program
-  
+- 
+- 
+
 
   
-
+# Letter Writters
+- Heather gray
+- Elliot Lipeles 
+- Joe / Mel / YKK
+- Jaco 
+- Nural 
+- 
   
 
 
@@ -86,3 +94,7 @@ Member of local organizing committee for 2023 US CMS annual meeting, hosted at C
 
 
 202408211825
+
+
+
+
