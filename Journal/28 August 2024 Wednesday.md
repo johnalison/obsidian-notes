@@ -35,7 +35,7 @@
 - [ ] Read HGC TDR
 - [ ] Update skimmer CI: Compare cutflow during skim vs later processing vs known values
 - [x] Steph back massage 
-- [ ] Date Night
+- [x] Date Night
 
 
 # Log
@@ -58,8 +58,8 @@ Mail to Nural re: turnaround report
 # [[mixed2.0]]
 - Added ttbar subtraction to **Declusterer**
 - Added hook for input random number seed
-- Adding random number seed to output 
-- 
+- Added random number seed to output file name 
+- Added [[Reproducible Random Numbers]] for the ttbar subtraction
 
 # Hoops / SR
 - Good runs 5s
@@ -67,4 +67,7 @@ Mail to Nural re: turnaround report
 
 Bought Steph a massage:
 - Redemption Code: JOHN_ALISON_4806_8B7FD6CF69
+
+# Si modules summary 
+https://indico.cern.ch/event/1432891/
 
