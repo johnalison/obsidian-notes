@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/HGCAL Rentrée General Meeting August 2024.md",
+                "file": "Journal/28 August 2024 Wednesday.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/HGCAL Rentrée General Meeting August 2024.md",
+                "file": "Journal/28 August 2024 Wednesday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/HGCAL Rentrée General Meeting August 2024.md",
+                "file": "Journal/28 August 2024 Wednesday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/HGCAL Rentrée General Meeting August 2024.md"
+                "file": "Journal/28 August 2024 Wednesday.md"
               }
             }
           }
@@ -199,8 +199,8 @@
   },
   "active": "756efbe3ec7e5cae",
   "lastOpenFiles": [
-    "1-projects/Mixed2.0/mixed2.0.md",
     "0-inbox/HGCAL Rentrée General Meeting August 2024.md",
+    "1-projects/Mixed2.0/mixed2.0.md",
     "Input/Meetings/HGCManagementMeeting 27 August 2024.md",
     "Journal/28 August 2024 Wednesday.md",
     "2-areas/coffea4bs/Reproducible Random Numbers.md",

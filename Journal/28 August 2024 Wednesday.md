@@ -1,23 +1,23 @@
 # Timeblock
 
-|     |            |     |
-| --- | ---------- | --- |
-| 9   | w/M&T      |     |
-|     | w/M&T      |     |
-| 10  | Stats Chat |     |
-|     | Stats Chat |     |
-| 11  |            |     |
-|     |            |     |
-| 12  |            |     |
-|     | Hoops      |     |
-| 1   | Hoops      |     |
-|     | Hoops      |     |
-| 2   |            |     |
-|     |            |     |
-| 3   |            |     |
-|     |            |     |
-| 4   |            |     |
-|     |            |     |
+|     |                 |     |
+| --- | --------------- | --- |
+| 9   | w/M&T           |     |
+|     | w/M&T           |     |
+| 10  | Stats Chat      |     |
+|     | Stats Chat      |     |
+| 11  | mails           |     |
+|     | JetDeclsutering |     |
+| 12  | JetDeclsutering |     |
+|     | Hoops           |     |
+| 1   | Hoops           |     |
+|     | Hoops           |     |
+| 2   | JetDeclsutering |     |
+|     | JetDeclsutering |     |
+| 3   | JetDeclsutering |     |
+|     | JetDeclsutering |     |
+| 4   | HGC meeting     |     |
+|     | HGC meeting     |     |
 
 **W:**
 **DW:**
@@ -60,7 +60,8 @@ Mail to Nural re: turnaround report
 - Added hook for input random number seed
 - Added random number seed to output file name 
 - Added [[Reproducible Random Numbers]] for the ttbar subtraction
-- Remaking picos on Running **cmslpc346**
+- Remaking picos on Running **cmslpc346**... **72m35.376s**
+- Now on to processing them!
 
 # Hoops / SR
 - Good runs 5s
@@ -72,7 +73,5 @@ Bought Steph a massage:
 
 [[HGCAL Rentrée General Meeting August 2024]]
 
-# Si modules summary 
-https://indico.cern.ch/event/1432891/
 
 Pinged Ash re:date night
