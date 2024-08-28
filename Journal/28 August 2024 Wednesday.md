@@ -57,6 +57,8 @@ Mail to Nural re: turnaround report
 
 # [[mixed2.0]]
 - Added ttbar subtraction to **Declusterer**
+- Added hook for input random number seed
+- Adding random number seed to output 
 - 
 
 # Hoops / SR
