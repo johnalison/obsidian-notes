@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/26 August 2024 Monday.md",
+                "file": "1-projects/HGC/CAM Turnaround Report.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/28 August 2024 Wednesday.md",
+                "file": "Input/Meetings/StatsChat-28-August-2024.md",
                 "mode": "source",
                 "source": false
               }
@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/28 August 2024 Wednesday.md",
+                "file": "1-projects/HGC/CAM Turnaround Report.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/28 August 2024 Wednesday.md",
+                "file": "1-projects/HGC/CAM Turnaround Report.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/28 August 2024 Wednesday.md"
+                "file": "1-projects/HGC/CAM Turnaround Report.md"
               }
             }
           }
@@ -198,15 +198,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "743f188e28449f5e",
+  "active": "756efbe3ec7e5cae",
   "lastOpenFiles": [
-    "Journal/26 August 2024 Monday.md",
+    "Input/Meetings/HGCManagementMeeting 27 August 2024.md",
     "Journal/27 August 2024 Tuesday.md",
     "Journal/28 August 2024 Wednesday.md",
+    "Journal/26 August 2024 Monday.md",
+    "Input/Meetings/StatsChat-28-August-2024.md",
+    "Input/Meetings/StatsChat-22-August-2024.md",
     "Output/CAM/Modules Summary August 2024.md",
     "1-projects/Mixed2.0/mixed2.0.md",
     "0-inbox/What’s Really Going On in Machine Learning? Some Minimal Models.md",
-    "Input/Meetings/HGCManagementMeeting 27 August 2024.md",
     "Journal/23 August 2024 Friday.md",
     "Input/Meetings/HGC Mac Meeting 22 August 2024.md",
     "Input/Meetings/HGC Mac Meeting 27 August 2024.md",
@@ -226,8 +228,6 @@
     "1-projects/Teaching/Optical pumping.md",
     "1-projects/Teaching/Nuclear Magnetic Resonance.md",
     "1-projects/Teaching/Magnetic Susceptibiliy Introduction.md",
-    "1-projects/Teaching/Raman Introduction.md",
-    "Journal/August 2024.md",
     "Journal/2022/#December 2022.md#",
     "Journal/2022/#November 2022.md#",
     "attachments/HGC TDR LD and HD Sensors.png",

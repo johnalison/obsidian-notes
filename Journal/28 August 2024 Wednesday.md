@@ -9,9 +9,9 @@
 | 11  |            |     |
 |     |            |     |
 | 12  |            |     |
-|     |            |     |
-| 1   |            |     |
-|     |            |     |
+|     | Hoops      |     |
+| 1   | Hoops      |     |
+|     | Hoops      |     |
 | 2   |            |     |
 |     |            |     |
 | 3   |            |     |
@@ -46,3 +46,4 @@ w/M&T
  Iterated with Mary... **KIDS WILL GO TO SCHOOL TODAY!!!**
 Awesome feeling.
 
+[[StatsChat-28-August-2024]]
