@@ -60,6 +60,7 @@ Mail to Nural re: turnaround report
 - Added hook for input random number seed
 - Added random number seed to output file name 
 - Added [[Reproducible Random Numbers]] for the ttbar subtraction
+- Remaking picos on Running **cmslpc346**
 
 # Hoops / SR
 - Good runs 5s
@@ -68,6 +69,10 @@ Mail to Nural re: turnaround report
 Bought Steph a massage:
 - Redemption Code: JOHN_ALISON_4806_8B7FD6CF69
 
+
+[[HGCAL Rentrée General Meeting August 2024]]
+
 # Si modules summary 
 https://indico.cern.ch/event/1432891/
 
+Pinged Ash re:date night
