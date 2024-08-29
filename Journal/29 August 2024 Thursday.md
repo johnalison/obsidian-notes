@@ -91,3 +91,4 @@ more mixing
 # [[MPL]]
 - Radiation Safety
 - PMT discussion
+- Some digital logic with muons
