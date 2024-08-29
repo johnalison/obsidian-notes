@@ -1,23 +1,23 @@
 # Timeblock
 
-|     | JetDeClustering      |     |
-| --- | -------------------- | --- |
-| 9   | JetDeClustering      |     |
-|     | JetDeClustering      |     |
-| 10  | Give Sophmore Colloq |     |
-|     | Give Sophmore Colloq |     |
-| 11  | JetDeClustering      |     |
-|     | JetDeClustering      |     |
-| 12  | bbWW                 |     |
-|     | Gym                  |     |
-| 1   | Gym                  |     |
-|     | Gym                  |     |
-| 2   | MPL                  |     |
-|     | MPL                  |     |
-| 3   | MPL                  |     |
-|     | MPL                  |     |
-| 4   | MPL                  |     |
-|     | MPL                  |     |
+|     | JetDeClustering    |     |
+| --- | ------------------ | --- |
+| 9   | JetDeClustering    |     |
+|     | JetDeClustering    |     |
+| 10  | Give Junior Colloq |     |
+|     | Give Junior Colloq |     |
+| 11  | JetDeClustering    |     |
+|     | JetDeClustering    |     |
+| 12  | bbWW               |     |
+|     | Gym                |     |
+| 1   | Gym                |     |
+|     | Gym                |     |
+| 2   | MPL                |     |
+|     | MPL                |     |
+| 3   | MPL                |     |
+|     | MPL                |     |
+| 4   | MPL                |     |
+|     | MPL                |     |
 
 **W:**
 **DW:**
@@ -64,3 +64,5 @@ M&T to school
       - 311677
 - [ ] Script to create synthetric datasets yaml
 - Testing running 
+
+Gave Junior colloq
