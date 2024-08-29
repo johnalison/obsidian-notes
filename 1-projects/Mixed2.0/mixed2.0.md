@@ -99,6 +99,10 @@ Getting the new mixing going
 
 # Making Datasets
 - with 00-07-02 PDFs and retry at 8 ... **86m56.847s**
+- Above using ttbar subtraction: **79m44.445s**
+
+# Processing Synthetic Datasets
+- with TTbar subtraction: **10m56.167s**
 
 # Splittings PDFs:
 - 00-05-00:  All years and all jet multiplicities (old notCanJet_sel def)

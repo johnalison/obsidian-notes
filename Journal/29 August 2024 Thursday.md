@@ -51,7 +51,7 @@ M&T to school
 - Trying to process picos
 - [ ] Randseed via command line
 - [ ] Update file name based on rand seed
-- Remaking input data (left off some 2016 files) 
+- Remaking input data (left off some 2016 files) ... **79m44.445s**
 - Yaml errors from 
 	- - !!python/tuple
       - 0
