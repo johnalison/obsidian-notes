@@ -70,6 +70,8 @@ M&T to school
 		- Flags for synthetic data 
 		- Keep process "data" for now... Update after debugged
 - Start with cutflow!!
+- Adding passTTBar to cutFlow
+- Running on 304
 
 Gave Junior colloq
 - Went well
