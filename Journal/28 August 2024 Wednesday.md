@@ -29,11 +29,11 @@
 
 
 # To Do
-- [ ] Review colloq
-- [ ] Think about progress reports... Calendar (early)
-- [ ] CAM Training
-- [ ] Read HGC TDR
-- [ ] Update skimmer CI: Compare cutflow during skim vs later processing vs known values
+- [x] Review colloq
+ [ >] Think about progress reports... Calendar (early)
+ [ >] CAM Training
+ [ >] Read HGC TDR
+ [ >] Update skimmer CI: Compare cutflow during skim vs later processing vs known values
 - [x] Steph back massage 
 - [x] Date Night
 
@@ -44,8 +44,8 @@ Up at 8
 
 w/M&T
 
- Iterated with Mary... **KIDS WILL GO TO SCHOOL TODAY!!!**
-Awesome feeling.
+Iterated with Mary... **KIDS WILL GO TO SCHOOL TODAY!!!**
+Awesome feeling!
 
 [[StatsChat-28-August-2024]]
 
@@ -71,7 +71,6 @@ Bought Steph a massage:
 - Redemption Code: JOHN_ALISON_4806_8B7FD6CF69
 
 [[HGCAL Rentrée General Meeting August 2024]]
-
 
 Pinged Ash re:date night
 

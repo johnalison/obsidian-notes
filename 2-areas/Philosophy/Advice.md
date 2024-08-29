@@ -12,7 +12,7 @@ Most people are bad at giving advice based on thier experience.  Instead ask the
    10. Upgrade the World
 
 
-You can only be happy now, in this moment.   Cant afford to wait until you solve your problems to be happy
+You can only be happy now, in this moment.  Cant afford to wait until you solve your problems to be happy
 ## Links: 
 
 

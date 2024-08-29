@@ -34,8 +34,6 @@
 - [ >] Update skimmer CI: Compare cutflow during skim vs later processing vs known values
 
 
-
-
 # Log
 
 Up at 6:30 
@@ -45,7 +43,7 @@ Up at 6:30
 	- Testing on **cmslpc306**
 - Got draft working (problem was jet_flavor as string)
 	- Trying with unsigned 8-bit encoding... also fails
-- Pushing first draft of
+- Pushing first draft of make dataset script
 - To Do
 	- Add random number seed input
 	- Add random number seed to output file name

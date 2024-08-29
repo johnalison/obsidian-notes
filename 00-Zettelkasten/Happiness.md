@@ -20,3 +20,7 @@
 
 [[Metric-of-success]]
 
+[[Nothing-is-almost-like-having-it-all]]
+[[Be-Rich-by-Wanting-Less]]
+
+

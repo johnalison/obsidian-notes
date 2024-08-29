@@ -54,7 +54,7 @@ M&T to school
 - Trying without --dask... works without dask!
 - Questions:
 	- How to turn off chunking ? Crank up picoSize ? ... fails if picoSize 10x
-	- Now 10x pico size works ! only one output file
+	- Now 10x pico size works ! only one output file... GOOD
 - To Do
 	- [x] Turn off unneeded branches (eg: ZHSR, SB...)
 - Got first dummy draft working... now fails when declustering
