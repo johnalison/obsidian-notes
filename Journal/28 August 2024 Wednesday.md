@@ -80,3 +80,8 @@ Got kids.
 Indian for dinner 
 
 Adam cuts dogwood (Steph not happy)
+
+Some Reading
+- [[MindfullnessBook]]
+- [[Gulag Archipelago]]
+
