@@ -66,13 +66,25 @@ M&T to school
 	- Need to merge with existing dataset script to get (at least the data info)
 - Testing running 
 	- Running work! 
-	- Need to validate wrt to previuous
+	- Need to validate wrt to previous
 		- Flags for synthetic data 
 		- Keep process "data" for now... Update after debugged
+- Start with cutflow!!
 
 Gave Junior colloq
+- Went well
 
+Chat IRA:
+- Hates DEI
+- Has a way to only modify λ...
 
 more mixing
 
 [[bbWW Meeting 29 August 2024]]
+
+# Gym / Steamroom
+- farmers carry / cling / stepups / core
+- 10' at Tmax =124
+
+# MPL
+- 
