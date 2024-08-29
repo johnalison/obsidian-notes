@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/bbWW Meeting 29 August 2024.md",
+                "file": "Journal/29 August 2024 Thursday.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/bbWW Meeting 29 August 2024.md",
+                "file": "Journal/29 August 2024 Thursday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/bbWW Meeting 29 August 2024.md",
+                "file": "Journal/29 August 2024 Thursday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/bbWW Meeting 29 August 2024.md"
+                "file": "Journal/29 August 2024 Thursday.md"
               }
             }
           }
@@ -199,8 +199,8 @@
   },
   "active": "66b27ef6a12ea680",
   "lastOpenFiles": [
-    "Journal/29 August 2024 Thursday.md",
     "0-inbox/bbWW Meeting 29 August 2024.md",
+    "Journal/29 August 2024 Thursday.md",
     "1-projects/Mixed2.0/mixed2.0.md",
     "Journal/28 August 2024 Wednesday.md",
     "0-inbox/Speech for Scotts going away party.md",

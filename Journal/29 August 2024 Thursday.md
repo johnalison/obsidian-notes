@@ -65,6 +65,10 @@ M&T to school
 - [ ] Script to create synthetric datasets yaml
 	- Need to merge with existing dataset script to get (at least the data info)
 - Testing running 
+	- Running work! 
+	- Need to validate wrt to previuous
+		- Flags for synthetic data 
+		- Keep process "data" for now... Update after debugged
 
 Gave Junior colloq
 
