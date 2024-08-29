@@ -102,7 +102,7 @@ Getting the new mixing going
 - Above using ttbar subtraction: **79m44.445s**
 
 # Processing Synthetic Datasets
-- with TTbar subtraction: **10m56.167s**
+- with TTbar subtraction: **2m23.418s**
 
 # Splittings PDFs:
 - 00-05-00:  All years and all jet multiplicities (old notCanJet_sel def)

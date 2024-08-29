@@ -63,6 +63,12 @@ M&T to school
       - 207786
       - 311677
 - [ ] Script to create synthetric datasets yaml
+	- Need to merge with existing dataset script to get (at least the data info)
 - Testing running 
 
 Gave Junior colloq
+
+
+more mixing
+
+[[bbWW Meeting 29 August 2024]]
