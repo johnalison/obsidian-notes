@@ -1,6 +1,6 @@
 # Timeblock
 
-|     |                 |     |
+|     | Setup           |     |
 | --- | --------------- | --- |
 | 9   | Progress Report |     |
 |     | Progress Report |     |
@@ -19,10 +19,10 @@
 | 4   | Slides          |     |
 |     | Slides          |     |
 
-**W:**
-**DW:**
-**OT:**
-**ex** or **~~ex~~**
+**W:** 8 
+**DW:** 4 
+**OT:** 3
+ **~~ex~~**
 
 # The ONE thing: 
 - [ ] Jet Declustering
@@ -34,7 +34,7 @@
 - [ ] CAM Training
 - [ ] Read HGC TDR
 - [ ] Update skimmer CI: Compare cutflow during skim vs later processing vs known values
-- [ ] clean up mixed data flags
+- [x] clean up mixed data flags
 - [ ] Update printCutFlow to compare cutflows
 - [ ] Convert c++ trigger code to python
 - [x] Sign tonys paper
@@ -78,4 +78,11 @@ Some work on JetDeClustering slides
 
 [[CMU Round Table 30 August 2024]]
 
+more mixed...cleaning up
 
+Home with M&T, barely missed the rain.
+
+Adding synthetic data CI
+
+[Second Barin tour on MacOS](https://www.youtube.com/@mischavandenburg)
+- 
