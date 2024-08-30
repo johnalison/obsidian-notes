@@ -73,6 +73,7 @@ M&T to school
 - Start with cutflow!!
 - Adding passTTBar to cutFlow
 - Running on 304
+- Was using the wrong jet calibration on the data.  Rerunning the JetDeclustering
 
 Gave Junior colloq
 - Went well
@@ -103,3 +104,5 @@ Home
 Reading:
 - [[MindfullnessBook]] will likely bail
 - [[Gulag Archipelago]]
+
+Late night mixed.
