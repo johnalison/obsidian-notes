@@ -68,3 +68,10 @@ Sent Eva contact an email
 
 Some work on JetDeClustering slides
 
+# Hep Lunch
+
+# Stamps Kick off
+
+[[CMU 4b Chat 30 August 2024]]
+
+
