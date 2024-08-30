@@ -20,36 +20,12 @@
             }
           },
           {
-            "id": "66b27ef6a12ea680",
+            "id": "91a7de612da4632f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/29 August 2024 Thursday.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bd95b783253e265c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-projects/Mixed2.0/mixed2.0.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6c07817c5204cfb4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Journal/28 August 2024 Wednesday.md",
+                "file": "Journal/30 August 2024 Friday.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "scott",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,7 +90,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -134,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/29 August 2024 Thursday.md",
+                "file": "Journal/30 August 2024 Friday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/29 August 2024 Thursday.md",
+                "file": "Journal/30 August 2024 Friday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/29 August 2024 Thursday.md"
+                "file": "Journal/30 August 2024 Friday.md"
               }
             }
           }
@@ -197,34 +174,35 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "66b27ef6a12ea680",
+  "active": "91a7de612da4632f",
   "lastOpenFiles": [
-    "0-inbox/bbWW Meeting 29 August 2024.md",
-    "Journal/29 August 2024 Thursday.md",
+    "Output/Scotts Gratitude Card.md",
+    "0-inbox/What’s Really Going On in Machine Learning? Some Minimal Models.md",
+    "0-inbox/Things-To-Add-To-Notes.md",
+    "1-projects/Teaching/Neutron Activation.md",
+    "Input/Meetings/HGCAL Rentrée General Meeting August 2024.md",
+    "0-inbox/HGC TDR.md",
+    "1-projects/Teaching/Electron Spin Resonance.md",
+    "1-projects/Teaching/MPL.md",
+    "1-projects/Teaching/Optical pumping.md",
+    "1-projects/Teaching/Cosmic Muons.md",
+    "Input/Meetings/Chat w Wes 27 August 2024.md",
+    "Input/Meetings/Chat w Sindhu 26 August 2024.md",
+    "Input/Meetings/Chat w Aniket 26 August 2024.md",
+    "Input/Meetings/bbWW Meeting 29 August 2024.md",
+    "0-inbox/AnalysesOverview.excalidraw.md",
+    "Output/ProgressReports/ProgressReport 30 August 2024.md",
+    "Output/ProgressReports",
+    "Journal/August 2024.md",
     "1-projects/Mixed2.0/mixed2.0.md",
-    "Journal/28 August 2024 Wednesday.md",
+    "Journal/30 August 2024 Friday.md",
+    "Journal/29 August 2024 Thursday.md",
     "0-inbox/Speech for Scotts going away party.md",
+    "Journal/28 August 2024 Wednesday.md",
+    "Journal/27 August 2024 Tuesday.md",
+    "Journal/26 August 2024 Monday.md",
     "Journal/15 August 2024 Thursday.md",
     "Input/Meetings/HGCManagementMeeting 27 August 2024.md",
-    "00-Zettelkasten/Wisdom-index.md",
-    "00-Zettelkasten/Happiness.md",
-    "00-Zettelkasten/Nothing-is-almost-like-having-it-all.md",
-    "00-Zettelkasten/ZettelKasten Index.md",
-    "2-areas/Philosophy/Advice.md",
-    "2-areas/Philosophy/Quotes for cards.md",
-    "0-inbox/Scotts Gratitude Card.md",
-    "Journal/26 August 2024 Monday.md",
-    "Journal/27 August 2024 Tuesday.md",
-    "0-inbox/HGCAL Rentrée General Meeting August 2024.md",
-    "2-areas/coffea4bs/Reproducible Random Numbers.md",
-    "Input/Meetings/StatsChat-28-August-2024.md",
-    "2-areas/Personal/ToAddToCV.md",
-    "2-areas/Physics/CompareStatsHadronAndLeptonColliders.md",
-    "1-projects/HGC/CAM Turnaround Report.md",
-    "Input/Meetings/StatsChat-22-August-2024.md",
-    "Output/CAM/Modules Summary August 2024.md",
-    "0-inbox/What’s Really Going On in Machine Learning? Some Minimal Models.md",
-    "Journal/23 August 2024 Friday.md",
     "attachments/Pasted image 20240826220009.png",
     "attachments/Pasted image 20240826215955.png",
     "Journal/2022/#December 2022.md#",
@@ -245,7 +223,6 @@
     "Journal/2022/#May 2022.md#",
     "Journal/2022/#April 2022.md#",
     "attachments/CMS Test.png",
-    "Journal/2022/#March 2022.md#",
     "attachments/Pasted image 20240730120049.png",
     "attachments/Pasted image 20240730120040.png"
   ]
