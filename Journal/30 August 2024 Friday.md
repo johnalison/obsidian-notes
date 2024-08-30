@@ -60,7 +60,9 @@ M&T to school.
 	.. See the same issue
 - Now running without max_chunks = 5... Seems to fix the problem!
 - Running all years without max_chunks
-- Explains why I wasnt seeing all the expected 93 subjobs
+- Explains why I wasn't seeing all the expected 93 subjobs !
+- All good now!  
+- Cleaning up!
 
 [[ProgressReport 30 August 2024]]
 
