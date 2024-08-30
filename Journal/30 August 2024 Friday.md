@@ -58,7 +58,8 @@ M&T to school.
 ```
 - Test if error from picosize = 10 x chunksize (running with both **100000**) **87m59.704s**
 	.. See the same issue
-- Now running without max_chunks = 5
+- Now running without max_chunks = 5... Seems to fix the problem!
+- Running all years without max_chunks
 
 [[ProgressReport 30 August 2024]]
 
