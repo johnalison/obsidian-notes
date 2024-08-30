@@ -19,10 +19,10 @@
 | 4   | MPL                |     |
 |     | MPL                |     |
 
-**W:**
-**DW:**
-**OT:**
-**ex** or **~~ex~~**
+**W:**. 7 
+**DW:** 3
+**OT:** 2
+**ex** 
 
 # The ONE thing: 
 - [ ] JetDeclustering
@@ -30,10 +30,11 @@
 
 # To Do
 - [ ] Ping Eva Contact
-- [ ] Think about progress reports... Calendar (early)
+- [x] Think about progress reports... Calendar (early)
 - [ ] CAM Training
 - [ ] Read HGC TDR
 - [ ] Update skimmer CI: Compare cutflow during skim vs later processing vs known values
+- [ ] clean up mixed data flags
 
 
 
@@ -92,3 +93,13 @@ more mixing
 - Radiation Safety
 - PMT discussion
 - Some digital logic with muons
+
+More mixed Hacking ... Debugging new datasets
+
+got kids.
+
+Home 
+
+Reading:
+- [[MindfullnessBook]] will likely bail
+- [[Gulag Archipelago]]
