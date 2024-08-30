@@ -37,7 +37,7 @@
 - [ ] clean up mixed data flags
 - [ ] Update printCutFlow to compare cutflows
 - [ ] Convert c++ trigger code to python
-- [ ] Sign tonys paper
+- [x] Sign tonys paper
 
 
 # Log
