@@ -36,8 +36,8 @@
 - [ ] Update skimmer CI: Compare cutflow during skim vs later processing vs known values
 - [ ] clean up mixed data flags
 - [ ] Update printCutFlow to compare cutflows
-- [ ] 
-- [ ] 
+- [ ] Convert c++ trigger code to python
+- [ ] Sign tonys paper
 
 
 # Log
@@ -73,5 +73,7 @@ Some work on JetDeClustering slides
 # Stamps Kick off
 
 [[CMU 4b Chat 30 August 2024]]
+
+[[CMU Round Table 30 August 2024]]
 
 
