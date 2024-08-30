@@ -62,7 +62,7 @@ M&T to school.
 - Running all years without max_chunks
 - Explains why I wasn't seeing all the expected 93 subjobs !
 - All good now!  
-- Cleaning up!
+- Cleaning up! .. Need to update systematics cutflow test and analysis-cutflow-job
 
 [[ProgressReport 30 August 2024]]
 
