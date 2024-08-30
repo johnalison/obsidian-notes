@@ -3,21 +3,21 @@
 |     |                 |     |
 | --- | --------------- | --- |
 | 9   | Progress Report |     |
-|     |                 |     |
-| 10  |                 |     |
-|     |                 |     |
-| 11  |                 |     |
-|     |                 |     |
+|     | Progress Report |     |
+| 10  | JetDeclustering |     |
+|     | JetDeclustering |     |
+| 11  | JetDeclustering |     |
+|     | JetDeclustering |     |
 | 12  | HEP Lunch       |     |
 |     | HEP Lunch       |     |
 | 1   | HEP Lunch       |     |
 |     | Stamps Kickoff  |     |
 | 2   | CMS H->4b       |     |
-|     |                 |     |
+|     | JetDeclustering |     |
 | 3   | CMU CMS         |     |
 |     | CMU CMS         |     |
-| 4   |                 |     |
-|     |                 |     |
+| 4   | Slides          |     |
+|     | Slides          |     |
 
 **W:**
 **DW:**
@@ -56,6 +56,13 @@ M&T to school.
      cutFlowFourTag:
        all: 487725.0
 ```
-- Test if error from picosize = 10 x chunksize (running with both **100000**)
+- Test if error from picosize = 10 x chunksize (running with both **100000**) **87m59.704s**
+	.. See the same issue
+- Now running without max_chunks = 5
 
 [[ProgressReport 30 August 2024]]
+
+Sent Eva contact an email
+
+Some work on JetDeClustering slides
+
