@@ -29,3 +29,4 @@ Looking into trigger_emulator in python
 
 Reading:  Some [[Conspiracy]]
 
+Back from library
