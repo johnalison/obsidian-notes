@@ -81,7 +81,16 @@ Member of local organizing committee for 2023 US CMS annual meeting, hosted at C
 - Joe / Mel / YKK
 - Jaco 
 - Nural 
-- 
+- Anadi / Zolta ? 
+- Dorigo 
+- Florencia 
+- Tao
+- Palmer
+- Loukas
+- Maurizio 
+- Patty
+- Joe I
+- BTV: Sal 
   
 
 

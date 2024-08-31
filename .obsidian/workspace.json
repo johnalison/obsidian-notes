@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/CMU 4b Chat 30 August 2024.md",
+                "file": "Input/Meetings/CMU 4b Chat 30 August 2024.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,14 +49,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/30 August 2024 Friday.md",
+                "file": "4-archive/HIG-22-011/HIG-22-011.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ff6a78678538d024",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2-areas/Personal/ToAddToCV.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d48c64db95128b57",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Input/Blogs/What’s Really Going On in Machine Learning? Some Minimal Models.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -123,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/30 August 2024 Friday.md",
+                "file": "Input/Blogs/What’s Really Going On in Machine Learning? Some Minimal Models.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/30 August 2024 Friday.md",
+                "file": "Input/Blogs/What’s Really Going On in Machine Learning? Some Minimal Models.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/30 August 2024 Friday.md"
+                "file": "Input/Blogs/What’s Really Going On in Machine Learning? Some Minimal Models.md"
               }
             }
           }
@@ -186,19 +210,27 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3c2c345e2d8839f5",
+  "active": "d48c64db95128b57",
   "lastOpenFiles": [
-    "0-inbox/CMU Round Table 30 August 2024.md",
+    "0-inbox/Things-To-Add-To-Notes.md",
+    "0-inbox/Numba.md",
+    "0-inbox/HGC TDR.md",
+    "0-inbox/Drawing 2024-08-31 10.02.16.excalidraw.md",
+    "0-inbox/Drawing 2024-07-11 14.42.16.excalidraw.md",
+    "Input/Meetings/CMU Round Table 30 August 2024.md",
+    "Input/Meetings/CMU 4b Chat 30 August 2024.md",
+    "0-inbox/AnalysesOverview.excalidraw.md",
+    "2-areas/Personal/ToAddToCV.md",
+    "2-areas/Physics/Derivation of M SV Corrected.md",
+    "4-archive/HIG-22-011/HIG-22-011.md",
+    "1-projects/HGC/HGC Projects.md",
     "Journal/30 August 2024 Friday.md",
-    "0-inbox/CMU 4b Chat 30 August 2024.md",
     "1-projects/Mixed2.0/mixed2.0.md",
     "0-inbox/Speech for Scotts going away party.md",
     "Output/Scotts Gratitude Card.md",
-    "0-inbox/What’s Really Going On in Machine Learning? Some Minimal Models.md",
-    "0-inbox/Things-To-Add-To-Notes.md",
+    "Input/Blogs/What’s Really Going On in Machine Learning? Some Minimal Models.md",
     "1-projects/Teaching/Neutron Activation.md",
     "Input/Meetings/HGCAL Rentrée General Meeting August 2024.md",
-    "0-inbox/HGC TDR.md",
     "1-projects/Teaching/Electron Spin Resonance.md",
     "1-projects/Teaching/MPL.md",
     "1-projects/Teaching/Optical pumping.md",
@@ -206,15 +238,7 @@
     "Input/Meetings/Chat w Wes 27 August 2024.md",
     "Input/Meetings/Chat w Sindhu 26 August 2024.md",
     "Input/Meetings/Chat w Aniket 26 August 2024.md",
-    "Input/Meetings/bbWW Meeting 29 August 2024.md",
-    "0-inbox/AnalysesOverview.excalidraw.md",
-    "Output/ProgressReports/ProgressReport 30 August 2024.md",
     "Output/ProgressReports",
-    "Journal/August 2024.md",
-    "Journal/29 August 2024 Thursday.md",
-    "Journal/28 August 2024 Wednesday.md",
-    "Journal/27 August 2024 Tuesday.md",
-    "Journal/26 August 2024 Monday.md",
     "attachments/Pasted image 20240826220009.png",
     "attachments/Pasted image 20240826215955.png",
     "Journal/2022/#December 2022.md#",
