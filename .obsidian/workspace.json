@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/31 August 2024 Saturday.md",
+                "file": "0-inbox/Migrate Trigger Emulator.md",
                 "mode": "source",
                 "source": false
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/31 August 2024 Saturday.md",
+                "file": "0-inbox/Migrate Trigger Emulator.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/31 August 2024 Saturday.md",
+                "file": "0-inbox/Migrate Trigger Emulator.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/31 August 2024 Saturday.md"
+                "file": "0-inbox/Migrate Trigger Emulator.md"
               }
             }
           }
@@ -188,12 +188,12 @@
   },
   "active": "7a81fd3c86360a93",
   "lastOpenFiles": [
+    "Journal/31 August 2024 Saturday.md",
     "0-inbox/Migrate Trigger Emulator.md",
     "0-inbox/Speech for Scotts going away party.md",
     "4-archive/HIG-22-011/HIG-22-011.md",
     "2-areas/Personal/ToAddToCV.md",
     "Input/Blogs/What’s Really Going On in Machine Learning? Some Minimal Models.md",
-    "Journal/31 August 2024 Saturday.md",
     "0-inbox/Untitled.md",
     "0-inbox/Things-To-Add-To-Notes.md",
     "0-inbox/Numba.md",

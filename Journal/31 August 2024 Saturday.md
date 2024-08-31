@@ -22,6 +22,7 @@ Looking into trigger_emulator in python
 - Got minimal examples working
 - made convert script to convert ROOT to yaml
 - Starting to config 2018 jet triggers
+- Basically finished the Emulator Tool!!!!
 
 
 # To Library
