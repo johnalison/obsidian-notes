@@ -18,6 +18,8 @@
 - [x] CPR
 - [ ] Check out Ideate
 - [ ] Cryonics
+- [ ] Strange jet tagging
+- [x] h→cc + J/psi / bb + Y / ss + φ. (Can also do Z)
 - [x] How to digitize BuJo
 
 

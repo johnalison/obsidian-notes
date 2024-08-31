@@ -5,5 +5,7 @@
   "emacs-text-editor",
   "kill-and-yank",
   "obsidian-excalidraw-plugin",
-  "obsidian-hotkeys-for-specific-files"
+  "obsidian-hotkeys-for-specific-files",
+  "obsidian-paste-image-rename",
+  "remember-cursor-position"
 ]

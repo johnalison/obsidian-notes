@@ -68,8 +68,10 @@ effective self-improvement critical
 
 
 
-# Respond, don't React
-
+# Respond, don't React (Employ Stoic Test Strategy)
+[[Let anger go]]
+[[Stoic Test Strategy]]
+[[Value of Unconscious Emotions]]
 
 [[StoicTestChallenge]]
 [[Dealing-With-Setbacks]]
@@ -80,26 +82,5 @@ effective self-improvement critical
 # [[Happiness ]]
 
 
-[[Purpose-of-Philosophy]]
-[[Epicurean-four-part-cure]]
-[[Want-what-you-have]]
-[[Dont-need-a-reason-to-be-happy]]
-
-[[Be-Happy-Cannot-Become-Happy]]
-[[Happiness-is-about-thinking]]
-
-
-[[Dont-Chase-external-approval]]
-[[Be-Happy-with-right-now-all-there-is]]
-
-[[Well-being-based-on-your-actions]]
-
-[[Happiness-about-expectations]]
-[[Happiness-independent-of-success]]
-
-[[Metric-of-success]]
-
-[[Nothing-is-almost-like-having-it-all]]
-[[Be-Rich-by-Wanting-Less]]
 
 202407182008

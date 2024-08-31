@@ -1,7 +1,7 @@
 
 
 **Week 1**
-- Intro
+- [x] Intro
 - Classical Physics
 - Coordinate Transformations
 - Need for change

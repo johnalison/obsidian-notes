@@ -29,13 +29,13 @@
 
 
 # To Do
-- [ ] Read W/Z (schedule meeting)
-- [ ] write up S/sqrt(B) argument
-- [ ] CAM Training
-- [ ] Jet declustering
+- [x] Read W/Z (schedule meeting)
+- [> ] write up S/sqrt(B) argument
+- [> ] CAM Training
+- [> ] Jet declustering
 	- [x] Correct additional jet treatment
-	- [ ] Update slides
-	- [ ] ΔR fix ?
+	- [> ] Update slides
+	- [ ] ~~ΔR fix ?
 - [ ] 
 
 
@@ -77,7 +77,7 @@ more mixed
 - 18' at Tmax = 115
 
 
-Long chat with sindhu about her getting started on X->hh->4b
+Long chat with Sindhu about her getting started on X->hh->4b
 
 To cyert to get car from steph
 

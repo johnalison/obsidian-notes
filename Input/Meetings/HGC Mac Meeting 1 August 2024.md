@@ -42,6 +42,7 @@
 
 ## Links: 
 [[HGC]]
+[[HGC MAC Meeting 25 July 2024]]
 
 
 202408011100

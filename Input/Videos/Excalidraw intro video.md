@@ -6,6 +6,8 @@ Good tips on embedded links
 
 Lots more I didnt really dive into ! 
 Excalidraw seems like a great and powerful tool!
+
+
 ## Links: 
 
 [[obsidian]]
