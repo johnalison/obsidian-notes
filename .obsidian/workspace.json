@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-projects/Mixed2.0/mixed2.0.md",
+                "file": "Journal/31 August 2024 Saturday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-projects/Mixed2.0/mixed2.0.md",
+                "file": "Journal/31 August 2024 Saturday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-projects/Mixed2.0/mixed2.0.md"
+                "file": "Journal/31 August 2024 Saturday.md"
               }
             }
           }
@@ -160,8 +161,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cb55a85a1fbaa174",
+  "active": "5384b28610f78646",
   "lastOpenFiles": [
+    "1-projects/Mixed2.0/mixed2.0.md",
     "Journal/2021/December 2021.md",
     "Journal/31 August 2024 Saturday.md",
     "0-inbox/Migrate Trigger Emulator.md",
@@ -197,7 +199,6 @@
     "Journal/24 August 2024 Saturday.md",
     "Journal/23 August 2024 Friday.md",
     "Journal/22 August 2024 Thursday.md",
-    "Journal/21 August 2024 Wednesday.md",
     "1-projects/HH4b",
     "Journal/2022",
     "Journal/2021/#December 2021.md#",
