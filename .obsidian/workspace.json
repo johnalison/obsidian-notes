@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "5384b28610f78646",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "4288a1ff838970ef",
             "type": "leaf",
             "state": {
@@ -44,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/2021/December 2021.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/2021/December 2021.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/2021/December 2021.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -173,17 +185,31 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ac9a8d4f5f0614f2",
+  "active": "5384b28610f78646",
   "lastOpenFiles": [
+    "Journal/2021/December 2021.md",
+    "conflict-files-obsidian-git.md",
+    "templates/HGC MAC Template.md",
+    "templates/CMU bbWW Template.md",
+    "Journal/9 August 2024 Friday.md",
+    "Journal/8 August 2024 Thursday.md",
+    "Journal/2022/January 2022.md",
+    "Journal/2022/February 2022.md",
+    "Journal/2022",
+    "Journal/11 August 2024 Sunday.md",
+    "Journal/10 August 2024 Saturday.md",
+    "Input/Meetings/HGC Mac Meeting 8 August 2024.md",
+    "Input/Meetings/CMU bbWW 8 August 2024.md",
+    "3-resources/computing/Turn a MacBook into an UbuntuServer.md",
+    "00-Zettelkasten/Dressed Bjets.md",
+    "0-inbox/WZ production cross section in pp collisions at 13.6 TeV.md",
     "2-areas/Personal/CryptoMoves.md",
     "Journal/2021/#December 2021.md#",
     "Journal/7 August 2024 Wednesday.md",
-    "Journal/2021/December 2021.md",
     "4-archive/Optimal Transport/OptimalTransport.md",
     "Journal/2021/November 2021.md",
     "3-resources/computing/Tmux Tips.md",
     "Input/Books/PythonTutorial.md",
-    "conflict-files-obsidian-git.md",
     "templates/Wes Template.md",
     "attachments/Pasted image 20240730120049.png",
     "attachments/Pasted image 20240730120040.png",
@@ -192,19 +218,6 @@
     "Journal/July/9 July 24 Tuesday.md",
     "Journal/July/31 July 2024 Wednesday.md",
     "Journal/July/30 July 2024 Tuesday.md",
-    "Journal/July/29 July 2024 Monday.md",
-    "Journal/July/28 July 2024 Sunday.md",
-    "Journal/July/27 July 2024 Saturday.md",
-    "Journal/July/26 July 2024 Friday.md",
-    "Journal/July/25 July 2024 Thursday.md",
-    "Journal/July/24 July 2024 Wednesday.md",
-    "Journal/July/23 July 24 Tuesday.md",
-    "Journal/July/22 July 24 Monday.md",
-    "Journal/July/21 July 24 Sunday.md",
-    "Journal/July/20 July 24 Saturday.md",
-    "Journal/July/19 July 24 Friday.md",
-    "Journal/July/18 July 24 Thursday.md",
-    "Journal/July/17 July 24 Wednesday.md",
     "Journal/July",
     "Input/Meetings/July",
     "4-archive/Optimal Transport",
@@ -220,7 +233,6 @@
     "attachments/Pasted image 20240722103340.png",
     "attachments/Pasted image 20240722103331.png",
     "attachments/Pasted image 20240722103320.png",
-    "attachments",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]

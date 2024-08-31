@@ -14,6 +14,8 @@ Getting the new mixing going
 - [x] Scale years clustering
 - [x] Scale years declustering
 	- [ ] PDFs by year ?
+- [x] use all non-b jets
+	- [x] pt/eta cuts only on the b-jets
 
 
 ## Ideas: 
@@ -25,11 +27,11 @@ Getting the new mixing going
 
 ## To Do: 
 - [ ] Check ΔRs (HARD!)
-- [ ] Compare synthetic vs nominal
+- [x] Compare synthetic vs nominal
 	- [x] 4b + 0j
 	- [x] 4b + 1j
 	- [x] 4b + 2j
-	- [ ] 4b + Xj
+	- [x] 4b + Xj
 - [x] Run jet multiplicities together / Plots separate 
 - [x] Recursive ISR removal (Needed for 4b + >1j)
 	- [x] `['bb', '(bb)(jj)'] -> with ISR cleaning ['bb', 'bb', 'jj']
@@ -41,9 +43,9 @@ Getting the new mixing going
 - [ ] ~~Write out picos with clustered jets (write CI)
 - [ ] Write out picos with the synthetic datasets jet (write CI)
 - [x] CI for code to make the clustering histograms
-- [ ] Fix the extra jet treatment (for now copy jets < 40 and add new jets)
-	- [ ] Or just do splitting for all jets > 20 GeV
-	- [ ] update recursion to only check if bjet pt > 40 GeV
+- [x] Fix the extra jet treatment (for now copy jets < 40 and add new jets)
+	- [x] Or just do splitting for all jets > 20 GeV
+	- [x] update recursion to only check if bjet pt > 40 GeV
 - [ ] [[ResamplingBug]]
 - [x] Add a dR AB > 0.4 check
 - [x] [[bj pt mismodeling]]
@@ -63,16 +65,23 @@ Getting the new mixing going
 	- [x] Only write out splittings we need
 - [x] Add back detailed splittting hists
 	- [x] option to turn them on/off
-- [ ] PDF script to only rely on trimmed histograms
+- [x] PDF script to only rely on trimmed histograms
 	- [x] separate study_splitting_fuctions from make_PDFs
-	- [ ] plot the splitting type multiplicity
-- [ ] Seeing types
+	- [x] plot the splitting type multiplicity
+- [x] Seeing types
 	- `(bj)((jj)b)` and `((jj)b)(bj)`
 - [ ] Update presentation with inclusive sample and all years
+	- [ ] [[Dressed Bjets]]
 - [ ] Compare splittings by year
 - [ ] ~~Proper Protection from missing splitting ? 
 - [x] pdflatex for dataset comparisions
 - [ ] Group rare splitting types to reduce total numbers / speed
+	- [x] Function to get splitting summary statistics
+	- [ ] Update declustering to get splitting name from jet_flavor
+	- [ ] Add test 
+- [ ] Seeing pt overflows in some of the clusterings
+- [ ] Compute fractions of dressed b splittings: 2g->bb vs g->bb + b + b
+
 
 
 
@@ -81,6 +90,7 @@ Getting the new mixing going
 - [x]  mA_vs_pT -> 100 bins
 - [x] b(bj) mB -> mB_l
 - [ ] Extend range of mB 
+- [ ] Seeing pt overflows in some of the clusterings (mB_l / mA_vl / ect)
 
 
 
@@ -102,11 +112,21 @@ Getting the new mixing going
 ## Just clustering:
 4b+2j: **28m46.523s**
 4b+ Xj (all splittings / trimmed histograms) **37m0.066s**. 
+	    2018 using all non b-jets  **46m30.667s**
 4b+Xj all years: **83m53.974s**
+             **101m24.461s** 8 Aug 2024
 
 ## Synthetic Datasets
 Inclusive in jet multiplicity (rerunning SvB) **38m1.994s**
 inclusive in jet multiplicity and all years **88m46.643s**
+
+
+Splittings PDFs:
+- 00-05-00:  All years and all jet multiplicities (old notCanJet_sel def)
+- 00-05-01:  bug fix combined jet flavor definition 
+- 00-06-00: 18 with fix all jet mutliplicites (updated nonCanJet def )
+- 00-06-01: 18 new groupings (not cleaning ISR)
+- 00-06-02: All years / new groupings 
 
 ## Links: 
 
