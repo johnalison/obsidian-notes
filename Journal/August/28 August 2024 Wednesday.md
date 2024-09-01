@@ -19,9 +19,9 @@
 | 4   | HGC meeting     |     |
 |     | HGC meeting     |     |
 
-**W:**
-**DW:**
-**OT:**
+**W:**. 5 
+**DW:** 3
+**OT:** 2
 **ex** or **~~ex~~**
 
 # The ONE thing: 

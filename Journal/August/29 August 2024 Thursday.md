@@ -29,7 +29,7 @@
 
 
 # To Do
-- [ ] Ping Eva Contact
+ [ >] Ping Eva Contact
 - [x] Think about progress reports... Calendar (early)
 [ >] CAM Training
 [ >] Read HGC TDR

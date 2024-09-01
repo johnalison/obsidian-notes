@@ -84,5 +84,5 @@ Home with M&T, barely missed the rain.
 
 Adding synthetic data CI
 
-[Second Barin tour on MacOS](https://www.youtube.com/@mischavandenburg)
-- 
+[Second Brain tour on MacOS](https://www.youtube.com/@mischavandenburg)
+

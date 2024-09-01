@@ -1,9 +1,5 @@
 
-# To Do
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
+
 
 
 # Log
@@ -38,3 +34,6 @@ Back from library
 [[January 2023]]
 
 More Trigger Emulator ... see above
+
+More [[Conspiracy]]
+

@@ -3,11 +3,11 @@
 - [x] Steph and M away Aug 31 - 1
 
 # September
-- [ ] 2nd Labor Day, no classes
-- [ ] 4th, Hbb JetDeClustereing talk
-- [ ] 10th Faculty reception 4:30
-* [ ]  14th Erics Birthday Saturday,  1:30pm.
-- [ ] 24th Classes over for Prof Alison
+- [x] 2nd Labor Day, no classes
+- [x] 4th, Hbb JetDeClustereing talk
+- [x] 10th Faculty reception 4:30
+* [x]  14th Erics Birthday Saturday,  1:30pm.
+- [x] 24th Classes over for Prof Alison
 # October
 - [ ] Steph away 7- 10 
 - [ ] 16 October CAPs visit

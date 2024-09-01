@@ -12,6 +12,7 @@
 # Monthly
 - move meetings into monthly folders
 - move journal into monthly folders
+- Migrate future log for current month
 
 # Every 6 months
 - Migrate future log
