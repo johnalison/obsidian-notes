@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/1 September 2024 Sunday.md",
+                "file": "0-inbox/BlackSwan.md",
                 "mode": "source",
                 "source": false
               }
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/1 September 2024 Sunday.md",
+                "file": "0-inbox/BlackSwan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/1 September 2024 Sunday.md",
+                "file": "0-inbox/BlackSwan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/1 September 2024 Sunday.md"
+                "file": "0-inbox/BlackSwan.md"
               }
             }
           }
@@ -176,8 +176,11 @@
   },
   "active": "04a7542dbed51356",
   "lastOpenFiles": [
-    "Journal/September 2024.md",
+    "2-areas/Philosophy/History.md",
+    "0-inbox/BlackSwan.md",
     "Journal/1 September 2024 Sunday.md",
+    "0-inbox/#BlackSwan.md#",
+    "Journal/September 2024.md",
     "Journal/BulletJournalProtocol.md",
     "1-projects/Mixed2.0/mixed2.0.md",
     "Input/Meetings/August/Osher Study Leader Training 20 Aug 2024.md",
@@ -200,11 +203,8 @@
     "Input/Meetings/August/HGC Mac Meeting 15 August 2024.md",
     "Input/Meetings/August/HGC Mac Meeting 1 August 2024.md",
     "Input/Meetings/August/FBC2 Meeting 12 August 2024.md",
-    "Input/Meetings/August/ChatwAniket 5 August 2024.md",
-    "Input/Meetings/August/Chat with Wes 6 August 2024.md",
     "Input/Meetings/August",
     "Journal/August",
-    "0-inbox/#BlackSwan.md#",
     "Journal/2023/#January 2023.md#",
     "Journal/2023",
     "Output/ProgressReports",
