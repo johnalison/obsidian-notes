@@ -16,7 +16,7 @@ Scott has set the tone.
 - Student unrest from international wars
 - of course the ... eh ... Title IX violation during the Title IX meeting !
 
-Throught all this, Junior faculty have always had a sympathetic ear with the department head. 
+Throughout all this, Junior faculty have always had a sympathetic ear with the department head. 
 And Scott has really made our ramping up easy...  in ways both big and small.
 
 # I dont think I just speak for my self when I say that we have learned a lot from Scott.

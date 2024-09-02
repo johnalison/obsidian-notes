@@ -37,14 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/September 2024.md",
+                "file": "Journal/2 September 2024 Monday.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/Speech for Scotts going away party.md",
+                "file": "Journal/2 September 2024 Monday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/Speech for Scotts going away party.md",
+                "file": "Journal/2 September 2024 Monday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/Speech for Scotts going away party.md"
+                "file": "Journal/2 September 2024 Monday.md"
               }
             }
           }
@@ -174,8 +174,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "04a7542dbed51356",
+  "active": "0564d10e647617a9",
   "lastOpenFiles": [
+    "0-inbox/Speech for Scotts going away party.md",
+    "Journal/2 September 2024 Monday.md",
+    "0-inbox/#BlackSwan.md#",
+    "Journal/September 2024.md",
     "0-inbox/Things-To-Add-To-Notes.md",
     "1-projects/Mixed2.0/Migrate Trigger Emulator.md",
     "Journal/2023/February 2023.md",
@@ -183,8 +187,6 @@
     "Journal/2023/#February 2023.md#",
     "0-inbox/BlackSwan.md",
     "2-areas/Philosophy/History.md",
-    "0-inbox/#BlackSwan.md#",
-    "Journal/September 2024.md",
     "Journal/BulletJournalProtocol.md",
     "1-projects/Mixed2.0/mixed2.0.md",
     "Input/Meetings/August/Osher Study Leader Training 20 Aug 2024.md",
@@ -201,9 +203,6 @@
     "Input/Meetings/August/SindhuChat 12 August 2024.md",
     "Input/Meetings/August/HGCManagementMeeting 27 August 2024.md",
     "Input/Meetings/August/HGCAL Rentrée General Meeting August 2024.md",
-    "Input/Meetings/August/HGC Mac Meeting 8 August 2024.md",
-    "Input/Meetings/August/HGC Mac Meeting 27 August 2024.md",
-    "Input/Meetings/August/HGC Mac Meeting 22 August 2024.md",
     "Input/Meetings/August",
     "Journal/August",
     "Journal/2023/#January 2023.md#",

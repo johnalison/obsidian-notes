@@ -65,7 +65,27 @@ Very Good!  (as expected)
   
 - Mathematicians will try to convince you that their science is useful to society by pointing out instances where it proved helpful, not those where it was a waste of time, or worse, those numerous application that inflicted a severe cost on society. 
 
-p61
+- The sources of Black Swans today have multiplied beyond measurability.
+
+- The way to avoid the ills of the narrative fallacy is to favor experimentation over storytelling 
+  [[UnitTests]]
+  
+- What matter is not how ofter you are right, but how large your cumulative errors are. And these cumulative errors depend largely on the big surprises, the big opportunities.
+
+- I know that history is going to be dominated by an improbably event, I just dont know what that event will be. 
+
+- The policies we need to make decisions on should depend far more on the range of possibile outcomes than on the expected final number.
+  The worse case is far more consequential than the forcast itself. This is particularly true if the bad scenario is not acceptable. 
+  
+- Poppers central argument is that inorder to predict historical events you need to predict technological innovation, itself fundamentally unpredictable. 
+
+  To understand the future to the point of being able to predict it, you need to incoporate elements from this future itself. 
+  If you know about the discovery you are about to make in the future, then you have already made it.
+  
+- Poincare was in such a rush that he did not bother correcting typos and grammatical errors in his texts, even after spotting them, since he found doing so a gross misuse of his time.
+
+- p175
+
 
 
 
