@@ -22,3 +22,10 @@ To park: Meditate and shoot hoops.
 
 More [[Gulag Archipelago]]
 
+Played Gin/Rummy with H 
+
+Test vectors for [[Migrate Trigger Emulator]]
+
+[[February 2023]]
+
+
