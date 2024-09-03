@@ -1,25 +1,25 @@
 # Timeblock
 
-|     |     |     |
-| --- | --- | --- |
-| 8   | MPL |     |
-|     | MPL |     |
-| 9   |     |     |
-|     | Wes |     |
-| 10  |     |     |
-|     |     |     |
-| 11  |     |     |
-|     |     |     |
-| 12  | MAC |     |
-|     | MAC |     |
-| 1   |     |     |
-|     |     |     |
-| 2   | MPL |     |
-|     | MPL |     |
-| 3   | MPL |     |
-|     | MPL |     |
-| 4   | MPL |     |
-|     | MPL |     |
+|     |         |     |
+| --- | ------- | --- |
+| 8   | MPL     |     |
+|     | MPL     |     |
+| 9   | slides  |     |
+|     | Wes     |     |
+| 10  | Chat AE |     |
+|     | slides  |     |
+| 11  |         |     |
+|     |         |     |
+| 12  | MAC     |     |
+|     | MAC     |     |
+| 1   |         |     |
+|     |         |     |
+| 2   | MPL     |     |
+|     | MPL     |     |
+| 3   | MPL     |     |
+|     | MPL     |     |
+| 4   | MPL     |     |
+|     | MPL     |     |
 
 **W:**
 **DW:**
@@ -33,7 +33,7 @@
 # To Do
 - [ ] Update the hT 
 - [ ] Update CI
-- [ ] Finish slides
+- [x] Finish slides
 - [ ] CAM Training
 - [ ] Read HGC TDR
 - [ ] Update skimmer CI: Compare cutflow during skim vs later processing vs known values
@@ -55,9 +55,15 @@ Spending more time on our weakest areas is tempting, but life mostly rewards us 
 Address weaknesses only to the point where they stop holding you back. Then concentrate effort on your strengths.  - [[BRAIN FOOD]]
 
 # [[Migrate Trigger Emulator]]
-
+- adding hT_trigger
 
 
 Idea for selected jet flag for [[mixed2.0]]
 
 [[Chat w Wes 3 September 2024]]
+
+Walk and chat with AE
+
+Finished draft of slides
+
+Some [[Migrate Trigger Emulator]]
