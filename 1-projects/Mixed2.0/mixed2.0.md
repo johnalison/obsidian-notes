@@ -55,6 +55,8 @@ Getting the new mixing going
 - [x] Add sanity check for number of sel jets
 - [ ] Propagate Btagging scores ?
 - [ ] Check to make sure that the lepton veto wont kill synthetic jets
+- [ ] Add jet type to fix selJets when declustereing 
+	- Probably better to just add flag saying if the jet is selected
 
 
 

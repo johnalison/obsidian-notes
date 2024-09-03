@@ -58,3 +58,6 @@ Address weaknesses only to the point where they stop holding you back. Then conc
 
 
 
+Idea for selected jet flag for [[mixed2.0]]
+
+[[Chat w Wes 3 September 2024]]
