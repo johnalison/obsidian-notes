@@ -80,3 +80,6 @@ Some [[Migrate Trigger Emulator]]
 Pinged Michell Waters Ad for Lab tech
 
 [[HGCManagementMeeting 3 September 2024]]
+
+# [[mixed2.0]]
+ - remaking inputs with ttbar subtraction on **cmslpc338** 
