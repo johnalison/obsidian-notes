@@ -39,7 +39,7 @@
 - [ ] Update skimmer CI: Compare cutflow during skim vs later processing vs known values
 - [ ] Update printCutFlow to compare cutflows
 - [x] Convert c++ trigger code to python
-- [ ] Ad for Jonas Tech-III
+- [x] Ad for Jonas Tech-III
 
 
 # Log
