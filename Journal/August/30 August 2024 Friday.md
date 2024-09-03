@@ -30,13 +30,13 @@
 
 # To Do
 - [x] Ping Eva Contact
-- [ ] Slides for Wednesday
-- [ ] CAM Training
-- [ ] Read HGC TDR
-- [ ] Update skimmer CI: Compare cutflow during skim vs later processing vs known values
+ [>] Slides for Wednesday
+ [> ] CAM Training
+ [>] Read HGC TDR
+ [>] Update skimmer CI: Compare cutflow during skim vs later processing vs known values
 - [x] clean up mixed data flags
-- [ ] Update printCutFlow to compare cutflows
-- [ ] Convert c++ trigger code to python
+ [>] Update printCutFlow to compare cutflows
+ [>] Convert c++ trigger code to python
 - [x] Sign tonys paper
 
 
