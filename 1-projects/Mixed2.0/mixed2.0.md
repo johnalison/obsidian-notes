@@ -10,55 +10,35 @@ Getting the new mixing going
 
 
 # To Do
-- [x] Check ΔRs (HARD!)
-- [x] Fix random numbers
-- [x] Fix jet_flavor == "b" Hacks
 - [ ] PDFs by year ?
 - [ ] Check re-clustering
 - [ ] Read [[Do graph neural networks learn traditional jet substructure?]]
 - [ ] Write out picos with the synthetic datasets jet
 	- [x] Add random number seed input
 	- [x] Add random number seed to output file name
-	- [ ] Test processor HH4b on output files
-	- [ ] Add CI
+	- [x] Test processor HH4b on output files
+	- [x] Add CI
 	- [ ] Randseed via command line
-	- [ ] Yaml errors from 
+		-Separate script that creates input files and submits jobs
+	- [ ] Yaml errors from skimming output 
 	- [ ] Script to create synthetric datasets yaml
 		- Need to merge with existing dataset script to get (at least the data info)
+	- [ ] Output picos to EOS 
 - [ ] [[ResamplingBug]]
 - [ ] [[bj pt mismodeling]]
 - [ ] [[bj splitting mismodelings]]
-- [ x] ~~[[clean splittings during clustering]], so only plot those actually used 
 - [ ] Compare splittings by year
 - [ ] What happens to pt overflows in the clustering ?
-- [x] Compute fractions of dressed b splittings: 2g->bb vs g->bb + b + b
-- [x] Template Fixes
-	- [x] Script to plot all the 1D marginals for all the splittings
-	- [x] Option for mA_vl and mB_vl
 - [ ] TTbar Subtractions/ Additions
 	- [x] Subtract ttbar from Templates
 	- [x] Subtract ttbar from Input data being clustered
 	- [ ] Then add back non declustered TTbar
 	- [x] Or compare to ttbar subtracted data ? 
-- [x] Add top candidate making to declustered data
-- [x] How are there any b-jets with m > 50 GeV ? (given the template cut off)
-	==> A: Form the (bb) + b + b + X  events
+- [ ] Skimmer to make sub-sampled TTbar datasets
 - [ ] run clustering on ttbar MC ?
-- [x] Add hists of ptt / (ptt + pmj)
-	- [x] try this as DvT
-- [x] Add hT hist 
-- [x] Recalc HT
-- [x] Random number for BTagging (sorting fucking up top reconstruction ?)
-	 A: Yes ! it was.  now fixed
-- [x] Is there a problem with jet phis ?  Why discontinuous ?
-	- THink its Ok, added histograms with larger range
-- [x] Add sanity check for number of sel jets
 - [ ] Propagate Btagging scores ?
+- [ ] Propagate selJet flag.. then check to make sure pt>40 ect.
 - [ ] Check to make sure that the lepton veto wont kill synthetic jets
-- [ ] Add jet type to fix selJets when declustereing 
-	- Probably better to just add flag saying if the jet is selected
-
-
 
 
 # Ideas: 
@@ -182,6 +162,29 @@ Getting the new mixing going
 	- [x] Update declustering to get splitting name from jet_flavor
 - [x] Add other jets to presentation
 - [x] Regroup splittings (<10)
+
+- [x] Check ΔRs (HARD!)
+- [x] Fix random numbers
+- [x] Fix jet_flavor == "b" Hacks
+- [ x] ~~[[clean splittings during clustering]], so only plot those actually used 
+- [x] Compute fractions of dressed b splittings: 2g->bb vs g->bb + b + b
+- [x] Template Fixes
+	- [x] Script to plot all the 1D marginals for all the splittings
+	- [x] Option for mA_vl and mB_vl
+- [x] Add top candidate making to declustered data
+- [x] How are there any b-jets with m > 50 GeV ? (given the template cut off)
+	==> A: Form the (bb) + b + b + X  events
+- [x] Add hists of ptt / (ptt + pmj)
+	- [x] try this as DvT
+- [x] Add hT hist 
+- [x] Recalc HT
+- [x] Random number for BTagging (sorting fucking up top reconstruction ?)
+	 A: Yes ! it was.  now fixed
+- [x] Is there a problem with jet phis ?  Why discontinuous ?
+	- THink its Ok, added histograms with larger range
+- [x] Add sanity check for number of sel jets
+
+
 
 
 ## Template Fixes
