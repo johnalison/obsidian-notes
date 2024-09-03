@@ -1,7 +1,8 @@
 # To Do 
 - [x]  basic tests
 - [x] Script to convert ROOT files to Yaml
-- [ ] Test vectors from MC, compare weights in picos to py weights
+- [x] Test vectors from MC, compare weights in picos to py weights
+- [ ] Schedule CI
 
 
 ## Follow-ups

@@ -1,25 +1,25 @@
 # Timeblock
 
-|     |         |     |
-| --- | ------- | --- |
-| 8   | MPL     |     |
-|     | MPL     |     |
-| 9   | slides  |     |
-|     | Wes     |     |
-| 10  | Chat AE |     |
-|     | slides  |     |
-| 11  |         |     |
-|     |         |     |
-| 12  | MAC     |     |
-|     | MAC     |     |
-| 1   |         |     |
-|     |         |     |
-| 2   | MPL     |     |
-|     | MPL     |     |
-| 3   | MPL     |     |
-|     | MPL     |     |
-| 4   | MPL     |     |
-|     | MPL     |     |
+|     |                              |     |
+| --- | ---------------------------- | --- |
+| 8   | MPL                          |     |
+|     | MPL                          |     |
+| 9   | slides                       |     |
+|     | Wes                          |     |
+| 10  | Chat AE                      |     |
+|     | slides                       |     |
+| 11  | [[Migrate Trigger Emulator]] |     |
+|     | [[Migrate Trigger Emulator]] |     |
+| 12  | MAC                          |     |
+|     | MAC                          |     |
+| 1   |                              |     |
+|     |                              |     |
+| 2   | MPL                          |     |
+|     | MPL                          |     |
+| 3   | MPL                          |     |
+|     | MPL                          |     |
+| 4   | MPL                          |     |
+|     | MPL                          |     |
 
 **W:**
 **DW:**
@@ -31,14 +31,15 @@
 
 
 # To Do
-- [ ] Update the hT 
-- [ ] Update CI
+- [x] Update the hT 
+- [x] Update CI
 - [x] Finish slides
 - [ ] CAM Training
 - [ ] Read HGC TDR
 - [ ] Update skimmer CI: Compare cutflow during skim vs later processing vs known values
 - [ ] Update printCutFlow to compare cutflows
 - [ ] Convert c++ trigger code to python
+- [ ] Ad for Jonas Tech-III
 
 
 # Log
@@ -56,7 +57,9 @@ Address weaknesses only to the point where they stop holding you back. Then conc
 
 # [[Migrate Trigger Emulator]]
 - adding hT_trigger
-
+- Add CI
+- 1st draft finished! ... pushed
+- Run CI 
 
 Idea for selected jet flag for [[mixed2.0]]
 
@@ -67,3 +70,5 @@ Walk and chat with AE
 Finished draft of slides
 
 Some [[Migrate Trigger Emulator]]
+
+[[HGC Mac Meeting 3 September 2024]]
