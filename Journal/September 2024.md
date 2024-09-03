@@ -1,32 +1,32 @@
-|      |                     |     |
-| ---- | ------------------- | --- |
-| 1  S |                     |     |
-| 2  M | (Labor Day)         |     |
-| 3  T | (fast 1)            |     |
-| 4  W | (fast 2)(Hbb Talk)  |     |
-| 5  H | (fast 3)            |     |
-| 6  F | (fast 4)            |     |
-| 7  S |                     |     |
-| 8  S |                     |     |
-| 9  M |                     |     |
-| 10 T | (Faculty Reception) |     |
-| 11 W |                     |     |
-| 12 H |                     |     |
-| 13 F |                     |     |
-| 14 S | (Erics B-day)       |     |
-| 15 S |                     |     |
-| 16 M |                     |     |
-| 17 T |                     |     |
-| 18 W |                     |     |
-| 19 H |                     |     |
-| 20 F |                     |     |
-| 21 S |                     |     |
-| 22 S |                     |     |
-| 23 M |                     |     |
-| 24 T | (MPL ends?)         |     |
-| 25 W |                     |     |
-| 26 H |                     |     |
-| 27 F |                     |     |
-| 28 S |                     |     |
-| 29 S |                     |     |
-| 30 M |                     |     |
+|      |                                                                            |     |
+| ---- | -------------------------------------------------------------------------- | --- |
+| 1  S | Reading / Write up [[BlackSwan]] / solo w/H&T/ **Kettlebells** / Gin Rummy |     |
+| 2  M | (Labor Day) Reading / **Hoops/SR** / Wightman park / **Parents**           |     |
+| 3  T | (fast 1)                                                                   |     |
+| 4  W | (fast 2)(Hbb Talk)                                                         |     |
+| 5  H | (fast 3)(Scotts Party)                                                     |     |
+| 6  F | (fast 4)                                                                   |     |
+| 7  S |                                                                            |     |
+| 8  S |                                                                            |     |
+| 9  M |                                                                            |     |
+| 10 T | (Faculty Reception)                                                        |     |
+| 11 W |                                                                            |     |
+| 12 H |                                                                            |     |
+| 13 F |                                                                            |     |
+| 14 S | (Erics B-day)                                                              |     |
+| 15 S |                                                                            |     |
+| 16 M |                                                                            |     |
+| 17 T |                                                                            |     |
+| 18 W |                                                                            |     |
+| 19 H |                                                                            |     |
+| 20 F |                                                                            |     |
+| 21 S |                                                                            |     |
+| 22 S |                                                                            |     |
+| 23 M |                                                                            |     |
+| 24 T | (MPL ends?)                                                                |     |
+| 25 W |                                                                            |     |
+| 26 H |                                                                            |     |
+| 27 F |                                                                            |     |
+| 28 S |                                                                            |     |
+| 29 S |                                                                            |     |
+| 30 M |                                                                            |     |

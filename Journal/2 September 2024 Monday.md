@@ -23,3 +23,8 @@ Writting up some [[BlackSwan]]
 
 VHH comments back to ARC
 
+# To Parents 
+- Gave me 3500
+
+Home
+
