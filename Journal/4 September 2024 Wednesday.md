@@ -48,7 +48,10 @@ M&T to school (Chatted with parent in ECE)
 # [[mixed2.0]]
 - cleaning up code 
 - Clean dumpTestVectors functions
-- 
+- Now propogatting the btagging scores !! (need to validate)
+- Testing on **cmslpc307** ... crashes with  **RuntimeError: FIXME: handle UnionArray with more than** **127** **contents**
+	- Might have to use strings instead of tuples...
+
 
 # Gave jetDeClustering talk
 https://indico.cern.ch/event/1451193/#b-579849-higgs-to-bb
