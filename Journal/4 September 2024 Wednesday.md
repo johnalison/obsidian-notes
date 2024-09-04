@@ -46,3 +46,7 @@ Up at 7:20
 M&T to school (Chatted with parent in ECE)
 
 # [[mixed2.0]]
+
+# Gave jetDeClustering talk
+https://indico.cern.ch/event/1451193/#b-579849-higgs-to-bb
+- Need to press "c" to get cursor to show up when giving talk
