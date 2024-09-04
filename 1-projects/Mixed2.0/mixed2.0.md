@@ -2,12 +2,9 @@ Getting the new mixing going
 
 # Documentation: 
 [1st presentation in H→bb](https://indico.cern.ch/event/1429006/contributions/6030942/attachments/2889527/5065145/SyntheticDataSetsFromJetSplitting.pdf)
-   Presents the overall idea and the 4b + 0j in 2018 data
-   
-
-# Plan
-- [ ] PDFs by year ?
-
+- Presents the overall idea and the 4b + 0j in 2018 data
+[2nd presentation in H→bb](https://indico.cern.ch/event/1451193/#b-579849-higgs-to-bb)
+- Extension to full Run2 dataset
 
 # To Do
 - [ ] PDFs by year ?
