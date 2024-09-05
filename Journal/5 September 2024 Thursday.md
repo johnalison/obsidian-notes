@@ -45,3 +45,5 @@ M&T to school
 
 # [[mixed2.0]]
 - Try dictionary the do floats
+
+Chat with Diana re:Lab tech
