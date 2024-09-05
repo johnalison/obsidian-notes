@@ -48,7 +48,9 @@ M&T to school
 - Might be able to do arrays ?  ... Nope
 - Going to strings
 - Implemented the propogation of btagging scores via strings
-- Testing on **346**
+- Testing on **346**... ran**120m3.708s**
+- Running analyzer
+- TTbar subtraction for nominal
 
 Chat with Diana re:Lab tech
 
@@ -59,4 +61,8 @@ Lots of mixed
 # Faculty Lunch
 - Pizza from driftwood
 - decent chat
+
+More mixed
+
+# MPL
 
