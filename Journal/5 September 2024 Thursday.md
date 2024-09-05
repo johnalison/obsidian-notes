@@ -51,6 +51,7 @@ M&T to school
 - Testing on **346**... ran**120m3.708s**
 - Running analyzer
 - TTbar subtraction for nominal
+- bTag weights look good... but dont make much of a difference.
 
 Chat with Diana re:Lab tech
 
@@ -65,4 +66,6 @@ Lots of mixed
 More mixed
 
 # MPL
+* Seeing muon decays
+* Mossbauer having problems 
 
