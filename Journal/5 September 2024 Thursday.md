@@ -46,6 +46,12 @@ M&T to school
 # [[mixed2.0]]
 - Try dictionary the do floats.. fails.
 - Might be able to do arrays ?  ... Nope
-- Going to floats
+- Going to strings
+- Implemented the propogation of btagging scores via strings
+- Testing on **346**
 
 Chat with Diana re:Lab tech
+
+Lots of mixed
+
+[[CMUbbWW 5 September 2024]]

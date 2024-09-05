@@ -84,7 +84,7 @@ Chat IRA:
 
 more mixing
 
-[[bbWW Meeting 29 August 2024]]
+[[CMUbbWW Meeting 29 August 2024]]
 
 # Gym / Steamroom
 - farmers carry / cling / stepups / core

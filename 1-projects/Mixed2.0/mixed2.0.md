@@ -34,6 +34,7 @@ Getting the new mixing going
 - [ ] Skimmer to make sub-sampled TTbar datasets
 - [ ] run clustering on ttbar MC ?
 - [x] Propagate Btagging scores ?
+	- [x] Migrate to strings
 - [ ] Propagate selJet flag.. then check to make sure pt>40 ect.
 - [ ] Check to make sure that the lepton veto wont kill synthetic jets
 
