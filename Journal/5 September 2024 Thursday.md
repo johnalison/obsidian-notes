@@ -44,6 +44,8 @@ Up at 7
 M&T to school
 
 # [[mixed2.0]]
-- Try dictionary the do floats
+- Try dictionary the do floats.. fails.
+- Might be able to do arrays ?  ... Nope
+- Going to floats
 
 Chat with Diana re:Lab tech
