@@ -2,7 +2,7 @@
 - [x]  basic tests
 - [x] Script to convert ROOT files to Yaml
 - [x] Test vectors from MC, compare weights in picos to py weights
-- [ ] Schedule CI
+- [x] Schedule CI
 
 
 ## Follow-ups

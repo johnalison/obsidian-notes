@@ -2,12 +2,12 @@
 
 |     | setup           |     |
 | --- | --------------- | --- |
-| 9   |                 |     |
-|     |                 |     |
+| 9   | setup           |     |
+|     | JetDeclustering |     |
 | 10  | Hbb Talk        |     |
 |     | Hbb Talk        |     |
-| 11  |                 |     |
-|     |                 |     |
+| 11  | JetDeclustering |     |
+|     | JetDeclustering |     |
 | 12  | Hoops           |     |
 |     | Hoops           |     |
 | 1   | Hoops           |     |
@@ -19,10 +19,10 @@
 | 4   | JetDeclustering |     |
 |     | JetDeclustering |     |
 
-**W:**
-**DW:**
-**OT:**
-**ex** or **~~ex~~**
+**W:**. 6
+**DW:**. 4
+**OT:** 5
+**ex** 
 
 # The ONE thing: 
 - [ ]  JetDeclustering
@@ -30,13 +30,12 @@
 
 # To Do
 
-- [ ] CAM Training
-- [ ] Read HGC TDR
-- [ ] Update skimmer CI: Compare cutflow during skim vs later processing vs known values
-- [ ] Update printCutFlow to compare cutflows
-- [ ] Add year option to plotting
-- [ ] 
-- [ ] 
+[>] CAM Training
+[>] Read HGC TDR
+[>] Update skimmer CI: Compare cutflow during skim vs later processing vs known values
+[>] Update printCutFlow to compare cutflows
+[>] Add year option to plotting
+
 
 
 # Log
@@ -51,7 +50,7 @@ M&T to school (Chatted with parent in ECE)
 - Now propogatting the btagging scores !! (need to validate)
 - Testing on **cmslpc307** ... crashes with  **RuntimeError: FIXME: handle UnionArray with more than** **127** **contents**
 	- Might have to use strings instead of tuples...
-
+- Have test script that reproduces the problem...sent mail to CL/AE
 
 # Gave jetDeClustering talk
 https://indico.cern.ch/event/1451193/#b-579849-higgs-to-bb
@@ -64,3 +63,10 @@ https://indico.cern.ch/event/1451193/#b-579849-higgs-to-bb
 
 More mixed
 
+Home with M&T
+
+Reading: [[Conspiracy]]
+
+Chat Olivito: 
+- November might be a go
+- Recommends the corner (dark)
