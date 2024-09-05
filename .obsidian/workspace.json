@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/5 September 2024 Thursday.md",
+                "file": "0-inbox/Speech for Scotts going away party.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/5 September 2024 Thursday.md",
+                "file": "0-inbox/Speech for Scotts going away party.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/5 September 2024 Thursday.md"
+                "file": "0-inbox/Speech for Scotts going away party.md"
               }
             }
           }
@@ -198,15 +198,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0564d10e647617a9",
+  "active": "04097f7590150c2a",
   "lastOpenFiles": [
-    "0-inbox/CMUbbWW 5 September 2024.md",
     "Journal/5 September 2024 Thursday.md",
+    "0-inbox/Speech for Scotts going away party.md",
+    "0-inbox/CMUbbWW 5 September 2024.md",
     "Input/Meetings/August/CMUbbWW Meeting 29 August 2024.md",
     "Journal/August/29 August 2024 Thursday.md",
     "Journal/4 September 2024 Wednesday.md",
     "1-projects/Mixed2.0/mixed2.0.md",
-    "0-inbox/Speech for Scotts going away party.md",
     "Journal/3 September 2024 Tuesday.md",
     "1-projects/Mixed2.0/Migrate Trigger Emulator.md",
     "Journal/2 September 2024 Monday.md",

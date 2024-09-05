@@ -67,5 +67,9 @@ More mixed
 
 # MPL
 * Seeing muon decays
-* Mossbauer having problems 
+* Mossbauer having problems ... got it going!
+* Left at 4pm to setup for scotts party
+
+Brought over the booze for Scotts party
+
 
