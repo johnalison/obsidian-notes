@@ -55,3 +55,8 @@ Chat with Diana re:Lab tech
 Lots of mixed
 
 [[CMUbbWW 5 September 2024]]
+
+# Faculty Lunch
+- Pizza from driftwood
+- decent chat
+

@@ -1,3 +1,7 @@
+Aniket: getting the new processor going
+
+AGE:  discussion of working with ETH 
+
 
 
 
