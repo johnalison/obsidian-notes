@@ -6,7 +6,7 @@ Example with 4bs + 1 non-bjets
 ![[Jet Declustering ISR and FSR.png]]
 
 ## Links: 
-[[Jet DeClustering]]
+[[Jet DeClustering Algorithm]]
 [[Hemisphere-mixing-and-ISR-FSR]]
 
 

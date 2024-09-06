@@ -8,7 +8,7 @@ Jet (de)clustering is similar in spirit to hemisphere mixing, but some potential
 
 
 ## Links: 
-[[Jet DeClustering]]
+[[Jet DeClustering Algorithm]]
 
 
 

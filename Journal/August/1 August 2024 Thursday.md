@@ -45,7 +45,7 @@ H to school
 Sorting Journal Folder
 Sorting Meetings Folder
 
-[[mixed2.0]]
+[[Jet DeClustering]]
 
 Lots of debugging!  
 - simplified ISR definition (anything splitting that doesnt have bs on both sides is ISR)
@@ -60,7 +60,7 @@ Lots of debugging!
 - core / farmers carry 80s / cling / step-ups
 - 10min at Tmax = 124
 
-More [[mixed2.0]]
+More [[Jet DeClustering]]
 - fix children_jet_flavors to deal with (XX)Y combinations
 - Added unittest
 

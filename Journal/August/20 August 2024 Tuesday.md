@@ -46,7 +46,7 @@ M & T to school
 
 setup
 
-# [[mixed2.0]]
+# [[Jet DeClustering]]
 - Adding ttbar subtraction ... troubles adding a cut to selev
 	- Figured it out, a la binding in processor_HH4b
 	- Need to read in old SvB... do ttbar veto... DONE

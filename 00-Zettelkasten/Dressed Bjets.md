@@ -7,7 +7,7 @@ The dressing preserves both multiplicity and clustering history.
 
 
 ## Links: 
-[[Jet DeClustering]]
+[[Jet DeClustering Algorithm]]
 
 
 202408081408

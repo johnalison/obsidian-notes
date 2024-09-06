@@ -59,7 +59,7 @@ Getting emacs going!
 
 # Working 4b 
 - Will test the vs pt pdfs
-- [[mixed2.0]]
+- [[Jet DeClustering]]
 
 
 [[HGC MAC Meeting 25 July 2024]]

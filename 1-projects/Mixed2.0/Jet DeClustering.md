@@ -1,4 +1,5 @@
 Getting the new mixing going
+[[Jet DeClustering Algorithm|Jet DeClustering Algorithm]]
 
 # Documentation: 
 [1st presentation in H→bb](https://indico.cern.ch/event/1429006/contributions/6030942/attachments/2889527/5065145/SyntheticDataSetsFromJetSplitting.pdf)
@@ -196,7 +197,7 @@ Getting the new mixing going
 [[CMS]]
 [[physics]]
 [[ABCDMethod]]
-[[Jet DeClustering]]
+[[Jet DeClustering Algorithm]]
 
 
 202407091049

@@ -47,7 +47,7 @@ M and T to School
 
 How to [[Turn a MacBook into an UbuntuServer]]
 
-# [[mixed2.0]]
+# [[Jet DeClustering]]
 - Debugging `(bj)((jj)b)` splittings
 	- ERROR in combine particle logic ... FIXED.
 - Speed up tests by loading the ymal in init

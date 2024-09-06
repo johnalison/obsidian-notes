@@ -24,7 +24,7 @@ Index:
 - [[Problems-with-hemisphere-mixing]]
 - [[Hemisphere-mixing]]
 - [[Hemisphere-mixing-and-ISR-FSR]]
-- [[Jet DeClustering]]
+- [[Jet DeClustering Algorithm]]
 
 
 

@@ -39,7 +39,7 @@ Up at 8
 
 Wrote up [[March 2022]]
 
-# [[mixed2.0]]
+# [[Jet DeClustering]]
 - Declustering all on **cmslpc308** finished in **109m23.402s**
 - Iterating on Slides 
 - Idea for [[Recursive Splitting Types]]

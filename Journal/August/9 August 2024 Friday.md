@@ -47,7 +47,7 @@ Meditated in the morning
 
 M 7 T to school (Last day!)
 
-# [[mixed2.0]]
+# [[Jet DeClustering]]
 - Fixed the extra jet treatment for clustering.
 - Re:clustering Run2 on **cmslpc328** ... fails
 	- Rerunning 18 only ... works **46m30.667s**

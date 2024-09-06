@@ -45,7 +45,7 @@ M & T to school
 # Poll for New HGC Meeting Time
 [http://whenisgood.net/ss4cfpn](https://whenisgood.net/ss4cfpn)
 
-# [[mixed2.0]]
+# [[Jet DeClustering]]
 - Back to trying to fix ΔR...
 - Found a way to mask and write the jets
 - Starting to impement consistent random numbers

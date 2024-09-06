@@ -38,7 +38,7 @@
 
 Up at 6:30 
 
-# [[mixed2.0]]
+# [[Jet DeClustering]]
 - Debugging making of synthetic datasets
 	- Testing on **cmslpc306**
 - Got draft working (problem was jet_flavor as string)

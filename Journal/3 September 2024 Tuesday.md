@@ -58,7 +58,7 @@ To School
 - 1st draft finished! ... pushed
 - Run CI 
 
-Idea for selected jet flag for [[mixed2.0]]
+Idea for selected jet flag for [[Jet DeClustering]]
 
 [[Chat w Wes 3 September 2024]]
 
@@ -78,7 +78,7 @@ Pinged Michell Waters Ad for Lab tech
 
 [[HGCManagementMeeting 3 September 2024]]
 
-# [[mixed2.0]]
+# [[Jet DeClustering]]
  - remaking inputs with ttbar subtraction on **cmslpc338** 
 
 Home ... Got H

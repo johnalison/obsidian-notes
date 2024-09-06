@@ -44,7 +44,7 @@ Up at 7:20
 
 M&T to school (Chatted with parent in ECE)
 
-# [[mixed2.0]]
+# [[Jet DeClustering]]
 - cleaning up code 
 - Clean dumpTestVectors functions
 - Now propogatting the btagging scores !! (need to validate)
@@ -67,6 +67,6 @@ Home with M&T
 
 Reading: [[Conspiracy]]
 
-Chat Olivito: 
+# Chat Olivito: 
 - November might be a go
 - Recommends the corner (dark)

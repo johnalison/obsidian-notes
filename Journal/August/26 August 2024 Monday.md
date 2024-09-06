@@ -48,7 +48,7 @@ M&T to school
 
 [[Zeeman Effect]]
 
-# [[mixed2.0]]
+# [[Jet DeClustering]]
 - Starting to look into making synthetic datasets
 - Skimmer test job **source .ci-workflows/skimmer-test-job.sh**  failing locally.
 - Trying without --dask... works without dask!

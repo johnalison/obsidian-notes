@@ -14,7 +14,7 @@ python  jet_clustering/splitting_comparison_plots.py analysis/hists/test_synthet
 
 ## Links: 
 
-[[mixed2.0]]
+[[Jet DeClustering]]
 
 
 202407220954

@@ -51,7 +51,7 @@ Setup
 
 EOS down on LPC... joined LPC computing mattermost channel
 
-# [[mixed2.0]]
+# [[Jet DeClustering]]
 - Cant run jobs... can do test jobs!
 - Try to optimize with [[Numba]]... Not much improvement 
 - Added a profiler to the test job... not clear where we can gain

@@ -6,7 +6,7 @@ https://arxiv.org/abs/2211.09912
 
 ## Links: 
 
-[[mixed2.0]]
+[[1-projects/Mixed2.0/Jet DeClustering]]
 
 
 202407091049

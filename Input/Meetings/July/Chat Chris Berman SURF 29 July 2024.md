@@ -15,7 +15,7 @@ He will look into using a model to predict the {thetas} not simple 1D projection
 
 
 ## Links: 
-[[Jet DeClustering]]
+[[Jet DeClustering Algorithm]]
 
 
 202407291047

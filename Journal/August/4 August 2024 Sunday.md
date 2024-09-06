@@ -10,7 +10,7 @@ To Giant Eagle, Avocados and Kelbasa
 
 Some [[Seneca-Letters-from-a-Stoic]]
 
-# [[mixed2.0]]
+# [[Jet DeClustering]]
 - running all clustering functions on **cmslpc329**
 - update **make_jet_splitting_PDFs.py** to automatically plot all splittings with some rought logic as to which histograms to use
 - Failure of test script...Seems like data not available at LPC

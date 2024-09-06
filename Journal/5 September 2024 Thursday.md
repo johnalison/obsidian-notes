@@ -19,21 +19,22 @@
 | 4   | Scotts Party    |     |
 |     | Scotts Party    |     |
 
-**W:**
-**DW:**
-**OT:**
-**ex** or **No ex**
+**W:**. 8 
+**DW:** 3
+**OT:** 3 
+**No ex**
 
 # The ONE thing: 
 - [ ] Jet DeClustering
 
 
 # To Do
-- [ ] CAM Training
-- [ ] Read HGC TDR
-- [ ] Update skimmer CI: Compare cutflow during skim vs later processing vs known values
-- [ ] Update printCutFlow to compare cutflows
-- [ ] Add year option to plotting
+[>] CAM Training
+[>] Read HGC TDR
+[>] Update skimmer CI: Compare cutflow during skim vs later processing vs known values
+[>] Update printCutFlow to compare cutflows
+[>] Add year option to plotting
+[>] Push ttbar subtraction function 
 
 
 
@@ -43,7 +44,7 @@ Up at 7
 
 M&T to school
 
-# [[mixed2.0]]
+# [[Jet DeClustering]]
 - Try dictionary the do floats.. fails.
 - Might be able to do arrays ?  ... Nope
 - Going to strings
@@ -51,9 +52,9 @@ M&T to school
 - Testing on **346**... ran**120m3.708s**
 - Running analyzer
 - TTbar subtraction for nominal
-- bTag weights look good... but dont make much of a difference.
+- bTag weights now look good... but dont make much of a difference.
 
-Chat with Diana re:Lab tech
+Chat with Diana re:Lab tech ask from department
 
 Lots of mixed
 
@@ -78,3 +79,5 @@ Brought over the booze for Scotts party
 - Something bad happened to Ben (follow up on)
 
 # Union Grill Family Dinner
+
+Late night hacking... implemented the ttbar subtraction as a function...

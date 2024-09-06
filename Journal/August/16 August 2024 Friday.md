@@ -23,7 +23,7 @@ Some [[American Covenant]]
 # To Phipps 
 - Say Stats prof _____Will Townes___
 
-# [[mixed2.0]]
+# [[Jet DeClustering]]
 - Add hist to count the number of clustered jets 
 - Add more PDF ranges
 - Running clustering on **cmslpc306**....**108m52.381s**

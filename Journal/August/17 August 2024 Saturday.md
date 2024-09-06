@@ -4,7 +4,7 @@
 
 Up at 8
 
-# [[mixed2.0]]
+# [[Jet DeClustering]]
 - Adding tt_vs_mj
 - Turning on top reco ("fast") for declustering 
 - running on **cmslpc306** ... cannot connect ... looks like ran out of memory

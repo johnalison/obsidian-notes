@@ -26,7 +26,7 @@ This is a good way to go !  Implemented it in the Declustering algorithm
 
 
 ## Links: 
-[[Jet DeClustering]]
+[[Jet DeClustering Algorithm]]
 [[Recursive Splitting Types]]
 
 

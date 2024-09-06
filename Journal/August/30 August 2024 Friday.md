@@ -46,7 +46,7 @@ Up at 7
 
 M&T to school.
 
-# [[mixed2.0]]
+# [[Jet DeClustering]]
 - Testing running on synthetic datasets
 - Running on 304
 - Finding errors during skimming:

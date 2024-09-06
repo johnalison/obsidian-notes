@@ -41,7 +41,7 @@ Up at 7.
 
 # Marlos Birthday !  4! 
 
-# [[mixed2.0]]
+# [[Jet DeClustering]]
 - Checked dR results.  Working !  Looks like random numbers are not
 - Trying again with old random number set up
 - dR looks good now!  

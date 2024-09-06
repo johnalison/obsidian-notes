@@ -13,7 +13,7 @@ Can we improve PDF sampling in the jets (de)clustering with Maching Learning ? M
 
 ## Links: 
 [[UndergradProjects]]
-[[mixed2.0]]
+[[Jet DeClustering]]
 
 [[PCA and Autoencoder]]
 

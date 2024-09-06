@@ -55,7 +55,7 @@ Mail to Sinead
 
 Mail to Nural re: turnaround report
 
-# [[mixed2.0]]
+# [[Jet DeClustering]]
 - Added ttbar subtraction to **Declusterer**
 - Added hook for input random number seed
 - Added random number seed to output file name 

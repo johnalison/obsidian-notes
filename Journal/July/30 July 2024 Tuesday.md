@@ -47,7 +47,7 @@ Fixed CI (truthstudy was running the full job instead of test with "-t" )
 
 Wes in on daq shift (with a trainee) today so cannot meet
 
-[[mixed2.0]]
+[[Jet DeClustering]]
 
 [[Reproducible Random Numbers]]
 

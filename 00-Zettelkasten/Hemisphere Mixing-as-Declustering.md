@@ -2,7 +2,7 @@ Can think of the hemisphere mixing as a clustering/de-clustering process. Creati
 
 
 ## Links: 
-[[Jet DeClustering]]
+[[Jet DeClustering Algorithm]]
 
 
 

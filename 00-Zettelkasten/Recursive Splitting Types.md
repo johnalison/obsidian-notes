@@ -48,8 +48,8 @@ jj                             77487.0
 
 
 ## Links: 
+[[Jet DeClustering Algorithm]]
 [[Jet DeClustering]]
-[[mixed2.0]]
 
 
 202408131058

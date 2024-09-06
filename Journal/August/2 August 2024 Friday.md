@@ -45,7 +45,7 @@ H to school (Got caught in the rain!)
 # Institutional review WZ cross section at 13.6 TeV
 https://cms.cern.ch/iCMS/analysisadmin/cadi?ancode=SMP-24-005
 
-# [[mixed2.0]]
+# [[Jet DeClustering]]
 - Made **make_jet_splitting_PDFs.py** robust against changing cuts in the histogram file.
 - Cleaned configuration of splittings: needed when many varieties
 - make input pdfs for 4b + 0,1,2j : **jet-splitting-PDFs-00-03-00**
@@ -84,7 +84,7 @@ Wrote up [[Boosted Angle Formula]]
 
 Steph does not get load repayment grant :( 
 
-# Evening [[mixed2.0]]
+# Evening [[Jet DeClustering]]
 - tried clustering with upto 8 jets ... No problem on test job!
 - tried clustering with no nJet limit ...No problem on test job!
 - Running all clustering on **cmslpc329**

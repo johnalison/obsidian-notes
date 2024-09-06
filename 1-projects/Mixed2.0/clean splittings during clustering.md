@@ -15,7 +15,7 @@ eg: only use `bj` splittings for combination like: `b(bj)
 - Would also want to do the same in the reclustering !
 
 ## Links: 
-[[mixed2.0]]
+[[Jet DeClustering]]
 
 
 202408011055

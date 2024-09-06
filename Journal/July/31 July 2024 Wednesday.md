@@ -21,7 +21,7 @@ Got paid! Move 7k to capital one
 
 with kids
 
-Working [[mixed2.0]]
+Working [[Jet DeClustering]]
 - got cleanISR to be able to clean more than one type
 - Weird s -> str(s) changes (maybe b/c the container changed?)
 

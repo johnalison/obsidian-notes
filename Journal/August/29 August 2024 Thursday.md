@@ -48,7 +48,7 @@ M&T to school
 
 [[Scotts Gratitude Card]]
 
-# [[mixed2.0]]
+# [[Jet DeClustering]]
 - Trying to process picos
  [< ] Randseed via command line
 - [x] Update file name based on rand seed

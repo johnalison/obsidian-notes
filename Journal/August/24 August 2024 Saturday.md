@@ -15,7 +15,7 @@ Wrote up [[American Covenant]]
 # Art Fair
 - Bought some olives / Free bobble heads
 
-# [[mixed2.0]]
+# [[Jet DeClustering]]
 - Fix for random numbers.
 - Trying on **cmslpc337**
 
