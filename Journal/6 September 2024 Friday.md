@@ -52,9 +52,11 @@ Will be nice pairing to the progress reports
 
 # [[Jet DeClustering]]
 - cleaning code, push
-- [ ] Veriffy new declustering on signal
-- Automated the overwriting of auxilliery jet branches ... Needed for MC/data differences
+- [ ] Verify new declustering on signal
+- Automated the overwriting of auxiliary jet branches ... Needed for MC/data differences
 - How to remove branches from skims? 
+	- A: skip_branches in config
+	- Can this be done dynamically ?  think so.
 - Running the HH declustering ... failed b/c memory ? 
-- Testing in tmux 335
+- Testing in tmux 335..out of memory... Retrying **cmslpc304** with 2 workers 
 
