@@ -72,4 +72,9 @@ More mixed
 
 Brought over the booze for Scotts party
 
+# Scott Party
+- [[Speech for Scotts going away party]]
+- Ben and Gillian gave other speeches 
+- Something bad happened to Ben (follow up on)
 
+# Union Grill Family Dinner
