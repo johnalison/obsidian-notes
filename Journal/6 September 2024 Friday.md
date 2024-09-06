@@ -35,7 +35,7 @@
 - [ ] Update skimmer CI: Compare cutflow during skim vs later processing vs known values
 - [ ] Update printCutFlow to compare cutflows
 - [ ] Add year option to plotting
-- [ ] Push ttbar subtraction function 
+- [x] Push ttbar subtraction function 
 
 
 # Log
@@ -54,4 +54,6 @@ Will be nice pairing to the progress reports
 - cleaning code, push
 - seljets 
 - [ ] Veriffy new declustering on signal
+- Automating overwriting of auxilliery jet branches
+- How to remove branches from skims? 
 
