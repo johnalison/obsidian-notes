@@ -52,8 +52,9 @@ Will be nice pairing to the progress reports
 
 # [[Jet DeClustering]]
 - cleaning code, push
-- seljets 
 - [ ] Veriffy new declustering on signal
-- Automating overwriting of auxilliery jet branches
+- Automated the overwriting of auxilliery jet branches ... Needed for MC/data differences
 - How to remove branches from skims? 
+- Running the HH declustering ... failed b/c memory ? 
+- Testing in tmux 335
 
