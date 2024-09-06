@@ -11,13 +11,13 @@
 | 12  | Gym / Hoops        |     |
 |     | Gym / Hoops        |     |
 | 1   | Gym / Hoops        |     |
-|     |                    |     |
+|     | Jet Declustering   |     |
 | 2   | 4b                 |     |
 |     | 4b                 |     |
 | 3   | CMU CMS            |     |
 |     | CMU CMS            |     |
-| 4   |                    |     |
-|     |                    |     |
+| 4   | Jet Declustering   |     |
+|     | Jet Declustering   |     |
 
 **W:**
 **DW:**
@@ -60,7 +60,7 @@ Will be nice pairing to the progress reports
 	- Can this be done dynamically ?  think so.
 - Running the HH declustering ... failed b/c memory ? 
 - Testing in tmux 335..out of memory... Retrying **cmslpc304** with 2 workers ... works **real    82m51.408s**
-- Merge sumw2 from input metadata
+- save sumw2 from input metadata 
 - What about trig weights? 
 
 # Hoops 
@@ -68,3 +68,9 @@ Will be nice pairing to the progress reports
 - Great Runs 3s and 4s
 
 [[CMU 4b Chat 6 September 2024]]
+
+More JetDeclustering
+
+# CMU/CMS Round Table
+- Not much
+- 
