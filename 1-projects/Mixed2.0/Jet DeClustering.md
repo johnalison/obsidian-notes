@@ -86,6 +86,7 @@ Getting the new mixing going
 - with 00-07-02 PDFs and retry at 8 ... **86m56.847s**
 - Above using ttbar subtraction: **79m44.445s**
 - **125m7.120s**
+- HH Signal 2 workers **real    82m51.408s**
 
 # Processing Synthetic Datasets
 - with TTbar subtraction: **2m23.418s**

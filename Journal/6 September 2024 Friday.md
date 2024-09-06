@@ -6,8 +6,8 @@
 |     | Jet Declustering   |     |
 | 10  | Jet Declustering   |     |
 |     | Jet Declustering   |     |
-| 11  |                    |     |
-|     |                    |     |
+| 11  | Jet Declustering   |     |
+|     | Jet Declustering   |     |
 | 12  | Gym / Hoops        |     |
 |     | Gym / Hoops        |     |
 | 1   | Gym / Hoops        |     |
@@ -36,6 +36,7 @@
 - [ ] Update printCutFlow to compare cutflows
 - [ ] Add year option to plotting
 - [x] Push ttbar subtraction function 
+- [ ] Add synthetic dataset analyzer
 
 
 # Log
@@ -58,5 +59,10 @@ Will be nice pairing to the progress reports
 	- A: skip_branches in config
 	- Can this be done dynamically ?  think so.
 - Running the HH declustering ... failed b/c memory ? 
-- Testing in tmux 335..out of memory... Retrying **cmslpc304** with 2 workers 
+- Testing in tmux 335..out of memory... Retrying **cmslpc304** with 2 workers ... works **real    82m51.408s**
 
+# Hoops 
+- Played Great ! 
+- Great Runs 3s and 4s
+
+[[CMU 4b Chat 6 September 2024]]
