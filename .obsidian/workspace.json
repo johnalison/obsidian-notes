@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/CMU 4b Chat 6 September 2024.md",
+                "file": "Journal/6 September 2024 Friday.md",
                 "mode": "source",
                 "source": false
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/CMU 4b Chat 6 September 2024.md",
+                "file": "Journal/6 September 2024 Friday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/CMU 4b Chat 6 September 2024.md",
+                "file": "Journal/6 September 2024 Friday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/CMU 4b Chat 6 September 2024.md"
+                "file": "Journal/6 September 2024 Friday.md"
               }
             }
           }
@@ -200,8 +200,8 @@
   },
   "active": "0564d10e647617a9",
   "lastOpenFiles": [
+    "Input/Meetings/CMU 4b Chat 6 September 2024.md",
     "Journal/6 September 2024 Friday.md",
-    "0-inbox/CMU 4b Chat 6 September 2024.md",
     "1-projects/Mixed2.0/Jet DeClustering.md",
     "0-inbox/JetDeclustering.md",
     "Journal/Fall 2024.md",

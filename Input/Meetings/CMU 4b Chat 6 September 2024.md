@@ -6,7 +6,11 @@ Most parts of the kappa scan plots work fine except for the stacked hists (I am 
 
 I also started testing the evaluation code, but it is not ready yet.
 
+AE: Has new skims, will make friend trees with trig weights and ttbar reco
 
+JA: Pushing on synthetic datasets.  Need to think about residual mismodelling
+
+SM: Not much progress...
 
 
 ## Follow-ups
