@@ -62,6 +62,8 @@ Will be nice pairing to the progress reports
 - Testing in tmux 335..out of memory... Retrying **cmslpc304** with 2 workers ... works **real    82m51.408s**
 - save sumw2 from input metadata 
 - What about trig weights? 
+- Added trig weights to output file.
+- Need to propogate the btagging weights
 
 # Hoops 
 - Played Great ! 
