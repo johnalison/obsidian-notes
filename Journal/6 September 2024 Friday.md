@@ -60,6 +60,8 @@ Will be nice pairing to the progress reports
 	- Can this be done dynamically ?  think so.
 - Running the HH declustering ... failed b/c memory ? 
 - Testing in tmux 335..out of memory... Retrying **cmslpc304** with 2 workers ... works **real    82m51.408s**
+- Merge sumw2 from input metadata
+- What about trig weights? 
 
 # Hoops 
 - Played Great ! 
