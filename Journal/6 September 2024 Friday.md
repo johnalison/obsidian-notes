@@ -35,7 +35,7 @@
 - [ ] Update printCutFlow to compare cutflows
 - [ ] Add year option to plotting
 - [x] Push ttbar subtraction function 
-- [ ] Add synthetic dataset analyzer
+- [x] Add synthetic dataset analyzer
 
 
 # Log
