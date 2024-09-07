@@ -90,3 +90,5 @@ Some [[Conspiracy]]
 To Home Depot
 
 Finished wrtting up [[BlackSwan]]
+
+Late night hacking... got the CI going. 
