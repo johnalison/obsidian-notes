@@ -65,8 +65,8 @@ Will be nice pairing to the progress reports
 - What about trig weights? 
 	- Added trig weights to output file
 - Need to propagate the btagging weights... Done
-- Added CI for analyzing the synthetic datasets
-- Making signal synthetic datasets on  **cmslpc304**
+- Added CI for analyzing the synthetic datasets... Need to fix
+- Making signal synthetic datasets on  **cmslpc304**... ran in **82m15.656s**
 
 
 # Hoops 
@@ -82,3 +82,11 @@ More JetDeclustering
 
 
 More JetDeclustering ... Nice progress
+
+Home with M&T
+
+Some [[Conspiracy]]
+
+To Home Depot
+
+Finished wrtting up [[BlackSwan]]
