@@ -8,67 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1491dfb337441910",
+            "id": "5384b28610f78646",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-projects/Mixed2.0/Jet DeClustering.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "04a7542dbed51356",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Output/Speech for Scotts going away party.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0564d10e647617a9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Journal/6 September 2024 Friday.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "375b6af60b5ceea6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-projects/Mixed2.0/Jet DeClustering.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e4c6008e17de62e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Journal/6 September 2024 Friday.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,12 +29,22 @@
         "type": "tabs",
         "children": [
           {
+            "id": "c67b88aabdb7c902",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
             "id": "5eff6f8803fcba5e",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "file:Jet",
+                "query": "optimal transport",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,19 +60,8 @@
               "type": "bookmarks",
               "state": {}
             }
-          },
-          {
-            "id": "8cd6e87e88b50c39",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical"
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -135,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/6 September 2024 Friday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/6 September 2024 Friday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Journal/6 September 2024 Friday.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -198,56 +140,55 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0564d10e647617a9",
+  "active": "5384b28610f78646",
   "lastOpenFiles": [
-    "Input/Meetings/CMU 4b Chat 6 September 2024.md",
-    "Journal/6 September 2024 Friday.md",
-    "1-projects/Mixed2.0/Jet DeClustering.md",
-    "0-inbox/JetDeclustering.md",
-    "Journal/Fall 2024.md",
-    "Journal/August/30 August 2024 Friday.md",
-    "Journal/August/31 August 2024 Saturday.md",
-    "Journal/August 2024.md",
-    "Journal/1 September 2024 Sunday.md",
-    "Journal/2 September 2024 Monday.md",
-    "Journal/3 September 2024 Tuesday.md",
-    "Journal/4 September 2024 Wednesday.md",
-    "Journal/5 September 2024 Thursday.md",
-    "00-Zettelkasten/Jet DeClustering Algorithm.md",
-    "0-inbox/HGC TDR.md",
-    "0-inbox/Numba.md",
-    "Output/Scott Speech Notes.md",
-    "Input/Meetings/CMUbbWW 5 September 2024.md",
-    "Journal/Goals.md",
-    "Journal/Summer 2024.md",
-    "Journal/July 2024.md",
-    "Journal/September 2024.md",
-    "Journal/Future Log.md",
-    "Journal/BulletJournalProtocol.md",
+    "Journal/31 August 2024 Saturday.md",
     "Output/Speech for Scotts going away party.md",
-    "Input/Meetings/August/CMUbbWW Meeting 29 August 2024.md",
-    "0-inbox/#BlackSwan.md#",
-    "Journal/2023/#February 2023.md#",
-    "Input/Meetings/August",
+    "Output/Scott Speech Notes.md",
+    "Journal/Summer 2024.md",
+    "Journal/September 2024.md",
+    "Journal/Fall 2024.md",
+    "Journal/August/9 August 2024 Friday.md",
+    "Journal/August/8 August 2024 Thursday.md",
+    "Journal/August/7 August 2024 Wednesday.md",
+    "Journal/August/6 August 2024 Tuesday.md",
+    "Journal/August/5 August 2024 Monday.md",
+    "Journal/August/4 August 2024 Sunday.md",
+    "Journal/August/31 August 2024 Saturday.md",
+    "Journal/August/30 August 2024 Friday.md",
+    "Journal/August/3 August 2024 Saturday.md",
+    "Journal/August/29 August 2024 Thursday.md",
+    "Journal/August/28 August 2024 Wednesday.md",
+    "Journal/August/27 August 2024 Tuesday.md",
+    "Journal/August/26 August 2024 Monday.md",
+    "Journal/August/25 August 2024 Sunday.md",
+    "Journal/August/24 August 2024 Saturday.md",
+    "Journal/August/23 August 2024 Friday.md",
+    "Journal/August/22 August 2024 Thursday.md",
+    "Journal/August/21 August 2024 Wednesday.md",
+    "Journal/August/20 August 2024 Tuesday.md",
+    "Journal/August/2 August 2024 Friday.md",
     "Journal/August",
-    "Journal/2023/#January 2023.md#",
     "Journal/2023",
-    "Output/ProgressReports",
+    "Input/Meetings/August",
     "attachments/Pasted image 20240826220009.png",
     "attachments/Pasted image 20240826215955.png",
-    "Journal/2022/#December 2022.md#",
-    "Journal/2022/#November 2022.md#",
-    "attachments/HGC TDR LD and HD Sensors.png",
-    "attachments/HGC TDR Si Sensor Table.png",
-    "Untitled 1.canvas",
-    "Untitled.canvas",
-    "Untitled 2.canvas",
-    "Output/Recommendation  Letters",
     "attachments/HGC TDR Summary Table.png",
-    "attachments/HGC Dose.png",
+    "attachments/HGC TDR Si Sensor Table.png",
+    "attachments/HGC TDR LD and HD Sensors.png",
     "attachments/HGC Personnel per MAC.png",
+    "attachments/HGC Dose.png",
     "attachments/CMS Test.png",
+    "Output/Recommendation  Letters",
+    "Output/ProgressReports",
+    "1-projects/HH4b",
+    "Journal/2022",
+    "Journal/2021/#December 2021.md#",
     "attachments/Pasted image 20240730120049.png",
-    "attachments/Pasted image 20240730120040.png"
+    "attachments/Pasted image 20240730120040.png",
+    "Journal/July",
+    "Input/Meetings/July",
+    "Untitled.canvas",
+    "Untitled 1.canvas"
   ]
 }
