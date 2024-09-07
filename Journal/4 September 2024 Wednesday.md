@@ -47,7 +47,7 @@ M&T to school (Chatted with parent in ECE)
 # [[Jet DeClustering]]
 - cleaning up code 
 - Clean dumpTestVectors functions
-- Now propogatting the btagging scores !! (need to validate)
+- Now propagating the btagging scores !! (need to validate)
 - Testing on **cmslpc307** ... crashes with  **RuntimeError: FIXME: handle UnionArray with more than** **127** **contents**
 	- Might have to use strings instead of tuples...
 - Have test script that reproduces the problem...sent mail to CL/AE

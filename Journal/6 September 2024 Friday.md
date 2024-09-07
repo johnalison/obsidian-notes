@@ -44,7 +44,7 @@ Up at 7
 
 M&T to school ... work by 8:30
 
-# Will Start reviewing the quarterly plans
+# Will start reviewing the quarterly plans
 [[Summer 2024]]
 [[Fall 2024]]
 Will be nice pairing to the progress reports
