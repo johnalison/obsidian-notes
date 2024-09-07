@@ -13,3 +13,6 @@ some [[Conspiracy]]
 - Weights not within factor of 2
 - Debugging cutflows... rerunning without ttbar veto 
 
+Some [[Gulag Archipelago]]
+
+# Got Hair cut

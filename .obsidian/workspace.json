@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/6 September 2024 Friday.md",
+                "file": "Journal/7 September 2024 Saturday.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/2023/February 2023.md",
+                "file": "Journal/7 September 2024 Saturday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/2023/February 2023.md",
+                "file": "Journal/7 September 2024 Saturday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/2023/February 2023.md"
+                "file": "Journal/7 September 2024 Saturday.md"
               }
             }
           }
@@ -210,10 +210,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e4c6008e17de62e3",
+  "active": "f0e9980ed4b71be2",
   "lastOpenFiles": [
-    "Journal/7 September 2024 Saturday.md",
     "Journal/6 September 2024 Friday.md",
+    "Journal/2023/February 2023.md",
+    "Journal/7 September 2024 Saturday.md",
     "Journal/September 2024.md",
     "Journal/5 September 2024 Thursday.md",
     "Journal/4 September 2024 Wednesday.md",
@@ -238,7 +239,6 @@
     "Journal/Goals.md",
     "Journal/Summer 2024.md",
     "Journal/July 2024.md",
-    "Journal/Future Log.md",
     "Journal/2023/#February 2023.md#",
     "Input/Meetings/August",
     "Journal/August",
