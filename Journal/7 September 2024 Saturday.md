@@ -23,3 +23,12 @@ Some [[Gulag Archipelago]]
 More [[Jet DeClustering]]
 
 Adding years to plotting script option
+- fixing CI
+
+# Blue slide park 
+
+Debugging sumw weights (making output a list)
+
+# Parents
+
+
