@@ -12,7 +12,7 @@
 |     | Hoops            |     |
 | 1   | Hoops            |     |
 |     | Hoops            |     |
-| 2   |                  |     |
+| 2   | skimming cutflow |     |
 |     | sindhu           |     |
 | 3   | Aniket           |     |
 |     | Colloq           |     |
@@ -33,6 +33,7 @@
 - [ ] Read HGC TDR
 - [ ] Update skimmer CI: Compare cutflow during skim vs later processing vs known values
 - [ ] Update printCutFlow to compare cutflows
+- [ ] Review Anikets slides For Thursday !
 
 
 # Log
@@ -47,6 +48,7 @@ M&T to school ... H will stay home
 - Remaking data inputs on **cmslpc348**
 - Start code for ttbar PSdata
 - [x] Add cut flow CI test for analyze test
+	- Problem with seeds in candidate jet selection
 
 [[FBC2 Meeting 9 September 2024]]
 
@@ -63,3 +65,8 @@ Looking into the Skimmer CI failing... Need to add more detailed checks...
 - Problem with weights... Due to sumw not being the same in the skim... I think this is OK?
 
 [[Chat w Sindhu 9 September 2024]]
+
+[[Chat w Aniket 9 September 2024]]
+
+[[CMU Physics Colloquium 9 September 2024]]
+
