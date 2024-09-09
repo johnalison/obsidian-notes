@@ -46,4 +46,7 @@ M&T to school ... H will stay home
 - Make data presentation with outputs from new code
 - Remaking data inputs on **cmslpc348**
 - Start code for ttbar PSdata
-- [ ] Add cut flow CI test for analyze test
+- [x] Add cut flow CI test for analyze test
+
+[[FBC2 Meeting 9 September 2024]]
+
