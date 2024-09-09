@@ -4,6 +4,7 @@ LSST starts next year: "Billion Source Era"
 
 Expert in transients and ML
 
+Not Good bailed early
 
 ## Follow-ups
 

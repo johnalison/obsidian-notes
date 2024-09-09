@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-areas/coffea4bs/Reproducible Random Numbers.md",
+                "file": "Journal/9 September 2024 Monday.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-areas/coffea4bs/Reproducible Random Numbers.md",
+                "file": "Journal/9 September 2024 Monday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-areas/coffea4bs/Reproducible Random Numbers.md",
+                "file": "Journal/9 September 2024 Monday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-areas/coffea4bs/Reproducible Random Numbers.md"
+                "file": "Journal/9 September 2024 Monday.md"
               }
             }
           }
@@ -188,6 +188,7 @@
   "active": "f0e9980ed4b71be2",
   "lastOpenFiles": [
     "0-inbox/CMU Physics Colloquium 9 September 2024.md",
+    "2-areas/coffea4bs/Reproducible Random Numbers.md",
     "Journal/9 September 2024 Monday.md",
     "0-inbox/Chat w Aniket 9 September 2024.md",
     "0-inbox/Chat w Sindhu 9 September 2024.md",
@@ -213,7 +214,6 @@
     "Journal/2023/March 2023.md",
     "Journal/2023/#March 2023.md#",
     "Journal/2023/February 2023.md",
-    "Journal/August 2024.md",
     "0-inbox/#BlackSwan.md#",
     "Journal/2023/#February 2023.md#",
     "Input/Meetings/August",
