@@ -1,0 +1,49 @@
+# Timeblock
+
+|     | setup            |     |
+| --- | ---------------- | --- |
+| 9   | Jet Declustering |     |
+|     | Jet Declustering |     |
+| 10  | Jet Declustering |     |
+|     | HH->4b           |     |
+| 11  | HH->4b           |     |
+|     |                  |     |
+| 12  | MultiHiggs       |     |
+|     | Hoops            |     |
+| 1   | Hoops            |     |
+|     | Hoops            |     |
+| 2   |                  |     |
+|     | sindhu           |     |
+| 3   | Aniket           |     |
+|     | Colloq           |     |
+| 4   | Colloq           |     |
+|     | berman           |     |
+
+**W:**
+**DW:**
+**OT:**
+**ex** or **No ex**
+
+# The ONE thing: 
+- [ ] [[Jet DeClustering]]
+
+
+# To Do
+- [ ] CAM Training
+- [ ] Read HGC TDR
+- [ ] Update skimmer CI: Compare cutflow during skim vs later processing vs known values
+- [ ] Update printCutFlow to compare cutflows
+
+
+# Log
+
+Up at 7:20 
+
+M&T to school ... H will stay home
+
+
+# [[Jet DeClustering]]
+- Make data presentation with outputs from new code
+- Remaking data inputs on **cmslpc348**
+- Start code for ttbar PSdata
+- [ ] Add cut flow CI test for analyze test

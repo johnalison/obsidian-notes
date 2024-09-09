@@ -74,7 +74,7 @@ Some [[Migrate Trigger Emulator]]
 # MPL
 - Printed schedule (canvas) and photo rosters (from s3) for the door
 
-Pinged Michell Waters Ad for Lab tech
+Pinged Michelle Waters Ad for Lab tech
 
 [[HGCManagementMeeting 3 September 2024]]
 

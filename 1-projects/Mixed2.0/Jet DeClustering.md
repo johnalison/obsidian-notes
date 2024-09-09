@@ -8,7 +8,7 @@ Getting the new mixing going
 - Extension to full Run2 dataset
 
 # To Do
-- [ ] PDFs by year ?
+- [ ] Compare splittings by year
 - [ ] Check re-clustering
 - [ ] Read [[Do graph neural networks learn traditional jet substructure?]]
 - [ ] Write out picos with the synthetic datasets jet
@@ -18,14 +18,13 @@ Getting the new mixing going
 	- [x] Add CI
 	- [ ] Randseed via command line
 		-Separate script that creates input files and submits jobs
-	- [ ] Yaml errors from skimming output 
+	- [x] Yaml errors from skimming output 
 	- [ ] Script to create synthetric datasets yaml
 		- Need to merge with existing dataset script to get (at least the data info)
 	- [ ] Output picos to EOS 
 - [ ] [[ResamplingBug]]
 - [ ] [[bj pt mismodeling]]
 - [ ] [[bj splitting mismodelings]]
-- [ ] Compare splittings by year
 - [ ] What happens to pt overflows in the clustering ?
 - [ ] TTbar Subtractions/ Additions
 	- [x] Subtract ttbar from Templates
@@ -33,11 +32,12 @@ Getting the new mixing going
 	- [ ] Then add back non declustered TTbar
 	- [x] Or compare to ttbar subtracted data ? 
 - [ ] Skimmer to make sub-sampled TTbar datasets
-- [ ] run clustering on ttbar MC ?
+- [ ] ~~run clustering on ttbar MC ?
 - [x] Propagate Btagging scores ?
 	- [x] Migrate to strings
 - [ ] Propagate selJet flag.. then check to make sure pt>40 ect.
 - [ ] Check to make sure that the lepton veto wont kill synthetic jets
+- [ ] cutflow for UL16 nominal vs making synthetic data (eg: all events pass jetMult in synthetic data...)
 
 
 # Ideas: 

@@ -21,4 +21,4 @@ Steph sees house... wants to put a bid in.
 - Lift / Row / inclined dumbbell press
 - 10' at Tmax 122
 
-Put in a verbal offer of $750
+Put in a verbal offer of $750k need to look into getting approved for mortage.

@@ -29,10 +29,10 @@
 
 
 # To Do
-- [ ] CAM Training
-- [ ] Read HGC TDR
-- [ ] Update skimmer CI: Compare cutflow during skim vs later processing vs known values
-- [ ] Update printCutFlow to compare cutflows
+[>] CAM Training
+[>] Read HGC TDR
+[>] Update skimmer CI: Compare cutflow during skim vs later processing vs known values
+[>] Update printCutFlow to compare cutflows
 - [x] Add year option to plotting
 	- On Saturday
 - [x] Push ttbar subtraction function 
@@ -48,12 +48,13 @@ M&T to school ... work by 8:30
 # Will start reviewing the quarterly plans
 [[Summer 2024]]
 [[Fall 2024]]
-Will be nice pairing to the progress reports
+Will be nice pairing to the progress reports.. added to calandar
 
 
 # [[Jet DeClustering]]
 - cleaning code, pushed
-- [ ] Verify new declustering on signal
+- [x] Verify new declustering on signal
+	- On Sunday
 - Automated the overwriting of auxiliary jet branches ... Needed for MC/data differences
 - How to remove branches from skims? 
 	- A: skip_branches in config
@@ -62,11 +63,11 @@ Will be nice pairing to the progress reports
 - Running the HH declustering ... failed b/c memory ? 
 - Testing in tmux 335..out of memory... Retrying **cmslpc304** with 2 workers ... works **real    82m51.408s**
 - save sumw2 from input metadata 
-	- Done
+	- Done...is actually now being added when subjobs, need to just write it at end
 - What about trig weights? 
 	- Added trig weights to output file
 - Need to propagate the btagging weights... Done
-- Added CI for analyzing the synthetic datasets... Need to fix
+- Added CI for analyzing the synthetic datasets... Need to fix....Done
 - Making signal synthetic datasets on  **cmslpc304**... ran in **82m15.656s**
 
 
