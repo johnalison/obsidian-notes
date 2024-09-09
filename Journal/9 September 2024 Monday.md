@@ -53,3 +53,11 @@ M&T to school ... H will stay home
 Looking into the Skimmer CI failing... Need to add more detailed checks...
 
 [[multiHiggs working meeting 9 September 2024]]
+
+# Gym / Steamroom
+- core / 50' Zone 2 bike 
+- 10' at Tmax  = 124
+
+# Debugging Skimmer cutflow...
+- Problem with counts (preSel now by tag)
+- Problem with weights

@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/multiHiggs working meeting 9 September 2024.md",
+                "file": "Journal/9 September 2024 Monday.md",
                 "mode": "source",
                 "source": false
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/multiHiggs working meeting 9 September 2024.md",
+                "file": "Journal/9 September 2024 Monday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/multiHiggs working meeting 9 September 2024.md",
+                "file": "Journal/9 September 2024 Monday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/multiHiggs working meeting 9 September 2024.md"
+                "file": "Journal/9 September 2024 Monday.md"
               }
             }
           }
@@ -188,8 +188,8 @@
   },
   "active": "f0e9980ed4b71be2",
   "lastOpenFiles": [
-    "Journal/9 September 2024 Monday.md",
     "0-inbox/multiHiggs working meeting 9 September 2024.md",
+    "Journal/9 September 2024 Monday.md",
     "1-projects/Mixed2.0/Jet DeClustering.md",
     "0-inbox/FBC2 Meeting 9 September 2024.md",
     "Journal/August/19 August 2024 Monday.md",
