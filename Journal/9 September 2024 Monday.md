@@ -9,9 +9,9 @@
 | 11  | HH->4b           |     |
 |     |                  |     |
 | 12  | MultiHiggs       |     |
-|     | Hoops            |     |
-| 1   | Hoops            |     |
-|     | Hoops            |     |
+|     | Gym              |     |
+| 1   | Gym              |     |
+|     | Gym              |     |
 | 2   | skimming cutflow |     |
 |     | sindhu           |     |
 | 3   | Aniket           |     |
@@ -19,10 +19,10 @@
 | 4   | Colloq           |     |
 |     | berman           |     |
 
-**W:**
-**DW:**
-**OT:**
-**ex** or **No ex**
+**W:** 7 
+**DW:** 2
+**OT:** 4
+**ex** 
 
 # The ONE thing: 
 - [ ] [[Jet DeClustering]]
@@ -70,3 +70,5 @@ Looking into the Skimmer CI failing... Need to add more detailed checks...
 
 [[CMU Physics Colloquium 9 September 2024]]
 
+# Chat with Chris Berman re:PCA
+- need to use both mean and variance to get PCA to work
