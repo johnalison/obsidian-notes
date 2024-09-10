@@ -46,3 +46,7 @@ Meditated
 To School
 # MPL Recitation 
 - In 2D Δχ2 is < 2.3 ?   Verify in literature 
+
+
+[[Chat w Wes 10 September 2024]]
+
