@@ -57,4 +57,6 @@ Reviewed Anikets DQM slides with him.
 # [[Jet DeClustering]]
 - Debugging cutflow.  Input events are the same.  Some of the declustered Jet Pts are different.
 - wrote helper function to output debug info
-- All of the input pt are the same!oo
+- All of the input pt are the same!!
+- All of the clustered pts are the same!!
+- 
