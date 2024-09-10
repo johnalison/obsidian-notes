@@ -62,14 +62,13 @@ Idea for selected jet flag for [[Jet DeClustering]]
 
 [[Chat w Wes 3 September 2024]]
 
-Walk and chat with AE
+Walk and chat with AGE
 
 Finished draft of slides
 
 Some [[Migrate Trigger Emulator]]
 
 [[HGC Mac Meeting 3 September 2024]]
-
 
 # MPL
 - Printed schedule (canvas) and photo rosters (from s3) for the door

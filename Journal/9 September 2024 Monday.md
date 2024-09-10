@@ -7,13 +7,13 @@
 | 10  | Jet Declustering |     |
 |     | HH->4b           |     |
 | 11  | HH->4b           |     |
-|     |                  |     |
+|     | Jet Declustering |     |
 | 12  | MultiHiggs       |     |
 |     | Gym              |     |
 | 1   | Gym              |     |
 |     | Gym              |     |
 | 2   | skimming cutflow |     |
-|     | sindhu           |     |
+|     | Sindhu           |     |
 | 3   | Aniket           |     |
 |     | Colloq           |     |
 | 4   | Colloq           |     |
@@ -29,11 +29,11 @@
 
 
 # To Do
-- [ ] CAM Training
-- [ ] Read HGC TDR
-- [ ] Update skimmer CI: Compare cutflow during skim vs later processing vs known values
-- [ ] Update printCutFlow to compare cutflows
-- [ ] Review Anikets slides For Thursday !
+[>] CAM Training
+[>] Read HGC TDR
+[  ] ~~Update skimmer CI: Compare cutflow during skim vs later processing vs known values~~
+[>] Update printCutFlow to compare cutflows
+[>] Review Anikets slides For Thursday !
 
 
 # Log

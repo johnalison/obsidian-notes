@@ -48,8 +48,7 @@ M&T to school ... work by 8:30
 # Will start reviewing the quarterly plans
 [[Summer 2024]]
 [[Fall 2024]]
-Will be nice pairing to the progress reports.. added to calandar
-
+Will be nice pairing to the progress reports.. added to calendar
 
 # [[Jet DeClustering]]
 - cleaning code, pushed
@@ -69,7 +68,6 @@ Will be nice pairing to the progress reports.. added to calandar
 - Need to propagate the btagging weights... Done
 - Added CI for analyzing the synthetic datasets... Need to fix....Done
 - Making signal synthetic datasets on  **cmslpc304**... ran in **82m15.656s**
-
 
 # Hoops 
 - Played Great !!!
