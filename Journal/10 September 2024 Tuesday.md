@@ -59,4 +59,8 @@ Reviewed Anikets DQM slides with him.
 - wrote helper function to output debug info
 - All of the input pt are the same!!
 - All of the clustered pts are the same!!
-- 
+- Maybe the splittings are not ordered ?
+- The declustered jet pt are Different!
+
+[[HGC Mac Meeting 10 September 2024]]
+
