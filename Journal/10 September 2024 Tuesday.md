@@ -68,7 +68,13 @@ Reviewed Anikets DQM slides with him.
 
 # MPL
 - Iridium seems unactivated... Pu-239 source was moved not in the reactor !
+- Put it back...Now seeing peaks ! All good.
+- Pinged Brandon.
 
 # Mans meeting
 - Engine problem, which chips not getting the clock
 - Monday Management meeting ?
+
+# More Debugging
+- Fixed with rounding the eta, phi and pt values!
+- Checking cutflow
