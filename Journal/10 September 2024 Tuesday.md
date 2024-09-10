@@ -75,7 +75,11 @@ Reviewed Anikets DQM slides with him.
 - Engine problem, which chips not getting the clock
 - Monday Management meeting ?
 
-# More Debugging
+ More Debugging
 - Fixed with rounding the eta, phi and pt values!
 - Checking cutflow
 
+
+[[When in Doubt Draft Emails]]
+
+# Stats Paper Submitted to Arxive 
