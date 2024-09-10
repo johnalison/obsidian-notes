@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/9 September 2024 Monday.md",
+                "file": "2-areas/Personal/Salaries.md",
                 "mode": "source",
                 "source": false
               }
@@ -33,6 +33,18 @@
           },
           {
             "id": "375b6af60b5ceea6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Journal/9 September 2024 Monday.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "196883b86773af04",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -56,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -75,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "reproducible",
+                "query": "salar",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -185,11 +197,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f0e9980ed4b71be2",
+  "active": "196883b86773af04",
   "lastOpenFiles": [
+    "0-inbox/Having children as education.md",
+    "Journal/9 September 2024 Monday.md",
+    "2-areas/Personal/Salaries.md",
     "0-inbox/CMU Physics Colloquium 9 September 2024.md",
     "2-areas/coffea4bs/Reproducible Random Numbers.md",
-    "Journal/9 September 2024 Monday.md",
     "0-inbox/Chat w Aniket 9 September 2024.md",
     "0-inbox/Chat w Sindhu 9 September 2024.md",
     "0-inbox/FBC2 Meeting 9 September 2024.md",
@@ -202,7 +216,6 @@
     "Journal/September 2024.md",
     "0-inbox/Things-To-Add-To-Notes.md",
     "Input/Books/BlackSwan.md",
-    "0-inbox/Untitled.md",
     "Output/Speech for Scotts going away party.md",
     "Journal/8 September 2024 Sunday.md",
     "Journal/7 September 2024 Saturday.md",
@@ -213,7 +226,6 @@
     "Journal/1 September 2024 Sunday.md",
     "Journal/2023/March 2023.md",
     "Journal/2023/#March 2023.md#",
-    "Journal/2023/February 2023.md",
     "0-inbox/#BlackSwan.md#",
     "Journal/2023/#February 2023.md#",
     "Input/Meetings/August",

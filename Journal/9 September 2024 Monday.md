@@ -72,3 +72,8 @@ Looking into the Skimmer CI failing... Need to add more detailed checks...
 
 # Chat with Chris Berman re:PCA
 - need to use both mean and variance to get PCA to work
+
+Home with M&T
+
+Applied for Mortgage with Jeff Mountain
+
