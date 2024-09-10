@@ -67,8 +67,8 @@ Reviewed Anikets DQM slides with him.
 # Mega Debugging!
 
 # MPL
-- Iridium seems unactivated
+- Iridium seems unactivated... Pu-239 source was moved not in the reactor !
 
 # Mans meeting
-- Engine problem
+- Engine problem, which chips not getting the clock
 - Monday Management meeting ?
