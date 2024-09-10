@@ -64,3 +64,11 @@ Reviewed Anikets DQM slides with him.
 
 [[HGC Mac Meeting 10 September 2024]]
 
+# Mega Debugging!
+
+# MPL
+- Iridium seems unactivated
+
+# Mans meeting
+- Engine problem
+- Monday Management meeting ?
