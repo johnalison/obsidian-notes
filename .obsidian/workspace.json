@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-areas/Personal/Salaries.md",
+                "file": "Journal/September 2024.md",
                 "mode": "source",
                 "source": false
               }
@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/10 September 2024 Tuesday.md",
+                "file": "Journal/September 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/10 September 2024 Tuesday.md",
+                "file": "Journal/September 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/10 September 2024 Tuesday.md"
+                "file": "Journal/September 2024.md"
               }
             }
           }
@@ -198,10 +198,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "375b6af60b5ceea6",
+  "active": "f0e9980ed4b71be2",
   "lastOpenFiles": [
-    "0-inbox/Chat w Wes 10 September 2024.md",
+    "2-areas/Personal/Salaries.md",
     "Journal/10 September 2024 Tuesday.md",
+    "0-inbox/Chat w Wes 10 September 2024.md",
     "Journal/9 September 2024 Monday.md",
     "Journal/8 September 2024 Sunday.md",
     "Journal/7 September 2024 Saturday.md",
@@ -211,7 +212,6 @@
     "Journal/4 September 2024 Wednesday.md",
     "Journal/3 September 2024 Tuesday.md",
     "0-inbox/Having children as education.md",
-    "2-areas/Personal/Salaries.md",
     "0-inbox/CMU Physics Colloquium 9 September 2024.md",
     "2-areas/coffea4bs/Reproducible Random Numbers.md",
     "0-inbox/Chat w Aniket 9 September 2024.md",

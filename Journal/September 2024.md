@@ -9,21 +9,21 @@
 | 7  S |                                                                                   |       |
 | 8  S |                                                                                   |       |
 | 9  M |                                                                                   |       |
-| 10 T | (Faculty Reception)                                                               |       |
-| 11 W |                                                                                   |       |
-| 12 H |                                                                                   |       |
-| 13 F |                                                                                   |       |
+| 10 T | (fast) (MPL)                                                                      |       |
+| 11 W | (fast)                                                                            |       |
+| 12 H | (fast) (MPL)                                                                      |       |
+| 13 F | (fast)                                                                            |       |
 | 14 S | (Erics B-day)                                                                     |       |
 | 15 S |                                                                                   |       |
-| 16 M | (fast 1)                                                                          |       |
-| 17 T | (fast 2)                                                                          |       |
-| 18 W | (fast 3)                                                                          |       |
-| 19 H | (fast 4)                                                                          |       |
+| 16 M |                                                                                   |       |
+| 17 T | (MPL)                                                                             |       |
+| 18 W |                                                                                   |       |
+| 19 H | (MPL)                                                                             |       |
 | 20 F | (STAMPS Launch)                                                                   |       |
 | 21 S |                                                                                   |       |
 | 22 S |                                                                                   |       |
 | 23 M |                                                                                   |       |
-| 24 T | (MPL ends?)                                                                       |       |
+| 24 T | (MPL) 
 | 25 W |                                                                                   |       |
 | 26 H |                                                                                   |       |
 | 27 F |                                                                                   |       |

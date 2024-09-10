@@ -52,3 +52,9 @@ Reviewed Anikets DQM slides with him.
 
 [[Chat w Wes 10 September 2024]]
 
+# Start fast!
+
+# [[Jet DeClustering]]
+- Debugging cutflow.  Input events are the same.  Some of the declustered Jet Pts are different.
+- wrote helper function to output debug info
+- All of the input pt are the same!oo
