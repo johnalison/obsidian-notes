@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/11 September 2024 Wednesday.md",
+                "file": "1-projects/Mixed2.0/Jet DeClustering.md",
                 "mode": "source",
                 "source": false
               }
@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -159,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/HGC MAC Meeting 11 September 2024.md",
+                "file": "1-projects/Mixed2.0/Jet DeClustering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/HGC MAC Meeting 11 September 2024.md",
+                "file": "1-projects/Mixed2.0/Jet DeClustering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/HGC MAC Meeting 11 September 2024.md"
+                "file": "1-projects/Mixed2.0/Jet DeClustering.md"
               }
             }
           }
@@ -222,7 +222,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "375b6af60b5ceea6",
+  "active": "18d3869773c178b0",
   "lastOpenFiles": [
     "Journal/11 September 2024 Wednesday.md",
     "0-inbox/HGC MAC Meeting 11 September 2024.md",

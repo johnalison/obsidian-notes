@@ -19,7 +19,7 @@ Getting the new mixing going
 	- [ ] Randseed via command line
 		-Separate script that creates input files and submits jobs
 	- [x] Yaml errors from skimming output 
-	- [ ] Script to create synthetric datasets yaml
+	- [x] Script to create synthetric datasets yaml
 		- Need to merge with existing dataset script to get (at least the data info)
 	- [ ] Output picos to EOS 
 - [ ] [[ResamplingBug]]
@@ -81,6 +81,7 @@ Getting the new mixing going
 - with 00-07-01 PDFs **116m39.358s**
 - with 00-07-02 PDFs and dR fix...**117m16.100s**
 - with 00-07-02 PDFs and retry at 8 ... **121m1.577s**
+- Above after changes for CI **117m19.837s**
 
 # Making Datasets
 - with 00-07-02 PDFs and retry at 8 ... **86m56.847s**

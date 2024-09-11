@@ -49,7 +49,8 @@ M&T to school
 # [[Jet DeClustering]]
 - Local merge
 - Push/merge
-- Rerunning all synthetic datasets on **cmslpc343**
+- Rerunning all synthetic datasets on **cmslpc343**... **117m19.837s**
+- Finish draft of MC subsampler
 
 Will move Chris Quigg meeting to Friday.
 
