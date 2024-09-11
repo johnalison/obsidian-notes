@@ -62,7 +62,7 @@ Getting emacs going!
 - [[Jet DeClustering]]
 
 
-[[HGC MAC Meeting 25 July 2024]]
+[[CMU HGC MAC Meeting 25 July 2024]]
 
 
 Chat with AE. Back in two weeks

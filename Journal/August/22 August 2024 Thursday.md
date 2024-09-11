@@ -55,7 +55,7 @@ M & T to school
 - Deculstering on **cmslpc305**...failed.. now on **cmslpc340**... **117m16.100s**
 
 
-[[HGC Mac Meeting 22 August 2024]]
+[[CMU HGC Mac Meeting 22 August 2024]]
 
 [[CMUbbWW 22 August 2024]]
 

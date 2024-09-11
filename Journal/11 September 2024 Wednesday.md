@@ -32,10 +32,8 @@
 - [ ] CAM Training
 - [ ] Read HGC TDR
 - [ ] Update printCutFlow to compare cutflows
-- [ ] Merge head
-- [ ] 
-- [ ] 
-- [ ] 
+- [x] Merge head
+
 
 
 # Log
@@ -51,5 +49,11 @@ M&T to school
 # [[Jet DeClustering]]
 - Local merge
 - Push/merge
+- Rerunning all synthetic datasets on **cmslpc343**
 
-Will move Chris Quigg meeting to Friday
+Will move Chris Quigg meeting to Friday.
+
+# bbWW Round table
+- Nothing much
+
+[[HGC MAC Meeting 11 September 2024]]

@@ -11,8 +11,8 @@
 | 9  M |                                                                                   |       |
 | 10 T | (fast 1) (MPL)                                                                    |       |
 | 11 W | (fast 2)                                                                          |       |
-| 12 H | (fast 3) (MPL)                                                                    |       |
-| 13 F | (fast 4)                                                                          |       |
+| 12 H | (Quigg Lecture) (fast 3) (MPL)                                                    |       |
+| 13 F | (Chris Quigg) (fast 4)                                                            |       |
 | 14 S | (Erics B-day)                                                                     |       |
 | 15 S |                                                                                   |       |
 | 16 M |                                                                                   |       |

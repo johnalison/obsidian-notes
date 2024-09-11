@@ -67,7 +67,7 @@ Back to take kids to the Dr
 
 Back to campus 
 
-[[HGC Mac Meeting 27 August 2024]]
+[[CMU HGC Mac Meeting 27 August 2024]]
 
 Chat AE re: triggers 
 

@@ -45,7 +45,7 @@
 
 
 ## Links: 
-[[HGC Mac Meeting 3 September 2024]]
+[[CMU HGC Mac Meeting 3 September 2024]]
 
 
 202409101157

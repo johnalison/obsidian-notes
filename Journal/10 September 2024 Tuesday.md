@@ -62,7 +62,7 @@ Reviewed Anikets DQM slides with him.
 - Maybe the splittings are not ordered ?
 - The declustered jet pt are Different!
 
-[[HGC Mac Meeting 10 September 2024]]
+[[CMU HGC Mac Meeting 10 September 2024]]
 
 # Mega Debugging!....
 

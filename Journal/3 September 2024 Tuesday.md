@@ -68,7 +68,7 @@ Finished draft of slides
 
 Some [[Migrate Trigger Emulator]]
 
-[[HGC Mac Meeting 3 September 2024]]
+[[CMU HGC Mac Meeting 3 September 2024]]
 
 # MPL
 - Printed schedule (canvas) and photo rosters (from s3) for the door
