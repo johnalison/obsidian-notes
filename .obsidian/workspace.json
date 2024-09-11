@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -159,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/10 September 2024 Tuesday.md",
+                "file": "Journal/11 September 2024 Wednesday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/10 September 2024 Tuesday.md",
+                "file": "Journal/11 September 2024 Wednesday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/10 September 2024 Tuesday.md"
+                "file": "Journal/11 September 2024 Wednesday.md"
               }
             }
           }
@@ -222,12 +222,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "18d3869773c178b0",
+  "active": "375b6af60b5ceea6",
   "lastOpenFiles": [
+    "Journal/10 September 2024 Tuesday.md",
     "Journal/September 2024.md",
     "Journal/11 September 2024 Wednesday.md",
     "Input/Meetings/HGC Mac Meeting 3 September 2024.md",
-    "Journal/10 September 2024 Tuesday.md",
     "Journal/9 September 2024 Monday.md",
     "Journal/8 September 2024 Sunday.md",
     "Journal/7 September 2024 Saturday.md",

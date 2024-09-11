@@ -51,3 +51,5 @@ M&T to school
 # [[Jet DeClustering]]
 - Local merge
 - Push/merge
+
+Will move Chris Quigg meeting to Friday
