@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Input/Meetings/CMU HGC Mac Meeting 3 September 2024.md",
+                "file": "Journal/11 September 2024 Wednesday.md",
                 "mode": "source",
                 "source": false
               }
@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -159,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-projects/Mixed2.0/Jet DeClustering.md",
+                "file": "Journal/11 September 2024 Wednesday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-projects/Mixed2.0/Jet DeClustering.md",
+                "file": "Journal/11 September 2024 Wednesday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-projects/Mixed2.0/Jet DeClustering.md"
+                "file": "Journal/11 September 2024 Wednesday.md"
               }
             }
           }
@@ -222,10 +222,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "18d3869773c178b0",
+  "active": "da2b96c8b56c7bbe",
   "lastOpenFiles": [
-    "Journal/11 September 2024 Wednesday.md",
+    "Input/Meetings/CMU HGC Mac Meeting 3 September 2024.md",
     "0-inbox/HGC MAC Meeting 11 September 2024.md",
+    "1-projects/Mixed2.0/Jet DeClustering.md",
+    "Journal/11 September 2024 Wednesday.md",
     "Journal/10 September 2024 Tuesday.md",
     "0-inbox/Things-To-Add-To-Notes.md",
     "Input/Meetings/Chat w Aniket 9 September 2024.md",
@@ -248,8 +250,6 @@
     "Input/Meetings/July/CMU HGC Mac Meeting 18 July 2024.md",
     "Input/Meetings/August/CMU HGC Mac Meeting 15 August 2024.md",
     "Input/Meetings/August/CMU HGC Mac Meeting 8 August 2024.md",
-    "Input/Meetings/CMU HGC Mac Meeting 3 September 2024.md",
-    "Input/Meetings/August/CMU HGC Mac Meeting 1 August 2024.md",
     "Journal/2023/#March 2023.md#",
     "0-inbox/#BlackSwan.md#",
     "Journal/2023/#February 2023.md#",

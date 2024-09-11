@@ -66,3 +66,6 @@ All good with H surgery
 
 Back to [[Jet DeClustering]]
 
+# HIG-22-006: accepted by Journal JHEP !
+
+
