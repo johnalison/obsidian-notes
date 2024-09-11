@@ -57,3 +57,11 @@ Will move Chris Quigg meeting to Friday.
 - Nothing much
 
 [[HGC MAC Meeting 11 September 2024]]
+
+# Hoops... New AUX Gym 
+- Good runs 3s and 4s. 
+
+All good with H surgery
+
+Back to [[Jet DeClustering]]
+

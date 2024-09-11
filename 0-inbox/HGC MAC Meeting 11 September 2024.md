@@ -1,3 +1,5 @@
+https://indico.cern.ch/event/1454139/
+
 # Pre-Production Planning (Alethea)
 - Wrapping up preseries
 - UCSB build 5 LD right for irradiation campaign
