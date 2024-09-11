@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/10 September 2024 Tuesday.md",
+                "file": "Journal/11 September 2024 Wednesday.md",
                 "mode": "source",
                 "source": false
               }
@@ -111,7 +111,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "rentre",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -138,7 +138,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -223,14 +224,10 @@
   },
   "active": "18d3869773c178b0",
   "lastOpenFiles": [
-    "0-inbox/When in Doubt Draft Emails.md",
-    "Journal/10 September 2024 Tuesday.md",
-    "0-inbox/HGC Mac Meeting 10 September 2024.md",
-    "Input/Meetings/August/HGCAL Rentrée General Meeting August 2024.md",
-    "Input/Meetings/HGC Mac Meeting 3 September 2024.md",
     "Journal/September 2024.md",
-    "2-areas/Personal/Salaries.md",
-    "0-inbox/Chat w Wes 10 September 2024.md",
+    "Journal/11 September 2024 Wednesday.md",
+    "Input/Meetings/HGC Mac Meeting 3 September 2024.md",
+    "Journal/10 September 2024 Tuesday.md",
     "Journal/9 September 2024 Monday.md",
     "Journal/8 September 2024 Sunday.md",
     "Journal/7 September 2024 Saturday.md",
@@ -238,6 +235,11 @@
     "Journal/Fall 2024.md",
     "Journal/5 September 2024 Thursday.md",
     "Journal/4 September 2024 Wednesday.md",
+    "0-inbox/When in Doubt Draft Emails.md",
+    "0-inbox/HGC Mac Meeting 10 September 2024.md",
+    "Input/Meetings/August/HGCAL Rentrée General Meeting August 2024.md",
+    "2-areas/Personal/Salaries.md",
+    "0-inbox/Chat w Wes 10 September 2024.md",
     "Journal/3 September 2024 Tuesday.md",
     "0-inbox/Having children as education.md",
     "0-inbox/CMU Physics Colloquium 9 September 2024.md",
@@ -248,7 +250,6 @@
     "Input/Meetings/August/Chat w Sindhu 26 August 2024.md",
     "0-inbox/multiHiggs working meeting 9 September 2024.md",
     "1-projects/Mixed2.0/Jet DeClustering.md",
-    "Journal/August/19 August 2024 Monday.md",
     "Journal/2023/#March 2023.md#",
     "0-inbox/#BlackSwan.md#",
     "Journal/2023/#February 2023.md#",

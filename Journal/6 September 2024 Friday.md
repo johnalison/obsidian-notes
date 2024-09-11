@@ -57,8 +57,7 @@ Will be nice pairing to the progress reports.. added to calendar
 - Automated the overwriting of auxiliary jet branches ... Needed for MC/data differences
 - How to remove branches from skims? 
 	- A: skip_branches in config
-	- Can this be done dynamically ?  think so.
-	- DONE
+	- Can this be done dynamically ?  think so....yes DONE
 - Running the HH declustering ... failed b/c memory ? 
 - Testing in tmux 335..out of memory... Retrying **cmslpc304** with 2 workers ... works **real    82m51.408s**
 - save sumw2 from input metadata 
@@ -79,7 +78,6 @@ More JetDeclustering
 
 # CMU/CMS Round Table
 - Not much
-
 
 More JetDeclustering ... Nice progress
 

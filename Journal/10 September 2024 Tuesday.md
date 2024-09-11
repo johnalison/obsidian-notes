@@ -12,8 +12,8 @@
 |     | Jet Declustering |     |
 | 12  | MAC              |     |
 |     | MAC              |     |
-| 1   |                  |     |
-|     |                  |     |
+| 1   | Jet Declustering |     |
+|     | Jet Declustering |     |
 | 2   | MPL              |     |
 |     | MPL              |     |
 | 3   | MPL              |     |
@@ -21,19 +21,19 @@
 | 4   | MPL              |     |
 |     | MPL              |     |
 
-**W:**
-**DW:**
-**OT:**
-**ex** or **No ex**
+**W:**. 9 
+**DW:** 3
+**OT:** 3
+**No ex**
 
 # The ONE thing: 
 - [ ] CutFlow Debugging
 
 
 # To Do
-- [ ] CAM Training
-- [ ] Read HGC TDR
-- [ ] Update printCutFlow to compare cutflows
+[>] CAM Training
+[>] Read HGC TDR
+[>] Update printCutFlow to compare cutflows
 - [x] Review Anikets slides For Thursday !
 
 
@@ -64,7 +64,7 @@ Reviewed Anikets DQM slides with him.
 
 [[HGC Mac Meeting 10 September 2024]]
 
-# Mega Debugging!
+# Mega Debugging!....
 
 # MPL
 - Iridium seems unactivated... Pu-239 source was moved not in the reactor !
@@ -75,7 +75,7 @@ Reviewed Anikets DQM slides with him.
 - Engine problem, which chips not getting the clock
 - Monday Management meeting ?
 
- More Debugging
+# More Debugging
 - Fixed with rounding the eta, phi and pt values!
 - Checking cutflow
 
