@@ -51,6 +51,7 @@ M&T to school
 - Push/merge
 - Rerunning all synthetic datasets on **cmslpc343**... **117m19.837s**
 - Finish draft of MC subsampler
+- Move order of MC corrections for declustering (should only affect signal cutflow)
 
 Will move Chris Quigg meeting to Friday.
 
