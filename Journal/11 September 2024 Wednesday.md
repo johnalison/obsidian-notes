@@ -33,6 +33,7 @@
 - [ ] Read HGC TDR
 - [ ] Update printCutFlow to compare cutflows
 - [x] Merge head
+- [ ] Fine Tune histogram ranges
 
 
 
@@ -52,6 +53,10 @@ M&T to school
 - Rerunning all synthetic datasets on **cmslpc343**... **117m19.837s**
 - Finish draft of MC subsampler
 - Move order of MC corrections for declustering (should only affect signal cutflow)
+- Got subsampler working
+- Full dataset (TTbar all year) ... **11m38.034s**
+- More clean up to DeCluster code 
+- Remaking synthetic datasets with seed0 ...
 
 Will move Chris Quigg meeting to Friday.
 
@@ -68,5 +73,12 @@ All good with H surgery
 Back to [[Jet DeClustering]]
 
 # HIG-22-006: accepted by Journal JHEP !
+
+No Early career awards for CMU Hep
+
+[[MPL]]
+
+
+
 
 

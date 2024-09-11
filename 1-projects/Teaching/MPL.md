@@ -20,7 +20,7 @@ https://canvas.cmu.edu/courses/41499
 [[Neutron Activation]]
 [[Mossbauer Experiment]]
 [[Compton Scattering]]
-[[Chaos]]
+[[MPL Chaos Experiment]]
 [[Light Scattering Experiment]]
 
 
