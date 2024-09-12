@@ -47,4 +47,7 @@ M&T to school
 	- Q: how to test?
 - Getting the PSData running
 - Will move isMixed / isDataForMixed / ect to more granular flags and config via yaml files
+- Step one: Granular flags 
+
+[[CMUbbWW 12 September 2024]]
 
