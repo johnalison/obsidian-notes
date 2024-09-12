@@ -59,8 +59,10 @@ Reviewed Anikets DQM slides with him.
 - wrote helper function to output debug info
 - All of the input pt are the same!!
 - All of the clustered pts are the same!!
-- Maybe the splittings are not ordered ?
-- The declustered jet pt are Different!
+- Maybe the splittings are not ordered ??? 
+- The declustered jet pt are Different!... problem was with rounding 
+- Fixed with rounding the eta, phi and pt values!
+- Checking cutflow
 
 [[CMU HGC Mac Meeting 10 September 2024]]
 
@@ -75,11 +77,9 @@ Reviewed Anikets DQM slides with him.
 - Engine problem, which chips not getting the clock
 - Monday Management meeting ?
 
-# More Debugging
-- Fixed with rounding the eta, phi and pt values!
-- Checking cutflow
-
+... More Debugging
 
 [[When in Doubt Draft Emails]]
 
-# Stats Paper Submitted to Arxive 
+# Stats Paper Submitted to arXiv 
+https://arxiv.org/abs/2409.06960

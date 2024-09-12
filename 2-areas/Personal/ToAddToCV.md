@@ -11,10 +11,12 @@
 HIG-22-011 Accepted EPJC
 https://cms-results.web.cern.ch/cms-results/public-results/publications/HIG-22-011/
 
-HIG-22-006 Submitted to JHEP
+HIG-22-006 Accepted to JHEP
 https://cms-results.web.cern.ch/cms-results/public-results/publications/HIG-22-006
 
-OT Paper (Accepted to XX)
+OT Paper (Accepted to annals-of-applied-statistics)
+https://arxiv.org/abs/2208.02807
+
 
 Construction and commissioning of CMS CE prototype silicon modules
 https://arxiv.org/abs/2012.06336
@@ -26,6 +28,10 @@ https://cds.cern.ch/record/2851412/files/PRF-21-001-paper-v3.pdf
 
 Focus topics for the ECFA study on Higgs / Top / EW factories
 https://arxiv.org/abs/2401.07564
+
+Toward Model-Agnostic Detection of New Physics Using Data-Driven Signal Regions
+https://arxiv.org/abs/2409.06960
+
 # Grad Students:
 
 Chuyuan Liu: Tracking Validator

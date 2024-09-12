@@ -29,11 +29,11 @@
 
 
 # To Do
-- [ ] CAM Training
-- [ ] Read HGC TDR
-- [ ] Update printCutFlow to compare cutflows
+[>] CAM Training
+[>] Read HGC TDR
+[>] Update printCutFlow to compare cutflows
 - [x] Merge head
-- [ ] Fine Tune histogram ranges
+[>] Fine Tune histogram ranges
 
 
 
@@ -41,7 +41,7 @@
 
 Up at 7 
 
-H Surgery today 
+H Surgery today... went well ... was fast 
 
 # Fast Day 2
 
@@ -60,8 +60,8 @@ M&T to school
 
 Will move Chris Quigg meeting to Friday.
 
-# bbWW Round table
-- Nothing much
+# CMS bbWW Meeting
+- round table... Nothing much.. A&M moving to a new framework
 
 [[HGC MAC Meeting 11 September 2024]]
 
@@ -82,7 +82,7 @@ Debugging CI cutflow.... Fixed.
 
 Some [[Conspiracy]]
 
-
+Slept in Hs bed, was up all night. 
 
 
 

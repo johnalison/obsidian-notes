@@ -1,0 +1,48 @@
+# Timeblock
+
+|     |                 |     |
+| --- | --------------- | --- |
+| 9   | setup           |     |
+|     | JetDeclustering |     |
+| 10  | JetDeclustering |     |
+|     | JetDeclustering |     |
+| 11  | JetDeclustering |     |
+|     | JetDeclustering |     |
+| 12  | bbWW            |     |
+|     | CMU Faculty     |     |
+| 1   | CMU Faculty     |     |
+|     |                 |     |
+| 2   | MPL             |     |
+|     | MPL             |     |
+| 3   | MPL             |     |
+|     | MPL             |     |
+| 4   | MPL             |     |
+|     | MPL             |     |
+
+**W:**
+**DW:**
+**OT:**
+**ex** or **No ex**
+
+# The ONE thing: 
+- [ ] Validate Subsampling
+
+
+# To Do
+- [ ] CAM Training
+- [ ] Read HGC TDR
+- [ ] Update printCutFlow to compare cutflows
+- [ ] Fine Tune histogram ranges
+- [ ] Script to verify synthetic datasets saw all the input data?
+
+
+# Log
+
+Poor sleep.   Up at 8
+
+M&T to school 
+
+# [[Jet DeClustering]]
+- Analyzing seed 0... looks good. not sure If im seeing as much variation as I would expect. 
+	- Q: how to test?
+- 

@@ -48,7 +48,7 @@ M&T to school ... work by 8:30
 # Will start reviewing the quarterly plans
 [[Summer 2024]]
 [[Fall 2024]]
-Will be nice pairing to the progress reports.. added to calendar
+Will be a nice pairing to the progress reports.. added to calendar
 
 # [[Jet DeClustering]]
 - cleaning code, pushed
@@ -85,7 +85,7 @@ Home with M&T
 
 Some [[Conspiracy]]
 
-To Home Depot
+To Home Depot.. failed to get propane
 
 Finished wrtting up [[BlackSwan]]
 
