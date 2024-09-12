@@ -54,3 +54,4 @@ M&T to school
 [[Faculty Meeting 12 September 2024]]
 
 Chat w/Ricardo will do book club for New Yuval Noah Harari Nexus 
+
