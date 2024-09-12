@@ -45,4 +45,6 @@ M&T to school
 # [[Jet DeClustering]]
 - Analyzing seed 0... looks good. not sure If im seeing as much variation as I would expect. 
 	- Q: how to test?
-- 
+- Getting the PSData running
+- Will move isMixed / isDataForMixed / ect to more granular flags and config via yaml files
+
