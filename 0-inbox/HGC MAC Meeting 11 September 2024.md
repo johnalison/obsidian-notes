@@ -26,12 +26,23 @@ https://indico.cern.ch/event/1454139/
 - All the modules built with the new glue/tape pattern do not show noisy channels identified during assembling procedure 
 - Covering CM capacitor with encapsulant helps protecting chips against failures - This should be done before getting hexaboard to MACs since is time consuming
 
-# Engineering update
+# Engineering update (Suzzane)
 - US MAC Assembly tooling order: Xometry ~16 days
 - (Asia MACs Xometry also ?)
 
-# Baseplates
-- 
+Had to leave. requested recording.
+
+# Laminated Baseplate Pre-Production  (Markus)
+- Stresses minimal for Titanium
+- Baseplate production needs to stay ahead of MAC pre-production ramp up schedule
+
+# Local Database Ecosystem (Sindhu)
+- Nice introduction... Need to watch video
+
+# TTU MAC Updates
+- Assembled another pre-series module: BP-Si: Transfer Tape Si-Hex: Hybrid Tape
+- IV breakdown at 400V
+- Exercising  local and global databases
 
 
 ## Follow-ups

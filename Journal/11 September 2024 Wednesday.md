@@ -19,10 +19,10 @@
 | 4   | Jet Declustering |     |
 |     | Jet Declustering |     |
 
-**W:**
-**DW:**
-**OT:**
-**ex** or **No ex**
+**W:**. 7
+**DW:**. 4
+**OT:** 4
+**ex** 
 
 # The ONE thing: 
 - [ ] Jet DeClustering
@@ -77,6 +77,8 @@ Back to [[Jet DeClustering]]
 No Early career awards for CMU Hep
 
 [[MPL]]
+
+Debugging CI cutflow.... Fixed.
 
 
 
