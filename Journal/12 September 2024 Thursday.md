@@ -55,3 +55,9 @@ M&T to school
 
 Chat w/Ricardo will do book club for New Yuval Noah Harari Nexus 
 
+Chat w/Steph about things wrong with our house.
+
+# MPL
+- Everyone on shell
+* Jet Declustering
+
