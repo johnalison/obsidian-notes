@@ -34,6 +34,7 @@
 - [ ] Update printCutFlow to compare cutflows
 - [ ] Fine Tune histogram ranges
 - [ ] Script to verify synthetic datasets saw all the input data?
+- [ ] Var due!!
 
 
 # Log
