@@ -64,3 +64,10 @@ Chat w/Steph about things wrong with our house.
 * Mossbauer:  Not seeing an signal in hemitite (all others look good)
 		Maybe a problem with the sample? ... Actually seems to be working afterall.
 
+Walk to PITT 
+
+# Chris Quigg public lecture
+
+Walk to get M&T 
+
+Some [[Conspiracy]]
