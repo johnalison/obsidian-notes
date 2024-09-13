@@ -35,6 +35,7 @@
 - [ ] Fine Tune histogram ranges
 - [ ] Script to verify synthetic datasets saw all the input data?
 - [ ] Var due!!
+- [ ] Ping Rong-Shang re:Recording. 
 
 
 # Log
@@ -67,4 +68,15 @@ M&T to school
 
 
 [[StatsChat-13-September-2024]]
+
+# 4b Chat
+- SM
+- CH : Plotting tool / MC samples have the wrong normalization
+	 Evaluation part of the classifier.
+- AE: 
+- JA
+
+# CMS Round Table
+- 
+
 
