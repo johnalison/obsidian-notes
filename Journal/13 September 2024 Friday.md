@@ -77,6 +77,8 @@ M&T to school
 - JA
 
 # CMS Round Table
-- 
+
+
+New ChatGPT 01 seem off scale!!!!
 
 
