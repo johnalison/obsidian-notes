@@ -6,13 +6,13 @@
 | 4  W | Gave Hbb Talk / propagate btag scores / **Hoops** / Chat Olivito                  | 6/4/5 |
 | 5  H | (Scotts Party) btag strings / **Faculty Lunch** / MPL / Gave speech / Union Grill | 8/3/3 |
 | 6  F | Quarterly planning / synthetic datasets on MC / **Hoops** / Wrote [[BlackSwan]]   | 7/4/5 |
-| 7  S |                                                                                   |       |
-| 8  S |                                                                                   |       |
-| 9  M |                                                                                   |       |
-| 10 T | (fast 1) (MPL)                                                                    |       |
-| 11 W | (fast 2)                                                                          |       |
-| 12 H | (Quigg Lecture) (fast 3) (MPL)                                                    |       |
-| 13 F | (Chris Quigg) (fast 4)                                                            |       |
+| 7  S | Reading / Hair Cut / Blue Slide Park / Parents                                    |       |
+| 8  S | Reading / Plans cancelled / Excitement over house / **Gym / SR**                  |       |
+| 9  M | Skimmer CI / **Gym / SR** / debugging / Applied for Mortgage                      | 7/2/4 |
+| 10 T | (fast 1) (MPL) Mega debugging/ Pu source not in reactor! / Stats paper            | 9/3/3 |
+| 11 W | (fast 2) (H Surgery) SubSampler / **Hoops New Gym** / HIG-22-006 accepted         | 7/4/4 |
+| 12 H | (Quigg Lecture) (fast 3) (MPL) Update config/ Quigg Lecture / Walk w/T            | 8/2/3 |
+| 13 F | (Chris Quigg) (break fast)                                                        |       |
 | 14 S | (Erics B-day)                                                                     |       |
 | 15 S |                                                                                   |       |
 | 16 M |                                                                                   |       |

@@ -49,14 +49,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/12 September 2024 Thursday.md",
+                "file": "Journal/September 2024.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cf3d8db293d924d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-inbox/StatsChat-13-September-2024.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -123,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/12 September 2024 Thursday.md",
+                "file": "0-inbox/StatsChat-13-September-2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/12 September 2024 Thursday.md",
+                "file": "0-inbox/StatsChat-13-September-2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/12 September 2024 Thursday.md"
+                "file": "0-inbox/StatsChat-13-September-2024.md"
               }
             }
           }
@@ -186,24 +198,27 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "09a0a47a523ca124",
+  "active": "cf3d8db293d924d2",
   "lastOpenFiles": [
-    "0-inbox/Faculty Meeting 12 September 2024.md",
+    "Journal/13 September 2024 Friday.md",
+    "0-inbox/StatsChat-13-September-2024.md",
     "Journal/12 September 2024 Thursday.md",
-    "Input/Meetings/HGC MAC Meeting 11 September 2024.md",
-    "0-inbox/MPL Chaos Experiment.md",
-    "Input/Meetings/CMUbbWW 12 September 2024.md",
-    "Output/Recommendation  Letters/Valentina Dutta reappointment Letter.md",
-    "Input/Meetings/CMUbbWW 5 September 2024.md",
     "Journal/11 September 2024 Wednesday.md",
-    "2-areas/Personal/ToAddToCV.md",
-    "0-inbox/Things-To-Add-To-Notes.md",
-    "1-projects/Mixed2.0/Jet DeClustering.md",
     "Journal/10 September 2024 Tuesday.md",
     "Journal/9 September 2024 Monday.md",
     "Journal/8 September 2024 Sunday.md",
     "Journal/7 September 2024 Saturday.md",
     "Journal/6 September 2024 Friday.md",
+    "Journal/September 2024.md",
+    "2-areas/Personal/ToAddToCV.md",
+    "Input/Meetings/HGC MAC Meeting 11 September 2024.md",
+    "0-inbox/Faculty Meeting 12 September 2024.md",
+    "0-inbox/MPL Chaos Experiment.md",
+    "Input/Meetings/CMUbbWW 12 September 2024.md",
+    "Output/Recommendation  Letters/Valentina Dutta reappointment Letter.md",
+    "Input/Meetings/CMUbbWW 5 September 2024.md",
+    "0-inbox/Things-To-Add-To-Notes.md",
+    "1-projects/Mixed2.0/Jet DeClustering.md",
     "Journal/5 September 2024 Thursday.md",
     "Journal/2023/February 2023.md",
     "Journal/2023/March 2023.md",
@@ -211,9 +226,6 @@
     "Input/Meetings/CMU HGC Mac Meeting 3 September 2024.md",
     "Input/Meetings/Chat w Aniket 9 September 2024.md",
     "Input/Meetings/Chat w Sindhu 9 September 2024.md",
-    "Input/Meetings/Chat w Wes 10 September 2024.md",
-    "Input/Meetings/CMU HGC Mac Meeting 10 September 2024.md",
-    "Input/Meetings/CMU Physics Colloquium 9 September 2024.md",
     "Journal/2023/#March 2023.md#",
     "0-inbox/#BlackSwan.md#",
     "Journal/2023/#February 2023.md#",
