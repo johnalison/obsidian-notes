@@ -1,31 +1,31 @@
 # Timeblock
 
-|     | setup              |     |
-| --- | ------------------ | --- |
-| 9   | Chris Quigg        |     |
-|     | Chris Quigg        |     |
-| 10  | Chris Quigg        |     |
-|     | Chris Quigg        |     |
-| 11  | Chris Quigg        |     |
-|     |                    |     |
-| 12  | HEP Lunch          |     |
-|     | HEP Lunch          |     |
-| 1   | Soehuen            |     |
-|     | Soehuen            |     |
-| 2   | CMS 4b             |     |
-|     | CMS 4b             |     |
-| 3   | CMU CMS            |     |
-|     | CMU CMS            |     |
-| 4   | Progress Reporting |     |
-|     | Progress Reporting |     |
+|     | setup / Jet Clustering |     |
+| --- | ---------------------- | --- |
+| 9   | Chris Quigg            |     |
+|     | Chris Quigg            |     |
+| 10  | Chris Quigg            |     |
+|     | Chris Quigg            |     |
+| 11  | Chris Quigg            |     |
+|     |                        |     |
+| 12  | HEP Lunch              |     |
+|     | HEP Lunch              |     |
+| 1   | Soehuen                |     |
+|     | Soehuen                |     |
+| 2   | CMS 4b                 |     |
+|     | CMS 4b                 |     |
+| 3   | CMU CMS                |     |
+|     | CMU CMS                |     |
+| 4   | Progress Reporting     |     |
+|     | Grad Social            |     |
 
-**W:**
-**DW:**
-**OT:**
-**ex** or **No ex**
+**W:**. 8 
+**DW:** 0 
+**OT:** 2 
+**No ex**
 
 # The ONE thing: 
-- [ ] Chris Quigg
+- [x] Chris Quigg
 
 
 # To Do
@@ -33,9 +33,9 @@
 - [ ] Read HGC TDR
 - [ ] Update printCutFlow to compare cutflows
 - [ ] Fine Tune histogram ranges
-- [ ] Script to verify synthetic datasets saw all the input data?
+- [ ] ~~Script to verify synthetic datasets saw all the input data?
 - [x] Var due!!
-- [ ] Ping Rong-Shang re:Recording. 
+- [x] Ping Rong-Shang re:Recording. 
 
 
 # Log
@@ -69,17 +69,16 @@ M&T to school
 
 [[StatsChat-13-September-2024]]
 
-# 4b Chat
-- SM
-- CH : Plotting tool / MC samples have the wrong normalization
-	 Evaluation part of the classifier.
-- AE: 
-- JA
+
+[[CMU 4b Chat 13 September 2024]]
 
 # CMS Round Table
+- Not much
 
-
+Articles about new ChatGPT 01
 New ChatGPT 01 seem off scale!!!!
+
+Discussion AE/SM seem to hate capitalism.  
 
 # Social
 
@@ -87,5 +86,9 @@ New ChatGPT 01 seem off scale!!!!
 [[CAM Variance September 2024]]
 
 
-Did Var
+Did Vars. 
+
+# Finished [[Conspiracy]]
+
+
 
