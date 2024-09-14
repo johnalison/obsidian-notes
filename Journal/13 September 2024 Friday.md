@@ -81,4 +81,9 @@ M&T to school
 
 New ChatGPT 01 seem off scale!!!!
 
+# Social
+
+
+[[CAM Variance September 2024]]
+
 

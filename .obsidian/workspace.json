@@ -61,7 +61,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/13 September 2024 Friday.md",
+                "file": "0-inbox/CAM Variance September 2024.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9edc9d377422050f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Output/CAM/CAM Variance August 2024.md",
                 "mode": "source",
                 "source": false
               }
@@ -135,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/13 September 2024 Friday.md",
+                "file": "0-inbox/CAM Variance September 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/13 September 2024 Friday.md",
+                "file": "0-inbox/CAM Variance September 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/13 September 2024 Friday.md"
+                "file": "0-inbox/CAM Variance September 2024.md"
               }
             }
           }
@@ -200,8 +212,12 @@
   },
   "active": "cf3d8db293d924d2",
   "lastOpenFiles": [
-    "0-inbox/StatsChat-13-September-2024.md",
+    "Output/CAM/CAM Variance August 2024.md",
+    "0-inbox/CAM Variance September 2024.md",
+    "Journal/September 2024.md",
+    "2-areas/Personal/ToAddToCV.md",
     "Journal/13 September 2024 Friday.md",
+    "0-inbox/StatsChat-13-September-2024.md",
     "Journal/12 September 2024 Thursday.md",
     "Journal/11 September 2024 Wednesday.md",
     "Journal/10 September 2024 Tuesday.md",
@@ -209,8 +225,6 @@
     "Journal/8 September 2024 Sunday.md",
     "Journal/7 September 2024 Saturday.md",
     "Journal/6 September 2024 Friday.md",
-    "Journal/September 2024.md",
-    "2-areas/Personal/ToAddToCV.md",
     "Input/Meetings/HGC MAC Meeting 11 September 2024.md",
     "0-inbox/Faculty Meeting 12 September 2024.md",
     "0-inbox/MPL Chaos Experiment.md",
@@ -224,8 +238,6 @@
     "Journal/2023/March 2023.md",
     "1-projects/Teaching/MPL.md",
     "Input/Meetings/CMU HGC Mac Meeting 3 September 2024.md",
-    "Input/Meetings/Chat w Aniket 9 September 2024.md",
-    "Input/Meetings/Chat w Sindhu 9 September 2024.md",
     "Journal/2023/#March 2023.md#",
     "0-inbox/#BlackSwan.md#",
     "Journal/2023/#February 2023.md#",
