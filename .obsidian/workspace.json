@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/CAM Variance September 2024.md",
+                "file": "Journal/13 September 2024 Friday.md",
                 "mode": "source",
                 "source": false
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/CAM Variance September 2024.md",
+                "file": "Journal/13 September 2024 Friday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/CAM Variance September 2024.md",
+                "file": "Journal/13 September 2024 Friday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/CAM Variance September 2024.md"
+                "file": "Journal/13 September 2024 Friday.md"
               }
             }
           }
@@ -212,9 +212,10 @@
   },
   "active": "cf3d8db293d924d2",
   "lastOpenFiles": [
-    "Output/CAM/CAM Variance August 2024.md",
     "0-inbox/CAM Variance September 2024.md",
+    "Output/CAM/CAM Variance August 2024.md",
     "Journal/September 2024.md",
+    "Input/Meetings/HGC MAC Meeting 11 September 2024.md",
     "2-areas/Personal/ToAddToCV.md",
     "Journal/13 September 2024 Friday.md",
     "0-inbox/StatsChat-13-September-2024.md",
@@ -225,7 +226,6 @@
     "Journal/8 September 2024 Sunday.md",
     "Journal/7 September 2024 Saturday.md",
     "Journal/6 September 2024 Friday.md",
-    "Input/Meetings/HGC MAC Meeting 11 September 2024.md",
     "0-inbox/Faculty Meeting 12 September 2024.md",
     "0-inbox/MPL Chaos Experiment.md",
     "Input/Meetings/CMUbbWW 12 September 2024.md",

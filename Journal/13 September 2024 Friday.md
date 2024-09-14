@@ -34,7 +34,7 @@
 - [ ] Update printCutFlow to compare cutflows
 - [ ] Fine Tune histogram ranges
 - [ ] Script to verify synthetic datasets saw all the input data?
-- [ ] Var due!!
+- [x] Var due!!
 - [ ] Ping Rong-Shang re:Recording. 
 
 
@@ -86,4 +86,6 @@ New ChatGPT 01 seem off scale!!!!
 
 [[CAM Variance September 2024]]
 
+
+Did Var
 
