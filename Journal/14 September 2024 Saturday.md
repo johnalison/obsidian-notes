@@ -14,4 +14,9 @@ Some [[Nexus]]
 
 [[April 2023]]
 
-Writing up [[Conspiracy]]
+Wrote up [[Conspiracy]]
+
+# Erics Birthday Party
+
+Finished [[Seneca-Letters-from-a-Stoic]]
+
