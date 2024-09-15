@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/15 September 2024 Sunday.md",
+                "file": "Journal/2023/May 2023.md",
                 "mode": "source",
                 "source": false
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/15 September 2024 Sunday.md",
+                "file": "Journal/2023/May 2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/15 September 2024 Sunday.md",
+                "file": "Journal/2023/May 2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/15 September 2024 Sunday.md"
+                "file": "Journal/2023/May 2023.md"
               }
             }
           }
@@ -188,8 +188,9 @@
   },
   "active": "cf3d8db293d924d2",
   "lastOpenFiles": [
-    "Journal/14 September 2024 Saturday.md",
     "Journal/15 September 2024 Sunday.md",
+    "Journal/2023/May 2023.md",
+    "Journal/14 September 2024 Saturday.md",
     "Journal/13 September 2024 Friday.md",
     "Input/Books/Books.md",
     "Input/Books/Libertarianism-A-primer.md",
@@ -214,7 +215,6 @@
     "Input/Meetings/Faculty Meeting 12 September 2024.md",
     "Output/CAM/CAM Variance September 2024.md",
     "2-areas/Personal/ToAddToCV.md",
-    "Input/Meetings/HGC MAC Meeting 11 September 2024.md",
     "Journal/2023/#March 2023.md#",
     "0-inbox/#BlackSwan.md#",
     "Journal/2023/#February 2023.md#",
