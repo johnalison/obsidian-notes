@@ -1,4 +1,6 @@
 
+- [[Seneca-Letters-from-a-Stoic]] (Seneca)
+
 - [[Conspiracy]] (Ryan Holiday)
 
 * [[MindfullnessBook]]
