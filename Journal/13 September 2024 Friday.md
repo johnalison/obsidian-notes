@@ -29,10 +29,10 @@
 
 
 # To Do
-- [ ] CAM Training
-- [ ] Read HGC TDR
-- [ ] Update printCutFlow to compare cutflows
-- [ ] Fine Tune histogram ranges
+[>] CAM Training
+[>] Read HGC TDR
+[>] Update printCutFlow to compare cutflows
+[>] Fine Tune histogram ranges
 - [ ] ~~Script to verify synthetic datasets saw all the input data?
 - [x] Var due!!
 - [x] Ping Rong-Shang re:Recording. 

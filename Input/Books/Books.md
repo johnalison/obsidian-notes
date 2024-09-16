@@ -1,6 +1,8 @@
 
 - [[Conspiracy]] (Ryan Holiday)
 
+* [[MindfullnessBook]]
+
 - [[BlackSwan]] (Nassim Taleb)
 
 - [[American Covenant]] (Yuval Levin)

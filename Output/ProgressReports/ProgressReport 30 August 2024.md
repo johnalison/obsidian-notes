@@ -1,7 +1,6 @@
 Stopped Drinking ! / Lots of JetDeclustering and letter writing / thinking about libertarianism and bottom-up emergence 
 
-Expect productivity function to increase from stopping to drink. Want to refocus meditation and use mindfulness to explore situations where I would have drank before.
-This is also a chance to focus on integrity, clear thinking, and to build character. 
+Expect productivity function to increase from stopping to drink. Want to refocus meditation and use mindfulness to explore situations where I would have drank before. This is also a chance to focus on integrity, clear thinking, and to build character. 
 
 # 4b
 Progress this fortnight has mainly been on getting new synthetic datasets for HH->4b. Most of the work is complete and the results are quite promising. The obvious next steps are to make 15 synthetic datasets (from different random seeds) and repeat the closure exercise on them.  This will require getting a production-line for the creation and processing of datasets with different random seeds and should be a nice exercise of the new classifier code
@@ -23,13 +22,15 @@ Progress here is still slow. Aniket is close, but is missing a few key steps.  I
 Soheun has been very productive and we a couple of promissing ides: importance of latent space / smearing in context of imperfect background model / clustering. Seems like we are not getting closure without a signal, this is being followed up on now. The other big questions are 1) how will this compare to the other data-driven anomaly detection schemes 2) how can we interpret a null result.  (eg: how to interpret the smearing)
 
 # SOS
-Out of touch here.  Need to chat with wes about big picture next steps.
+Out of touch here.  Need to chat with Wes about big picture next steps.
 
 ## Follow-ups
 
 
 ## Links: 
-[[Progress Resports]]
+[[Progress Reports]]
+[[Fall 2024]]
+
 
 
 

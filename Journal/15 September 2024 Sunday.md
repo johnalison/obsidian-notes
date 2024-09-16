@@ -14,3 +14,8 @@ Some [[Nexus]]
 - Halos / Core / 20min EMOM
 
 [[May 2023]]
+
+Submitted an offer for $689k
+
+Read https://reason.com/2024/09/14/faucis-pandemic/
+
