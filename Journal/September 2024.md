@@ -19,7 +19,7 @@
 | 17 T | (MPL)                                                                             |       |
 | 18 W |                                                                                   |       |
 | 19 H | (MPL)                                                                             |       |
-| 20 F | (STAMPS Launch)                                                                   |       |
+| 20 F | (STAMPS Launch) (No Cyert)                                                        |       |
 | 21 S |                                                                                   |       |
 | 22 S |                                                                                   |       |
 | 23 M |                                                                                   |       |

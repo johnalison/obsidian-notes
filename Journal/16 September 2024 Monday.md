@@ -47,9 +47,14 @@ To Campus to fuck around
 
 Draft of [[ProgressReport 16 September 2024]]
 
+Walked back Home
+
 [[FBC2 Meeting 16 September 2024]]
 
 Wrote up [[Seneca-Letters-from-a-Stoic]]
 
 [[multiHiggs working meeting 16 September 2024]]
 
+Made wings
+
+[[Chat w Sindhu 16 September 2024]]
