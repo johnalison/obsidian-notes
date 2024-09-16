@@ -62,5 +62,15 @@ Made wings
 # [[Jet DeClustering]]
 - Add option to script to make `ps_data` prefix to data
 - Why is there tag in the TT PSData ? 
+- Validated the PSdata
+- [ ] Compare synthetic + PS data data
 
-Chat Chris Berman
+# Chat Chris Berman
+- Getting PCA going
+
+Renewed FNAL account:
+- Request number: RITM2224312  
+- https://fermi.servicenowservices.com/access_request_status.do?sysparm_ritm=RITM2224312
+
+Start [[Self-Help is like a vaccine]]
+
