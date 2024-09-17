@@ -24,7 +24,7 @@
 - Shipping foam: delivery date *unknown*. 
 
 # Aleesha 
-- Encapsulation slides
+- Encapsulation slides. Very nice.
 
 # Sindhu
 - Lab view meeting with Kurt (?)
