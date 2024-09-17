@@ -2,6 +2,12 @@
 # Action:
 - Confusing why we are seeing 4 sigma observed significance 
 
+# EXO meeting: 
+- chat re: low pt electron searches
+
+# SOS
+- Updated limits
+
 
 
 

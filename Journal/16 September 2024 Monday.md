@@ -61,7 +61,7 @@ Made wings
 - Add option to script to make `ps_data` prefix to data
 [<] Why is there tag in the TT PSData ? 
 - Validated the PSdata
-[<] Compare synthetic + PS data data to data 
+φ[<] Compare synthetic + PS data data to data 
 
 # Chat Chris Berman
 - Getting PCA going

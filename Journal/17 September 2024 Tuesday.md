@@ -5,10 +5,10 @@
 | 8   | MPL   |     |
 |     | MPL   |     |
 | 9   | setup |     |
-|     | Wes   |     |
+|     | Gym   |     |
 | 10  | Gym   |     |
 |     | Gym   |     |
-| 11  | Gym   |     |
+| 11  | Wes   |     |
 |     |       |     |
 | 12  | MAC   |     |
 |     | MAC   |     |
@@ -51,5 +51,8 @@ w-mass seminar: https://indico.cern.ch/event/1441575/
 
 Finished [[ProgressReport 16 September 2024]]
 
-[[Chat w Wes 17 September 2024]]
+# Gym / Steamroom
+- Core / pull-ups / front squat / press
+- 10' at Tmax = 124
 
+[[Chat w Wes 17 September 2024]]
