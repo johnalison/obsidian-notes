@@ -32,19 +32,7 @@
             }
           },
           {
-            "id": "cf3d8db293d924d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Output/ProgressReports/ProgressReport 30 August 2024.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9edc9d377422050f",
+            "id": "dc6de82ae1d57c66",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -56,31 +44,19 @@
             }
           },
           {
-            "id": "aec7334704a00623",
+            "id": "c6793f1788cb96e9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/ProgressReport 16 September 2024.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dc6de82ae1d57c66",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Journal/17 September 2024 Tuesday.md",
+                "file": "1-projects/Mixed2.0/Jet DeClustering.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -147,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/17 September 2024 Tuesday.md",
+                "file": "Journal/September 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/17 September 2024 Tuesday.md",
+                "file": "Journal/September 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/17 September 2024 Tuesday.md"
+                "file": "Journal/September 2024.md"
               }
             }
           }
@@ -210,35 +186,35 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "dc6de82ae1d57c66",
+  "active": "09a0a47a523ca124",
   "lastOpenFiles": [
-    "Journal/17 September 2024 Tuesday.md",
-    "0-inbox/ProgressReport 16 September 2024.md",
     "Journal/16 September 2024 Monday.md",
+    "Journal/September 2024.md",
+    "1-projects/Mixed2.0/Jet DeClustering.md",
+    "Journal/15 September 2024 Sunday.md",
+    "Input/Books/Libertarianism-A-primer.md",
+    "Journal/14 September 2024 Saturday.md",
+    "Journal/13 September 2024 Friday.md",
+    "0-inbox/Chat w Wes 17 September 2024.md",
+    "Input/Meetings/Chat w Wes 10 September 2024.md",
+    "Journal/17 September 2024 Tuesday.md",
+    "Output/ProgressReports/ProgressReport 30 August 2024.md",
+    "Output/ProgressReports/ProgressReport 16 September 2024.md",
     "Journal/9 September 2024 Monday.md",
     "0-inbox/Chat w Sindhu 16 September 2024.md",
     "Input/Meetings/Chat w Sindhu 9 September 2024.md",
-    "Journal/September 2024.md",
     "0-inbox/multiHiggs working meeting 16 September 2024.md",
     "Input/Books/Seneca-Letters-from-a-Stoic.md",
     "Input/Books/#Seneca-Letters-from-a-Stoic.md#",
     "Input/Books/Books.md",
     "0-inbox/FBC2 Meeting 16 September 2024.md",
     "Input/Meetings/FBC2 Meeting 9 September 2024.md",
-    "Output/ProgressReports/ProgressReport 30 August 2024.md",
     "Journal/12 September 2024 Thursday.md",
     "Journal/11 September 2024 Wednesday.md",
     "Journal/10 September 2024 Tuesday.md",
     "Journal/7 September 2024 Saturday.md",
     "Journal/6 September 2024 Friday.md",
     "Journal/5 September 2024 Thursday.md",
-    "Journal/4 September 2024 Wednesday.md",
-    "Journal/3 September 2024 Tuesday.md",
-    "Journal/2 September 2024 Monday.md",
-    "Journal/15 September 2024 Sunday.md",
-    "Journal/14 September 2024 Saturday.md",
-    "Journal/13 September 2024 Friday.md",
-    "0-inbox/MindfullnessBook.md",
     "Journal/2023/#April 2023.md#",
     "Journal/2023/#March 2023.md#",
     "0-inbox/#BlackSwan.md#",

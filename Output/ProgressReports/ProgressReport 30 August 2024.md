@@ -7,7 +7,7 @@ Progress this fortnight has mainly been on getting new synthetic datasets for HH
 
 AE has made nice progress on getting the low Pt analysis ready. I would expect first results on this front soon. 
 
-I have rescoped Sindhu to  X->HH->4b.  This should be a straightforward reuse of the ZZ/ZH->4b analysis this for Run2.  I'd like her to get a serious first pass of this analysis an present in B2G. Once she has started we will see how quickly progress is made. Could then potentially move to less-charted 4b terrirotory (X->YH / semi-supervised) 
+I have rescoped Sindhu to  X->HH->4b.  This should be a straightforward reuse of the ZZ/ZH->4b analysis this for Run2.  I'd like her to get a serious first pass of this analysis an present in B2G. Once she has started we will see how quickly progress is made. Could then potentially move to less-charted 4b territory (X->YH / semi-supervised) 
 
 Chuyuan has promising results on fitting SvB with different lambda samples. Need to understand what he is working on now and what his next steps are. 
 
@@ -19,7 +19,7 @@ Progress here is still slow. Aniket is close, but is missing a few key steps.  I
 
 
 # Semi-supervised Stats Project
-Soheun has been very productive and we a couple of promissing ides: importance of latent space / smearing in context of imperfect background model / clustering. Seems like we are not getting closure without a signal, this is being followed up on now. The other big questions are 1) how will this compare to the other data-driven anomaly detection schemes 2) how can we interpret a null result.  (eg: how to interpret the smearing)
+Soheun has been very productive and we a couple of promising ides: importance of latent space / smearing in context of imperfect background model / clustering. Seems like we are not getting closure without a signal, this is being followed up on now. The other big questions are 1) how will this compare to the other data-driven anomaly detection schemes 2) how can we interpret a null result.  (eg: how to interpret the smearing)
 
 # SOS
 Out of touch here.  Need to chat with Wes about big picture next steps.

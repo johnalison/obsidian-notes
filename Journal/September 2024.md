@@ -12,10 +12,10 @@
 | 10 T | (fast 1) (MPL) Mega debugging/ Pu source not in reactor! / Stats paper            | 9/3/3 |
 | 11 W | (fast 2) (H Surgery) SubSampler / **Hoops New Gym** / HIG-22-006 accepted         | 7/4/4 |
 | 12 H | (Quigg Lecture) (fast 3) (MPL) Update config/ Quigg Lecture / Walk w/T            | 8/2/3 |
-| 13 F | (Chris Quigg) (break fast)                                                        |       |
-| 14 S | (Erics B-day)                                                                     |       |
-| 15 S |                                                                                   |       |
-| 16 M |                                                                                   |       |
+| 13 F | (Chris Quigg) (break fast) Hep Lunch / HGC VARS / Grad Social                     | 8/0/2 |
+| 14 S | (Erics B-day)  Flags for processors /  Finished [[Seneca-Letters-from-a-Stoic]]   |       |
+| 15 S | Sammys party / **Kettle Bells** / Submit offer for house                          |       |
+| 16 M | Unexpected Cyert closed /  home w/kids / Finances (1.8/1.7)                       | 2/0/- |
 | 17 T | (MPL)                                                                             |       |
 | 18 W |                                                                                   |       |
 | 19 H | (MPL)                                                                             |       |

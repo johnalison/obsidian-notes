@@ -1,25 +1,25 @@
 # Timeblock
 
-|     |     |     |
-| --- | --- | --- |
-| 8   | MPL |     |
-|     | MPL |     |
-| 9   |     |     |
-|     | Wes |     |
-| 10  |     |     |
-|     |     |     |
-| 11  |     |     |
-|     |     |     |
-| 12  | MAC |     |
-|     | MAC |     |
-| 1   |     |     |
-|     |     |     |
-| 2   | MPL |     |
-|     | MPL |     |
-| 3   | MPL |     |
-|     | MPL |     |
-| 4   | MPL |     |
-|     | MPL |     |
+|     |       |     |
+| --- | ----- | --- |
+| 8   | MPL   |     |
+|     | MPL   |     |
+| 9   | setup |     |
+|     | Wes   |     |
+| 10  | Gym   |     |
+|     | Gym   |     |
+| 11  | Gym   |     |
+|     |       |     |
+| 12  | MAC   |     |
+|     | MAC   |     |
+| 1   |       |     |
+|     |       |     |
+| 2   | MPL   |     |
+|     | MPL   |     |
+| 3   | MPL   |     |
+|     | MPL   |     |
+| 4   | MPL   |     |
+|     | MPL   |     |
 
 **W:**
 **DW:**
@@ -27,14 +27,18 @@
 **ex** or **No ex**
 
 # The ONE thing: 
-- [ ] Progress Report
+- [x] Progress Report
+- [ ] 
 
 
 # To Do
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
+- [ ] Watch w-mass seminar
+- [ ] CAM Training
+- [ ] Read HGC TDR
+- [ ] Update printCutFlow to compare cutflows
+- [ ] Fine Tune histogram ranges
+- [ ] Test FvT SB vs SB | ZZ | ZH
+
 
 
 # Log
@@ -42,4 +46,10 @@
 Up at 7. 
 
 SMH still hammering away
+
+w-mass seminar: https://indico.cern.ch/event/1441575/
+
+Finished [[ProgressReport 16 September 2024]]
+
+[[Chat w Wes 17 September 2024]]
 

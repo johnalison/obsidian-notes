@@ -31,7 +31,9 @@ Getting the new mixing going
 	- [x] Subtract ttbar from Input data being clustered
 	- [ ] Then add back non declustered TTbar
 	- [x] Or compare to ttbar subtracted data ? 
-- [ ] Skimmer to make sub-sampled TTbar datasets
+- [x] Skimmer to make sub-sampled TTbar datasets
+	- [ ]  Why is there tag in the TT PSData ? 
+	- [ ] Compare synthetic + PS data data to data 
 - [ ] ~~run clustering on ttbar MC ?
 - [x] Propagate Btagging scores ?
 	- [x] Migrate to strings
