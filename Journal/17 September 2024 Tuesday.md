@@ -38,6 +38,8 @@
 - [ ] Update printCutFlow to compare cutflows
 - [ ] Fine Tune histogram ranges
 - [ ] Test FvT SB vs SB | ZZ | ZH
+- [ ] Chat Curtis re:MCS computing
+- [ ] Debug trigger weights
 
 
 
@@ -56,3 +58,5 @@ Finished [[ProgressReport 16 September 2024]]
 - 10' at Tmax = 124
 
 [[Chat w Wes 17 September 2024]]
+
+Trigger weigths in python seems buggy.  Debug wrt c++

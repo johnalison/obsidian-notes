@@ -6,7 +6,10 @@
 - chat re: low pt electron searches
 
 # SOS
-- Updated limits
+- Updated limits. 
+- Observed significant is inconsistent with limit plots and with post-fit data distributions. 
+
+
 
 
 
