@@ -38,7 +38,7 @@
 - [ ] Update printCutFlow to compare cutflows
 - [ ] Fine Tune histogram ranges
 - [ ] Test FvT SB vs SB | ZZ | ZH
-- [ ] Chat Curtis re:MCS computing
+- [ ] ~~Chat Curtis re:MCS computing
 - [ ] [[Debug trigger weights]]
 - [ ] 
 
@@ -66,9 +66,11 @@ AE to look into FvT Fits
 
 Pinged Nuno re:computing
 - Will start being annoying here.
+- Proceed here before going through Curtis
 
 # [[Jet DeClustering]]
-- Debugging PSdata code have three tag events in `-e UL16_postVFP  -p ps_data_TTToHadronic`
+- [[Debugging PSdata]] code have three tag events in `-e UL16_postVFP  -p ps_data_TTToHadronic`
+  --> Solved. B/c of the MC jet calibration
 
 [[CMU HGC Mac Meeting 17 September 2024]]
 

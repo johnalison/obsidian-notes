@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/Debug trigger weights.md",
+                "file": "Journal/17 September 2024 Tuesday.md",
                 "mode": "source",
                 "source": false
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/Debug trigger weights.md",
+                "file": "Journal/17 September 2024 Tuesday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/Debug trigger weights.md",
+                "file": "Journal/17 September 2024 Tuesday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/Debug trigger weights.md"
+                "file": "Journal/17 September 2024 Tuesday.md"
               }
             }
           }
@@ -200,11 +200,12 @@
   },
   "active": "dc6de82ae1d57c66",
   "lastOpenFiles": [
+    "0-inbox/Debugging PSdata.md",
     "Journal/17 September 2024 Tuesday.md",
+    "0-inbox/Debug trigger weights.md",
     "0-inbox/CMU HGC Mac Meeting 17 September 2024.md",
     "Input/Books/Libertarianism-A-primer.md",
     "Input/Meetings/CMU HGC Mac Meeting 10 September 2024.md",
-    "0-inbox/Debug trigger weights.md",
     "0-inbox/Chat w Wes 17 September 2024.md",
     "Journal/16 September 2024 Monday.md",
     "Journal/September 2024.md",
@@ -226,7 +227,6 @@
     "Input/Meetings/FBC2 Meeting 9 September 2024.md",
     "Journal/12 September 2024 Thursday.md",
     "Journal/11 September 2024 Wednesday.md",
-    "Journal/10 September 2024 Tuesday.md",
     "Journal/2023/#April 2023.md#",
     "Journal/2023/#March 2023.md#",
     "0-inbox/#BlackSwan.md#",
