@@ -4,7 +4,7 @@ Great book. Changed the way I think.
 
 - Libertarianism is the view that each person has the right to live his life in any way he chooses so long as he respects the equal rights of others.
 
-- all human relationsships should be voluntary; the only thing that should be forbidden by law are those that involve hte inition fo force against those who have not use force themselves.
+- all human relationships should be voluntary; the only thing that should be forbidden by law are those that involve hte inition fo force against those who have not use force themselves.
 
 - Governments are needed to protect our rights and to protect us from others who may use force against us.
 

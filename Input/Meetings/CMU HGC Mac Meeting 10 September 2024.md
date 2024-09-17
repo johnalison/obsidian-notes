@@ -4,7 +4,7 @@
 - [ ] Clean lab/change filters soon 
 - [ ] UG lab tech ? x 2 ?
 - [ ] Backups on everything
-- [ ] Ping Rachesl remodules
+- [x] Ping Rachesl remodules
 
 # News
 - Mac Meeting tomorrow 11
