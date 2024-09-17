@@ -74,3 +74,4 @@ Renewed FNAL account:
 
 Start [[Self-Help is like a vaccine]]
 
+Did finances (1.8/1.7)
