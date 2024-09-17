@@ -1,31 +1,29 @@
 # Timeblock
 
-|     |              |     |
-| --- | ------------ | --- |
-| 9   |              |     |
-|     |              |     |
-| 10  |              |     |
-|     | HH4b Meeting |     |
-| 11  |              |     |
-|     |              |     |
-| 12  | Multi-higgs  |     |
-|     |              |     |
-| 1   |              |     |
-|     |              |     |
-| 2   |              |     |
-|     | Sindhu       |     |
-| 3   | Aniket       |     |
-|     |              |     |
-| 4   |              |     |
-|     |              |     |
+|     |                  |     |
+| --- | ---------------- | --- |
+| 9   | kids             |     |
+|     | kids             |     |
+| 10  | kids             |     |
+|     | HH4b Meeting     |     |
+| 11  |                  |     |
+|     |                  |     |
+| 12  | Multi-higgs      |     |
+|     |                  |     |
+| 1   |                  |     |
+|     |                  |     |
+| 2   |                  |     |
+|     | Sindhu           |     |
+| 3   | kids             |     |
+|     | Jet DeClustering |     |
+| 4   | Jet DeClustering |     |
+|     | Berman           |     |
 
 **W:**
 **DW:**
-**OT:**
+**OT:**. NA
 **ex** or **No ex**
 
-# The ONE thing: 
-- [ ] 
 
 
 # To Do
@@ -33,7 +31,7 @@
 - [ ] Read HGC TDR
 - [ ] Update printCutFlow to compare cutflows
 - [ ] Fine Tune histogram ranges
-- [ ] Ping Michelle Waters re:Ad
+- [x] Ping Michelle Waters re:Ad
 - [ ] Test FvT SB vs SB | ZZ | ZH
 
 
@@ -75,3 +73,7 @@ Renewed FNAL account:
 Start [[Self-Help is like a vaccine]]
 
 Did finances (1.8/1.7)
+
+Not much ... 
+
+Pinged Michelle Waters
