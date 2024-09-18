@@ -25,7 +25,9 @@
 **ex** or **No ex**
 
 # The ONE thing: 
-- [ ] [[Debug trigger weights]]
+- [x] [[Debug trigger weights]]
+- [ ] [[Jet DeClustering]]
+
 
 
 # To Do
@@ -35,7 +37,7 @@
 - [ ] Update printCutFlow to compare cutflows
 - [ ] Fine Tune histogram ranges
 - [ ] Test FvT SB vs SB | ZZ | ZH
-- [ ] [[Debug trigger weights]]
+- [x] [[Debug trigger weights]]
 
 # Log
  
@@ -47,9 +49,9 @@ M&T to school
 - Pushed sub-sampling working
 
 # [[Debug trigger weights]]
+- Fixed.  np.all(ht ) < upper_bin -> ht < upper_bin
 
-
-Watching w-mass:
+# Watching w-mass:
 - Subset of 2016 data 16.8/fb (pu = 30)
 - Only use inner tracker to fit muon pt
 - Only use muon pt to fit mW: (Different systematics have different shapes)
