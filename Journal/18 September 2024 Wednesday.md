@@ -49,7 +49,7 @@ M&T to school
 - Pushed sub-sampling working
 
 # [[Debug trigger weights]]
-- Fixed.  np.all(ht ) < upper_bin -> ht < upper_bin
+- Fixed.  np.all(ht) < upper_bin -> ht < upper_bin
 
 # Watching w-mass:
 - Subset of 2016 data 16.8/fb (pu = 30)
@@ -58,3 +58,10 @@ M&T to school
 	- 3D fit pt/eta/charge
 - Effectively Do with J/psi include local terms for Bfield distortion and material model
 - Constrain theory uncertianties directly with W data
+
+# Hoops 
+- Great runs / Great wins. 
+- Played decent
+
+Trigger weights still not well modeled. 
+
