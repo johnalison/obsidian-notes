@@ -1,23 +1,23 @@
 # Timeblock
 
-|     | setup |     |
-| --- | ----- | --- |
-| 9   |       |     |
-|     |       |     |
-| 10  |       |     |
-|     |       |     |
-| 11  |       |     |
-|     |       |     |
-| 12  | Hoops |     |
-|     | Hoops |     |
-| 1   | Hoops |     |
-|     | Hoops |     |
-| 2   |       |     |
-|     |       |     |
-| 3   |       |     |
-|     |       |     |
-| 4   |       |     |
-|     |       |     |
+|     | setup                     |     |
+| --- | ------------------------- | --- |
+| 9   | [[Debug trigger weights]] |     |
+|     | [[Debug trigger weights]] |     |
+| 10  | [[Debug trigger weights]] |     |
+|     | [[Jet DeClustering]]      |     |
+| 11  | Wmass                     |     |
+|     | Wmass                     |     |
+| 12  | Hoops                     |     |
+|     | Hoops                     |     |
+| 1   | Hoops                     |     |
+|     | Hoops                     |     |
+| 2   | [[Debug trigger weights]] |     |
+|     | [[Debug trigger weights]] |     |
+| 3   | Jet Declustering          |     |
+|     | Jet Declustering          |     |
+| 4   | Sindhu                    |     |
+|     |                           |     |
 
 **W:**
 **DW:**
@@ -31,11 +31,11 @@
 
 
 # To Do
-- [ ] Watch w-mass seminar
+- [x] Watch w-mass seminar
 - [ ] CAM Training
 - [ ] Read HGC TDR
 - [ ] Update printCutFlow to compare cutflows
-- [ ] Fine Tune histogram ranges
+- [ ] Fine Tune histogram ranges (are the clustering hists affected... No!)
 - [ ] Test FvT SB vs SB | ZZ | ZH
 - [x] [[Debug trigger weights]]
 
@@ -47,6 +47,9 @@ M&T to school
 
 # [[Jet DeClustering]]
 - Pushed sub-sampling working
+- Remaking subsample... output on EOS... Done
+- Testing all synthetic data + TT PSdata
+- debugging running PS with isSynthetic flag
 
 # [[Debug trigger weights]]
 - Fixed.  np.all(ht) < upper_bin -> ht < upper_bin
@@ -63,7 +66,11 @@ M&T to school
 - Great runs / Great wins. 
 - Played decent
 
-Trigger weights still not well modeled. 
+# Trigger weights still not well modeled. 
+ - Lots more debugging... weights actually seem OK to me.
+ - Seems like false alarm (AE needs to remake the input friend trees)
 
 # Si sensors arrived
 - put them in the shipping area
+
+Now jet declustering....
