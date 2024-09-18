@@ -56,7 +56,7 @@ M&T to school
 
 Chat w/Ricardo will do book club for New Yuval Noah Harari: Nexus 
 
-Chat w/Steph about things wrong with our house.
+Chat w/Steph about things wrong with house we are looking into.
 
 # MPL
 - Everyone on shell

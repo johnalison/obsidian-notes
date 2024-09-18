@@ -59,9 +59,9 @@ Made wings
 
 # [[Jet DeClustering]]
 - Add option to script to make `ps_data` prefix to data
-[<] Why is there tag in the TT PSData ? 
+[<] Why are there tag events in the TT PSData ? 
 - Validated the PSdata
-φ[<] Compare synthetic + PS data data to data 
+[<] Compare synthetic + PS data data to data 
 
 # Chat Chris Berman
 - Getting PCA going

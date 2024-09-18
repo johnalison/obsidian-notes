@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/17 September 2024 Tuesday.md",
+                "file": "Journal/18 September 2024 Wednesday.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Input/Meetings/CMU HGC Mac Meeting 10 September 2024.md",
+                "file": "0-inbox/Debug trigger weights.md",
                 "mode": "source",
                 "source": false
               }
@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/17 September 2024 Tuesday.md",
+                "file": "0-inbox/Debug trigger weights.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/17 September 2024 Tuesday.md",
+                "file": "0-inbox/Debug trigger weights.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/17 September 2024 Tuesday.md"
+                "file": "0-inbox/Debug trigger weights.md"
               }
             }
           }
@@ -198,12 +198,22 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "dc6de82ae1d57c66",
+  "active": "cfd89250ad39e9a8",
   "lastOpenFiles": [
+    "Journal/18 September 2024 Wednesday.md",
+    "0-inbox/Debug trigger weights.md",
+    "Journal/17 September 2024 Tuesday.md",
+    "1-projects/Mixed2.0/Jet DeClustering.md",
+    "Journal/16 September 2024 Monday.md",
+    "Journal/15 September 2024 Sunday.md",
+    "Journal/14 September 2024 Saturday.md",
+    "Journal/13 September 2024 Friday.md",
+    "Journal/12 September 2024 Thursday.md",
+    "Journal/11 September 2024 Wednesday.md",
+    "Input/Meetings/CMU HGC Mac Meeting 10 September 2024.md",
     "Input/Meetings/multiHiggs working meeting 16 September 2024.md",
     "0-inbox/MPL Chaos Experiment.md",
     "0-inbox/HGC TDR.md",
-    "0-inbox/Debug trigger weights.md",
     "Input/Books/MindfullnessBook.md",
     "Input/Meetings/FBC2 Meeting 16 September 2024.md",
     "Input/Blogs/Economics is a Field of Software Engineering.md",
@@ -215,17 +225,7 @@
     "Input/Meetings/CMU 4b Chat 6 September 2024.md",
     "Input/Meetings/CMU 4b Chat 13 September 2024.md",
     "Input/Meetings/CMU HGC Mac Meeting 3 September 2024.md",
-    "Input/Meetings/CMU HGC Mac Meeting 10 September 2024.md",
     "Input/Meetings/CMU Physics Colloquium 9 September 2024.md",
-    "Input/Meetings/CMUbbWW 5 September 2024.md",
-    "Input/Meetings/CMUbbWW 12 September 2024.md",
-    "Input/Meetings/Faculty Meeting 12 September 2024.md",
-    "Input/Meetings/FBC2 Meeting 9 September 2024.md",
-    "Input/Meetings/HGC MAC Meeting 11 September 2024.md",
-    "Input/Meetings/HGCManagementMeeting 3 September 2024.md",
-    "Input/Meetings/JetPairingInVqqHcc.excalidraw.md",
-    "Input/Meetings/multiHiggs working meeting 9 September 2024.md",
-    "Input/Meetings/SEARCH_FOR_BARYON-NUMBER-VIOLATING_PROCESSES_IN_Belle.md",
     "Input/Books/#Seneca-Letters-from-a-Stoic.md#",
     "Journal/2023/#April 2023.md#",
     "Journal/2023/#March 2023.md#",

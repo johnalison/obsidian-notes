@@ -31,14 +31,14 @@
 
 
 # To Do
-- [ ] Watch w-mass seminar
-- [ ] CAM Training
-- [ ] Read HGC TDR
-- [ ] Update printCutFlow to compare cutflows
-- [ ] Fine Tune histogram ranges
-- [ ] Test FvT SB vs SB | ZZ | ZH
-- [ ] ~~Chat Curtis re:MCS computing
-- [ ] [[Debug trigger weights]]
+[>] Watch w-mass seminar
+[>] CAM Training
+[>] Read HGC TDR
+[>] Update printCutFlow to compare cutflows
+[>] Fine Tune histogram ranges
+[>] Test FvT SB vs SB | ZZ | ZH
+[>] ~~Chat Curtis re:MCS computing~~
+[>]  [[Debug trigger weights]]
 
 
 # Log

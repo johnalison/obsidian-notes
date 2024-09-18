@@ -17,5 +17,6 @@ Some [[Nexus]]
 
 Submitted an offer for $689k
 
-Read https://reason.com/2024/09/14/faucis-pandemic/
+Read Should we blame Fauci for the Pandemic?
+https://reason.com/2024/09/14/faucis-pandemic/
 
