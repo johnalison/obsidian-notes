@@ -17,12 +17,12 @@
 | 3   | Jet Declustering          |     |
 |     | Jet Declustering          |     |
 | 4   | Sindhu                    |     |
-|     |                           |     |
+|     | Jet Declustering          |     |
 
-**W:**
-**DW:**
-**OT:**
-**ex** or **No ex**
+**W:**. 7 
+**DW:** 3
+**OT:** 4
+**ex** 
 
 # The ONE thing: 
 - [x] [[Debug trigger weights]]
@@ -51,6 +51,8 @@ M&T to school
 - Testing all synthetic data + TT PSdata
 - debugging running PS with isSynthetic flag...working
 - Adding PS data to synthetic dataset via metadata file.
+- Made synthetic datasets with and without PSData TT
+- Making nominal data (w/o TT) on **cmslpc343**
 
 # [[Debug trigger weights]]
 - Fixed.  np.all(ht) < upper_bin -> ht < upper_bin
@@ -74,4 +76,4 @@ M&T to school
 # Si sensors arrived
 - put them in the shipping area
 
-Now jet declustering....
+Now jet declustering....(see above)
