@@ -65,3 +65,5 @@ M&T to school
 
 Trigger weights still not well modeled. 
 
+# Si sensors arrived
+- put them in the shipping area
