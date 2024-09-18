@@ -49,7 +49,8 @@ M&T to school
 - Pushed sub-sampling working
 - Remaking subsample... output on EOS... Done
 - Testing all synthetic data + TT PSdata
-- debugging running PS with isSynthetic flag
+- debugging running PS with isSynthetic flag...working
+- Adding PS data to synthetic dataset via metadata file.
 
 # [[Debug trigger weights]]
 - Fixed.  np.all(ht) < upper_bin -> ht < upper_bin
