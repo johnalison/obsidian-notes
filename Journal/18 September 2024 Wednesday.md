@@ -50,6 +50,9 @@ M&T to school
 
 
 Watching w-mass:
-- Subset of 1X data 16.8/fb
+- Subset of 2016 data 16.8/fb (pu = 30)
 - Only use inner tracker to fit muon pt
 - Only use muon pt to fit mW: (Different systematics have different shapes)
+	- 3D fit pt/eta/charge
+- Effectively Do with J/psi include local terms for Bfield distortion and material model
+- Constrain theory uncertianties directly with W data
