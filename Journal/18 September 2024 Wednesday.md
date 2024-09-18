@@ -50,4 +50,6 @@ M&T to school
 
 
 Watching w-mass:
-- 
+- Subset of 1X data 16.8/fb
+- Only use inner tracker to fit muon pt
+- Only use muon pt to fit mW: (Different systematics have different shapes)
