@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/18 September 2024 Wednesday.md",
+                "file": "0-inbox/Debug trigger weights.md",
                 "mode": "source",
                 "source": false
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/18 September 2024 Wednesday.md",
+                "file": "0-inbox/Debug trigger weights.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/18 September 2024 Wednesday.md",
+                "file": "0-inbox/Debug trigger weights.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/18 September 2024 Wednesday.md"
+                "file": "0-inbox/Debug trigger weights.md"
               }
             }
           }
@@ -200,8 +200,8 @@
   },
   "active": "dc6de82ae1d57c66",
   "lastOpenFiles": [
-    "Journal/September 2024.md",
     "Journal/18 September 2024 Wednesday.md",
+    "Journal/September 2024.md",
     "0-inbox/Debug trigger weights.md",
     "Journal/17 September 2024 Tuesday.md",
     "1-projects/Mixed2.0/Jet DeClustering.md",
