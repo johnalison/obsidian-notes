@@ -26,11 +26,11 @@ Getting the new mixing going
 - [ ] [[bj pt mismodeling]]
 - [ ] [[bj splitting mismodelings]]
 - [ ] What happens to pt overflows in the clustering ?
-- [ ] TTbar Subtractions/ Additions
+- [x] TTbar Subtractions/ Additions
 	- [x] Subtract ttbar from Templates
 	- [x] Subtract ttbar from Input data being clustered
-	- [ ] Then add back non declustered TTbar
-		- [ ] Compare ttbar subtracted + PSdata to nominal
+	- [x] Then add back non declustered TTbar
+		- [x] Compare ttbar subtracted + PSdata to nominal
 	- [x] Or compare to ttbar subtracted data ? 
 - [x] Skimmer to make sub-sampled TTbar datasets
 	- [x]  Why is there tag in the TT PSData ? 
