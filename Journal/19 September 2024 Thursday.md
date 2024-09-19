@@ -50,8 +50,9 @@ M&T to school
 	- Will follow whats done with the mixed data instead
 - [x] Script to make synthetirc datasets with different seeds
 - [ ] Make datasets with different seeds. 1/15
-- Making Synthetric data set seed0 on **cmslpc343**
-
+- Making Synthetic data set seed0 on **cmslpc343**
+- Writing synthetic data output to EOS
+- Outputting 
 
 [[Low Pt Jet Meeting 19 September 2024]]
 
@@ -60,3 +61,11 @@ M&T to school
 
 [[CMUbbWW 19 September 2024]]
 
+# Faculty Meeting
+- Fenguie and Antonella: all 3s
+
+# MPL
+- Muons on-shell
+- Neutrons all good
+- Mossbauer OK
+- Some [[Jet DeClustering]] notes above
