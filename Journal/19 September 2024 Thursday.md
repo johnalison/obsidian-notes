@@ -47,8 +47,8 @@ M&T to school
 - Made nominal data (w/o TT) on **cmslpc343**
 - Made nominal data wTT on **cmslpc343**
 - [ ] Script to make synthetic dataset yml (add PSDAta)
-- [ ] Script to make synthetirc datasets with different seeds
-- [ ] Make datasets with different seeds
+- [x] Script to make synthetirc datasets with different seeds
+- [ ] Make datasets with different seeds. 1/15
 - Making Synthetric data set seed0 on **cmslpc343**
 
 
