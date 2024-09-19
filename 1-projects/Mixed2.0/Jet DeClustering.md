@@ -103,7 +103,7 @@ Getting the new mixing going
 - 00-06-02: All years / new groupings 
 - 00-07-00: All years / Xb/Yj groupings (21 total)
 - 00-07-01:       ''        Tuning ranges
-- 00-07-02:    like 00-07-01, but with ttbar subtractiont
+- 00-07-02:    like 00-07-01, but with ttbar subtraction
 
 
 # Archive:

@@ -18,7 +18,7 @@
 | 16 M | Unexpected Cyert closed /  home w/kids / Finances (1.8/1.7)                       | 2/0/- |
 | 17 T | (MPL)                                                                             |       |
 | 18 W |                                                                                   |       |
-| 19 H | (MPL)                                                                             |       |
+| 19 H | (MPL)(Cranmer)                                                                    |       |
 | 20 F | (STAMPS Launch) (No Cyert)                                                        |       |
 | 21 S |                                                                                   |       |
 | 22 S |                                                                                   |       |

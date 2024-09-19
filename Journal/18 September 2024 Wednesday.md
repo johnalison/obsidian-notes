@@ -32,11 +32,11 @@
 
 # To Do
 - [x] Watch w-mass seminar
-- [ ] CAM Training
-- [ ] Read HGC TDR
-- [ ] Update printCutFlow to compare cutflows
-- [ ] Fine Tune histogram ranges (are the clustering hists affected... No!)
-- [ ] Test FvT SB vs SB | ZZ | ZH
+[>] CAM Training
+[>] Read HGC TDR
+[>] Update printCutFlow to compare cutflows
+[>] Fine Tune histogram ranges (are the clustering hists affected... No!)
+[>] Test FvT SB vs SB | ZZ | ZH
 - [x] [[Debug trigger weights]]
 
 # Log
@@ -52,7 +52,7 @@ M&T to school
 - debugging running PS with isSynthetic flag...working
 - Adding PS data to synthetic dataset via metadata file.
 - Made synthetic datasets with and without PSData TT
-- Making nominal data (w/o TT) on **cmslpc343**
+- Making nominal data (w/o TT) on **cmslpc343**.... works 
 
 # [[Debug trigger weights]]
 - Fixed.  np.all(ht) < upper_bin -> ht < upper_bin
@@ -82,3 +82,6 @@ Reading: Why chemistry is hard
 https://www.owlposting.com/p/generative-ml-in-chemistry-is-bottlenecked
 
 [[June 2023]]
+
+Reading [[Nexus]]  and [[Self-Help is like a vaccine]]
+

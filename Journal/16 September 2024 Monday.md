@@ -39,7 +39,7 @@
 
 Up at 7 
 
-M&T to school..CYERT CLOSED. 
+M&T to school..CYERT CLOSED! b/c flooding
 
 To Campus to fuck around
 
