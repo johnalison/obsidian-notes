@@ -77,3 +77,8 @@ M&T to school
 - put them in the shipping area
 
 Now jet declustering....(see above)
+
+Reading: Why chemistry is hard
+https://www.owlposting.com/p/generative-ml-in-chemistry-is-bottlenecked
+
+[[June 2023]]
