@@ -46,7 +46,8 @@ M&T to school
 # [[Jet DeClustering]]
 - Made nominal data (w/o TT) on **cmslpc343**
 - Made nominal data wTT on **cmslpc343**
-- [ ] Script to make synthetic dataset yml (add PSDAta)
+- [ ] ~~Script to make synthetic dataset yml (add PSDAta)~~
+	- Will follow whats done with the mixed data instead
 - [x] Script to make synthetirc datasets with different seeds
 - [ ] Make datasets with different seeds. 1/15
 - Making Synthetric data set seed0 on **cmslpc343**
@@ -56,4 +57,6 @@ M&T to school
 
 # Chat with Kyle
 
+
+[[CMUbbWW 19 September 2024]]
 

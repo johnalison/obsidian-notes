@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/19 September 2024 Thursday.md",
+                "file": "0-inbox/CMUbbWW 19 September 2024.md",
                 "mode": "source",
                 "source": false
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/19 September 2024 Thursday.md",
+                "file": "0-inbox/CMUbbWW 19 September 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/19 September 2024 Thursday.md",
+                "file": "0-inbox/CMUbbWW 19 September 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/19 September 2024 Thursday.md"
+                "file": "0-inbox/CMUbbWW 19 September 2024.md"
               }
             }
           }
@@ -200,8 +200,9 @@
   },
   "active": "c6793f1788cb96e9",
   "lastOpenFiles": [
-    "1-projects/Mixed2.0/Jet DeClustering.md",
     "Journal/19 September 2024 Thursday.md",
+    "0-inbox/CMUbbWW 19 September 2024.md",
+    "1-projects/Mixed2.0/Jet DeClustering.md",
     "0-inbox/Low Pt Jet Meeting 19 September 2024.md",
     "Journal/September 2024.md",
     "0-inbox/Debug trigger weights.md",
@@ -226,7 +227,6 @@
     "Input/Blogs/Economics is a Field of Software Engineering.md",
     "Input/Meetings/CMU HGC Mac Meeting 17 September 2024.md",
     "Input/Meetings/Chat w Wes 17 September 2024.md",
-    "0-inbox/AnalysesOverview.excalidraw.md",
     "Input/Books/#Seneca-Letters-from-a-Stoic.md#",
     "Journal/2023/#April 2023.md#",
     "Journal/2023/#March 2023.md#",
