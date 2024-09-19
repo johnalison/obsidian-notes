@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/CMUbbWW 19 September 2024.md",
+                "file": "Journal/19 September 2024 Thursday.md",
                 "mode": "source",
                 "source": false
               }
@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/CMUbbWW 19 September 2024.md",
+                "file": "1-projects/Mixed2.0/Jet DeClustering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/CMUbbWW 19 September 2024.md",
+                "file": "1-projects/Mixed2.0/Jet DeClustering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/CMUbbWW 19 September 2024.md"
+                "file": "1-projects/Mixed2.0/Jet DeClustering.md"
               }
             }
           }
@@ -198,15 +198,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c6793f1788cb96e9",
+  "active": "5909f526a0b17069",
   "lastOpenFiles": [
     "Journal/19 September 2024 Thursday.md",
+    "Journal/18 September 2024 Wednesday.md",
     "0-inbox/CMUbbWW 19 September 2024.md",
     "1-projects/Mixed2.0/Jet DeClustering.md",
     "0-inbox/Low Pt Jet Meeting 19 September 2024.md",
     "Journal/September 2024.md",
     "0-inbox/Debug trigger weights.md",
-    "Journal/18 September 2024 Wednesday.md",
     "Journal/17 September 2024 Tuesday.md",
     "Journal/16 September 2024 Monday.md",
     "Journal/15 September 2024 Sunday.md",
