@@ -33,7 +33,8 @@
 - [ ] Read HGC TDR
 - [ ] Update skimmer CI: Compare cutflow during skim vs later processing vs known values
 - [ ] Update printCutFlow to compare cutflows
-- [ ] Add year option to plotting
+- [x] Add year option to plotting
+	- On Saturday
 - [x] Push ttbar subtraction function 
 - [x] Add synthetic dataset analyzer
 

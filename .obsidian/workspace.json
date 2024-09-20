@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "e348bad75ed3ae17",
+        "id": "bb549a225f8a6ef8",
         "type": "tabs",
         "children": [
           {
-            "id": "5384b28610f78646",
+            "id": "926ad8ec617f3354",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "conflict-files-obsidian-git.md"
+              }
             }
           }
         ],
@@ -140,8 +148,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5384b28610f78646",
+  "active": "926ad8ec617f3354",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "Journal/7 September 2024 Saturday.md",
     "Journal/31 August 2024 Saturday.md",
     "Output/Speech for Scotts going away party.md",
@@ -167,7 +176,6 @@
     "Journal/August/23 August 2024 Friday.md",
     "Journal/August/22 August 2024 Thursday.md",
     "Journal/August/21 August 2024 Wednesday.md",
-    "Journal/August/20 August 2024 Tuesday.md",
     "Journal/August",
     "Journal/2023",
     "Input/Meetings/August",
