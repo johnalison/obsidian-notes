@@ -69,3 +69,9 @@ M&T to school
 - Neutrons all good
 - Mossbauer OK
 - Some [[Jet DeClustering]] notes above
+
+# Trigger weights now look good!
+
+Home with M&T
+
+Some [[Nexus]]
