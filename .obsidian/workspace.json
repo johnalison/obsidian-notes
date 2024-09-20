@@ -56,6 +56,18 @@
             }
           },
           {
+            "id": "9910b9792d66ad3c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-inbox/Neutrino Weighting.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "5909f526a0b17069",
             "type": "leaf",
             "state": {
@@ -68,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/Goals.md",
+                "file": "0-inbox/Neutrino Weighting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/Goals.md",
+                "file": "0-inbox/Neutrino Weighting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/Goals.md"
+                "file": "0-inbox/Neutrino Weighting.md"
               }
             }
           }
@@ -197,14 +209,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c6793f1788cb96e9",
+  "active": "9910b9792d66ad3c",
   "lastOpenFiles": [
+    "Journal/Goals.md",
+    "0-inbox/Neutrino Weighting.md",
     "Input/Learning List.md",
     "Output/Lists.md",
     "Input/SomedayMaybe.md",
     "Journal/20 September 2024 Friday.md",
     "0-inbox/Ratio Errors.md",
-    "Journal/Goals.md",
     "Journal/Fall 2024.md",
     "Journal/19 September 2024 Thursday.md",
     "Journal/6 September 2024 Friday.md",
@@ -225,7 +238,6 @@
     "Journal/2023/March 2023.md",
     "Journal/2023/May 2023.md",
     "Journal/2023/#June 2023.md#",
-    "Journal/11 September 2024 Wednesday.md",
     "Input/Books/#Seneca-Letters-from-a-Stoic.md#",
     "Journal/2023/#April 2023.md#",
     "Journal/2023/#March 2023.md#",
