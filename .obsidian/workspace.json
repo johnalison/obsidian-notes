@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-resources/computing/RenewGridCert.md",
+                "file": "Input/Politics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f64a3ac450ab2683",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-inbox/CMU 4b Chat 20 September 2024.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "grid",
+                "query": "#consum",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-resources/computing/RenewGridCert.md",
+                "file": "0-inbox/CMU 4b Chat 20 September 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-resources/computing/RenewGridCert.md",
+                "file": "0-inbox/CMU 4b Chat 20 September 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-resources/computing/RenewGridCert.md"
+                "file": "0-inbox/CMU 4b Chat 20 September 2024.md"
               }
             }
           }
@@ -149,10 +162,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "462d1a5f04ba76f3",
+  "active": "f64a3ac450ab2683",
   "lastOpenFiles": [
-    "2-areas/CMS/CMSSWNotes.md",
     "Journal/20 September 2024 Friday.md",
+    "0-inbox/CMU 4b Chat 20 September 2024.md",
+    "Input/Politics.md",
+    "00-Zettelkasten/ZettelKasten Index.md",
+    "00-Zettelkasten/Diminishing Returns in Politics.md",
+    "Input/Books/Going big.md",
+    "3-resources/computing/RenewGridCert.md",
+    "2-areas/CMS/CMSSWNotes.md",
     "conflict-files-obsidian-git.md",
     "Output/ProgressReports/ProgressReport 16 September 2024.md",
     "Output/CAM/CAM Variance September 2024.md",
@@ -172,12 +191,6 @@
     "Journal/13 September 2024 Friday.md",
     "Journal/12 September 2024 Thursday.md",
     "Journal/11 September 2024 Wednesday.md",
-    "Journal/10 September 2024 Tuesday.md",
-    "Input/Meetings/multiHiggs working meeting 9 September 2024.md",
-    "Input/Meetings/multiHiggs working meeting 16 September 2024.md",
-    "Input/Meetings/StatsChat-13-September-2024.md",
-    "Input/Meetings/July/CMU HGC Mac Meeting 18 July 2024.md",
-    "Input/Meetings/July/CMU HGC MAC Meeting 25 July 2024.md",
     "Journal/August",
     "Journal/2023",
     "Input/Meetings/August",

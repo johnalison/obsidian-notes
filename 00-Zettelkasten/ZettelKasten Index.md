@@ -106,6 +106,7 @@ Index:
 [[Libertarianism]]
 [[Libertarianism-more-effective-in-complicated-societies]]
 
+[[Diminishing Returns in Politics]]
 
 # Free Will
 [[Free-Will-Lens-As-Mental-Model]]
