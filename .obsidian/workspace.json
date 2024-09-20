@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/Goals.md",
+                "file": "Input/Books/Enchiridion.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/Neutrino Weighting.md",
+                "file": "0-inbox/Nexus.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:list",
+                "query": "file:books",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/Neutrino Weighting.md",
+                "file": "0-inbox/Nexus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/Neutrino Weighting.md",
+                "file": "0-inbox/Nexus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/Neutrino Weighting.md"
+                "file": "0-inbox/Nexus.md"
               }
             }
           }
@@ -211,12 +211,16 @@
   },
   "active": "9910b9792d66ad3c",
   "lastOpenFiles": [
+    "Input/Books/Enchiridion.md",
+    "Input/Books/Books.md",
+    "Input/Books/BlackSwan.md",
     "Journal/Goals.md",
+    "0-inbox/Nexus.md",
+    "Journal/20 September 2024 Friday.md",
     "0-inbox/Neutrino Weighting.md",
     "Input/Learning List.md",
     "Output/Lists.md",
     "Input/SomedayMaybe.md",
-    "Journal/20 September 2024 Friday.md",
     "0-inbox/Ratio Errors.md",
     "Journal/Fall 2024.md",
     "Journal/19 September 2024 Thursday.md",
@@ -233,10 +237,6 @@
     "Journal/16 September 2024 Monday.md",
     "Journal/15 September 2024 Sunday.md",
     "Journal/14 September 2024 Saturday.md",
-    "Journal/12 September 2024 Thursday.md",
-    "Journal/2023/June 2023.md",
-    "Journal/2023/March 2023.md",
-    "Journal/2023/May 2023.md",
     "Journal/2023/#June 2023.md#",
     "Input/Books/#Seneca-Letters-from-a-Stoic.md#",
     "Journal/2023/#April 2023.md#",

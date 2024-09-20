@@ -9,3 +9,5 @@ No Cyert... Home with H&M
 
 [[Ratio Errors]]
 
+Writing up [[Nexus]]
+
