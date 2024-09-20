@@ -16,9 +16,9 @@
 | 14 S | (Erics B-day)  Flags for processors /  Finished [[Seneca-Letters-from-a-Stoic]]   |       |
 | 15 S | Sammys party / **Kettle Bells** / Submit offer for house                          |       |
 | 16 M | Unexpected Cyert closed /  home w/kids / Finances (1.8/1.7)                       | 2/0/- |
-| 17 T | (MPL)                                                                             |       |
-| 18 W |                                                                                   |       |
-| 19 H | (MPL)(Cranmer)                                                                    |       |
+| 17 T | (MPL) **Gym/SR** /  Debug PS data/ MLP / Have HGC Ad                              | 7/1/1 |
+| 18 W | Debug Trig weights / Watch W-mass / **Hoops** / Si Sensors arrived                | 7/3/4 |
+| 19 H | (MPL)(Cranmer) Setup Synthetic datasets / Kyle Cranmer / Last MPL!                | 8/2/2 |
 | 20 F | (STAMPS Launch) (No Cyert)                                                        |       |
 | 21 S |                                                                                   |       |
 | 22 S |                                                                                   |       |

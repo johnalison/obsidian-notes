@@ -21,7 +21,7 @@
 - [ ] Cosmology
 - [ ] Assembly
 - [x] Mental Math
-- [ ] Astrophysics
+- [ ] Astrophysics (Wienberg)
 - [ ] Gaussian Processes
 - [ ] Structure: Why things dont fall down
 - [ ] The Art of Electronics

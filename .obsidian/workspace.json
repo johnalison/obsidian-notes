@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/18 September 2024 Wednesday.md",
+                "file": "Journal/6 September 2024 Friday.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/19 September 2024 Thursday.md",
+                "file": "Journal/Goals.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,14 +61,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/19 September 2024 Thursday.md",
+                "file": "Journal/20 September 2024 Friday.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -87,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:book",
+                "query": "file:list",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,8 +114,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -135,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/19 September 2024 Thursday.md",
+                "file": "Journal/Goals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/19 September 2024 Thursday.md",
+                "file": "Journal/Goals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/19 September 2024 Thursday.md"
+                "file": "Journal/Goals.md"
               }
             }
           }
@@ -198,35 +197,35 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5909f526a0b17069",
+  "active": "c6793f1788cb96e9",
   "lastOpenFiles": [
-    "1-projects/Mixed2.0/Jet DeClustering.md",
+    "Input/Learning List.md",
+    "Output/Lists.md",
+    "Input/SomedayMaybe.md",
+    "Journal/20 September 2024 Friday.md",
+    "0-inbox/Ratio Errors.md",
+    "Journal/Goals.md",
+    "Journal/Fall 2024.md",
     "Journal/19 September 2024 Thursday.md",
+    "Journal/6 September 2024 Friday.md",
+    "Journal/13 September 2024 Friday.md",
+    "Journal/September 2024.md",
     "Journal/18 September 2024 Wednesday.md",
+    "Journal/17 September 2024 Tuesday.md",
+    "Output/ProgressReports/ProgressReport 16 September 2024.md",
+    "1-projects/Mixed2.0/Jet DeClustering.md",
     "0-inbox/CMUbbWW 19 September 2024.md",
     "0-inbox/Low Pt Jet Meeting 19 September 2024.md",
-    "Journal/September 2024.md",
     "0-inbox/Debug trigger weights.md",
-    "Journal/17 September 2024 Tuesday.md",
     "Journal/16 September 2024 Monday.md",
     "Journal/15 September 2024 Sunday.md",
     "Journal/14 September 2024 Saturday.md",
-    "Journal/13 September 2024 Friday.md",
     "Journal/12 September 2024 Thursday.md",
     "Journal/2023/June 2023.md",
     "Journal/2023/March 2023.md",
     "Journal/2023/May 2023.md",
     "Journal/2023/#June 2023.md#",
     "Journal/11 September 2024 Wednesday.md",
-    "Input/Meetings/CMU HGC Mac Meeting 10 September 2024.md",
-    "Input/Meetings/multiHiggs working meeting 16 September 2024.md",
-    "0-inbox/MPL Chaos Experiment.md",
-    "0-inbox/HGC TDR.md",
-    "Input/Books/MindfullnessBook.md",
-    "Input/Meetings/FBC2 Meeting 16 September 2024.md",
-    "Input/Blogs/Economics is a Field of Software Engineering.md",
-    "Input/Meetings/CMU HGC Mac Meeting 17 September 2024.md",
-    "Input/Meetings/Chat w Wes 17 September 2024.md",
     "Input/Books/#Seneca-Letters-from-a-Stoic.md#",
     "Journal/2023/#April 2023.md#",
     "Journal/2023/#March 2023.md#",

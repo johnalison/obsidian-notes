@@ -12,7 +12,7 @@ Sindhu is making slow progress on X->HH->4b. I need to push more in this area. T
 Chuyuan's paper has now been accepted! I need him to help me with the FvT fitting and then get going on his thesis. 
 
 # HGC
-Its a relatively slow period as not much is going with modules.  I think we now have a better handle on IV curves, (only one bad module) and wierd behaviour likely due to glue patter. The ramp-up schedule already slipped, will now do 4 module/day starting in November (not October as planned in August!) For this, Jonas will focus on the Gantry.  I still think we need to push on ramping personel. 
+Its a relatively slow period as not much is going with modules.  I think we now have a better handle on IV curves, (only one bad module) and weird behaviour likely due to the glue pattern. The ramp-up schedule has already slipped, we will now do 4 module/day starting in November (not October as planned in August!) For this, Jonas will focus on the Gantry.  I still think we need to push on ramping personel. 
 
 # bbWW
 Aniket making steady progress.  Chi2 now makes sense and we are using a more reasonable processor.  Struggling with neutrino fitting. Apparently this is not as easy as I had assumed. Hopefully this can accelerate soon.
