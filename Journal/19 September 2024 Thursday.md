@@ -1,6 +1,6 @@
 # Timeblock
 
-|     |                      |     |
+|     | setup                |     |
 | --- | -------------------- | --- |
 | 9   | Low PT meeting       |     |
 |     | [[Jet DeClustering]] |     |
@@ -19,10 +19,10 @@
 | 4   | MPL                  |     |
 |     | MPL                  |     |
 
-**W:**
-**DW:**
-**OT:**
-**ex** or **No ex**
+**W:** 8 
+**DW:** 2
+**OT:** 2
+**No ex**
 
 # The ONE thing: 
 - [ ] [[Jet DeClustering]]
