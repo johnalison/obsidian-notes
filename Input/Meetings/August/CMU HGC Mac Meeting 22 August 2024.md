@@ -59,7 +59,7 @@ HGC Meeting next week
 
 # Links: 
 [[HGC]]
-[[HGC Mac Meeting 15 August 2024]]
+[[CMU HGC Mac Meeting 15 August 2024]]
 
 
 202408221055

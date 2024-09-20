@@ -8,36 +8,41 @@ Getting the new mixing going
 - Extension to full Run2 dataset
 
 # To Do
-- [ ] PDFs by year ?
+- [ ] Compare splittings by year
 - [ ] Check re-clustering
 - [ ] Read [[Do graph neural networks learn traditional jet substructure?]]
-- [ ] Write out picos with the synthetic datasets jet
+- [x] Write out picos with the synthetic datasets jet
 	- [x] Add random number seed input
 	- [x] Add random number seed to output file name
 	- [x] Test processor HH4b on output files
 	- [x] Add CI
-	- [ ] Randseed via command line
-		-Separate script that creates input files and submits jobs
-	- [ ] Yaml errors from skimming output 
-	- [ ] Script to create synthetric datasets yaml
+	- [x] Randseed via command line
+		- [x] Separate script that creates input files and submits jobs
+	- [x] Yaml errors from skimming output 
+	- [x] Script to create synthetric datasets yaml
 		- Need to merge with existing dataset script to get (at least the data info)
-	- [ ] Output picos to EOS 
+	- [x] Output picos to EOS 
 - [ ] [[ResamplingBug]]
 - [ ] [[bj pt mismodeling]]
 - [ ] [[bj splitting mismodelings]]
-- [ ] Compare splittings by year
 - [ ] What happens to pt overflows in the clustering ?
-- [ ] TTbar Subtractions/ Additions
+- [x] TTbar Subtractions/ Additions
 	- [x] Subtract ttbar from Templates
 	- [x] Subtract ttbar from Input data being clustered
-	- [ ] Then add back non declustered TTbar
+	- [x] Then add back non declustered TTbar
+		- [x] Compare ttbar subtracted + PSdata to nominal
 	- [x] Or compare to ttbar subtracted data ? 
-- [ ] Skimmer to make sub-sampled TTbar datasets
-- [ ] run clustering on ttbar MC ?
+- [x] Skimmer to make sub-sampled TTbar datasets
+	- [x]  Why is there tag in the TT PSData ? 
+	- [x] Compare synthetic + PS data data to data 
+- [ ] ~~run clustering on ttbar MC ?
 - [x] Propagate Btagging scores ?
 	- [x] Migrate to strings
 - [ ] Propagate selJet flag.. then check to make sure pt>40 ect.
 - [ ] Check to make sure that the lepton veto wont kill synthetic jets
+- [ ] cutflow for UL16 nominal vs making synthetic data (eg: all events pass jetMult in synthetic data...)
+- [ ] Money plots
+	- 3b no FvT vs Data vs Synthetic Data
 
 
 # Ideas: 
@@ -81,6 +86,7 @@ Getting the new mixing going
 - with 00-07-01 PDFs **116m39.358s**
 - with 00-07-02 PDFs and dR fix...**117m16.100s**
 - with 00-07-02 PDFs and retry at 8 ... **121m1.577s**
+- Above after changes for CI **117m19.837s**
 
 # Making Datasets
 - with 00-07-02 PDFs and retry at 8 ... **86m56.847s**
@@ -99,7 +105,7 @@ Getting the new mixing going
 - 00-06-02: All years / new groupings 
 - 00-07-00: All years / Xb/Yj groupings (21 total)
 - 00-07-01:       ''        Tuning ranges
-- 00-07-02:    like 00-07-01, but with ttbar subtractiont
+- 00-07-02:    like 00-07-01, but with ttbar subtraction
 
 
 # Archive:

@@ -1,11 +1,21 @@
 
+- [[Seneca-Letters-from-a-Stoic]] (Seneca)
+
+- [[Conspiracy]] (Ryan Holiday)
+
+* [[MindfullnessBook]]
+
+- [[BlackSwan]] (Nassim Taleb)
+
 - [[American Covenant]] (Yuval Levin)
 
-* Moby Dick [[Moby Dick]]. (Herman Melvill)
+- [[Libertarianism-A-primer]] (David Boaz)
 
--  Fooled By Randomness [[FooledByRandomness]] (Nassim Taleb)
+*  [[Moby Dick]]. (Herman Melvill)
 
--  Waves In an Impossible Sea [[WavesInImpossibleSea]] (Matt Strassler)
+-   [[FooledByRandomness]] (Nassim Taleb)
+
+-   [[WavesInImpossibleSea]] (Matt Strassler)
 
 - Statistical Consequences of Fat Tails [[FatTails]] (Nassim Nicholas Taleb)
 

@@ -77,6 +77,7 @@ Brought over the booze for Scotts party
 - [[Speech for Scotts going away party]]
 - Ben and Gillian gave other speeches 
 - Something bad happened to Ben (follow up on)
+- Scott give very bizarre speech
 
 # Union Grill Family Dinner
 

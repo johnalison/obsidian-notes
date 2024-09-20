@@ -51,7 +51,7 @@ to campus
 
 [[HGC Personnel per MAC ]]
 
-[[HGC Mac Meeting 15 August 2024]]
+[[CMU HGC Mac Meeting 15 August 2024]]
 
 Pinged Zoltan re:preseries modules to FNAL
 

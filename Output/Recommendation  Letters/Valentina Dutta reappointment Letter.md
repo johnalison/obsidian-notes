@@ -7,7 +7,7 @@ Valentina's work with CMS focuses on searching for new phenomena using rare proc
 
 Valentina is an expert in the experimental signature of tau leptons. She is leveraging this expertise to search for new physics. She is currently extending the standard tau identification algorithms at CMS to be sensitive to long-lived particles that decay into taus, currently a hot topic within the field.  Identifying displaced taus poses significant computational challenges and is one area where machine learning is paying off. 
 
-I work very closely with Valentina on the CMS calorimeter upgrade project. In the lab, she is knowledgeable, effective, and fun to work with. Valentine has taken a leading role in the electrical testing of modules we are producing at CMU. She is also leading the development of a local database infrastructure that will be essential for quality control during production.
+I work very closely with Valentina on the CMS calorimeter upgrade project. In the lab, she is knowledgeable, effective, and fun to work with. Valentina has taken a leading role in the electrical testing of modules we are producing at CMU. She is also leading the development of a local database infrastructure that will be essential for quality control during production.
 
 LDMX is a proposed accelerator-based search for “light" (i.e.: not heavy) dark matter.  This category of dark matter is well-motivated and complementary to dark matter searches at the LHC. LDMX is also a natural fit for us at CMU, as the exact same technology used in the CMS calorimeter upgrade will be used in LDMX. Given the recent decadal particle physics planning exercise,  I think it is very-likely that this project will go forward and could potentially provide a new direction for others in the group.
 

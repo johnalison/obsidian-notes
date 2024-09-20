@@ -94,6 +94,8 @@ Index:
 
 [[Writing-for-yourself-vs-for-readers]]
 
+[[When in Doubt Draft Emails]]
+
 
 # Libertarianism 
 [[Libertarianism-is-bottom-up]]
@@ -108,3 +110,7 @@ Index:
 # Free Will
 [[Free-Will-Lens-As-Mental-Model]]
 [[How-to-define-good-action-if-no-free-will]]
+
+
+# LifeLong Learning
+[[Having children as education]]

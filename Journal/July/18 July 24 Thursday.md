@@ -57,7 +57,7 @@ Working PGSS notes
 [[The Zettelkasten Method Less wrong]]
 
 
-[[HGC Mac Meeting 18 July 2024]]
+[[CMU HGC Mac Meeting 18 July 2024]]
 
 
 Looking into [[Tables-in-Markdown]]

@@ -59,7 +59,7 @@ How to [[Turn a MacBook into an UbuntuServer]]
 # Chat IRA
 - will do sophomore colloq at 10am on Thursday Aug 29
 
-[[HGC Mac Meeting 8 August 2024]]
+[[CMU HGC Mac Meeting 8 August 2024]]
 
 [[CMU bbWW 8 August 2024]]
 
