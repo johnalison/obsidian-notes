@@ -24,15 +24,10 @@ Chat Chris about systematic uncertainties. Wants to write a paper re:the systema
 
 [[CMU 4b Chat 20 September 2024]]
 
+Home with M
 
-# Four b
-- AE: Will look into low pt:  3b data with JCM fit to signal in low Pt
-	 Marina has Run-3 ntuples to try 
-	 Processor with simple run-3 selection
-- CL: debugging the evaluation
-	  Plot tools and documentation 
-	  Evaluation code 
-	  Normalization issue
--  JA: Look into boosted synthretic data
-     Run-3 skims
-* SM: 
+Some [[Self-Help is like a vaccine]]
+
+# New grid certificate
+- Followed [[RenewGridCert]] to a T !
+
