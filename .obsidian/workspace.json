@@ -32,31 +32,7 @@
             }
           },
           {
-            "id": "cfd89250ad39e9a8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Journal/6 September 2024 Friday.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "c6793f1788cb96e9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Input/Books/Enchiridion.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9910b9792d66ad3c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -68,19 +44,31 @@
             }
           },
           {
+            "id": "9910b9792d66ad3c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Journal/21 September 2024 Saturday.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "5909f526a0b17069",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-resources/computing/RenewGridCert.md",
+                "file": "Input/Books/Books.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -99,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "grid",
+                "query": "file:books",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -146,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/20 September 2024 Friday.md",
+                "file": "Journal/21 September 2024 Saturday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/20 September 2024 Friday.md",
+                "file": "Journal/21 September 2024 Saturday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/20 September 2024 Friday.md"
+                "file": "Journal/21 September 2024 Saturday.md"
               }
             }
           }
@@ -211,13 +199,19 @@
   },
   "active": "9910b9792d66ad3c",
   "lastOpenFiles": [
+    "Journal/2023/July 2023.md",
+    "Input/Books/Books.md",
     "3-resources/computing/RenewGridCert.md",
+    "Journal/21 September 2024 Saturday.md",
+    "2-areas/Aspirations.md",
+    "1-projects/bbWW/HHbbWW.md",
+    "4-archive/HIG-22-011/HIG-22-011.md",
+    "Journal/2023/#July 2023.md#",
     "Journal/20 September 2024 Friday.md",
+    "Input/Books/Enchiridion.md",
     "0-inbox/CMU 4b Chat 20 September 2024.md",
     "0-inbox/Nexus.md",
     "00-Zettelkasten/Diminishing Returns in Politics.md",
-    "Input/Books/Enchiridion.md",
-    "Input/Books/Books.md",
     "Input/Books/BlackSwan.md",
     "Journal/Goals.md",
     "0-inbox/Neutrino Weighting.md",
@@ -232,11 +226,6 @@
     "Journal/September 2024.md",
     "Journal/18 September 2024 Wednesday.md",
     "Journal/17 September 2024 Tuesday.md",
-    "Output/ProgressReports/ProgressReport 16 September 2024.md",
-    "1-projects/Mixed2.0/Jet DeClustering.md",
-    "0-inbox/CMUbbWW 19 September 2024.md",
-    "0-inbox/Low Pt Jet Meeting 19 September 2024.md",
-    "0-inbox/Debug trigger weights.md",
     "Journal/2023/#June 2023.md#",
     "Input/Books/#Seneca-Letters-from-a-Stoic.md#",
     "Journal/2023/#April 2023.md#",
@@ -246,7 +235,6 @@
     "Input/Meetings/August",
     "Journal/August",
     "Journal/2023/#January 2023.md#",
-    "Journal/2023",
     "attachments/Pasted image 20240826220009.png",
     "attachments/Pasted image 20240826215955.png",
     "attachments/HGC TDR LD and HD Sensors.png",

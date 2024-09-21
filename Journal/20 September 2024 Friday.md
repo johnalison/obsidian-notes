@@ -2,7 +2,7 @@
 
 # Log
 
-No Cyert... Home with H&M
+No Cyert... Home with H&M (S with T)
 
 # Review quarterly plans
 - [[Fall 2024]]
@@ -31,3 +31,7 @@ Some [[Self-Help is like a vaccine]]
 # New grid certificate
 - Followed [[RenewGridCert]] to a T !
 
+Reading [[Gulag Archipelago]]
+# Cigars with Tony
+- Meet XXXOwen?  / Steve / Carmella 
+- Home at midnight
