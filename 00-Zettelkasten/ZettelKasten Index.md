@@ -108,6 +108,9 @@ Index:
 
 [[Diminishing Returns in Politics]]
 
+[[Machine Learning is bottom up programing]]
+
+
 # Free Will
 [[Free-Will-Lens-As-Mental-Model]]
 [[How-to-define-good-action-if-no-free-will]]

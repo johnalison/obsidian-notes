@@ -168,22 +168,20 @@
 - If we didn't know about the Born rule, might think that the amplitudes are completely irrelevant to assigning probabilities.  Might try simply counting branches, can easily show that this doesn't work. (inconsistencies arise with repeated measurements p144) 
   More restrictive version that says we need to assign equal probabilities when the amplitudes are the same.  It turns out that this (+ the requirement that repeated measurements do not lead to inconsistencies ) is all you need to shows that when the branches have different amplitudes we should use the born rule.
 
-#Consume 
 
 - The hard part isn't deriving the actual formula, its providing a solid grounding for what probability means in a deterministic theory. Here we have explored one possible answer (credences for being on different branches immediately after the wave function branches)
   All of your descendants will be in exactly the same epistemic position (assigning Born rule probabilities). So it makes sense that you adopt these probabilities now.  We have been forced to shift the meaning of what probability is from a simple frequentist model to a more robust epistemic picture, but how we calculate things goes through exactly as before.
   That's why physicists have been able to do interesting work while avoiding these subtle questions all this time.
 
-- Decision theory is another way (maybe more popular in the foundations of physics) to derive the Born theory
-  A rational agent in an Everettian universe acts precisely as if they live in a non-deterministic universe where probabilities are given by the born rule.
-  If we liven in the world of textbook QM with wave function collapse, it would be rational to calculate our expected utility in a certain way.
-  Deutsch and Wallace have shown that if we live in a deterministic Many-Worlds universe it is rational to calculate our expected utility in exactly the same way.
+[[Probability]]
 
 
-- Many-Worlds doesn't assume a large number of worlds. It assumes a wave function evolving according to the Schrodinger eq. The worlds are there automatically.
-  Hilbert space is very big. Its not any bigger in many worlds than in other versions of QM; its exactly the same size, and that size is big enough to describe a large number of parallel realities.
-  If your doing QM at all the potential for many worlds is there and ordinary Schrodinger eq evolution brings them about, like it or not.
-  Other approaches just choose to somehow not make use of the full richness of Hilbert space.
+- Decision theory is another way (maybe more popular in the foundations of physics) to derive the Born theory  A rational agent in an Everettian universe acts precisely as if they live in a non-deterministic universe where probabilities are given by the born rule.  If we live in the world of textbook QM with wave function collapse, it would be rational to calculate our expected utility in a certain way. Deutsch and Wallace have shown that if we live in a deterministic Many-Worlds universe it is rational to calculate our expected utility in exactly the same way.
+
+[[Probability]]
+
+- Many-Worlds doesn't assume a large number of worlds. It assumes a wave function evolving according to the Schrodinger eq. The worlds are there automatically.  Hilbert space is very big. Its not any bigger in many worlds than in other versions of QM; its exactly the same size, and that size is big enough to describe a large number of parallel realities.  If your doing QM at all the potential for many worlds is there and ordinary Schrodinger eq evolution brings them about, like it or not.  Other approaches just choose to somehow not make use of the full richness of Hilbert space.
+[[PhilosophyOfPhysics]]
 
 - Many worlds is pure minimalist QM, without any additional assumptions. If you want to introduce extra assumptions, do it, but then we can ask whether those new assumptions are testable.
 
@@ -195,30 +193,33 @@
 
 - When one world divides in two, the energy in each world is basically the same as it previously was in the single world (as far as anyone living inside is concerned), but their contributions to the total energy of the wave function of the universe have divided in half, since the amplitudes have decreased. Each world got a bit "thinner" even thought the inhabitants cant tell.
 
-- Despite the unrivaled empirical success of quantum theory, the very suggestion that it may be literally true as a description of nature is still greeted with cynicism, incomprehension, and even anger.
-  Most people reject Everettian QM more out of a visceral sense of distaste than a principled set of worries. "I do not know how to refute an incredulous stare".
+- Despite the unrivaled empirical success of quantum theory, the very suggestion that it may be literally true as a description of nature is still greeted with cynicism, incomprehension, and even anger. Most people reject Everettian QM more out of a visceral sense of distaste than a principled set of worries. "I do not know how to refute an incredulous stare".
 
 - The virtue of many-worlds is the simplicity of its basic formulation: the wave function + Schrodinger eq. All else is commentary. Some of that commentary (split into systems and environment, decoherence, and the branching of the wave function) is extremely useful and needed for making sense of our world.
+[[PhilosophyOfPhysics]]
 
 - If you are repulsed by all of the worlds out there, the task you face is to modify many-worlds in some way.
 
-- GRW can be thought of as many-worlds plus a random process that cuts off new branches of the wave function as they appear. Its a great example to bring up to friends who complain that many-worlds or
-  other approaches to QM aren't experimentally testable. You test theories in comparison with other theories, these two are manifestly different in their empirical predictions.
+- GRW can be thought of as many-worlds plus a random process that cuts off new branches of the wave function as they appear. Its a great example to bring up to friends who complain that many-worlds or  other approaches to QM aren't experimentally testable. You test theories in comparison with other theories, these two are manifestly different in their empirical predictions.
+[[PhilosophyOfPhysics]]
 
 - To each individual on some branch of the wave function, life goes on just as if they lived in a single world with truly stochastic quantum events.
 
 - Any one individual can trace their lives backward to a unique person but going forward will branch into multiple people. There is not one future self that is picked out as "really you" and its just as true that there is no one person constituted by all of those future individuals. They are separate, much like identical twins are distinct people, despite descending from a single zygote.
+[[Past-vs-Future]]
 
 - Physicists start by taking a classical theory and quantizing it, but of course that's not the way that nature works. Nature is quantum mechanical from the start.
   Many-worlds is uniquely suited to the task of throwing away all our classical intuition, being quantum from the start and determining how the approximately classical world that we see around us ultimately emerges from the wave function of the universe, spacetime and all.
 
 - Space is so important because interactions are local.
+[[PhilosophyOfPhysics]]
 
-- Nothing forces us to think of the wave function as describing multiple worlds, even after decoherence has occurred. We could still talk of the entire wave function as a whole, its just really helpful to split it into worlds. But this is ultimately a convenience, not something the theory imposes on us.
-  For a quantum version of Laplaces demon, with exact knowledge of the quantum state of the universe, there would never be any need to divide the wave function into a set of branches describing a collection of worlds. But it enormously convenient and helpful to do so, and we can exploit this convenience because the individual worlds dont interact with one another.
-  Everettian worlds are real in the same way that tables and chairs are real.
+- Nothing forces us to think of the wave function as describing multiple worlds, even after decoherence has occurred. We could still talk of the entire wave function as a whole, its just really helpful to split it into worlds. But this is ultimately a convenience, not something the theory imposes on us.  For a quantum version of Laplaces demon, with exact knowledge of the quantum state of the universe, there would never be any need to divide the wave function into a set of branches describing a collection of worlds. But it enormously convenient and helpful to do so, and we can exploit this convenience because the individual worlds dont interact with one another.  Everettian worlds are real in the same way that tables and chairs are real.
+
+[[PhilosophyOfPhysics]]
 
 - Emergence is not a generic feature of physical systems. It happens when there's a special way of describing the system that involves much much less information than a complete description would, but nevertheless gives us a handle on whats going on. The generic situation in physics is that you need to keep track of all the parts to know what the system will do next. Loose just a little bit, and you know nothing. Emergence happens when the opposite is possible: we can throw always almost all the information, and still say quite a lot about what will happen.
+
   This is the case for Everettian worlds; we dont need to keep track of the entire wave function to make useful predictions, just what happens in an individual world. To a good approximation we can treat what happens in each world using classical mechanics, with just the occasional quantum intervention when we entangle with microscopic systems in superposition.
   Our individual branch of the wave function describes an emergent almost-classical world.
 
@@ -243,6 +244,7 @@
 - Fields are more fundamental; its fields that provide the best picture we current have of what the universe is made of. Particles are simply what we see when we observe fields under the right circumstances.
 
 - "Quantum fluctuations" or particles popping in and out of existence is more false than true.  In empty space described by the QFT vacuum, nothing is fluctuating at all; the quantum state is absolutely stationary. The picture of particles popping in and out of existence is entirely different from the reality, in which the state is precisely the same from one moment to another. Why then are physicists constantly talking about quantum fluctuations? Its what we see, and we talk about what we see as being real, even thought QM keeps telling us to do better.  Everettian QM is clear; empty space is described by a stationary, unchanging quantum state, where nothing is happening moment to moment. But if we measure the values of the quantum field in some small region, we would see what looked like a random mess. If we looked again a moment later we would see a different looking random mess. When we observe the quantum state we typically see something quite different from what the state was before we looked.
+[[PhilosophyOfPhysics]]
 
 - If you measure the total number of particles throughout all of space in the vacuum state of the QFT, with perfect confidence, detect no particles.
   But in the real world, we will be confined to do the experiment in some finite region of space, there will then always be a small probability of observing one or more particles.

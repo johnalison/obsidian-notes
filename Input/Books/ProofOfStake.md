@@ -1,5 +1,7 @@
 # Proof of Stake (Vitalik Buterin)
 
+#Consume 
+
 - Up to this point the problem of incentivizing productive activity has essentially been dominated by two major categories of solutions: markets and institutions.
   An institutions centralization allows it to incentivize production of public good that benefit large numbers of people even if the benefit to each person is extremely small.
   For the last 10k years these two options were all that we had, with crypto currencies that may be about to change currencies are a third form on incentivization.

@@ -37,38 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/20 September 2024 Friday.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9910b9792d66ad3c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Journal/21 September 2024 Saturday.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5909f526a0b17069",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Input/Books/Books.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -87,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:books",
+                "query": "#consume",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,7 +90,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -197,35 +174,35 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9910b9792d66ad3c",
+  "active": "c6793f1788cb96e9",
   "lastOpenFiles": [
-    "Journal/2023/July 2023.md",
+    "0-inbox/MPL Chaos Experiment.md",
+    "0-inbox/Neutrino Weighting.md",
+    "Journal/20 September 2024 Friday.md",
+    "2-areas/Physics/Ratio Errors.md",
+    "Input/Books/ProofOfStake.md",
+    "0-inbox/Probability.md",
     "Input/Books/Books.md",
-    "3-resources/computing/RenewGridCert.md",
+    "00-Zettelkasten/ZettelKasten Index.md",
+    "00-Zettelkasten/Machine Learning is bottom up programing.md",
+    "Input/Meetings/Low Pt Jet Meeting 19 September 2024.md",
+    "1-projects/Mixed2.0/Debug trigger weights.md",
+    "0-inbox/Libertarianism is the ML of government.md",
+    "Input/Meetings/CMUbbWW 19 September 2024.md",
+    "Input/Meetings/CMU 4b Chat 20 September 2024.md",
+    "0-inbox/AnalysesOverview.excalidraw.md",
+    "0-inbox/Nexus.md",
+    "Input/Books/SomethingDeeplyHidden.md",
     "Journal/21 September 2024 Saturday.md",
+    "Journal/2023/July 2023.md",
+    "3-resources/computing/RenewGridCert.md",
     "2-areas/Aspirations.md",
     "1-projects/bbWW/HHbbWW.md",
     "4-archive/HIG-22-011/HIG-22-011.md",
     "Journal/2023/#July 2023.md#",
-    "Journal/20 September 2024 Friday.md",
     "Input/Books/Enchiridion.md",
-    "0-inbox/CMU 4b Chat 20 September 2024.md",
-    "0-inbox/Nexus.md",
     "00-Zettelkasten/Diminishing Returns in Politics.md",
     "Input/Books/BlackSwan.md",
-    "Journal/Goals.md",
-    "0-inbox/Neutrino Weighting.md",
-    "Input/Learning List.md",
-    "Output/Lists.md",
-    "Input/SomedayMaybe.md",
-    "0-inbox/Ratio Errors.md",
-    "Journal/Fall 2024.md",
-    "Journal/19 September 2024 Thursday.md",
-    "Journal/6 September 2024 Friday.md",
-    "Journal/13 September 2024 Friday.md",
-    "Journal/September 2024.md",
-    "Journal/18 September 2024 Wednesday.md",
-    "Journal/17 September 2024 Tuesday.md",
     "Journal/2023/#June 2023.md#",
     "Input/Books/#Seneca-Letters-from-a-Stoic.md#",
     "Journal/2023/#April 2023.md#",

@@ -19,12 +19,11 @@ Yuval Noah Harari
 
 -)  The niave view of information: by gathering and processing much more information than individuals can, big networks achieve a better undersstanding of medicine, physics, economics, and numerous other fields, which makes the network not only powerful but wise. This view posits that in sufficient quantities information leads to truth, and truth in turn leads to both power and wisdom.  
 
-Ingorance-- on this account-- leads nowhere. While delusional or deceitful networks might arise in moments of crisis, in the long-term they are bout to lose to more clear-sighted and honest rivals. 
+Ignorance-- on this account-- leads nowhere. While delusional or deceitful networks might arise in moments of crisis, in the long-term they are bout to lose to more clear-sighted and honest rivals. 
 
 The bigger the information network, the closer it must be to the truth.
 
 -) Yet, with all the information currently circulating at breathtaking speeds, humanity is closer than ever to annihilating itself.
-
 
 -) Given the magnitude of the danger, AI should be of interest to all human beings.
 
@@ -34,13 +33,13 @@ AI is not a tool, its an agent.
 
 -) Homo Deus argued that the real hero of history has always been information, rather than Homo spaiens
 
--) What we usually think of as ideological and political confilcts often turn out to be clashes between opposing types of information networks.
+-) What we usually think of as ideological and political conflicts often turn out to be clashes between opposing types of information networks.
 
 -) Judged in terms of longevity, spread, and power, the Catholic Church has been perhaps the most successful institution in human history, despite -- or perhaps because of -- the relative weakness of its self-correcting mechanisms. 
 
 -)  The rise of AI is arguably the biggest information revolution in history. 
 
--) History isnt the study of the past, it is the study of change [[History]]
+-) History isnt the study of the past, it is the study of change. [[History]]
 
 JA: Communism as a negative example of AI alignment ?
 

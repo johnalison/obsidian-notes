@@ -135,9 +135,9 @@
 
 - The Sparrow [[TheSparrow]] (Mary Doria Russell)
 
-- Proof of Stake [[ProofOfStake]] (Vitalik Buterin)
-
 #Consume 
+
+- Proof of Stake [[ProofOfStake]] (Vitalik Buterin)
 
 - Something Deeply Hidden [[SomethingDeeplyHidden]] (Sean Carroll)
 

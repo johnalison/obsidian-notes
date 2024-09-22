@@ -27,6 +27,8 @@ $$
 
 
 ## Links: 
+[[Physics]]
+[[ABCDMethod]]
 
 
 
