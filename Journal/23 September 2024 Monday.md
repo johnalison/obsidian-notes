@@ -13,8 +13,8 @@
 | 1   | Hoops                |     |
 |     | Hoops                |     |
 | 2   |                      |     |
-|     | Sindhu               |     |
-| 3   | Aniket               |     |
+|     | ~~Sindhu~~           |     |
+| 3   | ~~Aniket~~           |     |
 |     |                      |     |
 | 4   |                      |     |
 |     |                      |     |
@@ -59,16 +59,16 @@ M&T to school
 - Not much 
 - Will implement Run-3 selection
 
+[[Chris Palmer Biases Systematics Paper 23 September 2024]]
 
-# Chat with Chris Palmer
-Discuss ideas for small author paper with CMU colleagues.  
-  
-Chris' (naive) paper idea:   
 
-1. describe how many systematics cover banded systematic variation. 
-2. Perhaps mention also a good example (e.g. background modeling with free parameters like in Hγγ). 
-3. Make a toy that will fail to adequately cover truth with just a banded systematic.  
-4. Show that basis will be able to recover the truth without biased signal strength.
-    1. Somewhere need to describe orthogonalization of the basis. 
-5. Show that many bases would do the same job. 
-    1. Is the order of the basis dependent on the basis choice?
+# Hoops
+- good runs. Played well.  Had to bail early
+
+H cough. Steph worried its pnemonia ... to walk in hours. 
+(Of course cant get a full fucking week of work!)
+
+
+Moved Chats with Sindhu and Aniket.
+
+PAS for home. 
