@@ -19,3 +19,8 @@ Some [[Gulag Archipelago]]
 
 Back home
 
+# Date night! 
+- Ash over. 
+- Me and Steph to D'Annios 
+
+Some [[Nexus]]
