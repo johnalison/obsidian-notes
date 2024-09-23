@@ -53,4 +53,4 @@ M&T to school
 - [ ] Benchmark current status of synthetic data
 	- Updated script to process new syn_vX running
 	- Adding ttbar plots to the nominal background samples... running out of memory with "fast" reco... trying "slow".
-		- (use histAll ?)
+		- (use histAll ? ... No doesnt have top_cands..) Maybe not worth it...
