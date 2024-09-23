@@ -10,8 +10,9 @@
 - [x] 24th Classes over for Prof Alison
 # October
 - [ ] Steph away 7- 10 
-- [ ] 16 October CAPs visit
+- [ ] 16 October CAPs visite
 - [ ] Fall Break Oct 14-18
+- [ ] 18 October Cyert Closed
 - [ ] Site visits by Santa Barbara Oct 21 
 
 # November

@@ -11,7 +11,7 @@ https://www.econlib.org/econlog-by-author-and-letter/?selected_letter=C#bcaplan
 
 Some [[Gulag Archipelago]]
 
-# Visit dat in Mercy
+# Visited dad in Mercy
 - Seems OK, will likely get out tomorrow
 
 # Gym

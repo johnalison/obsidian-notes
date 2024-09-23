@@ -32,6 +32,8 @@ https://arxiv.org/abs/2401.07564
 Toward Model-Agnostic Detection of New Physics Using Data-Driven Signal Regions
 https://arxiv.org/abs/2409.06960
 
+From ARCs
+  HNL
 # Grad Students:
 
 Chuyuan Liu: Tracking Validator

@@ -37,19 +37,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/22 September 2024 Sunday.md",
+                "file": "Journal/23 September 2024 Monday.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "58cd1f9317806542",
+            "id": "fb6d2dc759e062f2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/21 September 2024 Saturday.md",
+                "file": "1-projects/Mixed2.0/Script to compare synthetic and nominal datasets.md",
                 "mode": "source",
                 "source": false
               }
@@ -75,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#consume",
+                "query": "file:toad",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/22 September 2024 Sunday.md",
+                "file": "Journal/23 September 2024 Monday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/22 September 2024 Sunday.md",
+                "file": "Journal/23 September 2024 Monday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/22 September 2024 Sunday.md"
+                "file": "Journal/23 September 2024 Monday.md"
               }
             }
           }
@@ -188,12 +188,24 @@
   },
   "active": "c6793f1788cb96e9",
   "lastOpenFiles": [
-    "Journal/21 September 2024 Saturday.md",
+    "Journal/Future Log.md",
+    "Journal/23 September 2024 Monday.md",
+    "1-projects/Mixed2.0/Script to compare synthetic and nominal datasets.md",
+    "1-projects/Mixed2.0/Jet DeClustering.md",
+    "1-projects/Mixed2.0/bj pt mismodeling.md",
+    "2-areas/Personal/ToAddToCV.md",
+    "Journal/Goals.md",
     "Journal/22 September 2024 Sunday.md",
+    "Journal/21 September 2024 Saturday.md",
+    "Journal/20 September 2024 Friday.md",
+    "Journal/19 September 2024 Thursday.md",
+    "Journal/18 September 2024 Wednesday.md",
+    "3-resources/Obsidian/Font Colors in Markdown.md",
+    "Journal/17 September 2024 Tuesday.md",
+    "Journal/16 September 2024 Monday.md",
     "Journal/September 2024.md",
     "0-inbox/MPL Chaos Experiment.md",
     "0-inbox/Neutrino Weighting.md",
-    "Journal/20 September 2024 Friday.md",
     "2-areas/Physics/Ratio Errors.md",
     "Input/Books/ProofOfStake.md",
     "0-inbox/Probability.md",
@@ -202,19 +214,7 @@
     "00-Zettelkasten/Machine Learning is bottom up programing.md",
     "Input/Meetings/Low Pt Jet Meeting 19 September 2024.md",
     "1-projects/Mixed2.0/Debug trigger weights.md",
-    "0-inbox/Libertarianism is the ML of government.md",
-    "Input/Meetings/CMUbbWW 19 September 2024.md",
-    "Input/Meetings/CMU 4b Chat 20 September 2024.md",
-    "0-inbox/AnalysesOverview.excalidraw.md",
-    "0-inbox/Nexus.md",
-    "Input/Books/SomethingDeeplyHidden.md",
-    "Journal/2023/July 2023.md",
-    "3-resources/computing/RenewGridCert.md",
-    "2-areas/Aspirations.md",
-    "1-projects/bbWW/HHbbWW.md",
-    "4-archive/HIG-22-011/HIG-22-011.md",
     "Journal/2023/#July 2023.md#",
-    "Input/Books/Enchiridion.md",
     "Journal/2023/#June 2023.md#",
     "Input/Books/#Seneca-Letters-from-a-Stoic.md#",
     "Journal/2023/#April 2023.md#",

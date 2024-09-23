@@ -1,3 +1,9 @@
+After update to dy
+
+**python  jet_clustering/compare_datasets.py  --combine_input_files analysis/hists/histAll_bkg.coffea   analysis/hists/test_synthetic_data_seedXXX.coffea   --out analysis/plots_synthetic_datasets_all_00-07-02-wPSData -m analysis/metadata/plotsSynthetic.yml**
+
+# Archive
+
 To compare synthetic and nominal datasets
 
 ```bash

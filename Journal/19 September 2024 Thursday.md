@@ -29,13 +29,11 @@
 
 
 # To Do
-- [ ] CAM Training
-- [ ] Read HGC TDR
-- [ ] Update printCutFlow to compare cutflows
-- [ ] Fine Tune histogram ranges (are the clustering hists affected... No!)
-- [ ] Test FvT SB vs SB | ZZ | ZH
-- [ ] 
-
+[>] CAM Training
+[>] Read HGC TDR
+[>] Update printCutFlow to compare cutflows
+[>] Fine Tune histogram ranges (are the clustering hists affected... No!)
+[<] Test FvT SB vs SB | ZZ | ZH
 
 # Log
 

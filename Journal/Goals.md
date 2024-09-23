@@ -6,6 +6,7 @@
 - [ ] Comments | 8/1 no movement
 	- [ ] tt vs not  | 8/1 no movement
 - [ ] mixed 2.0 | 8.1 lots of progress
+- [ ] Test FvT SB vs SB | ZZ | ZH
 
 
 # Code Base

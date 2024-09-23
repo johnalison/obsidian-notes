@@ -62,8 +62,8 @@ M&T to school
 - Only use inner tracker to fit muon pt
 - Only use muon pt to fit mW: (Different systematics have different shapes)
 	- 3D fit pt/eta/charge
-- Effectively Do with J/psi include local terms for Bfield distortion and material model
-- Constrain theory uncertianties directly with W data
+- Effectively Do dedicated alignment with J/psi include local terms for Bfield distortion and material model
+- Constrain theory uncertainties directly with W data
 
 # Hoops 
 - Great runs / Great wins. 
@@ -72,6 +72,7 @@ M&T to school
 # Trigger weights still not well modeled. 
  - Lots more debugging... weights actually seem OK to me.
  - Seems like false alarm (AE needs to remake the input friend trees)
+ - ... <font color=DC143C>(future me) Indeed was false alarm. </font>
 
 # Si sensors arrived
 - put them in the shipping area

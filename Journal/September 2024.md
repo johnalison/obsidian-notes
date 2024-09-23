@@ -19,9 +19,9 @@
 | 17 T | (MPL) **Gym/SR** /  Debug PS data/ MLP / Have HGC Ad                              | 7/1/1 |
 | 18 W | Debug Trig weights / Watch W-mass / **Hoops** / Si Sensors arrived                | 7/3/4 |
 | 19 H | (MPL)(Cranmer) Setup Synthetic datasets / Kyle Cranmer / Last MPL!                | 8/2/2 |
-| 20 F | (STAMPS Launch) (No Cyert)                                                        |       |
-| 21 S |                                                                                   |       |
-| 22 S |                                                                                   |       |
+| 20 F | (STAMPS Launch) (No Cyert) home M&T / Library **Cigars Downtown**                 | ---   |
+| 21 S | Lost kids in Giant Eagle / Reading / [[Nexus]] Book club                          |       |
+| 22 S | Reading / Econlib / Visit dad / **Gym** / **Date Night**                          |       |
 | 23 M |                                                                                   |       |
 | 24 T | (MPL)                                                                             |       |
 | 25 W |                                                                                   |       |

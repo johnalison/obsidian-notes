@@ -1,0 +1,56 @@
+# Timeblock
+
+|     | setup                |     |
+| --- | -------------------- | --- |
+| 9   | [[Jet DeClustering]] |     |
+|     | [[Jet DeClustering]] |     |
+| 10  | [[Jet DeClustering]] |     |
+|     | HH4b                 |     |
+| 11  | HH4b                 |     |
+|     | Chat Chris           |     |
+| 12  | multi-higgs          |     |
+|     | Hoops                |     |
+| 1   | Hoops                |     |
+|     | Hoops                |     |
+| 2   |                      |     |
+|     | Sindhu               |     |
+| 3   | Aniket               |     |
+|     |                      |     |
+| 4   |                      |     |
+|     |                      |     |
+
+**W:**
+**DW:**
+**OT:**
+**ex** or **No ex**
+
+# The ONE thing: 
+- [ ] [[Jet DeClustering]]
+
+
+# To Do
+- [ ] Ping Nunu et al
+- [ ] CAM Training
+- [ ] Read HGC TDR
+- [ ] Update printCutFlow to compare cutflows
+- [ ] Fine Tune histogram ranges (are the clustering hists affected... No!)
+- [ ] 
+- [ ] 
+- [ ] 
+
+
+# Log
+
+Up at 7 
+
+M&T to school 
+
+
+# [[Jet DeClustering]]
+- [x] Add year list option to plotting
+	- [ ] Remake plottting to be more flexible re:hist structure ? 
+	- [ ] PDF by year. Probably want an option of grouping them by year...
+- [ ] Benchmark current status of synthetic data
+	- Updated script to process new syn_vX running
+	- Adding ttbar plots to the nominal background samples... running out of memory with "fast" reco... trying "slow".
+		- (use histAll ?)
