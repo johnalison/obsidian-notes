@@ -51,7 +51,8 @@ M&T to school
 	- [ ] Remake plottting to be more flexible re:hist structure ? 
 	- [ ] PDF by year. Probably want an option of grouping them by year...
 - [ ] Benchmark current status of synthetic data
-	- Updated script to process new syn_vX running
+	- Updated script to process new syn_vX running: 
+		[[Script to compare synthetic and nominal datasets]]
 	- Adding ttbar plots to the nominal background samples... running out of memory with "fast" reco... trying "slow".
 		- (use histAll ? ... No doesnt have top_cands..) Maybe not worth it...
 
@@ -71,4 +72,11 @@ H cough. Steph worried its pnemonia ... to walk in hours.
 
 Moved Chats with Sindhu and Aniket.
 
-PAS for home. 
+NAS for home ? 
+
+# H to Walk-in Hours
+- All good / Waste of time
+- Pizza afterwords good ! 
+
+Home
+
