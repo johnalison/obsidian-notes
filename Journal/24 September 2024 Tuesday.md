@@ -58,6 +58,8 @@ Another Mail to Nuno...
 - running 4b skims on **cmslpc316**... done
 - Trying to run on the skims...**3m31.086s**. ! Doing SvB and top reco
 - With 3b data this is .... infinite! Fails to run!
+- Update plots and slides comparing synthetic vs data
+- Testing declustering time with fourTag data on **cmslpc340**.... had to turn off ttbar subtraction.
 
 
 
@@ -85,4 +87,7 @@ More Jet Declustering
 Seller want to to make a deal on house.  Will offer ~720 (looks like might happen)
 
 [[Jet Veto in low pt HH analysis]]
+
+More Jet Declustering ... see above
+
 

@@ -73,14 +73,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-projects/Mixed2.0/Jet DeClustering.md",
+                "file": "Journal/24 September 2024 Tuesday.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -126,7 +126,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -209,23 +210,27 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a301f11c72209c73",
+  "active": "fb6d2dc759e062f2",
   "lastOpenFiles": [
+    "1-projects/Mixed2.0/Jet DeClustering.md",
+    "1-projects/Mixed2.0/ResamplingBug.md",
+    "1-projects/Mixed2.0/bj splitting mismodelings.md",
+    "1-projects/Mixed2.0/bj pt mismodeling.md",
+    "Journal/24 September 2024 Tuesday.md",
+    "1-projects/Mixed2.0/Script to compare synthetic and nominal datasets.md",
+    "Journal/23 September 2024 Monday.md",
     "1-projects/HH4b/Jet Veto in low pt HH analysis.md",
     "1-projects/HH4b/Low Pt HH4b.md",
-    "Journal/24 September 2024 Tuesday.md",
     "0-inbox/CMU HGC Mac Meeting 24 September 2024.md",
     "Input/Meetings/August/HGCAL Rentrée General Meeting August 2024.md",
     "Input/Meetings/CMU HGC Mac Meeting 17 September 2024.md",
     "0-inbox/Outreach Meeting 24 September 2024.md",
-    "Journal/23 September 2024 Monday.md",
     "Input/Meetings/Chat w Sindhu 24 September 2024.md",
     "0-inbox/Chat w Wes 24 September 2024.md",
     "Journal/September 2024.md",
     "0-inbox/#Chat w Wes 24 September 2024.md#",
     "Journal/#24 September 2024 Tuesday.md#",
     "0-inbox/Jet DeClustering.md",
-    "1-projects/Mixed2.0/Jet DeClustering.md",
     "Journal/Future Log.md",
     "Journal/22 September 2024 Sunday.md",
     "Journal/21 September 2024 Saturday.md",
@@ -235,10 +240,6 @@
     "Journal/17 September 2024 Tuesday.md",
     "Journal/16 September 2024 Monday.md",
     "Input/Meetings/Chat w Sindhu 16 September 2024.md",
-    "1-projects/Mixed2.0/Script to compare synthetic and nominal datasets.md",
-    "Journal/2023/August 2023.md",
-    "Input/Meetings/Chris Palmer Biases Systematics Paper 23 September 2024.md",
-    "Journal/August 2024.md",
     "Chat w",
     "Journal/2023/#July 2023.md#",
     "Journal/2023/#June 2023.md#",
