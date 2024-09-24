@@ -76,3 +76,13 @@ Some [[1-projects/Mixed2.0/Jet DeClustering|Jet DeClustering]]
 
 More Jet Declustering
 
+# MPL
+ Closeouts:
+ -  Mossbauer: Did not do the reverse outline
+ - Neutrons: All Good 
+ - Muons: All good
+
+Seller want to to make a deal on house.  Will offer ~720 (looks like might happen)
+
+[[Jet Veto in low pt HH analysis]]
+
