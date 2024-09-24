@@ -57,7 +57,7 @@ Another Mail to Nuno...
 	- Need to update pico output name...DONE
 - running 4b skims on **cmslpc316**... done
 - Trying to run on the skims...**3m31.086s**. ! Doing SvB and top reco
-- With 3b data this is ....
+- With 3b data this is .... infinite! Fails to run!
 
 
 
