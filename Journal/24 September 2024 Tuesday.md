@@ -55,7 +55,9 @@ Another Mail to Nuno...
 - Adding four tag skimmer
 - Getting fourtag skimmer running
 	- Need to update pico output name...DONE
-- running 4b skims on **cmslpc316**
+- running 4b skims on **cmslpc316**... done
+- Trying to run on the skims...**3m31.086s**. ! Doing SvB and top reco
+- With 3b data this is ....
 
 
 
