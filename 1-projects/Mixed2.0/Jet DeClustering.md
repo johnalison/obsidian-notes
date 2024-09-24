@@ -9,6 +9,7 @@ Getting the new mixing going
 
 # To Do
 - [ ] Compare splittings by year
+	- [ ]  Cluster PDFs by year. (Probably want an option of grouping them by year...)
 - [ ] Check re-clustering
 - [ ] Read [[Do graph neural networks learn traditional jet substructure?]]
 - [x] Write out picos with the synthetic datasets jet

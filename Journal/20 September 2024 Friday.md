@@ -19,7 +19,7 @@ Going through email
 
 # Need to renew cern grid certificate !
 
-Chat Chris about systematic uncertainties. Wants to write a paper re:the systematics method.
+Chat Chris about systematic uncertainties. Wants to write a paper about the systematics method.
 
 # To campus with Marlo
 
@@ -31,7 +31,6 @@ Some [[Self-Help is like a vaccine]]
 
 # New grid certificate
 - Followed [[RenewGridCert]] to a T !
-
 
 Reading [[Gulag Archipelago]]
 

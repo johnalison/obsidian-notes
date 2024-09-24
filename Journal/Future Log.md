@@ -9,6 +9,7 @@
 * [x]  14th Erics Birthday Saturday,  1:30pm.
 - [x] 24th Classes over for Prof Alison
 # October
+- [ ] 2nd and 4th Teach for Markus
 - [ ] Steph away 7- 10 
 - [ ] 16 October CAPs visite
 - [ ] Fall Break Oct 14-18

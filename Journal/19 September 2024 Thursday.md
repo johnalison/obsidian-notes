@@ -47,7 +47,7 @@ M&T to school
 - [ ] ~~Script to make synthetic dataset yml (add PSDAta)~~
 	- Will follow whats done with the mixed data instead
 - [x] Script to make synthetirc datasets with different seeds
-- [ ] Make datasets with different seeds. 1/15
+ [<] Make datasets with different seeds. 1/15
 - Making Synthetic data set seed0 on **cmslpc343**
 - Writing synthetic data output to EOS
 - Adding SvB with out FvT weights for plotting.

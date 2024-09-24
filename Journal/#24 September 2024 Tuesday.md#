@@ -36,7 +36,7 @@
 - [ ] CAM Training
 - [ ] Read HGC TDR
 - [ ] Update printCutFlow to compare cutflows
-- [x] Fine Tune histogram ranges (are the clustering hists affected... No!)
+- [ ] Fine Tune histogram ranges (are the clustering hists affected... No!)
 - [ ] Remake plottting to be more flexible re:hist structure ? 
 - [ ] Skim 4b data ?
 
@@ -51,12 +51,6 @@ Another Mail to Nuno...
 
 
 # [[Jet DeClustering]]
-- Fine tuned histogram ranges
-- Adding four tag skimmer
-
-
-
-Upcoming:
 
 
 [[Chat w Wes 24 September 2024]]
