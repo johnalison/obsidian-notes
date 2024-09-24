@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/Chat w Wes 24 September 2024.md",
+                "file": "Journal/24 September 2024 Tuesday.md",
                 "mode": "source",
                 "source": false
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/Chat w Wes 24 September 2024.md",
+                "file": "Journal/24 September 2024 Tuesday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/Chat w Wes 24 September 2024.md",
+                "file": "Journal/24 September 2024 Tuesday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/Chat w Wes 24 September 2024.md"
+                "file": "Journal/24 September 2024 Tuesday.md"
               }
             }
           }
@@ -200,7 +200,9 @@
   },
   "active": "a301f11c72209c73",
   "lastOpenFiles": [
+    "Input/Meetings/Chat w Sindhu 24 September 2024.md",
     "Journal/24 September 2024 Tuesday.md",
+    "0-inbox/Chat w Wes 24 September 2024.md",
     "Journal/23 September 2024 Monday.md",
     "Journal/September 2024.md",
     "0-inbox/#Chat w Wes 24 September 2024.md#",
@@ -217,9 +219,7 @@
     "0-inbox/CMU HGC Mac Meeting 24 September 2024.md",
     "Input/Meetings/CMU HGC Mac Meeting 17 September 2024.md",
     "Journal/16 September 2024 Monday.md",
-    "0-inbox/Chat w Sindhu 24 September 2024.md",
     "Input/Meetings/Chat w Sindhu 16 September 2024.md",
-    "0-inbox/Chat w Wes 24 September 2024.md",
     "1-projects/Mixed2.0/Script to compare synthetic and nominal datasets.md",
     "Journal/2023/August 2023.md",
     "Input/Meetings/Chris Palmer Biases Systematics Paper 23 September 2024.md",

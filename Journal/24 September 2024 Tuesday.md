@@ -1,25 +1,25 @@
 # Timeblock
 
-|     |                      |     |
-| --- | -------------------- | --- |
-| 8   | Setup                |     |
-|     | [[Jet DeClustering]] |     |
-| 9   | [[Jet DeClustering]] |     |
-|     | Wes                  |     |
-| 10  | Sindhu               |     |
-|     | [[Jet DeClustering]] |     |
-| 11  | [[Jet DeClustering]] |     |
-|     | Outreach Meeting     |     |
-| 12  | Mac Meeting          |     |
-|     | Mac Meeting          |     |
-| 1   | [[Jet DeClustering]]                     |     |
-|     | [[Jet DeClustering]]                     |     |
-| 2   | MPL                  |     |
-|     | MPL                  |     |
-| 3   | Jeremy Meeting       |     |
-|     | Jeremy Meeting       |     |
-| 4   | Jeremy Meeting       |     |
-|     | [[Jet DeClustering]]                     |     |
+|     |                          |        |
+| --- | ------------------------ | ------ |
+| 8   | Setup                    |        |
+|     | [[Jet DeClustering]]     |        |
+| 9   | [[Jet DeClustering]]     |        |
+|     | Wes                      |        |
+| 10  | Sindhu                   |        |
+|     | ~~[[Jet DeClustering]]~~ | Sindhu |
+| 11  | [[Jet DeClustering]]     |        |
+|     | Outreach Meeting         |        |
+| 12  | Mac Meeting              |        |
+|     | Mac Meeting              |        |
+| 1   | [[Jet DeClustering]]     |        |
+|     | [[Jet DeClustering]]     |        |
+| 2   | MPL                      |        |
+|     | MPL                      |        |
+| 3   | Jeremy Meeting           |        |
+|     | Jeremy Meeting           |        |
+| 4   | Jeremy Meeting           |        |
+|     | [[Jet DeClustering]]     |        |
 
 **W:**
 **DW:**
@@ -58,9 +58,11 @@ Another Mail to Nuno...
 
 [[Chat w Wes 24 September 2024]]
 
-Upcoming:
 
 [[Chat w Sindhu 24 September 2024]]
 
+Upcoming:
+
+Outreach Meeting 24 September 2024
 
 [[CMU HGC Mac Meeting 24 September 2024]]
