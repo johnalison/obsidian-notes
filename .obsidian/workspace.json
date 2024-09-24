@@ -37,7 +37,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/2023/August 2023.md",
+                "file": "Journal/19 September 2024 Thursday.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a301f11c72209c73",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-projects/Mixed2.0/Jet DeClustering.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,14 +61,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-projects/Mixed2.0/Script to compare synthetic and nominal datasets.md",
+                "file": "Journal/24 September 2024 Tuesday.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -123,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/2023/August 2023.md",
+                "file": "1-projects/Mixed2.0/Jet DeClustering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/2023/August 2023.md",
+                "file": "1-projects/Mixed2.0/Jet DeClustering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/2023/August 2023.md"
+                "file": "1-projects/Mixed2.0/Jet DeClustering.md"
               }
             }
           }
@@ -186,35 +198,35 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c6793f1788cb96e9",
+  "active": "a301f11c72209c73",
   "lastOpenFiles": [
-    "Journal/23 September 2024 Monday.md",
-    "Journal/2023/August 2023.md",
+    "Journal/19 September 2024 Thursday.md",
+    "1-projects/Mixed2.0/Jet DeClustering.md",
+    "Journal/18 September 2024 Wednesday.md",
+    "Journal/17 September 2024 Tuesday.md",
+    "Journal/24 September 2024 Tuesday.md",
+    "0-inbox/CMU HGC Mac Meeting 24 September 2024.md",
+    "Input/Meetings/CMU HGC Mac Meeting 17 September 2024.md",
+    "Journal/16 September 2024 Monday.md",
+    "0-inbox/Chat w Sindhu 24 September 2024.md",
+    "Input/Meetings/Chat w Sindhu 16 September 2024.md",
+    "0-inbox/Chat w Wes 24 September 2024.md",
     "1-projects/Mixed2.0/Script to compare synthetic and nominal datasets.md",
+    "Journal/2023/August 2023.md",
+    "Journal/23 September 2024 Monday.md",
     "Input/Meetings/Chris Palmer Biases Systematics Paper 23 September 2024.md",
     "Journal/August 2024.md",
     "Journal/September 2024.md",
     "Chat w",
     "Journal/Future Log.md",
-    "1-projects/Mixed2.0/Jet DeClustering.md",
     "1-projects/Mixed2.0/bj pt mismodeling.md",
     "2-areas/Personal/ToAddToCV.md",
     "Journal/Goals.md",
     "Journal/22 September 2024 Sunday.md",
     "Journal/21 September 2024 Saturday.md",
     "Journal/20 September 2024 Friday.md",
-    "Journal/19 September 2024 Thursday.md",
-    "Journal/18 September 2024 Wednesday.md",
     "3-resources/Obsidian/Font Colors in Markdown.md",
-    "Journal/17 September 2024 Tuesday.md",
-    "Journal/16 September 2024 Monday.md",
     "0-inbox/MPL Chaos Experiment.md",
-    "0-inbox/Neutrino Weighting.md",
-    "2-areas/Physics/Ratio Errors.md",
-    "Input/Books/ProofOfStake.md",
-    "0-inbox/Probability.md",
-    "Input/Books/Books.md",
-    "00-Zettelkasten/ZettelKasten Index.md",
     "Journal/2023/#July 2023.md#",
     "Journal/2023/#June 2023.md#",
     "Input/Books/#Seneca-Letters-from-a-Stoic.md#",

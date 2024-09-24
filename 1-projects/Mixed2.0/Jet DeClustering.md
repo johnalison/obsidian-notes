@@ -41,8 +41,9 @@ Getting the new mixing going
 - [ ] Propagate selJet flag.. then check to make sure pt>40 ect.
 - [ ] Check to make sure that the lepton veto wont kill synthetic jets
 - [ ] cutflow for UL16 nominal vs making synthetic data (eg: all events pass jetMult in synthetic data...)
-- [ ] Money plots
+- [x] Money plots
 	- 3b no FvT vs Data vs Synthetic Data
+- [ ] Make datasets with different seeds. 1/15
 
 
 # Ideas: 
