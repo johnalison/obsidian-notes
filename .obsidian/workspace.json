@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/24 September 2024 Tuesday.md",
+                "file": "0-inbox/Chat w Wes 24 September 2024.md",
                 "mode": "source",
                 "source": false
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/24 September 2024 Tuesday.md",
+                "file": "0-inbox/Chat w Wes 24 September 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/24 September 2024 Tuesday.md",
+                "file": "0-inbox/Chat w Wes 24 September 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/24 September 2024 Tuesday.md"
+                "file": "0-inbox/Chat w Wes 24 September 2024.md"
               }
             }
           }
@@ -200,9 +200,9 @@
   },
   "active": "a301f11c72209c73",
   "lastOpenFiles": [
+    "Journal/24 September 2024 Tuesday.md",
     "Journal/23 September 2024 Monday.md",
     "Journal/September 2024.md",
-    "Journal/24 September 2024 Tuesday.md",
     "0-inbox/#Chat w Wes 24 September 2024.md#",
     "Journal/#24 September 2024 Tuesday.md#",
     "0-inbox/Jet DeClustering.md",

@@ -56,10 +56,9 @@ Another Mail to Nuno...
 
 
 
-Upcoming:
-
-
 [[Chat w Wes 24 September 2024]]
+
+Upcoming:
 
 [[Chat w Sindhu 24 September 2024]]
 
