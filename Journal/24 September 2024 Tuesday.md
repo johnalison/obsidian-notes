@@ -38,7 +38,7 @@
 - [ ] Update printCutFlow to compare cutflows
 - [x] Fine Tune histogram ranges (are the clustering hists affected... No!)
 - [ ] Remake plottting to be more flexible re:hist structure ? 
-- [ ] Skim 4b data ?
+- [ ] Skim 4b data ?... YES!
 
 
 # Log
@@ -54,7 +54,8 @@ Another Mail to Nuno...
 - Fine tuned histogram ranges
 - Adding four tag skimmer
 - Getting fourtag skimmer running
-	- Need to update pico output name
+	- Need to update pico output name...DONE
+- running 4b skims on **cmslpc316**
 
 
 
@@ -69,5 +70,7 @@ Some [[1-projects/Mixed2.0/Jet DeClustering|Jet DeClustering]]
 
 [[Outreach Meeting 24 September 2024]]
 
-
 [[CMU HGC Mac Meeting 24 September 2024]]
+
+More Jet Declustering
+
