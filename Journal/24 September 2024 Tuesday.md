@@ -59,7 +59,7 @@ Another Mail to Nuno...
 - Trying to run on the skims...**3m31.086s**. ! Doing SvB and top reco
 - With 3b data this is .... infinite! Fails to run!
 - Update plots and slides comparing synthetic vs data
-- Testing declustering time with fourTag data on **cmslpc340**.... had to turn off ttbar subtraction.
+- Testing declustering time with fourTag data on **cmslpc340**.... had to turn off ttbar subtraction... crashed b/c memory
 
 
 
@@ -90,4 +90,6 @@ Seller want to to make a deal on house.  Will offer ~720 (looks like might happe
 
 More Jet Declustering ... see above
 
+Home.
 
+Will put in an offer for $730k
