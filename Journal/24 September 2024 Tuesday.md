@@ -53,6 +53,8 @@ Another Mail to Nuno...
 # [[Jet DeClustering]]
 - Fine tuned histogram ranges
 - Adding four tag skimmer
+- Getting fourtag skimmer running
+	- Need to update pico output name
 
 
 
@@ -61,8 +63,11 @@ Another Mail to Nuno...
 
 [[Chat w Sindhu 24 September 2024]]
 
-Upcoming:
+Some [[1-projects/Mixed2.0/Jet DeClustering|Jet DeClustering]]
 
-Outreach Meeting 24 September 2024
+# Peter Arrives !
+
+[[Outreach Meeting 24 September 2024]]
+
 
 [[CMU HGC Mac Meeting 24 September 2024]]
