@@ -51,7 +51,8 @@
 - [x] Skype 
 - [x] Dropbox Use Web
 - [x] Google Drive
-- [ ] Copy music
+- [x] Copy music
+- [ ] Need to setup ledger 
 
 
 ## Follow-ups

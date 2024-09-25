@@ -1,28 +1,28 @@
 # Timeblock
 
-|     | setup                |     |
-| --- | -------------------- | --- |
-| 9   | [[Jet DeClustering]] |     |
-|     | [[Jet DeClustering]] |     |
-| 10  | [[Jet DeClustering]] |     |
-|     | clean office         |     |
-| 11  | [[Jet DeClustering]] |     |
-|     | [[Jet DeClustering]] |     |
-| 12  | Hoops                |     |
-|     | Hoops                |     |
-| 1   | Hoops                |     |
-|     | Hoops                |     |
-| 2   | [[Jet DeClustering]] |     |
-|     | [[Jet DeClustering]] |     |
-| 3   | [[Jet DeClustering]] |     |
-|     | [[Jet DeClustering]] |     |
-| 4   | clean office         |     |
-|     | close out            |     |
+|     | setup                    |            |
+| --- | ------------------------ | ---------- |
+| 9   | [[Jet DeClustering]]     |            |
+|     | [[Jet DeClustering]]     |            |
+| 10  | ~~[[Jet DeClustering]]~~ | Stats chat |
+|     | ~~clean office~~         | Stats chat |
+| 11  | [[Jet DeClustering]]     |            |
+|     | [[Jet DeClustering]]     |            |
+| 12  | Hoops                    |            |
+|     | Hoops                    |            |
+| 1   | Hoops                    |            |
+|     | Hoops                    |            |
+| 2   | [[Jet DeClustering]]     |            |
+|     | [[Jet DeClustering]]     |            |
+| 3   | [[Jet DeClustering]]     |            |
+|     | [[Jet DeClustering]]     |            |
+| 4   | clean office             |            |
+|     | close out                |            |
 
-**W:**
-**DW:**
-**OT:**
-**ex** or **No ex**
+**W:** 6
+**DW:** 3
+**OT:** 3
+**ex** 
 
 # The ONE thing: 
 - [ ] [[Jet DeClustering]]
@@ -34,8 +34,10 @@
 - [ ] Update printCutFlow to compare cutflows
 - [ ]  Remake plottting to be more flexible re:hist structure ? 
 - [ ] Get links right in emacs obsidian
-- [ ] factorize processor configuration
-- [ ] Update faculty profile
+- [x] factorize processor configuration
+- [x] Update faculty profile
+- [ ] Setup ledger on [[Setup M3 Macbook]]
+
 
 
 # Log
@@ -48,7 +50,7 @@ M&T to school...Barely missed the rain.
 -  Testing declustering time with fourTag data on **cmslpc340**.... had to turn off ttbar subtraction... with 10x lower chunksize
 - clustering data (noTT subtraction) on 340... 112 m
 - clustering with fourTag data ... crashed.
-- clustering synthetic data... ran out of memory... running w/2 workers on 342
+- clustering synthetic data... ran out of memory... running w/2 workers on **cmslpc342**... too long... trying 4 workers chunksize 10_000... looks like its working...
 - Cleaning up options for processors (factorized into helper function)... DONE
 
 
@@ -58,3 +60,11 @@ M&T to school...Barely missed the rain.
 - Good runs and 4s/5s
 
 More [[Jet DeClustering]]
+
+cleaned office
+
+Filled out form re:updating faculty profile.
+
+Reset FNAL kerberos password
+
+
