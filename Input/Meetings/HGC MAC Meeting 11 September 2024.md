@@ -24,7 +24,7 @@ https://indico.cern.ch/event/1454139/
 # Glue/Encapsulation studies (Chiara)
 -  first a module with no epoxy on the perimeter has been built and thermal cycled
 - All the modules built with the new glue/tape pattern do not show noisy channels identified during assembling procedure 
-- Covering CM capacitor with encapsulant helps protecting chips against failures - This should be done before getting hexaboard to MACs since is time consuming
+- Covering CM capacitor with encapsulate helps protecting chips against failures - This should be done before getting hexaboard to MACs since is time consuming
 
 # Engineering update (Suzzane)
 - US MAC Assembly tooling order: Xometry ~16 days
