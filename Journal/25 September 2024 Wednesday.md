@@ -46,4 +46,8 @@ M&T to school...Barely missed the rain.
 
 # [[Jet DeClustering]]
 -  Testing declustering time with fourTag data on **cmslpc340**.... had to turn off ttbar subtraction... with 10x lower chunksize
-- clustering data (noTT subtraction) on 340...
+- clustering data (noTT subtraction) on 340... 112 m
+- clustering with fourTag data ... 
+
+Stats Chat:
+- 
