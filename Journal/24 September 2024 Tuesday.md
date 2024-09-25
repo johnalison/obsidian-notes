@@ -32,11 +32,11 @@
 
 # To Do
 - [x] Ping Nuno et al.
-- [ ] CAM Training
-- [ ] Read HGC TDR
-- [ ] Update printCutFlow to compare cutflows
+[>] CAM Training
+[>] Read HGC TDR
+[>] Update printCutFlow to compare cutflows
 - [x] Fine Tune histogram ranges (are the clustering hists affected... No!)
-- [ ] Remake plottting to be more flexible re:hist structure ? 
+[>] Remake plottting to be more flexible re:hist structure ? 
 - [x] Skim 4b data ?... YES!
 
 
@@ -77,7 +77,7 @@ More Jet Declustering
 
 # MPL
  Closeouts:
- - Mossbauer: Did not do the reverse outline
+ - Mossbauer: Did not do the reverse outline !
  - Neutrons: All Good 
  - Muons: All good
 
@@ -93,7 +93,7 @@ Biked Home.
 
 Will put in an offer for $730k...offer in
 
-[[Modules Summary September 2024]]
+Sent [[Modules Summary September 2024]]
 
 Reviewed CMS upgrade week slides:
 https://indico.cern.ch/event/1440455/timetable/

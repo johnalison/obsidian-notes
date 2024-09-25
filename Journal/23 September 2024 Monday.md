@@ -77,7 +77,7 @@ NAS for home ?
 Home
 
 Starting to fine tune hist ranges... 
-- [ ] Worth skimming four tag data ?
+[>] Worth skimming four tag data ?
 
 Reading [[Self-Help is like a vaccine]]
 
