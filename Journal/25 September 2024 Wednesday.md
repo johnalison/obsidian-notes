@@ -35,7 +35,7 @@
 - [ ]  Remake plottting to be more flexible re:hist structure ? 
 - [ ] Get links right in emacs obsidian
 - [ ] factorize processor configuration
-- [ ] 
+- [ ] Update faculty profile
 
 
 # Log
