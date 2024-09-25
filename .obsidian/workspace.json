@@ -32,67 +32,19 @@
             }
           },
           {
-            "id": "c6793f1788cb96e9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Journal/24 September 2024 Tuesday.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a301f11c72209c73",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Journal/24 September 2024 Tuesday.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b7d90701beb0c42c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Input/Meetings/CMU HGC Mac Meeting 17 September 2024.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "fb6d2dc759e062f2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/Modules Summary September 2024.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6c1ff5fa95f5bb75",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Input/Meetings/HGC MAC Meeting 11 September 2024.md",
+                "file": "Journal/24 September 2024 Tuesday.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -159,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/Modules Summary September 2024.md",
+                "file": "Journal/September 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/Modules Summary September 2024.md",
+                "file": "Journal/September 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/Modules Summary September 2024.md"
+                "file": "Journal/September 2024.md"
               }
             }
           }
@@ -222,13 +174,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fb6d2dc759e062f2",
+  "active": "09a0a47a523ca124",
   "lastOpenFiles": [
-    "Input/Meetings/CMU HGC Mac Meeting 17 September 2024.md",
-    "0-inbox/Modules Summary September 2024.md",
-    "Input/Meetings/HGC MAC Meeting 11 September 2024.md",
-    "Output/CAM/Modules Summary August 2024.md",
+    "Input/Books/Libertarianism-A-primer.md",
+    "Journal/September 2024.md",
     "Journal/24 September 2024 Tuesday.md",
+    "Input/Meetings/CMU HGC Mac Meeting 17 September 2024.md",
+    "Input/Meetings/HGC MAC Meeting 11 September 2024.md",
+    "Output/CAM/Modules Summary September 2024.md",
+    "Output/CAM/Modules Summary August 2024.md",
     "1-projects/Mixed2.0/Jet DeClustering.md",
     "1-projects/Mixed2.0/ResamplingBug.md",
     "1-projects/Mixed2.0/bj splitting mismodelings.md",
@@ -242,7 +196,6 @@
     "0-inbox/Outreach Meeting 24 September 2024.md",
     "Input/Meetings/Chat w Sindhu 24 September 2024.md",
     "0-inbox/Chat w Wes 24 September 2024.md",
-    "Journal/September 2024.md",
     "0-inbox/#Chat w Wes 24 September 2024.md#",
     "Journal/#24 September 2024 Tuesday.md#",
     "0-inbox/Jet DeClustering.md",
@@ -251,7 +204,6 @@
     "Journal/21 September 2024 Saturday.md",
     "Journal/20 September 2024 Friday.md",
     "Journal/19 September 2024 Thursday.md",
-    "Journal/18 September 2024 Wednesday.md",
     "Chat w",
     "Journal/2023/#July 2023.md#",
     "Journal/2023/#June 2023.md#",
