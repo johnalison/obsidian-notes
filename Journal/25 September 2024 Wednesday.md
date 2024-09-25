@@ -48,16 +48,11 @@ M&T to school...Barely missed the rain.
 -  Testing declustering time with fourTag data on **cmslpc340**.... had to turn off ttbar subtraction... with 10x lower chunksize
 - clustering data (noTT subtraction) on 340... 112 m
 - clustering with fourTag data ... crashed.
-- clustering synthetic data
+- clustering synthetic data... ran out of memory... running w/2 workers on 342
 - Cleaning up options for processors (factorized into helper function)
 
 
 [[StatsChat-25-September-2024]]
-# Stats Chat
-- Not much. 
-- Confusion about SR defintion. 
-- Using 3 partitions of the dataset to do the analysis. 
-
 
 # Hoops
 - Good runs and 4s/5s
