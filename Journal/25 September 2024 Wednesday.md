@@ -49,7 +49,7 @@ M&T to school...Barely missed the rain.
 - clustering data (noTT subtraction) on 340... 112 m
 - clustering with fourTag data ... crashed.
 - clustering synthetic data... ran out of memory... running w/2 workers on 342
-- Cleaning up options for processors (factorized into helper function)
+- Cleaning up options for processors (factorized into helper function)... DONE
 
 
 [[StatsChat-25-September-2024]]
