@@ -51,6 +51,8 @@ M&T to school...Barely missed the rain.
 - clustering synthetic data
 - Cleaning up options for processors (factorized into helper function)
 
+
+[[StatsChat-25-September-2024]]
 # Stats Chat
 - Not much. 
 - Confusion about SR defintion. 
