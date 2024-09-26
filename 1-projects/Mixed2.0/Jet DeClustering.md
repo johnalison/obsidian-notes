@@ -11,6 +11,9 @@ Getting the new mixing going
 - [ ] Compare splittings by year
 	- [ ]  Cluster PDFs by year. (Probably want an option of grouping them by year...)
 - [ ] Check re-clustering
+	- [ ] Check bj-bj to make sure they can be recovered
+	- [ ] pdfs by pt
+	- [ ] Compare combined mass
 - [ ] Read [[Do graph neural networks learn traditional jet substructure?]]
 - [x] Write out picos with the synthetic datasets jet
 	- [x] Add random number seed input
