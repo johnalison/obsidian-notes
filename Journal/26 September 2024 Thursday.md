@@ -48,6 +48,7 @@ Can see Lab Tech Candidates in workday.
 - Update plots.py to handle 2d histograms with multiple input files
 - Making slides of data vs reclustered for all the pdfs
 - Making pdfs of the splittings separately by year
+- Make clustering hists (noTT) on **cmslpc304**
 
 Chat w/Matteo and new student re:setting up t3
 
@@ -65,4 +66,11 @@ Chat w/Matteo and new student re:setting up t3
 - 10' at Tmax = 124
 
 More [[Jet DeClustering]]
+
+Home 
+
+Picked up H
+
+Some [[Nexus]]
+
 
