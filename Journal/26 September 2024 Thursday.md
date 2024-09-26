@@ -52,3 +52,9 @@ Chat w/Matteo and new student re:setting up t3
 
 
 [[CMUbbWW 26 September 2024]]
+
+
+# Faculty Meeting
+- Last of the RPT meetings
+- Matteo : [[Matteo Cremonesi reappointment Letter]]
+- Vlad

@@ -1,5 +1,6 @@
-
-
+AE: Running jobs
+AK: will debug w-mass constraint by trying to fit by hand... Sam will help
+SD: running on lxplus
 
 ## Follow-ups
 
