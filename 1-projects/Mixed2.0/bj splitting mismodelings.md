@@ -1,3 +1,5 @@
+This is now fixed in 9/25/2024
+
 ![[Pasted image 20240730120040.png]]
 
 

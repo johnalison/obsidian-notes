@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/25 September 2024 Wednesday.md",
+                "file": "1-projects/Mixed2.0/Jet DeClustering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/25 September 2024 Wednesday.md",
+                "file": "1-projects/Mixed2.0/Jet DeClustering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/25 September 2024 Wednesday.md"
+                "file": "1-projects/Mixed2.0/Jet DeClustering.md"
               }
             }
           }
@@ -186,15 +186,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fb6d2dc759e062f2",
+  "active": "0b1b9625ad0c6637",
   "lastOpenFiles": [
-    "3-resources/computing/Setup M3 Macbook.md",
+    "1-projects/Mixed2.0/ResamplingBug.md",
+    "1-projects/Mixed2.0/Jet DeClustering.md",
+    "1-projects/Mixed2.0/bj pt mismodeling.md",
+    "1-projects/Mixed2.0/bj splitting mismodelings.md",
     "Journal/25 September 2024 Wednesday.md",
+    "3-resources/computing/Setup M3 Macbook.md",
     "0-inbox/StatsChat-25-September-2024.md",
     "Journal/24 September 2024 Tuesday.md",
     "Journal/#25 September 2024 Wednesday.md#",
     "Journal/September 2024.md",
-    "1-projects/Mixed2.0/Jet DeClustering.md",
     "Journal/23 September 2024 Monday.md",
     "Journal/22 September 2024 Sunday.md",
     "Journal/21 September 2024 Saturday.md",
@@ -208,9 +211,6 @@
     "Input/Meetings/HGC MAC Meeting 11 September 2024.md",
     "Output/CAM/Modules Summary September 2024.md",
     "Output/CAM/Modules Summary August 2024.md",
-    "1-projects/Mixed2.0/ResamplingBug.md",
-    "1-projects/Mixed2.0/bj splitting mismodelings.md",
-    "1-projects/Mixed2.0/bj pt mismodeling.md",
     "1-projects/Mixed2.0/Script to compare synthetic and nominal datasets.md",
     "1-projects/HH4b/Jet Veto in low pt HH analysis.md",
     "1-projects/HH4b/Low Pt HH4b.md",

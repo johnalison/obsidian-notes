@@ -24,8 +24,8 @@ Getting the new mixing going
 		- Need to merge with existing dataset script to get (at least the data info)
 	- [x] Output picos to EOS 
 - [ ] [[ResamplingBug]]
-- [ ] [[bj pt mismodeling]]
-- [ ] [[bj splitting mismodelings]]
+- [x] [[bj pt mismodeling]]
+- [x] [[bj splitting mismodelings]]
 - [ ] What happens to pt overflows in the clustering ?
 - [x] TTbar Subtractions/ Additions
 	- [x] Subtract ttbar from Templates
