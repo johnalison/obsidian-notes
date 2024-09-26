@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/26 September 2024 Thursday.md",
+                "file": "0-inbox/CMUbbWW 26 September 2024.md",
                 "mode": "source",
                 "source": false
               }
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/26 September 2024 Thursday.md",
+                "file": "0-inbox/CMUbbWW 26 September 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/26 September 2024 Thursday.md",
+                "file": "0-inbox/CMUbbWW 26 September 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/26 September 2024 Thursday.md"
+                "file": "0-inbox/CMUbbWW 26 September 2024.md"
               }
             }
           }
@@ -176,11 +176,11 @@
   },
   "active": "fb6d2dc759e062f2",
   "lastOpenFiles": [
+    "Journal/26 September 2024 Thursday.md",
     "1-projects/Mixed2.0/Script to check reclustered splittings.md",
     "1-projects/Mixed2.0/Jet DeClustering.md",
     "1-projects/Mixed2.0/Script to compare synthetic and nominal datasets.md",
     "1-projects/Mixed2.0/ResamplingBug.md",
-    "Journal/26 September 2024 Thursday.md",
     "Journal/25 September 2024 Wednesday.md",
     "0-inbox/Jet*.md",
     "3-resources/computing/Setup M3 Macbook.md",

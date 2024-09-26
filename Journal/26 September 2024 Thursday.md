@@ -48,8 +48,7 @@ Can see Lab Tech Candidates in workday.
 - Update plots.py to handle 2d histograms with multiple input files
 - Making slides of data vs reclustered for all the pdfs
 
+Chat w/Matteo and new student re:setting up t3
 
-------
-Upcoming:
 
 [[CMUbbWW 26 September 2024]]
