@@ -47,6 +47,7 @@ Can see Lab Tech Candidates in workday.
 - Getting the check reclustering script going.
 - Update plots.py to handle 2d histograms with multiple input files
 - Making slides of data vs reclustered for all the pdfs
+- Making pdfs of the splittings separately by year
 
 Chat w/Matteo and new student re:setting up t3
 
@@ -56,5 +57,12 @@ Chat w/Matteo and new student re:setting up t3
 
 # Faculty Meeting
 - Last of the RPT meetings
-- Matteo : [[Matteo Cremonesi reappointment Letter]]
-- Vlad
+- Matteo : [[Matteo Cremonesi reappointment Letter]]  All 3s
+- Vlad: All 3s
+
+# Gym/Steamroom
+- core / farmers carries / cling / step-ups
+- 10' at Tmax = 124
+
+More [[Jet DeClustering]]
+
