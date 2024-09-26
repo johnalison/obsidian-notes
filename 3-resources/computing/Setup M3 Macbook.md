@@ -52,7 +52,9 @@
 - [x] Dropbox Use Web
 - [x] Google Drive
 - [x] Copy music
-- [ ] Need to setup ledger 
+- [x] Need to setup ledger 
+	- [x] Need to add pHEX
+	"I find it easiest to just go to PulseX (launch pulseX app -> trade -> exchange) and then select it in the exchange area. Click the metamask logo on each coin you want to add to your wallet. It auto adds all the information."
 
 
 ## Follow-ups

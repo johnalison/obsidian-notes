@@ -29,14 +29,14 @@
 
 
 # To Do
-- [ ] CAM Training
-- [ ] Read HGC TDR
-- [ ] Update printCutFlow to compare cutflows
-- [ ]  Remake plottting to be more flexible re:hist structure ? 
-- [ ] Get links right in emacs obsidian
+[>] CAM Training
+[>] Read HGC TDR
+[>] Update printCutFlow to compare cutflows
+[>]  Remake plottting to be more flexible re:hist structure ? 
+[>] Get links right in emacs obsidian
 - [x] factorize processor configuration
 - [x] Update faculty profile
-- [ ] Setup ledger on [[Setup M3 Macbook]]
+- [x] Setup ledger on [[Setup M3 Macbook]]
 
 
 
@@ -67,4 +67,13 @@ Filled out form re:updating faculty profile.
 
 Reset FNAL kerberos password
 
+
+Finished [[Self-Help is like a vaccine]]
+
+Setup Ledger on MAC M3 [[Setup M3 Macbook]]
+- [x] Verify ETH counts
+- [x] Need to add pHEX
+
+
+Start [[How Adam Smith Can Change Your Life]]
 

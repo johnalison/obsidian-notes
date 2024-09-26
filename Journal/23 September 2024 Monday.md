@@ -7,7 +7,7 @@
 | 10  | [[Jet DeClustering]] |                           |
 |     | HH4b                 |                           |
 | 11  | HH4b                 |                           |
-|     | Chat Chris           |                           |
+|     | Chat Chris Palmer    |                           |
 | 12  | multi-higgs          |                           |
 |     | Hoops                |                           |
 | 1   | Hoops                |                           |
@@ -51,6 +51,8 @@ M&T to school
 		[[Script to compare synthetic and nominal datasets]]
 	- Adding ttbar plots to the nominal background samples... running out of memory with "fast" reco... trying "slow".
 		- (use histAll ? ... No doesnt have top_cands..) Maybe not worth it...
+- Starting to fine tune hist ranges... 
+[>] Worth skimming four tag data ?
 
 # HH4b chat
 - Not much 
@@ -76,8 +78,7 @@ NAS for home ?
 
 Home
 
-Starting to fine tune hist ranges... 
-[>] Worth skimming four tag data ?
+More [[Jet DeClustering]] ... see above
 
 Reading [[Self-Help is like a vaccine]]
 
