@@ -73,4 +73,6 @@ Picked up H
 
 Some [[Nexus]]
 
+# Thinking about new office chair:
+https://store.steelcase.com/ccrz__ProductDetails?cjdata=MXxOfDB8WXww&sku=TZ4SU6VQ5BZ4UE7AT4XM&cjevent=463295c47c5111ef802dd3a80a82b821&campaignID=15264671&campaignName=store.steelcase.com&utm_source=CJAffiliate&utm_medium=Wirecutter+Inc.
 
