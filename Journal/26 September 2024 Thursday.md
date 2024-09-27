@@ -1,23 +1,23 @@
 # Timeblock
 
-|     | setup                |     |
-| --- | -------------------- | --- |
-| 9   | [[Jet DeClustering]] |     |
-|     | [[Jet DeClustering]] |     |
-| 10  | [[Jet DeClustering]] |     |
-|     | [[Jet DeClustering]] |     |
-| 11  | emacs?               |     |
-|     | emacs?               |     |
-| 12  | bbWW                 |     |
-|     | Faculty Meeting      |     |
-| 1   | Faculty Meeting      |     |
-|     | Clean MPL            |     |
-| 2   | Eye doctor ?         |     |
-|     | Eye doctor ?         |     |
-| 3   | Eye doctor ?         |     |
-|     | Eye doctor ?         |     |
-| 4   |                      |     |
-|     |                      |     |
+|     | setup                |                      |
+| --- | -------------------- | -------------------- |
+| 9   | [[Jet DeClustering]] |                      |
+|     | [[Jet DeClustering]] |                      |
+| 10  | [[Jet DeClustering]] |                      |
+|     | [[Jet DeClustering]] |                      |
+| 11  | emacs?               |                      |
+|     | emacs?               |                      |
+| 12  | bbWW                 |                      |
+|     | Faculty Meeting      |                      |
+| 1   | Faculty Meeting      |                      |
+|     | ~~Clean MPL~~        | Gym / SR             |
+| 2   | ~~Eye doctor ?~~     | Gym / SR             |
+|     | ~~Eye doctor ?~~     | [[Jet DeClustering]] |
+| 3   | ~~Eye doctor ?~~     | [[Jet DeClustering]] |
+|     | ~~Eye doctor ?~~     | Home to Get H        |
+| 4   |                      | Got H                |
+|     |                      | [[Jet DeClustering]] |
 
 **W:**
 **DW:**
@@ -25,7 +25,8 @@
 **ex** or **No ex**
 
 # The ONE thing: 
-- [ ] 
+- [ ] [[Jet DeClustering]]
+
 
 
 # To Do
@@ -47,8 +48,9 @@ Can see Lab Tech Candidates in workday.
 - Getting the check reclustering script going.
 - Update plots.py to handle 2d histograms with multiple input files
 - Making slides of data vs reclustered for all the pdfs
-- Making pdfs of the splittings separately by year
-- Make clustering hists (noTT) on **cmslpc304**
+- Make pdfs of the splittings separately by year 00-07-03 
+- Make clustering hists (noTT) on **cmslpc304** with JEC/JER  00-08-00
+	- Remaking synthetic datasets with 00-08-00 on **cmslpc304**
 
 Chat w/Matteo and new student re:setting up t3
 
@@ -72,6 +74,8 @@ Home
 Picked up H
 
 Some [[Nexus]]
+
+More [[Jet DeClustering]] see above
 
 # Thinking about new office chair:
 https://store.steelcase.com/ccrz__ProductDetails?cjdata=MXxOfDB8WXww&sku=TZ4SU6VQ5BZ4UE7AT4XM&cjevent=463295c47c5111ef802dd3a80a82b821&campaignID=15264671&campaignName=store.steelcase.com&utm_source=CJAffiliate&utm_medium=Wirecutter+Inc.

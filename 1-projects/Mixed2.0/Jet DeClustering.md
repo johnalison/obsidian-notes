@@ -8,8 +8,9 @@ Getting the new mixing going
 - Extension to full Run2 dataset
 
 # To Do
-- [ ] Compare splittings by year
-	- [ ]  Cluster PDFs by year. (Probably want an option of grouping them by year...)
+- [x] Compare splittings by year
+	- [x]  Cluster PDFs by year. (Probably want an option of grouping them by year...)
+	- [ ] check performance 
 - [ ] Check re-clustering
 	- [ ] Check bj-bj to make sure they can be recovered
 	- [ ] pdfs by pt
@@ -112,6 +113,7 @@ Getting the new mixing going
 - 00-07-01:       ''        Tuning ranges
 - 00-07-02:    like 00-07-01, but with ttbar subtraction
 - 00-07-03:    like 00-07-02, but split by year
+- 00-08-00:    like 00-07-02, with **JEC/JER** on data
 
 
 # Archive:
