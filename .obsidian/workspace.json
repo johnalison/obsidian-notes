@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1491dfb337441910",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Input/Books/Libertarianism-A-primer.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "fb6d2dc759e062f2",
             "type": "leaf",
             "state": {
@@ -42,9 +30,69 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ba5b76196d6c9808",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Journal/27 September 2024 Friday.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "363563b91b7f7c1a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Journal/September 2024.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "051f9e31942325fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-inbox/ProgressReport 27 September 2024.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c905949b315c4271",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Journal/Fall 2024.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9a74f344e6db8c56",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Journal/Goals.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -111,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/26 September 2024 Thursday.md",
+                "file": "Journal/Fall 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/26 September 2024 Thursday.md",
+                "file": "Journal/Fall 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/26 September 2024 Thursday.md"
+                "file": "Journal/Fall 2024.md"
               }
             }
           }
@@ -174,35 +222,35 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fb6d2dc759e062f2",
+  "active": "c905949b315c4271",
   "lastOpenFiles": [
-    "Output/Recommendation  Letters/Matteo Cremonesi reappointment Letter.md",
-    "1-projects/Mixed2.0/Jet DeClustering.md",
+    "Journal/27 September 2024 Friday.md",
+    "Journal/Fall 2024.md",
+    "0-inbox/ProgressReport 27 September 2024.md",
+    "Journal/Summer 2024.md",
+    "Journal/September 2024.md",
+    "Journal/Goals.md",
     "Journal/26 September 2024 Thursday.md",
+    "Journal/25 September 2024 Wednesday.md",
+    "Journal/24 September 2024 Tuesday.md",
+    "Journal/23 September 2024 Monday.md",
+    "Journal/20 September 2024 Friday.md",
+    "Journal/19 September 2024 Thursday.md",
+    "Journal/18 September 2024 Wednesday.md",
+    "Journal/17 September 2024 Tuesday.md",
+    "Journal/16 September 2024 Monday.md",
+    "Journal/13 September 2024 Friday.md",
+    "Output/ProgressReports/ProgressReport 16 September 2024.md",
+    "Journal/6 September 2024 Friday.md",
+    "Input/Books/Libertarianism-A-primer.md",
+    "Journal/22 September 2024 Sunday.md",
+    "Journal/21 September 2024 Saturday.md",
+    "1-projects/Mixed2.0/Jet DeClustering.md",
+    "Output/Recommendation  Letters/Matteo Cremonesi reappointment Letter.md",
     "1-projects/Mixed2.0/Script to check reclustered splittings.md",
     "0-inbox/CMUbbWW 26 September 2024.md",
     "1-projects/Mixed2.0/Script to compare synthetic and nominal datasets.md",
-    "1-projects/Mixed2.0/ResamplingBug.md",
-    "Journal/25 September 2024 Wednesday.md",
-    "0-inbox/Jet*.md",
-    "3-resources/computing/Setup M3 Macbook.md",
-    "Journal/24 September 2024 Tuesday.md",
-    "Journal/23 September 2024 Monday.md",
-    "Journal/22 September 2024 Sunday.md",
-    "Journal/21 September 2024 Saturday.md",
-    "Journal/20 September 2024 Friday.md",
-    "Journal/19 September 2024 Thursday.md",
-    "1-projects/Mixed2.0/bj pt mismodeling.md",
-    "1-projects/Mixed2.0/bj splitting mismodelings.md",
-    "0-inbox/StatsChat-25-September-2024.md",
     "Journal/#25 September 2024 Wednesday.md#",
-    "Journal/September 2024.md",
-    "Journal/18 September 2024 Wednesday.md",
-    "Journal/17 September 2024 Tuesday.md",
-    "0-inbox/Jet DeClustering.md",
-    "Input/Books/Libertarianism-A-primer.md",
-    "Input/Meetings/CMU HGC Mac Meeting 17 September 2024.md",
-    "Input/Meetings/HGC MAC Meeting 11 September 2024.md",
     "0-inbox/#Chat w Wes 24 September 2024.md#",
     "Journal/#24 September 2024 Tuesday.md#",
     "Chat w",

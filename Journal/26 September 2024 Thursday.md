@@ -6,8 +6,8 @@
 |     | [[Jet DeClustering]] |                      |
 | 10  | [[Jet DeClustering]] |                      |
 |     | [[Jet DeClustering]] |                      |
-| 11  | emacs?               |                      |
-|     | emacs?               |                      |
+| 11  | ~~emacs?~~           | [[Jet DeClustering]] |
+|     | ~~emacs?~~           | [[Jet DeClustering]] |
 | 12  | bbWW                 |                      |
 |     | Faculty Meeting      |                      |
 | 1   | Faculty Meeting      |                      |
@@ -19,22 +19,21 @@
 | 4   |                      | Got H                |
 |     |                      | [[Jet DeClustering]] |
 
-**W:**
-**DW:**
-**OT:**
-**ex** or **No ex**
+**W:** 6
+**DW:** 3
+**OT:** 4
+**ex** 
 
 # The ONE thing: 
 - [ ] [[Jet DeClustering]]
 
 
-
 # To Do
-- [ ] CAM Training
-- [ ] Read HGC TDR
-- [ ] Update printCutFlow to compare cutflows
-- [ ]  Remake plottting to be more flexible re:hist structure ? 
-- [ ] Get links right in emacs obsidian
+[>] CAM Training
+[>] Read HGC TDR
+[>] Update printCutFlow to compare cutflows
+[>] Remake plottting to be more flexible re:hist structure ? 
+[>] Get links right in emacs obsidian
 
 
 # Log
