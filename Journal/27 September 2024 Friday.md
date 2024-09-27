@@ -63,3 +63,13 @@ Coffee with Sindhu and AE
 
 # Stamps talk
 [[STAMPS 27 September 2024]]
+
+# CMU CMS
+AT: website to 
+AR: Date for shipping material:  Oct 16th Nov.
+
+# 4b 
+- Classifier bug: cache sharing clashes. 
+
+
+# Social

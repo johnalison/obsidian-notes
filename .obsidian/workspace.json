@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/STAMPS 27 September 2024.md",
+                "file": "Journal/27 September 2024 Friday.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/STAMPS 27 September 2024.md",
+                "file": "Output/ProgressReport 27 September 2024.md",
                 "mode": "source",
                 "source": false
               }
@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -159,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/STAMPS 27 September 2024.md",
+                "file": "Journal/27 September 2024 Friday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/STAMPS 27 September 2024.md",
+                "file": "Journal/27 September 2024 Friday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/STAMPS 27 September 2024.md"
+                "file": "Journal/27 September 2024 Friday.md"
               }
             }
           }
@@ -222,11 +222,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "363563b91b7f7c1a",
+  "active": "ba5b76196d6c9808",
   "lastOpenFiles": [
+    "0-inbox/STAMPS 27 September 2024.md",
+    "Output/ProgressReport 27 September 2024.md",
     "Journal/27 September 2024 Friday.md",
     "Journal/September 2024.md",
-    "0-inbox/STAMPS 27 September 2024.md",
     "1-projects/Mixed2.0/Jet DeClustering.md",
     "0-inbox/USCMS Mentoring Meeting 27 September 2024.md",
     "Input/Meetings/StatsChat-25-September-2024.md",
@@ -236,7 +237,6 @@
     "0-inbox/Drawing 2024-09-27 09.50.39.excalidraw.md",
     "Input/Meetings/Chat w Wes 24 September 2024.md",
     "0-inbox/AnalysesOverview.excalidraw.md",
-    "Output/ProgressReport 27 September 2024.md",
     "Journal/Fall 2024.md",
     "Journal/Summer 2024.md",
     "Journal/Goals.md",
