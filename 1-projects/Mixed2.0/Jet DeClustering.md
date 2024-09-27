@@ -10,7 +10,7 @@ Getting the new mixing going
 # To Do
 - [x] Compare splittings by year
 	- [x]  Cluster PDFs by year. (Probably want an option of grouping them by year...)
-	- [ ] check performance 
+	- [x] check performance 
 - [ ] Check re-clustering
 	- [ ] Check bj-bj to make sure they can be recovered
 	- [ ] pdfs by pt
@@ -30,7 +30,8 @@ Getting the new mixing going
 - [ ] [[ResamplingBug]]
 - [x] [[bj pt mismodeling]]
 - [x] [[bj splitting mismodelings]]
-- [ ] What happens to pt overflows in the clustering ?
+- [x] What happens to pt overflows in the clustering ?
+	- Gets the overflow
 - [x] TTbar Subtractions/ Additions
 	- [x] Subtract ttbar from Templates
 	- [x] Subtract ttbar from Input data being clustered
