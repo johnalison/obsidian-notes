@@ -5,6 +5,9 @@ Mentee: Gabija Ziemyte ([gziemyt2@nd.edu](mailto:gziemyt2@nd.edu))
 reasearch ? 
 plans ? 
 
+
+Good chat will meet again in a month.
+
 ## Follow-ups
 
 
