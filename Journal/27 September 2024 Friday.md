@@ -34,7 +34,7 @@
 - [ ] Update printCutFlow to compare cutflows
 - [ ]  Remake plottting to be more flexible re:hist structure ? 
 - [ ] Get links right in emacs obsidian
-- [ ]  plotter: throw exception when process not in config
+- [x]  plotter: throw exception when process not in config
 
 
 
@@ -55,3 +55,5 @@ M & T to school
 [[ProgressReport 27 September 2024]]
 
 [[USCMS Mentoring Meeting 27 September 2024]]
+
+More [[Jet DeClustering]]

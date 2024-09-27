@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/USCMS Mentoring Meeting 27 September 2024.md",
+                "file": "Journal/27 September 2024 Friday.md",
                 "mode": "source",
                 "source": false
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/USCMS Mentoring Meeting 27 September 2024.md",
+                "file": "Journal/27 September 2024 Friday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/USCMS Mentoring Meeting 27 September 2024.md",
+                "file": "Journal/27 September 2024 Friday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/USCMS Mentoring Meeting 27 September 2024.md"
+                "file": "Journal/27 September 2024 Friday.md"
               }
             }
           }
@@ -224,8 +224,8 @@
   },
   "active": "ba5b76196d6c9808",
   "lastOpenFiles": [
-    "Journal/27 September 2024 Friday.md",
     "0-inbox/USCMS Mentoring Meeting 27 September 2024.md",
+    "Journal/27 September 2024 Friday.md",
     "Input/Meetings/StatsChat-25-September-2024.md",
     "Input/Meetings/Outreach Meeting 24 September 2024.md",
     "Input/Meetings/CMUbbWW 26 September 2024.md",
