@@ -1,23 +1,23 @@
 # Timeblock
 
-|     | setup                |     |
-| --- | -------------------- | --- |
-| 9   | Progress Report      |     |
-|     | Progress Report      |     |
-| 10  | Mentoring Meeting    |     |
-|     | Mentoring Meeting    |     |
-| 11  | [[Jet DeClustering]] |     |
-|     | [[Jet DeClustering]] |     |
-| 12  | [[Jet DeClustering]] |     |
-|     | [[Jet DeClustering]] |     |
-| 1   | [[Jet DeClustering]] |     |
-|     | STAMPS               |     |
-| 2   | STAMPS               |     |
-|     |                      |     |
-| 3   | CMU CMS              |     |
-|     | CMU CMS              |     |
-| 4   | 4b                   |     |
-|     |                      |     |
+|     | setup                                |     |
+| --- | ------------------------------------ | --- |
+| 9   | [[ProgressReport 27 September 2024]] |     |
+|     | [[ProgressReport 27 September 2024]] |     |
+| 10  | Mentoring Meeting                    |     |
+|     | Mentoring Meeting                    |     |
+| 11  | [[Jet DeClustering]]                 |     |
+|     | [[Jet DeClustering]]                 |     |
+| 12  | [[Jet DeClustering]]                 |     |
+|     | [[Jet DeClustering]]                 |     |
+| 1   | [[Jet DeClustering]]                 |     |
+|     | STAMPS                               |     |
+| 2   | STAMPS                               |     |
+|     | STAMPS                               |     |
+| 3   | CMU CMS                              |     |
+|     | CMU CMS                              |     |
+| 4   | 4b                                   |     |
+|     | Social                               |     |
 
 **W:**
 **DW:**
@@ -25,7 +25,7 @@
 **ex** or **No ex**
 
 # The ONE thing: 
-- [ ] 
+- [ ] [[Jet DeClustering]]
 
 
 # To Do
@@ -73,3 +73,7 @@ AR: Date for shipping material:  Oct 16th Nov.
 
 
 # Social
+- Manfred not happy about new dean.  Says it will be announced on Tuesday
+
+
+Home with M&T
