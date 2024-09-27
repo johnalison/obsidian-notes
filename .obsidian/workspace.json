@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-projects/Mixed2.0/Jet DeClustering.md",
+                "file": "0-inbox/STAMPS 27 September 2024.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/September 2024.md",
+                "file": "0-inbox/STAMPS 27 September 2024.md",
                 "mode": "source",
                 "source": false
               }
@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -159,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-projects/Mixed2.0/Jet DeClustering.md",
+                "file": "0-inbox/STAMPS 27 September 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-projects/Mixed2.0/Jet DeClustering.md",
+                "file": "0-inbox/STAMPS 27 September 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-projects/Mixed2.0/Jet DeClustering.md"
+                "file": "0-inbox/STAMPS 27 September 2024.md"
               }
             }
           }
@@ -222,9 +222,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ba5b76196d6c9808",
+  "active": "363563b91b7f7c1a",
   "lastOpenFiles": [
     "Journal/27 September 2024 Friday.md",
+    "Journal/September 2024.md",
+    "0-inbox/STAMPS 27 September 2024.md",
+    "1-projects/Mixed2.0/Jet DeClustering.md",
     "0-inbox/USCMS Mentoring Meeting 27 September 2024.md",
     "Input/Meetings/StatsChat-25-September-2024.md",
     "Input/Meetings/Outreach Meeting 24 September 2024.md",
@@ -236,7 +239,6 @@
     "Output/ProgressReport 27 September 2024.md",
     "Journal/Fall 2024.md",
     "Journal/Summer 2024.md",
-    "Journal/September 2024.md",
     "Journal/Goals.md",
     "Journal/26 September 2024 Thursday.md",
     "Journal/25 September 2024 Wednesday.md",
@@ -248,8 +250,6 @@
     "Journal/17 September 2024 Tuesday.md",
     "Journal/16 September 2024 Monday.md",
     "Journal/13 September 2024 Friday.md",
-    "Output/ProgressReports/ProgressReport 16 September 2024.md",
-    "Journal/6 September 2024 Friday.md",
     "Journal/#25 September 2024 Wednesday.md#",
     "0-inbox/#Chat w Wes 24 September 2024.md#",
     "Journal/#24 September 2024 Tuesday.md#",

@@ -49,6 +49,7 @@ M & T to school
 - Running on synthetic datasets 00-08-00
 - Running Reclusterings on **cmslpc304**
 - [ ] Split compare_datasets by year
+- [ ] why is the selJet pt biased ?
 
 
 # Progress Report
@@ -59,3 +60,6 @@ M & T to school
 More [[Jet DeClustering]]
 
 Coffee with Sindhu and AE
+
+# Stamps talk
+[[STAMPS 27 September 2024]]
