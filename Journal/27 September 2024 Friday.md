@@ -19,10 +19,10 @@
 | 4   | 4b                                   |     |
 |     | Social                               |     |
 
-**W:**
-**DW:**
-**OT:**
-**ex** or **No ex**
+**W:**. 8 
+**DW:**. 3
+**OT:** 3
+**No ex**
 
 # The ONE thing: 
 - [ ] [[Jet DeClustering]]
@@ -49,7 +49,9 @@ M & T to school
 - Running on synthetic datasets 00-08-00
 - Running Reclusterings on **cmslpc304**
 - [ ] Split compare_datasets by year
-- [ ] why is the selJet pt biased ?
+- [x] why is the selJet pt biased ?
+	- bRegCorr not applied to tagged or selJets (only cands)
+	- Updated
 
 
 # Progress Report
@@ -65,11 +67,13 @@ Coffee with Sindhu and AE
 [[STAMPS 27 September 2024]]
 
 # CMU CMS
-AT: website to 
+AT: website with encapsulation instructions
 AR: Date for shipping material:  Oct 16th Nov.
 
 # 4b 
-- Classifier bug: cache sharing clashes. 
+- CL: Classifier bug: cache sharing clashes. 
+- AE: close on low pt
+- SM: debugging double peak
 
 
 # Social
@@ -80,3 +84,4 @@ Home with M&T
 
 Updated Grid certificate on gitlab
 
+Lots of late night hacking... see above

@@ -22,9 +22,9 @@
 | 20 F | (STAMPS Launch) (No Cyert) home M&T / Library **Cigars Downtown**                 | ---   |
 | 21 S | Lost kids in Giant Eagle / Reading / [[Nexus]] Book club                          |       |
 | 22 S | Reading / Econlib / Visit dad / **Gym** / **Date Night**                          |       |
-| 23 M |                                                                                   |       |
-| 24 T | (MPL)                                                                             |       |
-| 25 W |                                                                                   |       |
+| 23 M | Chat Palmer / **Hoops** / H to Dr / Pizza after / [[August 2023]]                 | 4/2/2 |
+| 24 T | (MPL) Peter at CMU / MPL closeouts / Seller wants final offers                    | 9/3/4 |
+| 25 W | **Hoops** / Finished [[Self-Help is like a vaccine]] / setup ledger               | 6/3/3 |
 | 26 H |                                                                                   |       |
 | 27 F |                                                                                   |       |
 | 28 S |                                                                                   |       |
