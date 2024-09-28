@@ -96,7 +96,26 @@ Self-help is like a vaccine, when used, it works wonders.
 - The fact that you have a right to do X does not mean that its right to do X
 [[Libertarianism]]
 
-Test
+- When two people want incompatible things, they should politely say goodbye and move on with their lives.
+
+- We should presume that conflicts are misunderstandings in the absence of strong evidence to the contrary.
+
+- Men and house work
+
+	Even when a man pays the full cost of cleanliness and receives the full benefit, he doesnt do much. 
+	Why? B/c the typical man doesnt care very much about cleanliness. 
+	When the bachelor gets married, he almost certainly start doing more housework than he did when he was single
+	
+	The problem with applying the Golden Rule to housework is that most men already give their wives at least as much help as they would like to receive themselves.
+	
+	
+- "This will either make you more likely to believe X, or have no effect" Once you understand Bayesian reasoning, however, this makes no sense.
+  "Is this evidence stronger or weaker tha I would have expected?" If the answer is stronger you should becomre more likely to believe X if weaker, then you should be less likely to believe X.
+  
+- If you really think that only 1% of people are worth talking to, search for the 1% instead of lamenting their scarcity. 
+
+
+
 
 
   

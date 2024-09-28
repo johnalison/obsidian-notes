@@ -11,5 +11,7 @@ Up at 8
 
 Some [[How Adam Smith Can Change Your Life]]
 
-Writing up [[Self-Help is like a vaccine]]
+Wrote up [[Self-Help is like a vaccine]]
+
+[[Kubernetes explained in 15 mins]]
 

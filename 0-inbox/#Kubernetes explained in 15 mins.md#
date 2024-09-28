@@ -1,0 +1,22 @@
+https://www.youtube.com/watch?v=VnvRFRk_51k
+
+kubernetes is an Open source container orchestration tool (developed by google)
+- Docker containers or others
+- Helps you manage these in different enviormnents. 
+
+# Why kubernetes?
+- containers perfect for micro-services, but now need to manage many
+- kss guarantees high availability, scalability, disaster recovery
+
+# What is kubernetes?
+- Basic architecture, at least one master node, connected to worker nodes (with kublet
+
+
+## Follow-ups
+
+
+## Links: 
+
+
+
+202409281234

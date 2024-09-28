@@ -1,4 +1,6 @@
 
+- [[Self-Help is like a vaccine]] (Bryan Caplan)
+
 - [[Seneca-Letters-from-a-Stoic]] (Seneca)
 
 - [[Conspiracy]] (Ryan Holiday)
