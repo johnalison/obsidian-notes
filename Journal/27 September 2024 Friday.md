@@ -37,13 +37,11 @@
 - [x]  plotter: throw exception when process not in config
 
 
-
 # Log
 
 Up at 7 
 
 M & T to school
-
 
 # [[Jet DeClustering]]
 - Running on synthetic datasets 00-08-00
@@ -51,7 +49,7 @@ M & T to school
 - [ ] Split compare_datasets by year
 - [x] why is the selJet pt biased ?
 	- bRegCorr not applied to tagged or selJets (only cands)
-	- Updated
+	- Updated code ... synthetic data now looks closer
 
 
 # Progress Report
@@ -70,11 +68,8 @@ Coffee with Sindhu and AE
 AT: website with encapsulation instructions
 AR: Date for shipping material:  Oct 16th Nov.
 
-# 4b 
-- CL: Classifier bug: cache sharing clashes. 
-- AE: close on low pt
-- SM: debugging double peak
 
+[[CMU 4b Chat 27 September 2024]]
 
 # Social
 - Manfred not happy about new dean.  Says it will be announced on Tuesday
@@ -84,4 +79,6 @@ Home with M&T
 
 Updated Grid certificate on gitlab
 
-Lots of late night hacking... see above
+Mishsca Skool 
+# Lots of late night hacking
+... see above

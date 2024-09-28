@@ -25,8 +25,8 @@
 | 23 M | Chat Palmer / **Hoops** / H to Dr / Pizza after / [[August 2023]]                 | 4/2/2 |
 | 24 T | (MPL) Peter at CMU / MPL closeouts / Seller wants final offers                    | 9/3/4 |
 | 25 W | **Hoops** / Finished [[Self-Help is like a vaccine]] / setup ledger               | 6/3/3 |
-| 26 H |                                                                                   |       |
-| 27 F |                                                                                   |       |
+| 26 H | Lots of clustering / Last RPT meeting / **Gym/SR**/ H from school                 | 6/3/4 |
+| 27 F | Progress report / Soehen STAMPS talk /                                            |       |
 | 28 S |                                                                                   |       |
 | 29 S |                                                                                   |       |
 | 30 M |                                                                                   |       |
