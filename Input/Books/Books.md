@@ -55,7 +55,7 @@
 
 - John Stuart Mill Autobiography [[JohnStuartMill]] (John Stuart Mill)
 
-- The Stranger [[TheStranger]] (Albert Camus)
+-  [[TheStranger]] (Albert Camus)
 
 - Gratitude [[Gratitude]] (Oliver Sacks)
 
@@ -65,13 +65,13 @@
 
 - GOAT: Who is the Greatest Economist of all Time and Why Does it Matter? [[GOAT]] (Tyler Cowen)
 
-- The Hitchhiker's Guide to the Galaxy [[HitchHikersGuideToGalaxy]] (Douglas Adams)
+- The [[HitchHikersGuideToGalaxy]] (Douglas Adams)
 
-- Enchiridion [[Enchiridion]] (Epictetus)
+-  [[Enchiridion]] (Epictetus)
 
 - The Master and His Emissary [[MasterAndHisEmissary]] (Iain McGilchrist)
 
-- The ONE Thing [[TheONEThing]] (Gary Keller)
+-  [[TheONEThing]] (Gary Keller)
 
 - Introduction to Linear Algebra [[IntroToLinearAlgebra]] (Gilbert Strang)
 
@@ -129,6 +129,7 @@
 
 - A Singularly Unfeminine Profession [[ASingularlyUnfeminineProfession]] (Mary k Gaillard)
 
+#Consume 
 - Spacetime Physics [[SpacetimePhysics]] (Taylor and Wheeler)
 
 # 2022
@@ -136,8 +137,6 @@
 - The Art of Graphic Design [[TheArtOfGraphicDesign]] (Bradbury Thompson)
 
 - The Sparrow [[TheSparrow]] (Mary Doria Russell)
-
-#Consume 
 
 - Proof of Stake [[ProofOfStake]] (Vitalik Buterin)
 

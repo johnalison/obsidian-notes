@@ -39,6 +39,9 @@ kubernetes is an Open source container orchestration tool (developed by google)
 
 
 ## Links: 
+[[Kubernetes]]
+[[computing]]
+[[Kubernetes Course]]
 
 
 

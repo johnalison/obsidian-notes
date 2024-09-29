@@ -1,7 +1,5 @@
 # Proof of Stake (Vitalik Buterin)
 
-#Consume 
-
 - Up to this point the problem of incentivizing productive activity has essentially been dominated by two major categories of solutions: markets and institutions.
   An institutions centralization allows it to incentivize production of public good that benefit large numbers of people even if the benefit to each person is extremely small.
   For the last 10k years these two options were all that we had, with crypto currencies that may be about to change currencies are a third form on incentivization.
@@ -22,6 +20,7 @@
 - Online we are much less "leaky" even as individuals, and so once again it is easier to appear virtuous while actually intending to cheat.
 
 - There will be no "killer app" for blockchain technology. In the long tail blockchains are not necessary; they are convenient. They are simply marginally better than the next available tool for the job. (eg: what is the killer app of "open source"?)
+[[Crypto]]
 
 - A block chain is a magic computer that anyone can upload programs to and leave the programs to self-execute, where the current and all previous states of every program are always publicly visible, and which carries a very strong cryptoeconomically secured guarantee that programs running on the chain will continue to execute in exactly the way that the blockchain protocol specifies.
 
@@ -29,25 +28,29 @@
 
   Why are blockchains useful:
 
-  - You can store data on them and that data is guaranteed to have a very high degree of availability.
+  -) You can store data on them and that data is guaranteed to have a very high degree of availability.
 
-  - You can run applications on them and be guaranteed an extremely high uptime.
+  -) You can run applications on them and be guaranteed an extremely high uptime.
 
-  - You can run applications on them, convince your users that the applications logic is honest and is doing what you are advertising that it does.
+  -) You can run applications on them, convince your users that the applications logic is honest and is doing what you are advertising that it does.
 
-  - You can run applications on them and convince your users that your application will remain working even if you lose interest in maintaining it, you are bribed or threatened to manipulate the application state in some way, or you acquire a profit motive to manipulate the application stat in some way.
+  -) You can run applications on them and convince your users that your application will remain working even if you lose interest in maintaining it, you are bribed or threatened to manipulate the application state in some way, or you acquire a profit motive to manipulate the application stat in some way.
+[[Crypto]]
+
   
 - the last forty years of software development has been a history of moving to progressively less and less efficient programming languages and paradigms solely because they allow developers to be less experienced and lazier. 
 
 - Both crypto and AI safety are trying to tackle what is fundamentally the same problem: How can we regulate a very complex and very smart system with unpredictable emergent properties using a very simple and dumb system whose properties once created are inflexible? AI safety is about agents with IQ 150 trying to control agents with IQ 6000, whereas crypto is about agents with IQ 5 trying to control agents with IQ 150.
+[[AI]]
+
 
 - Cryptography is one of the very few fields where adversarial conflict continues to heavily favor the defenders.
 
-- The instability of majority games under cooperative game theory is a simplified general mathematical model of why there may will be no "end of history" in politics and no system that proves fully satisfactory.
+- The instability of majority games under cooperative game theory is a simplified general mathematical model of why there may well be no "end of history" in politics and no system that proves fully satisfactory.
 
 - Its crucially important to recognize that freedom of speech is not just a low in some countries. Its also a social principle. And the underlying goal of the social principle is the same as the underlying goal of the law: to foster an environment where the ideas that win are ideas that are good, rather then just the ideas that happen to be favored by people in a position of power. Governmental power is not the only power that we need protection from.
 
-  "There are a very few injuctions in the human art of rationality that have no ifs, and, buts, or escape clauses. This is one of them. Bad argument gets counterargument. Does not get bullet. Never. Never ever never for ever."
+  "There are a very few injunctions in the human art of rationality that have no ifs, and, buts, or escape clauses. This is one of them. Bad argument gets counterargument. Does not get bullet. Never. Never ever never for ever."
 
   A good response to an argument is one that addresses an idea; a bad argument is one that silences it. Trying to get someone fired for holding an idea is also a way of silencing an idea without addressing it.
 

@@ -1,4 +1,4 @@
-# The Art of Graphic Design (Bradbury Thompson)
+ by Bradbury Thompson
 
 - Beautiful physical book. Not much real content.
 
