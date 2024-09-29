@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-resources/Obsidian/Ideas-for-emacs-Obsidian.md",
+                "file": "Journal/29 September 2024 Sunday.md",
                 "mode": "source",
                 "source": false
               }
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "emacs",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +90,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -110,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-resources/Obsidian/Ideas-for-emacs-Obsidian.md",
+                "file": "Journal/29 September 2024 Sunday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-resources/Obsidian/Ideas-for-emacs-Obsidian.md",
+                "file": "Journal/29 September 2024 Sunday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-resources/Obsidian/Ideas-for-emacs-Obsidian.md"
+                "file": "Journal/29 September 2024 Sunday.md"
               }
             }
           }
@@ -175,8 +176,15 @@
   },
   "active": "ba5b76196d6c9808",
   "lastOpenFiles": [
-    "Journal/#29 September 2024 Sunday.md#",
+    "Journal/2023/September 2023.md",
     "Journal/29 September 2024 Sunday.md",
+    "Journal/2023/#September 2023.md#",
+    "0-inbox/Robustness Principle.md",
+    "0-inbox/Function of Worry.md",
+    "Journal/2023/August 2023.md",
+    "3-resources/Obsidian/Ideas-for-emacs-Obsidian.md",
+    "0-inbox/f.md",
+    "Journal/#29 September 2024 Sunday.md#",
     "Input/Meetings/STAMPS 27 September 2024.md",
     "Input/Meetings/USCMS Mentoring Meeting 27 September 2024.md",
     "Input/Videos/Kubernetes Course.md",
@@ -196,21 +204,13 @@
     "Journal/26 September 2024 Thursday.md",
     "Journal/28 September 2024 Saturday.md",
     "0-inbox/#Kubernetes explained in 15 mins.md#",
-    "Input/Books/Self-Help is like a vaccine.md",
     "0-inbox/#Self-Help is like a vaccine.md#",
-    "Journal/25 September 2024 Wednesday.md",
-    "Journal/24 September 2024 Tuesday.md",
-    "Journal/23 September 2024 Monday.md",
-    "1-projects/Mixed2.0/Jet DeClustering.md",
-    "Input/Meetings/StatsChat-25-September-2024.md",
     "Journal/#25 September 2024 Wednesday.md#",
     "0-inbox/#Chat w Wes 24 September 2024.md#",
     "Journal/#24 September 2024 Tuesday.md#",
     "Chat w",
     "Journal/2023/#July 2023.md#",
     "Journal/2023/#June 2023.md#",
-    "Input/Books/#Seneca-Letters-from-a-Stoic.md#",
-    "Journal/2023/#April 2023.md#",
     "attachments/Pasted image 20240826220009.png",
     "attachments/Pasted image 20240826215955.png",
     "attachments/HGC TDR LD and HD Sensors.png",
