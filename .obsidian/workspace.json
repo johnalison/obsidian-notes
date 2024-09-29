@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/Kubernetes explained in 15 mins.md",
+                "file": "Journal/28 September 2024 Saturday.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/Kubernetes explained in 15 mins.md",
+                "file": "Journal/28 September 2024 Saturday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/Kubernetes explained in 15 mins.md",
+                "file": "Journal/28 September 2024 Saturday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/Kubernetes explained in 15 mins.md"
+                "file": "Journal/28 September 2024 Saturday.md"
               }
             }
           }
@@ -223,9 +223,9 @@
   },
   "active": "0b1b9625ad0c6637",
   "lastOpenFiles": [
+    "0-inbox/Kubernetes explained in 15 mins.md",
     "0-inbox/#Kubernetes explained in 15 mins.md#",
     "Journal/28 September 2024 Saturday.md",
-    "0-inbox/Kubernetes explained in 15 mins.md",
     "Input/Books/Books.md",
     "Input/Books/Self-Help is like a vaccine.md",
     "0-inbox/#Self-Help is like a vaccine.md#",
@@ -258,7 +258,6 @@
     "Journal/2023/#June 2023.md#",
     "Input/Books/#Seneca-Letters-from-a-Stoic.md#",
     "Journal/2023/#April 2023.md#",
-    "Journal/2023/#March 2023.md#",
     "attachments/Pasted image 20240826220009.png",
     "attachments/Pasted image 20240826215955.png",
     "attachments/HGC TDR LD and HD Sensors.png",
