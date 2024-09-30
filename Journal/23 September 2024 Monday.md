@@ -64,7 +64,7 @@ M&T to school
 # Hoops
 - good runs. Played well.  Had to bail early
 
-H cough. Steph worried its pnemonia ... to walk in hours. 
+H cough. Steph worried its pneumonia ... to walk in hours. 
 (Of course cant get a full fucking week of work!)
 
 

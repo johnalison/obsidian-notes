@@ -20,4 +20,5 @@ Some [[How Adam Smith Can Change Your Life]]
 
 Some [[Gulag Archipelago]]
 
-Took Marlo to get notebook & suplies
+Took Marlo to get notebook & supplies 
+

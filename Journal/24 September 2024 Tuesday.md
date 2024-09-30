@@ -55,7 +55,7 @@ Another Mail to Nuno...
 - Getting fourtag skimmer running
 	- Need to update pico output name...DONE
 - running 4b skims on **cmslpc316**... done
-- Trying to run on the skims...**3m31.086s**. ! Doing SvB and top reco
+- Trying to run on the skims...**3m31.086s**. ! (doing SvB and top reco)
 - With 3b data this is .... infinite! Fails to run!
 - Update plots and slides comparing synthetic vs data
 - Testing declustering time with fourTag data on **cmslpc340**.... had to turn off ttbar subtraction... crashed b/c memory
