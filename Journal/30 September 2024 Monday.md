@@ -48,6 +48,7 @@ Check payslip: take home $4,018.20 -> 1200 after alll expenses
 - ADded selJets_no_bRegCorr for btag SFs
 - Fixing CI
 - [ ] Split compare_datasets by year
+- Debugging cut flow. errors from jit...
 
 
 # Gave Monday Talk Di-Higgs Seminar
@@ -56,4 +57,9 @@ Check payslip: take home $4,018.20 -> 1200 after alll expenses
 
 # Hoops
 - 3s and 5s (w/old guys vs young guns; old dominate) 
+
+More mixed
+
+Chat Sindhu
+
 
