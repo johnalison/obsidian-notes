@@ -52,3 +52,8 @@ Check payslip: take home $4,018.20 -> 1200 after alll expenses
 
 # Gave Monday Talk Di-Higgs Seminar
 
+[[multiHiggs working meeting 30 September 2024]]
+
+# Hoops
+- 3s and 5s (w/old guys vs young guns; old dominate) 
+
