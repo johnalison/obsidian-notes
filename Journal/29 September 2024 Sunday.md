@@ -18,3 +18,6 @@ Some [[How Adam Smith Can Change Your Life]]
 [[September 2023]]
 
 
+Some [[Gulag Archipelago]]
+
+Took Marlo to get notebook & suplies
