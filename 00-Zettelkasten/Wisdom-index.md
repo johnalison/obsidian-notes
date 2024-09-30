@@ -32,6 +32,7 @@ effective self-improvement critical
 # Strict with yourself, Lenient with others.
 (Extreme Ownership)**
 	*  Leadership is a skill that can be taught/learned
+[[Robustness Principle]]
 
 # Don't Lie
  Evil only possible through lies
@@ -75,7 +76,7 @@ effective self-improvement critical
 
 [[StoicTestChallenge]]
 [[Dealing-With-Setbacks]]
-
+[[Function of Worry]]
 # Systems not Goals
 
 

@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/27 September 2024 Friday.md",
+                "file": "00-Zettelkasten/Function of Worry.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/Goals.md",
+                "file": "Input/SomedayMaybe.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -75,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "file:some",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/27 September 2024 Friday.md",
+                "file": "Journal/30 September 2024 Monday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/27 September 2024 Friday.md",
+                "file": "Journal/30 September 2024 Monday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/27 September 2024 Friday.md"
+                "file": "Journal/30 September 2024 Monday.md"
               }
             }
           }
@@ -186,22 +186,28 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ba5b76196d6c9808",
+  "active": "0ca04ca7ef576dc5",
   "lastOpenFiles": [
+    "00-Zettelkasten/Robustness Principle.md",
+    "00-Zettelkasten/Wisdom-index.md",
+    "00-Zettelkasten/ZettelKasten Index.md",
+    "Journal/30 September 2024 Monday.md",
+    "00-Zettelkasten/Function of Worry.md",
+    "0-inbox/f.md",
+    "Journal/29 September 2024 Sunday.md",
+    "Journal/28 September 2024 Saturday.md",
+    "Journal/27 September 2024 Friday.md",
+    "Input/SomedayMaybe.md",
+    "Journal/Goals.md",
     "Journal/26 September 2024 Thursday.md",
     "Journal/25 September 2024 Wednesday.md",
     "Journal/24 September 2024 Tuesday.md",
     "Journal/23 September 2024 Monday.md",
-    "Journal/30 September 2024 Monday.md",
-    "Journal/29 September 2024 Sunday.md",
     "0-inbox/ARC HIG-24-017 Boosted VqqHbb.md",
     "Journal/2023/September 2023.md",
     "Journal/2023/#September 2023.md#",
-    "0-inbox/Robustness Principle.md",
-    "0-inbox/Function of Worry.md",
     "Journal/2023/August 2023.md",
     "3-resources/Obsidian/Ideas-for-emacs-Obsidian.md",
-    "0-inbox/f.md",
     "Journal/#29 September 2024 Sunday.md#",
     "Input/Meetings/STAMPS 27 September 2024.md",
     "Input/Meetings/USCMS Mentoring Meeting 27 September 2024.md",
@@ -210,12 +216,6 @@
     "0-inbox/Kubernetes.md",
     "0-inbox/HGC TDR.md",
     "Input/Meetings/CMU 4b Chat 27 September 2024.md",
-    "0-inbox/AnalysesOverview.excalidraw.md",
-    "Input/Books/Books.md",
-    "Input/Books/TheArtOfGraphicDesign.md",
-    "Input/Books/TheSparrow.md",
-    "Input/Books/ProofOfStake.md",
-    "Journal/September 2024.md",
     "0-inbox/#Kubernetes explained in 15 mins.md#",
     "0-inbox/#Self-Help is like a vaccine.md#",
     "Journal/#25 September 2024 Wednesday.md#",

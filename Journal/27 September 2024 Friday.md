@@ -29,11 +29,11 @@
 
 
 # To Do
-- [ ] CAM Training
-- [ ] Read HGC TDR
-- [ ] Update printCutFlow to compare cutflows
-- [ ]  Remake plottting to be more flexible re:hist structure ? 
-- [ ] Get links right in emacs obsidian
+[>] CAM Training
+[>] Read HGC TDR
+[>] Update printCutFlow to compare cutflows
+[>] Remake plottting to be more flexible re:hist structure ? 
+[>] Get links right in emacs obsidian
 - [x]  plotter: throw exception when process not in config
 
 
@@ -46,7 +46,7 @@ M & T to school
 # [[Jet DeClustering]]
 - Running on synthetic datasets 00-08-00
 - Running Reclusterings on **cmslpc304**
-- [ ] Split compare_datasets by year
+ [>] Split compare_datasets by year
 - [x] why is the selJet pt biased ?
 	- bRegCorr not applied to tagged or selJets (only cands)
 	- Updated code ... synthetic data now looks closer

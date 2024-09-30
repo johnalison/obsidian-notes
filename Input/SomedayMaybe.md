@@ -21,7 +21,7 @@
 - [ ] Strange jet tagging
 - [x] h→cc + J/psi / bb + Y / ss + φ. (Can also do Z)
 - [x] How to digitize BuJo
-
+- [ ] Get links right in emacs obsidian
 
 
 ## Links: 
