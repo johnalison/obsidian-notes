@@ -48,7 +48,9 @@ Check payslip: take home $4,018.20 -> 1200 after alll expenses
 - ADded selJets_no_bRegCorr for btag SFs
 - Fixing CI
 - [ ] Split compare_datasets by year
-- Debugging cut flow. errors from jit...
+- Debugging cut flow. errors from jit... added Exception handling
+- Weird cut flow problems...MEGA debug
+- Turns out a problem with overwritting bRegCor factors.
 
 
 # Gave Monday Talk Di-Higgs Seminar
@@ -60,6 +62,10 @@ Check payslip: take home $4,018.20 -> 1200 after alll expenses
 
 More mixed
 
-Chat Sindhu
+[[Chat w Sindhu 30 September 2024]]
+
+
+Home to get H
+
 
 
