@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/30 September 2024 Monday.md",
+                "file": "Input/SomedayMaybe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/30 September 2024 Monday.md",
+                "file": "Input/SomedayMaybe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/30 September 2024 Monday.md"
+                "file": "Input/SomedayMaybe.md"
               }
             }
           }
@@ -186,10 +186,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0ca04ca7ef576dc5",
+  "active": "9a74f344e6db8c56",
   "lastOpenFiles": [
-    "0-inbox/Chat w Sindhu 30 September 2024.md",
     "Journal/30 September 2024 Monday.md",
+    "0-inbox/Chat w Sindhu 30 September 2024.md",
     "00-Zettelkasten/Robustness Principle.md",
     "00-Zettelkasten/Wisdom-index.md",
     "00-Zettelkasten/ZettelKasten Index.md",

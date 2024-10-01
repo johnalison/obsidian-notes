@@ -19,10 +19,10 @@
 | 4   | Home for H           |     |
 |     | Berman et al.        |     |
 
-**W:** 
-**DW:**
-**OT:**
-**ex** or **No ex**
+**W:**  6 
+**DW:**  3
+**OT:** 4
+**ex** 
 
 # The ONE thing: 
 - [ ] [[Jet DeClustering]]
@@ -31,7 +31,7 @@
 # To Do
 - [ ] CAM Training
 - [ ] Read HGC TDR
-- [ ] Update printCutFlow to compare cutflows
+- [SM] Update printCutFlow to compare cutflows
 - [ ]  Remake plottting to be more flexible re:hist structure ? 
  [SM] Get links right in emacs obsidian
 
