@@ -55,4 +55,14 @@ Dropped off splewge.
 
 # [[Jet DeClustering]]
 - Rerunning the jet clustering
-- reweight hT by year ?
+- reweight hT by year ? 
+	- do this without PSdata and subtracting ttbar
+	- Need option for skipping PS data
+	- Need 
+
+Setup new printer. 
+
+[[CMU HGC Mac Meeting 1 October 2024]]
+
+
+
