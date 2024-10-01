@@ -58,7 +58,7 @@ Dropped off splewge.
 - reweight hT by year ? 
 	- do this without PSdata and subtracting ttbar
 	- Need option for skipping PS data
-	- Need 
+	- Need to make ratios
 
 Setup new printer. 
 
@@ -71,5 +71,7 @@ Chat with Sindhu:
 # Gym / Steamroom
 - core / front squat / pull-up / front raises
 - 10' at Tmax = 124
+
+More [[Jet DeClustering]]
 
 
