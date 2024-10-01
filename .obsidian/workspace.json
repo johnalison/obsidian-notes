@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/BulletJournalProtocol.md",
+                "file": "Journal/1 October 2024 Tuesday.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/1 October 2024 Tuesday.md",
+                "file": "0-inbox/Chat w Wes 1 October 2024.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4c9a70d35724b950",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Input/Meetings/September/Chat w Wes 24 September 2024.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/1 October 2024 Tuesday.md",
+                "file": "0-inbox/Chat w Wes 1 October 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/1 October 2024 Tuesday.md",
+                "file": "0-inbox/Chat w Wes 1 October 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/1 October 2024 Tuesday.md"
+                "file": "0-inbox/Chat w Wes 1 October 2024.md"
               }
             }
           }
@@ -164,10 +176,12 @@
   },
   "active": "9a74f344e6db8c56",
   "lastOpenFiles": [
-    "Journal/September 2024.md",
+    "Input/Meetings/September/Chat w Wes 24 September 2024.md",
+    "0-inbox/Chat w Wes 1 October 2024.md",
     "Journal/1 October 2024 Tuesday.md",
-    "Journal/October 2024.md",
     "Journal/BulletJournalProtocol.md",
+    "Journal/September 2024.md",
+    "Journal/October 2024.md",
     "Input/Meetings/September/multiHiggs working meeting 9 September 2024.md",
     "Input/Meetings/September/multiHiggs working meeting 16 September 2024.md",
     "Input/Meetings/September/USCMS Mentoring Meeting 27 September 2024.md",
@@ -183,13 +197,11 @@
     "Input/Meetings/September/FBC2 Meeting 16 September 2024.md",
     "Input/Meetings/September/Chris Palmer Biases Systematics Paper 23 September 2024.md",
     "Input/Meetings/September/Chat w Wes 3 September 2024.md",
-    "Input/Meetings/September/Chat w Wes 24 September 2024.md",
     "Input/Meetings/September/Chat w Wes 17 September 2024.md",
     "Input/Meetings/September/Chat w Wes 10 September 2024.md",
     "Input/Meetings/September/Chat w Sindhu 9 September 2024.md",
     "Input/Meetings/September/Chat w Sindhu 24 September 2024.md",
     "Input/Meetings/September/Chat w Sindhu 16 September 2024.md",
-    "Input/Meetings/September/Chat w Aniket 9 September 2024.md",
     "Input/Meetings/September",
     "Journal/September",
     "Journal/2023/#September 2023.md#",

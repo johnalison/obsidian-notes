@@ -1,25 +1,25 @@
 # Timeblock
 
-|     |          |     |
-| --- | -------- | --- |
-| 8   | setup    |     |
-|     | jack off |     |
-| 9   |          |     |
-|     | Wes      |     |
-| 10  |          |     |
-|     |          |     |
-| 11  |          |     |
-|     |          |     |
-| 12  | MAC      |     |
-|     | MAC      |     |
-| 1   |          |     |
-|     |          |     |
-| 2   |          |     |
-|     | Aniket   |     |
-| 3   | Mans     |     |
-|     | Mans     |     |
-| 4   | Mans     |     |
-|     |          |     |
+|     |                      |     |
+| --- | -------------------- | --- |
+| 8   | setup                |     |
+|     | jack off             |     |
+| 9   | To Quest and back    |     |
+|     | Wes                  |     |
+| 10  | [[Jet DeClustering]] |     |
+|     | [[Jet DeClustering]] |     |
+| 11  | [[Jet DeClustering]] |     |
+|     | [[Jet DeClustering]] |     |
+| 12  | MAC                  |     |
+|     | MAC                  |     |
+| 1   | Gym                  |     |
+|     | Gym                  |     |
+| 2   | Gym                  |     |
+|     | Aniket               |     |
+| 3   | Mans                 |     |
+|     | Mans                 |     |
+| 4   | Mans                 |     |
+|     | close out            |     |
 
 **W:**
 **DW:**
@@ -47,5 +47,10 @@ To school
 
 Setup Oct. 
 
+Reviewed September 
+
+Dropped off splewge. 
+
+[[Chat w Wes 1 October 2024]]
 
 # [[Jet DeClustering]]
