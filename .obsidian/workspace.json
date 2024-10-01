@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/1 October 2024 Tuesday.md",
+                "file": "Input/Meetings/September/HGC MAC Meeting 11 September 2024.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Input/Meetings/September/CMU HGC Mac Meeting 24 September 2024.md",
+                "file": "Journal/1 October 2024 Tuesday.md",
                 "mode": "source",
                 "source": false
               }
@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "86d686b1a18137e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-inbox/HGCManagementMeeting 1 October 2024.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -75,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:some",
+                "query": "rentr",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,8 +114,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -123,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/1 October 2024 Tuesday.md",
+                "file": "0-inbox/HGCManagementMeeting 1 October 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/1 October 2024 Tuesday.md",
+                "file": "0-inbox/HGCManagementMeeting 1 October 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/1 October 2024 Tuesday.md"
+                "file": "0-inbox/HGCManagementMeeting 1 October 2024.md"
               }
             }
           }
@@ -186,13 +197,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9a74f344e6db8c56",
+  "active": "5eff6f8803fcba5e",
   "lastOpenFiles": [
-    "0-inbox/CMU HGC Mac Meeting 1 October 2024.md",
-    "Input/Meetings/September/CMU HGC Mac Meeting 24 September 2024.md",
     "Journal/1 October 2024 Tuesday.md",
-    "0-inbox/Chat w Wes 1 October 2024.md",
+    "0-inbox/HGCManagementMeeting 1 October 2024.md",
+    "Input/Meetings/September/HGCManagementMeeting 3 September 2024.md",
+    "Input/Meetings/August/HGCManagementMeeting 27 August 2024.md",
+    "1-projects/HGC/CAM Turnaround Report.md",
     "Input/Meetings/September/Chat w Wes 24 September 2024.md",
+    "Input/Meetings/September/CMU HGC Mac Meeting 24 September 2024.md",
+    "Input/Meetings/September/HGC MAC Meeting 11 September 2024.md",
+    "0-inbox/CMU HGC Mac Meeting 1 October 2024.md",
+    "0-inbox/Chat w Wes 1 October 2024.md",
     "Journal/BulletJournalProtocol.md",
     "Journal/September 2024.md",
     "Journal/October 2024.md",
@@ -204,16 +220,11 @@
     "Input/Meetings/September/STAMPS 27 September 2024.md",
     "Input/Meetings/September/Outreach Meeting 24 September 2024.md",
     "Input/Meetings/September/Low Pt Jet Meeting 19 September 2024.md",
-    "Input/Meetings/September/HGCManagementMeeting 3 September 2024.md",
-    "Input/Meetings/September/HGC MAC Meeting 11 September 2024.md",
     "Input/Meetings/September/Faculty Meeting 12 September 2024.md",
     "Input/Meetings/September/FBC2 Meeting 9 September 2024.md",
     "Input/Meetings/September/FBC2 Meeting 16 September 2024.md",
     "Input/Meetings/September/Chris Palmer Biases Systematics Paper 23 September 2024.md",
     "Input/Meetings/September/Chat w Wes 3 September 2024.md",
-    "Input/Meetings/September/Chat w Wes 17 September 2024.md",
-    "Input/Meetings/September/Chat w Wes 10 September 2024.md",
-    "Input/Meetings/September/Chat w Sindhu 9 September 2024.md",
     "Input/Meetings/September",
     "Journal/September",
     "Journal/2023/#September 2023.md#",
