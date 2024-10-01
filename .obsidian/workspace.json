@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/CMU HGC Mac Meeting 1 October 2024.md",
+                "file": "Journal/1 October 2024 Tuesday.md",
                 "mode": "source",
                 "source": false
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/CMU HGC Mac Meeting 1 October 2024.md",
+                "file": "Journal/1 October 2024 Tuesday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/CMU HGC Mac Meeting 1 October 2024.md",
+                "file": "Journal/1 October 2024 Tuesday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/CMU HGC Mac Meeting 1 October 2024.md"
+                "file": "Journal/1 October 2024 Tuesday.md"
               }
             }
           }
@@ -188,8 +188,8 @@
   },
   "active": "9a74f344e6db8c56",
   "lastOpenFiles": [
-    "Input/Meetings/September/CMU HGC Mac Meeting 24 September 2024.md",
     "0-inbox/CMU HGC Mac Meeting 1 October 2024.md",
+    "Input/Meetings/September/CMU HGC Mac Meeting 24 September 2024.md",
     "Journal/1 October 2024 Tuesday.md",
     "0-inbox/Chat w Wes 1 October 2024.md",
     "Input/Meetings/September/Chat w Wes 24 September 2024.md",

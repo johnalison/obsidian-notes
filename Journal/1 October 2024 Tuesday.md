@@ -64,5 +64,12 @@ Setup new printer.
 
 [[CMU HGC Mac Meeting 1 October 2024]]
 
+Chat with Sindhu: 
+- She will continue to coordinate DB effort
+- Will get help from: Manami / Joy and Jonas
+
+# Gym / Steamroom
+- core / front squat / pull-up / front raises
+- 10' at Tmax = 124
 
 
