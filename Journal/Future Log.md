@@ -9,12 +9,12 @@
 * [x]  14th Erics Birthday Saturday,  1:30pm.
 - [x] 24th Classes over for Prof Alison
 # October
-- [ ] 2nd and 4th Teach for Markus
-- [ ] Steph away 7- 10 
-- [ ] 16 October CAPs visite
-- [ ] Fall Break Oct 14-18
-- [ ] 18 October Cyert Closed
-- [ ] Site visits by Santa Barbara Oct 21 
+- [x] 2nd and 4th Teach for Markus
+- [x] Steph away 7- 10 
+- [x] 16 October CAPs visite
+- [x] Fall Break Oct 14-18
+- [x] 18 October Cyert Closed
+- [x] Site visits by Santa Barbara Oct 21 
 
 # November
 - [ ] 5th No classes

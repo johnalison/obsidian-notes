@@ -27,6 +27,6 @@
 | 25 W | **Hoops** / Finished [[Self-Help is like a vaccine]] / setup ledger               | 6/3/3 |
 | 26 H | Lots of clustering / Last RPT meeting / **Gym/SR**/ H from school                 | 6/3/4 |
 | 27 F | Progress report / Soehen STAMPS talk / Social / Late night [[Jet DeClustering]]   | 8/3/3 |
-| 28 S |                                                                                   |       |
-| 29 S |                                                                                   |       |
-| 30 M |                                                                                   |       |
+| 28 S | Giant Eagle / Reading / Kubernetes / **Gym** / Parents                            |       |
+| 29 S | Reading / Walk with M                                                             |       |
+| 30 M | VqqHbb ARC / debugging cutflow / Gave HH talk / **Hoops**                         | 6/3/4 |

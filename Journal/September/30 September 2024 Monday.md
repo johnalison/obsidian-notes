@@ -29,11 +29,11 @@
 
 
 # To Do
-- [ ] CAM Training
-- [ ] Read HGC TDR
+- [>>] CAM Training
+- [>>] Read HGC TDR
 - [SM] Update printCutFlow to compare cutflows
-- [ ]  Remake plottting to be more flexible re:hist structure ? 
- [SM] Get links right in emacs obsidian
+- [>>]  Remake plottting to be more flexible re:hist structure ? 
+- [SM] Get links right in emacs obsidian
 
 
 
@@ -47,7 +47,7 @@ Check payslip: take home $4,018.20 -> 1200 after alll expenses
 # [[Jet DeClustering]]
 - ADded selJets_no_bRegCorr for btag SFs
 - Fixing CI
-- [ ] Split compare_datasets by year
+- [>>] Split compare_datasets by year
 - Debugging cut flow. errors from jit... added Exception handling
 - Weird cut flow problems...MEGA debug
 - Turns out a problem with overwritting bRegCor factors.
@@ -67,7 +67,9 @@ More mixed
 
 Home to get H
 
-More CI debugging... MERGED ! Subtle copying bug .
+More CI debugging... MERGED ! Subtle copying bug.
+
+Ordered new office chair
 
 
 
