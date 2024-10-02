@@ -21,9 +21,9 @@
 | 4   | Mans                 |     |
 |     | close out            |     |
 
-**W:**
-**DW:**
-**OT:**
+**W:** 7 
+**DW:** 2
+**OT:** 2
 **ex** or **No ex**
 
 # The ONE thing: 
@@ -75,4 +75,13 @@ Chat with Sindhu:
 More [[Jet DeClustering]]
 
 [[HGCManagementMeeting 1 October 2024]]
+
+Looked for Aniket... Will try Thursday
+
+Starting to work on hT reweighting. 
+
+
+Home
+
+Some [[How Adam Smith Can Change Your Life]]
 
