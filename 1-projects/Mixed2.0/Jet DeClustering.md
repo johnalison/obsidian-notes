@@ -8,47 +8,17 @@ Getting the new mixing going
 - Extension to full Run2 dataset
 
 # To Do
-- [x] Compare splittings by year
-	- [x]  Cluster PDFs by year. (Probably want an option of grouping them by year...)
-	- [x] check performance 
+- [ ] Run-3
+- [ ] Boosted
 - [ ] Check re-clustering
 	- [ ] Check bj-bj to make sure they can be recovered
 	- [ ] pdfs by pt
 	- [ ] Compare combined mass
 - [ ] Read [[Do graph neural networks learn traditional jet substructure?]]
-- [x] Write out picos with the synthetic datasets jet
-	- [x] Add random number seed input
-	- [x] Add random number seed to output file name
-	- [x] Test processor HH4b on output files
-	- [x] Add CI
-	- [x] Randseed via command line
-		- [x] Separate script that creates input files and submits jobs
-	- [x] Yaml errors from skimming output 
-	- [x] Script to create synthetric datasets yaml
-		- Need to merge with existing dataset script to get (at least the data info)
-	- [x] Output picos to EOS 
 - [ ] [[ResamplingBug]]
-- [x] [[bj pt mismodeling]]
-- [x] [[bj splitting mismodelings]]
-- [x] What happens to pt overflows in the clustering ?
-	- Gets the overflow
-- [x] TTbar Subtractions/ Additions
-	- [x] Subtract ttbar from Templates
-	- [x] Subtract ttbar from Input data being clustered
-	- [x] Then add back non declustered TTbar
-		- [x] Compare ttbar subtracted + PSdata to nominal
-	- [x] Or compare to ttbar subtracted data ? 
-- [x] Skimmer to make sub-sampled TTbar datasets
-	- [x]  Why is there tag in the TT PSData ? 
-	- [x] Compare synthetic + PS data data to data 
-- [ ] ~~run clustering on ttbar MC ?
-- [x] Propagate Btagging scores ?
-	- [x] Migrate to strings
 - [ ] Propagate selJet flag.. then check to make sure pt>40 ect.
 - [ ] Check to make sure that the lepton veto wont kill synthetic jets
 - [ ] cutflow for UL16 nominal vs making synthetic data (eg: all events pass jetMult in synthetic data...)
-- [x] Money plots
-	- 3b no FvT vs Data vs Synthetic Data
 - [ ] Make datasets with different seeds. 1/15
 
 
@@ -178,6 +148,8 @@ Getting the new mixing going
 - [x] Add other jets to presentation
 - [x] Regroup splittings (<10)
 
+
+
 - [x] Check ΔRs (HARD!)
 - [x] Fix random numbers
 - [x] Fix jet_flavor == "b" Hacks
@@ -198,6 +170,41 @@ Getting the new mixing going
 - [x] Is there a problem with jet phis ?  Why discontinuous ?
 	- THink its Ok, added histograms with larger range
 - [x] Add sanity check for number of sel jets
+
+- [x] Compare splittings by year
+	- [x]  Cluster PDFs by year. (Probably want an option of grouping them by year...)
+	- [x] check performance 
+- [x] Write out picos with the synthetic datasets jet
+	- [x] Add random number seed input
+	- [x] Add random number seed to output file name
+	- [x] Test processor HH4b on output files
+	- [x] Add CI
+	- [x] Randseed via command line
+		- [x] Separate script that creates input files and submits jobs
+	- [x] Yaml errors from skimming output 
+	- [x] Script to create synthetric datasets yaml
+		- Need to merge with existing dataset script to get (at least the data info)
+	- [x] Output picos to EOS 
+- [x] [[bj pt mismodeling]]
+- [x] [[bj splitting mismodelings]]
+- [x] What happens to pt overflows in the clustering ?
+	- Gets the overflow
+- [x] TTbar Subtractions/ Additions
+	- [x] Subtract ttbar from Templates
+	- [x] Subtract ttbar from Input data being clustered
+	- [x] Then add back non declustered TTbar
+		- [x] Compare ttbar subtracted + PSdata to nominal
+	- [x] Or compare to ttbar subtracted data ? 
+- [x] Skimmer to make sub-sampled TTbar datasets
+	- [x]  Why is there tag in the TT PSData ? 
+	- [x] Compare synthetic + PS data data to data 
+- [x] Propagate Btagging scores ?
+	- [x] Migrate to strings
+- [x] Money plots
+	- 3b no FvT vs Data vs Synthetic Data
+- [ ] ~~run clustering on ttbar MC ?
+
+
 
 
 

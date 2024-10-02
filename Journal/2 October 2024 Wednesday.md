@@ -39,12 +39,15 @@
 
 Up at 7
 
-No semen found! 
+# No semen found! 
 
 M&T to school 
 
 # [[Jet DeClustering]]
-- make hists w/PS and hT RW
+- make hists w/PS and hT RW.. not clear the RW does much
+- update topReconstruction... merging
+- Making another dataset (seed1)
+- I think I finished this for now...
 
 # Taught for Markus
 - four-vectors + GR
@@ -60,3 +63,4 @@ M&T to school
 - 4s good runs
 - Great passing / Poor shooting for me
 
+More [[Jet DeClustering]]
