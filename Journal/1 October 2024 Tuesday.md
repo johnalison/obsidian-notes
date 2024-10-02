@@ -31,12 +31,10 @@
 
 
 # To Do
-- [ ] CAM Training
-- [ ] Read HGC TDR
-- [ ] Remake plottting to be more flexible re:hist structure ? 
+- [>>] CAM Training
+- [>>] Read HGC TDR
+- [>>] Remake plottting to be more flexible re:hist structure ? 
 - [x] Migrate September Setup Oct
-- [ ] 
-- [ ] 
 
 
 # Log
@@ -76,6 +74,7 @@ Chat with Sindhu:
 More [[Jet DeClustering]]
 
 [[HGCManagementMeeting 1 October 2024]]
+- [ ] Ping Markus/Joe re:baseplates
 
 Looked for Aniket... Will try Thursday
 

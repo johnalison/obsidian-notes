@@ -1,23 +1,23 @@
 # Timeblock
 
-|     | setup            |     |
-| --- | ---------------- | --- |
-| 9   | teach for Markus |     |
-|     | teach for Markus |     |
-| 10  | Hbb              |     |
-|     | Hbb              |     |
-| 11  | Hbb              |     |
-|     |                  |     |
-| 12  |                  |     |
-|     | Hoops            |     |
-| 1   | Hoops            |     |
-|     | Hoops            |     |
-| 2   |                  |     |
-|     |                  |     |
-| 3   |                  |     |
-|     |                  |     |
-| 4   |                  |     |
-|     |                  |     |
+|     | setup                |     |
+| --- | -------------------- | --- |
+| 9   | teach for Markus     |     |
+|     | teach for Markus     |     |
+| 10  | Hbb                  |     |
+|     | Hbb                  |     |
+| 11  | Hbb                  |     |
+|     | [[Jet DeClustering]] |     |
+| 12  | [[Jet DeClustering]] |     |
+|     | Hoops                |     |
+| 1   | Hoops                |     |
+|     | Hoops                |     |
+| 2   |                      |     |
+|     |                      |     |
+| 3   |                      |     |
+|     |                      |     |
+| 4   |                      |     |
+|     |                      |     |
 
 **W:**
 **DW:**
@@ -29,10 +29,10 @@
 
 
 # To Do
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
+- [ ] CAM Training
+- [ ] Read HGC TDR
+- [ ] Remake plottting to be more flexible re:hist structure ? 
+- [ ] Ping Markus/Joe re:baseplates
 
 
 # Log
