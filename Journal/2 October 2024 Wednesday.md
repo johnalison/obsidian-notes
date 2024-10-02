@@ -12,12 +12,12 @@
 |     | Hoops                |     |
 | 1   | Hoops                |     |
 |     | Hoops                |     |
-| 2   |                      |     |
-|     |                      |     |
-| 3   |                      |     |
-|     |                      |     |
-| 4   |                      |     |
-|     |                      |     |
+| 2   | [[Jet DeClustering]] |     |
+|     | [[Jet DeClustering]] |     |
+| 3   | [[Jet DeClustering]] |     |
+|     | [[Jet DeClustering]] |     |
+| 4   | bbWW mW              |     |
+|     | Stats chat           |     |
 
 **W:**
 **DW:**
@@ -64,3 +64,11 @@ M&T to school
 - Great passing / Poor shooting for me
 
 More [[Jet DeClustering]]
+
+# Starting to work mW constraint equations. 
+
+
+[[StatsChat-2-October-2024]]
+
+
+- 

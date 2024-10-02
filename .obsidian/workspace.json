@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/2 October 2024 Wednesday.md",
+                "file": "0-inbox/StatsChat-2-October-2024.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/2 October 2024 Wednesday.md",
+                "file": "0-inbox/StatsChat-2-October-2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/2 October 2024 Wednesday.md",
+                "file": "0-inbox/StatsChat-2-October-2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/2 October 2024 Wednesday.md"
+                "file": "0-inbox/StatsChat-2-October-2024.md"
               }
             }
           }
@@ -187,9 +187,10 @@
   },
   "active": "0b1b9625ad0c6637",
   "lastOpenFiles": [
+    "Journal/2 October 2024 Wednesday.md",
+    "0-inbox/StatsChat-2-October-2024.md",
     "Journal/1 October 2024 Tuesday.md",
     "1-projects/Mixed2.0/Jet DeClustering.md",
-    "Journal/2 October 2024 Wednesday.md",
     "Journal/September/30 September 2024 Monday.md",
     "Journal/September/29 September 2024 Sunday.md",
     "Journal/September/28 September 2024 Saturday.md",
@@ -212,7 +213,6 @@
     "Input/Meetings/September/multiHiggs working meeting 9 September 2024.md",
     "Input/Meetings/September/multiHiggs working meeting 16 September 2024.md",
     "Input/Meetings/September/USCMS Mentoring Meeting 27 September 2024.md",
-    "Input/Meetings/September/StatsChat-25-September-2024.md",
     "Input/Meetings/September",
     "Journal/September",
     "Journal/2023/#September 2023.md#",
