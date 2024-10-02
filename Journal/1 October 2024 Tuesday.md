@@ -3,7 +3,7 @@
 |     |                      |     |
 | --- | -------------------- | --- |
 | 8   | setup                |     |
-|     | jack off             |     |
+|     | jacked off           |     |
 | 9   | To Quest and back    |     |
 |     | Wes                  |     |
 | 10  | [[Jet DeClustering]] |     |
@@ -56,9 +56,10 @@ Dropped off splewge.
 # [[Jet DeClustering]]
 - Rerunning the jet clustering
 - reweight hT by year ? 
-	- do this without PSdata and subtracting ttbar
-	- Need option for skipping PS data
-	- Need to make ratios
+	- do this without PSdata and subtracting ttbar...DONE
+	- Need option for skipping PS data...Just commented out files
+	- Need to make ratios... DONE
+	- Adding code to apply weights... DONE
 
 Setup new printer. 
 

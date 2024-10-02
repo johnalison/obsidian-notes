@@ -41,7 +41,7 @@
 
 Up at 7:30 
 
-Join ARC: [[ARC HIG-24-017 Boosted VqqHbb]]
+Joined ARC: [[ARC HIG-24-017 Boosted VqqHbb]]
 
 Check payslip: take home $4,018.20 -> 1200 after alll expenses
 # [[Jet DeClustering]]
@@ -63,7 +63,6 @@ Check payslip: take home $4,018.20 -> 1200 after alll expenses
 More mixed
 
 [[Chat w Sindhu 30 September 2024]]
-
 
 Home to get H
 

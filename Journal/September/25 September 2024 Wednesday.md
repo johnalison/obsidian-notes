@@ -67,7 +67,6 @@ Filled out form re:updating faculty profile.
 
 Reset FNAL kerberos password
 
-
 Finished [[Self-Help is like a vaccine]]
 
 Setup Ledger on MAC M3 [[Setup M3 Macbook]]
