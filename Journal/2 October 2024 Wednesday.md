@@ -55,3 +55,8 @@ M&T to school
 	- s9 how to you define the eff?
 	- s14: why not use extrapolated 2b for Bkg PDFs ? (Btagging enter the pairing probabilities ???)
 	- s21: was seen in HIG-22-011 ! wrong pairs have a lot of SvsB separation 
+
+# Hoops 
+- 4s good runs
+- Great passing / Poor shooting for me
+
