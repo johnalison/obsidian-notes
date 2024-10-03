@@ -50,6 +50,8 @@ Reviewing September
 
 # [[Jet DeClustering]]
 - Running on the 2 mixed samples
+- v1 looks much better than v0... rerunning v0.
 
 [[FBC2 Meeting 3 October 2024]]
 
+# Working mW
