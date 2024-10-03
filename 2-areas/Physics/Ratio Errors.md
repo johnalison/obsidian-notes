@@ -24,6 +24,9 @@ $$
 $$
 
 ## Follow-ups
+Should extend this to a product of an arbitrary number of factors 
+
+f = ABCDE/FGHI
 
 
 ## Links: 
