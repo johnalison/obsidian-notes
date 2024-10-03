@@ -43,7 +43,7 @@
 
 Up at 7:15
 
-M & T to schol
+M & T to school
 
 Reviewing September
 - [ ] Expand calculation in [[Ratio Errors]]
@@ -54,4 +54,7 @@ Reviewing September
 
 [[FBC2 Meeting 3 October 2024]]
 
-# Working mW
+# Working mW constraint
+- finished... 
+- [ ] Write up
+- Think I understand the weird masses (But why allways higher the mW ?)
