@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/September/30 September 2024 Monday.md",
-                "mode": "preview",
+                "file": "Journal/2 October 2024 Wednesday.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -25,14 +25,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/1 October 2024 Tuesday.md",
+                "file": "0-inbox/FBC2 Meeting 3 October 2024.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dfd5cb8a17686ae5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Journal/3 October 2024 Thursday.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/1 October 2024 Tuesday.md",
+                "file": "Journal/2 October 2024 Wednesday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/1 October 2024 Tuesday.md",
+                "file": "Journal/2 October 2024 Wednesday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/1 October 2024 Tuesday.md"
+                "file": "Journal/2 October 2024 Wednesday.md"
               }
             }
           }
@@ -162,15 +173,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "86d686b1a18137e9",
+  "active": "0b1b9625ad0c6637",
   "lastOpenFiles": [
+    "0-inbox/Hbb Meeting 2 October 2024.md",
+    "Journal/2 October 2024 Wednesday.md",
+    "0-inbox/FBC2 Meeting 3 October 2024.md",
+    "Journal/3 October 2024 Thursday.md",
+    "Journal/1 October 2024 Tuesday.md",
     "Journal/September/30 September 2024 Monday.md",
     "Journal/September/29 September 2024 Sunday.md",
     "Journal/September/28 September 2024 Saturday.md",
     "Journal/September/21 September 2024 Saturday.md",
     "Journal/September/27 September 2024 Friday.md",
     "Journal/September/26 September 2024 Thursday.md",
-    "Journal/3 October 2024 Thursday.md",
     "Journal/September/25 September 2024 Wednesday.md",
     "Journal/September/24 September 2024 Tuesday.md",
     "Journal/September/23 September 2024 Monday.md",
@@ -186,10 +201,6 @@
     "Journal/September/13 September 2024 Friday.md",
     "Journal/September/12 September 2024 Thursday.md",
     "Journal/September/11 September 2024 Wednesday.md",
-    "Journal/September/10 September 2024 Tuesday.md",
-    "Journal/September/9 September 2024 Monday.md",
-    "Journal/September/8 September 2024 Sunday.md",
-    "Journal/September/7 September 2024 Saturday.md",
     "Input/Meetings/September",
     "Journal/September",
     "Journal/2023/#September 2023.md#",

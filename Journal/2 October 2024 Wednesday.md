@@ -19,21 +19,19 @@
 | 4   | bbWW mW              |     |
 |     | Stats chat           |     |
 
-**W:**
-**DW:**
-**OT:**
-**ex** or **No ex**
-
+**W:**. 7 
+**DW:**  4
+**OT:**  3
+**ex** 
 # The ONE thing: 
 - [ ] [[Jet DeClustering]]
 
 
 # To Do
-- [ ] CAM Training
-- [ ] Read HGC TDR
-- [ ] Remake plottting to be more flexible re:hist structure ? 
-- [ ] Ping Markus/Joe re:baseplates
-
+- [>>] CAM Training
+- [>>] Read HGC TDR
+- [>>] Remake plottting to be more flexible re:hist structure ? 
+- [>>] Ping Markus/Joe re:baseplates
 
 # Log
 
@@ -52,12 +50,8 @@ M&T to school
 # Taught for Markus
 - four-vectors + GR
 
-# Hbb Meeting:
-- Run 3 HH4b SPANET classification update (Matteo Malucchi (ETH Zurich (CH)))
-	- s7 why hight pT to break symmetry ?
-	- s9 how to you define the eff?
-	- s14: why not use extrapolated 2b for Bkg PDFs ? (Btagging enter the pairing probabilities ???)
-	- s21: was seen in HIG-22-011 ! wrong pairs have a lot of SvsB separation 
+
+[[Hbb Meeting 2 October 2024]]
 
 # Hoops 
 - 4s good runs

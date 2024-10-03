@@ -31,6 +31,10 @@
 # To Do
 - [ ] Grade forward outlines
 - [ ] Look at LabTech applicants
+- [ ] CAM Training
+- [ ] Read HGC TDR
+- [ ] Remake plottting to be more flexible re:hist structure ? 
+- [ ] Ping Markus/Joe re:baseplates
 - [ ] 
 - [ ] 
 
@@ -46,3 +50,6 @@ Reviewing September
 
 # [[Jet DeClustering]]
 - Running on the 2 mixed samples
+
+[[FBC2 Meeting 3 October 2024]]
+
