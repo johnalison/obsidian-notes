@@ -17,12 +17,12 @@
 | 3   | MPL                  |     |
 |     | [[Jet DeClustering]] |     |
 | 4   | [[Jet DeClustering]] |     |
-|     |                      |     |
+|     | [[Jet DeClustering]] |     |
 
-**W:**
-**DW:**
-**OT:**
-**ex** or **No ex**
+**W:** 7 
+**DW:** 3
+**OT:** 4
+**ex** 
 
 # The ONE thing: 
 - [x] mW Debugging
@@ -52,7 +52,7 @@ Reviewing September
 - Running on the 2 mixed samples
 - v1 looks much better than v0... rerunning v0.
 - v0 looks the same as before... making a v2
-- v2 looks like v1.  Deleted v0 and remaking.
+- v2 looks like v1.  Deleted v0 and remaking... updated seed as 53x(seed+13).. on **cmslpc321**
 
 [[FBC2 Meeting 3 October 2024]]
 
@@ -76,3 +76,5 @@ wrote up [[mW constraint]]
 
 Looked at LabTech CVs but them on box here:
 https://cmu.box.com/s/4yrnk44vszzeb2s16vjhjguavj3udsh7
+
+More [[Jet DeClustering]]
