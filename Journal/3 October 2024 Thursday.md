@@ -25,18 +25,18 @@
 **ex** or **No ex**
 
 # The ONE thing: 
-- [ ] 
+- [x] mW Debugging
+- [ ] [[Jet DeClustering]]
 
 
 # To Do
-- [ ] Grade forward outlines
+- [x] Grade forward outlines
 - [ ] Look at LabTech applicants
 - [ ] CAM Training
 - [ ] Read HGC TDR
 - [ ] Remake plottting to be more flexible re:hist structure ? 
 - [ ] Ping Markus/Joe re:baseplates
-- [ ] 
-- [ ] 
+
 
 
 # Log
