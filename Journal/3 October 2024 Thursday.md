@@ -31,7 +31,7 @@
 
 # To Do
 - [x] Grade forward outlines
-- [ ] Look at LabTech applicants
+- [x] Look at LabTech applicants
 - [ ] CAM Training
 - [ ] Read HGC TDR
 - [ ] Remake plottting to be more flexible re:hist structure ? 
@@ -52,6 +52,7 @@ Reviewing September
 - Running on the 2 mixed samples
 - v1 looks much better than v0... rerunning v0.
 - v0 looks the same as before... making a v2
+- v2 looks like v1.  Deleted v0 and remaking.
 
 [[FBC2 Meeting 3 October 2024]]
 
@@ -72,3 +73,6 @@ wrote up [[mW constraint]]
 # Gym / Steamroom
 - core / dips / calf raises / lunges 
 - 10' at Tmax = 124
+
+Looked at LabTech CVs but them on box here:
+https://cmu.box.com/s/4yrnk44vszzeb2s16vjhjguavj3udsh7
