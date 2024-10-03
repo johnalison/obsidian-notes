@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/2023/September 2023.md",
+                "file": "Journal/2 October 2024 Wednesday.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/2023/September 2023.md",
+                "file": "Journal/2 October 2024 Wednesday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/2023/September 2023.md",
+                "file": "Journal/2 October 2024 Wednesday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/2023/September 2023.md"
+                "file": "Journal/2 October 2024 Wednesday.md"
               }
             }
           }
@@ -150,6 +150,7 @@
   },
   "active": "462d1a5f04ba76f3",
   "lastOpenFiles": [
+    "Journal/2023/September 2023.md",
     "Input/Politics.md",
     "0-inbox/CMU 4b Chat 20 September 2024.md",
     "Output/ProgressReport 27 September 2024.md",
@@ -175,7 +176,6 @@
     "Journal/September/2 September 2024 Monday.md",
     "Journal/September/19 September 2024 Thursday.md",
     "Journal/September/18 September 2024 Wednesday.md",
-    "Journal/September/17 September 2024 Tuesday.md",
     "Journal/September",
     "Input/Meetings/September",
     "0-inbox/#Chat w Wes 24 September 2024.md#",
