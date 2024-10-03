@@ -14,7 +14,7 @@
 |     | HH4b       |     |
 | 2   | Gym        |     |
 |     | Gym        |     |
-| 3   | Gym        |     |
+| 3   |            |     |
 |     |            |     |
 | 4   |            |     |
 |     |            |     |
@@ -57,11 +57,18 @@ Reviewing September
 
 # Working mW constraint
 - finished... 
-- [ ] Write up
+- [x] Write up
+	- Done [[mW constraint]]
 - Think I understand the weird masses (But why allways higher the mW ?)
 
 
 # bbWW meeting
 
+wrote up [[mW constraint]]
 
-[[mW constraint]]
+# HH4b chat w/L3
+- useless
+
+# Gym / Steamroom
+- core / dips / calf raises / lunges 
+- 10' at Tmax = 124
