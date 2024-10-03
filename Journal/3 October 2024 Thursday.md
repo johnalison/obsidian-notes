@@ -51,6 +51,7 @@ Reviewing September
 # [[Jet DeClustering]]
 - Running on the 2 mixed samples
 - v1 looks much better than v0... rerunning v0.
+- v0 looks the same as before... making a v2
 
 [[FBC2 Meeting 3 October 2024]]
 
@@ -58,3 +59,9 @@ Reviewing September
 - finished... 
 - [ ] Write up
 - Think I understand the weird masses (But why allways higher the mW ?)
+
+
+# bbWW meeting
+
+
+[[mW constraint]]
