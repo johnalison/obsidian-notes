@@ -50,7 +50,7 @@ Check payslip: take home $4,018.20 -> 1200 after alll expenses
 - [>>] Split compare_datasets by year
 - Debugging cut flow. errors from jit... added Exception handling
 - Weird cut flow problems...MEGA debug
-- Turns out a problem with overwritting bRegCor factors.
+- Turns out a problem with overwriting bRegCor factors.
 
 
 # Gave Monday Talk Di-Higgs Seminar
