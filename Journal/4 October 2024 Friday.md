@@ -7,25 +7,25 @@
 | 10  | Quarterly Systems/Goals Review |     |
 |     | Quarterly Systems/Goals Review |     |
 | 11  | mH constraint                  |     |
-|     |                                |     |
+|     | mH constraint                  |     |
 | 12  | HEP Lunch                      |     |
 |     | HEP Lunch                      |     |
-| 1   |                                |     |
+| 1   | Debugging mTop error           |     |
 |     | Larry Stamps                   |     |
 | 2   | Larry Stamps                   |     |
 |     | HH4b                           |     |
 | 3   | CMU CMS                        |     |
 |     | CMU CMS                        |     |
-| 4   |                                |     |
-|     |                                |     |
+| 4   | Sindhu Chat                    |     |
+|     | Sindhu Chat                    |     |
 
-**W:**
-**DW:**
-**OT:**
-**ex** or **No ex**
+**W:**. 8 
+**DW:** 4
+**OT:** 1
+**No ex**
 
 # The ONE thing: 
-- [ ] Review [[Fall 2024]]
+- [x] Review [[Fall 2024]]
 
 
 # To Do
@@ -68,4 +68,13 @@ Setup CERN 2FA in bitwarden
 
 
 # [[STAMPS Larry 4 October 2024]]
+
+
+CMU CMS 
+
+# Long chat with Sindhu re:m4j double peak. 
+- Will put slides together to explain (basically a bias in the trigger)
+- Next step the systematics. 
+
+
 
