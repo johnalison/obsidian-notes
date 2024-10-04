@@ -78,3 +78,9 @@ Looked at LabTech CVs but them on box here:
 https://cmu.box.com/s/4yrnk44vszzeb2s16vjhjguavj3udsh7
 
 More [[Jet DeClustering]]
+
+# Debugging syn_v0.
+Seing that the mixed histograms counts dont match the cutflows !
+- Data is OK
+- 
+
