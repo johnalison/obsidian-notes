@@ -32,10 +32,10 @@
 # To Do
 - [x] Grade forward outlines
 - [x] Look at LabTech applicants
-- [ ] CAM Training
-- [ ] Read HGC TDR
-- [ ] Remake plottting to be more flexible re:hist structure ? 
-- [ ] Ping Markus/Joe re:baseplates
+- [>>] CAM Training
+- [>>] Read HGC TDR
+- [>>] Remake plottting to be more flexible re:hist structure ? 
+- [>>] Ping Markus/Joe re:baseplates
 
 
 
@@ -46,7 +46,8 @@ Up at 7:15
 M & T to school
 
 Reviewing September
-- [ ] Expand calculation in [[Ratio Errors]]
+- [x] Expand calculation in [[Ratio Errors]]
+
 
 # [[Jet DeClustering]]
 - Running on the 2 mixed samples
@@ -81,11 +82,10 @@ wrote up [[mW constraint]]
 Looked at LabTech CVs but them on box here:
 https://cmu.box.com/s/4yrnk44vszzeb2s16vjhjguavj3udsh7
 
-More [[Jet DeClustering]]
+More [[Jet DeClustering]]... See above
 
-# Debugging syn_v0.
-Seeing that the mixed histograms counts dont match the cutflows !
-- Data is OK
-- fixed the issue.  Cannot repeat filenames in the datasets.. All the PS data was being counted in v0 (fixed by making copies of the PS data with different file name)
+# Late night debugging syn_v0.
+... see above. 
+
 
 

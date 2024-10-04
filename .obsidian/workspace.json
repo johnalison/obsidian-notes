@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/1 October 2024 Tuesday.md",
+                "file": "Journal/4 October 2024 Friday.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/4 October 2024 Friday.md",
+                "file": "Journal/September/6 September 2024 Friday.md",
                 "mode": "source",
                 "source": false
               }
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/1 October 2024 Tuesday.md",
+                "file": "Journal/4 October 2024 Friday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/1 October 2024 Tuesday.md",
+                "file": "Journal/4 October 2024 Friday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/1 October 2024 Tuesday.md"
+                "file": "Journal/4 October 2024 Friday.md"
               }
             }
           }
@@ -176,33 +176,35 @@
   },
   "active": "dfd5cb8a17686ae5",
   "lastOpenFiles": [
-    "Journal/September/30 September 2024 Monday.md",
+    "Journal/Fall 2024.md",
+    "Journal/#Fall 2024.md#",
+    "Journal/04 October 2024 Friday.md",
     "Journal/4 October 2024 Friday.md",
+    "Journal/September/6 September 2024 Friday.md",
+    "Journal/September/20 September 2024 Friday.md",
+    "Journal/3 October 2024 Thursday.md",
+    "Journal/2 October 2024 Wednesday.md",
+    "2-areas/Physics/Ratio Errors.md",
+    "2-areas/Physics/#Ratio Errors.md#",
+    "Journal/1 October 2024 Tuesday.md",
+    "Journal/September/30 September 2024 Monday.md",
     "Journal/September/29 September 2024 Sunday.md",
     "Journal/September/28 September 2024 Saturday.md",
     "Journal/September/27 September 2024 Friday.md",
-    "Journal/3 October 2024 Thursday.md",
     "0-inbox/mW constraint.md",
     "0-inbox/#mW constraint.md#",
-    "Journal/2 October 2024 Wednesday.md",
     "0-inbox/FBC2 Meeting 3 October 2024.md",
     "0-inbox/Hbb Meeting 2 October 2024.md",
-    "Journal/1 October 2024 Tuesday.md",
     "Journal/September/21 September 2024 Saturday.md",
     "Journal/September/26 September 2024 Thursday.md",
     "Journal/September/25 September 2024 Wednesday.md",
     "Journal/September/24 September 2024 Tuesday.md",
     "Journal/September/23 September 2024 Monday.md",
     "Journal/September/22 September 2024 Sunday.md",
-    "Journal/September/20 September 2024 Friday.md",
-    "2-areas/Physics/Ratio Errors.md",
     "Journal/September/19 September 2024 Thursday.md",
     "Journal/September/18 September 2024 Wednesday.md",
     "Journal/September/17 September 2024 Tuesday.md",
     "Journal/September/16 September 2024 Monday.md",
-    "Journal/September/15 September 2024 Sunday.md",
-    "Journal/September/14 September 2024 Saturday.md",
-    "Journal/September/13 September 2024 Friday.md",
     "Input/Meetings/September",
     "Journal/September",
     "Journal/2023/#September 2023.md#",
@@ -210,8 +212,6 @@
     "0-inbox/#Kubernetes explained in 15 mins.md#",
     "0-inbox/#Self-Help is like a vaccine.md#",
     "Journal/#25 September 2024 Wednesday.md#",
-    "0-inbox/#Chat w Wes 24 September 2024.md#",
-    "Journal/#24 September 2024 Tuesday.md#",
     "attachments/Pasted image 20240826220009.png",
     "attachments/Pasted image 20240826215955.png",
     "attachments/HGC TDR LD and HD Sensors.png",

@@ -23,12 +23,35 @@ $$
 \frac{\sigma_r}{r} = \frac{\sigma_N}{N} \oplus \frac{\sigma_D}{D}
 $$
 
+
+# Product of an arbitrary number of factors 
+
+If 
+$$
+f = C_1^{e_1} C_2^{e_2}...  C_N^{e_1N}
+$$
+
+Then
+
+$$
+\frac{\partial f}{\partial C_i} = e_i \frac{f}{C_i}
+$$
+
+And 
+
+$$
+\frac{\sigma_f}{f} = \frac{1}{f}\sqrt{ \sum_i \left(e_i \frac{f}{C_i}\right)^2 \sigma_{C_i}^2\ } =  \sqrt{ \sum_i \left( \frac{e_i}{C_i}\right)^2 \sigma_{C_i}^2\ } 
+$$
+
+
+Thus...
+$$
+\frac{\sigma_f}{f} = \sum_\oplus\frac{e_i^2 \sigma_{C_i}}{C_i} 
+$$
+
+In the simple ration above $e_i = \pm 1$ and $e_i^2 = 1$.
+
 ## Follow-ups
-Should extend this to a product of an arbitrary number of factors 
-
-f = ABCDE/FGHI
-
-
 ## Links: 
 [[Physics]]
 [[ABCDMethod]]
