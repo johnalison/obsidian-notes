@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/4 October 2024 Friday.md",
+                "file": "0-inbox/STAMPS Larry 4 October 2024.md",
                 "mode": "source",
                 "source": false
               }
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/4 October 2024 Friday.md",
+                "file": "0-inbox/STAMPS Larry 4 October 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/4 October 2024 Friday.md",
+                "file": "0-inbox/STAMPS Larry 4 October 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/4 October 2024 Friday.md"
+                "file": "0-inbox/STAMPS Larry 4 October 2024.md"
               }
             }
           }
@@ -176,10 +176,11 @@
   },
   "active": "dfd5cb8a17686ae5",
   "lastOpenFiles": [
+    "Journal/4 October 2024 Friday.md",
+    "0-inbox/STAMPS Larry 4 October 2024.md",
     "Journal/Fall 2024.md",
     "Journal/#Fall 2024.md#",
     "Journal/04 October 2024 Friday.md",
-    "Journal/4 October 2024 Friday.md",
     "Journal/September/6 September 2024 Friday.md",
     "Journal/September/20 September 2024 Friday.md",
     "Journal/3 October 2024 Thursday.md",
@@ -204,7 +205,6 @@
     "Journal/September/19 September 2024 Thursday.md",
     "Journal/September/18 September 2024 Wednesday.md",
     "Journal/September/17 September 2024 Tuesday.md",
-    "Journal/September/16 September 2024 Monday.md",
     "Input/Meetings/September",
     "Journal/September",
     "Journal/2023/#September 2023.md#",

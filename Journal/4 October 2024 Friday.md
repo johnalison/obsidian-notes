@@ -6,7 +6,7 @@
 |     | Teach for Markus               |     |
 | 10  | Quarterly Systems/Goals Review |     |
 |     | Quarterly Systems/Goals Review |     |
-| 11  |                                |     |
+| 11  | mH constraint                  |     |
 |     |                                |     |
 | 12  | HEP Lunch                      |     |
 |     | HEP Lunch                      |     |
@@ -29,7 +29,7 @@
 
 
 # To Do
-- [ ] Send Soheen the AN
+- [x] Send Soheen the AN
 - [ ] debug error from JIT... Try in unit_test ! 
 - [x] Outreach emails
 - [ ] CAM Training
@@ -64,3 +64,7 @@ https://home.cern/news/opinion/accelerators/updated-schedule-cerns-accelerators
 
 Setup CERN 2FA in bitwarden
 
+# Hep Lunch
+
+
+# [[STAMPS Larry 4 October 2024]]
