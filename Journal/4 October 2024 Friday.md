@@ -59,3 +59,8 @@ https://home.cern/news/opinion/accelerators/updated-schedule-cerns-accelerators
 - HL-LHC to start in June 2030.
 
 # Starting to work the mH constraint
+- Worked out algrebra in notebook... 
+- [ ] test on testvectors
+
+Setup CERN 2FA in bitwarden
+
