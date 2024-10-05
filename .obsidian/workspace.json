@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "e348bad75ed3ae17",
+        "id": "211b25e7367f24d9",
         "type": "tabs",
         "children": [
           {
-            "id": "0b1b9625ad0c6637",
+            "id": "462d1a5f04ba76f3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/mW constraint.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dfd5cb8a17686ae5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Journal/4 October 2024 Friday.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "785b245f8f9130a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Journal/September/6 September 2024 Friday.md",
+                "file": "Journal/2023/October 2023.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -58,12 +33,22 @@
         "type": "tabs",
         "children": [
           {
+            "id": "c67b88aabdb7c902",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
             "id": "5eff6f8803fcba5e",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "schedule",
+                "query": "#consum",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,19 +64,8 @@
               "type": "bookmarks",
               "state": {}
             }
-          },
-          {
-            "id": "8cd6e87e88b50c39",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical"
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -111,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/4 October 2024 Friday.md",
+                "file": "Journal/2023/October 2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/4 October 2024 Friday.md",
+                "file": "Journal/2023/October 2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/4 October 2024 Friday.md"
+                "file": "Journal/2023/October 2023.md"
               }
             }
           }
@@ -174,56 +148,54 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "dfd5cb8a17686ae5",
+  "active": "462d1a5f04ba76f3",
   "lastOpenFiles": [
-    "0-inbox/STAMPS Larry 4 October 2024.md",
-    "Journal/4 October 2024 Friday.md",
-    "Journal/Fall 2024.md",
-    "Journal/#Fall 2024.md#",
-    "Journal/04 October 2024 Friday.md",
-    "Journal/September/6 September 2024 Friday.md",
-    "Journal/September/20 September 2024 Friday.md",
+    "Journal/2023/#September 2023.md#",
     "Journal/3 October 2024 Thursday.md",
+    "Journal/2023/October 2023.md",
+    "Journal/4 October 2024 Friday.md",
+    "Journal/04 October 2024 Friday.md",
+    "0-inbox/STAMPS Larry 4 October 2024.md",
     "Journal/2 October 2024 Wednesday.md",
-    "2-areas/Physics/Ratio Errors.md",
-    "2-areas/Physics/#Ratio Errors.md#",
-    "Journal/1 October 2024 Tuesday.md",
+    "0-inbox/mW constraint.md",
+    "0-inbox/Hbb Meeting 2 October 2024.md",
+    "0-inbox/FBC2 Meeting 3 October 2024.md",
+    "Journal/2023/September 2023.md",
+    "Input/Politics.md",
+    "0-inbox/CMU 4b Chat 20 September 2024.md",
+    "Output/ProgressReport 27 September 2024.md",
+    "Output/CAM/Modules Summary September 2024.md",
+    "Journal/September/27 September 2024 Friday.md",
+    "Journal/September/8 September 2024 Sunday.md",
+    "Journal/September/9 September 2024 Monday.md",
     "Journal/September/30 September 2024 Monday.md",
+    "Journal/September/7 September 2024 Saturday.md",
+    "Journal/September/6 September 2024 Friday.md",
+    "Journal/September/5 September 2024 Thursday.md",
+    "Journal/September/4 September 2024 Wednesday.md",
+    "Journal/September/3 September 2024 Tuesday.md",
     "Journal/September/29 September 2024 Sunday.md",
     "Journal/September/28 September 2024 Saturday.md",
-    "Journal/September/27 September 2024 Friday.md",
-    "0-inbox/mW constraint.md",
-    "0-inbox/#mW constraint.md#",
-    "0-inbox/FBC2 Meeting 3 October 2024.md",
-    "0-inbox/Hbb Meeting 2 October 2024.md",
-    "Journal/September/21 September 2024 Saturday.md",
-    "Journal/September/26 September 2024 Thursday.md",
-    "Journal/September/25 September 2024 Wednesday.md",
-    "Journal/September/24 September 2024 Tuesday.md",
-    "Journal/September/23 September 2024 Monday.md",
-    "Journal/September/22 September 2024 Sunday.md",
-    "Journal/September/19 September 2024 Thursday.md",
-    "Journal/September/18 September 2024 Wednesday.md",
-    "Journal/September/17 September 2024 Tuesday.md",
-    "Input/Meetings/September",
     "Journal/September",
-    "Journal/2023/#September 2023.md#",
-    "Journal/#29 September 2024 Sunday.md#",
-    "0-inbox/#Kubernetes explained in 15 mins.md#",
-    "0-inbox/#Self-Help is like a vaccine.md#",
-    "Journal/#25 September 2024 Wednesday.md#",
+    "Input/Meetings/September",
+    "0-inbox/#Chat w Wes 24 September 2024.md#",
+    "Journal/2023/#April 2023.md#",
+    "Journal/August",
+    "Journal/2023",
+    "Input/Meetings/August",
     "attachments/Pasted image 20240826220009.png",
     "attachments/Pasted image 20240826215955.png",
-    "attachments/HGC TDR LD and HD Sensors.png",
-    "attachments/HGC TDR Si Sensor Table.png",
-    "Untitled 1.canvas",
-    "Untitled.canvas",
-    "Untitled 2.canvas",
     "attachments/HGC TDR Summary Table.png",
-    "attachments/HGC Dose.png",
+    "attachments/HGC TDR Si Sensor Table.png",
+    "attachments/HGC TDR LD and HD Sensors.png",
     "attachments/HGC Personnel per MAC.png",
+    "attachments/HGC Dose.png",
     "attachments/CMS Test.png",
+    "Output/Recommendation  Letters",
+    "Output/ProgressReports",
     "attachments/Pasted image 20240730120049.png",
-    "attachments/Pasted image 20240730120040.png"
+    "attachments/Pasted image 20240730120040.png",
+    "Untitled.canvas",
+    "Untitled 1.canvas"
   ]
 }
