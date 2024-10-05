@@ -25,19 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/4 October 2024 Friday.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "785b245f8f9130a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Journal/September/6 September 2024 Friday.md",
+                "file": "Journal/5 October 2024 Saturday.md",
                 "mode": "source",
                 "source": false
               }
@@ -111,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/4 October 2024 Friday.md",
+                "file": "Journal/5 October 2024 Saturday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/4 October 2024 Friday.md",
+                "file": "Journal/5 October 2024 Saturday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/4 October 2024 Friday.md"
+                "file": "Journal/5 October 2024 Saturday.md"
               }
             }
           }
@@ -176,13 +164,14 @@
   },
   "active": "dfd5cb8a17686ae5",
   "lastOpenFiles": [
-    "Journal/2023/October 2023.md",
-    "0-inbox/STAMPS Larry 4 October 2024.md",
+    "Journal/September/6 September 2024 Friday.md",
+    "Journal/5 October 2024 Saturday.md",
     "Journal/4 October 2024 Friday.md",
+    "Journal/2023/October 2023.md",
+    "Journal/04 October 2024 Friday.md",
+    "0-inbox/STAMPS Larry 4 October 2024.md",
     "Journal/Fall 2024.md",
     "Journal/#Fall 2024.md#",
-    "Journal/04 October 2024 Friday.md",
-    "Journal/September/6 September 2024 Friday.md",
     "Journal/September/20 September 2024 Friday.md",
     "Journal/3 October 2024 Thursday.md",
     "Journal/2 October 2024 Wednesday.md",
@@ -204,7 +193,6 @@
     "Journal/September/23 September 2024 Monday.md",
     "Journal/September/22 September 2024 Sunday.md",
     "Journal/September/19 September 2024 Thursday.md",
-    "Journal/September/18 September 2024 Wednesday.md",
     "Input/Meetings/September",
     "Journal/September",
     "Journal/2023/#September 2023.md#",
