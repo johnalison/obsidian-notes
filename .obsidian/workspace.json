@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/5 October 2024 Saturday.md",
+                "file": "Journal/6 October 2024 Sunday.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/5 October 2024 Saturday.md",
+                "file": "Journal/6 October 2024 Sunday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/5 October 2024 Saturday.md",
+                "file": "Journal/6 October 2024 Sunday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/5 October 2024 Saturday.md"
+                "file": "Journal/6 October 2024 Sunday.md"
               }
             }
           }
@@ -164,8 +164,11 @@
   },
   "active": "dfd5cb8a17686ae5",
   "lastOpenFiles": [
-    "Journal/September/6 September 2024 Friday.md",
+    "Journal/2023/November 2023.md",
+    "Journal/6 October 2024 Sunday.md",
+    "Journal/2023/#November 2023.md#",
     "Journal/5 October 2024 Saturday.md",
+    "Journal/September/6 September 2024 Friday.md",
     "Journal/4 October 2024 Friday.md",
     "Journal/2023/October 2023.md",
     "Journal/04 October 2024 Friday.md",
@@ -190,16 +193,12 @@
     "Journal/September/26 September 2024 Thursday.md",
     "Journal/September/25 September 2024 Wednesday.md",
     "Journal/September/24 September 2024 Tuesday.md",
-    "Journal/September/23 September 2024 Monday.md",
-    "Journal/September/22 September 2024 Sunday.md",
-    "Journal/September/19 September 2024 Thursday.md",
     "Input/Meetings/September",
     "Journal/September",
     "Journal/2023/#September 2023.md#",
     "Journal/#29 September 2024 Sunday.md#",
     "0-inbox/#Kubernetes explained in 15 mins.md#",
     "0-inbox/#Self-Help is like a vaccine.md#",
-    "Journal/#25 September 2024 Wednesday.md#",
     "attachments/Pasted image 20240826220009.png",
     "attachments/Pasted image 20240826215955.png",
     "attachments/HGC TDR LD and HD Sensors.png",
