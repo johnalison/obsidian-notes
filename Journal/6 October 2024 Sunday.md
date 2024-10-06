@@ -13,4 +13,10 @@ More [[Nexus]]
 
 [[November 2023]]
 
+Some [[Selfish reasons to having more kids]]
+
+# Gym and Steamroom
+- Deadlifts / clings / step-up
+
+
 
