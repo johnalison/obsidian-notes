@@ -16,4 +16,9 @@ Some [[How Adam Smith Can Change Your Life]]
 
 Counter offer on house $745k... will accept (ask for 2weeks for inspections)
 
+Some [[Selfish reasons to having more kids]]
+
+# To Park
+
+Some [[Nexus]]
 
