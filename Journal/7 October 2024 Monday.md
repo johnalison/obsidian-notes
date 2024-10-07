@@ -62,4 +62,7 @@ Dropped of H... then M & T.
 # Hoops
 - 4s. Good passing and D.
 
+# bbWW mH constraint
+- Looks like "gen Ws" have the wrong mass
+
 
