@@ -34,7 +34,7 @@
 - [ ] CAM Training
 - [ ] Read HGC TDR
 - [ ] Remake plotting to be more flexible re:hist structure ? 
-- [ ] Ping Markus/Joe re:baseplates
+- [x] Ping Markus/Joe re:baseplates
 - [ ] CAP/LTS online questionnaire and tasks
 
 
