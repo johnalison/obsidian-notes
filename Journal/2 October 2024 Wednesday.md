@@ -23,14 +23,14 @@
 **DW:**  4
 **OT:**  3
 **ex** 
+
 # The ONE thing: 
 - [ ] [[Jet DeClustering]]
-
 
 # To Do
 - [>>] CAM Training
 - [>>] Read HGC TDR
-- [>>] Remake plottting to be more flexible re:hist structure ? 
+- [>>] Remake plotting to be more flexible re:hist structure ? 
 - [>>] Ping Markus/Joe re:baseplates
 
 # Log

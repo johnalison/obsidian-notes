@@ -7,7 +7,7 @@ Some [[How Adam Smith Can Change Your Life]]
 
 Some [[Nexus]]
 
-# Shenly park for Linden's party 
+# Schenly park for Linden's party 
 
 More [[Nexus]]
 
@@ -18,5 +18,6 @@ Some [[Selfish reasons to having more kids]]
 # Gym and Steamroom
 - Deadlifts / clings / step-up
 
+More reading
 
 

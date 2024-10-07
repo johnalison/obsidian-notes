@@ -65,7 +65,7 @@ Reviewing September
 - finished... 
 - [x] Write up
 	- Done [[mW constraint]]
-- Think I understand the weird masses (But why allways higher the mW ?)
+- Think I understand the weird masses (But why always higher the mW ?)
 
 
 # bbWW meeting

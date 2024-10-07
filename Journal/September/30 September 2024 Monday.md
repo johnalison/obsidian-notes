@@ -45,7 +45,7 @@ Joined ARC: [[ARC HIG-24-017 Boosted VqqHbb]]
 
 Check payslip: take home $4,018.20 -> 1200 after alll expenses
 # [[Jet DeClustering]]
-- ADded selJets_no_bRegCorr for btag SFs
+- Added selJets_no_bRegCorr for btag SFs
 - Fixing CI
 - [>>] Split compare_datasets by year
 - Debugging cut flow. errors from jit... added Exception handling
