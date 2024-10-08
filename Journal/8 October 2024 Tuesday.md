@@ -55,7 +55,9 @@ Signed into the new portal... Can't get visitor pass working.
 # [[Run-3 4b skims]]
 - tmux on **cmslpc316**
 - missing input dataset file
-
+- trying preBPix all eras (**source skim2023_preBPix.sh**)
+- Fails b/c **Input sandbox size exceeds the maximum allowed limit.**
+	- Created a clean checkout for the skim (used --depth 1 to speed up the checkout)
 
 
 
