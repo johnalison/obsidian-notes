@@ -19,9 +19,9 @@
 | 4   | mH constraint |     |
 |     | Pick up kids  |     |
 
-**W:**
-**DW:**
-**OT:**
+**W:** 6 
+**DW:**  2
+**OT:** 2
 **ex** or **No ex**
 
 # The ONE thing: 
@@ -66,3 +66,11 @@ Dropped of H... then M & T.
 - Looks like "gen Ws" have the wrong mass
 
 
+# Chat with Berman 
+
+Picked up M&T then drove to get H.
+
+Home for dinner. 
+
+# H to basketball
+- Some [[How Adam Smith Can Change Your Life]]
