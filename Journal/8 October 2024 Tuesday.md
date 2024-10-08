@@ -10,8 +10,8 @@
 |     | [[Run-3 4b skims]] |     |
 | 12  | HGC                |     |
 |     | HGC                |     |
-| 1   |                    |     |
-|     |                    |     |
+| 1   | kids to bed        |     |
+|     | kids to bed        |     |
 | 2   |                    |     |
 |     |                    |     |
 | 3   | Mans               |     |
@@ -55,10 +55,12 @@ Signed into the new portal... Can't get visitor pass working.
 # [[Run-3 4b skims]]
 - tmux on **cmslpc316**
 - missing input dataset file
-- trying preBPix all eras (**source skim2023_preBPix.sh**)
+- trying 2023_preBPix all eras (**source skim2023_preBPix.sh**)
 - Fails b/c **Input sandbox size exceeds the maximum allowed limit.**
 	- Created a clean checkout for the skim (used --depth 1 to speed up the checkout)
-
-
+- Jobs finished. some error messages and missing chunks. 
+- submitting 2023_PBix 
 
 [[CMU HGC Mac Meeting 8 October 2024]]
+
+more [[Run-3 4b skims]]

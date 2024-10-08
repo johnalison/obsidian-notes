@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/CMU HGC Mac Meeting 8 October 2024.md",
+                "file": "0-inbox/Run-3 4b skims.md",
                 "mode": "source",
                 "source": false
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/CMU HGC Mac Meeting 8 October 2024.md",
+                "file": "0-inbox/Run-3 4b skims.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/CMU HGC Mac Meeting 8 October 2024.md",
+                "file": "0-inbox/Run-3 4b skims.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/CMU HGC Mac Meeting 8 October 2024.md"
+                "file": "0-inbox/Run-3 4b skims.md"
               }
             }
           }
@@ -200,11 +200,13 @@
   },
   "active": "97341255c7df27a1",
   "lastOpenFiles": [
-    "Input/Meetings/CMU HGC Mac Meeting 1 October 2024.md",
-    "0-inbox/CMU HGC Mac Meeting 8 October 2024.md",
-    "Journal/8 October 2024 Tuesday.md",
-    "0-inbox/ARC HIG-24-017 Boosted VqqHbb.md",
+    "0-inbox/BPix hole.md",
     "0-inbox/Run-3 4b skims.md",
+    "Journal/8 October 2024 Tuesday.md",
+    "0-inbox/#Run-3 4b skims.md#",
+    "0-inbox/CMU HGC Mac Meeting 8 October 2024.md",
+    "Input/Meetings/CMU HGC Mac Meeting 1 October 2024.md",
+    "0-inbox/ARC HIG-24-017 Boosted VqqHbb.md",
     "Journal/7 October 2024 Monday.md",
     "Journal/6 October 2024 Sunday.md",
     "Journal/5 October 2024 Saturday.md",
@@ -225,7 +227,6 @@
     "Input/Meetings/HGCManagementMeeting 1 October 2024.md",
     "Input/Meetings/Hbb Meeting 2 October 2024.md",
     "0-inbox/FBC2 Meeting 3 October 2024.md",
-    "Journal/October 2024.md",
     "Journal/2023/#November 2023.md#",
     "Journal/#Fall 2024.md#",
     "2-areas/Physics/#Ratio Errors.md#",
@@ -235,7 +236,6 @@
     "Journal/2023/#September 2023.md#",
     "Journal/#29 September 2024 Sunday.md#",
     "0-inbox/#Kubernetes explained in 15 mins.md#",
-    "0-inbox/#Self-Help is like a vaccine.md#",
     "attachments/Pasted image 20240826220009.png",
     "attachments/Pasted image 20240826215955.png",
     "attachments/HGC TDR LD and HD Sensors.png",

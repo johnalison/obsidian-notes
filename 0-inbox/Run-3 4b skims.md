@@ -1,5 +1,34 @@
+[[BPix hole]]
 
 
+# Missing chunks...
+
+```bash
+ERROR    ERROR:root:Missing chunk:
+ [101724, 305172) in "root://cmsxrootd.hep.wisc.edu:1094//store/data/Run2023C/JetMET0/NANOAOD/22Sep2023_v2-v1/2540000/08aeeda4-e4f1-4390-9430-e577dc10fa74.root"     picoaod.py:250
+[0, 109177)       in "root://cmsxrootd.hep.wisc.edu:1094//store/data/Run2023C/JetMET0/NANOAOD/22Sep2023_v2-v1/2540000/311758d6-b4a6-43b7-8b2a-ac8f40e2ef46.root"          picoaod.py:250
+[400148, 500185)  in "root://cmsxrootd.hep.wisc.edu:1094//store/data/Run2023C/JetMET0/NANOAOD/22Sep2023_v2-v1/2540000/37b60770-2fd3-4655-b4fc-c453ba94aa43.root"     picoaod.py:250
+[209522, 419044)  in "root://cmsxrootd.hep.wisc.edu:1094//store/data/Run2023C/JetMET0/NANOAOD/22Sep2023_v2-v1/2540000/42ac3f8a-48f5-4042-b6e4-72106c2e89c6.root"     picoaod.py:250
+[289719, 386292)  in "root://cmsxrootd.hep.wisc.edu:1094//store/data/Run2023C/JetMET0/NANOAOD/22Sep2023_v2-v1/2540000/45a6e8f1-d57a-4027-9fb2-c163a61e0f6b.root"     picoaod.py:250
+[95111, 190222)   in "root://cmsxrootd.hep.wisc.edu:1094//store/data/Run2023C/JetMET0/NANOAOD/22Sep2023_v2-v1/2540000/78aa0ec7-d875-48e2-ac96-b07f94fefa8d.root"      picoaod.py:250
+[285333, 475555)  in "root://cmsxrootd.hep.wisc.edu:1094//store/data/Run2023C/JetMET0/NANOAOD/22Sep2023_v2-v1/2540000/78aa0ec7-d875-48e2-ac96-b07f94fefa8d.root"     picoaod.py:250
+[96825, 290475)   in "root://cmsxrootd.hep.wisc.edu:1094//store/data/Run2023C/JetMET0/NANOAOD/22Sep2023_v2-v1/2540000/8e2d93c5-db0f-442d-8b7e-e7cfcb03479e.root"      picoaod.py:250
+[484125, 677775)  in "root://cmsxrootd.hep.wisc.edu:1094//store/data/Run2023C/JetMET0/NANOAOD/22Sep2023_v2-v1/2540000/8e2d93c5-db0f-442d-8b7e-e7cfcb03479e.root"     picoaod.py:250
+[390036, 585054)  in "root://cmsxrootd.hep.wisc.edu:1094//store/data/Run2023C/JetMET0/NANOAOD/22Sep2023_v2-v1/2540000/c0a8faf7-1b2d-4d13-9b69-1d7138937e2a.root"     picoaod.py:250
+[0, 123771)       in "root://cmsxrootd.hep.wisc.edu:1094//store/data/Run2023C/JetMET0/NANOAOD/22Sep2023_v2-v1/30000/38ef63b7-1f50-4da9-a010-0961e1259277.root"            picoaod.py:250
+[187722, 375444)  in "root://cmsxrootd.hep.wisc.edu:1094//store/data/Run2023C/JetMET0/NANOAOD/22Sep2023_v2-v1/30000/5d79f9cf-4ea4-4453-bca5-3f65f6f68e9f.root"       picoaod.py:250
+[0, 217684)       in "root://cmsxrootd.hep.wisc.edu:1094//store/data/Run2023C/JetMET0/NANOAOD/22Sep2023_v2-v1/30000/c3eb25c2-ee41-4996-bcc5-daadd69633f7.root"            picoaod.py:250
+[193132, 386264)  in "root://cmsxrootd.hep.wisc.edu:1094//store/data/Run2023C/JetMET0/NANOAOD/22Sep2023_v2-v1/30000/f2fc2cc9-6c4a-477b-a2fb-e77a5d397b7c.root"       picoaod.py:250
+[0, 213798)       in "root://cmsxrootd.hep.wisc.edu:1094//store/data/Run2023C/JetMET0/NANOAOD/22Sep2023_v2-v1/50000/0d228478-ce15-45db-8e49-79d0f605ccc7.root"            picoaod.py:250
+[427596, 534495)  in "root://cmsxrootd.hep.wisc.edu:1094//store/data/Run2023C/JetMET0/NANOAOD/22Sep2023_v2-v1/50000/0d228478-ce15-45db-8e49-79d0f605ccc7.root"       picoaod.py:250
+[93887, 187774)   in "root://cmsxrootd.hep.wisc.edu:1094//store/data/Run2023C/JetMET0/NANOAOD/22Sep2023_v2-v1/50000/46f2a209-4608-4348-a50a-f292adeb24a8.root"        picoaod.py:250
+```
+
+```bash
+ERROR    ERROR:root:The whole file is missing: 
+"root://cmsxrootd.hep.wisc.edu:1094//store/data/Run2023C/JetMET0/NANOAOD/22Sep2023_v2-v1/2540000/5e1f2fc8-191b-40c7-a3d2-cac7065482de.root"             picoaod.py:237
+"root://cmsxrootd.hep.wisc.edu:1094//store/data/Run2023C/JetMET0/NANOAOD/22Sep2023_v2-v1/2540000/dfb63f3c-3cea-42bf-84a8-5185cd687ada.root"             picoaod.py:237
+```
 
 # Mail from AE
 
