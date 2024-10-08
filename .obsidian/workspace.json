@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/8 October 2024 Tuesday.md",
+                "file": "Journal/2023/December 2023.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/8 October 2024 Tuesday.md",
+                "file": "Journal/2023/December 2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/8 October 2024 Tuesday.md",
+                "file": "Journal/2023/December 2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/8 October 2024 Tuesday.md"
+                "file": "Journal/2023/December 2023.md"
               }
             }
           }
@@ -187,10 +187,11 @@
   },
   "active": "0b1b9625ad0c6637",
   "lastOpenFiles": [
+    "Journal/8 October 2024 Tuesday.md",
+    "Journal/2023/December 2023.md",
     "0-inbox/HGCManagementMeeting 8 October 2024.md",
     "Input/Meetings/CMU HGC Mac Meeting 1 October 2024.md",
     "0-inbox/Run-3 4b skims.md",
-    "Journal/8 October 2024 Tuesday.md",
     "0-inbox/BPix hole.md",
     "0-inbox/#Run-3 4b skims.md#",
     "0-inbox/CMU HGC Mac Meeting 8 October 2024.md",
@@ -213,7 +214,6 @@
     "0-inbox/Neutrino Weighting.md",
     "00-Zettelkasten/mW constraint.md",
     "Input/Meetings/HGCManagementMeeting 1 October 2024.md",
-    "Input/Meetings/Hbb Meeting 2 October 2024.md",
     "Journal/2023/#November 2023.md#",
     "Journal/#Fall 2024.md#",
     "2-areas/Physics/#Ratio Errors.md#",

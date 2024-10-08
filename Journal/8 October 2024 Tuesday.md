@@ -67,3 +67,10 @@ more [[Run-3 4b skims]]
 
 [[HGCManagementMeeting 8 October 2024]]
 
+Finished [[How Adam Smith Can Change Your Life]]
+
+Testing running on condor 
+
+[[December 2023]]
+
+
