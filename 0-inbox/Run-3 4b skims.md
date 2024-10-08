@@ -3,6 +3,16 @@
 
 # Missing chunks...
 
+## BPix
+
+**ERROR**    **ERROR:root:The whole file is missing:** 
+```bash
+"root://dcache-cms-xrootd.desy.de:1094//store/data/Run2023D/ParkingHH/NANOAOD/22Sep2023_v2-v1/2560000/c493171c-63f5-4906-b09a-ac5684089bb0.root"
+"root://dcache-cms-xrootd.desy.de:1094//store/data/Run2023D/ParkingHH/NANOAOD/22Sep2023_v2-v1/60000/184bebb8-5e35-41d2-86b6-cc02c0307489.root"
+"root://dcache-cms-xrootd.desy.de:1094//store/data/Run2023D/ParkingHH/NANOAOD/22Sep2023_v2-v1/60000/69155626-c909-4645-b8e4-31e5024d609a.root"
+```
+
+## preBPIX
 ```bash
 ERROR    ERROR:root:Missing chunk:
  [101724, 305172) in "root://cmsxrootd.hep.wisc.edu:1094//store/data/Run2023C/JetMET0/NANOAOD/22Sep2023_v2-v1/2540000/08aeeda4-e4f1-4390-9430-e577dc10fa74.root"     picoaod.py:250

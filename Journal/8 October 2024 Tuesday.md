@@ -64,3 +64,5 @@ Signed into the new portal... Can't get visitor pass working.
 [[CMU HGC Mac Meeting 8 October 2024]]
 
 more [[Run-3 4b skims]]
+
+[[HGCManagementMeeting 8 October 2024]]
