@@ -36,7 +36,7 @@
 - [ ] Read HGC TDR
 - [ ] Remake plotting to be more flexible re:hist structure ? 
 - [ ]  CAP/LTS online questionnaire and tasks
-- [ ] 
+- [ ] work study (student? )
 
 
 # Log
