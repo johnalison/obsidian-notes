@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/7 October 2024 Monday.md",
+                "file": "0-inbox/ARC HIG-24-017 Boosted VqqHbb.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/6 October 2024 Sunday.md",
+                "file": "Input/Meetings/CMU HGC Mac Meeting 1 October 2024.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,13 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/October 2024.md",
+                "file": "0-inbox/Run-3 4b skims.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "97341255c7df27a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Journal/8 October 2024 Tuesday.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/7 October 2024 Monday.md",
+                "file": "0-inbox/Run-3 4b skims.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/7 October 2024 Monday.md",
+                "file": "0-inbox/Run-3 4b skims.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/7 October 2024 Monday.md"
+                "file": "0-inbox/Run-3 4b skims.md"
               }
             }
           }
@@ -173,37 +186,37 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0b1b9625ad0c6637",
+  "active": "78ffab87e1177eef",
   "lastOpenFiles": [
-    "Input/Meetings/September/HGC MAC Meeting 11 September 2024.md",
+    "Journal/8 October 2024 Tuesday.md",
+    "0-inbox/Run-3 4b skims.md",
     "Journal/7 October 2024 Monday.md",
-    "Input/Meetings/August/HGCManagementMeeting 27 August 2024.md",
-    "Input/Meetings/September/HGCManagementMeeting 3 September 2024.md",
-    "0-inbox/HGCManagementMeeting 1 October 2024.md",
-    "Journal/1 October 2024 Tuesday.md",
-    "Journal/October 2024.md",
     "Journal/6 October 2024 Sunday.md",
     "Journal/5 October 2024 Saturday.md",
     "Journal/4 October 2024 Friday.md",
-    "Input/Blogs/Updated schedule for CERN’s accelerators.md",
     "Journal/3 October 2024 Thursday.md",
-    "Journal/2 October 2024 Wednesday.md",
-    "0-inbox/Hbb Meeting 2 October 2024.md",
-    "1-projects/Mixed2.0/Jet DeClustering.md",
-    "0-inbox/mW constraint.md",
-    "Journal/September/30 September 2024 Monday.md",
-    "Journal/2023/November 2023.md",
-    "Journal/2023/#November 2023.md#",
-    "Journal/September/6 September 2024 Friday.md",
-    "Journal/2023/October 2023.md",
-    "Journal/04 October 2024 Friday.md",
-    "0-inbox/STAMPS Larry 4 October 2024.md",
-    "Journal/Fall 2024.md",
-    "Journal/#Fall 2024.md#",
-    "Journal/September/20 September 2024 Friday.md",
     "2-areas/Physics/Ratio Errors.md",
+    "Journal/2 October 2024 Wednesday.md",
+    "Journal/1 October 2024 Tuesday.md",
+    "0-inbox/HGC TDR.md",
+    "0-inbox/CMU HGC Mac Meeting 8 October 2024.md",
+    "0-inbox/ARC HIG-24-017 Boosted VqqHbb.md",
+    "0-inbox/AnalysesOverview.excalidraw.md",
+    "Input/Meetings/StatsChat-2-October-2024.md",
+    "0-inbox/Things-To-Add-To-Notes.md",
+    "Input/Meetings/STAMPS Larry 4 October 2024.md",
+    "0-inbox/Numba.md",
+    "0-inbox/Nexus.md",
+    "0-inbox/Neutrino Weighting.md",
+    "00-Zettelkasten/mW constraint.md",
+    "Input/Meetings/HGCManagementMeeting 1 October 2024.md",
+    "Input/Meetings/Hbb Meeting 2 October 2024.md",
+    "0-inbox/FBC2 Meeting 3 October 2024.md",
+    "Journal/October 2024.md",
+    "Input/Meetings/CMU HGC Mac Meeting 1 October 2024.md",
+    "Journal/2023/#November 2023.md#",
+    "Journal/#Fall 2024.md#",
     "2-areas/Physics/#Ratio Errors.md#",
-    "Journal/September/29 September 2024 Sunday.md",
     "0-inbox/#mW constraint.md#",
     "Input/Meetings/September",
     "Journal/September",

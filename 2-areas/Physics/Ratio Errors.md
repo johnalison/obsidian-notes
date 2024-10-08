@@ -5,22 +5,22 @@ $$
 Error propogation: 
 
 $$
-\sigma_r = \frac{\partial r}{\partial N} \sigma_N\ \oplus  \frac{\partial r}{\partial D} \sigma_D = \frac{1}{D} \sigma_N\ \oplus \frac{N}{D^2} \sigma_D
+\sigma_r^2 = \frac{\partial r}{\partial N} \sigma_N\ \oplus  \frac{\partial r}{\partial D} \sigma_D = \frac{1}{D} \sigma_N\ \oplus \frac{N}{D^2} \sigma_D
 $$
 
 
 So 
 $$
-\sigma_r = \sqrt{\frac{\sigma_N^2}{D^2}\ \oplus \frac{N^2}{D^4}\sigma_D^2 }
+\sigma_r = \sqrt{\frac{\sigma_N^2}{D^2}\ + \frac{N^2}{D^4}\sigma_D^2 }
 $$
 Or
 $$
-\frac{\sigma_r}{r} = \sqrt{\frac{D^2}{N^2}\frac{\sigma_N^2}{D^2}\ \oplus \frac{D^2}{N^2}\frac{N^2}{D^4}\sigma_D^2 }
+\frac{\sigma_r}{r} = \sqrt{\frac{D^2}{N^2}\frac{\sigma_N^2}{D^2}\ + \frac{D^2}{N^2}\frac{N^2}{D^4}\sigma_D^2 }
 $$
 
 Thus...
 $$
-\frac{\sigma_r}{r} = \frac{\sigma_N}{N} \oplus \frac{\sigma_D}{D}
+\left(\frac{\sigma_r}{r}\right)^2 = \left(\frac{\sigma_N}{N}\right)^2 + \left(\frac{\sigma_D}{D}\right)^2
 $$
 
 
@@ -46,7 +46,7 @@ $$
 
 Thus...
 $$
-\frac{\sigma_f}{f} = \sum_\oplus\frac{e_i^2 \sigma_{C_i}}{C_i} 
+\left(\frac{\sigma_f}{f}\right)^2 = \sum_\oplus\frac{e_i^2 \sigma_{C_i}}{C_i} 
 $$
 
 In the simple ration above $e_i = \pm 1$ and $e_i^2 = 1$.

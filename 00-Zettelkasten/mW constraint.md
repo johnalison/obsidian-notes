@@ -50,6 +50,7 @@ ${p_z}_\nu = \frac{-B \pm \sqrt{B^2 - 4AC}}{2A}$
 
 
 ## Links: 
+[[Physics]]
 
 
 

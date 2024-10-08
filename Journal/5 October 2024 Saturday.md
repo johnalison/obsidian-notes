@@ -14,7 +14,7 @@ Some [[How Adam Smith Can Change Your Life]]
 - Had the wrong day!
 - Met chief of staff to Chatam president (quite the character)
 
-Counter offer on house $745k... will accept (ask for 2weeks for inspections)
+# Counter offer on house $745k... will accept (ask for 2 weeks for inspections)
 
 Some [[Selfish reasons to having more kids]]
 
