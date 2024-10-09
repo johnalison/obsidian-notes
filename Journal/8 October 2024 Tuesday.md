@@ -12,16 +12,16 @@
 |     | HGC                |     |
 | 1   | kids to bed        |     |
 |     | kids to bed        |     |
-| 2   |                    |     |
-|     |                    |     |
+| 2   | More skims         |     |
+|     | More skims         |     |
 | 3   | Mans               |     |
 |     | Mans               |     |
 | 4   | Mans               |     |
 |     |                    |     |
 
-**W:**
-**DW:**
-**OT:**
+**W:** 5 
+**DW:** 1
+**OT:** - 
 **ex** or **No ex**
 
 # The ONE thing: 
@@ -30,13 +30,13 @@
 
 # To Do
 - [x] New parking pass
-- [ ] new skims
-- [ ] Watch Pre-Approval VqqHbb
-- [ ] CAM Training
-- [ ] Read HGC TDR
-- [ ] Remake plotting to be more flexible re:hist structure ? 
-- [ ]  CAP/LTS online questionnaire and tasks
-- [ ] work study (student? )
+- [>>] new skims
+- [>>] Watch Pre-Approval VqqHbb
+- [>>] CAM Training
+- [>>] Read HGC TDR
+- [>>] Remake plotting to be more flexible re:hist structure ? 
+- [>>]  CAP/LTS online questionnaire and tasks
+- [MP] work study (student? )
 
 
 # Log
@@ -73,4 +73,4 @@ Testing running on condor
 
 [[December 2023]]
 
-
+Kids to bed

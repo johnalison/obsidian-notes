@@ -15,8 +15,8 @@
 | 13 S |                                                                               |       |
 | 14 M |                                                                               |       |
 | 15 T |                                                                               |       |
-| 16 W | (CAPs visit)                                                                  |       |
-| 17 H |                                                                               |       |
+| 16 W | (CAPs visit) (Inspection)                                                     |       |
+| 17 H | (TMan Show)                                                                   |       |
 | 18 F | (CYERT Closed)                                                                |       |
 | 19 S |                                                                               |       |
 | 20 S |                                                                               |       |
@@ -28,6 +28,6 @@
 | 26 S |                                                                               |       |
 | 27 S |                                                                               |       |
 | 28 M |                                                                               |       |
-| 29 T |                                                                               |       |
+| 29 T | (Black Crowes)                                                                |       |
 | 30 W |                                                                               |       |
 | 31 H |                                                                               |       |

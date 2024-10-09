@@ -22,7 +22,7 @@
 **W:** 6 
 **DW:**  2
 **OT:** 2
-**ex** or **No ex**
+**ex**
 
 # The ONE thing: 
 - [x] HH4b debug top reco
@@ -53,7 +53,7 @@ Dropped of H... then M & T.
 
 
 # CMU CMS
-- The HGCAL Data Challenge
+- "The HGCAL Data Challenge" by Matteo
 - Not so useful
 
 # Multi-higgs
@@ -63,8 +63,8 @@ Dropped of H... then M & T.
 - 4s. Good passing and D.
 
 # bbWW mH constraint
-- Looks like "gen Ws" have the wrong mass
-
+- Looks like "gen Ws" have the wrong mass.. they do Aniket fixed
+- Now new version.
 
 # Chat with Berman 
 

@@ -16,7 +16,7 @@ More [[Nexus]]
 Some [[Selfish reasons to having more kids]]
 
 # Gym and Steamroom
-- Deadlifts / clings / step-up
+- Farmers Carries / clings / step-up
 
 More reading
 
