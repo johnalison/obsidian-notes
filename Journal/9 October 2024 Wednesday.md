@@ -78,5 +78,15 @@ did mail.
 - Good runs 4s
 
 # Mortgage call
-- 300k -> 
+- 300k down
 - 5.99 -> 6.5
+- Need to pay $1k upfront
+
+# 4b code base
+- added processed lumi section
+- updated skip colections and branches
+
+# T3 Meeting
+accounts .mcs.cmu.edu/ andrew
+	**> ping falcon.phys.cmu.edu**
+https://account.mcs.cmu.edu/andrew/
