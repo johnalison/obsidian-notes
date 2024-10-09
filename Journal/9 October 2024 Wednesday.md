@@ -36,6 +36,7 @@
 - [ ] Remake plotting to be more flexible re:hist structure ? 
 - [ ]  CAP/LTS online questionnaire and tasks
 - [ ] Get Hand money
+- [ ] Aniket CERN office
 
 
 
@@ -68,3 +69,5 @@ H & M & T to school
 	- [ ] think about this with 1d cartoon
 
 Sent coffea question. 
+
+did mail.
