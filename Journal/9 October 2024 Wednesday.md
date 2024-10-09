@@ -35,6 +35,7 @@
 - [ ] Read HGC TDR
 - [ ] Remake plotting to be more flexible re:hist structure ? 
 - [ ]  CAP/LTS online questionnaire and tasks
+- [ ] Get Hand money
 
 
 
@@ -53,7 +54,17 @@ H & M & T to school
 	- [ ] count lumi sections processed
 	- [ ] count events processed before lumi sections
 	- [ ] check duplicate events
+	- [[Coffea post re lumi counting]]
 - [ ] Debug why the limits changed
 	- [ ] Run limits weekly 
 	- [ ] sparse reAna job to just get to limits (no mixed data ect. systematics)
 	- [ ] check given commit. 
+
+
+# Stats chat
+- Long discussion re:training scheuduels (not so useful
+- Discussion of unfolding:  
+	- Claim (MK) only need a foward model trained on simulation/ this would then be insensitvie to simulation mismodelling
+	- [ ] think about this with 1d cartoon
+
+Sent coffea question. 
