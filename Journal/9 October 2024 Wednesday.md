@@ -52,7 +52,7 @@ H & M & T to school
 
 # Chat AE
 - [ ] Need way to debug datasets in coffee
-	- [ ] count lumi sections processed
+	- [x] count lumi sections processed
 	- [xx] ~~count events processed before lumi sections
 		- Already doing
 	- [xx] ~~check duplicate events
