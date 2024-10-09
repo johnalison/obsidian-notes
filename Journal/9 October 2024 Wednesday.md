@@ -71,3 +71,10 @@ H & M & T to school
 Sent coffea question. 
 
 did mail.
+
+# Hoops 
+- Good runs 4s
+
+# Mortgage call
+- 300k -> 
+- 5.99 -> 6.5
