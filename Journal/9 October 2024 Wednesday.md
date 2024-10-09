@@ -53,17 +53,19 @@ H & M & T to school
 # Chat AE
 - [ ] Need way to debug datasets in coffee
 	- [ ] count lumi sections processed
-	- [ ] count events processed before lumi sections
-	- [ ] check duplicate events
+	- [xx] ~~count events processed before lumi sections
+		- Already doing
+	- [xx] ~~check duplicate events
+		- Spot check SRs
 	- [[Coffea post re lumi counting]]
 - [ ] Debug why the limits changed
-	- [ ] Run limits weekly 
-	- [ ] sparse reAna job to just get to limits (no mixed data ect. systematics)
-	- [ ] check given commit. 
+	- [x] Run limits weekly 
+	- [XX] ~~sparse reAna job to just get to limits (no mixed data ect. systematics)
+	- [AE] script to check given commit. 
 
 
 # Stats chat
-- Long discussion re:training scheuduels (not so useful
+- Long discussion re:training schedules (not so useful
 - Discussion of unfolding:  
 	- Claim (MK) only need a foward model trained on simulation/ this would then be insensitvie to simulation mismodelling
 	- [ ] think about this with 1d cartoon
