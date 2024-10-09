@@ -47,3 +47,13 @@ H & M & T to school
 # Mails
 
 [[Low mass di-electrons]]
+
+# Chat AE
+- [ ] Need way to debug datasets in coffee
+	- [ ] count lumi sections processed
+	- [ ] count events processed before lumi sections
+	- [ ] check duplicate events
+- [ ] Debug why the limits changed
+	- [ ] Run limits weekly 
+	- [ ] sparse reAna job to just get to limits (no mixed data ect. systematics)
+	- [ ] check given commit. 

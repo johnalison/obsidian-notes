@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Input/Meetings/CMU HGC Mac Meeting 1 October 2024.md",
+                "file": "Journal/9 October 2024 Wednesday.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/Low mass di-electrons.md",
+                "file": "Journal/9 October 2024 Wednesday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/Low mass di-electrons.md",
+                "file": "Journal/9 October 2024 Wednesday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/Low mass di-electrons.md"
+                "file": "Journal/9 October 2024 Wednesday.md"
               }
             }
           }
@@ -174,12 +174,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "78ffab87e1177eef",
+  "active": "dfd5cb8a17686ae5",
   "lastOpenFiles": [
-    "Journal/9 October 2024 Wednesday.md",
-    "0-inbox/Low mass di-electrons.md",
-    "Journal/8 October 2024 Tuesday.md",
     "Input/Meetings/CMU HGC Mac Meeting 1 October 2024.md",
+    "0-inbox/Low mass di-electrons.md",
+    "Journal/2023/December 2023.md",
+    "Journal/9 October 2024 Wednesday.md",
+    "Journal/8 October 2024 Tuesday.md",
     "Journal/7 October 2024 Monday.md",
     "Journal/6 October 2024 Sunday.md",
     "Journal/5 October 2024 Saturday.md",
@@ -189,7 +190,6 @@
     "0-inbox/Run-3 4b skims.md",
     "Journal/2 October 2024 Wednesday.md",
     "Journal/1 October 2024 Tuesday.md",
-    "Journal/2023/December 2023.md",
     "0-inbox/HGCManagementMeeting 8 October 2024.md",
     "0-inbox/BPix hole.md",
     "0-inbox/#Run-3 4b skims.md#",
