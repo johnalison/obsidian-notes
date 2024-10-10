@@ -5,7 +5,8 @@ Need
 $10k Hand money. 
 - Sold from VMVAX
 
-
+Cash to close:
+- 334,867 - 10k
 ## Follow-ups
 
 

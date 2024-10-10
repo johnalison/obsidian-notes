@@ -1,23 +1,23 @@
 # Timeblock
 
-|     | setup            |     |
-| --- | ---------------- | --- |
-| 9   | HH4b             |     |
-|     | HH4b             |     |
-| 10  | 4b skims         |     |
-|     | 4b skims         |     |
-| 11  |                  |     |
-|     |                  |     |
-| 12  | bbWW             |     |
-|     | Physics faculty  |     |
-| 1   | Physics faculty  |     |
-|     | teachers program |     |
-| 2   |                  |     |
-|     |                  |     |
-| 3   |                  |     |
-|     |                  |     |
-| 4   | HGC              |     |
-|     |                  |     |
+|     | setup            |             |
+| --- | ---------------- | ----------- |
+| 9   | HH4b             |             |
+|     | ~~HH4b~~         | Chat Sudhir |
+| 10  | 4b skims         |             |
+|     | 4b skims         |             |
+| 11  | 4b skims         |             |
+|     | 4b skims         |             |
+| 12  | bbWW             |             |
+|     | Physics faculty  |             |
+| 1   | Physics faculty  |             |
+|     | teachers program |             |
+| 2   | GYM              |             |
+|     | GYM              |             |
+| 3   | GYM              |             |
+|     |                  |             |
+| 4   | HGC Chat         |             |
+|     |                  |             |
 
 **W:**
 **DW:**
@@ -51,4 +51,17 @@ Nice chat with Valeries dad Brian ... should setup play date (got his number)
 # [[Run-3 4b skims]]
 - [ ] Add event selection
 - [ ] Test
-- [ ] Submitt
+- [ ] Submit
+- Error from AK8 jet calibration.. Pinged AE
+- Waiting on updated pt calibration and nTag jet selection
+
+# HH4b Chat
+
+
+# Chat with Sudhir
+
+
+Signed the mortgage forms
+[[5391 Financing]]
+
+# mH constraints
