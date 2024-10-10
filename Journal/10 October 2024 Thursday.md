@@ -38,6 +38,7 @@
 - [ ] Aniket CERN office
 - [x] Pay ticket
 - [ ] Ping Eva re:saw
+- [ ] CV for rachel
 
 
 # Log
@@ -80,4 +81,11 @@ My concern is the cost of transfer tape for all of production which is about 500
 
 # Faculty Meeting
 - Not much
+
+# Chat with Katie Shubayu re Teacher Program
+- [ ] Send info re: [[High-School Physics Teachers Program]]
+
+# Gym / Steamroom
+- core / bench / sumo deadlift / row
+- 10' at Tmax = 124
 
