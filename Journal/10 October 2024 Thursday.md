@@ -50,11 +50,12 @@ H to school then drop off M&T.
 Nice chat with Valeries dad Brian ... should setup play date (got his number)
 
 # [[Run-3 4b skims]]
-- [ ] Add event selection
-- [ ] Test
+- [x] Add event selection
+- [x] Test
 - [ ] Submit
-- Error from AK8 jet calibration.. Pinged AE
-- Waiting on updated pt calibration and nTag jet selection
+- Error from AK8 jet calibration.. Pinged AE.. fixed 
+- Waiting on updated pt calibration and nTag jet selection... have it.
+- submitting on 331
 
 # HH4b Chat
 
@@ -89,3 +90,7 @@ My concern is the cost of transfer tape for all of production which is about 500
 - core / bench / sumo deadlift / row
 - 10' at Tmax = 124
 
+More [[Run-3 4b skims]] .. See above
+
+# Chat Lipika
+- Not sure what happened !

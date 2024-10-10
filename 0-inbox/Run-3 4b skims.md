@@ -12,8 +12,8 @@
 	- [xx] ~~check duplicate events
 		- Spot check SRs
 	- [[Coffea post re lumi counting]]
-- [ ] Add preselection
-- [ ] Update Jet pt corrections
+- [x] Add preselection
+- [x] Update Jet pt corrections
 
 
 

@@ -13,18 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/10 October 2024 Thursday.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a81a978541ec04b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "0-inbox/Run-3 4b skims.md",
                 "mode": "source",
                 "source": false
@@ -37,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/9 October 2024 Wednesday.md",
+                "file": "Journal/10 October 2024 Thursday.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +91,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -233,17 +222,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0b1b9625ad0c6637",
+  "active": "dfd5cb8a17686ae5",
   "lastOpenFiles": [
-    "0-inbox/High-School Physics Teachers Program.md",
-    "Journal/10 October 2024 Thursday.md",
-    "0-inbox/5391 Financing.md",
     "0-inbox/Run-3 4b skims.md",
+    "Journal/10 October 2024 Thursday.md",
+    "Journal/9 October 2024 Wednesday.md",
+    "0-inbox/High-School Physics Teachers Program.md",
+    "0-inbox/5391 Financing.md",
     "0-inbox/Nexus.md",
     "0-inbox/Neutrino Weighting.md",
     "Output/Coffea post re lumi counting.md",
     "2-areas/CMS/BPix hole.md",
-    "Journal/9 October 2024 Wednesday.md",
     "0-inbox/StatsChat-9-October-2024.md",
     "0-inbox/Waiting for.md",
     "Journal/2023/December 2023.md",
