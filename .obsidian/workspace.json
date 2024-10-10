@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/9 October 2024 Wednesday.md",
+                "file": "0-inbox/ARC HIG-24-017 Boosted VqqHbb.md",
                 "mode": "source",
                 "source": false
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/9 October 2024 Wednesday.md",
+                "file": "0-inbox/ARC HIG-24-017 Boosted VqqHbb.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/9 October 2024 Wednesday.md",
+                "file": "0-inbox/ARC HIG-24-017 Boosted VqqHbb.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/9 October 2024 Wednesday.md"
+                "file": "0-inbox/ARC HIG-24-017 Boosted VqqHbb.md"
               }
             }
           }
@@ -188,8 +188,9 @@
   },
   "active": "dfd5cb8a17686ae5",
   "lastOpenFiles": [
-    "Journal/2023/December 2023.md",
+    "0-inbox/5391 Financing.md",
     "Journal/9 October 2024 Wednesday.md",
+    "Journal/2023/December 2023.md",
     "0-inbox/Coffea post re lumi counting.md",
     "0-inbox/Low mass di-electrons.md",
     "Input/Meetings/CMU HGC Mac Meeting 1 October 2024.md",
@@ -214,7 +215,6 @@
     "Input/Meetings/StatsChat-2-October-2024.md",
     "0-inbox/Things-To-Add-To-Notes.md",
     "Input/Meetings/STAMPS Larry 4 October 2024.md",
-    "0-inbox/Numba.md",
     "Journal/2023/#November 2023.md#",
     "Journal/#Fall 2024.md#",
     "2-areas/Physics/#Ratio Errors.md#",

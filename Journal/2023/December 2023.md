@@ -19,17 +19,17 @@
 | 17 S | Read / **Gym /SR** / wM&T / end Hex stakes                                      |       |
 | 18 M | (LAB inspection) Start CWR comments / legend / **Hoops / SR** / Fix cutflows    | 6/3/3 |
 | 19 T | (CMU Party) More CWR / **Gym/SR** / 2D Hists/ **CMU Faculty Party**             | 5/4/4 |
-| 20 W | CMW Comments                                                                    |       |
-| 21 H |                                                                                 |       |
-| 22 F |                                                                                 |       |
-| 23 S |                                                                                 |       |
-| 24 S |                                                                                 |       |
-| 25 M |                                                                                 |       |
-| 26 T |                                                                                 |       |
-| 27 W |                                                                                 |       |
-| 28 H |                                                                                 |       |
-| 29 F |                                                                                 |       |
-| 30 S |                                                                                 |       |
-| 31 S |                                                                                 |       |
+| 20 W | CMW Comments / ele/mu hists **Gym/SR** / book Lake Louis / MPL                  | 6/3/3 |
+| 21 H | CWR Comments / **Gym/SR** / MPL / **Drinks Fengwie** / WT Hoops                 | 4/2/2 |
+| 22 F | (Party) CWR Comments / Make $132k/y / MPL / DOE Report / **Party**              | 5/3/2 |
+| 23 S | Reading / x-mas shopping / Presents at parents                                  |       |
+| 24 S | REading / To Jon & Jamies / Lots of Burbon                                      |       |
+| 25 M | (x-mas) Presents w/kids / Reading / Read [[Gratitude]] / Start [[TheStranger]]  |       |
+| 26 T | (NO) Reading / Connor & Tony over / Finished [[TheStranger]]                    |       |
+| 27 W | (CY) Reading / Giant Eagle / Pencos Over                                        |       |
+| 28 H | (ER) Reading Library w/T (Got tons of book I want!) / Fix Car Tire / Taj Mahal  |       |
+| 29 F | (T) T on matress ! / Reading / H&M to library / **Lynns Party**                 |       |
+| 30 S | Reading / Mom+ over /Fixed outlets / Chicken Soup / Finished [[JohnStuartMill]] |       |
+| 31 S | Reading / **Conor & Tony** / Setup 2024 Notebook / More Reading                 |       |
 
 

@@ -1,28 +1,28 @@
 # Timeblock
 
-|     | setup         |     |
-| --- | ------------- | --- |
-| 9   | mails         |     |
-|     | mails         |     |
-| 10  | Stats Chat    |     |
-|     | Stats Chat    |     |
-| 11  | 4b skims      |     |
-|     | 4b skims      |     |
-| 12  | Hoops         |     |
-|     | Hoops         |     |
-| 1   | Hoops         |     |
-|     | Hoops         |     |
-| 2   | mH constraint |     |
-|     | mH constraint |     |
-| 3   | mH constraint |     |
-|     |               |     |
-| 4   | T3 discussion |     |
-|     | T3 discussion |     |
+|     | setup             |               |
+| --- | ----------------- | ------------- |
+| 9   | mails             |               |
+|     | mails             |               |
+| 10  | Stats Chat        |               |
+|     | Stats Chat        |               |
+| 11  | 4b skims          |               |
+|     | 4b skims          |               |
+| 12  | Hoops             |               |
+|     | Hoops             |               |
+| 1   | Hoops             |               |
+|     | Hoops             |               |
+| 2   | ~~mH constraint~~ | 4b skims      |
+|     | ~~mH constraint~~ | 4b skims      |
+| 3   | ~~mH constraint~~ | 4b skims      |
+|     |                   | 4b skims      |
+| 4   | T3 discussion     | T3 discussion |
+|     | T3 discussion     | T3 discussion |
 
-**W:**
-**DW:**
-**OT:**
-**ex** or **No ex**
+**W:** 7
+**DW:** 2
+**OT:**. 6 
+**ex** 
 
 # The ONE thing: 
 - [ ] 4b Run3 skims
@@ -35,7 +35,7 @@
 - [ ] Read HGC TDR
 - [ ] Remake plotting to be more flexible re:hist structure ? 
 - [ ]  CAP/LTS online questionnaire and tasks
-- [ ] Get Hand money
+- [x] Get Hand money
 - [ ] Aniket CERN office
 
 
@@ -53,6 +53,7 @@ H & M & T to school
 # Chat AE
 - [ ] Need way to debug datasets in coffee
 	- [x] count lumi sections processed
+		- [ ] script to check against JSON
 	- [xx] ~~count events processed before lumi sections
 		- Already doing
 	- [xx] ~~check duplicate events
@@ -72,7 +73,7 @@ H & M & T to school
 
 Sent coffea question. 
 
-did mail.
+Did mail.
 
 # Hoops 
 - Good runs 4s
@@ -84,9 +85,19 @@ did mail.
 
 # 4b code base
 - added processed lumi section
-- updated skip colections and branches
+- updating skip colections and (removing HLT branches)
 
 # T3 Meeting
 accounts .mcs.cmu.edu/ andrew
 	**> ping falcon.phys.cmu.edu**
 https://account.mcs.cmu.edu/andrew/
+
+Got kids... Home by 6.. Pizza from schullis
+
+Got a parking ticket
+- [ ] Pay ticket
+
+[[5391 Financing]]
+
+
+
