@@ -37,7 +37,7 @@
 - [ ]  CAP/LTS online questionnaire and tasks
 - [ ] Aniket CERN office
 - [x] Pay ticket
-- [ ] 
+- [ ] Ping Eva re:saw
 
 
 # Log
@@ -66,5 +66,17 @@ Signed the mortgage forms
 
 # mH constraints
 
+
 # HGC
 My concern is the cost of transfer tape for all of production which is about 5000 modules of $15 or so which gives $75K
+
+
+# bbWW Meeting
+- not much 
+
+# Aniket office
+- OpenStack (virtual machine at CERN) to run B-jet DQM GUI
+- Access open stack requires (?)  onsite access 
+
+# Faculty Meeting
+- 
