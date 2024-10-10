@@ -37,7 +37,7 @@
 - [ ]  CAP/LTS online questionnaire and tasks
 - [ ] Aniket CERN office
 - [x] Pay ticket
-- [ ] Ping Eva re:saw
+- [x] Ping Eva re:saw
 - [ ] CV for rachel
 
 
