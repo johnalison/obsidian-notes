@@ -65,3 +65,6 @@ Signed the mortgage forms
 [[5391 Financing]]
 
 # mH constraints
+
+# HGC
+My concern is the cost of transfer tape for all of production which is about 5000 modules of $15 or so which gives $75K
