@@ -1,7 +1,24 @@
+# Info
 [[BPix hole]]
 
 
-# Missing chunks...
+
+# Todo
+- [ ] Need way to debug datasets in coffee
+	- [x] count lumi sections processed
+		- [ ] script to check against JSON
+	- [xx] ~~count events processed before lumi sections
+		- Already doing
+	- [xx] ~~check duplicate events
+		- Spot check SRs
+	- [[Coffea post re lumi counting]]
+
+
+
+# v1 Tuesday Oct 8th
+- Problems... too many collections/ triggers /events and no LumiBlock checking
+- Will delete
+## Missing chunks...
 
 ## BPix
 
@@ -39,6 +56,12 @@ ERROR    ERROR:root:The whole file is missing:
 "root://cmsxrootd.hep.wisc.edu:1094//store/data/Run2023C/JetMET0/NANOAOD/22Sep2023_v2-v1/2540000/5e1f2fc8-191b-40c7-a3d2-cac7065482de.root"             picoaod.py:237
 "root://cmsxrootd.hep.wisc.edu:1094//store/data/Run2023C/JetMET0/NANOAOD/22Sep2023_v2-v1/2540000/dfb63f3c-3cea-42bf-84a8-5185cd687ada.root"             picoaod.py:237
 ```
+
+
+
+
+
+
 
 # Mail from AE
 

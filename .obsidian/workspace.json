@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/2023/December 2023.md",
+                "file": "Journal/10 October 2024 Thursday.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a81a978541ec04b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-inbox/Run-3 4b skims.md",
                 "mode": "source",
                 "source": false
               }
@@ -23,19 +35,47 @@
             "id": "dfd5cb8a17686ae5",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "0-inbox/AnalysesOverview.excalidraw.md"
+                "file": "Journal/9 October 2024 Wednesday.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
           {
-            "id": "dd9b24b860a88872",
+            "id": "cfae9dcf10b0930a",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "0-inbox/1DUnfoldingCartoon.excalidraw.md"
+                "file": "0-inbox/StatsChat-9-October-2024.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "707d9e3a4fbfffda",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-inbox/Waiting for.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d31371c293873b5f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00-Zettelkasten/Detector Unfolding Problem.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -131,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/AnalysesOverview.excalidraw.md",
+                "file": "0-inbox/Run-3 4b skims.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/AnalysesOverview.excalidraw.md",
+                "file": "0-inbox/Run-3 4b skims.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +211,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/AnalysesOverview.excalidraw.md"
+                "file": "0-inbox/Run-3 4b skims.md"
               }
             }
           }
@@ -194,35 +234,35 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "dfd5cb8a17686ae5",
+  "active": "a81a978541ec04b3",
   "lastOpenFiles": [
-    "0-inbox/5391 Financing.md",
-    "0-inbox/1DUnfoldingCartoon.excalidraw.md",
-    "00-Zettelkasten/Detector Unfolding Problem.md",
+    "Journal/10 October 2024 Thursday.md",
+    "0-inbox/Run-3 4b skims.md",
     "Journal/9 October 2024 Wednesday.md",
     "0-inbox/StatsChat-9-October-2024.md",
-    "0-inbox/Low mass di-electrons.md",
-    "0-inbox/ARC HIG-24-017 Boosted VqqHbb.md",
+    "0-inbox/Waiting for.md",
     "Journal/2023/December 2023.md",
-    "0-inbox/Coffea post re lumi counting.md",
-    "Input/Meetings/CMU HGC Mac Meeting 1 October 2024.md",
+    "00-Zettelkasten/Detector Unfolding Problem.md",
+    "attachments/1DUnfoldingCartoon.excalidraw.md",
     "Journal/8 October 2024 Tuesday.md",
     "Journal/7 October 2024 Monday.md",
     "Journal/6 October 2024 Sunday.md",
     "Journal/5 October 2024 Saturday.md",
     "Journal/4 October 2024 Friday.md",
     "Journal/3 October 2024 Thursday.md",
+    "Input/Meetings/CMU HGC Mac Meeting 8 October 2024.md",
+    "0-inbox/BPix hole.md",
+    "0-inbox/ARC HIG-24-017 Boosted VqqHbb.md",
+    "0-inbox/AnalysesOverview.excalidraw.md",
+    "0-inbox/5391 Financing.md",
+    "0-inbox/Low mass di-electrons.md",
+    "0-inbox/Coffea post re lumi counting.md",
+    "Input/Meetings/CMU HGC Mac Meeting 1 October 2024.md",
     "Journal/October 2024.md",
-    "0-inbox/Run-3 4b skims.md",
     "Journal/2 October 2024 Wednesday.md",
     "Journal/1 October 2024 Tuesday.md",
     "0-inbox/HGCManagementMeeting 8 October 2024.md",
-    "0-inbox/BPix hole.md",
     "0-inbox/#Run-3 4b skims.md#",
-    "0-inbox/CMU HGC Mac Meeting 8 October 2024.md",
-    "2-areas/Physics/Ratio Errors.md",
-    "0-inbox/HGC TDR.md",
-    "0-inbox/AnalysesOverview.excalidraw.md",
     "Journal/2023/#November 2023.md#",
     "Journal/#Fall 2024.md#",
     "2-areas/Physics/#Ratio Errors.md#",

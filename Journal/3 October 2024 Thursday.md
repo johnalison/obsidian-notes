@@ -48,7 +48,6 @@ M & T to school
 Reviewing September
 - [x] Expand calculation in [[Ratio Errors]]
 
-
 # [[Jet DeClustering]]
 - Running on the 2 mixed samples
 - v1 looks much better than v0... rerunning v0.

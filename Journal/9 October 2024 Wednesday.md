@@ -29,14 +29,14 @@
 
 
 # To Do
-- [ ] new skims
-- [ ] Watch Pre-Approval VqqHbb
-- [ ] CAM Training
-- [ ] Read HGC TDR
-- [ ] Remake plotting to be more flexible re:hist structure ? 
-- [ ]  CAP/LTS online questionnaire and tasks
+- [>>] [[Run-3 4b skims]]
+- [>>] Watch Pre-Approval VqqHbb
+- [>>] CAM Training
+- [>>] Read HGC TDR
+- [>>] Remake plotting to be more flexible re:hist structure ? 
+- [>>]  CAP/LTS online questionnaire and tasks
 - [x] Get Hand money
-- [ ] Aniket CERN office
+- [>>] Aniket CERN office
 
 
 
@@ -51,29 +51,16 @@ H & M & T to school
 [[Low mass di-electrons]]
 
 # Chat AE
-- [ ] Need way to debug datasets in coffee
-	- [x] count lumi sections processed
-		- [ ] script to check against JSON
-	- [xx] ~~count events processed before lumi sections
-		- Already doing
-	- [xx] ~~check duplicate events
-		- Spot check SRs
-	- [[Coffea post re lumi counting]]
-- [ ] Debug why the limits changed
+- Discussion re:validating the skims see [[Run-3 4b skims]]
+- [AE] Debug why the limits changed
 	- [x] Run limits weekly 
 	- [XX] ~~sparse reAna job to just get to limits (no mixed data ect. systematics)
 	- [AE] script to check given commit. 
 
 
 [[StatsChat-9-October-2024]]
-	- [[Detector Unfolding Problem]]
-
-
-# Stats chat
-- Long discussion re:training schedules (not so useful
-- Discussion of unfolding:  
-	- Claim (MK) only need a foward model trained on simulation/ this would then be insensitvie to simulation mismodelling
-	- [ ] think about this with 1d cartoon
+- Wrote up [[Detector Unfolding Problem]]
+	- Pinged MK to check
 
 Sent coffea question. 
 
@@ -92,14 +79,15 @@ Did mail.
 - updating skip colections and (removing HLT branches)
 
 # T3 Meeting
-accounts .mcs.cmu.edu/ andrew
-	**> ping falcon.phys.cmu.edu**
-https://account.mcs.cmu.edu/andrew/
+- Falcon exists
+	```ping falcon.phys.cmu.edu```
+- Get an account here: https://account.mcs.cmu.edu/andrew/ (apparently its broken)
+- Waiting on Nuno for mail
 
 Got kids... Home by 6.. Pizza from schullis
 
 Got a parking ticket
-- [ ] Pay ticket
+- [>>] Pay ticket
 
 [[5391 Financing]]
 

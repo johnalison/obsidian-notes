@@ -24,8 +24,7 @@
 **OT:** - 
 **ex** or **No ex**
 
-# The ONE thing: 
-- [ ] 
+# ~~The ONE thing: ~~
 
 
 # To Do
@@ -49,8 +48,9 @@ with M&T
 
 Signed into the new portal... Can't get visitor pass working.
 
-[[Chat w Wes 8 October 2024]]
+work from home
 
+[[Chat w Wes 8 October 2024]]
 
 # [[Run-3 4b skims]]
 - tmux on **cmslpc316**
