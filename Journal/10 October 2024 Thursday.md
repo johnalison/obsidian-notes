@@ -79,4 +79,5 @@ My concern is the cost of transfer tape for all of production which is about 500
 - Access open stack requires (?)  onsite access 
 
 # Faculty Meeting
-- 
+- Not much
+
