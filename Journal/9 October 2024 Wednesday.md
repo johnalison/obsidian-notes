@@ -65,6 +65,10 @@ H & M & T to school
 	- [AE] script to check given commit. 
 
 
+[[StatsChat-9-October-2024]]
+	- [[Detector Unfolding Problem]]
+
+
 # Stats chat
 - Long discussion re:training schedules (not so useful
 - Discussion of unfolding:  
