@@ -55,7 +55,8 @@ Nice chat with Valeries dad Brian ... should setup play date (got his number)
 - [ ] Submit
 - Error from AK8 jet calibration.. Pinged AE.. fixed 
 - Waiting on updated pt calibration and nTag jet selection... have it.
-- submitting on 331
+- submitting BPix on 331
+- submitting preBPix on 
 
 # HH4b Chat
 
@@ -102,3 +103,9 @@ Chat Rienhard re:door and saw... found the saw.
 # The economic way of thinking in a pandemic
 - https://www.youtube.com/watch?v=ONOApK1UxoM&t=935s
 - https://www.tandfonline.com/doi/full/10.1080/00220485.2024.2403448#d1e150
+
+Got Kids... home... ready to be done!
+
+kids to bed..
+
+More [[Run-3 4b skims]]
