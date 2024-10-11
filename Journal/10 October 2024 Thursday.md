@@ -15,14 +15,14 @@
 | 2   | GYM              |             |
 |     | GYM              |             |
 | 3   | GYM              |             |
-|     |                  |             |
+|     | 4b skims         |             |
 | 4   | HGC Chat         |             |
-|     |                  |             |
+|     | 4b skims         |             |
 
-**W:**
-**DW:**
-**OT:**
-**ex** or **No ex**
+**W:**. 7 
+**DW:** 3 
+**OT:** 3
+**ex** 
 
 # The ONE thing: 
 - [ ]  4b skims
@@ -90,7 +90,15 @@ My concern is the cost of transfer tape for all of production which is about 500
 - core / bench / sumo deadlift / row
 - 10' at Tmax = 124
 
+
 More [[Run-3 4b skims]] .. See above
+
+
+Chat Rienhard re:door and saw... found the saw. 
 
 # Chat Lipika
 - Not sure what happened !
+
+# The economic way of thinking in a pandemic
+- https://www.youtube.com/watch?v=ONOApK1UxoM&t=935s
+- https://www.tandfonline.com/doi/full/10.1080/00220485.2024.2403448#d1e150
