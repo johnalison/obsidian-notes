@@ -74,3 +74,9 @@ Paid hand money from cap one
 
 "To preview a page while in Editing view, **press Ctrl (or Cmd on macOS) while hovering the cursor over the link**" saved in [[Obsidian Tricks]]
 
+# CMU CMS
+- Debugging
+
+Added script to do Lumi checking. 
+
+
