@@ -61,4 +61,10 @@ Paid hand money from cap one
 
 [[ProgressReport 11 October 2024]]
 
+# Chat AE
+- Classifier tests
+	- Does JCM matter? / Does ttbar matter ? / Gain from ZZ / Gain from low SvB SR events
+	- Run3: Test 4v2 vs 4v3 with synthetic data compare to 3v2 (systematics)
+- ZZ sensitivity gain at low pt ?
+- Whats the signal gain from the trigger turn on?
 
