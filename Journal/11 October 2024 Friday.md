@@ -85,4 +85,9 @@ Paid hand money from cap one
 	- First version working... 
 	- Need to fix **py python/skimmer/metadata/get_das_info.py -d python/skimmer/metadata/picoaod_datasets_data_2023_BPix.yml**
 
-can run 
+
+# Social
+
+Got kids.  Walked home.
+
+
