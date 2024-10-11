@@ -5,8 +5,10 @@ AE:
 
 
 SM
-- [ ] Write up of double peak
+- [ ] Write up of double peak investigation
 
+CL
+- [ ] Classifier code
 
 ## Follow-ups
 

@@ -31,8 +31,8 @@
 # To Do
 - [ ] Update website
 - [x] Get falcon account 
-- [ ]  [[Run-3 4b skims]]
-- [ ]  Watch Pre-Approval VqqHbb
+- [ ] [[Run-3 4b skims]]
+- [ ] Watch Pre-Approval VqqHbb
 - [ ] CAM Training
 - [ ] Read HGC TDR
 - [<<] Remake plotting to be more flexible re:hist structure ? 
@@ -62,9 +62,12 @@ Paid hand money from cap one
 [[ProgressReport 11 October 2024]]
 
 # Chat AE
-- Classifier tests
+- Run2 mixed Classifier tests
 	- Does JCM matter? / Does ttbar matter ? / Gain from ZZ / Gain from low SvB SR events
-	- Run3: Test 4v2 vs 4v3 with synthetic data compare to 3v2 (systematics)
-- ZZ sensitivity gain at low pt ?
-- Whats the signal gain from the trigger turn on?
+- Run3: Test 4v2 vs 4v3 with synthetic data compare to 3v2 (systematics)
+- [AE] ZZ sensitivity gain at low pt ?
+- [x] Whats the signal gain from the trigger turn on?
+	- Checked, not much
+
+# [[Freedom and the Press before Freedom of the Press]]
 

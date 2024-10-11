@@ -1,5 +1,4 @@
 
-#Consume 
 
 Here is the tool I use [Squares](https://gitlab.cern.ch/cms-cmu/coffea4bees/-/blob/master/python/base_class/math/random.py?ref_type=heads#L153-210), and here are some examples to [setup seed](https://gitlab.cern.ch/cms-cmu/coffea4bees/-/blob/master/python/base_class/jetmet_tools/CorrectedJetsFactory.py?ref_type=heads#L143) and [create counters](https://gitlab.cern.ch/cms-cmu/coffea4bees/-/blob/master/python/base_class/jetmet_tools/CorrectedJetsFactory.py?ref_type=heads#L13-18).
 
