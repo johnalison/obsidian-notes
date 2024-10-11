@@ -77,6 +77,10 @@ Paid hand money from cap one
 # CMU CMS
 - Debugging
 
-Added script to do Lumi checking. 
+# Added script to do Lumi checking. 
+- Found missing LBs... turns out these are missing from the Nano!
+- Checked with [[dasgoclient]]
+- Can simplify the checking by just checking that the skims saw all the input events which we can get from das summary
+- [ ] Make script to get the DAS info form the datasets file
 
-
+can run 
