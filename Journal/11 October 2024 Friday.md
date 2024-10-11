@@ -6,12 +6,12 @@
 |     | Chat Chris and Jake |     |
 | 10  | Progress Reporting  |     |
 |     | Progress Reporting  |     |
-| 11  |                     |     |
-|     |                     |     |
-| 12  |                     |     |
+| 11  | [[Run-3 4b skims]]  |     |
+|     | [[Run-3 4b skims]]  |     |
+| 12  | [[Run-3 4b skims]]  |     |
 |     | Warren Talk         |     |
 | 1   | Warren Talk         |     |
-|     |                     |     |
+|     | [[Run-3 4b skims]]  |     |
 | 2   | CMU HH4b            |     |
 |     | CMU HH4b            |     |
 | 3   | CMU CMS             |     |
@@ -32,13 +32,14 @@
 - [ ] Update website
 - [x] Get falcon account 
 - [ ]  [[Run-3 4b skims]]
-- [ ]   Watch Pre-Approval VqqHbb
+- [ ]  Watch Pre-Approval VqqHbb
 - [ ] CAM Training
 - [ ] Read HGC TDR
-- [ ] Remake plotting to be more flexible re:hist structure ? 
+- [<<] Remake plotting to be more flexible re:hist structure ? 
 - [ ]  CAP/LTS online questionnaire and tasks
-- [ ] Aniket CERN office
+- [x] Aniket CERN office
 - [ ] CV for rachel
+- [ ] Collect and Send Teachers program info
 
 
 # Log
@@ -54,4 +55,10 @@ Start setting up dat...
 
 # [[Systematics Chat with Palmer 11 Oct 2024]]
 
-and Jake
+Mail for Aniket OpenCloud
+
+Paid hand money from cap one
+
+[[ProgressReport 11 October 2024]]
+
+

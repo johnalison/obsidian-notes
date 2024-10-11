@@ -2,7 +2,7 @@
 All is good.  Not drinking has been a lot less consequential that I thought: its easier and there haven't been that big of productivity gains. However, my sleep and fat composition seem much better; will keep at. Reading, exercise, and diet have been good. Meditation and Zettlekasten still needs work. Thinking of setting up a kubernettes cluster for database monitoring ect.
 
 # 4b
-There has been lots of progress on the code base: pseudo-data and trigger weights have been debugged. Ive added four-tag data skims and outputing all the datasets to eos. Ive cleaned up flags to config different options, unit tests have been key here.. The synthetic data processing is more or less integrated into production running. I'm starting a more detailed look at performance of synthetic data. I will do PDFs by year and some other tests before moving on to Run-3.
+There has been lots of progress on the code base: pseudo-data and trigger weights have been debugged. Ive added four-tag data skims and outputing all the datasets to eos. Ive cleaned up flags to config different options, unit tests have been key here. The synthetic data processing is more or less integrated into production running. I'm starting a more detailed look at performance of synthetic data. I will do PDFs by year and some other tests before moving on to Run-3.
 
 AE is starting on the low pt analysis.  We understand to do the three tag veto, everything else should be straight forward.
 

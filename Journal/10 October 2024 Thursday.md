@@ -72,7 +72,7 @@ Signed the mortgage forms
 - All solutions imaginary! 
 
 # HGC
-"My concern is the cost of transfer tape for all of production which is about 5000 modules of $15 or so which gives $75K" Lower with 
+"My concern is the cost of transfer tape for all of production which is about 5000 modules of $15 or so which gives $75K" Lower with 9k pieces 8.75/item = $78k
 
 
 # bbWW Meeting
@@ -86,7 +86,7 @@ Signed the mortgage forms
 - Not much
 
 # Chat with Katie Shubayu re Teacher Program
-- [ ] Send info re: [[High-School Physics Teachers Program]]
+- [>>] Send info re: [[High-School Physics Teachers Program]]
 
 # Gym / Steamroom
 - core / bench / sumo deadlift / row
@@ -101,9 +101,8 @@ Chat Rienhard re:door and saw... found the saw.
 # Chat Lipika
 - Not sure what happened !
 
-# The economic way of thinking in a pandemic
-- https://www.youtube.com/watch?v=ONOApK1UxoM&t=935s
-- https://www.tandfonline.com/doi/full/10.1080/00220485.2024.2403448#d1e150
+# [[The economic way of thinking in a pandemic]]
+ 
 
 Got Kids... home... ready to be done!
 
