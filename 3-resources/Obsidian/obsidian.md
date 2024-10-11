@@ -13,6 +13,7 @@
 
 
 
+
 ## Links: 
 [[obsidian]]
 Ideas about plugins: https://www.youtube.com/watch?v=NsRNv4xY1qo

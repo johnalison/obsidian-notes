@@ -66,7 +66,7 @@ Dropped of H... then M & T.
 - Looks like "gen Ws" have the wrong mass.. they do Aniket fixed
 - Now new version.
 
-# Chat with Berman 
+Chat with Berman 
 
 Picked up M&T then drove to get H.
 

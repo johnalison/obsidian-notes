@@ -29,16 +29,16 @@
 
 
 # To Do
-- [ ] [[Run-3 4b skims]]
-- [ ]  Watch Pre-Approval VqqHbb
-- [ ] CAM Training
-- [ ] Read HGC TDR
-- [ ] Remake plotting to be more flexible re:hist structure ? 
-- [ ]  CAP/LTS online questionnaire and tasks
-- [ ] Aniket CERN office
+- [>>]  [[Run-3 4b skims]]
+- [>>]  Watch Pre-Approval VqqHbb
+- [>>] CAM Training
+- [>>] Read HGC TDR
+- [<<] Remake plotting to be more flexible re:hist structure ? 
+- [>>]  CAP/LTS online questionnaire and tasks
+- [>>] Aniket CERN office
 - [x] Pay ticket
 - [x] Ping Eva re:saw
-- [ ] CV for rachel
+- [>>] CV for rachel
 
 
 # Log
@@ -52,26 +52,27 @@ Nice chat with Valeries dad Brian ... should setup play date (got his number)
 # [[Run-3 4b skims]]
 - [x] Add event selection
 - [x] Test
-- [ ] Submit
+- [x] Submit
 - Error from AK8 jet calibration.. Pinged AE.. fixed 
 - Waiting on updated pt calibration and nTag jet selection... have it.
 - submitting BPix on 331
 - submitting preBPix on 
 
-# HH4b Chat
-
+# HH4b Chat Jaco
+- not much, discussion of new jet calbiration
 
 # Chat with Sudhir
-
+- at CMU for NSF AI event
 
 Signed the mortgage forms
 [[5391 Financing]]
 
 # mH constraints
-
+- implementing algebra with Anikets test vectors
+- All solutions imaginary! 
 
 # HGC
-My concern is the cost of transfer tape for all of production which is about 5000 modules of $15 or so which gives $75K
+"My concern is the cost of transfer tape for all of production which is about 5000 modules of $15 or so which gives $75K" Lower with 
 
 
 # bbWW Meeting

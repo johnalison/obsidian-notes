@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/10 October 2024 Thursday.md",
+                "file": "0-inbox/Systematics Chat with Palmer 11 Oct 2024.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/StatsChat-9-October-2024.md",
-                "mode": "source",
+                "file": "Journal/9 October 2024 Wednesday.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -93,6 +93,24 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "040486b41c03d6b0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "89079f8552bbf494",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Journal/10 October 2024 Thursday.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,7 +129,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "schedule",
+                "query": "file:obsidian",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -159,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/10 October 2024 Thursday.md",
+                "file": "0-inbox/Systematics Chat with Palmer 11 Oct 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/10 October 2024 Thursday.md",
+                "file": "0-inbox/Systematics Chat with Palmer 11 Oct 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +217,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/10 October 2024 Thursday.md"
+                "file": "0-inbox/Systematics Chat with Palmer 11 Oct 2024.md"
               }
             }
           }
@@ -224,32 +242,32 @@
   },
   "active": "dfd5cb8a17686ae5",
   "lastOpenFiles": [
-    "0-inbox/Run-3 4b skims.md",
+    "Journal/11 October 2024 Friday.md",
     "Journal/10 October 2024 Thursday.md",
+    "0-inbox/Run-3 4b skims.md",
     "Journal/9 October 2024 Wednesday.md",
-    "0-inbox/High-School Physics Teachers Program.md",
-    "0-inbox/5391 Financing.md",
-    "0-inbox/Nexus.md",
-    "0-inbox/Neutrino Weighting.md",
-    "Output/Coffea post re lumi counting.md",
-    "2-areas/CMS/BPix hole.md",
-    "0-inbox/StatsChat-9-October-2024.md",
-    "0-inbox/Waiting for.md",
-    "Journal/2023/December 2023.md",
-    "00-Zettelkasten/Detector Unfolding Problem.md",
-    "attachments/1DUnfoldingCartoon.excalidraw.md",
+    "0-inbox/4b code base.md",
     "Journal/8 October 2024 Tuesday.md",
+    "0-inbox/Systematics Chat with Palmer 11 Oct 2024.md",
+    "0-inbox/5391 Financing.md",
+    "Journal/August/14 August 2024 Wednesday.md",
+    "3-resources/Obsidian/obsidian.md",
+    "3-resources/Obsidian/Obsidian-Intro.md",
+    "3-resources/Obsidian/Images in Obsidian.md",
     "Journal/7 October 2024 Monday.md",
     "Journal/6 October 2024 Sunday.md",
     "Journal/5 October 2024 Saturday.md",
     "Journal/4 October 2024 Friday.md",
-    "Journal/3 October 2024 Thursday.md",
-    "Input/Meetings/CMU HGC Mac Meeting 8 October 2024.md",
-    "0-inbox/ARC HIG-24-017 Boosted VqqHbb.md",
-    "0-inbox/AnalysesOverview.excalidraw.md",
-    "0-inbox/Low mass di-electrons.md",
-    "Input/Meetings/CMU HGC Mac Meeting 1 October 2024.md",
-    "Journal/October 2024.md",
+    "0-inbox/StatsChat-9-October-2024.md",
+    "0-inbox/High-School Physics Teachers Program.md",
+    "0-inbox/Nexus.md",
+    "0-inbox/Neutrino Weighting.md",
+    "Output/Coffea post re lumi counting.md",
+    "2-areas/CMS/BPix hole.md",
+    "0-inbox/Waiting for.md",
+    "Journal/2023/December 2023.md",
+    "00-Zettelkasten/Detector Unfolding Problem.md",
+    "attachments/1DUnfoldingCartoon.excalidraw.md",
     "0-inbox/#Run-3 4b skims.md#",
     "Journal/2023/#November 2023.md#",
     "Journal/#Fall 2024.md#",

@@ -70,11 +70,10 @@ Did mail.
 - Good runs 4s
 
 # Mortgage call
-- 300k down
-- 5.99 -> 6.5
-- Need to pay $1k upfront
+[[5391 Financing]]
 
-# 4b code base
+
+# [[4b code base]]
 - added processed lumi section
 - updating skip colections and (removing HLT branches)
 

@@ -7,6 +7,10 @@ $10k Hand money.
 
 Cash to close:
 - 334,867 - 10k
+
+Rates:
+- 5.99 -> 6.5
+
 ## Follow-ups
 
 
