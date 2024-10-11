@@ -25,6 +25,7 @@ Challenge: how to find difference in images, not simliarites
 
 Created synthetic datasets.
 
+JA: Can track changes with more than one defect
 
 
 

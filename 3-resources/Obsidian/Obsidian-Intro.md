@@ -17,6 +17,8 @@ Use Tags indicate state and type.
 
 Links:
 
+"To preview a page while in Editing view, **press Ctrl (or Cmd on macOS) while hovering the cursor over the link**.a"
+
 [[obsidian]]
 
 [[emacs]]

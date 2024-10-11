@@ -63,11 +63,14 @@ Paid hand money from cap one
 
 # Chat AE
 - Run2 mixed Classifier tests
-	- Does JCM matter? / Does ttbar matter ? / Gain from ZZ / Gain from low SvB SR events
+	- 1) Does JCM matter? / 2) Does ttbar matter ? / 3) Gain from ZZ 4) Gain from ZH 5) Gain 6) from low SvB SR events ? 
+	- Can test 1) 
 - Run3: Test 4v2 vs 4v3 with synthetic data compare to 3v2 (systematics)
 - [AE] ZZ sensitivity gain at low pt ?
 - [x] Whats the signal gain from the trigger turn on?
 	- Checked, not much
 
 # [[Freedom and the Press before Freedom of the Press]]
+
+"To preview a page while in Editing view, **press Ctrl (or Cmd on macOS) while hovering the cursor over the link**" saved in [[Obsidian Tricks]]
 
