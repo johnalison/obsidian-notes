@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/11 October 2024 Friday.md",
+                "file": "0-inbox/Understanding the Limitations of Mathematical Reasoning in Large Language Models.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/11 October 2024 Friday.md",
+                "file": "0-inbox/Understanding the Limitations of Mathematical Reasoning in Large Language Models.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/11 October 2024 Friday.md",
+                "file": "0-inbox/Understanding the Limitations of Mathematical Reasoning in Large Language Models.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/11 October 2024 Friday.md"
+                "file": "0-inbox/Understanding the Limitations of Mathematical Reasoning in Large Language Models.md"
               }
             }
           }
@@ -187,10 +187,12 @@
   },
   "active": "93797a0683c7719f",
   "lastOpenFiles": [
+    "Journal/12 October 2024 Saturday.md",
+    "0-inbox/Understanding the Limitations of Mathematical Reasoning in Large Language Models.md",
+    "Journal/11 October 2024 Friday.md",
     "Input/Books/Books.md",
     "Input/Books/#Books.md#",
     "Input/Books/BeyondGoodAndEvil.md",
-    "Journal/11 October 2024 Friday.md",
     "4-archive/HIG-22-011/HIG-22-011.md",
     "Input/Learning List.md",
     "0-inbox/dasgoclient.md",
@@ -212,7 +214,6 @@
     "Journal/9 October 2024 Wednesday.md",
     "0-inbox/Low mass di-electrons.md",
     "00-Zettelkasten/Detector Unfolding Problem.md",
-    "0-inbox/ProgressReport 11 October 2024.md",
     "0-inbox/#Run-3 4b skims.md#",
     "Journal/2023/#November 2023.md#",
     "Journal/#Fall 2024.md#",
