@@ -17,10 +17,21 @@
 ## Enviroment setup
 - ```git clone git@github.com:johnalison/dotfiles.git```
 
-# Classifier Training setup
+# Old Classifier Training setup
 
 Installing conda as here: https://phoenixnap.com/kb/install-anaconda-ubuntu
 
+then:
+`> conda env create -f vera_environment.yml
+Where `vera_environment.yml` is from the bridges2 setup
+
+Then conda 
+
+## Copied the picos over from PSCBridges2
+
+
+
+# New Classifier Training setup should be coffea
 
 ## Follow-ups
 

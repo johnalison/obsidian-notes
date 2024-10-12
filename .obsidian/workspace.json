@@ -61,14 +61,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-resources/computing/GetSSHKey.md",
+                "file": "0-inbox/Setting up Falcon.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -87,7 +86,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ssh ",
+                "query": "file:books ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -134,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-resources/computing/GetSSHKey.md",
+                "file": "0-inbox/Run-3 4b skims.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-resources/computing/GetSSHKey.md",
+                "file": "0-inbox/Run-3 4b skims.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-resources/computing/GetSSHKey.md"
+                "file": "0-inbox/Run-3 4b skims.md"
               }
             }
           }
@@ -197,15 +196,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9c7ced94c0d7f233",
+  "active": "0b1b9625ad0c6637",
   "lastOpenFiles": [
+    "Input/Books/Books.md",
+    "Input/Books/40WaysToViewChurchill.md",
+    "Input/Books/BeyondGoodAndEvil.md",
+    "Input/Books/MindfullnessBook.md",
+    "0-inbox/Run-3 4b skims.md",
+    "3-resources/computing/Vera Cluster Setup.md",
+    "3-resources/computing/PSC Bridges.md",
     "0-inbox/Setting up Falcon.md",
     "3-resources/computing/GetSSHKey.md",
     "Journal/12 October 2024 Saturday.md",
     "3-resources/computing/Setup M3 Macbook.md",
-    "3-resources/computing/Vera Cluster Setup.md",
     "Journal/11 October 2024 Friday.md",
-    "3-resources/computing/PSC Bridges.md",
     "Journal/July/12 July 24 Friday.md",
     "Input/Papers/Bad Goodness of Fit Tips.md",
     "3-resources/computing/PSC  for ML.md",
@@ -220,12 +224,7 @@
     "2-areas/CMS/dasgoclient.md",
     "0-inbox/ARC HIG-24-017 Boosted VqqHbb.md",
     "0-inbox/AnalysesOverview.excalidraw.md",
-    "0-inbox/5391 Financing.md",
-    "2-areas/Personal/ToAddToCV.md",
-    "0-inbox/Understanding the Limitations of Mathematical Reasoning in Large Language Models.md",
-    "Input/Books/Books.md",
     "Input/Books/#Books.md#",
-    "Input/Books/BeyondGoodAndEvil.md",
     "0-inbox/#Run-3 4b skims.md#",
     "Journal/2023/#November 2023.md#",
     "Journal/#Fall 2024.md#",

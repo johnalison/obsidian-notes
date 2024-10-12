@@ -5,7 +5,7 @@
 
 - [[Conspiracy]] (Ryan Holiday)
 
-- [[MindfullnessBook]]
+- [[MindfullnessBook]] ( ) 
 
 - [[BlackSwan]] (Nassim Taleb)
 
@@ -230,138 +230,137 @@
 
 # 2021
 
-- Poor Charlies Almanack [[PoorCharliesAlmanack]] (Charlie Munger)
+- [[PoorCharliesAlmanack]] (Charlie Munger)
 
-- New Kind of Science [[NewKindOfScience]] (Stephen Wolfram)
+- [[NewKindOfScience]] (Stephen Wolfram)
 
-- Dawn of the New Everything [[DawnOfNewEverything]] (Jaron Lanier)
+- [[DawnOfNewEverything]] (Jaron Lanier)
 
-- Slack [[Slack]] (Tom DeMarco)
+- [[Slack]] (Tom DeMarco)
 
-- Thinking Course [[ThinkingCourse]] (Edward de Bono)
+- [[ThinkingCourse]] (Edward de Bono)
 
-- A Concise History of Buddhism [[ConciseHistoryBuddhism]] (Andrew Skilton)
+- A [[ConciseHistoryBuddhism]] (Andrew Skilton)
 
-- Think Like a Freak [[ThinkLikeAFreak]] (Steven Levitt and Stephen Dubner)
+- [[ThinkLikeAFreak]] (Steven Levitt and Stephen Dubner)
 
-- Zen and the Art of Motorcycle Maintenance. [[ZenAndMotorcycleMaintenance]]  (Robert M. Pirsig)
+- [[ZenAndMotorcycleMaintenance]]  (Robert M. Pirsig)
 
-- AI: A modern approach. [[AIModernApproach]]  (Stuart Russell adn Peter Norvig)
+- [[AIModernApproach]]  (Stuart Russell adn Peter Norvig)
 
-- The Ghost Map. [[GhostMap]]  (Steven Johnson)
+- The [[GhostMap]]  (Steven Johnson)
 
-- Little Bets. [[LittleBets]]  (Peter Sims)
+- [[LittleBets]]  (Peter Sims)
 
-- Nudge [[Nudge]]  (Thaler and Sunstein)
+- [[Nudge]]  (Thaler and Sunstein)
 
-- You are not a Gadget. [[NotAGadget]]  (Jaron Lanier)
+- You are [[NotAGadget]]  (Jaron Lanier)
 
-- Third Thoughts [[ThirdThoughts]]  (Steven Weinberg)
+- [[ThirdThoughts]]  (Steven Weinberg)
 
-- Personal MBA [[PersonalMBA]]  (Josh Kaufman)
+- [[PersonalMBA]]  (Josh Kaufman)
 
-- The Magic of Math [[MagicMath]]  (Authur Benjamin)
+- The [[MagicMath]]  (Authur Benjamin)
 
-- How to Take Smart Notes [[SmartNotes]]  (Sonke Ahrens)
+- How to Take [[SmartNotes]]  (Sonke Ahrens)
 
-- How to win friends and influence people [[HowToWinFriendsAndInfluencePeople]] (Dale Carnegie)
+- [[HowToWinFriendsAndInfluencePeople]] (Dale Carnegie)
 
-- The Foundations of Modern Physics [[FoundationsModernPhysics]] (Steven Weinberg)
+- The [[FoundationsModernPhysics]] (Steven Weinberg)
 
-- The Red Queen [[TheRedQueen]] (Matt Ridley)
+- [[TheRedQueen]] (Matt Ridley)
 
-- Deep Work [[DeepWork]]  (Cal Newport)
+- [[DeepWork]]  (Cal Newport)
 
-- Super-freakonomics [[SuperFreakonomics]]  (Stephen Dubner and Steven Levitt)
+- [[SuperFreakonomics]]  (Stephen Dubner and Steven Levitt)
 
-- Homo Deus [[HomoDeus]] (Yuval Noah Harari)
+- [[HomoDeus]] (Yuval Noah Harari)
 
-- A world without email [[AWorldWithoutEmail]] (Cal Newport)
+- [[AWorldWithoutEmail]] (Cal Newport)
 
-- 21 Lessons for the 21st Century [[21LessonsForThe21stCentury]] (Yuval Noah Harari)
+- [[21LessonsForThe21stCentury]] (Yuval Noah Harari)
 
-- Awaken the Giant Within [[AwakenTheGiantWithin]]  (Tony Robbins)
+- [[AwakenTheGiantWithin]]  (Tony Robbins)
 
--  Freakonomics [[Freakonomics]] (Stephen Dubner and Steven Levitt)
+- [[Freakonomics]] (Stephen Dubner and Steven Levitt)
 
--   Influence [[Influence]] (Robert Caldini)
+- [[Influence]] (Robert Caldini)
 
--   Map and Territory [[MapAndTerritory]] (Eliezer Yudkowsky)
+- [[MapAndTerritory]] (Eliezer Yudkowsky)
 
--   SCRUM [[SCRUM]] (Jeff Sutherland)
+- [[SCRUM]] (Jeff Sutherland)
 
-- Electronics (A systems approach) [[ElectronicsASystemsApproach]] (Neil Storey)
+- [[ElectronicsASystemsApproach]] (Neil Storey)
 
--   Project Management for Dummies [[ProjectManagementForDummies]]  (Stanley Portny)
+- [[ProjectManagementForDummies]]  (Stanley Portny)
 
--  How to decide [[HowToDecide]] (Annie Duke)
+- [[HowToDecide]] (Annie Duke)
 
--   Caffeine [[Caffeine]] (Michael Pollan)
+- [[Caffeine]] (Michael Pollan)
 
--   Sapiens [[Sapiens]] (Yuval Noah Harari)
+- [[Sapiens]] (Yuval Noah Harari)
 
--   The scientific revolution : Aspirations and Achievements [[TheScientificRevolutionAspirationsAchievements]] (James R. Jacob)
+- [[TheScientificRevolutionAspirationsAchievements]] (James R. Jacob)
 
-- The Button [[TheButton]]  (William Perry and Tom Collina) 
+- [[TheButton]]  (William Perry and Tom Collina) 
 
-- The Design of everyday things [[TheDesignOfEverydayThings]] (Don Norman)
+- [[TheDesignOfEverydayThings]] (Don Norman)
 
-- How emotions are made [[HowEmotionsAreMade]] (Lisa Barrett) 
+- [[HowEmotionsAreMade]] (Lisa Barrett) 
 
-- Writing GNU Emacs Extensions [[WritingGNUEmacsExtensions]] (Bob Glickstein)
+- [[WritingGNUEmacsExtensions]] (Bob Glickstein)
 
-- The Epicurus Reader [[TheEpicurusReader]]  (Epicurus)
+- [[TheEpicurusReader]]  (Epicurus)
   
 # 2020
 
-- Thinking about Mathematics [[ThinkingAboutMath]] (Stewart Shapiro)
+- [[ThinkingAboutMath]] (Stewart Shapiro)
 
-- The Denial of Death [[DenialOfDeath]] (Earnest Becker)
+- The [[DenialOfDeath]] (Earnest Becker)
 
-- Mysticism and Logic [[MysticismAndLogic]] (Bertrand Russel)
+- [[MysticismAndLogic]] (Bertrand Russel)
 
-- Beyond Good and Evil [[BeyondGoodAndEvil]]
+- [[BeyondGoodAndEvil]] (Friedrich Nietzsche)
 
--  How To Read and Why (Harold Bloom)
+- How To Read and Why (Harold Bloom)
 
-- 40 Ways to view Churchill [[40WaysToViewChurchill]]
+- [[40WaysToViewChurchill]]
 
-- Bullet Journal Method [[BulletJournalMethod]]
+- [[BulletJournalMethod]]
 
-- Fearless Symmetry [[FearlessSymmetry]]
+- [[FearlessSymmetry]]
 
-- Poor Richards Almanac [[PoorRichardsAlmanac]] (Ben Franklin)
+- [[PoorRichardsAlmanac]] (Ben Franklin)
 
-- Blood Meridian [[BloodMeridian]] (Cormack McCarthy)
+- [[BloodMeridian]] (Cormack McCarthy)
 
-- My Journey to the Nuclear Brink [[JourneyNuclearBrink]] (W. Perry)
+- My [[JourneyNuclearBrink]] (W. Perry)
 
-- The Art of Worldly Wisdom [[TheArtWorldlyWisdom]] (Baltasar Gracian) 
+- [[TheArtWorldlyWisdom]] (Baltasar Gracian) 
 
-- Crime and Punishment [[CrimeAndPunishment]]
+- [[CrimeAndPunishment]]
 
-- Hacking Darwin [[HackingDarwin]] (Metzl) 
+- [[HackingDarwin]] (Metzl) 
 
-- Extreme Ownership [[ExtremeOwnership]] (Jocko Wilnick) 
+- [[ExtremeOwnership]] (Jocko Wilnick) 
 
-- Ten Discoveries that Rewrote History [[TenDiscoveriesRewroteHistory]] (Patrick Hunt)
+- [[TenDiscoveriesRewroteHistory]] (Patrick Hunt)
 
-- Breath: the new science of a lost art [[Breath]]
+- [[Breath]]: the new science of a lost art
 
-- Every Love Story Is a Ghost Story [[EveryLoveStoryIsGhostStory]]  (David Foster Wallace Bio)
+- [[EveryLoveStoryIsGhostStory]]  (David Foster Wallace Bio)
 
-- Fumble Rules (guide to grammar and usage) [[FumbleRules]]
+- [[FumbleRules]] (guide to grammar and usage)
 
-- Stoic Test Challenge [[StoicTestChallenge]] (William Irvine)
+- [[StoicTestChallenge]] (William Irvine)
 
-- Breakfast of Champions [[BreakfastOfChampions]] (Kurt Vonnegut)
+- [[BreakfastOfChampions]] (Kurt Vonnegut)
 
-- Rise and Fall of American Growth [[RiseAndFallAmericanGrowth]] (Robert Gordon)
+- [[RiseAndFallAmericanGrowth]] (Robert Gordon)
 
-- Fight Club [[FightClub]] (Cluck Palahniuk)
+- [[FightClub]] (Cluck Palahniuk)
 
-- The Road to Reality [[RoadToReality]] (Roger Penrose)
-
+- The [[RoadToReality]] (Roger Penrose)
 
 -  Discipline equals freedom
 
