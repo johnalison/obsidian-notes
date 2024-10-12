@@ -38,8 +38,6 @@
 - [x] Get Hand money
 - [>>] Aniket CERN office
 
-
-
 # Log
 
 Up at 6:45 

@@ -1,4 +1,5 @@
-Chris Warren Colloq
+
+Chris Warren Colloq (Friday October 11th)
 
 Project: Print and Probability
 "LTI colloq" Language Technologies Institute

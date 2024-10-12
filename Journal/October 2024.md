@@ -6,11 +6,11 @@
 | 4  F | (Teach for Markus) Quarterly review / HEP Lunch / Larry STAMPS / Sindhu       | 8/4/1 |
 | 5  S | Giant Eagle/ Reading / Ricardos for brunch / House offer / Playground         |       |
 | 6  S | Reading / Linden B-day party / **Gym / SR** / More reading                    |       |
-| 7  M | (Steph Away)                                                                  |       |
-| 8  T | (Steph Away)                                                                  |       |
-| 9  W | (Steph Away)                                                                  |       |
-| 10 H | (Steph Away)                                                                  |       |
-| 11 F |                                                                               |       |
+| 7  M | (Steph Away) Fixed top reco /**Hoops**/mH constraint/ H BBall / Contingency   | 6/2/2 |
+| 8  T | (Steph Away) w/kids / [[Run-3 4b skims]] / Finished Adam Smith                | 5/1/- |
+| 9  W | (Steph Away) Stats chat / **Hoops** / Start Mortgage / T3 going! / Pizza      | 7/2/6 |
+| 10 H | (Steph Away) Sudhir / Skims going / Teachers Program / **Gym/SR**             | 7/3/3 |
+| 11 F | Progress Report / Chat AE / Warren Colloq / Lumi Checking / Social            | 8/5/4 |
 | 12 S |                                                                               |       |
 | 13 S |                                                                               |       |
 | 14 M |                                                                               |       |

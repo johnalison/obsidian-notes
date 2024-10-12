@@ -22,7 +22,7 @@
 **W:** 5 
 **DW:** 1
 **OT:** - 
-**ex** or **No ex**
+**No ex**
 
 # ~~The ONE thing: ~~
 
@@ -36,7 +36,6 @@
 - [>>] Remake plotting to be more flexible re:hist structure ? 
 - [>>]  CAP/LTS online questionnaire and tasks
 - [MP] work study (student? )
-
 
 # Log
 
