@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/Neutrino Weighting.md",
+                "file": "Journal/12 October 2024 Saturday.md",
                 "mode": "source",
                 "source": false
               }
@@ -67,7 +67,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -133,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/Run-3 4b skims.md",
+                "file": "Journal/12 October 2024 Saturday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/Run-3 4b skims.md",
+                "file": "Journal/12 October 2024 Saturday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/Run-3 4b skims.md"
+                "file": "Journal/12 October 2024 Saturday.md"
               }
             }
           }
@@ -196,13 +197,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0b1b9625ad0c6637",
+  "active": "dfd5cb8a17686ae5",
   "lastOpenFiles": [
+    "0-inbox/Neutrino Weighting.md",
+    "0-inbox/Run-3 4b skims.md",
     "Input/Books/Books.md",
     "Input/Books/40WaysToViewChurchill.md",
     "Input/Books/BeyondGoodAndEvil.md",
     "Input/Books/MindfullnessBook.md",
-    "0-inbox/Run-3 4b skims.md",
     "3-resources/computing/Vera Cluster Setup.md",
     "3-resources/computing/PSC Bridges.md",
     "0-inbox/Setting up Falcon.md",
@@ -223,7 +225,6 @@
     "Input/Lectures/Freedom and the Press before Freedom of the Press.md",
     "2-areas/CMS/dasgoclient.md",
     "0-inbox/ARC HIG-24-017 Boosted VqqHbb.md",
-    "0-inbox/AnalysesOverview.excalidraw.md",
     "Input/Books/#Books.md#",
     "0-inbox/#Run-3 4b skims.md#",
     "Journal/2023/#November 2023.md#",
