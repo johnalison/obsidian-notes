@@ -75,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "file:list",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -187,8 +187,10 @@
   },
   "active": "93797a0683c7719f",
   "lastOpenFiles": [
-    "0-inbox/dasgoclient.md",
+    "4-archive/HIG-22-011/HIG-22-011.md",
+    "Input/Learning List.md",
     "Journal/11 October 2024 Friday.md",
+    "0-inbox/dasgoclient.md",
     "3-resources/Obsidian/obsidian.md",
     "3-resources/Obsidian/Obsidian Tricks.md",
     "3-resources/Obsidian/Obsidian-Intro.md",
@@ -211,8 +213,6 @@
     "Output/ProgressReport 27 September 2024.md",
     "Journal/7 October 2024 Monday.md",
     "Journal/6 October 2024 Sunday.md",
-    "Journal/5 October 2024 Saturday.md",
-    "Journal/4 October 2024 Friday.md",
     "0-inbox/#Run-3 4b skims.md#",
     "Journal/2023/#November 2023.md#",
     "Journal/#Fall 2024.md#",

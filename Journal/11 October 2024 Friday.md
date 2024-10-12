@@ -1,6 +1,6 @@
 # Timeblock
 
-|     |                     |     |
+|     | setup               |     |
 | --- | ------------------- | --- |
 | 9   | Chat Chris and Jake |     |
 |     | Chat Chris and Jake |     |
@@ -15,14 +15,14 @@
 | 2   | CMU HH4b            |     |
 |     | CMU HH4b            |     |
 | 3   | CMU CMS             |     |
-|     |                     |     |
-| 4   |                     |     |
+|     | [[Run-3 4b skims]]  |     |
+| 4   | [[Run-3 4b skims]]  |     |
 |     | Social              |     |
 
-**W:**
-**DW:**
-**OT:**
-**ex** or **No ex**
+**W:**. 8 
+**DW:** 5 
+**OT:** 4
+**No ex**
 
 # The ONE thing: 
 - [ ] [[Run-3 4b skims]]
@@ -63,8 +63,8 @@ Paid hand money from cap one
 
 # Chat AE
 - Run2 mixed Classifier tests
-	- 1) Does JCM matter? / 2) Does ttbar matter ? / 3) Gain from ZZ 4) Gain from ZH 5) Gain 6) from low SvB SR events ? 
-	- Can test 1) 
+	- 1) Does JCM matter? / 2) Does ttbar matter ? / 3) Gain from ZZ 4) Gain from ZH 5) Gain  from low SvB SR events ? 
+	- Can test 1) 3 4 5 from mixed data old classifier. Need new one for 2
 - Run3: Test 4v2 vs 4v3 with synthetic data compare to 3v2 (systematics)
 - [AE] ZZ sensitivity gain at low pt ?
 - [x] Whats the signal gain from the trigger turn on?
@@ -75,19 +75,21 @@ Paid hand money from cap one
 "To preview a page while in Editing view, **press Ctrl (or Cmd on macOS) while hovering the cursor over the link**" saved in [[Obsidian Tricks]]
 
 # CMU CMS
-- Debugging
+
 
 # Added script to do Lumi checking. 
 - Found missing LBs... turns out these are missing from the Nano!
 - Checked with [[dasgoclient]]
 - Can simplify the checking by just checking that the skims saw all the input events which we can get from das summary
-- [ ] Make script to get the DAS info form the datasets file
+- [x] Make script to get the DAS info form the datasets file
 	- First version working... 
 	- Need to fix **py python/skimmer/metadata/get_das_info.py -d python/skimmer/metadata/picoaod_datasets_data_2023_BPix.yml**
+	- ...Done.
+- [ ] Add README 
 
 
 # Social
 
 Got kids.  Walked home.
 
-
+Check all 2023 skims... All good. 
