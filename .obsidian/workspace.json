@@ -75,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:list",
+                "query": "file:boo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,8 +102,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -167,7 +166,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -187,9 +187,12 @@
   },
   "active": "93797a0683c7719f",
   "lastOpenFiles": [
+    "Input/Books/Books.md",
+    "Input/Books/#Books.md#",
+    "Input/Books/BeyondGoodAndEvil.md",
+    "Journal/11 October 2024 Friday.md",
     "4-archive/HIG-22-011/HIG-22-011.md",
     "Input/Learning List.md",
-    "Journal/11 October 2024 Friday.md",
     "0-inbox/dasgoclient.md",
     "3-resources/Obsidian/obsidian.md",
     "3-resources/Obsidian/Obsidian Tricks.md",
@@ -210,9 +213,6 @@
     "0-inbox/Low mass di-electrons.md",
     "00-Zettelkasten/Detector Unfolding Problem.md",
     "0-inbox/ProgressReport 11 October 2024.md",
-    "Output/ProgressReport 27 September 2024.md",
-    "Journal/7 October 2024 Monday.md",
-    "Journal/6 October 2024 Sunday.md",
     "0-inbox/#Run-3 4b skims.md#",
     "Journal/2023/#November 2023.md#",
     "Journal/#Fall 2024.md#",
@@ -222,7 +222,6 @@
     "Journal/September",
     "Journal/2023/#September 2023.md#",
     "Journal/#29 September 2024 Sunday.md#",
-    "0-inbox/#Kubernetes explained in 15 mins.md#",
     "attachments/Pasted image 20240826220009.png",
     "attachments/Pasted image 20240826215955.png",
     "attachments/HGC TDR LD and HD Sensors.png",

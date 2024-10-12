@@ -5,7 +5,7 @@
 
 - [[Conspiracy]] (Ryan Holiday)
 
-* [[MindfullnessBook]]
+- [[MindfullnessBook]]
 
 - [[BlackSwan]] (Nassim Taleb)
 
@@ -13,220 +13,220 @@
 
 - [[Libertarianism-A-primer]] (David Boaz)
 
-*  [[Moby Dick]]. (Herman Melvill)
+- [[Moby Dick]]. (Herman Melvill)
 
--   [[FooledByRandomness]] (Nassim Taleb)
+- [[FooledByRandomness]] (Nassim Taleb)
 
--   [[WavesInImpossibleSea]] (Matt Strassler)
+- [[WavesInImpossibleSea]] (Matt Strassler)
 
-- Statistical Consequences of Fat Tails [[FatTails]] (Nassim Nicholas Taleb)
+- Statistical Consequences of [[FatTails]] (Nassim Nicholas Taleb)
 
-- Introductory Nuclear Physics [[IntroductoryNuclearPhysics]] (Kenneth Krane)
+- [[IntroductoryNuclearPhysics]] (Kenneth Krane)
 
-- Outlive: The science and art of longevity [[Outlive]] (Peter Attia)
+- [[Outlive]]: The science and art of longevity  (Peter Attia)
 
-- A Heart Breaking Work of Staggering Genius [[StaggeringGenius]] (Dave Eggers)
+- A Heart Breaking Work of [[StaggeringGenius]] (Dave Eggers)
 
-- I Never Met a Story I Didnt Like [[StoryIDidntLike]] (Todd Snider)
+- I Never Met a [[StoryIDidntLike]] (Todd Snider)
 
-- History of God [[HistoryOfGod]] (Karen Armstrong)
+- [[HistoryOfGod]] (Karen Armstrong)
 
-- How to Know an Person [[HowToKnowAPerson]] (David Brooks)
+- [[HowToKnowAPerson]] (David Brooks)
 
-- Determined [[Determined]] (Robert Sapolsky)
+- [[Determined]] (Robert Sapolsky)
 
-- Data Reduction and Error Analysis [[DataReductionAndErrorAnalysis]] (Bevington and Robinson)
+- [[DataReductionAndErrorAnalysis]] (Bevington and Robinson)
 
-- Science and Cooking [[ScienceAndCooking]] (Brenner, Sorensen, and Weitz)
+- [[ScienceAndCooking]] (Brenner, Sorensen, and Weitz)
 
-- Quantum Field Theory and the Standard Model [[QFTAndTheSM]] (Matt Schwartz)
+- [[QFTAndTheSM]] (Matt Schwartz)
 
-- Techinques for Nuclear and Particle Physics Experiments [[TechniquesNukeAndParticleExperiments]] (W. R. Leo)
+- [[TechniquesNukeAndParticleExperiments]] (W. R. Leo)
 
-- Conscious [[Conscious]] (Annaka Harris)
+- [[Conscious]] (Annaka Harris)
 
-- Experiments in Modern Physics [[ExperimentsInModernPhysics]] (Melissinos and Napolitano)
+- [[ExperimentsInModernPhysics]] (Melissinos and Napolitano)
 
-- The Book of Charlie [[BookOfCharlie]] (David von Drehle)
+- The [[BookOfCharlie]] (David von Drehle)
 
-- Python Tutorial [[PythonTutorial]] (docs.python.org)
+- [[PythonTutorial]] (docs.python.org)
 
 # 2023
 
-- John Stuart Mill Autobiography [[JohnStuartMill]] (John Stuart Mill)
+- [[JohnStuartMill]] Autobiography (John Stuart Mill)
 
--  [[TheStranger]] (Albert Camus)
+- [[TheStranger]] (Albert Camus)
 
-- Gratitude [[Gratitude]] (Oliver Sacks)
+- [[Gratitude]] (Oliver Sacks)
 
-- This is Water [[ThisIsWater]] (David Foster Wallace)
+- [[ThisIsWater]] (David Foster Wallace)
 
-- The Second Kine of Impossible [[SecondKindOfImpossible]] (Paul Steinhardt)
+- The [[SecondKindOfImpossible]] (Paul Steinhardt)
 
-- GOAT: Who is the Greatest Economist of all Time and Why Does it Matter? [[GOAT]] (Tyler Cowen)
+- [[GOAT]]: Who is the Greatest Economist of all Time and Why Does it Matter? (Tyler Cowen)
 
 - The [[HitchHikersGuideToGalaxy]] (Douglas Adams)
 
--  [[Enchiridion]] (Epictetus)
+- [[Enchiridion]] (Epictetus)
 
-- The Master and His Emissary [[MasterAndHisEmissary]] (Iain McGilchrist)
+- The [[MasterAndHisEmissary]] (Iain McGilchrist)
 
--  [[TheONEThing]] (Gary Keller)
+- [[TheONEThing]] (Gary Keller)
 
-- Introduction to Linear Algebra [[IntroToLinearAlgebra]] (Gilbert Strang)
+- [[IntroToLinearAlgebra]] (Gilbert Strang)
 
-- 12 Rules for Life [[12RuleForLife]] (Jordan Peterson)
+- [[12RuleForLife]] (Jordan Peterson)
 
-- Reframe Your Brain [[ReframeYourBrain]] (Scott Adams)
+- [[ReframeYourBrain]] (Scott Adams)
 
-- Conquest of Happiness [[ConquestOfHappiness]] (Bertrand Russell)
+- [[ConquestOfHappiness]] (Bertrand Russell)
 
-- A Matter of Degrees [[AMatterOfDegrees]] (Gino Segre)
+- [[AMatterOfDegrees]] (Gino Segre)
 
-- More From Less [[MoreFromLess]] (Andrew McAfee)
+- [[MoreFromLess]] (Andrew McAfee)
 
-- Who Owns the Future? [[WhoOwnsTheFuture]] (Jaron Lanier)
+- [[WhoOwnsTheFuture]] (Jaron Lanier)
 
-- How the Scots Invented the Modern World [[HowTheScotsInventedTheModernWorld]] (Arthur Herman)
+- [[HowTheScotsInventedTheModernWorld]] (Arthur Herman)
 
-- The Third Chimpanzee [[TheThirdChimpanzee]] (Jared Diamond)
+- [[TheThirdChimpanzee]] (Jared Diamond)
 
-- Ten Arguments for Deleting Your Social Media Accounts [[TenArgumentsDeleteSocialMedia]] (Jaron Lanier)
+- [[TenArgumentsDeleteSocialMedia]] (Jaron Lanier)
 
-- ANSI Common Lisp [[ANSICommonLisp]] (Paul Graham)
+- [[ANSICommonLisp]] (Paul Graham)
 
-- Antifragile [[Antifragile]] (Nassim Taleb)
+- [[Antifragile]] (Nassim Taleb)
 
-- The Storm Before the Storm [[TheStormBeforeTheStorm]] (Mike Duncan)
+- [[TheStormBeforeTheStorm]] (Mike Duncan)
 
-- God's Debris [[GodsDebris]] (Scott Adams)
+- [[GodsDebris]] (Scott Adams)
 
-- Titan [[Titan]] (Ron Chernow)
+- [[Titan]] (Ron Chernow)
 
-- The Emergent Multiverse [[TheEmergentMultiverse]] (David Wallace)
+- [[TheEmergentMultiverse]] (David Wallace)
 
-- Hackers and Painters [[HackersAndPainters]] (Paul Grahm)
+- [[HackersAndPainters]] (Paul Grahm)
 
-- Fragile by Design [[FragileByDesign]] (Charles Calomiris and Stephen Haber)
+- [[FragileByDesign]] (Charles Calomiris and Stephen Haber)
 
-- The Second Creation [[TheSecondCreation]] (Robert Crease and Charles Mann)
+- [[TheSecondCreation]] (Robert Crease and Charles Mann)
 
-- Whats our Problem [[WhatsOurProblem]] (Tim Urban)
+- [[WhatsOurProblem]] (Tim Urban)
 
-- Effective Python [[EffectivePython]] (Brett Slatkin)
+- [[EffectivePython]] (Brett Slatkin)
 
-- Inward Bound [[InwardBound]] (Abraham Pais)
+- [[InwardBound]] (Abraham Pais)
 
-- Energy and Civilization [[EnergyAndCivilization]] (Vaclav Smil)
+- [[EnergyAndCivilization]] (Vaclav Smil)
 
-- The Discovery of Subatomic Partilces [[DiscoveryOfSubatomicParticles]] (Steven Weinberg)
+- The [[DiscoveryOfSubatomicParticles]] (Steven Weinberg)
 
-- Subtle is the Lord [[SubtleIsTheLord]] (Abe Pais)
+- [[SubtleIsTheLord]] (Abe Pais)
 
-- Special Relativity [[SpecialRelativity]] (A. P. French)
+- [[SpecialRelativity]] (A. P. French)
 
-- Secrets of Mental Math  [[SecretsOfMentalMath]] (Arthur Benjamin and Michael Shermer)
+- [[SecretsOfMentalMath]] (Arthur Benjamin and Michael Shermer)
 
-- A Singularly Unfeminine Profession [[ASingularlyUnfeminineProfession]] (Mary k Gaillard)
+- [[ASingularlyUnfeminineProfession]] (Mary k Gaillard)
 
 #Consume 
-- Spacetime Physics [[SpacetimePhysics]] (Taylor and Wheeler)
+- [[SpacetimePhysics]] (Taylor and Wheeler)
 
 # 2022
 
-- The Art of Graphic Design [[TheArtOfGraphicDesign]] (Bradbury Thompson)
+- [[TheArtOfGraphicDesign]] (Bradbury Thompson)
 
-- The Sparrow [[TheSparrow]] (Mary Doria Russell)
+- [[TheSparrow]] (Mary Doria Russell)
 
-- Proof of Stake [[ProofOfStake]] (Vitalik Buterin)
+- [[ProofOfStake]] (Vitalik Buterin)
 
-- Something Deeply Hidden [[SomethingDeeplyHidden]] (Sean Carroll)
+- [[SomethingDeeplyHidden]] (Sean Carroll)
 
-- Life Ascending [[LifeAscending]] (Nick Lane)
+- [[LifeAscending]] (Nick Lane)
 
-- General Chemistry [[GeneralChemistry]] (Linus Pauling)
+- [[GeneralChemistry]] (Linus Pauling)
 
-- The Mind Illuminated [[TheMindIlluminated]] (Culadasa)
+- [[TheMindIlluminated]] (Culadasa)
 
-- The Fabric of Reality [[TheFabricOfReality]] (David Deutsch)
+- [[TheFabricOfReality]] (David Deutsch)
 
-- The World Without Us [[TheWorldWithoutUs]] (Alan Weisman)
+- [[TheWorldWithoutUs]] (Alan Weisman)
 
-- Waking Up [[WakingUp]] (Sam Harris)
+- [[WakingUp]] (Sam Harris)
 
-- A Supposedly Fun Thing Ill Never Do Again [[ASupposedlyFunThing]] (David Foster Wallace)
+- [[ASupposedlyFunThing]] Ill Never Do Again  (David Foster Wallace)
 
-- Why Buddhism is True [[WhyBuddhismIsTrue]] (Robert Wright)
+- [[WhyBuddhismIsTrue]] (Robert Wright)
 
-- The Character of Physical Law [[CharacterOfPhysicalLaw]] (Richard Feynman)
+- The [[CharacterOfPhysicalLaw]] (Richard Feynman)
 
-- Dreams of a Final Theory [[DreamsOfAFinalTheory]] (Steven Weinberg)
+- [[DreamsOfAFinalTheory]] (Steven Weinberg)
 
-- Four Thousand Weeks [[FourThousandWeeks]] (Oliver Burkeman)
+- [[FourThousandWeeks]] (Oliver Burkeman)
 
-- Viral [[Viral]] (Alina Chan and Matt Ridley)
+- [[Viral]] (Alina Chan and Matt Ridley)
 
-- QED: The strange theory of light and matter [[QED]] (Richard Feynman)
+- [[QED]]: The strange theory of light and matter (Richard Feynman)
 
-- The Meaning of it All [[MeaningOfItAll]] (Richard Feynman)
+- The [[MeaningOfItAll]] (Richard Feynman)
 
-- Numbers Dont Lie [[NumbersDontLie]] (Vaclav Smil)
+- [[NumbersDontLie]] (Vaclav Smil)
 
-- Physics And Philosophy [[PhysicsAndPhilosophy]] (Werner Heisenberg)
+- [[PhysicsAndPhilosophy]] (Werner Heisenberg)
 
-- The Ascent of Money [[AscentOfMoney]] (Niall Ferguson)
+- The [[AscentOfMoney]] (Niall Ferguson)
 
-- The Beginning of Infinity [[BeginningOfInfinity]] (David Deutsch)
+- The [[BeginningOfInfinity]] (David Deutsch)
 
-- Powers and Thrones [[PowersAndThrones]] (Dan Jones)
+- [[PowersAndThrones]] (Dan Jones)
 
-- How the World Really Works [[HowTheWorldReallyWorks]] (Vaclav Smil)
+- [[HowTheWorldReallyWorks]] (Vaclav Smil)
 
-- The Elephant in the Brain [[ElephantInBrain]] (Kevin Simler adn Robin Hanson)
+- The [[ElephantInBrain]] (Kevin Simler adn Robin Hanson)
 
-- Caesar and Christ [[CaesarAndChrist]] (Will Durant)
+- [[CaesarAndChrist]] (Will Durant)
 
-- Losing Ourselves [[LosingOurselves]] (Jay Garfield)
+- [[LosingOurselves]] (Jay Garfield)
 
-- The Bitcoin Standard [[BitcoinStandard]] (Saifedean Ammous)
+- The [[BitcoinStandard]] (Saifedean Ammous)
 
-- Seeking Wisdom: From Darwin to Munger [[SeekingWisdom]] (Peter Bevelin)
+- [[SeekingWisdom]]: From Darwin to Munger (Peter Bevelin)
 
-- Wake Up Now [[WakeUpNow]] (Stephan Bodian)
+- [[WakeUpNow]] (Stephan Bodian)
 
-- The One Minute Manager [[OneMinuteManager]] (Ken Blanchard and Spencer Johnson)
+- The [[OneMinuteManager]] (Ken Blanchard and Spencer Johnson)
 
-- Time Management For Teachers  [[TimeManagementForTeachers]] (Cathy collins)
+-  [[TimeManagementForTeachers]] (Cathy collins)
 
-- The Physics of Wall Street  [[PhysicsOfWallStreet]] (James Weatherall)
+- The [[PhysicsOfWallStreet]] (James Weatherall)
 
-- Leadership Strategy and Tactics  [[LeadershipStrategyTactics]] (Jocko Willink)
+- [[LeadershipStrategyTactics]] (Jocko Willink)
 
-- The Life Of Greece [[LifeOfGreece]] (Will Durant)
+- The [[LifeOfGreece]] (Will Durant)
 
-- Shift Into Freedom [[ShiftIntoFreedom]] (Lock Kelly)
+- [[ShiftIntoFreedom]] (Lock Kelly)
 
-- Always with Honor [[AlwasyWithHonor]] (Pyotr Wrangel)
+- [[AlwasyWithHonor]] (Pyotr Wrangel)
 
-- Super Thinking [[SuperThinking]] (Weinberg and McCann)
+- [[SuperThinking]] (Weinberg and McCann)
 
-- The Ideas of Particle Physics [[IdeasOfParticlePhysics]] (Coughlan, Dodd, and Gripaios)
+- The [[IdeasOfParticlePhysics]] (Coughlan, Dodd, and Gripaios)
 
-- Death Be Not Proud [[DeathBeNotProud]] (John Gunther)
+- [[DeathBeNotProud]] (John Gunther)
 
-- The Intelligent Investor [[IntelligentInvestor]] (Ben Graham)
+- The [[IntelligentInvestor]] (Ben Graham)
 
-- First Principles [[FirstPrinciples]] (Thomas Ricks)
+- [[FirstPrinciples]] (Thomas Ricks)
 
-- Our Oriental Heritage [[OurOrientalHeritage]] (Will Durant)
+- [[OurOrientalHeritage]] (Will Durant)
 
-- The Family Firm [[FamilyFirm]] (Emily Oster)
+- The [[FamilyFirm]] (Emily Oster)
 
-- Six Thinking Hats [[SixThinkingHats]] (Edward De Bono)
+- [[SixThinkingHats]] (Edward De Bono)
 
-- The AWK Programming Language [[AWK]] (Aho, Kernighan, Weinberger)
+- The [[AWK]] Programming Language (Aho, Kernighan, Weinberger)
 
-- Call Sign Chaos [[CallSignChaos]] (Jim Mattis)
+- [[CallSignChaos]] (Jim Mattis)
 
 # 2021
 

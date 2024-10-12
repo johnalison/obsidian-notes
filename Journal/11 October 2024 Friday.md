@@ -85,7 +85,7 @@ Paid hand money from cap one
 	- First version working... 
 	- Need to fix **py python/skimmer/metadata/get_das_info.py -d python/skimmer/metadata/picoaod_datasets_data_2023_BPix.yml**
 	- ...Done.
-- [ ] Add README 
+- [x] Add README 
 
 
 # Social
@@ -93,3 +93,8 @@ Paid hand money from cap one
 Got kids.  Walked home.
 
 Check all 2023 skims... All good. 
+
+Late night hacking...
+- Added README, pushing. 
+- Setting up 2022 skims... relax pt cut
+- Skimming preEE on **cmslpc333**
