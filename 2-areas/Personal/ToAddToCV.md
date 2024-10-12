@@ -8,15 +8,15 @@
   
 # Papers:
 
-HIG-22-011 Accepted EPJC
+HIG-22-011 Published EPJC
 https://cms-results.web.cern.ch/cms-results/public-results/publications/HIG-22-011/
 
-HIG-22-006 Accepted to JHEP
+HIG-22-006 Published to JHEP
 https://cms-results.web.cern.ch/cms-results/public-results/publications/HIG-22-006
+https://link.springer.com/article/10.1007/JHEP10(2024)061
 
-OT Paper (Accepted to annals-of-applied-statistics)
+OT Paper Published (Accepted to annals-of-applied-statistics)
 https://arxiv.org/abs/2208.02807
-
 
 Construction and commissioning of CMS CE prototype silicon modules
 https://arxiv.org/abs/2012.06336
