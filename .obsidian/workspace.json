@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/July/12 July 24 Friday.md",
+                "file": "3-resources/computing/PSC Bridges.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,14 +49,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/11 October 2024 Friday.md",
+                "file": "3-resources/computing/Vera Cluster Setup.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9c7ced94c0d7f233",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3-resources/computing/GetSSHKey.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -75,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bridges",
+                "query": "ssh ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/July/12 July 24 Friday.md",
+                "file": "3-resources/computing/GetSSHKey.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/July/12 July 24 Friday.md",
+                "file": "3-resources/computing/GetSSHKey.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,11 +174,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/July/12 July 24 Friday.md"
+                "file": "3-resources/computing/GetSSHKey.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -184,14 +197,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cfae9dcf10b0930a",
+  "active": "9c7ced94c0d7f233",
   "lastOpenFiles": [
-    "Input/Papers/Bad Goodness of Fit Tips.md",
-    "Journal/July/12 July 24 Friday.md",
-    "3-resources/computing/PSC Bridges.md",
-    "3-resources/computing/PSC  for ML.md",
+    "0-inbox/Setting up Falcon.md",
+    "3-resources/computing/GetSSHKey.md",
     "Journal/12 October 2024 Saturday.md",
+    "3-resources/computing/Setup M3 Macbook.md",
+    "3-resources/computing/Vera Cluster Setup.md",
     "Journal/11 October 2024 Friday.md",
+    "3-resources/computing/PSC Bridges.md",
+    "Journal/July/12 July 24 Friday.md",
+    "Input/Papers/Bad Goodness of Fit Tips.md",
+    "3-resources/computing/PSC  for ML.md",
     "Journal/October 2024.md",
     "0-inbox/Classifier Studies.md",
     "3-resources/Obsidian/Obsidian-Intro.md",
@@ -209,10 +226,6 @@
     "Input/Books/Books.md",
     "Input/Books/#Books.md#",
     "Input/Books/BeyondGoodAndEvil.md",
-    "4-archive/HIG-22-011/HIG-22-011.md",
-    "Input/Learning List.md",
-    "3-resources/Obsidian/obsidian.md",
-    "3-resources/Obsidian/Obsidian Tricks.md",
     "0-inbox/#Run-3 4b skims.md#",
     "Journal/2023/#November 2023.md#",
     "Journal/#Fall 2024.md#",
