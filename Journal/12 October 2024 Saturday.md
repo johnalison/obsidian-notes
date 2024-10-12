@@ -17,3 +17,7 @@ VHH Published ! https://link.springer.com/article/10.1007/JHEP10(2024)061
 
 - [ ] Find Notes for PSC setup
 - [ ] [[Classifier Studies]]
+
+
+# Play date with Valerie
+- Nice chat with Brian
