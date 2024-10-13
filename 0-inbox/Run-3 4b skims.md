@@ -14,7 +14,8 @@
 	- [[Coffea post re lumi counting]]
 - [x] Add preselection
 - [x] Update Jet pt corrections
-- [ ]  Rucio requests to LPC ?
+- [x]  Rucio requests to LPC ?
+	- Looks like they are already there. 
 
 # v2 Thursday Oct 10th
 - EOS space: 
