@@ -1,3 +1,4 @@
+- [[How Adam Smith Can Change Your Life]] (Russ Roberts)
 
 - [[Self-Help is like a vaccine]] (Bryan Caplan)
 
@@ -324,11 +325,11 @@
 
 - How To Read and Why (Harold Bloom)
 
-- [[40WaysToViewChurchill]]
+- [[40WaysToViewChurchill]] (Gretchen Rubin)
 
-- [[BulletJournalMethod]]
+- [[BulletJournalMethod]] (Ryder Carroll)
 
-- [[FearlessSymmetry]]
+- [[FearlessSymmetry]] (Anver Ash)
 
 - [[PoorRichardsAlmanac]] (Ben Franklin)
 
@@ -338,7 +339,7 @@
 
 - [[TheArtWorldlyWisdom]] (Baltasar Gracian) 
 
-- [[CrimeAndPunishment]]
+- [[CrimeAndPunishment]] (Fyodor Dostoevsky)
 
 - [[HackingDarwin]] (Metzl) 
 
@@ -346,11 +347,11 @@
 
 - [[TenDiscoveriesRewroteHistory]] (Patrick Hunt)
 
-- [[Breath]]: the new science of a lost art
+- [[Breath]]: the new science of a lost art (James Nestor)
 
 - [[EveryLoveStoryIsGhostStory]]  (David Foster Wallace Bio)
 
-- [[FumbleRules]] (guide to grammar and usage)
+- [[FumbleRules]] :guide to grammar and usage (William Safire)
 
 - [[StoicTestChallenge]] (William Irvine)
 
@@ -362,7 +363,7 @@
 
 - The [[RoadToReality]] (Roger Penrose)
 
--  Discipline equals freedom
+-  Discipline equals freedom (Jocko Wilnick)
 
 -  The great influenza
 

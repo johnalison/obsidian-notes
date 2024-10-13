@@ -21,6 +21,11 @@ allowlist_sites:
     - T3_US_NotreDame
     - T2_US_Caltech
 ```
-...worked!
+...worked! skims all good.
 
 # CAPS Questionnaire 
+- Finished
+
+Writing up [[How Adam Smith Can Change Your Life]]
+
+[[The Art of Note Taking]]
