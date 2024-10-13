@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/12 October 2024 Saturday.md",
+                "file": "0-inbox/Rucio.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:books ",
+                "query": "rucio ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/12 October 2024 Saturday.md",
+                "file": "0-inbox/Rucio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/12 October 2024 Saturday.md",
+                "file": "0-inbox/Rucio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/12 October 2024 Saturday.md"
+                "file": "0-inbox/Rucio.md"
               }
             }
           }
@@ -199,8 +199,11 @@
   },
   "active": "dfd5cb8a17686ae5",
   "lastOpenFiles": [
-    "0-inbox/Neutrino Weighting.md",
+    "Journal/13 October 2024 Sunday.md",
+    "0-inbox/Rucio.md",
     "0-inbox/Run-3 4b skims.md",
+    "Journal/12 October 2024 Saturday.md",
+    "0-inbox/Neutrino Weighting.md",
     "Input/Books/Books.md",
     "Input/Books/40WaysToViewChurchill.md",
     "Input/Books/BeyondGoodAndEvil.md",
@@ -209,7 +212,6 @@
     "3-resources/computing/PSC Bridges.md",
     "0-inbox/Setting up Falcon.md",
     "3-resources/computing/GetSSHKey.md",
-    "Journal/12 October 2024 Saturday.md",
     "3-resources/computing/Setup M3 Macbook.md",
     "Journal/11 October 2024 Friday.md",
     "Journal/July/12 July 24 Friday.md",
@@ -223,8 +225,6 @@
     "Journal/8 October 2024 Tuesday.md",
     "Journal/7 October 2024 Monday.md",
     "Input/Lectures/Freedom and the Press before Freedom of the Press.md",
-    "2-areas/CMS/dasgoclient.md",
-    "0-inbox/ARC HIG-24-017 Boosted VqqHbb.md",
     "Input/Books/#Books.md#",
     "0-inbox/#Run-3 4b skims.md#",
     "Journal/2023/#November 2023.md#",
