@@ -21,8 +21,21 @@
 - EOS space: 
 - some errors:
 - "no missing file errors"
-- [ ] check lumis
-- [ ] commit
+- [x] check lumis
+- [x] commit
+
+- Trying skims with blocksite `blocklist_sites: 'T2_US_MIT'` in `/python/skimmer/metadata/HH4b.yml`... didnt help
+- Specified allowed sites"
+```yaml
+allowlist_sites:
+    - T3_US_FNALLPC
+    - T2_US_Nebraska
+    - T2_US_Purdue
+    - T3_US_NotreDame
+    - T2_US_Caltech
+```
+...worked!
+
 
 
 # v1 Tuesday Oct 8th
