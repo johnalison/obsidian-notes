@@ -52,5 +52,10 @@ M & T to school
 	` py metadata/merge_yaml_datasets.py -m metadata/datasets_HH4b_Run3.yml -o metadata/datasets_HH4b_Run3_merged.yml -f metadata/archive/skims_Run3_2024_v2/picoaod_datasets_data_202*`
 - Testing four-b skims.... Looks good
 - Running skims locally ...**49m55.899s**
+	- Fails b/c of jet calib file... need to only rename if file not found
 - Running skims condor...
 
+Start working through [[ToAddToCV]]
+
+# Hoops
+- 3s very good games ... played well!
