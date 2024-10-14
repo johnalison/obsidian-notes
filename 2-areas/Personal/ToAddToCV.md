@@ -8,19 +8,18 @@
 *  NeurIPS (ML4PS2024)
 # Papers:
 
+Not sure:
+- Focus topics for the ECFA study on Higgs / Top / EW factories https://arxiv.org/abs/2401.07564
 
 
+Not yet ready:
+- BTV-22-001: BTV Boosted performance nad calibration
+- TRG-19-001: Performance of the CMS High Level Trigger during LHC Run 2
 
-BTV-22-001: BTV Boosted performance nad calibration
-TRG-19-001: Performance of the CMS High Level Trigger during LHC Run 2
 PRF-21-001: 
 https://cds.cern.ch/record/2851412/files/PRF-21-001-paper-v3.pdf
 
-Focus topics for the ECFA study on Higgs / Top / EW factories
-https://arxiv.org/abs/2401.07564
 
-Toward Model-Agnostic Detection of New Physics Using Data-Driven Signal Regions
-https://arxiv.org/abs/2409.06960
 
 From ARCs
   HNL
