@@ -19,6 +19,7 @@
 # November
 - [ ] 5th No classes
 - [ ] 6th Osher Class starts
+- [ ] 10-11th Lab tours
 
 
 # December

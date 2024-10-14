@@ -1,5 +1,5 @@
 https://twiki.cern.ch/twiki/bin/view/CMS/RucioBeginnersGuide
-
+https://twiki.cern.ch/twiki/bin/viewauth/CMS/Rucio
 # Intro To Rucio
 https://twiki.cern.ch/twiki/bin/view/CMS/IntroToRucio
 

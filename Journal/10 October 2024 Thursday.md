@@ -71,14 +71,13 @@ Signed the mortgage forms
 - implementing algebra with Anikets test vectors
 - All solutions imaginary! 
 
-# HGC
-"My concern is the cost of transfer tape for all of production which is about 5000 modules of $15 or so which gives $75K" Lower with 9k pieces 8.75/item = $78k
+ HGC Transfer Tape Cost: "My concern is the cost of transfer tape for all of production which is about 5000 modules of $15 or so which gives $75K" Lower with 9k pieces 8.75/item = $78k
 
 
 # bbWW Meeting
 - not much 
 
-# Aniket office
+Getting Aniket office at CERN
 - OpenStack (virtual machine at CERN) to run B-jet DQM GUI
 - Access open stack requires (?)  onsite access 
 

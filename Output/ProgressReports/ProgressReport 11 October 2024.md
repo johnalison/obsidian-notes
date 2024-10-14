@@ -3,8 +3,7 @@
 
 The big thing on my mind has been the house. Looks like this is going to happen. Will stress the finances in the near term, but probably the right move. Should allow us to start earning revenue on 720.  Not drinking has not been a factor.  Was solo dad for a week, tiring but manageable.
 
-Started systematics progress with Chris and Jake. 
-Not much progress on the stats work, nice presentation by Souhen at STAMPS paper accepted for conference (?)
+Started systematics project with Chris and Jake.  Not much progress on the stats work, nice presentation by Souhen at STAMPS and paper accepted for conference NeurIPS (ML4PS2024)
 # 4b
 Finished synthetic datasets for now. A more detailed debugging uncovered some bugs that have been fixed, but dont really change the big picture. I tried hT reweighting, but again didnt affect the big picture much.  On this front the next step is to get it running in Run3.
 

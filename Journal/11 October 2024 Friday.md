@@ -29,17 +29,17 @@
 
 
 # To Do
-- [ ] Update website
+- [>>] Update website
 - [x] Get falcon account 
-- [ ] [[Run-3 4b skims]]
-- [ ] Watch Pre-Approval VqqHbb
-- [ ] CAM Training
-- [ ] Read HGC TDR
-- [<<] Remake plotting to be more flexible re:hist structure ? 
-- [ ]  CAP/LTS online questionnaire and tasks
+- [>>] [[Run-3 4b skims]]
+- [>>] Watch Pre-Approval VqqHbb
+- [>>] CAM Training
+- [>>] Read HGC TDR
+- [x]  CAP/LTS online questionnaire and tasks
+	- Os Sunday
 - [x] Aniket CERN office
-- [ ] CV for rachel
-- [ ] Collect and Send Teachers program info
+- [>>] CV for rachel
+- [>>] Collect and Send Teachers program info
 
 
 # Log
@@ -50,8 +50,6 @@ M & T to school
 
 How to embed youtube videos:
 - [[Images in Obsidian]]
-
-Start setting up dat...
 
 # [[Systematics Chat with Palmer 11 Oct 2024]]
 

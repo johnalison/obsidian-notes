@@ -1,12 +1,12 @@
 
 # Favorites
 
-| Colorname            | HEX    | RGB         | Example                           | Text                           |
-| -------------------- | ------ | ----------- | --------------------------------- |	--------------------------------- |
-| Crimson              | DC143C | 220,20,60   | <font color=DC143C>Example</font> |	`<font color=DC143C>Example</font>` |
-| DeepSkyBlue          | 00BFFF | 0,191,255   | <font color=00BFFF>Example</font> |	`<font color=00BFFF>Example</font>` |
-| Green                | 008000 | 0,128,0     | <font color=008000>Example</font> |	`<font color=008000>Example</font>` |
-| DarkOrange           | FF8C00 | 255,140,0   | <font color=FF8C00>Example</font> |	`<font color=FF8C00>Example</font>` |
+| Colorname   | HEX    | RGB       | Example                           | Text                                |
+| ----------- | ------ | --------- | --------------------------------- | ----------------------------------- |
+| Crimson     | DC143C | 220,20,60 | <font color=DC143C>Example</font> | `<font color=DC143C>Example</font>` |
+| DeepSkyBlue | 00BFFF | 0,191,255 | <font color=00BFFF>Example</font> | `<font color=00BFFF>Example</font>` |
+| Green       | 008000 | 0,128,0   | <font color=008000>Example</font> | `<font color=008000>Example</font>` |
+| DarkOrange  | FF8C00 | 255,140,0 | <font color=FF8C00>Example</font> | `<font color=FF8C00>Example</font>` |
 
 # All 
 
