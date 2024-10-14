@@ -67,5 +67,8 @@ Fixing error of files being renames
 
 # [[Classifier Studies]]
 - More [[Setting up Falcon]]
-- test job very slow on rogue01...  when doing all offsets together... MUCH faster with one offset ?
+- test job ... very slow on rogue01...  when doing all offsets together... 
+- Try one offset at a time ... MUCH faster (?)
+
+
 

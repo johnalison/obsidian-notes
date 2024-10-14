@@ -1,9 +1,9 @@
 
 # Talks
-- Status of the LHC experimental program, Lake Louise Winter Institute 18–24 Feb 2024**
-- Colloq in University of Cinncinati**
-- Stamps Talk 
--  DPF Talk
+
+
+
+
 [Synthetic Datasets for HH->4b Background Modeling ", parallel at DPF-PHENO 2024, 13-17 May 2024, University of Pittsburgh and Carnegie Mellon University (United States) (0)](https://cms-mgt-conferences.web.cern.ch/conferences/pres_display.aspx?cid=3680&pid=28562)
 # Papers:
 
