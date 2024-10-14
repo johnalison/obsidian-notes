@@ -45,3 +45,12 @@
 Up at 7
 
 M & T to school
+
+# [[Run-3 4b skims]]
+- saved yaml in archive
+- made merged data set:
+	` py metadata/merge_yaml_datasets.py -m metadata/datasets_HH4b_Run3.yml -o metadata/datasets_HH4b_Run3_merged.yml -f metadata/archive/skims_Run3_2024_v2/picoaod_datasets_data_202*`
+- Testing four-b skims.... Looks good
+- Running skims locally ...
+- Running skims condor...
+
