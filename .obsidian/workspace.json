@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/14 October 2024 Monday.md",
+                "file": "2-areas/Personal/ToAddToCV.md",
                 "mode": "source",
                 "source": false
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/14 October 2024 Monday.md",
+                "file": "2-areas/Personal/ToAddToCV.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/14 October 2024 Monday.md",
+                "file": "2-areas/Personal/ToAddToCV.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/14 October 2024 Monday.md"
+                "file": "2-areas/Personal/ToAddToCV.md"
               }
             }
           }
@@ -212,8 +212,8 @@
   },
   "active": "2dd0cc6b3ff22e69",
   "lastOpenFiles": [
-    "0-inbox/Setting up Falcon.md",
     "Journal/14 October 2024 Monday.md",
+    "0-inbox/Setting up Falcon.md",
     "1-projects/HH4b/Classifier Studies.md",
     "0-inbox/Low mass di-electrons.md",
     "2-areas/Personal/ToAddToCV.md",
