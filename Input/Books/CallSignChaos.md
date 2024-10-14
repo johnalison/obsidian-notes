@@ -12,13 +12,13 @@
 
 - Marines assign an expanded reading lit to everyone promoted to a new rank.
 
-- Competence is Key:  Be brilliant in the basics. Dont dabble in your job; you must mater it. [[Reliability]]
+- Competence is Key:  Be brilliant in the basics. Dont dabble in your job; you must mater it. [[Input/Reliability]]
 
 - Analyze yourself. Identify weaknesses and improve yourself. [[PerfectionNotRequired]]
 
 - "Nobody caress how much you know, until they know how much you care" - Teddy Roosevelt [[Quotes]] [[BeTheGood - Intelligent ACTION is power]]
 
-- Conviction: Your peers are the first to know what you will stand for and what you wont stand for. [[Reliability]]
+- Conviction: Your peers are the first to know what you will stand for and what you wont stand for. [[Input/Reliability]]
 
 - If you as the commander define the mission as your responsibility, you have already failed. It was our mission, never my mission. [[Leadership]]
 

@@ -55,7 +55,7 @@
 
 - IF there is any one secret to success it lies in the ability to get the other persons point of view and see things from that person's angle as well as from your own. [[MentalModels]] [[Rationality]]
 
-- The world is full of people who are grabbing and self seeking. So the rare individual who unselfishly tries to serve others has an enormous advantage. He has little competition. [[Reliability]]
+- The world is full of people who are grabbing and self seeking. So the rare individual who unselfishly tries to serve others has an enormous advantage. He has little competition. [[Input/Reliability]]
 
 - Most people go through college without discovering how their own minds function. [[MentalModels]]
 

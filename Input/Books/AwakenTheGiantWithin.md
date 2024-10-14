@@ -56,9 +56,9 @@
 
 - Only way for long-term happiness is to live by our highest ideals. [[Happiness]]
 
-- Any difficulty in decision making ultimately comes from being unclear in our values. [[SystemsNotGoals]] [[Reliability]]
+- Any difficulty in decision making ultimately comes from being unclear in our values. [[SystemsNotGoals]] [[Input/Reliability]]
 
-- Be more concerned about your character than your reputation. Character is what you really are, reputation is what others think you are [[Reliability]]
+- Be more concerned about your character than your reputation. Character is what you really are, reputation is what others think you are [[Input/Reliability]]
 
 - Only way to master your time is to organize your schedule each day to spend the majority of it doing things that are important. [[SystemsNotGoals]] 
 

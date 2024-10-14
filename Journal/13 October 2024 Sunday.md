@@ -29,3 +29,10 @@ allowlist_sites:
 Writing up [[How Adam Smith Can Change Your Life]]
 
 [[The Art of Note Taking]]
+
+# Kettlebells 
+- core / halos / 20 EMOM 
+
+Cleaned the deck ... Grilled burgers
+
+

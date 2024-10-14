@@ -5,8 +5,8 @@ Its much better to cultivate the ability to 1) learn to be reliable 2) deliver w
 Also known as the "Machine Learning Fallacy"
 
 ## Links: 
-
-[[Reliability]]
+[[You have nothing without Reliability]]
+[[Input/Reliability]]
 [[Advice]]
 [[CalNewport]]
 

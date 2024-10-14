@@ -64,7 +64,7 @@ n- The process principle: introducing smart production processes to knowledge wo
 
 - The specialization principle: In the knowledge sector, working on fewer things, but doing teach thing with more equality and accountability, can be the foundation for significantly more productivity.
 
-- There are few things more valuable than someone who consistently produces valuable output, and few approaches to work more satisfying than being given the room to focus on things that really matter. [[Reliability]]
+- There are few things more valuable than someone who consistently produces valuable output, and few approaches to work more satisfying than being given the room to focus on things that really matter. [[Input/Reliability]]
 
 - Technological change is not additive; it is ecological.  A new medium does not add something; it changes everything. In the year 1500, after the printing press was invented, you did not have old Europe plus the printing press. You had a different Europe. [[History]] 
 

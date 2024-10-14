@@ -4,6 +4,7 @@
 	- [[Key-Virtues-Honesty-and-Integrity]]
 	- [[Compounding-returns]]
 	- [[Path-to-dependability]]
+	- [[You have nothing without Reliability]]
 
 [[Learn-from-others-mistakes]]
 
@@ -36,6 +37,7 @@ effective self-improvement critical
 
 # Don't Lie
  Evil only possible through lies
+ [[Not lying the foundation of morality]]
 
 # [[BeTheGood - Intelligent ACTION is power]]
 

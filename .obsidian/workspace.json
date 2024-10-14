@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "dfd5cb8a17686ae5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Input/Papers/Understanding the Limitations of Mathematical Reasoning in Large Language Models.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "cfae9dcf10b0930a",
             "type": "leaf",
             "state": {
@@ -66,9 +54,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "dfd5cb8a17686ae5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00-Zettelkasten/Wisdom-index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c36767059d1e6e51",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Journal/13 October 2024 Sunday.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2dd0cc6b3ff22e69",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00-Zettelkasten/How to be Reliable.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -87,7 +111,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:books ",
+                "query": "#consume",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -135,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Input/Papers/Understanding the Limitations of Mathematical Reasoning in Large Language Models.md",
+                "file": "Journal/13 October 2024 Sunday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Input/Papers/Understanding the Limitations of Mathematical Reasoning in Large Language Models.md",
+                "file": "Journal/13 October 2024 Sunday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,12 +199,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Input/Papers/Understanding the Limitations of Mathematical Reasoning in Large Language Models.md"
+                "file": "Journal/13 October 2024 Sunday.md"
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -198,35 +222,35 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "dfd5cb8a17686ae5",
+  "active": "c36767059d1e6e51",
   "lastOpenFiles": [
+    "00-Zettelkasten/How to be Reliable.md",
+    "0-inbox/Low mass di-electrons.md",
+    "Input/Papers/papers.md",
+    "0-inbox/Always Give It Straight.md",
+    "Input/Books/Going big.md",
+    "Input/DontLie.md",
+    "Input/Books/How Adam Smith Can Change Your Life.md",
+    "0-inbox/You have nothing without Reliability.md",
+    "00-Zettelkasten/Wisdom-index.md",
+    "00-Zettelkasten/Reliability-beats-Fancy-Skills.md",
+    "00-Zettelkasten/Not lying the foundation of morality.md",
+    "00-Zettelkasten/ZettelKasten Index.md",
+    "2-areas/CMS/Rucio.md",
+    "0-inbox/Setting up Falcon.md",
+    "0-inbox/Numba.md",
+    "0-inbox/Nexus.md",
+    "0-inbox/MPL Chaos Experiment.md",
+    "0-inbox/High-School Physics Teachers Program.md",
+    "0-inbox/ARC HIG-24-017 Boosted VqqHbb.md",
+    "0-inbox/AnalysesOverview.excalidraw.md",
+    "Input/Papers/Understanding the Limitations of Mathematical Reasoning in Large Language Models.md",
     "0-inbox/The economic way of thinking in a pandemic.md",
     "Input/Meetings/Systematics Chat with Palmer 11 Oct 2024.md",
     "Input/Meetings/StatsChat-9-October-2024.md",
-    "0-inbox/Setting up Falcon.md",
     "1-projects/HH4b/Run-3 4b skims.md",
     "Output/ProgressReports/ProgressReport 11 October 2024.md",
-    "0-inbox/Numba.md",
-    "1-projects/bbWW/Neutrino Weighting.md",
-    "0-inbox/Nexus.md",
-    "0-inbox/MPL Chaos Experiment.md",
-    "0-inbox/Low mass di-electrons.md",
-    "Input/Books/How Adam Smith Can Change Your Life.md",
-    "Input/Meetings/HGCManagementMeeting 8 October 2024.md",
-    "1-projects/HH4b/Classifier Studies.md",
-    "0-inbox/ARC HIG-24-017 Boosted VqqHbb.md",
-    "0-inbox/5391 Financing.md",
-    "Input/Videos/The Art of Note Taking.md",
-    "Journal/13 October 2024 Sunday.md",
-    "Journal/12 October 2024 Saturday.md",
-    "Input/Books/Books.md",
     "0-inbox/#How Adam Smith Can Change Your Life.md#",
-    "0-inbox/Rucio.md",
-    "Input/Books/40WaysToViewChurchill.md",
-    "Input/Books/BeyondGoodAndEvil.md",
-    "Input/Books/MindfullnessBook.md",
-    "3-resources/computing/Vera Cluster Setup.md",
-    "3-resources/computing/PSC Bridges.md",
     "Input/Books/#Books.md#",
     "0-inbox/#Run-3 4b skims.md#",
     "Journal/2023/#November 2023.md#",
