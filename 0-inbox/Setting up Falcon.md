@@ -28,8 +28,10 @@ Where `vera_environment.yml` is from the bridges2 setup
 Then conda 
 
 ## Copied the picos over from PSCBridges2
+- copied them to falcon /scratch
+- Not copying them to rogue01 scratch
 
-
+Trying test job... 
 
 # New Classifier Training setup should be coffea
 

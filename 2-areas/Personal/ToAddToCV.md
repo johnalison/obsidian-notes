@@ -16,12 +16,8 @@ Not yet ready:
 - BTV-22-001: BTV Boosted performance nad calibration
 - TRG-19-001: Performance of the CMS High Level Trigger during LHC Run 2
 
-PRF-21-001: 
-https://cds.cern.ch/record/2851412/files/PRF-21-001-paper-v3.pdf
 
-
-
-From ARCs
+From ARCs:
   HNL
 # Grad Students:
 
@@ -40,6 +36,10 @@ Sindhu Murthy:   HGC
 
 Aniket: bbWW
 		BTaggin
+
+HGC Techs/Engineers
+- Jonas 
+- Eva 
 
 # Work:
 
