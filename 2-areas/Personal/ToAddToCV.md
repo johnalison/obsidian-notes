@@ -5,21 +5,11 @@
 - Stamps Talk 
 -  DPF Talk
 
-* *   NeurIPS (ML4PS2024)
+*  NeurIPS (ML4PS2024)
 # Papers:
 
-HIG-22-011 Published EPJC
-https://cms-results.web.cern.ch/cms-results/public-results/publications/HIG-22-011/
 
-HIG-22-006 Published to JHEP
-https://cms-results.web.cern.ch/cms-results/public-results/publications/HIG-22-006
-https://link.springer.com/article/10.1007/JHEP10(2024)061
 
-OT Paper Published (Accepted to annals-of-applied-statistics)
-https://arxiv.org/abs/2208.02807
-
-Construction and commissioning of CMS CE prototype silicon modules
-https://arxiv.org/abs/2012.06336
 
 BTV-22-001: BTV Boosted performance nad calibration
 TRG-19-001: Performance of the CMS High Level Trigger during LHC Run 2
@@ -81,8 +71,7 @@ Member of local organizing committee for 2023 US CMS annual meeting, hosted at C
 - PGSS relativity course
 - Oshcher Higgs course
 - Teachers program
-- 
-- 
+
 
 
   
