@@ -52,8 +52,12 @@ M & T to school
 	` py metadata/merge_yaml_datasets.py -m metadata/datasets_HH4b_Run3.yml -o metadata/datasets_HH4b_Run3_merged.yml -f metadata/archive/skims_Run3_2024_v2/picoaod_datasets_data_202*`
 - Testing four-b skims.... Looks good
 - Running skims locally ...**49m55.899s** again on **cmslpc319**... **46m49.839s**
-	- Fails b/c of jet calib file... need to only rename if file not found
-- Running skims condor...
+	- Fails b/c of jet calib file... need to only rename if file not found.. 
+		fixed by only untarring when needed.
+	- 45,881 events/s total (127711027/2783.5447924137115)
+- Running skims condor...... **39m9.456s**
+	- 132,884 events/s total (127711027/961.0680384635925)   
+- Problem with the condor 4b skim... use the local v1 one.
 
 Start working through [[ToAddToCV]]
 
@@ -70,5 +74,9 @@ Fixing error of files being renames
 - test job ... very slow on rogue01...  when doing all offsets together... 
 - Try one offset at a time ... MUCH faster (?)
 
+Home 
 
+# H to basketball
+- Reading [[Selfish reasons to having more kids]]
+- Jump stop + 1 step
 
