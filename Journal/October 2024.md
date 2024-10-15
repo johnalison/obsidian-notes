@@ -13,7 +13,7 @@
 | 11 F | Progress Report / Chat AE / Warren Colloq / Lumi Checking / Social                         | 8/5/4 |
 | 12 S | [[Run-3 4b skims]] / Reading / Valerie Playdate / [[Setting up Falcon]] / Parents          |       |
 | 13 S | **S BDay** [[Rucio]] / [[Run-3 4b skims]] / CAPs questions / **kettle bells** / clean deck |       |
-| 14 M |                                                                                            |       |
+| 14 M | Skimming Skims / CV / **Hoops** / Classifier on falcon / H Basketball                      | 7/4/3 |
 | 15 T |                                                                                            |       |
 | 16 W | (CAPs visit) (Inspection)                                                                  |       |
 | 17 H | (TMan Show)                                                                                |       |

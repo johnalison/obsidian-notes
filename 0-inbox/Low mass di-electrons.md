@@ -16,6 +16,10 @@ https://indico.cern.ch/event/1352436/contributions/5795497/attachments/2798046/4
 - 2HDM+S disfavored 
 - mono-ZD same signature as SOS ? 
 
+# Why LHC ? and Why electrons ? 
+
+
+
 ## Follow-ups
 
 

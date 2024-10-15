@@ -9,6 +9,8 @@ Getting the new mixing going
 
 # To Do
 - [ ] Run-3
+	- [ ] Templates by year
+	- [ ] qq
 - [ ] Boosted
 - [ ] Check re-clustering
 	- [ ] Check bj-bj to make sure they can be recovered

@@ -19,9 +19,9 @@
 | 4   | ~~Update website~~         | CV                     |
 |     | closeout                   |                        |
 
-**W:**
-**DW:**
-**OT:**
+**W:** 7 
+**DW:** 4
+**OT:** 3
 **ex** 
 
 # The ONE thing: 
@@ -29,15 +29,17 @@
 
 
 # To Do
-- [ ] Update website
-- [ ] [[Run-3 4b skims]]
-- [ ] Watch Pre-Approval VqqHbb
-- [ ] CAM Training
-- [ ] Read HGC TDR
-- [ ] CV for rachel
-- [ ] Collect and Send Teachers program info
-- [ ] [[Classifier Studies]]
-- [ ] Act 153 clearances
+- [>>] Update website
+- [>>]  [[Run-3 4b skims]]
+- [<<] Watch Pre-Approval VqqHbb
+- [<<] CAM Training
+- [<<] Read HGC TDR
+- [>>] CV for rachel
+- [<<] Collect and Send Teachers program info
+- [>>]  [[Classifier Studies]]
+- [>>] Act 153 clearances
+
+
 
 
 # Log

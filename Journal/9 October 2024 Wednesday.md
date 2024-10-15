@@ -46,7 +46,7 @@ H & M & T to school
 
 # Mails
 
-[[Low mass di-electrons]]
+Thinking about [[Low mass di-electrons]]
 
 # Chat AE
 - Discussion re:validating the skims see [[Run-3 4b skims]]
@@ -77,7 +77,7 @@ Did mail.
 # T3 Meeting
 - Falcon exists
 	```ping falcon.phys.cmu.edu```
-- Get an account here: https://account.mcs.cmu.edu/andrew/ (apparently its broken)
+- Get an account here: https://account.mcs.cmu.edu/andrew/ 
 - Waiting on Nuno for mail
 
 Got kids... Home by 6.. Pizza from schullis
