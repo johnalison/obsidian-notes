@@ -31,7 +31,7 @@ Then conda
 - copied them to falcon /scratch
 - Not copying them to rogue01 scratch
 
-Trying test job... 
+Trying test job...
 
 # New Classifier Training setup should be coffea
 

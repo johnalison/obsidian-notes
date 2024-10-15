@@ -56,18 +56,6 @@
             }
           },
           {
-            "id": "3d51fa8cd2238676",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Journal/15 October 2024 Tuesday.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "99a5a355aa50343d",
             "type": "leaf",
             "state": {
@@ -78,9 +66,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1c103a2097b6997d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Journal/15 October 2024 Tuesday.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -99,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:toadd",
+                "query": "unfoldin",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -126,8 +126,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -210,13 +209,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3d51fa8cd2238676",
+  "active": "1c103a2097b6997d",
   "lastOpenFiles": [
+    "0-inbox/CV.md",
+    "Journal/15 October 2024 Tuesday.md",
+    "0-inbox/Setting up Falcon.md",
+    "00-Zettelkasten/Detector Unfolding Problem.md",
     "0-inbox/CMU HGC Mac Meeting 15 October 2024.md",
     "Input/Meetings/CMU HGC Mac Meeting 8 October 2024.md",
-    "Journal/15 October 2024 Tuesday.md",
     "1-projects/Mixed2.0/Jet DeClustering.md",
-    "0-inbox/Setting up Falcon.md",
     "Journal/14 October 2024 Monday.md",
     "0-inbox/ToDo.md",
     "Journal/October 2024.md",
@@ -236,8 +237,6 @@
     "1-projects/HH4b/Classifier Studies.md",
     "1-projects/HH4b/Run-3 4b skims.md",
     "3-resources/Obsidian/Font Colors in Markdown.md",
-    "2-areas/CMS/Rucio.md",
-    "00-Zettelkasten/Wisdom-index.md",
     "0-inbox/#How Adam Smith Can Change Your Life.md#",
     "Input/Books/#Books.md#",
     "0-inbox/#Run-3 4b skims.md#",

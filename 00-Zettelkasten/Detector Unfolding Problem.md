@@ -6,6 +6,9 @@ The problem with unfolding is that the detector smearing can in general cause tw
 
 ## Follow-ups
 
+https://www.sciencedirect.com/science/article/pii/0168900295014780
+
+https://indico.cern.ch/event/1357972/contributions/5866596/attachments/2873882/5032439/Kuusela_PhyStat_unfolding.pdf
 
 ## Links: 
 [[1DUnfoldingCartoon.excalidraw]]

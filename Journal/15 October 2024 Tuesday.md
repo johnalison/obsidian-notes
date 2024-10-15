@@ -1,23 +1,23 @@
 # Timeblock
 
-|     | wkids                  |     |
-| --- | ---------------------- | --- |
-| 9   | wkids                  |     |
-|     | w/kids                 |     |
-| 10  | Wes                    |     |
-|     | setup                  |     |
-| 11  | [[Run-3 4b skims]]     |     |
-|     | [[Run-3 4b skims]]     |     |
-| 12  | HGC                    |     |
-|     | HGC                    |     |
-| 1   | Gym/SR                 |     |
-|     | Gym/SR                 |     |
-| 2   | Gym/SR                 |     |
-|     | [[Classifier Studies]] |     |
-| 3   | Mans                   |     |
-|     | Mans                   |     |
-| 4   | Mans                   |     |
-|     | [[CV]]                 |     |
+|     | wkids                      |     |
+| --- | -------------------------- | --- |
+| 9   | wkids                      |     |
+|     | w/kids                     |     |
+| 10  | Wes                        |     |
+|     | setup                      |     |
+| 11  | [[Run-3 4b skims]]         |     |
+|     | [[Run-3 4b skims]]         |     |
+| 12  | HGC                        |     |
+|     | HGC                        |     |
+| 1   | Gym/SR                     |     |
+|     | Gym/SR                     |     |
+| 2   | Gym/SR                     |     |
+|     | ~~[[Classifier Studies]]~~ | CV  |
+| 3   | Mans                       |     |
+|     | Mans                       |     |
+| 4   | Mans                       |     |
+|     | [[ToAddToCV]]              |     |
 
 **W:**
 **DW:**
@@ -36,6 +36,7 @@
 - [ ] Act 153 clearances
 - [ ] [[Classifier Studies]]
 - [ ] VAR Due 16th
+- [ ] LAB Techs
 
 
 # Log
@@ -61,12 +62,18 @@ To Campus
 - Making YAML for the four_tag dataset
 - Fixes for Run3 clustering test jobs
 - Starting Run3 [[Jet DeClustering]]
-- 
+- Failed b/c tag ... also probably ran out of memory
+
 
 Setup...[[ToDo]]
 
 
 [[CMU HGC Mac Meeting 15 October 2024]]
+
+# Gym/SR
+- Fitness center closed... to Teper
+- Core / leg press / pull ups / dumbbell press
+- 10' at Tmax = 123
 
 
 ---
