@@ -18,7 +18,7 @@ Chuyuan Liu: Tracking Validator
 
 
 Wesley Terrill:  SOS
-       		 Btaggign
+       		 Btagging
 			 HGC
 
 Sindhu Murthy:   HGC
@@ -30,9 +30,6 @@ Aniket: bbWW
 
 Souhen Yi
 
-HGC Techs/Engineers
-- Jonas 
-- Eva 
 
 # Work:
 
@@ -42,8 +39,7 @@ ZZ/ZH -> 4b analysis out
 
 
 # Thesis committies:
-  - Vlads student
-  - Battels student
+  
 
 
 # Outreach:

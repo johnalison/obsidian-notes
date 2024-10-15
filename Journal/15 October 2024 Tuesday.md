@@ -32,11 +32,12 @@
 - [x] Ping CL re:Annual Review
 - [x] Ping SM re:Annual Review
 - [ ] [[Run-3 4b skims]]
-- [ ] CV / Update website
+- [ ] update CV 
 - [ ] Act 153 clearances
 - [ ] [[Classifier Studies]]
 - [ ] VAR Due 16th
 - [ ] LAB Techs
+- [ ] Update website
 
 
 # Log
@@ -63,7 +64,8 @@ To Campus
 - Fixes for Run3 clustering test jobs
 - Starting Run3 [[Jet DeClustering]]
 - Failed b/c tag ... also probably ran out of memory
-
+- Fixed tag... Now trying with 1_000 chunksize ... works 
+- Running all 
 
 Setup...[[ToDo]]
 
@@ -79,6 +81,5 @@ More CV [[ToAddToCV]]
 
 [[HGCManagementMeeting 15 October 2024]]
 
----
-# Mans meeting:
-[[HGC Open Items]]
+Finishing CV
+

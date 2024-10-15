@@ -1,5 +1,7 @@
 
+ECON-D has a problem in the SRAM (Static Random-Access Memory)
 
+ECON-T doesnt have any SRAMs 
 
 ## Follow-ups
 
