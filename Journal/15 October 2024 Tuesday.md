@@ -77,6 +77,8 @@ Setup...[[ToDo]]
 
 More CV [[ToAddToCV]]
 
+[[HGCManagementMeeting 15 October 2024]]
+
 ---
 # Mans meeting:
 [[HGC Open Items]]
