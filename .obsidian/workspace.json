@@ -61,7 +61,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-projects/Mixed2.0/Jet DeClustering.md",
+                "file": "Journal/15 October 2024 Tuesday.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "99a5a355aa50343d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Input/Meetings/CMU HGC Mac Meeting 8 October 2024.md",
                 "mode": "source",
                 "source": false
               }
@@ -135,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-projects/Mixed2.0/Jet DeClustering.md",
+                "file": "Journal/15 October 2024 Tuesday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-projects/Mixed2.0/Jet DeClustering.md",
+                "file": "Journal/15 October 2024 Tuesday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-projects/Mixed2.0/Jet DeClustering.md"
+                "file": "Journal/15 October 2024 Tuesday.md"
               }
             }
           }
@@ -200,7 +212,10 @@
   },
   "active": "3d51fa8cd2238676",
   "lastOpenFiles": [
+    "0-inbox/CMU HGC Mac Meeting 15 October 2024.md",
+    "Input/Meetings/CMU HGC Mac Meeting 8 October 2024.md",
     "Journal/15 October 2024 Tuesday.md",
+    "1-projects/Mixed2.0/Jet DeClustering.md",
     "0-inbox/Setting up Falcon.md",
     "Journal/14 October 2024 Monday.md",
     "0-inbox/ToDo.md",
@@ -223,9 +238,6 @@
     "3-resources/Obsidian/Font Colors in Markdown.md",
     "2-areas/CMS/Rucio.md",
     "00-Zettelkasten/Wisdom-index.md",
-    "Output/ProgressReports/ProgressReport 11 October 2024.md",
-    "00-Zettelkasten/How to be Reliable.md",
-    "Journal/2023/December 2023.md",
     "0-inbox/#How Adam Smith Can Change Your Life.md#",
     "Input/Books/#Books.md#",
     "0-inbox/#Run-3 4b skims.md#",

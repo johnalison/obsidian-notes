@@ -9,8 +9,10 @@ Getting the new mixing going
 
 # To Do
 - [ ] Run-3
+	- [ ] Clustering Test job Running 
 	- [ ] Templates by year
-	- [ ] qq
+	- [ ] Synthetirc data Test job running
+	- [ ] Plots
 - [ ] Boosted
 - [ ] Check re-clustering
 	- [ ] Check bj-bj to make sure they can be recovered

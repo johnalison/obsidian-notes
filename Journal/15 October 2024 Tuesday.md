@@ -59,12 +59,14 @@ To Campus
 # [[Run-3 4b skims]]
 - Trying condor 4b skims again on **cmslpc339**... see errors again.... **24m2.427s**
 - Making YAML for the four_tag dataset
-- Make Run3 splitting templates 
-- [[Jet DeClustering]]
+- Fixes for Run3 clustering test jobs
+- Starting Run3 [[Jet DeClustering]]
 - 
 
 Setup...[[ToDo]]
 
+
+[[CMU HGC Mac Meeting 15 October 2024]]
 
 
 ---
