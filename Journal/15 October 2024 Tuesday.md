@@ -75,6 +75,7 @@ Setup...[[ToDo]]
 - Core / leg press / pull ups / dumbbell press
 - 10' at Tmax = 123
 
+More CV [[ToAddToCV]]
 
 ---
 # Mans meeting:

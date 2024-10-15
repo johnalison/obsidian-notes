@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/15 October 2024 Tuesday.md",
+                "file": "2-areas/Personal/ToAddToCV.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/15 October 2024 Tuesday.md",
+                "file": "2-areas/Personal/ToAddToCV.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/15 October 2024 Tuesday.md",
+                "file": "2-areas/Personal/ToAddToCV.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/15 October 2024 Tuesday.md"
+                "file": "2-areas/Personal/ToAddToCV.md"
               }
             }
           }
@@ -211,8 +211,8 @@
   },
   "active": "1c103a2097b6997d",
   "lastOpenFiles": [
-    "0-inbox/CV.md",
     "Journal/15 October 2024 Tuesday.md",
+    "0-inbox/CV.md",
     "0-inbox/Setting up Falcon.md",
     "00-Zettelkasten/Detector Unfolding Problem.md",
     "0-inbox/CMU HGC Mac Meeting 15 October 2024.md",

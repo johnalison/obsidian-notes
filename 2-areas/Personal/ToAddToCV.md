@@ -40,12 +40,6 @@ SOS
 VHH -> 4b (analysis out / paper pending)
 ZZ/ZH -> 4b analysis out
 
-# ARCs:
-  bbWW
-  HNL
-
-
-
 
 # Thesis committies:
   - Vlads student
@@ -54,15 +48,8 @@ ZZ/ZH -> 4b analysis out
 
 # Outreach:
 
-- Pine richaland physics cirriculluym advising
-- PGSS relativity course
-- Oshcher Higgs course
-- Teachers program
-
-
-
   
-# Letter Writters
+# Letter Writers
 - Heather gray
 - Elliot Lipeles 
 - Joe / Mel / YKK
