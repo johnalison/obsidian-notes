@@ -85,4 +85,4 @@ Finishing CV
 
 Doing Act153 forms: 
 - Your application **(e-Clearance ID: 000009634401)** has been successfully submitted!
-- Still need to do the FBI clearances
+- FBI clearances done will do fingerprints 10/24 2:30

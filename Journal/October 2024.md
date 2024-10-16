@@ -23,7 +23,7 @@
 | 21 M | (Santa Barbara Visit)                                                                      |       |
 | 22 T |                                                                                            |       |
 | 23 W |                                                                                            |       |
-| 24 H |                                                                                            |       |
+| 24 H | (Fingerprints)                                                                             |       |
 | 25 F |                                                                                            |       |
 | 26 S |                                                                                            |       |
 | 27 S |                                                                                            |       |
