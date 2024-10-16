@@ -75,10 +75,10 @@ Did [[CAM Variance October 2024]]
 
 # [[Classifier Studies]]
 - Setting up [[PSC Bridges]]
+- Submitting SB + ZZSR study
 
 [[Why kids should read obituaries]] 
 
 [[Nobel Prize Physics 2024]]
 
-
-[[HGC MAC Meeting 16 October 2024]]
+Reviewing slides from: [[HGC MAC Meeting 16 October 2024]]
