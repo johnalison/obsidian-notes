@@ -2,7 +2,7 @@ The problem with unfolding is that the detector smearing can in general cause tw
 
 ![[1DUnfoldingCartoon.excalidraw]]
 
-(Claim by Mikael Kuusela) You can learn the forward model relatively robustly with simulation. Then its actually easy to go from truth to smeared with out much sensitivity to the simulation used in training. However the algorithms to do the reverse process -- inferring the input truth from the observed smeared data -- are much more sensitive to the assumed underlying simulation model -- which is an unavoidable input to the infolding algorithms.
+Solutions to this type of "ill-posed" inverse problem require an arbitrary choice of regularization, usually taken from a detector simulation, to stabilize the inversion. However, instead of solving the inverse problem, you can learn the forward model relatively robustly with simulation. Then its actually easy to go from truth to smeared data with out much sensitivity to the simulation. However the algorithms do the unfolding  -- inferring the input truth from the observed smeared data -- are much more sensitive to the assumed underlying simulation model through the choice of the regulator.
 
 ## Follow-ups
 

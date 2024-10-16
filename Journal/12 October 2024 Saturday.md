@@ -18,7 +18,7 @@ Read [[Understanding the Limitations of Mathematical Reasoning in Large Language
 VHH Published ! https://link.springer.com/article/10.1007/JHEP10(2024)061
 
 - [x] Find Notes for PSC setup
-- [>>] [[Classifier Studies]]
+- [>>]  [[Classifier Studies]]
 
 
 # Play date with Valerie

@@ -40,8 +40,6 @@
 - [>>] Act 153 clearances
 
 
-
-
 # Log
 
 Up at 7
@@ -69,7 +67,7 @@ Start working through [[ToAddToCV]]
 Chat with Matteo re:Dark Photons
 - [[Low mass di-electrons]]
 
-Fixing error of files being renames
+Fixing error of files being renamed.. only extract on demand.
 
 # [[Classifier Studies]]
 - More [[Setting up Falcon]]

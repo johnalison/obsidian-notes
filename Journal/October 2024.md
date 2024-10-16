@@ -14,7 +14,7 @@
 | 12 S | [[Run-3 4b skims]] / Reading / Valerie Playdate / [[Setting up Falcon]] / Parents          |       |
 | 13 S | **S BDay** [[Rucio]] / [[Run-3 4b skims]] / CAPs questions / **kettle bells** / clean deck |       |
 | 14 M | Skimming Skims / CV / **Hoops** / Classifier on falcon / H Basketball                      | 7/4/3 |
-| 15 T |                                                                                            |       |
+| 15 T | Work CV / Cancelled chair / Run-3 clustering / **Gym/SR** / Act 153 renew                  | 6/1/1 |
 | 16 W | (CAPs visit) (Inspection)                                                                  |       |
 | 17 H | (TMan Show)                                                                                |       |
 | 18 F | (CYERT Closed)                                                                             |       |

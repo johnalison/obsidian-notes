@@ -36,7 +36,7 @@
 - [>>] CAM Training
 - [>>] Read HGC TDR
 - [x]  CAP/LTS online questionnaire and tasks
-	- Os Sunday
+	- <font color=red>On Sunday</font>
 - [x] Aniket CERN office
 - [>>] CV for rachel
 - [>>] Collect and Send Teachers program info

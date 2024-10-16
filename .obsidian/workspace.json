@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Input/Meetings/CMU HGC Mac Meeting 8 October 2024.md",
+                "file": "Journal/15 October 2024 Tuesday.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/October 2024.md",
+                "file": "0-inbox/CAM Variance October 2024.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ea2faffc4a83a52b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Output/CAM/CAM Variance September 2024.md",
                 "mode": "source",
                 "source": false
               }
@@ -138,7 +150,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -158,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/October 2024.md",
+                "file": "0-inbox/CAM Variance October 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/October 2024.md",
+                "file": "0-inbox/CAM Variance October 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +211,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/October 2024.md"
+                "file": "0-inbox/CAM Variance October 2024.md"
               }
             }
           }
@@ -223,32 +236,32 @@
   },
   "active": "1c103a2097b6997d",
   "lastOpenFiles": [
-    "Journal/15 October 2024 Tuesday.md",
-    "Journal/September/25 September 2024 Wednesday.md",
-    "Journal/August/30 August 2024 Friday.md",
-    "2-areas/Personal/ToAddToCV.md",
+    "Output/CAM/CAM Variance September 2024.md",
+    "0-inbox/CAM Variance October 2024.md",
     "0-inbox/HGCManagementMeeting 15 October 2024.md",
-    "0-inbox/CV.md",
-    "0-inbox/Setting up Falcon.md",
+    "Journal/16 October 2024 Wednesday.md",
     "00-Zettelkasten/Detector Unfolding Problem.md",
-    "0-inbox/CMU HGC Mac Meeting 15 October 2024.md",
-    "Input/Meetings/CMU HGC Mac Meeting 8 October 2024.md",
-    "1-projects/Mixed2.0/Jet DeClustering.md",
-    "Journal/14 October 2024 Monday.md",
-    "0-inbox/ToDo.md",
+    "Journal/15 October 2024 Tuesday.md",
     "Journal/October 2024.md",
+    "Journal/14 October 2024 Monday.md",
     "Journal/13 October 2024 Sunday.md",
     "Journal/12 October 2024 Saturday.md",
     "Journal/11 October 2024 Friday.md",
     "Journal/10 October 2024 Thursday.md",
+    "Journal/9 October 2024 Wednesday.md",
+    "0-inbox/Setting up Falcon.md",
+    "Input/Meetings/CMU HGC Mac Meeting 8 October 2024.md",
+    "Journal/September/25 September 2024 Wednesday.md",
+    "Journal/August/30 August 2024 Friday.md",
+    "2-areas/Personal/ToAddToCV.md",
+    "0-inbox/CV.md",
+    "0-inbox/CMU HGC Mac Meeting 15 October 2024.md",
+    "1-projects/Mixed2.0/Jet DeClustering.md",
+    "0-inbox/ToDo.md",
     "0-inbox/HGC Open Items.md",
     "0-inbox/The economic way of thinking in a pandemic.md",
-    "Journal/9 October 2024 Wednesday.md",
     "2-areas/coffea4bs/4b code base.md",
     "Journal/8 October 2024 Tuesday.md",
-    "0-inbox/Chat w Wes 15 October 2024.md",
-    "0-inbox/Low mass di-electrons.md",
-    "Input/Meetings/Chat w Wes 8 October 2024.md",
     "0-inbox/#How Adam Smith Can Change Your Life.md#",
     "Input/Books/#Books.md#",
     "0-inbox/#Run-3 4b skims.md#",

@@ -19,10 +19,10 @@
 | 4   | Mans                       |     |
 |     | [[ToAddToCV]]              |     |
 
-**W:**
-**DW:**
-**OT:**
-**ex** or **No ex**
+**W:** 6 
+**DW:** 1
+**OT:** 1
+**ex** 
 
 # The ONE thing: 
 - [ ] [[Run-3 4b skims]]
@@ -31,13 +31,14 @@
 # To Do
 - [x] Ping CL re:Annual Review
 - [x] Ping SM re:Annual Review
-- [ ] [[Run-3 4b skims]]
-- [ ] update CV 
-- [ ] Act 153 clearances
-- [ ] [[Classifier Studies]]
-- [ ] VAR Due 16th
-- [ ] LAB Techs
-- [ ] Update website
+- [x] [[Run-3 4b skims]]
+- [>>] cluster Run 3 data
+- [>>] update CV 
+- [x] Act 153 clearances
+- [>>]  [[Classifier Studies]]
+- [>>] VAR Due 16th
+- [>>] LAB Techs
+- [>>] Update website
 
 
 # Log
@@ -86,3 +87,6 @@ Finishing CV
 Doing Act153 forms: 
 - Your application **(e-Clearance ID: 000009634401)** has been successfully submitted!
 - FBI clearances done will do fingerprints 10/24 2:30
+
+Some [[Selfish reasons to having more kids]]
+
