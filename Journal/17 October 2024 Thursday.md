@@ -50,6 +50,10 @@ M & T to school
 - ZZSR jobs finished...
 - looks like I ran out of quota on /jet/home/alison
 	- `my_quotas` ... saved in [[PSC Bridges]]
-- [ ] Need to move submission output to project
+- [x] Need to move submission output to /project
+- moving files to filesystems with more space
+
+# HH4b meeting
+
 
 
