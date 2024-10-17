@@ -76,9 +76,16 @@ Did [[CAM Variance October 2024]]
 # [[Classifier Studies]]
 - Setting up [[PSC Bridges]]
 - Submitting SB + ZZSR study
+- Submitted all ZZSR fits
 
 [[Why kids should read obituaries]] 
 
 [[Nobel Prize Physics 2024]]
 
 Reviewing slides from: [[HGC MAC Meeting 16 October 2024]]
+
+Home 
+
+# New Mexican for dinner
+- 7.1
+
