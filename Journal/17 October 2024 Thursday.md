@@ -36,6 +36,8 @@
 - [ ] LAB Techs
 - [ ] USCMS 0.5 position
 - [ ] CMU Security Course
+- [ ] Review MAC Meeting
+- [ ] Review Hbb Meeting
 
 
 # Log
