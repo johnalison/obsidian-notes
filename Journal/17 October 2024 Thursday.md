@@ -52,6 +52,7 @@ M & T to school
 	- `my_quotas` ... saved in [[PSC Bridges]]
 - [x] Need to move submission output to /project
 - moving files to filesystems with more space
+- Resubmitted failed SB | ZZSR jobs
 
 # HH4b meeting
 
