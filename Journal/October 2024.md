@@ -15,13 +15,13 @@
 | 13 S | **S BDay** [[Rucio]] / [[Run-3 4b skims]] / CAPs questions / **kettle bells** / clean deck |       |
 | 14 M | Skimming Skims / CV / **Hoops** / Classifier on falcon / H Basketball                      | 7/4/3 |
 | 15 T | Work CV / Cancelled chair / Run-3 clustering / **Gym/SR** / Act 153 renew                  | 6/1/1 |
-| 16 W | (CAPs visit) (Inspection)                                                                  |       |
+| 16 W | (CAPs visit) (Inspection) Chat AE re 0.5 FTE /  **New Mexican Dinner**                     | 3/2/2 |
 | 17 H | (TMan Show)                                                                                |       |
 | 18 F | (CYERT Closed)                                                                             |       |
 | 19 S |                                                                                            |       |
 | 20 S |                                                                                            |       |
 | 21 M | (Santa Barbara Visit)                                                                      |       |
-| 22 T |                                                                                            |       |
+| 22 T | (Santa Barbara Visit)                                                                      |       |
 | 23 W |                                                                                            |       |
 | 24 H | (Fingerprints)                                                                             |       |
 | 25 F |                                                                                            |       |

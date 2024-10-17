@@ -19,10 +19,10 @@
 | 4   | [[Classifier Studies]] |     |
 |     | [[Classifier Studies]] |     |
 
-**W:**
-**DW:**
-**OT:**
-**ex** or **No ex**
+**W:** 3 
+**DW:** 2 
+**OT:** 2 
+ **No ex**
 
 # The ONE thing: 
 - [x] CAPS
@@ -31,12 +31,12 @@
 
 # To Do
 - [x]  VAR Due 16th
-- [ ]  cluster Run 3 data
-- [ ]  Update CV  
-- [ ] Update website
-- [ ] [[Classifier Studies]]
-- [ ] LAB Techs
-- [ ] USCMS 0.5 position
+- [>>]  cluster Run 3 data
+- [>>]  Update CV  
+- [>>] Update website
+- [>>]  [[Classifier Studies]]
+- [>>] LAB Techs
+- [>>] USCMS 0.5 position
 
 
 # Log
@@ -45,24 +45,22 @@ Up at 7
 
 M&T to school .. walk home
 
-[[Detector Unfolding Problem]]
-- MKs edits
-
+[[Detector Unfolding Problem]] did MKs edits
 
 CMU Security https://oli.cmu.edu/jcourse/webui/account/submit_account_consent.do
-- [ ] Take exams 
-
+- [>>] Take exams 
 
 [[CAM Variance October 2024]]
 
-
 # CAPS
 - bunch of tests
-- Got $300 and picture I drew when I was 7
+- Got $300 and picture I drew when I was 7 
+- ~$100/hr I make ~ $60/hr
 
 # 5391 House inspection
 - Great location / Nice house / Needs work
 - Will need to request ~100k off
+
 
 Finish CAPs.
 
@@ -89,3 +87,4 @@ Home
 # New Mexican for dinner
 - 7.1
 
+Some [[Nexus]]

@@ -4,7 +4,7 @@
 
 
 # Todo
-- [ ] Need way to debug datasets in coffee
+- [x] Need way to debug datasets in coffee
 	- [x] count lumi sections processed
 		- [ ] script to check against JSON
 	- [xx] ~~count events processed before lumi sections

@@ -31,7 +31,7 @@
 # To Do
 - [>>] Update website
 - [x] Get falcon account 
-- [>>] [[Run-3 4b skims]]
+- [>>]  [[Run-3 4b skims]]
 - [>>] Watch Pre-Approval VqqHbb
 - [>>] CAM Training
 - [>>] Read HGC TDR

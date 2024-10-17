@@ -74,7 +74,7 @@ Setup...[[ToDo]]
 [[CMU HGC Mac Meeting 15 October 2024]]
 
 # Gym/SR
-- Fitness center closed... to Teper
+- Fitness center closed... to Tepper
 - Core / leg press / pull ups / dumbbell press
 - 10' at Tmax = 123
 

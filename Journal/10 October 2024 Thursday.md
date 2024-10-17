@@ -82,7 +82,7 @@ Getting Aniket office at CERN
 - Access open stack requires (?)  onsite access 
 
 # Faculty Meeting
-- Not much
+- Not much chat about new masters programs 
 
 # Chat with Katie Shubayu re Teacher Program
 - [>>] Send info re: [[High-School Physics Teachers Program]]

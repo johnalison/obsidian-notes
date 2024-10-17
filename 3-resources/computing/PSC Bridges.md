@@ -15,10 +15,13 @@ alias PSCBridges2='ssh alison@bridges2.psc.edu'
 ```
 
 
+
 # Check jobs
 squeue -u alison 
 
 
+# Check quota
+ `my_quotas`
 
 ## Links: 
 
