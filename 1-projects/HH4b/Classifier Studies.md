@@ -5,6 +5,9 @@ Run2 mixed Classifier tests [[Classifier Studies]]
 	- Can test 1) 3 4 5 from mixed data old classifier. Need new one for 2
 - Run3: Test 4v2 vs 4v3 with synthetic data compare to 3v2 (systematics)
 
+
+
+
 # Does JCM matter ?
 
 
@@ -12,6 +15,9 @@ Run2 mixed Classifier tests [[Classifier Studies]]
 Best to just redefine the SB when training. 
 
 SB
+
+Resubmit jobs with 
+`grep -L Done slurm-v0_offset*.out  | awk '{gsub("slurm-", "jobs_"); gsub("out","sh"); cmd = "sbatch " $0; print cmd; system(cmd)}'
 
 
 

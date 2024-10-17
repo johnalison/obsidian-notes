@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/17 October 2024 Thursday.md",
+                "file": "1-projects/HH4b/Classifier Studies.md",
                 "mode": "source",
                 "source": false
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/17 October 2024 Thursday.md",
+                "file": "1-projects/HH4b/Classifier Studies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/17 October 2024 Thursday.md",
+                "file": "1-projects/HH4b/Classifier Studies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/17 October 2024 Thursday.md"
+                "file": "1-projects/HH4b/Classifier Studies.md"
               }
             }
           }
@@ -200,12 +200,12 @@
   },
   "active": "054b4cc41e98f13e",
   "lastOpenFiles": [
+    "Journal/17 October 2024 Thursday.md",
     "3-resources/computing/Vera Cluster Setup.md",
     "0-inbox/Setting up Falcon.md",
     "3-resources/computing/PSC Bridges.md",
     "Journal/October 2024.md",
     "Journal/16 October 2024 Wednesday.md",
-    "Journal/17 October 2024 Thursday.md",
     "0-inbox/5391 Financing.md",
     "Journal/15 October 2024 Tuesday.md",
     "Journal/14 October 2024 Monday.md",
