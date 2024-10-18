@@ -8,7 +8,7 @@
 |     | Dark photon -> ee      |     |
 | 11  | Stats Chat             |     |
 |     | Stats Chat             |     |
-| 12  | bbWW                   |     |
+| 12  | ~~bbWW~~               |     |
 |     | 5391                   |     |
 | 1   | 5391                   |     |
 |     | 5391                   |     |
@@ -19,10 +19,10 @@
 | 4   | chair shopping         |     |
 |     | chair shopping         |     |
 
-**W:**
-**DW:**
-**OT:**
-**ex** or **No ex**
+**W:** 4 
+**DW:** 1
+**OT:** 1
+**No ex**
 
 # The ONE thing: 
 - [ ] [[Classifier Studies]]
@@ -59,4 +59,27 @@ M & T to school
 
 [[StatsChat-17-October-2024]]
 
+
+Some CV
+
+
+# To 5391 for inspections
+- sewer cracked ... needs relined
+- Regrading not so bad
+
+# Hike with H
+
+Hot H out early
+
+Bought desk chair from staples 
+
+To office to build chair. 
+
+Pick up M&T 
+
+Home... 
+
+# Dinner with Zuke and Latimer at Sharatorn 
+
+# Stymo at the hard rock 
 
