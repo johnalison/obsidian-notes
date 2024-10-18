@@ -10,7 +10,7 @@ With M&T
 - Having problems greping bridges
 - Checked that the output .pkl files are all there as expected
 - sent mail... Bridges2 still having problems
-- Submitting jobs to write out FvT
+- Submitted jobs to write out FvT
 
 
 Organizing CV
