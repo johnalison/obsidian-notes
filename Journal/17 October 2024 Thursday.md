@@ -31,7 +31,7 @@
 # To Do
 - [ ] [[Classifier Studies]]
 - [x] Update CV  
-- [ ] Update Website
+- [x] Update Website
 - [ ] cluster Run 3 data
 - [ ] LAB Techs
 - [ ] USCMS 0.5 position

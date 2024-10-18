@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-Zettelkasten/You have nothing without Reliability.md",
+                "file": "Journal/18 October 2024 Friday.md",
                 "mode": "source",
                 "source": false
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-Zettelkasten/You have nothing without Reliability.md",
+                "file": "Journal/18 October 2024 Friday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00-Zettelkasten/You have nothing without Reliability.md",
+                "file": "Journal/18 October 2024 Friday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-Zettelkasten/You have nothing without Reliability.md"
+                "file": "Journal/18 October 2024 Friday.md"
               }
             }
           }
@@ -212,6 +212,9 @@
   },
   "active": "054b4cc41e98f13e",
   "lastOpenFiles": [
+    "Journal/17 October 2024 Thursday.md",
+    "Journal/18 October 2024 Friday.md",
+    "00-Zettelkasten/You have nothing without Reliability.md",
     "Input/Blogs/Why kids should read obituaries.md",
     "0-inbox/Waiting for.md",
     "0-inbox/ToDo.md",
@@ -234,10 +237,7 @@
     "0-inbox/ARC HIG-24-017 Boosted VqqHbb.md",
     "0-inbox/AnalysesOverview.excalidraw.md",
     "0-inbox/5391 Financing.md",
-    "Journal/17 October 2024 Thursday.md",
-    "Journal/18 October 2024 Friday.md",
     "1-projects/HH4b/Classifier Studies.md",
-    "3-resources/computing/Vera Cluster Setup.md",
     "0-inbox/#How Adam Smith Can Change Your Life.md#",
     "Input/Books/#Books.md#",
     "0-inbox/#Run-3 4b skims.md#",
