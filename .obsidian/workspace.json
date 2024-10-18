@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/18 October 2024 Friday.md",
+                "file": "0-inbox/The economic way of thinking in a pandemic.md",
                 "mode": "source",
                 "source": false
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/18 October 2024 Friday.md",
+                "file": "0-inbox/The economic way of thinking in a pandemic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/18 October 2024 Friday.md",
+                "file": "0-inbox/The economic way of thinking in a pandemic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/18 October 2024 Friday.md"
+                "file": "0-inbox/The economic way of thinking in a pandemic.md"
               }
             }
           }
@@ -212,8 +212,8 @@
   },
   "active": "054b4cc41e98f13e",
   "lastOpenFiles": [
-    "Journal/17 October 2024 Thursday.md",
     "Journal/18 October 2024 Friday.md",
+    "Journal/17 October 2024 Thursday.md",
     "00-Zettelkasten/You have nothing without Reliability.md",
     "Input/Blogs/Why kids should read obituaries.md",
     "0-inbox/Waiting for.md",

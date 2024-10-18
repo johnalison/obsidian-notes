@@ -24,4 +24,9 @@ Finished reviewing [[HGC MAC Meeting 16 October 2024]]
 
 New request form for updated website
 
+Looking into tools:
+- https://www.youtube.com/watch?v=VOkSFZuP3qs
+- https://www.youtube.com/watch?v=Q878zqC2HEI
+
+[[The economic way of thinking in a pandemic]]
 
