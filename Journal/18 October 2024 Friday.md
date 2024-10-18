@@ -17,5 +17,8 @@ Organizing CV
 
 Kids to get hairs cut.
 
+Finished CV reorg!
+- Sent to Rachel
+
 
 
