@@ -20,5 +20,5 @@ Kids to get hairs cut.
 Finished CV reorg!
 - Sent to Rachel
 
-
+Finished reviewing [[HGC MAC Meeting 16 October 2024]]
 

@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/18 October 2024 Friday.md",
+                "file": "00-Zettelkasten/You have nothing without Reliability.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/StatsChat-17-October-2024.md",
+                "file": "Input/Meetings/StatsChat-17-October-2024.md",
                 "mode": "source",
                 "source": false
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/18 October 2024 Friday.md",
+                "file": "00-Zettelkasten/You have nothing without Reliability.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/18 October 2024 Friday.md",
+                "file": "00-Zettelkasten/You have nothing without Reliability.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/18 October 2024 Friday.md"
+                "file": "00-Zettelkasten/You have nothing without Reliability.md"
               }
             }
           }
@@ -212,32 +212,32 @@
   },
   "active": "054b4cc41e98f13e",
   "lastOpenFiles": [
+    "Input/Blogs/Why kids should read obituaries.md",
+    "0-inbox/Waiting for.md",
+    "0-inbox/ToDo.md",
+    "0-inbox/Things-To-Add-To-Notes.md",
+    "0-inbox/The economic way of thinking in a pandemic.md",
+    "Input/Meetings/StatsChat-17-October-2024.md",
+    "3-resources/computing/Setting up Falcon.md",
+    "0-inbox/Numba.md",
+    "0-inbox/Nobel Prize Physics 2024.md",
+    "0-inbox/Nexus.md",
+    "0-inbox/MPL Chaos Experiment.md",
+    "0-inbox/Low mass di-electrons.md",
+    "Input/Meetings/HGCManagementMeeting 15 October 2024.md",
+    "0-inbox/HGC TDR.md",
+    "1-projects/HGC/HGC Open Items.md",
+    "Input/Meetings/HGC MAC Meeting 16 October 2024.md",
+    "Input/Meetings/CMU HGC Mac Meeting 15 October 2024.md",
+    "0-inbox/CV.md",
+    "Input/Meetings/Chat w Wes 15 October 2024.md",
+    "0-inbox/ARC HIG-24-017 Boosted VqqHbb.md",
+    "0-inbox/AnalysesOverview.excalidraw.md",
+    "0-inbox/5391 Financing.md",
     "Journal/17 October 2024 Thursday.md",
     "Journal/18 October 2024 Friday.md",
     "1-projects/HH4b/Classifier Studies.md",
-    "0-inbox/StatsChat-17-October-2024.md",
     "3-resources/computing/Vera Cluster Setup.md",
-    "0-inbox/Setting up Falcon.md",
-    "3-resources/computing/PSC Bridges.md",
-    "Journal/October 2024.md",
-    "Journal/16 October 2024 Wednesday.md",
-    "0-inbox/5391 Financing.md",
-    "Journal/15 October 2024 Tuesday.md",
-    "Journal/14 October 2024 Monday.md",
-    "Journal/13 October 2024 Sunday.md",
-    "Journal/12 October 2024 Saturday.md",
-    "Journal/11 October 2024 Friday.md",
-    "Journal/10 October 2024 Thursday.md",
-    "0-inbox/Nobel Prize Physics 2024.md",
-    "0-inbox/HGC MAC Meeting 16 October 2024.md",
-    "0-inbox/Why kids should read obituaries.md",
-    "0-inbox/HGCManagementMeeting 15 October 2024.md",
-    "Output/CAM/CAM Variance September 2024.md",
-    "Output/CAM/CAM Variance October 2024.md",
-    "00-Zettelkasten/Detector Unfolding Problem.md",
-    "Journal/9 October 2024 Wednesday.md",
-    "Input/Meetings/CMU HGC Mac Meeting 8 October 2024.md",
-    "Journal/September/25 September 2024 Wednesday.md",
     "0-inbox/#How Adam Smith Can Change Your Life.md#",
     "Input/Books/#Books.md#",
     "0-inbox/#Run-3 4b skims.md#",

@@ -1,6 +1,6 @@
 https://indico.cern.ch/event/1466920/
 
-#Consume 
+
 # Module Pre-Production Planning (Alethea)
 - 4 of 5 LD right on Ti have been assembled at UCSB, 5th will be assembled this week
 - Components for pre-production: 
@@ -17,6 +17,16 @@ https://indico.cern.ch/event/1466920/
 -  Tooling orders in batches 2/8 have been placed to Xometry
 - MACs will need to purchase or make their own transfer tap
 - ESD: during tape application and backing paper removal: Short both sides of a HV capacitor together and connect them to GND
+
+# Baseplates (KIT)
+- Producing baseplates for 1st round of ramp-up (6 times 10 plates)
+	- Focus on full LD/HD CuW and Ti plates
+	- will add (Si-Kapton) tape layer
+	- Expecting shipment of laminated plates to MACs by Nov 4
+- Pre-production schedule (s3)
+- Shipments every 4 weeks (Nov/Dec/ Feb/March)
+
+
 
 ## Follow-ups
 

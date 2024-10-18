@@ -1,7 +1,7 @@
 
 AE:
-- [ ] Debug why the limits changed
-- [ ] script to check given commit. 
+- [x] Debug why the limits changed
+- [x] script to check given commit. 
 
 
 SM

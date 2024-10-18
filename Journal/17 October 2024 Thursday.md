@@ -30,14 +30,14 @@
 
 # To Do
 - [ ] [[Classifier Studies]]
-- [ ] Update CV  
+- [x] Update CV  
 - [ ] Update Website
 - [ ] cluster Run 3 data
 - [ ] LAB Techs
 - [ ] USCMS 0.5 position
 - [ ] CMU Security Course
-- [ ] Review MAC Meeting
-- [ ] Review Hbb Meeting
+- [x] Review MAC Meeting
+- [x] Review Hbb Meeting
 
 
 # Log
