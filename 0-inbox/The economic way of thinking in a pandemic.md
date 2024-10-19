@@ -8,6 +8,9 @@
 
 The first lesson of the pandemic was the importance of externalities.
 
+the economic way of thinking led economists to worry that the vaccine industry wasn’t profitable enough,
+
+economists are the experts in evaluating trade-offs
 
 ## Follow-ups
 
