@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-resources/computing/Vera Cluster Setup.md",
+                "file": "00-Zettelkasten/Detector Unfolding Problem.md",
                 "mode": "source",
                 "source": false
               }
@@ -75,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#consume",
+                "query": "obsidian image",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,8 +102,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -188,11 +187,25 @@
   },
   "active": "e4fab254ead381a9",
   "lastOpenFiles": [
-    "Output/CAM/Modules Summary September 2024.md",
+    "00-Zettelkasten/Clustering Algebra.md",
+    "Excalidraw/DeclusteringAlgebraDrawing.excalidraw.md",
+    "00-Zettelkasten/Declustering Algebra.md",
+    "Journal/11 October 2024 Friday.md",
+    "3-resources/Obsidian/Images in Obsidian.md",
+    "Journal/19 October 2024 Saturday.md",
+    "00-Zettelkasten/Jet DeClustering Algorithm.md",
+    "Excalidraw/ClusterAlgebraStartPicture.excalidraw.md",
+    "00-Zettelkasten/Detector Unfolding Problem.md",
     "3-resources/computing/Vera Cluster Setup.md",
+    "00-Zettelkasten/Splitting Templates.md",
+    "00-Zettelkasten/Advantages-of-Jet-declustering.md",
+    "00-Zettelkasten/Higgs Potential Algebra.md",
+    "0-inbox/EVMS Acronyms.md",
+    "0-inbox/#EVMS Acronyms.md#",
+    "Journal/August/21 August 2024 Wednesday.md",
+    "Output/CAM/Modules Summary September 2024.md",
     "Input/Meetings/HGC MAC Meeting 16 October 2024.md",
     "Output/CAM/Modules Summary October 2024.md",
-    "Journal/19 October 2024 Saturday.md",
     "Journal/18 October 2024 Friday.md",
     "Input/Papers/The economic way of thinking in a pandemic.md",
     "Input/Meetings/StatsChat-17-October-2024.md",
@@ -201,19 +214,6 @@
     "00-Zettelkasten/You have nothing without Reliability.md",
     "Input/Blogs/Why kids should read obituaries.md",
     "0-inbox/Waiting for.md",
-    "0-inbox/ToDo.md",
-    "0-inbox/Things-To-Add-To-Notes.md",
-    "3-resources/computing/Setting up Falcon.md",
-    "0-inbox/Numba.md",
-    "0-inbox/Nobel Prize Physics 2024.md",
-    "0-inbox/Nexus.md",
-    "0-inbox/MPL Chaos Experiment.md",
-    "0-inbox/Low mass di-electrons.md",
-    "Input/Meetings/HGCManagementMeeting 15 October 2024.md",
-    "0-inbox/HGC TDR.md",
-    "1-projects/HGC/HGC Open Items.md",
-    "Input/Meetings/CMU HGC Mac Meeting 15 October 2024.md",
-    "0-inbox/CV.md",
     "0-inbox/#How Adam Smith Can Change Your Life.md#",
     "Input/Books/#Books.md#",
     "0-inbox/#Run-3 4b skims.md#",
@@ -223,7 +223,6 @@
     "0-inbox/#mW constraint.md#",
     "Input/Meetings/September",
     "Journal/September",
-    "Journal/2023/#September 2023.md#",
     "attachments/Pasted image 20240826220009.png",
     "attachments/Pasted image 20240826215955.png",
     "attachments/HGC TDR LD and HD Sensors.png",

@@ -16,3 +16,12 @@ Sent [[Modules Summary October 2024]]
 
 More tool ideas:
 - https://www.youtube.com/watch?v=ZOFrzLpBqf4
+
+[[EVMS Acronyms]]
+
+[[Higgs Potential Algebra]]
+
+[[Clustering Algebra]]
+
+[[Declustering Algebra]]
+
