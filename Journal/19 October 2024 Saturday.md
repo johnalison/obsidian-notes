@@ -17,11 +17,14 @@ Sent [[Modules Summary October 2024]]
 More tool ideas:
 - https://www.youtube.com/watch?v=ZOFrzLpBqf4
 
-[[EVMS Acronyms]]
+Writing up some notes
+- [[EVMS Acronyms]]
+- [[Higgs Potential Algebra]]
+- [[Clustering Algebra]]
+- [[Declustering Algebra]]
 
-[[Higgs Potential Algebra]]
+Giant Eagle with M
 
-[[Clustering Algebra]]
+[[January 2024]]
 
-[[Declustering Algebra]]
-
+Paloma and Sasha over

@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-Zettelkasten/Detector Unfolding Problem.md",
+                "file": "Input/Books/Books.md",
                 "mode": "source",
                 "source": false
               }
@@ -75,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "obsidian image",
+                "query": "file:books",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -187,15 +187,17 @@
   },
   "active": "e4fab254ead381a9",
   "lastOpenFiles": [
+    "Journal/January 2024.md",
+    "Input/Books/Books.md",
+    "00-Zettelkasten/Detector Unfolding Problem.md",
+    "Journal/19 October 2024 Saturday.md",
     "00-Zettelkasten/Clustering Algebra.md",
     "Excalidraw/DeclusteringAlgebraDrawing.excalidraw.md",
     "00-Zettelkasten/Declustering Algebra.md",
     "Journal/11 October 2024 Friday.md",
     "3-resources/Obsidian/Images in Obsidian.md",
-    "Journal/19 October 2024 Saturday.md",
     "00-Zettelkasten/Jet DeClustering Algorithm.md",
     "Excalidraw/ClusterAlgebraStartPicture.excalidraw.md",
-    "00-Zettelkasten/Detector Unfolding Problem.md",
     "3-resources/computing/Vera Cluster Setup.md",
     "00-Zettelkasten/Splitting Templates.md",
     "00-Zettelkasten/Advantages-of-Jet-declustering.md",
@@ -212,8 +214,6 @@
     "3-resources/computing/PSC Bridges.md",
     "Journal/17 October 2024 Thursday.md",
     "00-Zettelkasten/You have nothing without Reliability.md",
-    "Input/Blogs/Why kids should read obituaries.md",
-    "0-inbox/Waiting for.md",
     "0-inbox/#How Adam Smith Can Change Your Life.md#",
     "Input/Books/#Books.md#",
     "0-inbox/#Run-3 4b skims.md#",
