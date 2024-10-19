@@ -12,6 +12,10 @@ the economic way of thinking led economists to worry that the vaccine industry w
 
 economists are the experts in evaluating trade-offs
 
+ The argument for masks was never as weak nor as strong as was presented by public health officials.
+
+ Bayesians tend to change their beliefs slowly. 
+
 ## Follow-ups
 
 

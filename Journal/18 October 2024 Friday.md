@@ -31,3 +31,4 @@ Looking into tools:
 
 [[The economic way of thinking in a pandemic]]
 
+- [ ] Module summary
