@@ -97,7 +97,61 @@ JA: Communism as a negative example of AI alignment ?
 - The book became an important religious technology in the 1st C BCE. 
   After 10s of thousands of years in which gods spoke to humans via shamans, priests, prophets, oracles, and other human messengers, religious movements like Judaism began arguing that the gods speak through this novel technology of the book.
   
--   
+-  Inevitably, the holy book spawned numerous interpretations which were far more consequential than the book itself.  Writing down the word of God was supposed to limit the authority of the old priestly institution, but it gave rise to the authority of a new rabbinical institution. The attempt to bypass fallible human institutions by relying on a new information technology backfired, because of the need for a human institution to interpret the holy book. 
+
+- Judaism was shaped by the Talmud far more than by the Bible, and rabbinical arguments about the interpretation of the Talmud became even more important than the Talmud itself.
+
+- The attempt to invest all authority in an infallible superhuman technology led the the rise of a new and extremely powerful human institution -- the church.
+
+- The Catholic Church interpreted Jesus's words in a way that allowed it to become the richest landowners in Europe, to launch violent crusades, and to establish murderous inquisitions.
+
+- The European witch-hunt craze was a modern rather than a medieval phenomenon. 
+
+- The scientific revolution was launched by the discovery of ignorance. Its self-correcting mechanisms, not the technology of printing, was the engine of the scientific revolution.
+
+- Self-correcting mechanisms are vital for the pursuit of truth, but are costly in terms of maintaining order.
+
+# Chapter 5: Decisions: Democracy and Totalitarianism
+
+- Demacracy and disctatorship are contrasting types of information networks. 
+
+- A common misconception is that in a demacracy everything is decided by majority vote. 
+  In fact, as little as possible is decided centrally, and only the relatively few decisions that must be made centrally should reflect the will of the majority. 
+  In a demacracy, if 99% of people want to dress in a particular way and worship a particular god, the remaining 1% should still be free to dress and worship differently. 
+  
+- A demacracy is not a system in which a majority of any size can decide to exterminate unpopular minorities; it is a system in which there are clear limits on teh power of the center.
+  There are two baskets of rights that are protected from the majorities grasp. 
+  One contains human rights. These rights enshrine the decentralized nature of demacracy, making sure that as loong as people dont harm anyone, they can live their lives as they see fit. 
+  
+- Elections are NOT a method for discovering truth. 
+  They are a method for maintaining order by adjudicating between peoples conflicting desires.
+  
+- Subortinating society to a Ministry of Truth is likely to make things worse. 
+  The government is already the most powerful institution in developed societies, and it often has the greatest interst in distorting or hiding inconvenient facts.
+  Allowing the governments to supervise the search for trurth is like appointing the fax to gaurd the chicken coop.
+  
+- Whereever the conversations that shape Ameerican politics now take place, its definitely not in Congress. 
+  Demacracies die not only people are not free to talk but also when people are not willing or able to listen.
+  
+- We dont know of any large-scale kingdom or empire that operated along democratic lines.
+
+- Unlike premodern churches, which developed slowly over many centuries and therefore needed to be conservative and suspicious of rapid changes, modern totalitarian parties like the Nazi Party and the Soviet Communist Party were organized within a single generation around the promise to quickly revolutionize society. 
+
+- Democracy encourages information to flow through many indpendent channels rather than only through the center, and it allows many independent nodes to process the information and make decisions by themselves. 
+  Information freely circulates between private bussinesses, private media organizations, municipalities, sports associations, charitites, families, and individuals -- withoug ever passing throught the office of a government minister. 
+  
+  In contracts, totalitarianism wants ALL information to pass through the central hub and doesnt want any independent institutions making decisions on their own.
+  
+  
+- Stalinism got close to world domination. It would be naive to assume that its disregard for truth doomed it to failure or that its ultimate collapse guarantees that such a system can never again arise. 
+  Information systems can reqch far with just a little truth and a lot of order. 
+  
+- Now, humans will have to contend with digital mythmakers and digital bureaucrats. 
+  The main split in 21C politics might be not between democracy and totalitarianism but between human beings and nonhuman agents.
+  A new Silicon Curtain may separate all humans from our unfathomable algorithmic overlords. 
+  People in all countries and walks of life -- including even dictators -- might find themselves subservient to an alien intelligence that can monitor everything we do while we have little idea what it is doing. 
+  The rest of this book, then, is dedicated to exploring whether such a Silicon Curtain is indeed descending on the world, and what liffe might look like when computers run our bureaucracies and algorithms invent new mythologies.
+
 
 
 

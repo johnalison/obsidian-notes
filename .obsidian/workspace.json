@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Input/Books/Books.md",
+                "file": "0-inbox/Tool List.md",
                 "mode": "source",
                 "source": false
               }
@@ -189,13 +189,16 @@
   "active": "e4fab254ead381a9",
   "lastOpenFiles": [
     "0-inbox/#Nexus.md#",
+    "0-inbox/Tool List.md",
+    "Journal/18 October 2024 Friday.md",
+    "Journal/17 October 2024 Thursday.md",
     "Journal/19 October 2024 Saturday.md",
+    "Input/Books/Books.md",
+    "0-inbox/Nexus.md",
     "Journal/Fall 2024.md",
     "Journal/4 October 2024 Friday.md",
     "00-Zettelkasten/Declustering Algebra.md",
-    "Journal/17 October 2024 Thursday.md",
     "Journal/January 2024.md",
-    "Input/Books/Books.md",
     "00-Zettelkasten/Detector Unfolding Problem.md",
     "00-Zettelkasten/Clustering Algebra.md",
     "Excalidraw/DeclusteringAlgebraDrawing.excalidraw.md",
@@ -212,9 +215,6 @@
     "Journal/August/21 August 2024 Wednesday.md",
     "Output/CAM/Modules Summary September 2024.md",
     "Input/Meetings/HGC MAC Meeting 16 October 2024.md",
-    "Output/CAM/Modules Summary October 2024.md",
-    "Journal/18 October 2024 Friday.md",
-    "Input/Papers/The economic way of thinking in a pandemic.md",
     "0-inbox/#How Adam Smith Can Change Your Life.md#",
     "Input/Books/#Books.md#",
     "0-inbox/#Run-3 4b skims.md#",
@@ -223,7 +223,6 @@
     "2-areas/Physics/#Ratio Errors.md#",
     "0-inbox/#mW constraint.md#",
     "Input/Meetings/September",
-    "Journal/September",
     "attachments/Pasted image 20240826220009.png",
     "attachments/Pasted image 20240826215955.png",
     "attachments/HGC TDR LD and HD Sensors.png",

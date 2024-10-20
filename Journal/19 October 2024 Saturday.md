@@ -17,6 +17,10 @@ Sent [[Modules Summary October 2024]]
 More tool ideas:
 - https://www.youtube.com/watch?v=ZOFrzLpBqf4
 
+[[Tool List]]
+
+
+
 # Writing up some notes
 - [[EVMS Acronyms]]
 - [[Higgs Potential Algebra]]
@@ -32,4 +36,4 @@ Paloma and Sasha over
 # Working Quarterly Review
 [[Fall 2024]]
 
-Writing up some more [[Nexus]]
+	Writing up some more [[Nexus]]
