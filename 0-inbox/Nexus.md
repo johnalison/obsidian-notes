@@ -59,9 +59,45 @@ JA: Communism as a negative example of AI alignment ?
 
 -) When we look at the history of information, we see a constant rise in connectivity without a concomitant rise in truthfulness or wisdom. 
 
+# Chapter 2: Stories: Unlimited Connections
 
+- We Sapiens rule the worl not because we are so wise but because we are the only animals that can cooperate flexibly in large numbers.
 
+- About 70,000 years ago, Homo Sapiens bands began displaying an unprecedented capacity to cooperate with one another. Waht enabled different bands to cooperate is that evolutionary changes in brain structure and lunguistic abilities apparently gave Sapiens the aptitude to tell and believe fictional stories and to be deeply moved by them. 
 
+- Prior to the emergence of stories the universe contained just two levels of reality. Stories added a third. The first two levels are objective reality and subjective reality. The new level is inter-subjective reality. 
+
+- Luckily, since history is shaped by intersubjective stories, sometimes we can avert conflict and make peace by talking with people, changing the stories in which they and we believe, or coming up with a new story that everyone can accept. 
+
+- What the people at the top know, which nuclear physicists dont always, is that telling the truth about the universe is hardly the most efficient way to produce order among large numbers of people. When it comes to uniting people, fiction enjoys two inherent advantages over the truth. First, fiction can be made as simple as we like, whereas the truth tends to be complicated. Second, the truth is often painful and disturbing, and if we try to make it more comforting it will no longer be the truth.
+
+# Chapter 3: The Bite of the Paper Tigers
+
+- Long-term human memory is particularly adapted to retaining stories. 
+
+- Like mythology, bureaucracy too tends to sacrifice truth for order
+
+- Mythology and bureaucracy are the twin pillary of every large-scale society.
+
+- Artists usually work with a limited set of story lines that are rooted in our biology, but none of these dramas sheds much light on the workings of bureaucracy, because they have all been scripted by evolution millions of years before the emergence of documents and archives. 
+
+- All powerful information networks can do both good and ill, depending on how they are designed and used. Merely increasing the quantity of information in a network doesnt gaurantee its benevolence, or make it any easier to find the right balance between truth and order.
+
+- Holy books like the Bible and the Quran are an information technology that is meant to both include all the vital information society needs and be free from all possibility of error.
+  What happens when an information network believes itself to be utterly incapable of any error ? 
+  The history of allegedly infallible holy books highlights some of the limitations of all information networks and holds important lessons for the attemmpt to create infallible AIs in the 21st C.
+  
+  
+# Chapter 4: Errors: The Fantasy of Infallibility
+
+- TruthGPT: In previous eras, such fantasies took a different form -- religion. 
+  Historically, the most important function of religion as been to provide superhuman legitimacy for the social order. 
+  Studying the history of religion is thus highly relevant to present-day debates about AI.
+  
+- The book became an important religious technology in the 1st C BCE. 
+  After 10s of thousands of years in which gods spoke to humans via shamans, priests, prophets, oracles, and other human messengers, religious movements like Judaism began arguing that the gods speak through this novel technology of the book.
+  
+-   
 
 
 

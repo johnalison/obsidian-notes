@@ -38,6 +38,7 @@
 - [ ] CMU Security Course
 - [x] Review MAC Meeting
 - [x] Review Hbb Meeting
+- [ ] Systems/Goals review
 
 
 # Log

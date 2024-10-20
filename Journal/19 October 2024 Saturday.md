@@ -3,7 +3,7 @@
 # Log
 
 - [x] Module summary
-- [ ] Chair reciept 
+- [ ] Chair receipt 
 - [ ] Tools on start up ?
 
 Up at 8
@@ -17,7 +17,7 @@ Sent [[Modules Summary October 2024]]
 More tool ideas:
 - https://www.youtube.com/watch?v=ZOFrzLpBqf4
 
-Writing up some notes
+# Writing up some notes
 - [[EVMS Acronyms]]
 - [[Higgs Potential Algebra]]
 - [[Clustering Algebra]]
@@ -28,3 +28,8 @@ Giant Eagle with M
 [[January 2024]]
 
 Paloma and Sasha over
+
+# Working Quarterly Review
+[[Fall 2024]]
+
+Writing up some more [[Nexus]]
