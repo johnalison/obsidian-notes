@@ -19,7 +19,7 @@
 | 17 H | (TMan Show) [[Classifier Studies]] / 5391 / Hike wH / Desk Chair / Dinner Zuke             | 4/1/1 |
 | 18 F | (CYERT Closed) wM&T / Bridges down / CV/ [[Tool List]] / Easy does it                      | -/-/- |
 | 19 S | Reading / work odds & ends / [[Tool List]] / Giant Eagle / Paloma / [[Fall 2024]]          |       |
-| 20 S |                                                                                            |       |
+| 20 S | Razels Party / Reading / **Gym /SR** / Easy                                                |       |
 | 21 M | (Santa Barbara Visit)                                                                      |       |
 | 22 T | (Santa Barbara Visit)                                                                      |       |
 | 23 W |                                                                                            |       |

@@ -2,10 +2,10 @@
 
 |     | setup       |     |
 | --- | ----------- | --- |
-| 9   |             |     |
-|     |             |     |
-| 10  |             |     |
-|     |             |     |
+| 9   | Site Visit  |     |
+|     | Site Visit  |     |
+| 10  | Site Visit  |     |
+|     | Site Visit  |     |
 | 11  | CMU-CMS     |     |
 |     | CMU-CMS     |     |
 | 12  | Multi-higgs |     |
@@ -49,3 +49,12 @@ M to school on Bike... Might be last M ride on my bike :(
 # [[Classifier Studies]]
 - Looks like Bridges OS is back
 - need to check failed jobs "Done" not enough
+
+
+# UCSB Site Visit
+- Access code: 8F6R8XC9
+- Less iso when cleaning baseplate tray
+- 
+
+H home sick
+

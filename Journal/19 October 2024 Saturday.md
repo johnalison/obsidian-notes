@@ -36,4 +36,4 @@ Paloma and Sasha over
 # Working Quarterly Review
 [[Fall 2024]]
 
-	Writing up some more [[Nexus]]
+Writing up some more [[Nexus]]
