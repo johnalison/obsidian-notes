@@ -13,3 +13,7 @@ Some [[Selfish reasons to having more kids]]
 
 Some [[Gulag Archipelago]]
 
+# Gym/SR
+- Core / deadlift / cling / stepups
+- 10' at Tmax = 124
+
