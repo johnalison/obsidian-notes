@@ -14,6 +14,9 @@ Rates:
 
 Estimates: 
 - Mason $300 
+- Plukber $200
+- Inspection $795
+- 
 ## Follow-ups
 
 

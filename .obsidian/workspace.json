@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/21 October 2024 Monday.md",
+                "file": "0-inbox/5391 Financing.md",
                 "mode": "source",
                 "source": false
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/21 October 2024 Monday.md",
+                "file": "0-inbox/5391 Financing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/21 October 2024 Monday.md",
+                "file": "0-inbox/5391 Financing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/21 October 2024 Monday.md"
+                "file": "0-inbox/5391 Financing.md"
               }
             }
           }
@@ -188,11 +188,11 @@
   },
   "active": "f348736c61f0d4a0",
   "lastOpenFiles": [
+    "Journal/21 October 2024 Monday.md",
     "0-inbox/HGC TDR.md",
     "0-inbox/ARC HIG-24-017 Boosted VqqHbb.md",
     "1-projects/HGC/EVMS Acronyms.md",
     "0-inbox/AnalysesOverview.excalidraw.md",
-    "Journal/21 October 2024 Monday.md",
     "3-resources/computing/CMU Guest Access.md",
     "0-inbox/Tool List.md",
     "Journal/20 October 2024 Sunday.md",
