@@ -60,7 +60,9 @@ M to school on Bike... Might be last M ride on my bike :(
 - Camera loose can give shifts on fiducials
 - Remove all Cardboard
 - But another dionizer fan (Reccomend: Digikey desktop unit)
-
+- Better oven+ probe
+- Measure encapsulatnt by weight 
+- Counter weight in 
 
 T home sick
 
@@ -70,4 +72,9 @@ T home sick
 # T home 
 
 [[5391 Financing]]
+
+Walk with T. 
+
+# Back to Campus.
+- UCSB site visit round 2
 
