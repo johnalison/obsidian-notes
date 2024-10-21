@@ -1,23 +1,23 @@
 # Timeblock
 
-|     | setup       |     |
-| --- | ----------- | --- |
-| 9   | Site Visit  |     |
-|     | Site Visit  |     |
-| 10  | Site Visit  |     |
-|     | Site Visit  |     |
-| 11  | CMU-CMS     |     |
-|     | CMU-CMS     |     |
-| 12  | Multi-higgs |     |
-|     | Multi-higgs |     |
-| 1   |             |     |
-|     |             |     |
-| 2   |             |     |
-|     | Sindhu      |     |
-| 3   |             |     |
-|     |             |     |
-| 4   | Berman      |     |
-|     |             |     |
+|     | setup           |         |
+| --- | --------------- | ------- |
+| 9   | Site Visit      |         |
+|     | Site Visit      |         |
+| 10  | Site Visit      |         |
+|     | Site Visit      |         |
+| 11  | CMU-CMS         |         |
+|     | CMU-CMS         |         |
+| 12  | ~~Multi-higgs~~ | to 5391 |
+|     | ~~Multi-higgs~~ | Home wT |
+| 1   | w/T             |         |
+|     |                 |         |
+| 2   |                 |         |
+|     | 
+| 3   |                 |         |
+|     |                 |         |
+| 4   | Berman          |         |
+|     |                 |         |
 
 **W:**
 **DW:**
@@ -37,6 +37,7 @@
 - [ ] CMU Security Course
 - [ ] Chair receipt 
 - [ ] Tools on start up ?
+- [x] Dinner Reservation
 
 
 
@@ -59,8 +60,14 @@ M to school on Bike... Might be last M ride on my bike :(
 - Camera loose can give shifts on fiducials
 - Remove all Cardboard
 - But another dionizer fan (Reccomend: Digikey desktop unit)
-- 
+
 
 T home sick
+
+# To 5391 for Sewer inspection
+
+
+# T home 
+
 
 
