@@ -102,7 +102,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -185,7 +186,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f348736c61f0d4a0",
+  "active": "8cd6e87e88b50c39",
   "lastOpenFiles": [
     "3-resources/computing/CMU Guest Access.md",
     "Journal/21 October 2024 Monday.md",
