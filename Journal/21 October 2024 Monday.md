@@ -54,8 +54,12 @@ M to school on Bike... Might be last M ride on my bike :(
 # UCSB Site Visit
 - Access code: 8F6R8XC9
 - Less iso when cleaning baseplate tray
+- Remove nubs on pickup tool standoffs
 - Si PU tool reflected ? .. yea should change "ch1" label
 - Camera loose can give shifts on fiducials
+- Remove all Cardboard
+- But another dionizer fan (Reccomend: Digikey desktop unit)
+- 
 
 T home sick
 
