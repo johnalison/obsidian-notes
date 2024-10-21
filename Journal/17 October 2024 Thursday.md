@@ -4,8 +4,8 @@
 | --- | ---------------------- | --- |
 | 9   | [[Classifier Studies]] |     |
 |     | HH4b                   |     |
-| 10  | Dark photon -> ee      |     |
-|     | Dark photon -> ee      |     |
+| 10  | ~~Dark photon -> ee~~  |     |
+|     | ~~Dark photon -> ee~~  |     |
 | 11  | Stats Chat             |     |
 |     | Stats Chat             |     |
 | 12  | ~~bbWW~~               |     |
@@ -29,16 +29,16 @@
 
 
 # To Do
-- [ ] [[Classifier Studies]]
+- [>>]  [[Classifier Studies]]
 - [x] Update CV  
 - [x] Update Website
-- [ ] cluster Run 3 data
-- [ ] LAB Techs
-- [ ] USCMS 0.5 position
-- [ ] CMU Security Course
+- [>>] cluster Run 3 data
+- [>>] LAB Techs
+- [>>] USCMS 0.5 position
+- [>>] CMU Security Course
 - [x] Review MAC Meeting
 - [x] Review Hbb Meeting
-- [ ] Systems/Goals review
+- [x] Systems/Goals review
 
 
 # Log
@@ -80,7 +80,9 @@ Pick up M&T
 
 Home... 
 
+
 # Dinner with Zuke and Latimer at Sharatorn 
+
 
 # Stymo at the hard rock 
 

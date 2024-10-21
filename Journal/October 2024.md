@@ -16,9 +16,9 @@
 | 14 M | Skimming Skims / CV / **Hoops** / Classifier on falcon / H Basketball                      | 7/4/3 |
 | 15 T | Work CV / Cancelled chair / Run-3 clustering / **Gym/SR** / Act 153 renew                  | 6/1/1 |
 | 16 W | (CAPs visit) (Inspection) Chat AE re 0.5 FTE /  **New Mexican Dinner**                     | 3/2/2 |
-| 17 H | (TMan Show)                                                                                |       |
-| 18 F | (CYERT Closed)                                                                             |       |
-| 19 S |                                                                                            |       |
+| 17 H | (TMan Show) [[Classifier Studies]] / 5391 / Hike wH / Desk Chair / Dinner Zuke             | 4/1/1 |
+| 18 F | (CYERT Closed) wM&T / Bridges down / CV/ [[Tool List]] / Easy does it                      | -/-/- |
+| 19 S | Reading / work odds & ends / [[Tool List]] / Giant Eagle / Paloma / [[Fall 2024]]          |       |
 | 20 S |                                                                                            |       |
 | 21 M | (Santa Barbara Visit)                                                                      |       |
 | 22 T | (Santa Barbara Visit)                                                                      |       |

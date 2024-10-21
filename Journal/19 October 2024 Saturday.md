@@ -3,14 +3,14 @@
 # Log
 
 - [x] Module summary
-- [ ] Chair receipt 
-- [ ] Tools on start up ?
+- [>>] Chair receipt 
+- [>>] Tools on start up ?
 
 Up at 8
 
 Bridges still down
 
-some [[Selfish reasons to having more kids]]
+Some [[Selfish reasons to having more kids]]
 
 Sent [[Modules Summary October 2024]]
 

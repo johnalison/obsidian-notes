@@ -28,4 +28,4 @@ Looking into [[Tool List]]
 
 [[The economic way of thinking in a pandemic]]
 
-- [ ] Module summary
+- [>>] Module summary
