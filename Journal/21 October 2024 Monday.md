@@ -29,14 +29,14 @@
 
 
 # To Do
-- [ ] Grade MPL
-- [ ] [[Classifier Studies]]
-- [ ] cluster Run 3 data
-- [ ] LAB Techs
-- [ ] USCMS 0.5 position
-- [ ] CMU Security Course
-- [ ] Chair receipt 
-- [ ] Tools on start up ?
+- [>>] Grade MPL
+- [>>] [[Classifier Studies]]
+- [>>] cluster Run 3 data
+- [>>] LAB Techs
+- [>>] USCMS 0.5 position
+- [>>] CMU Security Course
+- [>>] Chair receipt 
+- [>>] Tools on start up ?
 - [x] Dinner Reservation
 
 
@@ -57,12 +57,14 @@ M to school on Bike... Might be last M ride on my bike :(
 - Less iso when cleaning baseplate tray
 - Remove nubs on pickup tool standoffs
 - Si PU tool reflected ? .. yea should change "ch1" label
-- Camera loose can give shifts on fiducials
-- Remove all Cardboard
-- But another dionizer fan (Reccomend: Digikey desktop unit)
-- Better oven+ probe
+- Camera loose can give shifts on fiducials ...OK
+- Remove all Cardboard !
+- But another dionizer fan (Reccomend: Digikey desktop unit internal )
+- Better oven+ temp probe
 - Measure encapsulatnt by weight 
-- Counter weight in 
+- Counter weight in oscillator
+- Mount vacuum on Unistrut from the ceiling
+- label maker
 
 T home sick
 
@@ -77,4 +79,11 @@ Walk with T.
 
 # Back to Campus.
 - UCSB site visit round 2
+
+Home with M 
+
+# Dinner Butterjoint 
+- UCSB crew. 
+- will make 100 modules / day ~ 3m^2 
+
 
