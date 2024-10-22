@@ -52,19 +52,10 @@ M to school on Bike... Might be last M ride on my bike :(
 - need to check failed jobs "Done" not enough
 
 
-# UCSB Site Visit
-- Access code: 8F6R8XC9
-- Less iso when cleaning baseplate tray
-- Remove nubs on pickup tool standoffs
-- Si PU tool reflected ? .. yea should change "ch1" label
-- Camera loose can give shifts on fiducials ...OK
-- Remove all Cardboard !
-- But another dionizer fan (Reccomend: Digikey desktop unit internal )
-- Better oven+ temp probe
-- Measure encapsulatnt by weight 
-- Counter weight in oscillator
-- Mount vacuum on Unistrut from the ceiling
-- label maker
+# UCSB Site Visit Day 1
+-  Access code: 8F6R8XC9
+- [[Action Items From USCB Site Visit]]
+
 
 T home sick
 

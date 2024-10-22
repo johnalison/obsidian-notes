@@ -1,31 +1,31 @@
 # Timeblock
 
-|     |     |     |
-| --- | --- | --- |
-| 9   |     |     |
-|     |     |     |
-| 10  |     |     |
-|     |     |     |
-| 11  |     |     |
-|     |     |     |
-| 12  |     |     |
-|     |     |     |
-| 1   |     |     |
-|     |     |     |
-| 2   |     |     |
-|     |     |     |
-| 3   |     |     |
-|     |     |     |
-| 4   |     |     |
-|     |     |     |
+|     | setup        |     |
+| --- | ------------ | --- |
+| 9   | UCSB All day |     |
+|     | UCSB All day |     |
+| 10  | UCSB All day |     |
+|     | UCSB All day |     |
+| 11  | UCSB All day |     |
+|     | UCSB All day |     |
+| 12  | UCSB All day |     |
+|     | Lunch        |     |
+| 1   | Lunch        |     |
+|     | Lunch        |     |
+| 2   | UCSB All day |     |
+|     | UCSB All day |     |
+| 3   | 5391 Offer   |     |
+|     | mails        |     |
+| 4   | Wrap up      |     |
+|     | Wrap up      |     |
 
-**W:**
-**DW:**
-**OT:**
-**ex** or **No ex**
+**W:** 8 
+**DW:** 4 
+**OT:**. 8
+**No ex**
 
 # The ONE thing: 
-- [ ] 
+- [ ] UCSB Site visit
 
 
 # To Do
@@ -39,9 +39,6 @@
 - [ ] [[Classifier Studies]]
 
 
-
-
-
 # Log
 
 Up at 7
@@ -49,38 +46,28 @@ Up at 7
 H to School 
 
 # UCSB visit day 2
-- Drawings for pull tester fixture
-- Separate mixing station: butcher paper with roll 
-- Separate inspecting and tape removal stations
-- Bonding Program to ground wires
-- Bond picture on mini-gantry: camera + pi
-- re:organize work flow
-- Camera flick test ... all good.
-- Microscope with another axis.
-- Copper plate for cooling
-- Clamps on carrying trays
-- Weight the encapulant and expoxy, benchmark against standard PSI/time
-- OGP stage: warped
-- less PSI on modules
-- Sticky pads for wires
-- Gantry computer moves
-- Shelving for tooling
-- popscicle stick for encapsulant
-- Grounding program 
-- Test encapsulant with higher PSI
-- Hexaboard backlighting
-
-
+- [[Action Items From USCB Site Visit]]
 
 
 Chat AE re:Boosted veto
 
 # Lunch Ali Baba
 
+
 # Chat after lunch
 - Went over action items
 
+
+# [[Classifier Studies]]
+- resubmitted ... seeing cuda errors
+
 Showed them the intake office. 
 
+Chat Steph about asking price... Down to $630k
+
+
+# Wrap up
+- 16 modules / day in May
+- 40 parts 1 day each of 2 / 4 / 8 
 
 
