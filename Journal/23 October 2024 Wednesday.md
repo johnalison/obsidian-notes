@@ -15,9 +15,9 @@
 | 2   | [[Classifier Studies]] |                        |
 |     | Sindhu                 |                        |
 | 3   | Grade MPL              |                        |
-|     | Grade MPL              |                        |
-| 4   |                        |                        |
-|     |                        |                        |
+|     | ~~Grade MPL~~          | Chat Matteo            |
+| 4   | Berman                 |                        |
+|     | Berman                 |                        |
 
 **W:**
 **DW:**
@@ -49,7 +49,7 @@ Setup / mail
 - setting up master
 - submit jobs to average over the kFolds
 - copied to LPC (with `python/analysis/copy_from_PSC.py`)
-- making hists
+- make all input hists
 
 
 
@@ -68,6 +68,6 @@ More [[Classifier Studies]]... above
 # Chat Sindhu
 - discussed double peak again...
 
-Chat Matteo
+# Chat Matteo
 
-Chat Chris Berman
+# Chat Chris Berman
