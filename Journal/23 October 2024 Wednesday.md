@@ -49,7 +49,7 @@ Setup / mail
 - setting up master
 - submit jobs to average over the kFolds
 - copied to LPC (with `python/analysis/copy_from_PSC.py`)
-- 
+- making hists
 
 
 
@@ -64,3 +64,7 @@ Sending [[Action Items From UCSB Site Visit]]
 More [[Classifier Studies]]... above
 
 [[Building Fermilab]]
+
+# Chat Sindhu
+- discussed double peak again...
+
