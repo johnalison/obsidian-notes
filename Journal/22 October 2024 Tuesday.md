@@ -29,14 +29,14 @@
 
 
 # To Do
-- [ ]  cluster Run 3 data
-- [ ] LAB Techs
-- [ ] USCMS 0.5 position
-- [ ] CMU Security Course
-- [ ] Chair receipt 
-- [ ] Tools on start up ?
-- [ ] Grade MPL
-- [ ] [[Classifier Studies]]
+- [>>]  cluster Run 3 data
+- [>>] LAB Techs
+- [>>] USCMS 0.5 position
+- [<<] CMU Security Course
+- [>>] Chair receipt 
+- [x] Tools on start up ?
+- [>>] Grade MPL
+- [>>] [[Classifier Studies]]
 
 
 # Log
@@ -71,3 +71,8 @@ Chat Steph about asking price... Down to $630k
 - 40 parts 1 day each of 2 / 4 / 8 
 
 
+Home 
+
+Some [[Selfish reasons to having more kids]]
+
+Rachel asks me to give HEP + Med + theory introduction to new dean

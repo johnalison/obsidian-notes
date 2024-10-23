@@ -20,8 +20,8 @@
 | 18 F | (CYERT Closed) wM&T / Bridges down / CV/ [[Tool List]] / Easy does it                      | -/-/- |
 | 19 S | Reading / work odds & ends / [[Tool List]] / Giant Eagle / Paloma / [[Fall 2024]]          |       |
 | 20 S | Razels Party / Reading / **Gym /SR** / Easy                                                |       |
-| 21 M | (Santa Barbara Visit)                                                                      |       |
-| 22 T | (Santa Barbara Visit)                                                                      |       |
+| 21 M | (UCSB Visit) To 5391 / cleaned bike / More UCSB / Dinner Butterjoint                       | 5/5/5 |
+| 22 T | (UCSB Visit) Site visit / Lunch AliBaba / More UCSB / close out                            | 8/4/8 |
 | 23 W |                                                                                            |       |
 | 24 H | (Fingerprints)                                                                             |       |
 | 25 F |                                                                                            |       |

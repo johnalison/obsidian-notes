@@ -8,6 +8,7 @@ These should be on Daily's page  !
 - [ ] CAM Training
 - [ ] Read HGC TDR
 - [ ] Collect and Send Teachers program info
+- [ ] CMU Security Course
 
 # Not Important + Due Soon
 DON'T DO

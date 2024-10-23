@@ -1,23 +1,23 @@
 # Timeblock
 
-|     | setup                  |     |
-| --- | ---------------------- | --- |
-| 9   | [[Classifier Studies]] |     |
-|     | HH4b                   |     |
-| 10  | ~~Dark photon -> ee~~  |     |
-|     | ~~Dark photon -> ee~~  |     |
-| 11  | Stats Chat             |     |
-|     | Stats Chat             |     |
-| 12  | ~~bbWW~~               |     |
-|     | 5391                   |     |
-| 1   | 5391                   |     |
-|     | 5391                   |     |
-| 2   | H hike                 |     |
-|     | H hike                 |     |
-| 3   | H hike                 |     |
-|     | chair shopping         |     |
-| 4   | chair shopping         |     |
-|     | chair shopping         |     |
+|     | setup                  |                        |
+| --- | ---------------------- | ---------------------- |
+| 9   | [[Classifier Studies]] |                        |
+|     | HH4b                   |                        |
+| 10  | ~~Dark photon -> ee~~  | [[Classifier Studies]] |
+|     | ~~Dark photon -> ee~~  | [[Classifier Studies]] |
+| 11  | Stats Chat             |                        |
+|     | Stats Chat             |                        |
+| 12  | ~~bbWW~~               |                        |
+|     | 5391                   |                        |
+| 1   | 5391                   |                        |
+|     | 5391                   |                        |
+| 2   | H hike                 |                        |
+|     | H hike                 |                        |
+| 3   | H hike                 |                        |
+|     | chair shopping         |                        |
+| 4   | chair shopping         |                        |
+|     | chair shopping         |                        |
 
 **W:** 4 
 **DW:** 1
@@ -70,7 +70,7 @@ Some CV
 
 # Hike with H
 
-Hot H out early
+Got H out early
 
 Bought desk chair from staples 
 
@@ -81,8 +81,8 @@ Pick up M&T
 Home... 
 
 
-# Dinner with Zuke and Latimer at Sharatorn 
+# Dinner with Zuke and Latimer at Sheraton 
 
 
-# Stymo at the hard rock 
+# Stymo at the Hard Rock  !
 

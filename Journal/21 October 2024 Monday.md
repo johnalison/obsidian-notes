@@ -6,23 +6,23 @@
 |     | Site Visit      |         |
 | 10  | Site Visit      |         |
 |     | Site Visit      |         |
-| 11  | CMU-CMS         |         |
-|     | CMU-CMS         |         |
+| 11  | Site Visit      |         |
+|     | Site Visit      |         |
 | 12  | ~~Multi-higgs~~ | to 5391 |
 |     | ~~Multi-higgs~~ | Home wT |
 | 1   | w/T             |         |
 |     | MPL             |         |
-| 2   |                 |         |
-|     |                 |         |
-| 3   |                 |         |
-|     |                 |         |
-| 4   | Berman          |         |
-|     |                 |         |
+| 2   | cleaned bike    |         |
+|     | w/T             |         |
+| 3   | walk with T     |         |
+|     | campus          |         |
+| 4   | Site Visit      |         |
+|     | Site Visit      |         |
 
-**W:**
-**DW:**
-**OT:**
-**ex** or **No ex**
+**W:** 5
+**DW:** 5
+**OT:** 5
+**No ex**
 
 # The ONE thing: 
 - [ ] UCSB Visit
@@ -61,10 +61,11 @@ T home sick
 
 # To 5391 for Sewer inspection
 
-
 # T home 
 
 [[5391 Financing]]
+
+Cleaned bike
 
 Walk with T. 
 
