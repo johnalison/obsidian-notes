@@ -54,7 +54,7 @@ M to school on Bike... Might be last M ride on my bike :(
 
 # UCSB Site Visit Day 1
 -  Access code: 8F6R8XC9
-- [[Action Items From USCB Site Visit]]
+- [[Action Items From UCSB Site Visit]]
 
 
 T home sick

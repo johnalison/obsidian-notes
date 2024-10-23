@@ -46,7 +46,7 @@ Up at 7
 H to School 
 
 # UCSB visit day 2
-- [[Action Items From USCB Site Visit]]
+- [[Action Items From UCSB Site Visit]]
 
 
 Chat AE re:Boosted veto

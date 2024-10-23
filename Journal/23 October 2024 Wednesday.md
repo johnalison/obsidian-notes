@@ -11,8 +11,8 @@
 | 12  | ~~HGC summary~~        | Hoops                  |
 |     | Hoops                  |                        |
 | 1   | Hoops                  |                        |
-|     | Hoops                  |                        |
-| 2   |                        |                        |
+|     | HGC Summary            |                        |
+| 2   | [[Classifier Studies]] |                        |
 |     | Sindhu                 |                        |
 | 3   | Grade MPL              |                        |
 |     | Grade MPL              |                        |
@@ -22,8 +22,7 @@
 **W:**
 **DW:**
 **OT:**
-**ex** or **No ex**
-
+**ex** 
 # The ONE thing: 
 - [ ] [[Classifier Studies]]
 
@@ -36,7 +35,7 @@
 - [ ] LAB Techs
 - [ ] USCMS 0.5 position
 - [ ] Summary mail from visit
-- [ ] HGC Summary
+- [x] HGC Summary
 
 
 # Log
@@ -50,7 +49,17 @@ Setup / mail
 # [[Classifier Studies]]
 - setting up master
 - submit jobs to average over the kFolds
-- copying to LPC (python/analysis/copy_from_PSC.py)
+- copied to LPC (with `python/analysis/copy_from_PSC.py`)
+- 
+
+
 
 Signed response for 5391 will ask for $125k off
 
+# Hoops / Steamroom
+- 4s and 5s good runs! 
+- 10' at Tmax=?
+
+Sending [[Action Items From UCSB Site Visit]]
+
+More [[Classifier Studies]]... above
