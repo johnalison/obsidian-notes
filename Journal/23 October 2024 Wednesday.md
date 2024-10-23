@@ -68,3 +68,6 @@ More [[Classifier Studies]]... above
 # Chat Sindhu
 - discussed double peak again...
 
+Chat Matteo
+
+Chat Chris Berman
