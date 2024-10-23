@@ -1,23 +1,23 @@
 # Timeblock
 
-|     | setup  |     |
-| --- | ------ | --- |
-| 9   |        |     |
-|     |        |     |
-| 10  |        |     |
-|     |        |     |
-| 11  |        |     |
-|     |        |     |
-| 12  |        |     |
-|     | Hoops  |     |
-| 1   | Hoops  |     |
-|     | Hoops  |     |
-| 2   |        |     |
-|     | Sindhy |     |
-| 3   |        |     |
-|     |        |     |
-| 4   |        |     |
-|     |        |     |
+|     | setup                  |     |
+| --- | ---------------------- | --- |
+| 9   | mail                   |     |
+|     | [[Classifier Studies]] |     |
+| 10  | [[Classifier Studies]] |     |
+|     | [[Classifier Studies]] |     |
+| 11  | Grade MPL              |     |
+|     | Grade MPL              |     |
+| 12  | HGC summary            |     |
+|     | Hoops                  |     |
+| 1   | Hoops                  |     |
+|     | Hoops                  |     |
+| 2   |                        |     |
+|     | Sindhy                 |     |
+| 3   |                        |     |
+|     |                        |     |
+| 4   |                        |     |
+|     |                        |     |
 
 **W:**
 **DW:**
@@ -25,7 +25,7 @@
 **ex** or **No ex**
 
 # The ONE thing: 
-- [ ] 
+- [ ] [[Classifier Studies]]
 
 
 # To Do
@@ -36,6 +36,16 @@
 - [ ] LAB Techs
 - [ ] USCMS 0.5 position
 - [ ] Summary mail from visit
+- [ ] HGC Summary
 
 
 # Log
+
+Up at 7:30
+
+M&T to school
+
+Setup / mail 
+
+# [[Classifier Studies]]
+
