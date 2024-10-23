@@ -1,23 +1,23 @@
 # Timeblock
 
-|     | setup                  |     |
-| --- | ---------------------- | --- |
-| 9   | mail                   |     |
-|     | [[Classifier Studies]] |     |
-| 10  | [[Classifier Studies]] |     |
-|     | [[Classifier Studies]] |     |
-| 11  | Grade MPL              |     |
-|     | Grade MPL              |     |
-| 12  | HGC summary            |     |
-|     | Hoops                  |     |
-| 1   | Hoops                  |     |
-|     | Hoops                  |     |
-| 2   |                        |     |
-|     | Sindhy                 |     |
-| 3   |                        |     |
-|     |                        |     |
-| 4   |                        |     |
-|     |                        |     |
+|     | setup                  |                        |
+| --- | ---------------------- | ---------------------- |
+| 9   | mail                   |                        |
+|     | [[Classifier Studies]] |                        |
+| 10  | [[Classifier Studies]] |                        |
+|     | [[Classifier Studies]] |                        |
+| 11  | ~~Grade MPL~~          | [[Classifier Studies]] |
+|     | ~~Grade MPL~~          | [[Classifier Studies]] |
+| 12  | ~~HGC summary~~        | Hoops                  |
+|     | Hoops                  |                        |
+| 1   | Hoops                  |                        |
+|     | Hoops                  |                        |
+| 2   |                        |                        |
+|     | Sindhu                 |                        |
+| 3   | Grade MPL              |                        |
+|     | Grade MPL              |                        |
+| 4   |                        |                        |
+|     |                        |                        |
 
 **W:**
 **DW:**
@@ -51,4 +51,6 @@ Setup / mail
 - setting up master
 - submit jobs to average over the kFolds
 - copying to LPC (python/analysis/copy_from_PSC.py)
+
+Signed response for 5391 will ask for $125k off
 
