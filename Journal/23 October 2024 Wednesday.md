@@ -50,5 +50,5 @@ Setup / mail
 # [[Classifier Studies]]
 - setting up master
 - submit jobs to average over the kFolds
-- 
+- copying to LPC (python/analysis/copy_from_PSC.py)
 
