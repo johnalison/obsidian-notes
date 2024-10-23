@@ -34,7 +34,6 @@
 - [ ]  cluster Run 3 data
 - [ ] LAB Techs
 - [ ] USCMS 0.5 position
-- [ ] Summary mail from visit
 - [x] HGC Summary
 
 
