@@ -49,5 +49,6 @@ Setup / mail
 
 # [[Classifier Studies]]
 - setting up master
+- averaging over the kFolds
 - 
 
