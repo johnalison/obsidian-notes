@@ -48,4 +48,6 @@ M&T to school
 Setup / mail 
 
 # [[Classifier Studies]]
+- setting up master
+- 
 
