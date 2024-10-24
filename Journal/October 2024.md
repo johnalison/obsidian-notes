@@ -22,7 +22,7 @@
 | 20 S | Razels Party / Reading / **Gym /SR** / Easy                                                |       |
 | 21 M | (UCSB Visit) To 5391 / cleaned bike / More UCSB / Dinner Butterjoint                       | 5/5/5 |
 | 22 T | (UCSB Visit) Site visit / Lunch AliBaba / More UCSB / close out                            | 8/4/8 |
-| 23 W |                                                                                            |       |
+| 23 W | [[Classifier Studies]] / Update 5391 offer / **Hoops/SR** / Chats                          | 7/3/4 |
 | 24 H | (Fingerprints)                                                                             |       |
 | 25 F |                                                                                            |       |
 | 26 S |                                                                                            |       |
@@ -30,4 +30,4 @@
 | 28 M |                                                                                            |       |
 | 29 T | (Black Crowes)                                                                             |       |
 | 30 W |                                                                                            |       |
-| 31 H |                                                                                            |       |
+| 31 H | (Talk in Faculty Meeting)                                                                  |       |

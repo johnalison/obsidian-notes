@@ -19,21 +19,21 @@
 | 4   | Berman                 |                        |
 |     | Berman                 |                        |
 
-**W:**
-**DW:**
-**OT:**
+**W:** 7 
+**DW:** 3
+**OT:** 4
 **ex** 
 # The ONE thing: 
 - [ ] [[Classifier Studies]]
 
 
 # To Do
-- [ ] Grade MPL
-- [ ]  [[Classifier Studies]]
-- [ ] Chair / tool receipts
-- [ ]  cluster Run 3 data
-- [ ] LAB Techs
-- [ ] USCMS 0.5 position
+- [>>] Grade MPL
+- [>>]  [[Classifier Studies]]
+- [>>] Chair / tool receipts
+- [>>]  cluster Run 3 data
+- [>>] LAB Techs
+- [>>] USCMS 0.5 position
 - [x] HGC Summary
 
 
@@ -49,8 +49,8 @@ Setup / mail
 - setting up master
 - submit jobs to average over the kFolds
 - copied to LPC (with `python/analysis/copy_from_PSC.py`)
-- make all input hists
-
+- made all input hists
+- did the conversions
 
 
 Signed response for 5391 will ask for $125k off
@@ -70,4 +70,11 @@ More [[Classifier Studies]]... above
 
 # Chat Matteo
 
+
 # Chat Chris Berman
+
+Home with M&T
+
+Some [[Self-Help is like a vaccine]]
+
+

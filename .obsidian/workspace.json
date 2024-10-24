@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/22 October 2024 Tuesday.md",
+                "file": "Journal/23 October 2024 Wednesday.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,19 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/23 October 2024 Wednesday.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "77d90519af3823dc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0-inbox/ToDo.md",
+                "file": "Journal/24 October 2024 Thursday.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:todo",
+                "query": "embed",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -135,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/23 October 2024 Wednesday.md",
+                "file": "Journal/24 October 2024 Thursday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/23 October 2024 Wednesday.md",
+                "file": "Journal/24 October 2024 Thursday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/23 October 2024 Wednesday.md"
+                "file": "Journal/24 October 2024 Thursday.md"
               }
             }
           }
@@ -200,22 +188,25 @@
   },
   "active": "dc5a18b6a1951202",
   "lastOpenFiles": [
-    "0-inbox/Nobel Prize Physics 2024.md",
-    "0-inbox/Building Fermilab.md",
-    "Journal/23 October 2024 Wednesday.md",
-    "0-inbox/Action Items From UCSB Site Visit.md",
-    "Journal/22 October 2024 Tuesday.md",
-    "0-inbox/ToDo.md",
     "Journal/October 2024.md",
-    "0-inbox/Tool List.md",
+    "Journal/23 October 2024 Wednesday.md",
+    "Journal/24 October 2024 Thursday.md",
+    "Journal/22 October 2024 Tuesday.md",
     "Journal/21 October 2024 Monday.md",
-    "3-resources/computing/PSC Bridges.md",
     "Journal/20 October 2024 Sunday.md",
     "Journal/19 October 2024 Saturday.md",
+    "Journal/11 October 2024 Friday.md",
+    "3-resources/Obsidian/Images in Obsidian.md",
     "Journal/18 October 2024 Friday.md",
     "Journal/17 October 2024 Thursday.md",
     "Journal/16 October 2024 Wednesday.md",
     "Journal/15 October 2024 Tuesday.md",
+    "3-resources/computing/PSC Bridges.md",
+    "0-inbox/ToDo.md",
+    "0-inbox/Nobel Prize Physics 2024.md",
+    "0-inbox/Building Fermilab.md",
+    "0-inbox/Action Items From UCSB Site Visit.md",
+    "0-inbox/Tool List.md",
     "Journal/14 October 2024 Monday.md",
     "Input/Meetings/HGC MAC Meeting 16 October 2024.md",
     "Output/CAM/Modules Summary October 2024.md",
@@ -223,9 +214,6 @@
     "0-inbox/5391 Financing.md",
     "0-inbox/HGC TDR.md",
     "0-inbox/ARC HIG-24-017 Boosted VqqHbb.md",
-    "1-projects/HGC/EVMS Acronyms.md",
-    "0-inbox/AnalysesOverview.excalidraw.md",
-    "3-resources/computing/CMU Guest Access.md",
     "0-inbox/#Nexus.md#",
     "0-inbox/#EVMS Acronyms.md#",
     "0-inbox/#How Adam Smith Can Change Your Life.md#",
