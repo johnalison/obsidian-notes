@@ -60,3 +60,5 @@ M&T to school
 - Steam room down ...
 
 More classifier studies... above
+
+Walk to Pitt ... Fingerprints ... Back to campus
