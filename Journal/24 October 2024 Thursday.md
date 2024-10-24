@@ -9,15 +9,15 @@
 | 11  | Stats Chat       |     |
 |     | Stats Chat       |     |
 | 12  | bbWW             |     |
-|     | Faculty Meeting  |     |
-| 1   | Faculty Meeting  |     |
-|     |                  |     |
+|     | Gym              |     |
+| 1   | Gym              |     |
+|     | Gym              |     |
 | 2   |                  |     |
 |     | Finger Prints    |     |
 | 3   | Finger Prints    |     |
-|     |                  |     |
-| 4   |                  |     |
-|     |                  |     |
+|     | Grade MPL        |     |
+| 4   | Grade MPL        |     |
+|     | Grade MPL        |     |
 
 **W:**
 **DW:**
@@ -48,4 +48,7 @@ M&T to school
 - Boosted overlap numbers
 
 # [[Classifier Studies]]
-- Can run runTwoStageClosure ... 
+- Cant run runTwoStageClosure ... 
+- Fixed with new combine container 
+- Running the fits
+
