@@ -14,7 +14,7 @@
 |     | Gym              |     |
 | 2   |                  |     |
 |     | Finger Prints    |     |
-| 3   | Finger Prints    |     |
+| 3   | Grade MPL        |     |
 |     | Grade MPL        |     |
 | 4   | Grade MPL        |     |
 |     | Grade MPL        |     |
@@ -62,3 +62,5 @@ M&T to school
 More classifier studies... above
 
 Walk to Pitt ... Fingerprints ... Back to campus
+
+Grading MPL
