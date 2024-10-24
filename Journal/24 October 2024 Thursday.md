@@ -1,35 +1,35 @@
 # Timeblock
 
-|     | setup            |     |
-| --- | ---------------- | --- |
-| 9   | HH4b             |     |
-|     | HH4b             |     |
-| 10  | chat Dark photon |     |
-|     | Chat Dark photon |     |
-| 11  | Stats Chat       |     |
-|     | Stats Chat       |     |
-| 12  | bbWW             |     |
-|     | Gym              |     |
-| 1   | Gym              |     |
-|     | Gym              |     |
-| 2   |                  |     |
-|     | Finger Prints    |     |
-| 3   | Grade MPL        |     |
-|     | Grade MPL        |     |
-| 4   | Grade MPL        |     |
-|     | Grade MPL        |     |
+|     | setup                  |     |
+| --- | ---------------------- | --- |
+| 9   | HH4b                   |     |
+|     | HH4b                   |     |
+| 10  | chat Dark photon       |     |
+|     | Chat Dark photon       |     |
+| 11  | Stats Chat             |     |
+|     | Stats Chat             |     |
+| 12  | bbWW                   |     |
+|     | Gym                    |     |
+| 1   | Gym                    |     |
+|     | Gym                    |     |
+| 2   | [[Classifier Studies]] |     |
+|     | Finger Prints          |     |
+| 3   | Grade MPL              |     |
+|     | Grade MPL              |     |
+| 4   | Odds and ends          |     |
+|     |                        |     |
 
 **W:**
 **DW:**
 **OT:**
-**ex** or **No ex**
+**ex** 
 
 # The ONE thing: 
 - [ ] [[Classifier Studies]]
 
 
 # To Do
-- [ ] Grade MPL
+- [x] Grade MPL
 - [ ] [[Classifier Studies]]
 - [ ] Chair / tool receipts
 - [ ] cluster Run 3 data
@@ -62,5 +62,9 @@ M&T to school
 More classifier studies... above
 
 Walk to Pitt ... Fingerprints ... Back to campus
+- Started [[Building Fermilab]]
 
 Grading MPL
+
+Finished MPL grades
+
