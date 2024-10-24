@@ -50,11 +50,13 @@ M&T to school
 # [[Classifier Studies]]
 - Cant run runTwoStageClosure ... 
 - Fixed with new combine container 
-- Running the fits
+- Running the fits... seem sensible
+- Starting FvT fits with ZZ and ZHSR in the SB
 
-# Stats Chat
-- Very good discussion
-- Null looks OK 
-- with signal see that the FvT weighting is biased by signal contaimination when fitting FvT using the original latent space (found by fitting SvB)
-- When fitting FvT from the orignial inputs the results look goog
-- This suggests that impact of the signal contaimination in the CR depends strongly on FvT the latetnt space. (Swiss cheese vs Blue chese).  When using the original latent space the FvT sees the CR signal contaimination as swiss cheese. When going back to inputs are refitting the FvT sees the CR signal contaimination as blue cheese.
+# [[StatsChat-24-October-2024]]
+
+# Gym 
+- core / row / lift / bench
+- Steam room down ...
+
+More classifier studies... above
