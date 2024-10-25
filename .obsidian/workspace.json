@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/25 October 2024 Friday.md",
+                "file": "3-resources/computing/Setting up Falcon.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,7 +90,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -110,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/25 October 2024 Friday.md",
+                "file": "3-resources/computing/Setting up Falcon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/25 October 2024 Friday.md",
+                "file": "3-resources/computing/Setting up Falcon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/25 October 2024 Friday.md"
+                "file": "3-resources/computing/Setting up Falcon.md"
               }
             }
           }
@@ -175,13 +176,18 @@
   },
   "active": "dc5a18b6a1951202",
   "lastOpenFiles": [
-    "0-inbox/5391 Financing.md",
+    "0-inbox/CMU 4b Chat 25 October 2024.md",
     "Journal/25 October 2024 Friday.md",
+    "Journal/September/27 September 2024 Friday.md",
+    "Journal/4 October 2024 Friday.md",
+    "Journal/11 October 2024 Friday.md",
+    "Journal/18 October 2024 Friday.md",
+    "Output/ProgressReports/ProgressReport 25 October 2024.md",
+    "0-inbox/5391 Financing.md",
     "2-areas/Personal/ToAddToCV.md",
     "1-projects/HH4b/Run-3 4b skims.md",
     "Journal/24 October 2024 Thursday.md",
     "Output/ProgressReports/ProgressReport 11 October 2024.md",
-    "Output/ProgressReports/ProgressReport 25 October 2024.md",
     "Input/Meetings/HGC MAC Meeting 16 October 2024.md",
     "0-inbox/ToDo.md",
     "Journal/October 2024.md",
@@ -191,16 +197,11 @@
     "Journal/21 October 2024 Monday.md",
     "Journal/20 October 2024 Sunday.md",
     "Journal/19 October 2024 Saturday.md",
-    "Journal/18 October 2024 Friday.md",
     "3-resources/computing/PSC Bridges.md",
     "00-Zettelkasten/Higgs Potential Algebra.md",
     "00-Zettelkasten/ZettelKasten Index.md",
     "0-inbox/Building Fermilab.md",
     "0-inbox/StatsChat-24-October-2024.md",
-    "Input/Meetings/StatsChat-17-October-2024.md",
-    "Journal/11 October 2024 Friday.md",
-    "3-resources/Obsidian/Images in Obsidian.md",
-    "Journal/17 October 2024 Thursday.md",
     "0-inbox/#Nexus.md#",
     "0-inbox/#EVMS Acronyms.md#",
     "0-inbox/#How Adam Smith Can Change Your Life.md#",

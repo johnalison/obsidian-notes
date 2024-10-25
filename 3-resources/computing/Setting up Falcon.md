@@ -35,6 +35,17 @@ Trying test job...
 
 # New Classifier Training setup should be coffea
 
+# Login instructions
+
+---- get a login ---  
+  
+- Go to [https://account.mcs.cmu.edu/](https://account.mcs.cmu.edu/)  
+- Choose option 1  
+- If prompted, enter your cmu andrewid and cmu password  
+- type your desired cluster password twice (can be the same as andrew password or different) and tick "squadron" only  
+- click submit and wait for confirmation of your request on the webpage
+
+
 ## Follow-ups
 
 

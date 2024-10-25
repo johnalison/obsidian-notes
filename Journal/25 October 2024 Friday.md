@@ -58,3 +58,8 @@ More classifier studies ... see above
 # Hoops
 - Great Runs 5s !  Covering spreads! 
 - Good split and behind the back dish on a fast break
+
+Start classifier slides
+
+# [[CMU 4b Chat 25 October 2024]]
+
