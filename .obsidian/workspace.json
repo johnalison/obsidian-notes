@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/5391 Financing.md",
+                "file": "Journal/25 October 2024 Friday.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/5391 Financing.md",
+                "file": "Journal/25 October 2024 Friday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/5391 Financing.md",
+                "file": "Journal/25 October 2024 Friday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/5391 Financing.md"
+                "file": "Journal/25 October 2024 Friday.md"
               }
             }
           }
@@ -175,6 +175,7 @@
   },
   "active": "dc5a18b6a1951202",
   "lastOpenFiles": [
+    "0-inbox/5391 Financing.md",
     "Journal/25 October 2024 Friday.md",
     "2-areas/Personal/ToAddToCV.md",
     "1-projects/HH4b/Run-3 4b skims.md",
@@ -200,7 +201,6 @@
     "Journal/11 October 2024 Friday.md",
     "3-resources/Obsidian/Images in Obsidian.md",
     "Journal/17 October 2024 Thursday.md",
-    "Journal/16 October 2024 Wednesday.md",
     "0-inbox/#Nexus.md#",
     "0-inbox/#EVMS Acronyms.md#",
     "0-inbox/#How Adam Smith Can Change Your Life.md#",

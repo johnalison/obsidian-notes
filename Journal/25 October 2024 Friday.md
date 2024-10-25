@@ -55,5 +55,6 @@ More classifier studies ... see above
 
 [[5391 Financing]]
 
-
-
+# Hoops
+- Great Runs 5s !  Covering spreads! 
+- Good split and behind the back dish on a fast break
