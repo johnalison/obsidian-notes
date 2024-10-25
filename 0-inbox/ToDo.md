@@ -4,11 +4,12 @@ Longer Term To Do Items...
 These should be on Daily's page  !
 
 # Important + Not Due Soon:
-- [ ] Watch Pre-Approval VqqHbb
+- [>>] Watch Pre-Approval VqqHbb
 - [ ] CAM Training
 - [ ] Read HGC TDR
 - [ ] Collect and Send Teachers program info
 - [ ] CMU Security Course
+- [ ] Synthetic datasets for boosted
 
 # Not Important + Due Soon
 DON'T DO

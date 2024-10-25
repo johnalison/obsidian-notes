@@ -1,27 +1,27 @@
 # Timeblock
 
-|     | setup                  |     |
-| --- | ---------------------- | --- |
-| 9   | HH4b                   |     |
-|     | HH4b                   |     |
-| 10  | chat Dark photon       |     |
-|     | Chat Dark photon       |     |
-| 11  | Stats Chat             |     |
-|     | Stats Chat             |     |
-| 12  | bbWW                   |     |
-|     | Gym                    |     |
-| 1   | Gym                    |     |
-|     | Gym                    |     |
-| 2   | [[Classifier Studies]] |     |
-|     | Finger Prints          |     |
-| 3   | Grade MPL              |     |
-|     | Grade MPL              |     |
-| 4   | Odds and ends          |     |
-|     |                        |     |
+|     | setup                  |                        |
+| --- | ---------------------- | ---------------------- |
+| 9   | HH4b                   |                        |
+|     | HH4b                   |                        |
+| 10  | ~~chat Dark photon~~   | [[Classifier Studies]] |
+|     | ~~Chat Dark photon~~   | [[Classifier Studies]] |
+| 11  | Stats Chat             |                        |
+|     | Stats Chat             |                        |
+| 12  | bbWW                   |                        |
+|     | Gym                    |                        |
+| 1   | Gym                    |                        |
+|     | Gym                    |                        |
+| 2   | [[Classifier Studies]] |                        |
+|     | Finger Prints          |                        |
+| 3   | Grade MPL              |                        |
+|     | Grade MPL              |                        |
+| 4   | Odds and ends          |                        |
+|     | Tool Reciepts          |                        |
 
-**W:**
-**DW:**
-**OT:**
+**W:** 7 
+**DW:** 1
+**OT:** 1 
 **ex** 
 
 # The ONE thing: 
@@ -30,11 +30,11 @@
 
 # To Do
 - [x] Grade MPL
-- [ ] [[Classifier Studies]]
-- [ ] Chair / tool receipts
-- [ ] cluster Run 3 data
-- [ ] LAb Techs
-- [ ] USCMS 0.5 position
+- [>>] [[Classifier Studies]]
+- [x] Chair / tool receipts
+- [>>] cluster Run 3 data
+- [>>] LAb Techs
+- [>>] USCMS 0.5 position
 
 
 # Log
@@ -67,4 +67,16 @@ Walk to Pitt ... Fingerprints ... Back to campus
 Grading MPL
 
 Finished MPL grades
+
+More [[Classifier Studies]]
+
+Did Tool Reciepts
+
+Chat Roy
+
+Home with M and T
+
+Finished [[Selfish reasons to having more kids]]
+
+Chat with Jonathon about getting potential investment house
 

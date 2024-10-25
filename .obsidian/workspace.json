@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-projects/HH4b/Run-3 4b skims.md",
+                "file": "2-areas/Personal/ToAddToCV.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,19 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-resources/computing/PSC Bridges.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "93797a0683c7719f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Journal/23 October 2024 Wednesday.md",
+                "file": "Journal/24 October 2024 Thursday.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,14 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/24 October 2024 Thursday.md",
+                "file": "Journal/25 October 2024 Friday.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -75,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "embed",
+                "query": "file:cv",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,8 +90,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -123,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/24 October 2024 Thursday.md",
+                "file": "Journal/25 October 2024 Friday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/24 October 2024 Thursday.md",
+                "file": "Journal/25 October 2024 Friday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/24 October 2024 Thursday.md"
+                "file": "Journal/25 October 2024 Friday.md"
               }
             }
           }
@@ -188,32 +175,32 @@
   },
   "active": "dc5a18b6a1951202",
   "lastOpenFiles": [
-    "0-inbox/Building Fermilab.md",
+    "2-areas/Personal/ToAddToCV.md",
+    "1-projects/HH4b/Run-3 4b skims.md",
     "Journal/24 October 2024 Thursday.md",
-    "0-inbox/StatsChat-24-October-2024.md",
-    "Input/Meetings/StatsChat-17-October-2024.md",
+    "Journal/25 October 2024 Friday.md",
+    "Output/ProgressReports/ProgressReport 11 October 2024.md",
+    "Output/ProgressReports/ProgressReport 25 October 2024.md",
+    "Input/Meetings/HGC MAC Meeting 16 October 2024.md",
+    "0-inbox/ToDo.md",
     "Journal/October 2024.md",
+    "0-inbox/Untitled.md",
     "Journal/23 October 2024 Wednesday.md",
     "Journal/22 October 2024 Tuesday.md",
     "Journal/21 October 2024 Monday.md",
     "Journal/20 October 2024 Sunday.md",
     "Journal/19 October 2024 Saturday.md",
+    "Journal/18 October 2024 Friday.md",
+    "3-resources/computing/PSC Bridges.md",
+    "00-Zettelkasten/Higgs Potential Algebra.md",
+    "00-Zettelkasten/ZettelKasten Index.md",
+    "0-inbox/Building Fermilab.md",
+    "0-inbox/StatsChat-24-October-2024.md",
+    "Input/Meetings/StatsChat-17-October-2024.md",
     "Journal/11 October 2024 Friday.md",
     "3-resources/Obsidian/Images in Obsidian.md",
-    "Journal/18 October 2024 Friday.md",
     "Journal/17 October 2024 Thursday.md",
     "Journal/16 October 2024 Wednesday.md",
-    "Journal/15 October 2024 Tuesday.md",
-    "3-resources/computing/PSC Bridges.md",
-    "0-inbox/ToDo.md",
-    "0-inbox/Nobel Prize Physics 2024.md",
-    "0-inbox/Action Items From UCSB Site Visit.md",
-    "0-inbox/Tool List.md",
-    "Journal/14 October 2024 Monday.md",
-    "Input/Meetings/HGC MAC Meeting 16 October 2024.md",
-    "Output/CAM/Modules Summary October 2024.md",
-    "1-projects/HH4b/Run-3 4b skims.md",
-    "0-inbox/5391 Financing.md",
     "0-inbox/#Nexus.md#",
     "0-inbox/#EVMS Acronyms.md#",
     "0-inbox/#How Adam Smith Can Change Your Life.md#",

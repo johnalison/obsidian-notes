@@ -17,6 +17,8 @@ Index:
 [[Naive Limit Combination]]
 [[Spurious-Signal]]
 [[Dark Matter and Missing Momentum]]
+[[Higgs Potential Algebra]]
+
 ## Synthetic Datasets
 
 - [[Proxy-datasets-critical-for-data-driven-systematics]]
