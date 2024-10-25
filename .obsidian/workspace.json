@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/25 October 2024 Friday.md",
+                "file": "0-inbox/5391 Financing.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/25 October 2024 Friday.md",
+                "file": "0-inbox/5391 Financing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/25 October 2024 Friday.md",
+                "file": "0-inbox/5391 Financing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/25 October 2024 Friday.md"
+                "file": "0-inbox/5391 Financing.md"
               }
             }
           }
@@ -175,10 +175,10 @@
   },
   "active": "dc5a18b6a1951202",
   "lastOpenFiles": [
+    "Journal/25 October 2024 Friday.md",
     "2-areas/Personal/ToAddToCV.md",
     "1-projects/HH4b/Run-3 4b skims.md",
     "Journal/24 October 2024 Thursday.md",
-    "Journal/25 October 2024 Friday.md",
     "Output/ProgressReports/ProgressReport 11 October 2024.md",
     "Output/ProgressReports/ProgressReport 25 October 2024.md",
     "Input/Meetings/HGC MAC Meeting 16 October 2024.md",

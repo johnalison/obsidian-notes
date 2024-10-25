@@ -44,10 +44,16 @@ M&T to school
 # [[Classifier Studies]]
 - Check files.... need to Rename offset0 files
 - Fixed ZH naming ... submitted offsets 1 and 2 
-- 
+- renames bad offset0 files
+- Resubmitted failed jobs
+- Start looking at ZZinSB vs SB results
 
 
 # [[ProgressReport 25 October 2024]]
 
-More classifier studies
+More classifier studies ... see above
+
+[[5391 Financing]]
+
+
 
