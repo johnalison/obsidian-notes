@@ -16,7 +16,7 @@
 |     | 4b Chat                 |     |
 | 3   | CMU CMS                 |     |
 |     | CMU CMS                 |     |
-| 4   |                         |     |
+| 4   | Peter Tour              |     |
 |     | Social                  |     |
 
 **W:**
@@ -69,3 +69,8 @@ Gave Peter a tour
 
 October Turn Around Report:
 https://docs.google.com/spreadsheets/d/1_n3haNSgdGix-USM7QhdwhWFtRAPt12EgQ8hgiNsBP4/edit?gid=843171142#gid=843171142
+
+# Social 
+- got M and T ... back to the social ... S & H come
+
+# Tocayo with M & A 
