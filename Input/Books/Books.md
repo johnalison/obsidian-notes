@@ -1,3 +1,5 @@
+- [[Selfish reasons to having more kids]] (Bryan Caplan)
+
 - [[How Adam Smith Can Change Your Life]] (Russ Roberts)
 
 - [[Self-Help is like a vaccine]] (Bryan Caplan)

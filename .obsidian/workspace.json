@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/26 October 2024 Saturday.md",
+                "file": "Input/Books/Libertarianism-A-primer.md",
                 "mode": "source",
                 "source": false
               }
@@ -75,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:cv",
+                "query": "vote",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,8 +102,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -123,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/26 October 2024 Saturday.md",
+                "file": "Input/Books/Libertarianism-A-primer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/26 October 2024 Saturday.md",
+                "file": "Input/Books/Libertarianism-A-primer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/26 October 2024 Saturday.md"
+                "file": "Input/Books/Libertarianism-A-primer.md"
               }
             }
           }
@@ -188,7 +187,12 @@
   },
   "active": "c9b2ca5bea5af491",
   "lastOpenFiles": [
+    "Input/Books/BeginningOfInfinity.md",
+    "Input/Books/Libertarianism-A-primer.md",
     "Journal/26 October 2024 Saturday.md",
+    "0-inbox/#Selfish reasons to having more kids.md#",
+    "0-inbox/Selfish reasons to having more kids.md",
+    "Input/Books/Books.md",
     "Journal/25 October 2024 Friday.md",
     "3-resources/computing/Setting up Falcon.md",
     "0-inbox/CMU 4b Chat 25 October 2024.md",
@@ -210,10 +214,6 @@
     "Journal/22 October 2024 Tuesday.md",
     "Journal/21 October 2024 Monday.md",
     "Journal/20 October 2024 Sunday.md",
-    "Journal/19 October 2024 Saturday.md",
-    "3-resources/computing/PSC Bridges.md",
-    "00-Zettelkasten/Higgs Potential Algebra.md",
-    "00-Zettelkasten/ZettelKasten Index.md",
     "0-inbox/#Nexus.md#",
     "0-inbox/#EVMS Acronyms.md#",
     "0-inbox/#How Adam Smith Can Change Your Life.md#",
@@ -223,7 +223,6 @@
     "Journal/#Fall 2024.md#",
     "2-areas/Physics/#Ratio Errors.md#",
     "0-inbox/#mW constraint.md#",
-    "Input/Meetings/September",
     "attachments/Pasted image 20240826220009.png",
     "attachments/Pasted image 20240826215955.png",
     "attachments/HGC TDR LD and HD Sensors.png",
