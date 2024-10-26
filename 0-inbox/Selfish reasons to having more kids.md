@@ -71,8 +71,16 @@ Great book!  New recommendation for new parents! Another new favorite author!
 
 - You need more smart, creative people to get new ideas, but they're not enough. You also need armies of customers to turn creativity into a paying job.
 
-- 134
+- Resources have been getting cheaper in the last century and a half. 
 
+- Identical twins are naturally occuring clones -- two humans who have all their genes in common. Clones already walk among us. 
+
+- The best way to understand a position is to argue on its behalf. You learn as you speak. 
+  Critics dont just keep you honest; they show you the light.
+  
+- As long as you dont do anything crazy your kids will probably turn out fine.
+
+- Parenting is graded pass/fail.
 
 
 ## Follow-ups
