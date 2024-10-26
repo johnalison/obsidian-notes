@@ -38,7 +38,15 @@ Great book!  New recommendation for new parents! Another new favorite author!
 
 - There is absolutely nothing wrong with paying your children cash.  You're not trying to raise a communist. 
 
-- 
+- Parents should be mature enough to protect their kids from secondhand stress. 
+
+- Children are far more resilient than we realize. 
+  Once upon a time, nature vs nutrue was a matter of opionion, but now we have answers: Nature wins, especially in the long run.
+  In the long run, Nature matters a lot more than nuture.
+
+- Identical twins are MUCH more similar than fraternal twins -- even when separated at birth -- and their similarity increases with age. 
+
+p71
 
 
 ## Follow-ups
