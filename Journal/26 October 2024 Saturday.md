@@ -6,6 +6,7 @@ Up at 9 !
 
 # [[Classifier Studies]]
 - checking ZH jobs.. resubmit a few that failed.
+- writting out ZZ and ZH in SR files
 
 Writing up [[Selfish reasons to having more kids]]
 
@@ -13,3 +14,7 @@ Writing up [[Selfish reasons to having more kids]]
 - Do I want to start a blog ???
 
 # Did Finances 1.9/1.8
+
+Start [[OnGrandStrategy]]
+
+[[February 2024]]
