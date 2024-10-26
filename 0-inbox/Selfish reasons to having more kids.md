@@ -46,7 +46,33 @@ Great book!  New recommendation for new parents! Another new favorite author!
 
 - Identical twins are MUCH more similar than fraternal twins -- even when separated at birth -- and their similarity increases with age. 
 
-p71
+- Its more important to deserve my childrens appreciation than to get it. 
+
+- Both twin and adoption studies confirm that parents affect how theirr children perceive and remember them.
+  "Good memories" are one of the few parental wishes that clearly depend on how you raise your child.
+  
+- If the only lesson you take away from this book is that scientists have solid but shocking answers to the nature-nurture puzzle, Ill be happy.
+
+- "We worry what a child will become tomorrow, yet we forget that he is someone today" - Stacia Tauscher
+
+- You can have a better life and a bigger family if you admit that your kids future is not in your hands. 
+
+- I dont expect that the way I act toward my husband is going to determine what kind of person he will be in 10 or 20 years.
+  I do expect, however, that it will affect how happy he is to live with me and whether we will still be good friends in 10 or 20 years.
+  Should be the same with kids.
+  
+- No child has EVEN been killed or seriously injured by Halloween treats. 
+
+- Raising kids isnt easy, buts its way easier than it used to be.
+
+- The total number of people on earth AND the average standard of living has skyrocketed over the last 2 Centuries.
+
+- The main source of progress is new ideas. 
+
+- You need more smart, creative people to get new ideas, but they're not enough. You also need armies of customers to turn creativity into a paying job.
+
+- 134
+
 
 
 ## Follow-ups
