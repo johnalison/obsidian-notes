@@ -8,7 +8,7 @@ SM
 - [ ] Write up of double peak investigation
 
 CL
-- [ ] Classifier code
+- [x] Classifier code
 
 ## Follow-ups
 
