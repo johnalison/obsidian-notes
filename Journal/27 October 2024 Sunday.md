@@ -17,3 +17,8 @@ SLS as abject failure:
 # To Library 
 - Got: The Case Against Education
 - Open Borderfs
+
+SLS is still a national discgrace:
+https://caseyhandmer.wordpress.com/2024/10/02/sls-is-still-a-national-disgrace/
+- If NASA is in the business of launching missions to space, why is it giving 10% of its entire annual budget to a contractor only for engines that it already owns?
+- This is what I mean about corruption of technical integrity. NASA’s inability to specify or justify a physically possible architecture for crewed Lunar exploration, their constant failures with contracting, their disinterest in holding any contractor accountable, and continuing insistence that everything is fine, rots the organization from the inside out.
