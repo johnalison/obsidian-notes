@@ -61,3 +61,4 @@ Start Turn-around report here:
 - Good runs 4s and 5s.  Great passes with Chris.
 - Steamroom is back down !
 
+Finished [[Classifier Studies]] 

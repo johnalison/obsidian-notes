@@ -19,12 +19,15 @@ SB
 Resubmit jobs with 
 `grep -L Done slurm-v0_offset*.out  | awk '{gsub("slurm-", "jobs_"); gsub("out","sh"); cmd = "sbatch " $0; print cmd; system(cmd)}'
 
-
+DONE ! Minimal gain
 
 # Gain from both ZZ and ZH Regions ?
 
+DONE ! Minimal Gain
+
 # Gain from low SvB SR events ?
 
+(Not enough PSC bucks to check)
 
 ## Follow-ups
 

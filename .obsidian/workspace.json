@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/28 October 2024 Monday.md",
+                "file": "3-resources/computing/PSC Bridges.md",
                 "mode": "source",
                 "source": false
               }
@@ -75,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "allocations",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,8 +102,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -123,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/28 October 2024 Monday.md",
+                "file": "3-resources/computing/PSC Bridges.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/28 October 2024 Monday.md",
+                "file": "3-resources/computing/PSC Bridges.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/28 October 2024 Monday.md"
+                "file": "3-resources/computing/PSC Bridges.md"
               }
             }
           }
@@ -186,10 +185,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0a315ce2b1139c05",
+  "active": "5eff6f8803fcba5e",
   "lastOpenFiles": [
-    "0-inbox/HGCManagementMeeting 29 October 2024.md",
+    "Journal/12 October 2024 Saturday.md",
+    "3-resources/computing/Setting up Falcon.md",
+    "3-resources/computing/PSC Bridges.md",
+    "Journal/July/12 July 24 Friday.md",
+    "1-projects/HH4b/Classifier Studies.md",
     "Journal/28 October 2024 Monday.md",
+    "0-inbox/HGCManagementMeeting 29 October 2024.md",
     "Journal/October 2024.md",
     "Journal/27 October 2024 Sunday.md",
     "0-inbox/5391 Financing.md",
@@ -209,11 +213,6 @@
     "0-inbox/Things-To-Add-To-Notes.md",
     "Input/Meetings/StatsChat-24-October-2024.md",
     "Input/Books/Selfish reasons to having more kids.md",
-    "0-inbox/Numba.md",
-    "0-inbox/Nobel Prize Physics 2024.md",
-    "0-inbox/Nexus.md",
-    "0-inbox/MPL Chaos Experiment.md",
-    "0-inbox/Low mass di-electrons.md",
     "0-inbox/#Selfish reasons to having more kids.md#",
     "Journal/#February 2024.md#",
     "0-inbox/#Nexus.md#",
