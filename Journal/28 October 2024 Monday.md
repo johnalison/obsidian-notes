@@ -29,13 +29,14 @@
 
 
 # To Do
-- [ ] Turnaround report
+- [x] Turnaround report
 - [ ] Prep Thursday Chat
 - [ ] [[Classifier Studies]]
 - [ ] cluster Run3 data
 - [ ] Lab techs
 - [ ] USCMS 1/2 time position
 - [ ] Watch Pre-approval VqqHbb
+- [ ] Apply for more bridges money
 
 
 # Log
@@ -48,3 +49,9 @@ M&T to school
 
 # [[Classifier Studies]]
 - Copying ZZ and ZH files to LPC
+- needed to update `study_name` in combined FvT script... rerunning
+- Recopying
+
+Start Turn-around report here:
+[[HGCManagementMeeting 29 October 2024]]
+
