@@ -19,6 +19,8 @@ https://indico.cern.ch/event/1451204/#17-pre-approval-of-hig-24-017
 - MeT < 140
 - ak4 < 5 looks tight (30 eta < 5) pT outside of the tracker? Signal eff loss form this cut ?
 - Why no PQCD on jet 1 ?
+- How do you deal with the uncertianties on the fitting coeeficienents ? s20 
+- TF_data what do these fits look like ? 
 
 
 ## Follow-ups

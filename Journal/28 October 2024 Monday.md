@@ -70,4 +70,5 @@ Sent mail to get access to https://allocations.access-ci.org/login
 - Do we need the "other" tag list item ? 
 - Looks like selected jets way too loose
 - Adding Muons...
+- Move seljet cut to 20 GeV
 
