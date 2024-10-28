@@ -62,3 +62,5 @@ Start Turn-around report here:
 - Steamroom is back down !
 
 Finished [[Classifier Studies]] 
+
+Sent mail to get access to https://allocations.access-ci.org/login
