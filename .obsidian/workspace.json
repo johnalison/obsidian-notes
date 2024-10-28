@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/28 October 2024 Monday.md",
+                "file": "0-inbox/ARC HIG-24-017 Boosted VqqHbb.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -122,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/28 October 2024 Monday.md",
+                "file": "0-inbox/ARC HIG-24-017 Boosted VqqHbb.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/28 October 2024 Monday.md",
+                "file": "0-inbox/ARC HIG-24-017 Boosted VqqHbb.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/28 October 2024 Monday.md"
+                "file": "0-inbox/ARC HIG-24-017 Boosted VqqHbb.md"
               }
             }
           }
@@ -187,12 +188,15 @@
   },
   "active": "0a315ce2b1139c05",
   "lastOpenFiles": [
+    "2-areas/Personal/ToAddToCV.md",
+    "Journal/24 October 2024 Thursday.md",
+    "0-inbox/ARC HIG-24-017 Boosted VqqHbb.md",
+    "Journal/28 October 2024 Monday.md",
     "3-resources/computing/PSC Bridges.md",
     "Journal/12 October 2024 Saturday.md",
     "3-resources/computing/Setting up Falcon.md",
     "Journal/July/12 July 24 Friday.md",
     "1-projects/HH4b/Classifier Studies.md",
-    "Journal/28 October 2024 Monday.md",
     "0-inbox/HGCManagementMeeting 29 October 2024.md",
     "Journal/October 2024.md",
     "Journal/27 October 2024 Sunday.md",
@@ -200,7 +204,6 @@
     "0-inbox/Nasa's (Space Launch System) SLS as abject failure.md",
     "Journal/26 October 2024 Saturday.md",
     "Journal/25 October 2024 Friday.md",
-    "Journal/24 October 2024 Thursday.md",
     "Journal/23 October 2024 Wednesday.md",
     "Journal/22 October 2024 Tuesday.md",
     "Journal/21 October 2024 Monday.md",
@@ -211,8 +214,6 @@
     "0-inbox/Untitled.md",
     "0-inbox/ToDo.md",
     "0-inbox/Things-To-Add-To-Notes.md",
-    "Input/Meetings/StatsChat-24-October-2024.md",
-    "Input/Books/Selfish reasons to having more kids.md",
     "0-inbox/#Selfish reasons to having more kids.md#",
     "Journal/#February 2024.md#",
     "0-inbox/#Nexus.md#",

@@ -1,23 +1,23 @@
 # Timeblock
 
-|     | setup                  |     |
-| --- | ---------------------- | --- |
-| 9   | [[Classifier Studies]] |     |
-|     | [[Classifier Studies]] |     |
-| 10  | Cluster Run3 data      |     |
-|     | Cluster Run3 data      |     |
-| 11  | Hoops                  |     |
-|     | Hoops                  |     |
-| 12  | Hoops                  |     |
-|     | Hoops                  |     |
-| 1   | Cluster Run 3 data     |     |
-|     | Cluster Run 3 data     |     |
-| 2   | Cluster Run 3 data     |     |
-|     | Sindhu Chat            |     |
-| 3   | Lab Techs              |     |
-|     | Lab Techs              |     |
-| 4   | USCMS 1/2 time         |     |
-|     | USCMS 1/2 time         |     |
+|     | setup                  |                        |
+| --- | ---------------------- | ---------------------- |
+| 9   | [[Classifier Studies]] |                        |
+|     | [[Classifier Studies]] |                        |
+| 10  | Cluster Run3 data      |                        |
+|     | Cluster Run3 data      |                        |
+| 11  | Hoops                  |                        |
+|     | Hoops                  |                        |
+| 12  | Hoops                  |                        |
+|     | Hoops                  |                        |
+| 1   | Cluster Run 3 data     | Hoops                  |
+|     | Cluster Run 3 data     | [[Classifier Studies]] |
+| 2   | Cluster Run 3 data     | [[Classifier Studies]] |
+|     | ~~Sindhu Chat~~        | Chat Roy/Penco         |
+| 3   | Lab Techs              | Cluster Run 3 data     |
+|     | Lab Techs              | Cluster Run 3 data     |
+| 4   | USCMS 1/2 time         |                        |
+|     | USCMS 1/2 time         |                        |
 
 **W:**
 **DW:**
@@ -31,7 +31,7 @@
 # To Do
 - [x] Turnaround report
 - [ ] Prep Thursday Chat
-- [ ] [[Classifier Studies]]
+- [x] [[Classifier Studies]]
 - [ ] cluster Run3 data
 - [ ] Lab techs
 - [ ] USCMS 1/2 time position
@@ -64,3 +64,9 @@ Start Turn-around report here:
 Finished [[Classifier Studies]] 
 
 Sent mail to get access to https://allocations.access-ci.org/login
+
+# Trying to cluster the synthetic data
+- test job
+- Do we need the "other" tag list item ? 
+
+
