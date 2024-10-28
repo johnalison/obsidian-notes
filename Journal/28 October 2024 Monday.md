@@ -66,7 +66,8 @@ Finished [[Classifier Studies]]
 Sent mail to get access to https://allocations.access-ci.org/login
 
 # Trying to cluster the synthetic data
-- test job
+- test job... fails
 - Do we need the "other" tag list item ? 
-
+- Looks like selected jets way too loose
+- Adding Muons...
 

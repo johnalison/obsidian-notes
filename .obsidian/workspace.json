@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/HGCManagementMeeting 29 October 2024.md",
+                "file": "Journal/28 October 2024 Monday.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/ARC HIG-24-017 Boosted VqqHbb.md",
+                "file": "Journal/28 October 2024 Monday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/ARC HIG-24-017 Boosted VqqHbb.md",
+                "file": "Journal/28 October 2024 Monday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/ARC HIG-24-017 Boosted VqqHbb.md"
+                "file": "Journal/28 October 2024 Monday.md"
               }
             }
           }
@@ -186,18 +186,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0a315ce2b1139c05",
+  "active": "dc5a18b6a1951202",
   "lastOpenFiles": [
+    "0-inbox/HGCManagementMeeting 29 October 2024.md",
+    "0-inbox/ARC HIG-24-017 Boosted VqqHbb.md",
     "2-areas/Personal/ToAddToCV.md",
     "Journal/24 October 2024 Thursday.md",
-    "0-inbox/ARC HIG-24-017 Boosted VqqHbb.md",
     "Journal/28 October 2024 Monday.md",
     "3-resources/computing/PSC Bridges.md",
     "Journal/12 October 2024 Saturday.md",
     "3-resources/computing/Setting up Falcon.md",
     "Journal/July/12 July 24 Friday.md",
     "1-projects/HH4b/Classifier Studies.md",
-    "0-inbox/HGCManagementMeeting 29 October 2024.md",
     "Journal/October 2024.md",
     "Journal/27 October 2024 Sunday.md",
     "0-inbox/5391 Financing.md",
