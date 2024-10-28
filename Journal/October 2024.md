@@ -24,9 +24,9 @@
 | 22 T | (UCSB Visit) Site visit / Lunch AliBaba / More UCSB / close out                            | 8/4/8 |
 | 23 W | [[Classifier Studies]] / Update 5391 offer / **Hoops/SR** / Chats                          | 7/3/4 |
 | 24 H | (Fingerprints) [[Classifier Studies]] / Progress in Stats / **Gym** / Finish MPL /Tools    | 7/1/1 |
-| 25 F |                                                                                            |       |
-| 26 S |                                                                                            |       |
-| 27 S |                                                                                            |       |
+| 25 F | [[Classifier Studies]] / Progress Report / **Hoops** / Peter Tour / Social /Tocayo         | 6/3/3 |
+| 26 S | Selfish reasons / 5391 Turned Down / Finances 1.9/1.8 / Trick-or-treat Jons                |       |
+| 27 S | SLS abject failure / Library / [[Open Boarders]] / **Gym/SR**                              |       |
 | 28 M |                                                                                            |       |
 | 29 T | (Black Crowes)                                                                             |       |
 | 30 W |                                                                                            |       |

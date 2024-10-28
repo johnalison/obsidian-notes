@@ -30,7 +30,7 @@
 
 # To Do
 - [>>] Grade MPL
-- [>>] [[Classifier Studies]]
+- [>>]  [[Classifier Studies]]
 - [>>] cluster Run 3 data
 - [>>] LAB Techs
 - [>>] USCMS 0.5 position

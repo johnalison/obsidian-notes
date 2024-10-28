@@ -1,39 +1,39 @@
 # Timeblock
 
-|     | setup                   |     |
-| --- | ----------------------- | --- |
-| 9   | Progress Reporting      |     |
-|     | Progress Reporting      |     |
-| 10  | [[Classifier Studies]]  |     |
-|     | [[Classifier Studies]]  |     |
-| 11  | [[Classifier Studies]]  |     |
-|     | Hoops                   |     |
-| 12  | Hoops                   |     |
-|     | Hoops                   |     |
-| 1   | [[Lab Techs Fall 2024]] |     |
-|     | [[Lab Techs Fall 2024]] |     |
-| 2   | 4b Chat                 |     |
-|     | 4b Chat                 |     |
-| 3   | CMU CMS                 |     |
-|     | CMU CMS                 |     |
-| 4   | Peter Tour              |     |
-|     | Social                  |     |
+|     | setup                              |                        |
+| --- | ---------------------------------- | ---------------------- |
+| 9   | [[ProgressReport 25 October 2024]] |                        |
+|     | [[ProgressReport 25 October 2024]] |                        |
+| 10  | [[Classifier Studies]]             |                        |
+|     | [[Classifier Studies]]             |                        |
+| 11  | [[Classifier Studies]]             |                        |
+|     | Hoops                              |                        |
+| 12  | Hoops                              |                        |
+|     | Hoops                              |                        |
+| 1   | ~~[[Lab Techs Fall 2024]]~~        | [[Classifier Studies]] |
+|     | ~~[[Lab Techs Fall 2024]]~~        | [[Classifier Studies]] |
+| 2   | 4b Chat                            |                        |
+|     | 4b Chat                            |                        |
+| 3   | CMU CMS                            |                        |
+|     | CMU CMS                            |                        |
+| 4   | Peter Tour                         |                        |
+|     | Social                             |                        |
 
-**W:**
-**DW:**
-**OT:**
-**ex** or **No ex**
+**W:** 6
+**DW:** 3
+**OT:** 3
+**ex** 
 
 # The ONE thing: 
 - [ ] [[Classifier Studies]]
 
 
 # To Do
-- [ ] [[Classifier Studies]]
-- [ ] Cluster Run 3 data
-- [ ] Lab techs
-- [ ] USCMS 1/2 time position
-- [ ] Watch Pre-Approval VqqHbb
+- [>>]  [[Classifier Studies]]
+- [>>] Cluster Run 3 data
+- [>>] Lab techs
+- [>>] USCMS 1/2 time position
+- [>>] Watch Pre-Approval VqqHbb
 
 # Log
 

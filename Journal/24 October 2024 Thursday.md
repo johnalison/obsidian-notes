@@ -57,7 +57,7 @@ M&T to school
 
 # Gym 
 - core / row / lift / bench
-- Steam room down ...
+- Steam room down ! ...
 
 More classifier studies... above
 

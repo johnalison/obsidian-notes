@@ -1,8 +1,14 @@
-Need 
-- ~$1k for Apprasals (5318 and 720)
-	- Paid $550 for 5391 appraisal order #121339985 is ready for payment.
-	- Paid Home inspections $795.00
-	- Paid  $100 for 720 appraisal order 241022029
+Paid: 
+- Paid $550 for 5391 appraisal order #121339985 is ready for payment.
+- Paid Home inspections $795.00
+- Paid  $100 for 720 appraisal order 241022029
+- Mason $300 
+- Plumber $200
+- Windows: $150
+- Sewer: $200
+
+Total $1500 + 795
+
 
 $10k Hand money. 
 - Sold from VMVAX
