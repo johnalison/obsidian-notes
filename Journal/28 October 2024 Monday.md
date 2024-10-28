@@ -55,3 +55,9 @@ M&T to school
 Start Turn-around report here:
 [[HGCManagementMeeting 29 October 2024]]
 
+[[Classifier Studies]]... see abover
+
+# Hoops 
+- Good runs 4s and 5s.  Great passes with Chris.
+- Steamroom is back down !
+
