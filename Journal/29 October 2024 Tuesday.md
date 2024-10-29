@@ -49,3 +49,12 @@ Up at 7:30
 
 
 More [[ARC HIG-24-017 Boosted VqqHbb]]
+
+Got visitor pass working... https://pittsburgh.blinkay.app/summary
+- Need to go to "My Parking" on side
+- Click visitor pass under "RPP Permit + Visitor Pass"
+
+
+To Campus
+
+# [[Chat w Wes 29 October 2024]]
