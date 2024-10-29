@@ -71,4 +71,4 @@ Sent mail to get access to https://allocations.access-ci.org/login
 - Looks like selected jets way too loose
 - Adding Muons...
 - Move seljet cut to 20 GeV
-
+- tmux running 2022_EE on **cmslpc337**
