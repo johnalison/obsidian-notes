@@ -6,18 +6,19 @@ https://docs.google.com/spreadsheets/d/1_n3haNSgdGix-USM7QhdwhWFtRAPt12EgQ8hgiNs
 Ending preseries 
 
 Finished lines
-- l69: ECM: Vendor produces preseries partial module base plates
-- l73: ECM: Vendor delivers preseries partial module base plates
-- 176: ECM: Ship base plates to module assembly sites for preseries production
-
-Questions, do we want to start 
-- l70? ECM: International partner produces base plates Batch 1
 - l67? ECM: Update base plate design for production modules
 - l68 ? T4 - Ready for base plates production
- Does it depend on l74 ECM: Qualify base plates for production?
+-  l69: ECM: Vendor produces preseries partial module base plates
+-  l73: ECM: Vendor delivers preseries partial module base plates
+- l74: ECM: Qualify base plates for production
+- l75: ECM: Qualify partial module base plates for production
+- 176: ECM: Ship base plates to module assembly sites for preseries production
+
+started: 
+- l70? ECM: International partner produces base plates Batch 1
 
 
-Should start 
+Should start  ?
 - l130 ECM: Procurement of final module factory tooling for Site 2
 - l134 ECM: Procurement of final module factory tooling for UCSB
 - l128 T5 - ECM - Site 2 Ready for Module Construction
@@ -32,7 +33,13 @@ Should start
 - Dimensions of the chiller?
 - 
 
-# Cost on Shipping
+# Cost on Shipping Foam?
+$5523.00.
+# Plan to send to 20 send by end of the month.
+- Get shipping address from Don
+
+
+
 
 ## Follow-ups
 
