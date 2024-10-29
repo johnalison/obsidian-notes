@@ -21,6 +21,19 @@ Should start
 - l130 ECM: Procurement of final module factory tooling for Site 2
 - l134 ECM: Procurement of final module factory tooling for UCSB
 - l128 T5 - ECM - Site 2 Ready for Module Construction
+
+
+
+# Nural placed order for chillers
+- is done!
+- 5 POs 
+- coolant 
+- Shipping date ?
+- Dimensions of the chiller?
+- 
+
+# Cost on Shipping
+
 ## Follow-ups
 
 
