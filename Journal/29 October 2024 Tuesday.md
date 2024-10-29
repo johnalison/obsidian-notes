@@ -52,8 +52,10 @@ Up at 7:30
 - Made clustering output for 2022_EE and 2022_preEE
 - Running clustering in 2023_BPix... running 2023_preBPix... done
 - Made PDFs for all years. 
-- Copying to FNAL
-- 
+- Copied PDFs to FNAL
+- Testing the synthetic dataset making... looks OK!
+	- ...need to turn off TTbar subtraction
+	- ...kill `canJet["calibration"]`
 
 
 More [[ARC HIG-24-017 Boosted VqqHbb]]
@@ -82,3 +84,4 @@ Bike home
 More clustering Run3 data
 
 More clustering...
+
