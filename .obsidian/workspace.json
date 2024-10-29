@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/October 2024.md",
+                "file": "Journal/29 October 2024 Tuesday.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/HGCManagementMeeting 29 October 2024.md",
+                "file": "Journal/29 October 2024 Tuesday.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cad9221f187a0532",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Input/Meetings/CMU HGC Mac Meeting 15 October 2024.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -90,7 +102,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -110,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/ARC HIG-24-017 Boosted VqqHbb.md",
+                "file": "Journal/29 October 2024 Tuesday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/ARC HIG-24-017 Boosted VqqHbb.md",
+                "file": "Journal/29 October 2024 Tuesday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/ARC HIG-24-017 Boosted VqqHbb.md"
+                "file": "Journal/29 October 2024 Tuesday.md"
               }
             }
           }
@@ -173,17 +186,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0a315ce2b1139c05",
+  "active": "dc5a18b6a1951202",
   "lastOpenFiles": [
+    "0-inbox/CMU HGC Mac Meeting 29 October 2024.md",
+    "templates/Zettel Template.md",
+    "Journal/Summer 2024.md",
+    "Input/Meetings/CMU HGC Mac Meeting 15 October 2024.md",
+    "Journal/29 October 2024 Tuesday.md",
+    "Journal/October 2024.md",
+    "0-inbox/ARC HIG-24-017 Boosted VqqHbb.md",
     "0-inbox/HGCManagementMeeting 29 October 2024.md",
     "Input/Meetings/HGC MAC Meeting 16 October 2024.md",
-    "Journal/29 October 2024 Tuesday.md",
-    "0-inbox/ARC HIG-24-017 Boosted VqqHbb.md",
     "1-projects/Mixed2.0/Jet DeClustering.md",
     "0-inbox/Chat w Wes 29 October 2024.md",
     "Input/Meetings/Chat w Wes 15 October 2024.md",
     "Journal/28 October 2024 Monday.md",
-    "Journal/October 2024.md",
     "2-areas/coffea4bs/4b code base.md",
     "Journal/27 October 2024 Sunday.md",
     "0-inbox/Open Borders.md",
@@ -197,10 +214,6 @@
     "Journal/12 October 2024 Saturday.md",
     "3-resources/computing/Setting up Falcon.md",
     "Journal/July/12 July 24 Friday.md",
-    "1-projects/HH4b/Classifier Studies.md",
-    "0-inbox/5391 Financing.md",
-    "0-inbox/Nasa's (Space Launch System) SLS as abject failure.md",
-    "Journal/21 October 2024 Monday.md",
     "0-inbox/#Selfish reasons to having more kids.md#",
     "Journal/#February 2024.md#",
     "0-inbox/#Nexus.md#",

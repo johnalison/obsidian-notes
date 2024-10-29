@@ -35,7 +35,9 @@
 - [ ] cluster Run3 data
 - [ ] Lab techs
 - [ ] USCMS 1/2 time position
-- [ ] Watch Pre-approval VqqHbb
+- [x] Watch Pre-approval VqqHbb
+- [ ] Read AN VqqHbb
+- [ ] Read paper draft VqqHbb
 - [ ] Apply for more bridges money
 
 
@@ -48,7 +50,7 @@ Up at 7:30
 - [[Jet DeClustering]]
 - Update **make_jet_splitting_PDFs.py** to take a list of years
 - Made clustering output for 2022_EE and 2022_preEE
-- Running clustering in 2023_BPix
+- Running clustering in 2023_BPix... running 2023_preBPix
 
 
 More [[ARC HIG-24-017 Boosted VqqHbb]]
@@ -63,6 +65,12 @@ To Campus
 # [[Chat w Wes 29 October 2024]]
 
 More Run3 clustering
+
+Chat Tony... not clear how useful that was for him...
+
+[[CMU HGC Mac Meeting 29 October 2024]]
+
+
 
 
 [[HGCManagementMeeting 29 October 2024]]
