@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/HGCManagementMeeting 29 October 2024.md",
+                "file": "Journal/29 October 2024 Tuesday.md",
                 "mode": "source",
                 "source": false
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/HGCManagementMeeting 29 October 2024.md",
+                "file": "Journal/29 October 2024 Tuesday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/HGCManagementMeeting 29 October 2024.md",
+                "file": "Journal/29 October 2024 Tuesday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/HGCManagementMeeting 29 October 2024.md"
+                "file": "Journal/29 October 2024 Tuesday.md"
               }
             }
           }
@@ -188,6 +188,7 @@
   },
   "active": "dc5a18b6a1951202",
   "lastOpenFiles": [
+    "0-inbox/HGCManagementMeeting 29 October 2024.md",
     "Journal/29 October 2024 Tuesday.md",
     "0-inbox/CMU HGC Mac Meeting 29 October 2024.md",
     "templates/Zettel Template.md",
@@ -195,7 +196,6 @@
     "Input/Meetings/CMU HGC Mac Meeting 15 October 2024.md",
     "Journal/October 2024.md",
     "0-inbox/ARC HIG-24-017 Boosted VqqHbb.md",
-    "0-inbox/HGCManagementMeeting 29 October 2024.md",
     "Input/Meetings/HGC MAC Meeting 16 October 2024.md",
     "1-projects/Mixed2.0/Jet DeClustering.md",
     "0-inbox/Chat w Wes 29 October 2024.md",

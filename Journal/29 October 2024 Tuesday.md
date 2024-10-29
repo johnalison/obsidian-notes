@@ -50,7 +50,10 @@ Up at 7:30
 - [[Jet DeClustering]]
 - Update **make_jet_splitting_PDFs.py** to take a list of years
 - Made clustering output for 2022_EE and 2022_preEE
-- Running clustering in 2023_BPix... running 2023_preBPix
+- Running clustering in 2023_BPix... running 2023_preBPix... done
+- Made PDFs for all years. 
+- Copying to FNAL
+- 
 
 
 More [[ARC HIG-24-017 Boosted VqqHbb]]
@@ -72,5 +75,10 @@ Chat Tony... not clear how useful that was for him...
 
 Bike home
 
-[[HGCManagementMeeting 29 October 2024]]
+#  [[HGCManagementMeeting 29 October 2024]]
+- Making Moves! 
+- [ ] Need to ship modules to FNAL
 
+More clustering Run3 data
+
+More clustering...
