@@ -12,12 +12,12 @@ Resubmit failed [[Classifier Studies]] jobs
 [[Nasa's (Space Launch System) SLS as abject failure]]
 
 # To Library 
-- Got: The Case Against Education
-- Open Borderfs
+- Got: The [[Case Against Education]]
+- [[Open Borders]]
 
 Home from library
 
-Start [[Open Boarders]]
+Start [[Open Borders]]
 - Lots of open boarders...
 # Gym and Steamroom!
 - core / pullups / front squat / press
@@ -25,6 +25,6 @@ Start [[Open Boarders]]
 
 Home
 
-More [[Open Boarders]]
+More [[Open Borders]]
 
 

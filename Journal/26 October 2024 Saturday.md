@@ -15,9 +15,12 @@ Wrote up [[Selfish reasons to having more kids]]
 
 # 5391 counter offer at $725k... Turned it down. 
 
+
 # Did Finances 1.9/1.8
 
+
 Started [[OnGrandStrategy]]
+
 
 [[February 2024]]
 

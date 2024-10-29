@@ -21,6 +21,7 @@ https://indico.cern.ch/event/1451204/#17-pre-approval-of-hig-24-017
 - Why no PQCD on jet 1 ?
 - How do you deal with the uncertianties on the fitting coeeficienents ? s20 
 - TF_data what do these fits look like ? 
+- s25 early late 2016 really mean pre and post ?
 
 
 ## Follow-ups

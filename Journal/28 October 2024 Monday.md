@@ -16,13 +16,13 @@
 |     | ~~Sindhu Chat~~        | Chat Roy/Penco         |
 | 3   | Lab Techs              | Cluster Run 3 data     |
 |     | Lab Techs              | Cluster Run 3 data     |
-| 4   | USCMS 1/2 time         |                        |
-|     | USCMS 1/2 time         |                        |
+| 4   | ~~USCMS 1/2 time~~     | Cluster Run 3 data     |
+|     | ~~USCMS 1/2 time~~     | Cluster Run 3 data     |
 
-**W:**
-**DW:**
-**OT:**
-**ex** or **No ex**
+**W:** 6 
+**DW:** 4
+**OT:** 1
+**ex** 
 
 # The ONE thing: 
 - [ ] [[Classifier Studies]]
@@ -30,13 +30,13 @@
 
 # To Do
 - [x] Turnaround report
-- [ ] Prep Thursday Chat
+- [>>] Prep Thursday Chat
 - [x] [[Classifier Studies]]
-- [ ] cluster Run3 data
-- [ ] Lab techs
-- [ ] USCMS 1/2 time position
-- [ ] Watch Pre-approval VqqHbb
-- [ ] Apply for more bridges money
+- [>>] cluster Run3 data
+- [>>] Lab techs
+- [>>] USCMS 1/2 time position
+- [>>] Watch Pre-approval VqqHbb
+- [>>] Apply for more bridges money
 
 
 # Log
@@ -47,6 +47,9 @@ M&T to school
 
 [[5391 Financing]]
 
+Seller relisted 5391 without making our disclosures known.  
+- Started a new MRSP number only previous inspection!
+
 # [[Classifier Studies]]
 - Copying ZZ and ZH files to LPC
 - needed to update `study_name` in combined FvT script... rerunning
@@ -55,7 +58,7 @@ M&T to school
 Start Turn-around report here:
 [[HGCManagementMeeting 29 October 2024]]
 
-[[Classifier Studies]]... see abover
+[[Classifier Studies]]... see above
 
 # Hoops 
 - Good runs 4s and 5s.  Great passes with Chris.
@@ -65,10 +68,19 @@ Finished [[Classifier Studies]]
 
 Sent mail to get access to https://allocations.access-ci.org/login
 
-# Trying to cluster the synthetic data
+# Trying to cluster the Run3 data
 - test job... fails
-- Do we need the "other" tag list item ? 
 - Looks like selected jets way too loose
 - Adding Muons...
 - Move seljet cut to 20 GeV
-- tmux running 2022_EE on **cmslpc337**
+- tmux running 2022_EE on **cmslpc337**... ran in 192 m
+
+Do we need the "other" tag list item ? >> [[4b code base]]
+
+Starting [[ARC HIG-24-017 Boosted VqqHbb]]
+
+Home with M & T 
+
+Took H and M to Basketball
+- Some [[Open Borders]]
+

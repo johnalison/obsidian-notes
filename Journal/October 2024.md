@@ -26,8 +26,8 @@
 | 24 H | (Fingerprints) [[Classifier Studies]] / Progress in Stats / **Gym** / Finish MPL /Tools    | 7/1/1 |
 | 25 F | [[Classifier Studies]] / Progress Report / **Hoops** / Peter Tour / Social /Tocayo         | 6/3/3 |
 | 26 S | Selfish reasons / 5391 Turned Down / Finances 1.9/1.8 / Trick-or-treat Jons                |       |
-| 27 S | SLS abject failure / Library / [[Open Boarders]] / **Gym/SR**                              |       |
-| 28 M |                                                                                            |       |
+| 27 S | SLS abject failure / Library / [[Open Borders]] / **Gym/SR**                               |       |
+| 28 M | Finish [[Classifier Studies]] / Turnaround report / **Hoops** / Clustering Run3            | 6/4/1 |
 | 29 T | (Black Crowes)                                                                             |       |
 | 30 W |                                                                                            |       |
 | 31 H | (Talk in Faculty Meeting)                                                                  |       |
