@@ -6,10 +6,10 @@
 |     | Cluster Run 3 |     |
 | 9   | Cluster Run 3 |     |
 |     | chat Wes      |     |
-| 10  |               |     |
-|     |               |     |
+| 10  | Cluster Run 3 |     |
+|     | Cluster Run 3 |     |
 | 11  | Tony          |     |
-|     |               |     |
+|     | Cluster Run 3 |     |
 | 12  | Mac           |     |
 |     | Mac           |     |
 | 1   | Sindhu        |     |
@@ -45,7 +45,7 @@ Up at 7:30
 
 # Cluster Run 3 data
 - running 2022_preEE on **cmslpc337**
-- 
+- [[Jet DeClustering]]
 
 
 More [[ARC HIG-24-017 Boosted VqqHbb]]

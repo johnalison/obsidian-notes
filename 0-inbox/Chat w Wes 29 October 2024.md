@@ -1,7 +1,10 @@
 
 # Sos 
 - Excess only in displaced muons thought to be from J/Psi
+- Will give a talk at the EXO talk 
 
+# Thesis Committee 
+- Will ask Eva,  needs to do it still. 
 
 
 
