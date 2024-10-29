@@ -11,9 +11,9 @@ Finished lines
 - 176: ECM: Ship base plates to module assembly sites for preseries production
 
 Questions, do we want to start 
-- l70?
-- l67?
-- l68 ? 
+- l70? ECM: International partner produces base plates Batch 1
+- l67? ECM: Update base plate design for production modules
+- l68 ? T4 - Ready for base plates production
  Does it depend on l74 ECM: Qualify base plates for production?
 
 
@@ -26,7 +26,7 @@ Should start
 
 ## Links: 
 [[HGCManagementMeeting 15 October 2024]]
-
+[[HGC MAC Meeting 16 October 2024]]
 
 
 202410281006

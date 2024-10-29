@@ -46,6 +46,9 @@ Up at 7:30
 # Cluster Run 3 data
 - running 2022_preEE on **cmslpc337**
 - [[Jet DeClustering]]
+- Update **make_jet_splitting_PDFs.py** to take a list of years
+- Made clustering output for 2022_EE and 2022_preEE
+- Running clustering in 2023_BPix
 
 
 More [[ARC HIG-24-017 Boosted VqqHbb]]
@@ -58,3 +61,8 @@ Got visitor pass working... https://pittsburgh.blinkay.app/summary
 To Campus
 
 # [[Chat w Wes 29 October 2024]]
+
+More Run3 clustering
+
+
+[[HGCManagementMeeting 29 October 2024]]
