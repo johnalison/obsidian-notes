@@ -52,8 +52,6 @@ M & T to school
 - [x] Migrate [[Classifier Studies]]
 - [x] Migrate cluster run 3 
 - [x] Migrate [[Run-3 4b skims]]
-- [ ] Migrate 
-
 
 # HGC thoughts
 - How big is the chiller ? .. .mail to Nural

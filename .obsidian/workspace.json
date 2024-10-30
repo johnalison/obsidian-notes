@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/15 October 2024 Tuesday.md",
+                "file": "Journal/16 October 2024 Wednesday.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/30 October 2024 Wednesday.md",
+                "file": "0-inbox/HGC Mac testing Meeting 30 October 2024.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\"counting crows\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/30 October 2024 Wednesday.md",
+                "file": "0-inbox/HGC Mac testing Meeting 30 October 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/30 October 2024 Wednesday.md",
+                "file": "0-inbox/HGC Mac testing Meeting 30 October 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/30 October 2024 Wednesday.md"
+                "file": "0-inbox/HGC Mac testing Meeting 30 October 2024.md"
               }
             }
           }
@@ -200,9 +200,19 @@
   },
   "active": "28480883e2408f4d",
   "lastOpenFiles": [
+    "Journal/30 October 2024 Wednesday.md",
+    "Journal/16 October 2024 Wednesday.md",
+    "Journal/15 October 2024 Tuesday.md",
+    "Journal/14 October 2024 Monday.md",
     "Journal/11 October 2024 Friday.md",
     "Journal/10 October 2024 Thursday.md",
     "Journal/9 October 2024 Wednesday.md",
+    "Journal/8 October 2024 Tuesday.md",
+    "Journal/7 October 2024 Monday.md",
+    "Journal/4 October 2024 Friday.md",
+    "Journal/3 October 2024 Thursday.md",
+    "Journal/2 October 2024 Wednesday.md",
+    "Journal/1 October 2024 Tuesday.md",
     "Journal/September/4 September 2024 Wednesday.md",
     "Journal/September/3 September 2024 Tuesday.md",
     "Journal/September/2 September 2024 Monday.md",
@@ -211,21 +221,11 @@
     "Journal/September/18 September 2024 Wednesday.md",
     "Journal/September/15 September 2024 Sunday.md",
     "Journal/September/8 September 2024 Sunday.md",
-    "Journal/1 October 2024 Tuesday.md",
-    "Journal/30 October 2024 Wednesday.md",
     "Journal/19 October 2024 Saturday.md",
     "1-projects/HGC/EVMS Acronyms.md",
     "Journal/October 2024.md",
     "0-inbox/Hbb Meeting 30 October 2024.md",
     "1-projects/HH4b/Run-3 4b skims.md",
-    "Journal/15 October 2024 Tuesday.md",
-    "Journal/14 October 2024 Monday.md",
-    "Journal/13 October 2024 Sunday.md",
-    "Journal/12 October 2024 Saturday.md",
-    "Journal/8 October 2024 Tuesday.md",
-    "Journal/2 October 2024 Wednesday.md",
-    "Journal/3 October 2024 Thursday.md",
-    "Journal/4 October 2024 Friday.md",
     "0-inbox/#Selfish reasons to having more kids.md#",
     "Journal/#February 2024.md#",
     "0-inbox/#Nexus.md#",
