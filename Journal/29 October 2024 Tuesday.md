@@ -14,31 +14,31 @@
 |     | Mac           |     |
 | 1   | Sindhu        |     |
 |     | Home          |     |
-| 2   |               |     |
-|     |               |     |
-| 3   |               |     |
-|     |               |     |
-| 4   |               |     |
-|     |               |     |
+| 2   | w/kids        |     |
+|     | w/kids        |     |
+| 3   | Mans          |     |
+|     | Mans          |     |
+| 4   | Mans          |     |
+|     | Cluster Run 3 |     |
 
-**W:**
-**DW:**
-**OT:**
-**ex** or **No ex**
+**W:** 7 
+**DW:** 3
+**OT:** 3
+**No ex**
 
 # The ONE thing: 
 - [ ] Cluster Run 3 data
 
 
 # To Do
-- [ ] Prep Thursday Chat
-- [ ] cluster Run3 data
-- [ ] Lab techs
-- [ ] USCMS 1/2 time position
+- [>>] Prep Thursday Chat
+- [x] cluster Run3 data
+- [>>] Lab techs
+- [>>] USCMS 1/2 time position
 - [x] Watch Pre-approval VqqHbb
-- [ ] Read AN VqqHbb
-- [ ] Read paper draft VqqHbb
-- [ ] Apply for more bridges money
+- [>>] Read AN VqqHbb
+- [>>] Read paper draft VqqHbb
+- [>>e] Apply for more bridges money
 
 
 # Log
@@ -88,5 +88,8 @@ More clustering...
 
 Got H w/M
 
-# Black Crows !!
+Drove to Mike & Tonys in moon
 
+# Black Crows !!
+- ~Third row seats! 
+- https://www.setlist.fm/setlist/the-black-crowes/2024/upmc-events-center-moon-pa-b51d5b6.html
