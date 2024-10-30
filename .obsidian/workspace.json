@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/CMU Particle Physics Overview.md",
+                "file": "Journal/30 October 2024 Wednesday.md",
                 "mode": "source",
                 "source": false
               }
@@ -67,7 +67,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -134,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/CMU Particle Physics Overview.md",
+                "file": "0-inbox/ARC HIG-24-017 Boosted VqqHbb.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/CMU Particle Physics Overview.md",
+                "file": "0-inbox/ARC HIG-24-017 Boosted VqqHbb.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/CMU Particle Physics Overview.md"
+                "file": "0-inbox/ARC HIG-24-017 Boosted VqqHbb.md"
               }
             }
           }
@@ -197,11 +198,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "dc5a18b6a1951202",
+  "active": "0a315ce2b1139c05",
   "lastOpenFiles": [
     "Journal/30 October 2024 Wednesday.md",
-    "Journal/15 October 2024 Tuesday.md",
     "0-inbox/CMU Particle Physics Overview.md",
+    "Journal/15 October 2024 Tuesday.md",
     "Journal/16 October 2024 Wednesday.md",
     "0-inbox/ARC HIG-24-017 Boosted VqqHbb.md",
     "0-inbox/HGC Mac testing Meeting 30 October 2024.md",

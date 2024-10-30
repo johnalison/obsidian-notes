@@ -64,7 +64,7 @@ M & T to school
     - Hybrid can do ~30 modules / catrige ~ $1 / module
     - Susanna:  (SRP) quote 9000 pieces, enough for 4500 modules each at TTU and CMU. The cost per item does come down to $8.75 with such a large quantity.
 - [ ] Ping Jeremy re: Baseline Change Request
-	- Need spread sheet form Manfred
+	- Need spread sheet form Manfred...pinged him
 
 
 [[HGC MAC DB Meeting 30 October 2024]]

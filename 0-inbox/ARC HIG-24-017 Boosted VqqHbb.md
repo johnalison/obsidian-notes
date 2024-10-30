@@ -21,7 +21,23 @@ Section 2
 - How are the HLT b-tagging SF calculated ? 
 - l124: Why is the efficiency of the HLT that cuts on btagging so flat offline double b?  
 - 133  As there are no flavor selections on the majority of the HLT paths, the efficiency on QCD jets. What about the HLT selections that have a flavor dependence ?
-Section 2.3.2
+
+Section 3.3
+- ETa requirement on Ak4 jets ?
+
+Section 4:
+- Ak4 jet veto: - ak4 < 5 looks tight (30 eta < 5) pT outside of the tracker? Signal eff loss form this cut ? What large uncertianty from modeling additial radation PU ?
+	- Would think the Xbb cut would kill ttbar
+- Really a bin boundry at 201 GeV ?!?  Why ?
+- 
+
+Section 5.1
+- At least one AK4 jet satisfying the medium W.P. for deepJet b-tagging algorithm with and outside of the AK8 jet. Isnt this requiring 3 bs.  The CR really corrects for the a mistag in the AK8(bb) jet.  For the ttbar background, how often are the two bs clustered in the AK8 jet vs bkg from an AK8-bb mistag?
+
+Section 5.3:
+-  fitting to the rho? distribution in QCD Monte Carlo
+- These QCD386 MC transfer factors are treated as uncorrelated across data taking periods. Why?
+- 
 # Pre-Approval:
 https://indico.cern.ch/event/1451204/#17-pre-approval-of-hig-24-017
 - More VH in the boosted regime
