@@ -42,11 +42,7 @@ Up at 7
 M&T to school 
 
 # [[Classifier Studies]]
-- Check files.... need to Rename offset0 files
-- Fixed ZH naming ... submitted offsets 1 and 2 
-- renames bad offset0 files
-- Resubmitted failed jobs
-- Start looking at ZZinSB vs SB results
+- see daily logs above
 
 
 # [[ProgressReport 25 October 2024]]
@@ -57,7 +53,7 @@ More classifier studies ... see above
 
 # Hoops
 - Great Runs 5s !  Covering spreads! 
-- Good split and behind the back dish on a fast break
+- Good split and behind the head dish on a fast break
 
 Start classifier slides
 

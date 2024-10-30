@@ -5,8 +5,7 @@
 Up at 9 !
 
 # [[Classifier Studies]]
-- checking ZH jobs.. resubmit a few that failed.
-- writting out ZZ and ZH in SR files
+- See Daily logs above
 
 Wrote up [[Selfish reasons to having more kids]]
 

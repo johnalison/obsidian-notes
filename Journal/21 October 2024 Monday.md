@@ -31,7 +31,7 @@
 # To Do
 - [>>] Grade MPL
 - [>>]  [[Classifier Studies]]
-- [>>] cluster Run 3 data
+- [>>]  cluster Run 3 data
 - [>>] LAB Techs
 - [>>] USCMS 0.5 position
 - [>>] CMU Security Course
@@ -48,8 +48,7 @@ Up at 6:50... S take T to Dr
 M to school on Bike... Might be last M ride on my bike :(
 
 # [[Classifier Studies]]
-- Looks like Bridges OS is back
-- need to check failed jobs "Done" not enough
+- see daily logs above
 
 
 # UCSB Site Visit Day 1

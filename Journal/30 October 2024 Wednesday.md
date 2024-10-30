@@ -1,23 +1,23 @@
 # Timeblock
 
-|     |     |     |
-| --- | --- | --- |
-| 9   |     |     |
-|     |     |     |
-| 10  |     |     |
-|     |     |     |
-| 11  |     |     |
-|     |     |     |
-| 12  |     |     |
-|     |     |     |
-| 1   |     |     |
-|     |     |     |
-| 2   |     |     |
-|     |     |     |
-| 3   |     |     |
-|     |     |     |
-| 4   |     |     |
-|     |     |     |
+|     | setup               |     |
+| --- | ------------------- | --- |
+| 9   | Run3 Synthetic Data |     |
+|     | Run3 Synthetic Data |     |
+| 10  | Hbb                 |     |
+|     | Hbb                 |     |
+| 11  | Hbb                 |     |
+|     | Hbb                 |     |
+| 12  | Hoops               |     |
+|     | Hoops               |     |
+| 1   | Hoops               |     |
+|     | Hoops               |     |
+| 2   | Run3 Synthetic Data |     |
+|     | Run3 Synthetic Data |     |
+| 3   | Run3 Synthetic Data |     |
+|     | Run3 Synthetic Data |     |
+| 4   | Run3 Synthetic Data |     |
+|     | Run3 Synthetic Data |     |
 
 **W:**
 **DW:**
@@ -25,7 +25,7 @@
 **ex** or **No ex**
 
 # The ONE thing: 
-- [ ] 
+- [ ] Run3 Synthetic Data
 
 
 # To Do
@@ -38,3 +38,32 @@
 
 
 # Log
+
+Up at 7:30 
+
+M & T to school
+
+# [[Run3 Synthetic Data]]
+- Trying with 3 workers ... Jobs failing b/c of memory 
+- Try with 4 workers 10_000 chunksize ... looks like this is working... need to try condor
+- Trying to run on condor submitting from **cmslpc313**
+- Needed to add jet_clustering to transfered files... running
+
+- [x] Migrate [[Classifier Studies]]
+- [x] Migrate cluster run 3 
+- [x] Migrate [[Run-3 4b skims]]
+
+
+# HGC thoughts
+- How big is the chiller ? .. .mail to Nural
+- How expensive is the Alerdite ? How much do we save now that we do transfer tape  ... mail to Jessica
+- How much is the transfer tape ?  ... mail to Jessica
+- Notes: 
+	- $30/cartridge 
+	- With full epoxy can do ~10 modules / cartridge  ~ $3 / module
+    - Hybrid can do ~30 modules / catrige ~ $1 / module
+    - Susanna:  (SRP) quote 9000 pieces, enough for 4500 modules each at TTU and CMU. The cost per item does come down to $8.75 with such a large quantity.
+
+[[HGC MAC DB Meeting 30 October 2024]]
+
+[[HGC Mac testing Meeting 30 October 2024]]

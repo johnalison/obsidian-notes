@@ -48,12 +48,7 @@ Up at 7
 M & T to school 
 
 # [[Classifier Studies]]
-- ZZSR jobs finished...
-- looks like I ran out of quota on /jet/home/alison
-	- `my_quotas` ... saved in [[PSC Bridges]]
-- [x] Need to move submission output to /project
-- moving files to filesystems with more space
-- Resubmitted failed SB | ZZSR jobs
+- see dialy logs above
 
 # HH4b meeting
 

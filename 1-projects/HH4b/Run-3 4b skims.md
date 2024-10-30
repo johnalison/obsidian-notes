@@ -37,10 +37,88 @@ allowlist_sites:
 ...worked!
 
 
+# Daily Logs
+
+[[8 October 2024 Tuesday]]
+-  tmux on **cmslpc316**
+- missing input dataset file
+- trying 2023_preBPix all eras (**source skim2023_preBPix.sh**)
+- Fails b/c **Input sandbox size exceeds the maximum allowed limit.**
+	- Created a clean checkout for the skim (used --depth 1 to speed up the checkout)
+- Jobs finished. some error messages and missing chunks. 
+- submitting 2023_PBix ... Done no errors
+
+[[10 October 2024 Thursday]]
+- [x] Add event selection
+- [x] Test
+- [x] Submit
+- Error from AK8 jet calibration.. Pinged AE.. fixed 
+- Waiting on updated pt calibration and nTag jet selection... have it.
+- submitting BPix on 331
+- submitting preBPix on 
+
+[[11 October 2024 Friday]]
+- Added script to do Lumi checking. 
+- Found missing LBs... turns out these are missing from the Nano!
+- Checked with [[dasgoclient]]
+- Can simplify the checking by just checking that the skims saw all the input events which we can get from das summary
+- [x] Make script to get the DAS info form the datasets file
+	- First version working... 
+	- Need to fix **py python/skimmer/metadata/get_das_info.py -d python/skimmer/metadata/picoaod_datasets_data_2023_BPix.yml**
+	- ...Done.
+- [x] Add README 
+
+[[12 October 2024 Saturday]]
+- 2022 skims from last night failed... xrootd error ... maybe voms-proxy ? 
+	- <font color=red>.. No due to MIT site problems </font>
+- Rerunning on **346**... failed will run period by period.. 
+- Start preEE with B ... done / Start C ... Error /.Start D ... done
+- Start EE .. lots of errors
+
+[[13 October 2024 Sunday]]
+- Trying skims with blocksite `blocklist_sites: 'T2_US_MIT'` in `/python/skimmer/metadata/HH4b.yml`... didnt help
+- Specified allowed sites"
+```yaml
+allowlist_sites:
+    - T3_US_FNALLPC
+    - T2_US_Nebraska
+    - T2_US_Purdue
+    - T3_US_NotreDame
+    - T2_US_Caltech
+```
+...worked! skims all good.
+
+
+[[14 October 2024 Monday]]
+- saved yaml in archive
+- made merged data set:
+	` py metadata/merge_yaml_datasets.py -m metadata/datasets_HH4b_Run3.yml -o metadata/datasets_HH4b_Run3_merged.yml -f metadata/archive/skims_Run3_2024_v2/picoaod_datasets_data_202*`
+- Testing four-b skims.... Looks good
+- Running skims locally ...**49m55.899s** again on **cmslpc319**... **46m49.839s**
+	- Fails b/c of jet calib file... need to only rename if file not found.. 
+		fixed by only untarring when needed.
+	- 45,881 events/s total (127711027/2783.5447924137115)
+- Running skims condor...... **39m9.456s**
+	- 132,884 events/s total (127711027/961.0680384635925)   
+- Problem with the condor 4b skim... use the local v1 one.
+
+[[15 October 2024 Tuesday]]
+- Trying condor 4b skims again on **cmslpc339**... see errors again.... **24m2.427s**
+- Making YAML for the four_tag dataset
+- Fixes for Run3 clustering test jobs
+- Starting Run3 [[Jet DeClustering]]
+- Failed b/c tag ... also probably ran out of memory
+- Fixed tag... Now trying with 1_000 chunksize ... works 
+- Running all 
+
 
 # v1 Tuesday Oct 8th
 - Problems... too many collections/ triggers /events and no LumiBlock checking
 - Will delete
+
+
+
+
 ## Missing chunks...
 
 ## BPix

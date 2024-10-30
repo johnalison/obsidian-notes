@@ -72,9 +72,7 @@ Finish CAPs.
 Did [[CAM Variance October 2024]]
 
 # [[Classifier Studies]]
-- Setting up [[PSC Bridges]]
-- Submitting SB + ZZSR study
-- Submitted all ZZSR fits
+- See daily logs above
 
 [[Why kids should read obituaries]] 
 

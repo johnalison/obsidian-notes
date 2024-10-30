@@ -59,7 +59,7 @@ Chat AE re:Boosted veto
 
 
 # [[Classifier Studies]]
-- resubmitted ... seeing cuda errors
+- See daily log above
 
 Showed them the intake office. 
 

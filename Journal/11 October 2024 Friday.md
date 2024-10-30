@@ -72,15 +72,8 @@ Paid hand money from cap one
 # CMU CMS
 
 
-# Added script to do Lumi checking. 
-- Found missing LBs... turns out these are missing from the Nano!
-- Checked with [[dasgoclient]]
-- Can simplify the checking by just checking that the skims saw all the input events which we can get from das summary
-- [x] Make script to get the DAS info form the datasets file
-	- First version working... 
-	- Need to fix **py python/skimmer/metadata/get_das_info.py -d python/skimmer/metadata/picoaod_datasets_data_2023_BPix.yml**
-	- ...Done.
-- [x] Add README 
+# [[Run-3 4b skims]]
+- See logs above
 
 
 # Social

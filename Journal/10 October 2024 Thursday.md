@@ -50,13 +50,7 @@ H to school then drop off M&T.
 Nice chat with Valeries dad Brian ... should setup play date (got his number)
 
 # [[Run-3 4b skims]]
-- [x] Add event selection
-- [x] Test
-- [x] Submit
-- Error from AK8 jet calibration.. Pinged AE.. fixed 
-- Waiting on updated pt calibration and nTag jet selection... have it.
-- submitting BPix on 331
-- submitting preBPix on 
+- See daily above
 
 # HH4b Chat Jaco
 - not much, discussion of new jet calbiration

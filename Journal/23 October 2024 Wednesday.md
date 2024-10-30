@@ -46,11 +46,7 @@ M&T to school
 Setup / mail 
 
 # [[Classifier Studies]]
-- setting up master
-- submit jobs to average over the kFolds
-- copied to LPC (with `python/analysis/copy_from_PSC.py`)
-- made all input hists
-- did the conversions
+- see logs above
 
 
 Signed response for 5391 will ask for $125k off

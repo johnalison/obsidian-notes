@@ -52,13 +52,7 @@ work from home
 [[Chat w Wes 8 October 2024]]
 
 # [[Run-3 4b skims]]
-- tmux on **cmslpc316**
-- missing input dataset file
-- trying 2023_preBPix all eras (**source skim2023_preBPix.sh**)
-- Fails b/c **Input sandbox size exceeds the maximum allowed limit.**
-	- Created a clean checkout for the skim (used --depth 1 to speed up the checkout)
-- Jobs finished. some error messages and missing chunks. 
-- submitting 2023_PBix ... Done no errors
+- See daily logs above
 
 [[CMU HGC Mac Meeting 8 October 2024]]
 

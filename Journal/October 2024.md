@@ -28,6 +28,6 @@
 | 26 S | Selfish reasons / 5391 Turned Down / Finances 1.9/1.8 / Trick-or-treat Jons                |       |
 | 27 S | SLS abject failure / Library / [[Open Borders]] / **Gym/SR**                               |       |
 | 28 M | Finish [[Classifier Studies]] / Turnaround report / **Hoops** / Clustering Run3            | 6/4/1 |
-| 29 T | (Black Crowes)                                                                             |       |
+| 29 T | (Black Crowes) [[Cluster Run 3 data]] / Start ARC / Turnaround Moves/ Crowes!!             | 7/3/3 |
 | 30 W |                                                                                            |       |
 | 31 H | (Talk in Faculty Meeting)                                                                  |       |

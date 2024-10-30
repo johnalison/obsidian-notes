@@ -4,8 +4,8 @@
 | --- | ---------------------- | ---------------------- |
 | 9   | [[Classifier Studies]] |                        |
 |     | [[Classifier Studies]] |                        |
-| 10  | Cluster Run3 data      |                        |
-|     | Cluster Run3 data      |                        |
+| 10  | [[Cluster Run 3 data]] |                        |
+|     | [[Cluster Run 3 data]] |                        |
 | 11  | Hoops                  |                        |
 |     | Hoops                  |                        |
 | 12  | Hoops                  |                        |
@@ -14,8 +14,8 @@
 |     | Cluster Run 3 data     | [[Classifier Studies]] |
 | 2   | Cluster Run 3 data     | [[Classifier Studies]] |
 |     | ~~Sindhu Chat~~        | Chat Roy/Penco         |
-| 3   | Lab Techs              | Cluster Run 3 data     |
-|     | Lab Techs              | Cluster Run 3 data     |
+| 3   | ~~Lab Techs~~          | Cluster Run 3 data     |
+|     | ~~Lab Techs~~          | Cluster Run 3 data     |
 | 4   | ~~USCMS 1/2 time~~     | Cluster Run 3 data     |
 |     | ~~USCMS 1/2 time~~     | Cluster Run 3 data     |
 
@@ -51,9 +51,7 @@ Seller relisted 5391 without making our disclosures known.
 - Started a new MRSP number only previous inspection!
 
 # [[Classifier Studies]]
-- Copying ZZ and ZH files to LPC
-- needed to update `study_name` in combined FvT script... rerunning
-- Recopying
+- See daily logs above
 
 Start Turn-around report here:
 [[HGCManagementMeeting 29 October 2024]]
@@ -68,12 +66,8 @@ Finished [[Classifier Studies]]
 
 Sent mail to get access to https://allocations.access-ci.org/login
 
-# Trying to cluster the Run3 data
-- test job... fails
-- Looks like selected jets way too loose
-- Adding Muons...
-- Move seljet cut to 20 GeV
-- tmux running 2022_EE on **cmslpc337**... ran in 192 m
+# Trying to [[Cluster Run 3 data]]
+- see log
 
 Do we need the "other" tag list item ? >> [[4b code base]]
 

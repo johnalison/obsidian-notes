@@ -5,11 +5,7 @@
 Up at 8:30
 
 # [[Run-3 4b skims]]
-- 2022 skims from last night failed... xrootd error ... maybe voms-proxy ? 
-	- <font color=red>.. No due to MIT site problems </font>
-- Rerunning on **346**... failed will run period by period.. 
-- Start preEE with B ... done / Start C ... Error /.Start D ... done
-- Start EE .. lots of errors
+- See Logs above
 
 Giant Eagle with M
 

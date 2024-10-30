@@ -48,10 +48,7 @@ M&T to school
 - Boosted overlap numbers
 
 # [[Classifier Studies]]
-- Cant run runTwoStageClosure ... 
-- Fixed with new combine container 
-- Running the fits... seem sensible
-- Starting FvT fits with ZZ and ZHSR in the SB
+- see daily logs above
 
 # [[StatsChat-24-October-2024]]
 

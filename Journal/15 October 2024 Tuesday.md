@@ -60,13 +60,7 @@ Visitor pass portal broken
 To Campus
 
 # [[Run-3 4b skims]]
-- Trying condor 4b skims again on **cmslpc339**... see errors again.... **24m2.427s**
-- Making YAML for the four_tag dataset
-- Fixes for Run3 clustering test jobs
-- Starting Run3 [[Jet DeClustering]]
-- Failed b/c tag ... also probably ran out of memory
-- Fixed tag... Now trying with 1_000 chunksize ... works 
-- Running all 
+- See logs above
 
 Setup...[[ToDo]]
 
