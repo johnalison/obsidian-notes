@@ -47,7 +47,8 @@ M & T to school
 - Trying with 3 workers ... Jobs failing b/c of memory 
 - Try with 4 workers 10_000 chunksize ... looks like this is working... need to try condor
 - Trying to run on condor submitting from **cmslpc313**
-- Needed to add jet_clustering to transfered files... running
+- Needed to add jet_clustering to transfered files... running... failed...
+- Trying with chunk size 5_000, recopied voms-proxy
 
 - [x] Migrate [[Classifier Studies]]
 - [x] Migrate cluster run 3 
@@ -63,6 +64,7 @@ M & T to school
     - Hybrid can do ~30 modules / catrige ~ $1 / module
     - Susanna:  (SRP) quote 9000 pieces, enough for 4500 modules each at TTU and CMU. The cost per item does come down to $8.75 with such a large quantity.
 - [ ] Ping Jeremy re: Baseline Change Request
+	- Need spread sheet form Manfred
 
 
 [[HGC MAC DB Meeting 30 October 2024]]
@@ -71,3 +73,9 @@ M & T to school
 
 [[Hbb Meeting 30 October 2024]]
 
+# Hoops
+- Highmark gym.... 5s and 4s good runs
+
+[[CMU Particle Physics Overview ]]
+
+More [[Run3 Synthetic Data]]

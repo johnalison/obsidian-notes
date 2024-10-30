@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/15 October 2024 Tuesday.md",
+                "file": "0-inbox/CMU Particle Physics Overview.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/16 October 2024 Wednesday.md",
+                "file": "0-inbox/CMU Particle Physics Overview.md",
                 "mode": "source",
                 "source": false
               }
@@ -67,8 +67,7 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -135,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/HGC Mac testing Meeting 30 October 2024.md",
+                "file": "0-inbox/CMU Particle Physics Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/HGC Mac testing Meeting 30 October 2024.md",
+                "file": "0-inbox/CMU Particle Physics Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/HGC Mac testing Meeting 30 October 2024.md"
+                "file": "0-inbox/CMU Particle Physics Overview.md"
               }
             }
           }
@@ -198,11 +197,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "28480883e2408f4d",
+  "active": "dc5a18b6a1951202",
   "lastOpenFiles": [
     "Journal/30 October 2024 Wednesday.md",
-    "Journal/16 October 2024 Wednesday.md",
     "Journal/15 October 2024 Tuesday.md",
+    "0-inbox/CMU Particle Physics Overview.md",
+    "Journal/16 October 2024 Wednesday.md",
+    "0-inbox/ARC HIG-24-017 Boosted VqqHbb.md",
+    "0-inbox/HGC Mac testing Meeting 30 October 2024.md",
     "Journal/14 October 2024 Monday.md",
     "Journal/11 October 2024 Friday.md",
     "Journal/10 October 2024 Thursday.md",
@@ -223,9 +225,6 @@
     "Journal/September/8 September 2024 Sunday.md",
     "Journal/19 October 2024 Saturday.md",
     "1-projects/HGC/EVMS Acronyms.md",
-    "Journal/October 2024.md",
-    "0-inbox/Hbb Meeting 30 October 2024.md",
-    "1-projects/HH4b/Run-3 4b skims.md",
     "0-inbox/#Selfish reasons to having more kids.md#",
     "Journal/#February 2024.md#",
     "0-inbox/#Nexus.md#",
