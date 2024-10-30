@@ -56,6 +56,7 @@ Up at 7:30
 - Testing the synthetic dataset making... looks OK!
 	- ...need to turn off TTbar subtraction
 	- ...kill `canJet["calibration"]`
+- Running the synthetic dataset making on **cmslpc301**
 
 
 More [[ARC HIG-24-017 Boosted VqqHbb]]
@@ -84,4 +85,6 @@ Bike home
 More clustering Run3 data
 
 More clustering...
+
+Got H w/M
 
