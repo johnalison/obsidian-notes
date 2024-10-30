@@ -63,7 +63,12 @@ M & T to school
 	- With full epoxy can do ~10 modules / cartridge  ~ $3 / module
     - Hybrid can do ~30 modules / catrige ~ $1 / module
     - Susanna:  (SRP) quote 9000 pieces, enough for 4500 modules each at TTU and CMU. The cost per item does come down to $8.75 with such a large quantity.
+- [ ] Ping Jeremy re: Baseline Change Request
+
 
 [[HGC MAC DB Meeting 30 October 2024]]
 
 [[HGC Mac testing Meeting 30 October 2024]]
+
+[[Hbb Meeting 30 October 2024]]
+
