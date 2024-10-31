@@ -51,4 +51,10 @@ Review: [[CMU Particle Physics Overview]]
 # [[Run3 Synthetic Data]]
 - Clean files from failed jobs
 - Turning off jetVetoMaps
+
+
+# FB2C
+- Discussion re:jet-veto maps
+- [ ] Request presentation
+- Gave talk on [[Classifier Studies]]... Summary doesnt matter much which SB to use
 - 
