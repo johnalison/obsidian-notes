@@ -20,6 +20,47 @@ Room :  Osher Room A
 #### **Instructor :** John Alison
 
 
+# Syllabus 
+
+4 1.5 Hours
+# Week 1 Newton’s dream & 20th Century Revolution
+- IntroductionNewtonsDream.pdf
+- Half of MissionBarelyPossible.key
+# Week 2 Mission Barely Possible: QM + SR
+- Half MissionBarelyPossible.key + SM
+- Standard Model
+# Week 3 The Higgs Boson
+- Higgs Boson
+- Discovery of the Higgs ?? 
+
+# Week 4: Problems with the Standard Model: Going beyond the Higgs
+- 
+
+
+# Welcome Mail
+
+Hello,   
+  
+  My name is John Alison and I will be the instructor for the Particle Physics Course.
+Reminder that the course will be held weekly on Wednesdays from 2:30 - 4:00 PM in Osher Room A, starting on November 6h. There will be four sessions, with no class on the day before Thanksgiving.
+
+Here is my plan for four weeks. 
+
+Week 1: Big Picture: Newton’s dream & 20th Century Revolution
+
+Week 2: Mission Barely Possible: Quantum Mechanics + Relativity
+
+Week 3: The Higgs Boson
+
+Week 4: Problems with Particle Physics: Going beyond the Higgs
+
+There will be no homework is there is no required reading/work before hand.
+
+Looking forward to getting started! 
+john
+
+#### Weekly - Wed 2:30 PM - 4:00 PM; 4 sessions; starting 11/6/2024, ending 12/4/2024 ; Class Skip Dates : (No class on 11/27/2024)
+
 ## Links: 
 [[Teaching]]
 [[Osher Study Leader Training 20 Aug 2024]]

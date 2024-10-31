@@ -1,5 +1,5 @@
 
-Very cool progam
+Very cool program
 
 In basement of Cyert hall
 

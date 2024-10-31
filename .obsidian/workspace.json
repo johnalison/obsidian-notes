@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/CMU Particle Physics Overview.md",
+                "file": "Output/CMU Particle Physics Overview.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/CMU Particle Physics Overview.md",
+                "file": "Journal/31 October 2024 Thursday.md",
                 "mode": "source",
                 "source": false
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"counting crows\"",
+                "query": "osher",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -150,8 +150,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -171,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/CMU Particle Physics Overview.md",
+                "file": "Journal/31 October 2024 Thursday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/CMU Particle Physics Overview.md",
+                "file": "Journal/31 October 2024 Thursday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/CMU Particle Physics Overview.md"
+                "file": "Journal/31 October 2024 Thursday.md"
               }
             }
           }
@@ -236,7 +235,11 @@
   },
   "active": "28480883e2408f4d",
   "lastOpenFiles": [
+    "1-projects/Teaching/Osher Fall Particle Physics Course.md",
+    "Input/Meetings/August/Osher Study Leader Training 20 Aug 2024.md",
+    "Journal/August/20 August 2024 Tuesday.md",
     "Journal/31 October 2024 Thursday.md",
+    "Output/CMU Particle Physics Overview.md",
     "Journal/30 October 2024 Wednesday.md",
     "0-inbox/Run3 Synthetic Data.md",
     "Journal/October 2024.md",
@@ -244,7 +247,6 @@
     "0-inbox/ARC HIG-24-017 Boosted VqqHbb.md",
     "0-inbox/ToDo.md",
     "Journal/29 October 2024 Tuesday.md",
-    "0-inbox/CMU Particle Physics Overview.md",
     "Journal/28 October 2024 Monday.md",
     "Journal/27 October 2024 Sunday.md",
     "Journal/26 October 2024 Saturday.md",
@@ -259,9 +261,6 @@
     "Journal/11 October 2024 Friday.md",
     "Journal/10 October 2024 Thursday.md",
     "Journal/9 October 2024 Wednesday.md",
-    "Journal/8 October 2024 Tuesday.md",
-    "Journal/7 October 2024 Monday.md",
-    "Journal/4 October 2024 Friday.md",
     "0-inbox/#Selfish reasons to having more kids.md#",
     "Journal/#February 2024.md#",
     "0-inbox/#Nexus.md#",
