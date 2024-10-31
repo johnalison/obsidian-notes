@@ -19,10 +19,10 @@
 | 4   | [[Run3 Synthetic Data]] |     |
 |     | Get M & T               |     |
 
-**W:**
-**DW:**
-**OT:**
-**ex** or **No ex**
+**W:** 6
+**DW:** 1
+**OT:** 1
+**No ex**
 
 # The ONE thing: 
 - [ ] [[Run3 Synthetic Data]]
@@ -55,6 +55,7 @@ Review: [[CMU Particle Physics Overview]]
 - Making hists
 - [ ] Fix missing bRegCorr variables
 - Hack to get running.... working !...**31m2.461s**
+- First look at Plots ... sensible, but there are obvious problems. 
 
 
 # FB2C
@@ -84,4 +85,7 @@ Review: [[CMU Particle Physics Overview]]
 
 Home to sit with H
 
-more [[Run3 Synthetic Data]]
+More [[Run3 Synthetic Data]]
+
+Got M & T 
+
