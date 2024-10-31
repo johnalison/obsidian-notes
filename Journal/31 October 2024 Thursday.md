@@ -11,13 +11,13 @@
 | 12  | bbWW                    |     |
 |     | Faculty Meeting         |     |
 | 1   | Faculty Meeting         |     |
-|     |                         |     |
-| 2   |                         |     |
-|     |                         |     |
+|     | Faculty Meeting         |     |
+| 2   | Osher                   |     |
+|     | Chat AE re:update       |     |
 | 3   | Home w/H                |     |
 |     | Home w/H                |     |
 | 4   |                         |     |
-|     |                         |     |
+|     | Get M & T               |     |
 
 **W:**
 **DW:**
@@ -30,10 +30,10 @@
 
 # To Do
 - [x]  Review [[CMU Particle Physics Overview]]
-- [ ]  Osher Lab Mail !!!!!
+- [x]  Osher Lab Mail !!!!!
 - [ ] Osher Course Prep
 - [ ] Lab techs
-- [ ] Need to ship modules to FNAL
+- [x] Need to ship modules to FNAL
 - [ ] Read AN VqqHbb
 - [ ] USCMS 1/2 time position
 - [x] Need clean files from previous failed jobs
@@ -70,8 +70,13 @@ Review: [[CMU Particle Physics Overview]]
 # Faculty Meeting
 - Main mission is to fix the MCS deficit. 6M / year
 - Shilla is leaving. 
+- Chat with dean... 
+- [ ] Ping her for lab visit
 
-Planning [[Osher Fall Particle Physics Course]]
+# Planning [[Osher Fall Particle Physics Course]]
 - Draft outline 
 - Sent welcome mail
 - [ ] Test AV
+
+Home to sit with H
+
