@@ -35,6 +35,7 @@
 - [ ] Read AN VqqHbb
 - [ ] Read paper draft VqqHbb
 - [ ] Apply for more bridges money
+- [ ] Osher Lab Mail !!!!!
 
 
 # Log
@@ -84,3 +85,6 @@ M & T to school
 More [[Run3 Synthetic Data]]
 
 Reviewing the AN of [[ARC HIG-24-017 Boosted VqqHbb]]
+
+[[March 2024]]
+
