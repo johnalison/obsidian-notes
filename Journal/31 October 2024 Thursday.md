@@ -29,14 +29,14 @@
 
 
 # To Do
-- [ ]  Review [[CMU Particle Physics Overview]]
+- [x]  Review [[CMU Particle Physics Overview]]
 - [ ]  Osher Lab Mail !!!!!
 - [ ] Osher Course Prep
 - [ ] Lab techs
 - [ ] Need to ship modules to FNAL
 - [ ] Read AN VqqHbb
-- [ ] - [ ] USCMS 1/2 time position
-- [ ] Need clean files from previous failed jobs
+- [ ] USCMS 1/2 time position
+- [x] Need clean files from previous failed jobs
 
 # Log
 
@@ -46,3 +46,8 @@ Up at 7
 Phone not charged !...!  
 
 Review: [[CMU Particle Physics Overview]]
+
+
+# [[Run3 Synthetic Data]]
+- Clean files from failed jobs
+- 
