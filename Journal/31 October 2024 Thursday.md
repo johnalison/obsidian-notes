@@ -50,4 +50,5 @@ Review: [[CMU Particle Physics Overview]]
 
 # [[Run3 Synthetic Data]]
 - Clean files from failed jobs
+- Turning off jetVetoMaps
 - 
