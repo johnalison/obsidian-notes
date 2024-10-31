@@ -69,15 +69,13 @@ Bike home
 
 #  [[HGCManagementMeeting 29 October 2024]]
 - Making Moves! 
-- [ ] Need to ship modules to FNAL
+- [>>] Need to ship modules to FNAL
 
 More clustering Run3 data
 
-More clustering...
-
 Got H w/M
 
-Drove to Mike & Tonys in moon
+# Drove to Mike & Tonys in moon
 
 # Black Crows !!
 - ~Third row seats! 

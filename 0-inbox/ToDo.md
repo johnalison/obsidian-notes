@@ -5,11 +5,13 @@ These should be on Daily's page  !
 
 # Important + Not Due Soon:
 - [>>] Watch Pre-Approval VqqHbb
+	- [ ] Read paper draft VqqHbb
 - [ ] CAM Training
 - [ ] Read HGC TDR
 - [ ] Collect and Send Teachers program info
 - [ ] CMU Security Course
 - [ ] Synthetic datasets for boosted
+- [ ] Apply for more bridges money
 
 # Not Important + Due Soon
 DON'T DO
