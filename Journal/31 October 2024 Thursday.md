@@ -16,7 +16,7 @@
 |     | Chat AE re:update       |     |
 | 3   | Home w/H                |     |
 |     | Home w/H                |     |
-| 4   |                         |     |
+| 4   | [[Run3 Synthetic Data]] |     |
 |     | Get M & T               |     |
 
 **W:**
@@ -51,6 +51,9 @@ Review: [[CMU Particle Physics Overview]]
 # [[Run3 Synthetic Data]]
 - Clean files from failed jobs
 - Turning off jetVetoMaps
+- Added synthetic datasets to yaml files
+- Making hists
+- [ ] Fix missing bRegCorr variables
 
 
 # FB2C
@@ -80,3 +83,4 @@ Review: [[CMU Particle Physics Overview]]
 
 Home to sit with H
 
+more [[Run3 Synthetic Data]]
