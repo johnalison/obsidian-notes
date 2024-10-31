@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/31 October 2024 Thursday.md",
+                "file": "0-inbox/CMU Particle Physics Overview.md",
                 "mode": "source",
                 "source": false
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/31 October 2024 Thursday.md",
+                "file": "0-inbox/CMU Particle Physics Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/31 October 2024 Thursday.md",
+                "file": "0-inbox/CMU Particle Physics Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,7 +211,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/31 October 2024 Thursday.md"
+                "file": "0-inbox/CMU Particle Physics Overview.md"
               }
             }
           }
@@ -236,10 +236,10 @@
   },
   "active": "28480883e2408f4d",
   "lastOpenFiles": [
+    "Journal/31 October 2024 Thursday.md",
     "Journal/30 October 2024 Wednesday.md",
     "0-inbox/Run3 Synthetic Data.md",
     "Journal/October 2024.md",
-    "Journal/31 October 2024 Thursday.md",
     "0-inbox/HGC Transfer Tape BCR.md",
     "0-inbox/ARC HIG-24-017 Boosted VqqHbb.md",
     "0-inbox/ToDo.md",

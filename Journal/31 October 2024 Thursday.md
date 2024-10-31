@@ -57,4 +57,11 @@ Review: [[CMU Particle Physics Overview]]
 - Discussion re:jet-veto maps
 - [ ] Request presentation
 - Gave talk on [[Classifier Studies]]... Summary doesnt matter much which SB to use
-- 
+
+
+# Stats Chat 
+- Discussion of calibrating the background prediction. eg: an Nuisance parameters to the bkg. 
+
+# bbWW
+- Not much.  Chi2 using mean of the signal distribution !
+

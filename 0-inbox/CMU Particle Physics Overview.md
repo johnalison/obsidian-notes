@@ -17,6 +17,8 @@ Can roughly think of the work in particle physics as broken down into four-quadr
 - This science is data heavy:  use of ML/AI calibrations with stats. data science departments  
 - Requires dedicated detectors: build and commission at CMU- Other axis is energy scale or (distance scale) probed.
 
+Physics driven by big questions. Leadership roles in big experiments. 
+
 
 
 
