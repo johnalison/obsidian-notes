@@ -22,8 +22,6 @@ Section 2
 - l124: Why is the efficiency of the HLT that cuts on btagging so flat offline double b?  
 - 133  As there are no flavor selections on the majority of the HLT paths, the efficiency on QCD jets. What about the HLT selections that have a flavor dependence ?
 
-Section 3.3
-- ETa requirement on Ak4 jets ?
 
 Section 4:
 - Ak4 jet veto: - ak4 < 5 looks tight (30 eta < 5) pT outside of the tracker? Signal eff loss form this cut ? What large uncertianty from modeling additial radation PU ?
@@ -35,7 +33,29 @@ Section 5.1
 - At least one AK4 jet satisfying the medium W.P. for deepJet b-tagging algorithm with and outside of the AK8 jet. Isnt this requiring 3 bs.  The CR really corrects for the a mistag in the AK8(bb) jet.  For the ttbar background, how often are the two bs clustered in the AK8 jet vs bkg from an AK8-bb mistag?
 
 Section 5.3:
--  fitting to the rho? distribution in QCD Monte Carlo
+-  Cannot understand fitting to the rho? distribution in QCD Monte Carlo
+l383
+"The coefficients of the polynomial TFMC are derived by fitting to the msd distribution in QCD
+Monte Carlo. The same transfer factors are defined and fitted simultaneously in different msd2 bins."
+
+- How do you fit a function of rho to the m_sd distribution. 
+- (Assuming m_sd2 is a typo which should read m_sd, otherwise what is m_sd2) What do you mean the TF are fit simultaneosely in different m_sd bins... You are fitting to m_sd ! 
+- Maybe you are fitting to rho, and doing this in different coarse m_sd bins. 
+	- If so, please correct the AN
+	- Can you give the coarse m_sd binning you are using.
+	- Can you show the fits in rho for the TF
+
+- Can you show the fits used to determine the polynominal order ?
+	 In section 5.2 it says "The optimal polynomial orders and details of the corresponding
+400 fits are shown in Section 5.2."
+
+* l406: "The number of required coefficients in the data/MC residual transfer factor is determined by a Fisher F-test on data, as discussed further in Section 7.
+	* Can you add the details and plots of the Tres fits here.  It is not discussed in section 7.
+
+
+- Figs 40-43: I dont see how you can draw any conclusions quantitaive or qualitative given the quality of these fits.
+
+
 - These QCD386 MC transfer factors are treated as uncorrelated across data taking periods. Why?
 - 
 # Pre-Approval:

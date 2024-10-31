@@ -19,17 +19,17 @@
 | 4   | Run3 Synthetic Data |     |
 |     | Run3 Synthetic Data |     |
 
-**W:**
-**DW:**
-**OT:**
-**ex** or **No ex**
+**W:** 7
+**DW:** 4
+**OT:** 4
+**ex** 
 
 # The ONE thing: 
 - [ ] Run3 Synthetic Data
 
 
 # To Do
-- [ ] Prep Thursday Chat
+- [x] Prep Thursday Chat
 - [ ] Lab techs
 - [ ] USCMS 1/2 time position
 - [ ] Read AN VqqHbb
@@ -48,7 +48,10 @@ M & T to school
 - Try with 4 workers 10_000 chunksize ... looks like this is working... need to try condor
 - Trying to run on condor submitting from **cmslpc313**
 - Needed to add jet_clustering to transfered files... running... failed...
-- Trying with chunk size 5_000, recopied voms-proxy
+- Trying with chunk size 5_000, recopied voms-proxy... WORKED !!!... **175m51.908s**
+- [ ] Need clean files from previous failed jobs
+
+
 
 - [x] Migrate [[Classifier Studies]]
 - [x] Migrate cluster run 3 
@@ -79,3 +82,5 @@ M & T to school
 [[CMU Particle Physics Overview ]]
 
 More [[Run3 Synthetic Data]]
+
+Reviewing the AN of [[ARC HIG-24-017 Boosted VqqHbb]]
