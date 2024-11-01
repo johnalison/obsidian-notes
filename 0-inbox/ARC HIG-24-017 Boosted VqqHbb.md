@@ -15,7 +15,7 @@ https://cms.cern.ch/iCMS/analysisadmin/get?analysis=HIG-24-017-paper-v1.pdf
 # AN Review
 http://cms.cern.ch/iCMS/jsp/openfile.jsp?tp=draft&files=AN2022_031_v9.pdf
 
-- General:  Shoudl compare sensitivites to VBF and other leptonic decay modes
+	- General:  Shoudl compare sensitivites to VBF and other leptonic decay modes
 
 Section 2
 - How are the HLT b-tagging SF calculated ? 
