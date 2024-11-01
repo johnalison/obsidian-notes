@@ -47,15 +47,7 @@ Slept in Hs bed again... not great
 M&T to school
 
 # [[Jet DeClustering]]
-- Testing flags for 
-	- [x] Synthetic data
-	- [x] PSData
-	- [x] Mixed data
-	- [x] TTForMixed
-	- [x] 3bForMixed
-	- [x] Data
-	- [x] MC
-- Committed first version with weights going.
+- See daily logs above
 
 # Chris Quigg Visit
 - Picked him up

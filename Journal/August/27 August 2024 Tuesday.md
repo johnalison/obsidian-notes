@@ -39,17 +39,7 @@
 Up at 6:30 
 
 # [[Jet DeClustering]]
-- Debugging making of synthetic datasets
-	- Testing on **cmslpc306**
-- Got draft working (problem was jet_flavor as string)
-	- Trying with unsigned 8-bit encoding... also fails
-- Pushing first draft of make dataset script
-- To Do
-	[>] Add random number seed input
-	[>] Add random number seed to output file name
-- Now running on **cmslpc337**. data2018 took **30m9.774s**
-- Running not with full Run-2
-- Pushed first version: 
+- See daily logs above
 
 Bike to school
 

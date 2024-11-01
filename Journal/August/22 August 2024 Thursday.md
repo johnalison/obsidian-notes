@@ -46,14 +46,7 @@ M & T to school
 [http://whenisgood.net/ss4cfpn](https://whenisgood.net/ss4cfpn)
 
 # [[Jet DeClustering]]
-- Back to trying to fix ΔR...
-- Found a way to mask and write the jets
-- Starting to impement consistent random numbers
-	- Looking into code
-- think I finally got the global dR working !!!!!
-- Fixed a bug in the eta check of one of the bs
-- Deculstering on **cmslpc305**...failed.. now on **cmslpc340**... **117m16.100s**
-
+- See daily above
 
 [[CMU HGC Mac Meeting 22 August 2024]]
 

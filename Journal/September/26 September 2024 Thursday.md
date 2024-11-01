@@ -44,12 +44,7 @@ M&T to school
 
 Can see Lab Tech Candidates in workday.
 # [[Jet DeClustering]]
-- Getting the check reclustering script going.
-- Update plots.py to handle 2d histograms with multiple input files
-- Making slides of data vs reclustered for all the pdfs
-- Make pdfs of the splittings separately by year 00-07-03 
-- Make clustering hists (noTT) on **cmslpc304** with JEC/JER  00-08-00
-	- Remaking synthetic datasets with 00-08-00 on **cmslpc304**
+- See daily logs above
 
 Chat w/Matteo and new student re:setting up t3
 

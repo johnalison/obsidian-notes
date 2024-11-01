@@ -55,14 +55,7 @@ Reviewed Anikets DQM slides with him.
 # Start fast!
 
 # [[Jet DeClustering]]
-- Debugging cutflow.  Input events are the same.  Some of the declustered Jet Pts are different.
-- wrote helper function to output debug info
-- All of the input pt are the same!!
-- All of the clustered pts are the same!!
-- Maybe the splittings are not ordered ??? 
-- The declustered jet pt are Different!... problem was with rounding 
-- Fixed with rounding the eta, phi and pt values!
-- Checking cutflow
+- See daily logs above
 
 [[CMU HGC Mac Meeting 10 September 2024]]
 

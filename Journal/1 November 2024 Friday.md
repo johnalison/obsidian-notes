@@ -15,14 +15,14 @@
 | 2   | 4b chat                       |     |
 |     | Leave to get kids             |     |
 | 3   | Flu Shots                     |     |
-|     |                               |     |
-| 4   |                               |     |
-|     |                               |     |
+|     | Pizza                         |     |
+| 4   | Home                          |     |
+|     | Home                          |     |
 
-**W:**
-**DW:**
-**OT:**
-**ex** or **No ex**
+**W:** 4 
+**DW:** 2
+**OT:** 2
+**ex** 
 
 # The ONE thing: 
 - [ ] [[Run3 Synthetic Data]]
@@ -71,7 +71,7 @@ Missed Meeting with Gabija Ziemyte
 
 [[HGC WADs]]
 
-- [ ] Migrate [[Jet DeClustering]] logs
+- [x] Migrate [[Jet DeClustering]] logs
 
 Reviewed [[October 2024]]
 
@@ -92,4 +92,6 @@ Schullis for Pizza slices
 
 Finished AN [[ARC HIG-24-017 Boosted VqqHbb]] questions
 
+Giant eagle for kale
 
+Migrated [[Jet DeClustering]] logs

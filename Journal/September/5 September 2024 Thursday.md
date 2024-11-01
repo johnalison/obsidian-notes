@@ -45,14 +45,7 @@ Up at 7
 M&T to school
 
 # [[Jet DeClustering]]
-- Try dictionary the do floats.. fails.
-- Might be able to do arrays ?  ... Nope
-- Going to strings
-- Implemented the propogation of btagging scores via strings
-- Testing on **346**... ran**120m3.708s**
-- Running analyzer
-- TTbar subtraction for nominal
-- bTag weights now look good... but dont make much of a difference.
+- See daily logs above
 
 Chat with Diana re:Lab tech ask from department
 

@@ -50,15 +50,7 @@ Another Mail to Nuno...
 - Chat in hall.  Claims problem is MCS personel ... should complain to Curtis.
 
 # [[Jet DeClustering]]
-- Fine tuned histogram ranges
-- Adding four tag skimmer
-- Getting fourtag skimmer running
-	- Need to update pico output name...DONE
-- running 4b skims on **cmslpc316**... done
-- Trying to run on the skims...**3m31.086s**. ! (doing SvB and top reco)
-- With 3b data this is .... infinite! Fails to run!
-- Update plots and slides comparing synthetic vs data
-- Testing declustering time with fourTag data on **cmslpc340**.... had to turn off ttbar subtraction... crashed b/c memory
+- See daily logs
 
 
 [[Chat w Wes 24 September 2024]]

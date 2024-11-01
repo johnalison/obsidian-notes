@@ -47,11 +47,7 @@ Up at 7:15.
 M&T to school...Barely missed the rain.
 
 # [[Jet DeClustering]]
--  Testing declustering time with fourTag data on **cmslpc340**.... had to turn off ttbar subtraction... with 10x lower chunksize
-- clustering data (noTT subtraction) on 340... 112 m
-- clustering with fourTag data ... crashed.
-- clustering synthetic data... ran out of memory... running w/2 workers on **cmslpc342**... too long... trying 4 workers chunksize 10_000... looks like its working...works **107m59.205s**
-- Cleaning up options for processors (factorized into helper function)... DONE
+- See daily logs above
 
 
 [[StatsChat-25-September-2024]]

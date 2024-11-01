@@ -48,15 +48,7 @@ H Surgery today... went well ... was fast
 M&T to school
 
 # [[Jet DeClustering]]
-- Local merge
-- Push/merge
-- Rerunning all synthetic datasets on **cmslpc343**... **117m19.837s**
-- Finish draft of MC subsampler
-- Move order of MC corrections for declustering (should only affect signal cutflow)
-- Got subsampler working
-- Full dataset (TTbar all year) ... **11m38.034s**
-- More clean up to DeCluster code 
-- Remaking synthetic datasets with seed0 ...
+- See daily logs above
 
 Will move Chris Quigg meeting to Friday.
 

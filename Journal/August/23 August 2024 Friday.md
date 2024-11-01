@@ -42,12 +42,7 @@ Up at 7.
 # Marlos Birthday !  4! 
 
 # [[Jet DeClustering]]
-- Checked dR results.  Working !  Looks like random numbers are not
-- Trying again with old random number set up
-- dR looks good now!  
-- Need to fix random numbers (probably add more than just pt)
-- Send slides around
-- Trying with max retries set to 8...**121m1.577s**
+- See daily logs above
 
 
 To school

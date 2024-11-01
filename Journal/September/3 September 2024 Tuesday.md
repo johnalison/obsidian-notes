@@ -53,10 +53,7 @@ To School
 [[School tests weakness, life rewards strengths]]
 
 # [[Migrate Trigger Emulator]]
-- adding hT_trigger
-- Add CI
-- 1st draft finished! ... pushed
-- Run CI 
+- See daily logs above
 
 Idea for selected jet flag for [[Jet DeClustering]]
 
@@ -78,7 +75,7 @@ Pinged Michelle Waters Ad for Lab tech
 [[HGCManagementMeeting 3 September 2024]]
 
 # [[Jet DeClustering]]
- - remaking inputs with ttbar subtraction on **cmslpc338** 
+- See daily log above
 
 Home ... Got H
 

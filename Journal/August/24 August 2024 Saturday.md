@@ -16,8 +16,7 @@ Wrote up [[American Covenant]]
 - Bought some olives / Free bobble heads
 
 # [[Jet DeClustering]]
-- Fix for random numbers.
-- Trying on **cmslpc337**
+- See daily logs above
 
 
 Some [[MPL]] videos 

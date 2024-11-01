@@ -46,13 +46,7 @@ Up at 7:15
 M&T to school
 
 # [[Jet DeClustering]]
-- Pushed sub-sampling working
-- Remaking subsample... output on EOS... Done
-- Testing all synthetic data + TT PSdata
-- debugging running PS with isSynthetic flag...working
-- Adding PS data to synthetic dataset via metadata file.
-- Made synthetic datasets with and without PSData TT
-- Making nominal data (w/o TT) on **cmslpc343**.... works 
+- See daily log
 
 # [[Debug trigger weights]]
 - Fixed.  np.all(ht) < upper_bin -> ht < upper_bin

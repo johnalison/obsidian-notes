@@ -66,11 +66,7 @@ Pinged Nuno re:computing
 - Proceed here before going through Curtis
 
 # [[Jet DeClustering]]
-- [[Debugging PSdata]] code have three tag events in `-e UL16_postVFP  -p ps_data_TTToHadronic`
-  --> Solved. B/c of the MC jet calibration
- - Should replace jet four vector with calibrated fourvector in psdata
-	 - Done
- - [x] Need to push
+- See daily logs
 
 [[CMU HGC Mac Meeting 17 September 2024]]
 

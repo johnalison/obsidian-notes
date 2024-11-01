@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "dc5a18b6a1951202",
+            "id": "df65920f0a402d5d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,43 +20,7 @@
             }
           },
           {
-            "id": "6b8213b701a32ba6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-projects/HH4b/Run-3 4b skims.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6f5fe86f2ec518f2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Output/CMU Particle Physics Overview.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0a315ce2b1139c05",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0-inbox/ARC HIG-24-017 Boosted VqqHbb.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cc67792dc8b14869",
+            "id": "b396f0a73370f557",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -66,41 +30,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "15b5392fd1c5586b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Journal/August/20 August 2024 Tuesday.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "530f8515f53575c8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-projects/Mixed2.0/Jet DeClustering.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "df65920f0a402d5d",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -119,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"Jet Declustering\"",
+                "query": "\"tool list\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -167,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/August/20 August 2024 Tuesday.md",
+                "file": "Journal/1 November 2024 Friday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/August/20 August 2024 Tuesday.md",
+                "file": "Journal/1 November 2024 Friday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/August/20 August 2024 Tuesday.md"
+                "file": "Journal/1 November 2024 Friday.md"
               }
             }
           }
@@ -230,34 +161,34 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "15b5392fd1c5586b",
+  "active": "df65920f0a402d5d",
   "lastOpenFiles": [
-    "1-projects/Mixed2.0/Jet DeClustering.md",
-    "Journal/August/20 August 2024 Tuesday.md",
-    "Journal/August/19 August 2024 Monday.md",
-    "Journal/August/18 August 2024 Sunday.md",
-    "Journal/August/17 August 2024 Saturday.md",
-    "Journal/August/16 August 2024 Friday.md",
-    "Journal/August/15 August 2024 Thursday.md",
-    "Journal/August/14 August 2024 Wednesday.md",
-    "Journal/August/13 August 2024 Tuesday.md",
-    "Journal/August/12 August 2024 Monday.md",
-    "Journal/August/11 August 2024 Sunday.md",
-    "Journal/August/10 August 2024 Saturday.md",
-    "Journal/August/9 August 2024 Friday.md",
-    "Journal/August/8 August 2024 Thursday.md",
-    "Journal/August/7 August 2024 Wednesday.md",
-    "Journal/August/6 August 2024 Tuesday.md",
-    "Journal/August/5 August 2024 Monday.md",
-    "Journal/August/4 August 2024 Sunday.md",
-    "Journal/August/3 August 2024 Saturday.md",
-    "Journal/August/2 August 2024 Friday.md",
+    "Output/CMU Particle Physics Overview.md",
+    "Journal/1 November 2024 Friday.md",
+    "0-inbox/ARC HIG-24-017 Boosted VqqHbb.md",
     "1-projects/Mixed2.0/Run3 Synthetic Data.md",
-    "Journal/July/31 July 2024 Wednesday.md",
-    "Journal/August/1 August 2024 Thursday.md",
-    "Journal/March 2024.md",
-    "Journal/July/30 July 2024 Tuesday.md",
-    "Journal/July/29 July 2024 Monday.md",
+    "1-projects/Mixed2.0/Jet DeClustering.md",
+    "Journal/October/31 October 2024 Thursday.md",
+    "Journal/October/30 October 2024 Wednesday.md",
+    "1-projects/HH4b/Run-3 4b skims.md",
+    "1-projects/Mixed2.0/Migrate Trigger Emulator.md",
+    "Journal/October/29 October 2024 Tuesday.md",
+    "Journal/October/28 October 2024 Monday.md",
+    "Journal/October/27 October 2024 Sunday.md",
+    "Journal/October/26 October 2024 Saturday.md",
+    "Journal/October/25 October 2024 Friday.md",
+    "Journal/October/24 October 2024 Thursday.md",
+    "Journal/October/23 October 2024 Wednesday.md",
+    "Journal/October/22 October 2024 Tuesday.md",
+    "Journal/October/21 October 2024 Monday.md",
+    "Journal/October/20 October 2024 Sunday.md",
+    "Journal/October/19 October 2024 Saturday.md",
+    "Journal/October/18 October 2024 Friday.md",
+    "Journal/October/17 October 2024 Thursday.md",
+    "Journal/October/16 October 2024 Wednesday.md",
+    "Journal/October/15 October 2024 Tuesday.md",
+    "Journal/October/14 October 2024 Monday.md",
+    "Journal/October/13 October 2024 Sunday.md",
     "Journal/October",
     "Input/Meetings/October",
     "0-inbox/#Selfish reasons to having more kids.md#",

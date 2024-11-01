@@ -49,16 +49,7 @@ M&T to school
 [[Zeeman Effect]]
 
 # [[Jet DeClustering]]
-- Starting to look into making synthetic datasets
-- Skimmer test job **source .ci-workflows/skimmer-test-job.sh**  failing locally.
-- Trying without --dask... works without dask!
-- Questions:
-	- How to turn off chunking ? Crank up picoSize ? ... fails if picoSize 10x
-	- Now 10x pico size works ! only one output file... GOOD
-- To Do
-	- [x] Turn off unneeded branches (eg: ZHSR, SB...)
-- Got first dummy draft working... now fails when declustering
-- Testing on **cmslpc306**
+- See daily logs above
 
 
 FBC2:

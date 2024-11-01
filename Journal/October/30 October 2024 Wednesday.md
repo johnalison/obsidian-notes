@@ -49,7 +49,7 @@ M & T to school
 - see daily logs above
 
 
-# Move Daily Log notes to Daily log in relevant item
+# Move Daily Logs to Daily log in relevant collection
 - [x] Migrate [[Classifier Studies]]
 - [x] Migrate cluster run 3 
 - [x] Migrate [[Run-3 4b skims]]

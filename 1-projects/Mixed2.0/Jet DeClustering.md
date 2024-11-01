@@ -312,6 +312,302 @@ update presenations with hT and top reco
 - Made plots with ttbar subtraction... not 
 
 
+[[22 August 2024 Thursday]]
+- Back to trying to fix ΔR...
+- Found a way to mask and write the jets
+- Starting to impement consistent random numbers
+	- Looking into code
+- think I finally got the global dR working !!!!!
+- Fixed a bug in the eta check of one of the bs
+- Deculstering on **cmslpc305**...failed.. now on **cmslpc340**... **117m16.100s**
+
+[[23 August 2024 Friday]]
+- Checked dR results.  Working !  Looks like random numbers are not
+- Trying again with old random number set up
+- dR looks good now!  
+- Need to fix random numbers (probably add more than just pt)
+- Send slides around
+- Trying with max retries set to 8...**121m1.577s**
+
+[[24 August 2024 Saturday]]
+- Fix for random numbers.
+- Trying on **cmslpc337**
+
+[[26 August 2024 Monday]]
+- Starting to look into making synthetic datasets
+- Skimmer test job **source .ci-workflows/skimmer-test-job.sh**  failing locally.
+- Trying without --dask... works without dask!
+- Questions:
+	- How to turn off chunking ? Crank up picoSize ? ... fails if picoSize 10x
+	- Now 10x pico size works ! only one output file... GOOD
+- To Do
+	- [x] Turn off unneeded branches (eg: ZHSR, SB...)
+- Got first dummy draft working... now fails when declustering
+- Testing on **cmslpc306**
+
+[[27 August 2024 Tuesday]]
+- Debugging making of synthetic datasets
+	- Testing on **cmslpc306**
+- Got draft working (problem was jet_flavor as string)
+	- Trying with unsigned 8-bit encoding... also fails
+- Pushing first draft of make dataset script
+- To Do
+	[>] Add random number seed input
+	[>] Add random number seed to output file name
+- Now running on **cmslpc337**. data2018 took **30m9.774s**
+- Running not with full Run-2
+- Pushed first version: 
+
+[[28 August 2024 Wednesday]]
+- Added ttbar subtraction to **Declusterer**
+- Added hook for input random number seed
+- Added random number seed to output file name 
+- Added [[Reproducible Random Numbers]] for the ttbar subtraction
+- Remaking picos on Running **cmslpc346**... **72m35.376s**
+- Now on to processing them!
+
+[[29 August 2024 Thursday]]
+- Trying to process picos
+ [< ] Randseed via command line
+- [x] Update file name based on rand seed
+- Remaking input data (left off some 2016 files) ... **79m44.445s**
+- Yaml errors from 
+	- - !!python/tuple
+      - 0
+      - 103893
+    - !!python/tuple
+      - 103893
+      - 207786
+    - !!python/tuple
+      - 207786
+      - 311677
+ [<] Script to create synthetric datasets yaml
+	- Need to merge with existing dataset script to get (at least the data info)
+- Testing running 
+	- Running work! 
+	- Need to validate wrt to previous
+		- Flags for synthetic data 
+		- Keep process "data" for now... Update after debugged
+- Start with cutflow!!
+- Adding passTTBar to cutFlow
+- Running on 304
+- Was using the wrong jet calibration on the data.  Rerunning the JetDeclustering (no ttbar subtraction)
+
+[[30 August 2024 Friday]]
+- Testing running on synthetic datasets
+- Running on 304
+- Finding errors during skimming:
+```yaml
+  data_UL16_postVFPG:
+     count: 877903.0
+     cutFlowFourTag:
+       all: 487725.0
+```
+- Test if error from picosize = 10 x chunksize (running with both **100000**) **87m59.704s**
+	.. See the same issue
+- Now running without max_chunks = 5... Seems to fix the problem!
+- Running all years without max_chunks
+- Explains why I wasn't seeing all the expected 93 subjobs !
+- All good now!  
+- Cleaning up! .. Need to update systematics cutflow test and analysis-cutflow-job
+
+[[3 September 2024 Tuesday]]
+ - remaking inputs with ttbar subtraction on **cmslpc338** 
+
+[[4 September 2024 Wednesday]]
+- cleaning up code 
+- Clean dumpTestVectors functions
+- Now propagating the btagging scores !! (need to validate)
+- Testing on **cmslpc307** ... crashes with  **RuntimeError: FIXME: handle UnionArray with more than** **127** **contents**
+	- Might have to use strings instead of tuples...
+- Have test script that reproduces the problem...sent mail to CL/AE
+
+[[5 September 2024 Thursday]]
+- Try dictionary the do floats.. fails.
+- Might be able to do arrays ?  ... Nope
+- Going to strings
+- Implemented the propogation of btagging scores via strings
+- Testing on **346**... ran**120m3.708s**
+- Running analyzer
+- TTbar subtraction for nominal
+- bTag weights now look good... but dont make much of a difference.
+
+
+[[6 September 2024 Friday]]
+- cleaning code, pushed
+- [x] Verify new declustering on signal
+	- On Sunday
+- Automated the overwriting of auxiliary jet branches ... Needed for MC/data differences
+- How to remove branches from skims? 
+	- A: skip_branches in config
+	- Can this be done dynamically ?  think so....yes DONE
+- Running the HH declustering ... failed b/c memory ? 
+- Testing in tmux 335..out of memory... Retrying **cmslpc304** with 2 workers ... works **real    82m51.408s**
+- save sumw2 from input metadata 
+	- Done...is actually now being added when subjobs, need to just write it at end
+- What about trig weights? 
+	- Added trig weights to output file
+- Need to propagate the btagging weights... Done
+- Added CI for analyzing the synthetic datasets... Need to fix....Done
+- Making signal synthetic datasets on  **cmslpc304**... ran in **82m15.656s**
+
+[[7 September 2024 Saturday]]
+- MC weights seem off.... debugging
+- Found problem when apply_FvT flag set to false
+- Weights now within factor of 2
+- Debugging cutflows... rerunning without ttbar veto 
+ [<] Why is the cutflow for UL16 off (eg: all events pass jetMult in synthetic data...)
+- UL17 off b/c of problem propogating the sumw weights
+
+[[8 September 2024 Sunday]]
+- Trying to propagate sumw when skimming picos correctly
+- Testing on 304... works !!!
+- pushing 
+- Will clean up old declustering code
+
+[[9 September 2024 Monday]]
+- Make data presentation with outputs from new code
+- Remaking data inputs on **cmslpc348**
+- Start code for ttbar PSdata
+- [x] Add cut flow CI test for analyze test
+	- Problem with seeds in candidate jet selection
+
+[[10 September 2024 Tuesday]]
+- Debugging cutflow.  Input events are the same.  Some of the declustered Jet Pts are different.
+- wrote helper function to output debug info
+- All of the input pt are the same!!
+- All of the clustered pts are the same!!
+- Maybe the splittings are not ordered ??? 
+- The declustered jet pt are Different!... problem was with rounding 
+- Fixed with rounding the eta, phi and pt values!
+- Checking cutflow
+
+
+[[11 September 2024 Wednesday]]
+- Local merge
+- Push/merge
+- Rerunning all synthetic datasets on **cmslpc343**... **117m19.837s**
+- Finish draft of MC subsampler
+- Move order of MC corrections for declustering (should only affect signal cutflow)
+- Got subsampler working
+- Full dataset (TTbar all year) ... **11m38.034s**
+- More clean up to DeCluster code 
+- Remaking synthetic datasets with seed0 ...
+
+[[12 September 2024 Thursday]]
+- Analyzing seed 0... looks good. not sure If im seeing as much variation as I would expect. 
+	- Q: how to test?
+- Getting the PSData running
+- Will move isMixed / isDataForMixed / ect to more granular flags and config via yaml files
+- Step one: Granular flags ... Synthetic data OK / PS Data OK / 
+
+[[13 September 2024 Friday]]
+- Testing flags for 
+	- [x] Synthetic data
+	- [x] PSData
+	- [x] Mixed data
+	- [x] TTForMixed
+	- [x] 3bForMixed
+	- [x] Data
+	- [x] MC
+- Committed first version with weights going.
+
+[[14 September 2024 Saturday]]
+- Fixing the flags. 
+- Looks like the cluster code was running the jet calibration ! (should be off)
+- Fixing the CI
+
+[[16 September 2024 Monday]]
+- Add option to script to make `ps_data` prefix to data
+[<] Why are there tag events in the TT PSData ? 
+- Validated the PSdata
+[<] Compare synthetic + PS data data to data 
+
+[[17 September 2024 Tuesday]]
+- [[Debugging PSdata]] code have three tag events in `-e UL16_postVFP  -p ps_data_TTToHadronic`
+  --> Solved. B/c of the MC jet calibration
+ - Should replace jet four vector with calibrated fourvector in psdata
+	 - Done
+ - [x] Need to push
+
+[[18 September 2024 Wednesday]]
+ Pushed sub-sampling working
+- Remaking subsample... output on EOS... Done
+- Testing all synthetic data + TT PSdata
+- debugging running PS with isSynthetic flag...working
+- Adding PS data to synthetic dataset via metadata file.
+- Made synthetic datasets with and without PSData TT
+- Making nominal data (w/o TT) on **cmslpc343**.... works 
+
+[[19 September 2024 Thursday]]
+- Made nominal data (w/o TT) on **cmslpc343**
+- Made nominal data wTT on **cmslpc343**
+- [ ] ~~Script to make synthetic dataset yml (add PSDAta)~~
+	- Will follow whats done with the mixed data instead
+- [x] Script to make synthetirc datasets with different seeds
+ [<] Make datasets with different seeds. 1/15
+- Making Synthetic data set seed0 on **cmslpc343**
+- Writing synthetic data output to EOS
+- Adding SvB with out FvT weights for plotting.
+
+
+[[23 September 2024 Monday]]
+- [x] Add year list option to plotting
+	[>] Remake plottting to be more flexible re:hist structure ? 
+	[<] PDF by year. Probably want an option of grouping them by year...
+- [x] Benchmark current status of synthetic data
+	- Updated script to process new syn_vX running: 
+		[[Script to compare synthetic and nominal datasets]]
+	- Adding ttbar plots to the nominal background samples... running out of memory with "fast" reco... trying "slow".
+		- (use histAll ? ... No doesnt have top_cands..) Maybe not worth it...
+- Starting to fine tune hist ranges... 
+[>] Worth skimming four tag data ?
+
+
+[[24 September 2024 Tuesday]]
+- Fine tuned histogram ranges
+- Adding four tag skimmer
+- Getting fourtag skimmer running
+	- Need to update pico output name...DONE
+- running 4b skims on **cmslpc316**... done
+- Trying to run on the skims...**3m31.086s**. ! (doing SvB and top reco)
+- With 3b data this is .... infinite! Fails to run!
+- Update plots and slides comparing synthetic vs data
+- Testing declustering time with fourTag data on **cmslpc340**.... had to turn off ttbar subtraction... crashed b/c memory
+
+
+[[25 September 2024 Wednesday]]
+-  Testing declustering time with fourTag data on **cmslpc340**.... had to turn off ttbar subtraction... with 10x lower chunksize
+- clustering data (noTT subtraction) on 340... 112 m
+- clustering with fourTag data ... crashed.
+- clustering synthetic data... ran out of memory... running w/2 workers on **cmslpc342**... too long... trying 4 workers chunksize 10_000... looks like its working...works **107m59.205s**
+- Cleaning up options for processors (factorized into helper function)... DONE
+
+[[26 September 2024 Thursday]]
+- Getting the check reclustering script going.
+- Update plots.py to handle 2d histograms with multiple input files
+- Making slides of data vs reclustered for all the pdfs
+- Make pdfs of the splittings separately by year 00-07-03 
+- Make clustering hists (noTT) on **cmslpc304** with JEC/JER  00-08-00
+	- Remaking synthetic datasets with 00-08-00 on **cmslpc304**
+
+[[27 September 2024 Friday]]
+- Running on synthetic datasets 00-08-00
+- Running Reclusterings on **cmslpc304**
+ [>] Split compare_datasets by year
+- [x] why is the selJet pt biased ?
+	- bRegCorr not applied to tagged or selJets (only cands)
+	- Updated code ... synthetic data now looks closer
+
+
+[[30 September 2024 Monday]]
+- Added selJets_no_bRegCorr for btag SFs
+- Fixing CI
+- [>>] Split compare_datasets by year
+- Debugging cut flow. errors from jit... added Exception handling
+- Weird cut flow problems...MEGA debug
+- Turns out a problem with overwriting bRegCor factors.
+- More CI debugging... MERGED ! Subtle copying bug.
 
 
 [[1 October 2024 Tuesday]]

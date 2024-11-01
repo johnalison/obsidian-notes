@@ -58,10 +58,7 @@ Made wings
 [[Chat w Sindhu 16 September 2024]]
 
 # [[Jet DeClustering]]
-- Add option to script to make `ps_data` prefix to data
-[<] Why are there tag events in the TT PSData ? 
-- Validated the PSdata
-[<] Compare synthetic + PS data data to data 
+- See daily logs
 
 # Chat Chris Berman
 - Getting PCA going

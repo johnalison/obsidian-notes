@@ -44,11 +44,7 @@ M&T to school ... H will stay home
 
 
 # [[Jet DeClustering]]
-- Make data presentation with outputs from new code
-- Remaking data inputs on **cmslpc348**
-- Start code for ttbar PSdata
-- [x] Add cut flow CI test for analyze test
-	- Problem with seeds in candidate jet selection
+- See daily log above
 
 [[FBC2 Meeting 9 September 2024]]
 

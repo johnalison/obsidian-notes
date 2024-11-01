@@ -45,12 +45,7 @@ Up at 7:20
 M&T to school (Chatted with parent in ECE)
 
 # [[Jet DeClustering]]
-- cleaning up code 
-- Clean dumpTestVectors functions
-- Now propagating the btagging scores !! (need to validate)
-- Testing on **cmslpc307** ... crashes with  **RuntimeError: FIXME: handle UnionArray with more than** **127** **contents**
-	- Might have to use strings instead of tuples...
-- Have test script that reproduces the problem...sent mail to CL/AE
+- See daily log above
 
 # Gave jetDeClustering talk
 https://indico.cern.ch/event/1451193/#b-579849-higgs-to-bb

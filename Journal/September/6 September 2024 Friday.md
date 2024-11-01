@@ -51,22 +51,7 @@ M&T to school ... work by 8:30
 Will be a nice pairing to the progress reports.. added to calendar
 
 # [[Jet DeClustering]]
-- cleaning code, pushed
-- [x] Verify new declustering on signal
-	- On Sunday
-- Automated the overwriting of auxiliary jet branches ... Needed for MC/data differences
-- How to remove branches from skims? 
-	- A: skip_branches in config
-	- Can this be done dynamically ?  think so....yes DONE
-- Running the HH declustering ... failed b/c memory ? 
-- Testing in tmux 335..out of memory... Retrying **cmslpc304** with 2 workers ... works **real    82m51.408s**
-- save sumw2 from input metadata 
-	- Done...is actually now being added when subjobs, need to just write it at end
-- What about trig weights? 
-	- Added trig weights to output file
-- Need to propagate the btagging weights... Done
-- Added CI for analyzing the synthetic datasets... Need to fix....Done
-- Making signal synthetic datasets on  **cmslpc304**... ran in **82m15.656s**
+- See daily log above
 
 # Hoops 
 - Played Great !!!

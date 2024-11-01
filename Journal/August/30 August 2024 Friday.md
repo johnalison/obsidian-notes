@@ -47,22 +47,7 @@ Up at 7
 M&T to school.
 
 # [[Jet DeClustering]]
-- Testing running on synthetic datasets
-- Running on 304
-- Finding errors during skimming:
-```yaml
-  data_UL16_postVFPG:
-     count: 877903.0
-     cutFlowFourTag:
-       all: 487725.0
-```
-- Test if error from picosize = 10 x chunksize (running with both **100000**) **87m59.704s**
-	.. See the same issue
-- Now running without max_chunks = 5... Seems to fix the problem!
-- Running all years without max_chunks
-- Explains why I wasn't seeing all the expected 93 subjobs !
-- All good now!  
-- Cleaning up! .. Need to update systematics cutflow test and analysis-cutflow-job
+- See daily logs above
 
 [[ProgressReport 30 August 2024]]
 

@@ -49,14 +49,7 @@ Review: [[CMU Particle Physics Overview]]
 
 
 # [[Run3 Synthetic Data]]
-- Clean files from failed jobs
-- Turning off jetVetoMaps
-- Added synthetic datasets to yaml files
-- Making hists
-- [>>] Fix missing bRegCorr variables
-- Hack to get running.... working !...**31m2.461s**
-- First look at Plots ... sensible, but there are obvious problems. 
-
+- See logs above
 
 # FB2C
 - Discussion re:jet-veto maps

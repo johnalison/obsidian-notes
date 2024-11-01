@@ -45,13 +45,7 @@ Joined ARC: [[ARC HIG-24-017 Boosted VqqHbb]]
 
 Check payslip: take home $4,018.20 -> 1200 after alll expenses
 # [[Jet DeClustering]]
-- Added selJets_no_bRegCorr for btag SFs
-- Fixing CI
-- [>>] Split compare_datasets by year
-- Debugging cut flow. errors from jit... added Exception handling
-- Weird cut flow problems...MEGA debug
-- Turns out a problem with overwriting bRegCor factors.
-
+- See daily logs abvoe
 
 # Gave Monday Talk Di-Higgs Seminar
 

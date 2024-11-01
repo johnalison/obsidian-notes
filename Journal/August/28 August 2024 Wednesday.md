@@ -56,12 +56,7 @@ Mail to Sinead
 Mail to Nural re: turnaround report
 
 # [[Jet DeClustering]]
-- Added ttbar subtraction to **Declusterer**
-- Added hook for input random number seed
-- Added random number seed to output file name 
-- Added [[Reproducible Random Numbers]] for the ttbar subtraction
-- Remaking picos on Running **cmslpc346**... **72m35.376s**
-- Now on to processing them!
+- See daily logs above
 
 # Hoops / SR
 - Good runs 5s

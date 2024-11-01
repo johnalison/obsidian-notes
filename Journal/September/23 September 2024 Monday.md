@@ -43,16 +43,7 @@ Up at 7
 M&T to school 
 
 # [[Jet DeClustering]]
-- [x] Add year list option to plotting
-	[>] Remake plottting to be more flexible re:hist structure ? 
-	[<] PDF by year. Probably want an option of grouping them by year...
-- [x] Benchmark current status of synthetic data
-	- Updated script to process new syn_vX running: 
-		[[Script to compare synthetic and nominal datasets]]
-	- Adding ttbar plots to the nominal background samples... running out of memory with "fast" reco... trying "slow".
-		- (use histAll ? ... No doesnt have top_cands..) Maybe not worth it...
-- Starting to fine tune hist ranges... 
-[>] Worth skimming four tag data ?
+- See daily logs
 
 # HH4b chat
 - Not much 
