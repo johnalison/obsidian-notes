@@ -62,6 +62,13 @@ Section 6:
 - Dont see any uncertianties for the AK4 veto. What is the uncertiatying form the signal ISR/FSR modeling
 - Pileup: what is the impact of pileup on the AK4 jet veto acceptance (the modelling of jets activity at 30 GeV at high eta ?)
 
+
+Section 7: 
+- l550: which bins of the second jet m_SD ?
+- How are the transfer factors, which are function of rho, fit to the m_SD distributions
+- 
+
+
 # Pre-Approval:
 https://indico.cern.ch/event/1451204/#17-pre-approval-of-hig-24-017
 - More VH in the boosted regime

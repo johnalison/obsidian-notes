@@ -80,3 +80,8 @@ Review [[Fall 2024]]
 - 5s. Played well. .. Didnt win.
 
 [[ARC HIG-24-017 Boosted VqqHbb]]
+
+# Saw Zihao ! 
+
+# [[CMU 4b Chat 1 November  2024]]
+
