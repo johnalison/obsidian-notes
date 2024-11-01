@@ -50,4 +50,10 @@ M & T to school
 
 # [[Run3 Synthetic Data]]
 - [ ] Fix missing bRegCorr variables
-- Making pdfs data vs synthetic 
+- Made plots data vs synthetic in Run3
+	`python  jet_clustering/compare_datasets.py  hists/synthetic_data_Run3_seedXXX.coffea   --out analysis/plots_synthetic_datasets_all_00-08-00-Run3 -m analysis/metadata/plotsSyntheticVsData2.yml`
+- 
+
+
+[[4b code base]] 
+- [ ] RunII and Run3 options to sum over the proper years
