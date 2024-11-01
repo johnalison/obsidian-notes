@@ -30,4 +30,4 @@
 | 28 M | Finish [[Classifier Studies]] / Turnaround report / **Hoops** / Clustering Run3            | 6/4/1 |
 | 29 T | (Black Crowes) [[Cluster Run 3 data]] / Start ARC / Turnaround Moves/ Crowes!!             | 7/3/3 |
 | 30 W | [[Run3 Synthetic Data]] / Meetings / **Hoops** / Start ARC/ [[March 2024]]                 | 7/4/4 |
-| 31 H | (Talk in Faculty Meeting)                                                                  |       |
+| 31 H | (Talk in Faculty Meeting) Phone OK? / [[Classifier Studies]] talk / Trick-or-Treat         | 6/1/1 |

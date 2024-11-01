@@ -56,18 +56,6 @@
             }
           },
           {
-            "id": "28480883e2408f4d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Journal/31 October 2024 Thursday.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "cc67792dc8b14869",
             "type": "leaf",
             "state": {
@@ -80,12 +68,24 @@
             }
           },
           {
-            "id": "84359893a5ba5b33",
+            "id": "28480883e2408f4d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Journal/31 October 2024 Thursday.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "84359893a5ba5b33",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Journal/1 November 2024 Friday.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -123,7 +123,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "osher",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -150,7 +150,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -170,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/31 October 2024 Thursday.md",
+                "file": "Journal/1 November 2024 Friday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/31 October 2024 Thursday.md",
+                "file": "Journal/1 November 2024 Friday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +211,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/31 October 2024 Thursday.md"
+                "file": "Journal/1 November 2024 Friday.md"
               }
             }
           }
@@ -233,34 +234,34 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "28480883e2408f4d",
+  "active": "84359893a5ba5b33",
   "lastOpenFiles": [
-    "1-projects/Teaching/Osher Fall Particle Physics Course.md",
-    "Input/Meetings/August/Osher Study Leader Training 20 Aug 2024.md",
-    "Journal/August/20 August 2024 Tuesday.md",
-    "Journal/31 October 2024 Thursday.md",
-    "Output/CMU Particle Physics Overview.md",
-    "Journal/30 October 2024 Wednesday.md",
-    "0-inbox/Run3 Synthetic Data.md",
     "Journal/October 2024.md",
-    "0-inbox/HGC Transfer Tape BCR.md",
-    "0-inbox/ARC HIG-24-017 Boosted VqqHbb.md",
-    "0-inbox/ToDo.md",
+    "Journal/1 November 2024 Friday.md",
+    "Journal/31 October 2024 Thursday.md",
+    "0-inbox/Run3 Synthetic Data.md",
+    "1-projects/Teaching/Osher Fall Particle Physics Course.md",
+    "Journal/30 October 2024 Wednesday.md",
     "Journal/29 October 2024 Tuesday.md",
     "Journal/28 October 2024 Monday.md",
+    "2-areas/coffea4bs/4b code base.md",
     "Journal/27 October 2024 Sunday.md",
     "Journal/26 October 2024 Saturday.md",
     "Journal/25 October 2024 Friday.md",
+    "Input/Meetings/Chat w Wes 29 October 2024.md",
+    "0-inbox/5391 Financing.md",
+    "Input/Meetings/August/Osher Study Leader Training 20 Aug 2024.md",
+    "Journal/August/20 August 2024 Tuesday.md",
+    "Output/CMU Particle Physics Overview.md",
+    "0-inbox/HGC Transfer Tape BCR.md",
+    "0-inbox/ARC HIG-24-017 Boosted VqqHbb.md",
+    "0-inbox/ToDo.md",
     "Journal/24 October 2024 Thursday.md",
     "Journal/March 2024.md",
     "Journal/Future Log.md",
     "0-inbox/HGC Mac testing Meeting 30 October 2024.md",
     "Journal/15 October 2024 Tuesday.md",
     "Journal/16 October 2024 Wednesday.md",
-    "Journal/14 October 2024 Monday.md",
-    "Journal/11 October 2024 Friday.md",
-    "Journal/10 October 2024 Thursday.md",
-    "Journal/9 October 2024 Wednesday.md",
     "0-inbox/#Selfish reasons to having more kids.md#",
     "Journal/#February 2024.md#",
     "0-inbox/#Nexus.md#",

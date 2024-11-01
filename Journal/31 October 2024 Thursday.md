@@ -31,11 +31,11 @@
 # To Do
 - [x]  Review [[CMU Particle Physics Overview]]
 - [x]  Osher Lab Mail !!!!!
-- [ ] Osher Course Prep
-- [ ] Lab techs
+- [>>] Osher Course Prep
+- [>>] Lab techs
 - [x] Need to ship modules to FNAL
-- [ ] Read AN VqqHbb
-- [ ] USCMS 1/2 time position
+- [>>] Read AN VqqHbb
+- [xx] ~~USCMS 1/2 time position~~
 - [x] Need clean files from previous failed jobs
 
 # Log
@@ -53,14 +53,14 @@ Review: [[CMU Particle Physics Overview]]
 - Turning off jetVetoMaps
 - Added synthetic datasets to yaml files
 - Making hists
-- [ ] Fix missing bRegCorr variables
+- [>>] Fix missing bRegCorr variables
 - Hack to get running.... working !...**31m2.461s**
 - First look at Plots ... sensible, but there are obvious problems. 
 
 
 # FB2C
 - Discussion re:jet-veto maps
-- [ ] Request presentation
+- [>>] Request presentation
 - Gave talk on [[Classifier Studies]]... Summary doesnt matter much which SB to use
 
 
@@ -73,15 +73,16 @@ Review: [[CMU Particle Physics Overview]]
 
 
 # Faculty Meeting
-- Main mission is to fix the MCS deficit. 6M / year
-- Shilla is leaving. 
-- Chat with dean... 
-- [ ] Ping her for lab visit
+- Chat with Dean: ____XX____ 
+- Gave [[CMU Particle Physics Overview]]
+- Dean's Main mission is to fix the MCS deficit. 6M / year
+- Shilla is leaving!
+- [>>] Ping Dean for lab visit
 
 # Planning [[Osher Fall Particle Physics Course]]
 - Draft outline 
 - Sent welcome mail
-- [ ] Test AV
+- [<<] Test AV
 
 Home to sit with H
 
@@ -89,3 +90,6 @@ More [[Run3 Synthetic Data]]
 
 Got M & T 
 
+# Tick or Treating
+
+Finished [[Open Borders]]
