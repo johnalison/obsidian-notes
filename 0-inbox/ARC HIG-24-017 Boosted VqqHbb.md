@@ -57,7 +57,11 @@ Monte Carlo. The same transfer factors are defined and fitted simultaneously in 
 
 
 - These QCD386 MC transfer factors are treated as uncorrelated across data taking periods. Why?
-- 
+
+Section 6: 
+- Dont see any uncertianties for the AK4 veto. What is the uncertiatying form the signal ISR/FSR modeling
+- Pileup: what is the impact of pileup on the AK4 jet veto acceptance (the modelling of jets activity at 30 GeV at high eta ?)
+
 # Pre-Approval:
 https://indico.cern.ch/event/1451204/#17-pre-approval-of-hig-24-017
 - More VH in the boosted regime

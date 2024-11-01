@@ -76,5 +76,7 @@ Reviewed [[October 2024]]
 
 Review [[Fall 2024]]
 
+# Hoops
+- 5s. Played well. .. Didnt win.
 
-
+[[ARC HIG-24-017 Boosted VqqHbb]]
