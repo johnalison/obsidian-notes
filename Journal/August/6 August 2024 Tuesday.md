@@ -46,14 +46,7 @@ M and T to school
 Setup
 
 # [[Jet DeClustering]]
-- Signal all years crashes b/c splitting not in the data
-- Hack for missing input splittings (use the last one)
-- Re-running HH4b declustering for all years ... fails
-	- Seeing splitting `((bj)`  /  `(((jj)j)j)((bj)` / `40`
-	- Found Errors, was overflow in "XXXX" replacement (need better fix longterm)
-- Re-running HH4b declustering for all years ...  now memory leak somewhere! ?
-	- ===> No, turns out much slower with 00-05-00
-- Updating slides with new declustering
+- See above
 
 
 # Alejandro back ! 

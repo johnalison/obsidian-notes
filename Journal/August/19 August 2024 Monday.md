@@ -61,12 +61,7 @@ Bought basketball shoes
 Bought towel service
 
 # [[Jet DeClustering]]
-- update presenations with hT and top reco
-- Adding a fix (?) for jet selection (int to bools) for the hT calculation 
-	- Did indeed fix the hT Calculation
-- Running on **cmslpc333**
-- randomize assignment of deepJet scores to fix (?) top reconstruction.
-	- Did indeed fix the top reconstruction!  Next to tt_vs_mj! 
+- See daily log above
 
 Got round 2 of VHH comments ... happy with the FH replies.
 

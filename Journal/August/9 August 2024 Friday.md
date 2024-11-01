@@ -48,22 +48,7 @@ Meditated in the morning
 M 7 T to school (Last day!)
 
 # [[Jet DeClustering]]
-- Fixed the extra jet treatment for clustering.
-- Re:clustering Run2 on **cmslpc328** ... fails
-	- Rerunning 18 only ... works **46m30.667s**
-- Fixed the extra jet treatment for declustering
-- making PDFs 18 with new jet def ... 00-06-00
-	- **155** splittings! 
-- Scheme to combine splittings.
-	- 1st version of code to do groupings 155 -> 49
-- Start implementing jet splitting names in the clustering.
-- Running clustering with splitting categories all years on **cmslpc310** ... failed out of memory
-	- Trying just 18 again...works...**47m44.662s**
-	- PDFs with new grouping... 00-06-01
-- Took out jet ISR cleaning ... might need to put it back!
-	- PDFs with new groupings
-- Added back the ISR cleaning 
-- Trying all years again **cmslpc310**.. works **110m3.378s**
+- See daily logs above
 
 
 Working the slides describing the treatement with dressed bs.

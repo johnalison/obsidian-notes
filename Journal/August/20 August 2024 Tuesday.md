@@ -47,15 +47,7 @@ M & T to school
 setup
 
 # [[Jet DeClustering]]
-- Adding ttbar subtraction ... troubles adding a cut to selev
-	- Figured it out, a la binding in processor_HH4b
-	- Need to read in old SvB... do ttbar veto... DONE
-	- Then calculate new SvB ... DONE
-	- Need to test
-- Added ttbar subtraction to clustering processor 
-- running clustering on **cmslpc328**  will make pdfs 00-07-02
-- running the declustering on 328 ... **109m46.045s**
-- Made plots with ttbar subtraction... not 
+- See daily logs above
 
 
 [[Osher Study Leader Training 20 Aug 2024]]

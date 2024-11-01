@@ -22,8 +22,7 @@ Got paid! Move 7k to capital one
 with kids
 
 Working [[Jet DeClustering]]
-- got cleanISR to be able to clean more than one type
-- Weird s -> str(s) changes (maybe b/c the container changed?)
+* See daily logs above
 
 Scott official announcement that he is going back to FNAL
 

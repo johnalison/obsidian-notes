@@ -48,6 +48,8 @@ Fixed CI (truthstudy was running the full job instead of test with "-t" )
 Wes in on daq shift (with a trainee) today so cannot meet
 
 [[Jet DeClustering]]
+- See daily logs above
+
 
 [[Reproducible Random Numbers]]
 
@@ -55,25 +57,12 @@ Wes in on daq shift (with a trainee) today so cannot meet
 
 [[python-Unittests-tips]]
 
-Adding plots comparing the input jets to the declustered jets
-
-Adding b(bj) test to the jet_clustering test script.
-
-# Found the b(bj) bug!  
-- was not assigning jet_flavor correctly when declustering.
-
 # Hoops 
 3s and then a lots of 4s 
-
-More 4b: Comparing the synthetic data sets in different jet bins.
 
 [[HGCManagementMeeting 30 July 2024]]
 
 [[Images in Obsidian]]
-
-more 4b mixing: starting 4b+2j
-- test for cleanISR
-- will clean bj splittings. 
 
 Walk home -> Drive to pick up M&T
 

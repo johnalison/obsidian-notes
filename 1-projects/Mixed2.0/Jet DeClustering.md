@@ -92,6 +92,228 @@ Getting the new mixing going
 
 # Daily Logs
 
+[[22 July 24 Monday]]
+- Working the [[script to compare the splittings]]
+- Working [[Script to check reclustered splittings]]
+- Need to understand [[ResamplingBug]]
+
+[[25 July 2024 Thursday]]
+- Will test the vs pt pdfs
+
+[[29 July 2024 Monday]]
+- LPC very slow today... trying another node 330  (was 334)
+- Debugging b(bj) splittings
+- Testing the PDFs vs pt
+- Writting out jet_splitting inputs for Berman
+- Sent Berman input data for splittings_bb
+
+
+[[30 July 2024 Tuesday]]
+- Adding plots comparing the input jets to the declustered jets
+- Adding b(bj) test to the jet_clustering test script.
+-  Found the b(bj) bug!  
+- was not assigning jet_flavor correctly when declustering.
+- More 4b: Comparing the synthetic data sets in different jet bins.
+- test for cleanISR
+- will clean bj splittings. 
+
+[[31 July 2024 Wednesday]]
+- got cleanISR to be able to clean more than one type
+- Weird s -> str(s) changes (maybe b/c the container changed?)
+- made signal plots for new mixing scheme (LOOKS DAMN GOOD!!!!)
+
+
+[[1 August 2024 Thursday]]
+- fix children_jet_flavors to deal with (XX)Y combinations
+- Added unittest
+
+[[2 August 2024 Friday]]
+- Made **make_jet_splitting_PDFs.py** robust against changing cuts in the histogram file.
+- Cleaned configuration of splittings: needed when many varieties
+- make input pdfs for 4b + 0,1,2j : **jet-splitting-PDFs-00-03-00**
+- Start working on iterative ISR declustering
+	- Got it going ... Easier than I thought.
+- Check the reclustered splittings.
+	- Running out of Memory..trying with 2 cores
+	- Fixed, problem was not the n_cores but there was another stopped job
+	- tmux on **cmslpc312**
+- Now try to do the declustering with 4b+0,1,2j...
+	- problem with 5 bjets... fixed: bug in the min dR ISR-jet to splitting
+	- tmux on **cmslpc329**
+	- Looks DAMN GOOD !!!!  Both data and signal ! LETS GO!!!
+	- Think its time to go in steps of +2 jets.. 
+
+ [[2 August 2024 Friday]] (Evening Session)
+ tried clustering with upto 8 jets ... No problem on test job!
+- tried clustering with no nJet limit ...No problem on test job!
+- Running all clustering on **cmslpc329**
+	- ran our of memory with 4 workers... trying 3 (also failed) ... trying 2
+	- Problem was too many histograms (reduced) now trying 2 workers ... WORKs
+	- Now trying again with 4 ... Works !
+- Added recursive function to get all the sub-splittings from a given splitting.. will us to reduce the number of splittings I need to plot.
+
+[[3 August 2024 Saturday]]
+ - cluster all jets run with 4 workers after
+- Added logic to only plot splittings that are part of non-ISR splittings
+	- Had 144 splittings types before ---> now 66
+- Added details clustering plots
+- update **make_jet_splitting_PDFs.py** to only expect basic clustering plots
+- new script (**jet_splitting_study.py** ) to process detailed plots
+
+[[4 August 2024 Sunday]]
+- running all clustering functions on **cmslpc329**
+- update **make_jet_splitting_PDFs.py** to automatically plot all splittings with some rought logic as to which histograms to use
+- Failure of test script...Seems like data not available at LPC
+```bash
+OSError: XRootD error: [ERROR] Operation expired                                 
+in file root://cmseos.fnal.gov//store/user/algomez/XX4b/20231115/data2018D/picoAOD.root
+```
+- `> xrdcp root://cmseos.fnal.gov//store/user/algomez/XX4b/20231115/data2018D/picoAOD.root .` fails 
+- So does `eosls /store/user/algomez/XX4b/20231115/data2018D/`
+
+
+[[5 August 2024 Monday]]
+- Cant run jobs... can do test jobs!
+- Try to optimize with [[Numba]]... Not much improvement 
+- Added a profiler to the test job... not clear where we can gain
+- EOS back!
+- Made PDFs for inclusive jet multiplicities: **jet-splitting-PDFs-00-04-00**
+- Running all clustering to check detailed plots
+- inclusive Declustering test job works !  with old 00-03-00 pdf
+- inclusive Declustering w/ 00-04-00 pdfs  ... works fine
+- inclusive declustering full 18 sample...  works with 00-04-00 !
+- Bug when making inputs for 00-04-00 (random comb jet flavor order) ... remaking
+- Declustered data look good !
+- Declustered signal looks GOOD !!
+- Scaling up clustering to all years running on **cmslpc329**... 84mins
+- Making PDFs from all years  00-05-00
+- Scaling up declustering to all years running on **cmslpc329**...**88m46.643s**
+
+[[6 August 2024 Tuesday]]
+- Signal all years crashes b/c splitting not in the data
+- Hack for missing input splittings (use the last one)
+- Re-running HH4b declustering for all years ... fails
+	- Seeing splitting `((bj)`  /  `(((jj)j)j)((bj)` / `40`
+	- Found Errors, was overflow in "XXXX" replacement (need better fix longterm)
+- Re-running HH4b declustering for all years ...  now memory leak somewhere! ?
+	- ===> No, turns out much slower with 00-05-00
+- Updating slides with new declustering
+
+[[7 August 2024 Wednesday]]
+ Following up on signal crash when running all years (out of memory) during the synthetic datasets... 
+- 2018 signal runs on OK ...  **cmslpc331** in **26m19.781s**
+- Testing 2017 signal works ..  **26m53.926s**
+- Testing 2016 see ERROR on **UL16_preVFP** ... debugging
+	- -> problem with too small "XXXXXX" string
+- Now all UL16 runs in  18m36.627s
+- Running all signal samples together runs out of memory... trying with 3 workers...fails
+	- Trying with 2 workers.. works !  **72m27.918s**
+- Making the nominal signal for all years.. 
+- data and signal all years looks good!
+- Added CI to make the clustering histograms and the PDFs
+- Found the slow down of the testing was do to all the pdf in 00-05-00 vs 00-03-00 !
+
+
+[[8 August 2024 Thursday]]
+- Debugging `(bj)((jj)b)` splittings
+	- ERROR in combine particle logic ... FIXED.
+- Speed up tests by loading the ymal in init
+- Making plot of clustering multiplicities
+- Remaking the clustering inputs on **cmslpc314**....**101m24.461s**
+- remade the PDFs 89->79 different splitting types
+- Made function (and test) to calculate splitting summaries
+
+[[9 August 2024 Friday]]
+- Fixed the extra jet treatment for clustering.
+- Re:clustering Run2 on **cmslpc328** ... fails
+	- Rerunning 18 only ... works **46m30.667s**
+- Fixed the extra jet treatment for declustering
+- making PDFs 18 with new jet def ... 00-06-00
+	- **155** splittings! 
+- Scheme to combine splittings.
+	- 1st version of code to do groupings 155 -> 49
+- Start implementing jet splitting names in the clustering.
+- Running clustering with splitting categories all years on **cmslpc310** ... failed out of memory
+	- Trying just 18 again...works...**47m44.662s**
+	- PDFs with new grouping... 00-06-01
+- Took out jet ISR cleaning ... might need to put it back!
+	- PDFs with new groupings
+- Added back the ISR cleaning 
+- Trying all years again **cmslpc310**.. works **110m3.378s**
+
+[[10 August 2024 Saturday]]
+- Making PDFs with all year, new jet multiplicity 
+
+[[12 August 2024 Monday]]
+- Update declustering to use new groupings
+- Declustering  2018 on...**cmslpc313** ...crashed ? ... now on **cmslpc308**
+- Now running all years...**114m0.018s**
+- Declustering the signal on **cmslpc308**... failed.. running with 1 worker!
+- Data and Signal declustering look good!
+
+[[13 August 2024 Tuesday]]
+- Declustering all on **cmslpc308** finished in **109m23.402s**
+- Iterating on Slides 
+- Idea for [[Recursive Splitting Types]]
+- Implemented new splitting scheme... 
+	- only 55 splitting types before groupings
+	- after groupings got it down to 21
+* Rerunning clustering with new splitting scheme
+* Making new PDFs 00-07-00
+* Running Declustering with new PDFs
+	* Looks good
+* Declustering signal on **cmslpc308** ... trying 2 workers
+
+[[14 August 2024 Wednesday]]
+ Declustering signal on **cmslpc308** w/ 2 workers failed... 1 worked failed :( 
+- running now with 1 on **cmslpc333**.. Ran
+- Adding plots to slides
+- Sent first draft of slides to CMU group
+
+[[16 August 2024 Friday]]
+- Add hist to count the number of clustered jets 
+- Add more PDF ranges
+- Running clustering on **cmslpc306**....**108m52.381s**
+- Fine tuning pdfs
+- Made pdf set 00-07-01 with the ranges tuned
+- Running the declustering... done **116m39.358s**
+- clustered data looks great!
+- Declustering signal on **cmslpc306**... **196m47.039s**
+
+[[17 August 2024 Saturday]]
+- Adding tt_vs_mj
+- Turning on top reco ("fast") for declustering 
+- running on **cmslpc306** ... cannot connect ... looks like ran out of memory
+- re running on **cmslpc337** ... ran out of memory... Try with 2 workers on 337
+
+[[18 August 2024 Sunday]]
+- declustering all years w/slow top Can reconstruction: **123m41.618s** with 4 workers
+- Added hT hists and compute properly in declustered jets
+- setup top reconstruction to used declustered jets
+- running again ... 
+
+[[19 August 2024 Monday]]
+update presenations with hT and top reco
+- Adding a fix (?) for jet selection (int to bools) for the hT calculation 
+	- Did indeed fix the hT Calculation
+- Running on **cmslpc333**
+- randomize assignment of deepJet scores to fix (?) top reconstruction.
+	- Did indeed fix the top reconstruction!  Next to tt_vs_mj! 
+
+[[20 August 2024 Tuesday]]
+- Adding ttbar subtraction ... troubles adding a cut to selev
+	- Figured it out, a la binding in processor_HH4b
+	- Need to read in old SvB... do ttbar veto... DONE
+	- Then calculate new SvB ... DONE
+	- Need to test
+- Added ttbar subtraction to clustering processor 
+- running clustering on **cmslpc328**  will make pdfs 00-07-02
+- running the declustering on 328 ... **109m46.045s**
+- Made plots with ttbar subtraction... not 
+
+
+
+
 [[1 October 2024 Tuesday]]
 - Rerunning the jet clustering
 - reweight hT by year ? 

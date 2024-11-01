@@ -40,17 +40,7 @@ Up at 8
 Wrote up [[March 2022]]
 
 # [[Jet DeClustering]]
-- Declustering all on **cmslpc308** finished in **109m23.402s**
-- Iterating on Slides 
-- Idea for [[Recursive Splitting Types]]
-- Implemented new splitting scheme... 
-	- only 55 splitting types before groupings
-	- after groupings got it down to 21
-* Rerunning clustering with new splitting scheme
-* Making new PDFs 00-07-00
-* Running Declustering with new PDFs
-	* Looks good
-* Declustering signal on **cmslpc308** ... trying 2 workers
+- See daily log above
 
 [[Chat w Wes 14 August 2024]]
 

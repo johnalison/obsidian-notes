@@ -7,10 +7,7 @@
 Up at 8
 
 # [[Jet DeClustering]]
-- Declustering signal on **cmslpc308** w/ 2 workers failed... 1 worked failed :( 
-- running now with 1 on **cmslpc333**.. Ran
-- Adding plots to slides
-- Sent first draft of slides to CMU group
+- See daily log above
 
 
 [[Going big]]

@@ -48,13 +48,7 @@ M and T to School
 How to [[Turn a MacBook into an UbuntuServer]]
 
 # [[Jet DeClustering]]
-- Debugging `(bj)((jj)b)` splittings
-	- ERROR in combine particle logic ... FIXED.
-- Speed up tests by loading the ymal in init
-- Making plot of clustering multiplicities
-- Remaking the clustering inputs on **cmslpc314**....**101m24.461s**
-- remade the PDFs 89->79 different splitting types
-- Made function (and test) to calculate splitting summaries
+- See daily log above
 
 # Chat IRA
 - will do sophomore colloq at 10am on Thursday Aug 29

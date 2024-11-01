@@ -32,13 +32,13 @@ ex
  - [> ]  update HIG-22-011 for arxiv
  - [x]  mail Valentina jets plitting slides
  - [x] cloud chamber
- - [ ] HGC Training 
- - [ ] 4b 
-	 - [ ] Mixed data public
+ - [>>] HGC Training 
+ - [x] 4b 
+	 - [<<] Mixed data public ? 
 	 - [ >] Update 22-011 refs
 	 - [> ] check splitting 
 	 - [> ] other jets
-- [ ] HH Compute s-factors
+- [>>] HH Compute s-factors
 - [> ] Receipts for Teachers program
 - [> ] Start Lab Repo for code
 

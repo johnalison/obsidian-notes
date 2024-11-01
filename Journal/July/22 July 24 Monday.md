@@ -51,9 +51,7 @@ Jonas Roemer back with us!
 [[BulletJournalProtocol]]
 
 [[Jet DeClustering]]
-- Working the [[script to compare the splittings]]
-- Working [[Script to check reclustered splittings]]
-- Need to understand [[ResamplingBug]]
+- See daily logs above
 
 
 Bought new computer:  3699 Computer + 106 harddrive + 290 Apple care (3years)

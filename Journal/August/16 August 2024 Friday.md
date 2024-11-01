@@ -24,14 +24,7 @@ Some [[American Covenant]]
 - Say Stats prof _____Will Townes___
 
 # [[Jet DeClustering]]
-- Add hist to count the number of clustered jets 
-- Add more PDF ranges
-- Running clustering on **cmslpc306**....**108m52.381s**
-- Fine tuning pdfs
-- Made pdf set 00-07-01 with the ranges tuned
-- Running the declustering... done **116m39.358s**
-- clustered data looks great!
-- Declustering signal on **cmslpc306**... **196m47.039s**
+- see daily log above
 
 Got new van Morrison album.
 

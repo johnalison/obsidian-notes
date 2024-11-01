@@ -32,12 +32,14 @@
 - [x] Setup Nov
 - [x] Review Oct
 - [x] Lab Techs! 
-- [ ] Finish AN review
+- [x] Finish AN review
 - [ ] Renew Visitor pass
 - [ ] Osher Course Prep
 - [x] Request Hbb presentation
 - [ ] Ping Dean for lab visit
 - [AE] Binning Study runTwoStageClosure
+- [ ] Mixed data public ?
+- [ ] HH Compute s-factors
 
 
 # Log
@@ -69,7 +71,6 @@ Missed Meeting with Gabija Ziemyte
 
 [[HGC WADs]]
 
-
 - [ ] Migrate [[Jet DeClustering]] logs
 
 Reviewed [[October 2024]]
@@ -84,4 +85,11 @@ Review [[Fall 2024]]
 # Saw Zihao ! 
 
 # [[CMU 4b Chat 1 November  2024]]
+
+Kids to get flu shots
+
+Schullis for Pizza slices
+
+Finished AN [[ARC HIG-24-017 Boosted VqqHbb]] questions
+
 

@@ -61,8 +61,7 @@ Lots of debugging!
 - 10min at Tmax = 124
 
 More [[Jet DeClustering]]
-- fix children_jet_flavors to deal with (XX)Y combinations
-- Added unittest
+- See daily logs above
 
 SURA Meeting with Tony
 - Useless 

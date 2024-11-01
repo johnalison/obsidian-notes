@@ -57,9 +57,9 @@ Chat w/Manfred re: student tuition
 
 Getting emacs going!
 
-# Working 4b 
-- Will test the vs pt pdfs
-- [[Jet DeClustering]]
+# Working [[Jet DeClustering]]
+- See daily above
+
 
 
 [[CMU HGC MAC Meeting 25 July 2024]]

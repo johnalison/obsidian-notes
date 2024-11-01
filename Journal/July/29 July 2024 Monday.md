@@ -45,14 +45,11 @@ Up at 7
 M and T to school
 
 [[Jet DeClustering]]
-
-LPC very slow today... trying another node 330  (was 334)
+- see daily logs above
 
 [[Chat Chris Berman SURF 29 July 2024]]
 
 Chat with Tony re: quantum information 
-
-Debugging b(bj) splittings
 
 # Gym/Steamroom
 - core / front squat / pullup/ 95lb calf raises
@@ -60,18 +57,15 @@ Debugging b(bj) splittings
 
 [[Chat with Marc Dandin 29 July 2024]]
 
-More 4b:
-- Testing the PDFs vs pt
+More [[Jet DeClustering]]
+
 
 [[ChatwAniket 29 July 2024]]
 
 [[Using sha to test if files have same content]]
 
-Writting out jet_splitting inputs for Berman
-
 Found and skimmed [[Preparing Fermilab to Carry Out the P5 Plan]]
 
-Sent Berman input data for splittings_bb
 
 Home with Kids
 
