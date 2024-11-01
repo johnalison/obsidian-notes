@@ -30,14 +30,14 @@
 
 # To Do
 - [x] Setup Nov
-- [ ] Review Oct
+- [x] Review Oct
 - [x] Lab Techs! 
 - [ ] Finish AN review
 - [ ] Renew Visitor pass
 - [ ] Osher Course Prep
 - [x] Request Hbb presentation
 - [ ] Ping Dean for lab visit
-- [ ] Binning Study runTwoStageClosure
+- [AE] Binning Study runTwoStageClosure
 
 
 # Log
@@ -68,3 +68,13 @@ Missed Meeting with Gabija Ziemyte
 
 
 [[HGC WADs]]
+
+
+- [ ] Migrate [[Jet DeClustering]] logs
+
+Reviewed [[October 2024]]
+
+Review [[Fall 2024]]
+
+
+

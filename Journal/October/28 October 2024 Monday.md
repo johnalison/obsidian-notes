@@ -48,7 +48,7 @@ M&T to school
 [[5391 Financing]]
 
 Seller relisted 5391 without making our disclosures known.  
-- Started a new MRSP number only previous inspection!
+- Started a new MLS number only previous inspection!
 
 # [[Classifier Studies]]
 - See daily logs above

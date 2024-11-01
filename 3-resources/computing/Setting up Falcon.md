@@ -38,7 +38,7 @@ Trying test job...
 # Login instructions
 
 ---- get a login ---  
-  
+
 - Go to [https://account.mcs.cmu.edu/](https://account.mcs.cmu.edu/)  
 - Choose option 1  
 - If prompted, enter your cmu andrewid and cmu password  

@@ -85,14 +85,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/HGC WADs.md",
+                "file": "Journal/1 November 2024 Friday.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\"Jet Declustering\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -138,8 +137,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -159,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/HGC WADs.md",
+                "file": "Journal/October/1 October 2024 Tuesday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/HGC WADs.md",
+                "file": "Journal/October/1 October 2024 Tuesday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/HGC WADs.md"
+                "file": "Journal/October/1 October 2024 Tuesday.md"
               }
             }
           }
@@ -222,34 +220,34 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "28480883e2408f4d",
+  "active": "5eff6f8803fcba5e",
   "lastOpenFiles": [
     "Journal/1 November 2024 Friday.md",
-    "0-inbox/HGC WADs.md",
-    "Journal/November 2024.md",
-    "0-inbox/Lab Techs Fall 2024.md",
-    "Journal/BulletJournalProtocol.md",
-    "1-projects/Mixed2.0/Run3 Synthetic Data.md",
-    "1-projects/Mixed2.0/Jet DeClustering.md",
-    "Journal/October/1 October 2024 Tuesday.md",
-    "Journal/October/3 October 2024 Thursday.md",
-    "Journal/October/2 October 2024 Wednesday.md",
-    "Journal/Future Log.md",
-    "Journal/October 2024.md",
-    "Output/CMU Particle Physics Overview.md",
-    "Journal/October/October 2024.md",
-    "Journal/October/9 October 2024 Wednesday.md",
-    "Journal/October/8 October 2024 Tuesday.md",
-    "Journal/October/7 October 2024 Monday.md",
-    "Journal/October/6 October 2024 Sunday.md",
-    "Journal/October/5 October 2024 Saturday.md",
-    "Journal/October/4 October 2024 Friday.md",
+    "Journal/Fall 2024.md",
     "Journal/October/31 October 2024 Thursday.md",
     "Journal/October/30 October 2024 Wednesday.md",
     "Journal/October/29 October 2024 Tuesday.md",
     "Journal/October/28 October 2024 Monday.md",
     "Journal/October/27 October 2024 Sunday.md",
     "Journal/October/26 October 2024 Saturday.md",
+    "Journal/October/25 October 2024 Friday.md",
+    "Journal/October/24 October 2024 Thursday.md",
+    "Journal/October/23 October 2024 Wednesday.md",
+    "Journal/October/22 October 2024 Tuesday.md",
+    "Journal/October/21 October 2024 Monday.md",
+    "Journal/October/20 October 2024 Sunday.md",
+    "Journal/October/19 October 2024 Saturday.md",
+    "Journal/October/18 October 2024 Friday.md",
+    "Journal/October/17 October 2024 Thursday.md",
+    "Journal/October/16 October 2024 Wednesday.md",
+    "Journal/October/15 October 2024 Tuesday.md",
+    "Journal/October/14 October 2024 Monday.md",
+    "Journal/October/13 October 2024 Sunday.md",
+    "Journal/October/12 October 2024 Saturday.md",
+    "Journal/October/11 October 2024 Friday.md",
+    "Journal/October/10 October 2024 Thursday.md",
+    "Journal/October/9 October 2024 Wednesday.md",
+    "3-resources/computing/Setting up Falcon.md",
     "Journal/October",
     "Input/Meetings/October",
     "0-inbox/#Selfish reasons to having more kids.md#",

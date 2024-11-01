@@ -29,7 +29,7 @@
 
 
 # To Do
-- [>>] [[Run-3 4b skims]]
+- [>>]  [[Run-3 4b skims]]
 - [>>] Watch Pre-Approval VqqHbb
 - [>>] CAM Training
 - [>>] Read HGC TDR
@@ -75,7 +75,7 @@ Did mail.
 - updating skip colections and (removing HLT branches)
 
 # T3 Meeting
-- Falcon exists
+- Falcon exists [[Setting up Falcon]]
 	```ping falcon.phys.cmu.edu```
 - Get an account here: https://account.mcs.cmu.edu/andrew/ 
 - Waiting on Nuno for mail
