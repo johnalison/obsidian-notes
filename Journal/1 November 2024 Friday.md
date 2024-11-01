@@ -2,12 +2,12 @@
 
 |     | setup                         |     |
 | --- | ----------------------------- | --- |
-| 9   | Quarterly Systems/Goal Review |     |
+| 9   | [[Run3 Synthetic Data]]       |     |
+|     | [[Run3 Synthetic Data]]       |     |
+| 10  | Quarterly Systems/Goal Review |     |
 |     | Quarterly Systems/Goal Review |     |
-| 10  |                               |     |
-|     |                               |     |
-| 11  |                               |     |
-|     |                               |     |
+| 11  | [[Run3 Synthetic Data]]       |     |
+|     | [[Run3 Synthetic Data]]       |     |
 | 12  | Hoops                         |     |
 |     | Hoops                         |     |
 | 1   | Hoops                         |     |
@@ -29,14 +29,13 @@
 
 
 # To Do
-- [ ] Setup Nov
+- [x] Setup Nov
 - [ ] Review Oct
-- [ ] Lab Techs! 
+- [x] Lab Techs! 
 - [ ] Finish AN review
 - [ ] Renew Visitor pass
 - [ ] Osher Course Prep
-- [ ] Read AN VqqHbb
-- [ ] Request Hbb presentation
+- [x] Request Hbb presentation
 - [ ] Ping Dean for lab visit
 - [ ] Binning Study runTwoStageClosure
 
@@ -52,8 +51,20 @@ M & T to school
 - [ ] Fix missing bRegCorr variables
 - Made plots data vs synthetic in Run3
 	`python  jet_clustering/compare_datasets.py  hists/synthetic_data_Run3_seedXXX.coffea   --out analysis/plots_synthetic_datasets_all_00-08-00-Run3 -m analysis/metadata/plotsSyntheticVsData2.yml`
-- 
+- Make slides with `make` ... very nice setup
+- Sent mail to FBC2 group
 
 
 [[4b code base]] 
 - [ ] RunII and Run3 options to sum over the proper years
+
+Set up November
+
+Missed Meeting with Gabija Ziemyte
+
+# [[Lab Techs Fall 2024]]
+- Sent emails to three people... See above
+- Added a few more resumes
+
+
+[[HGC WADs]]

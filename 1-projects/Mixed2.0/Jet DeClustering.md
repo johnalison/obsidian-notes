@@ -90,6 +90,23 @@ Getting the new mixing going
 - 00-07-03:    like 00-07-02, but split by year
 - 00-08-00:    like 00-07-02, with **JEC/JER** on data
 
+# Daily Logs
+
+[[1 October 2024 Tuesday]]
+- Rerunning the jet clustering
+- reweight hT by year ? 
+	- do this without PSdata and subtracting ttbar...DONE
+	- Need option for skipping PS data...Just commented out files
+	- Need to make ratios... DONE
+	- Adding code to apply weights... DONE
+
+
+[[2 October 2024 Wednesday]]
+- make hists w/PS and hT RW.. not clear the RW does much
+- update topReconstruction... merging
+- Making another dataset (seed1)
+- I think I finished this for now...
+
 
 # Archive:
 

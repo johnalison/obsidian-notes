@@ -42,10 +42,7 @@ Up at 7
 M&T to school 
 
 # [[Jet DeClustering]]
-- make hists w/PS and hT RW.. not clear the RW does much
-- update topReconstruction... merging
-- Making another dataset (seed1)
-- I think I finished this for now...
+- See Daily logs above
 
 # Taught for Markus
 - four-vectors + GR

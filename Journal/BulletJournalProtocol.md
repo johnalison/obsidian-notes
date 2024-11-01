@@ -10,6 +10,7 @@
 - Fill out monthly logs
 
 # Monthly
+- Review Previous month
 - move meetings into monthly folders
 - move journal into monthly folders
 - Migrate future log for current month

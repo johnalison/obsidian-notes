@@ -52,12 +52,7 @@ Dropped off splewge.
 [[Chat w Wes 1 October 2024]]
 
 # [[Jet DeClustering]]
-- Rerunning the jet clustering
-- reweight hT by year ? 
-	- do this without PSdata and subtracting ttbar...DONE
-	- Need option for skipping PS data...Just commented out files
-	- Need to make ratios... DONE
-	- Adding code to apply weights... DONE
+- See Daily logs above
 
 Setup new printer. 
 

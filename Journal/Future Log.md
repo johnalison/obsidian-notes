@@ -17,12 +17,13 @@
 - [x] Site visits by Santa Barbara Oct 21 
 
 # November
-- [ ] 5th No classes
-- [ ] 6th Osher Class starts
-- [ ] 10-11th Lab tours
+- [x] 5th No classes
+- [x] 6th Osher Class starts
+- [x] 10-11th Lab tours
 
 
 # December
+- [ ] 1st Wednesday Osher ends
 
 
 # January 
