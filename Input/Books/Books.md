@@ -1,3 +1,5 @@
+- [[Open Borders]]] (Bryan Caplan)
+
 - [[Selfish reasons to having more kids]] (Bryan Caplan)
 
 - [[How Adam Smith Can Change Your Life]] (Russ Roberts)
