@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Input/Books/Books.md",
+                "file": "2-areas/Personal/ToAddToCV.md",
                 "mode": "source",
                 "source": false
               }
@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:books",
+                "query": "file:cv",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Input/Books/Books.md",
+                "file": "2-areas/Personal/ToAddToCV.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Input/Books/Books.md",
+                "file": "2-areas/Personal/ToAddToCV.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Input/Books/Books.md"
+                "file": "2-areas/Personal/ToAddToCV.md"
               }
             }
           }
@@ -162,8 +162,9 @@
   },
   "active": "df65920f0a402d5d",
   "lastOpenFiles": [
-    "Input/Books/Open Borders.md",
     "Journal/2 November 2024 Saturday.md",
+    "Input/Books/Books.md",
+    "Input/Books/Open Borders.md",
     "0-inbox/Lab Techs Fall 2024.md",
     "Journal/1 November 2024 Friday.md",
     "0-inbox/Nexus.md",
@@ -187,7 +188,6 @@
     "Journal/October/20 October 2024 Sunday.md",
     "Journal/October/19 October 2024 Saturday.md",
     "Journal/October/18 October 2024 Friday.md",
-    "Journal/October/17 October 2024 Thursday.md",
     "Journal/October",
     "Input/Meetings/October",
     "0-inbox/#Selfish reasons to having more kids.md#",

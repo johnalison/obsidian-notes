@@ -2,6 +2,13 @@
 
 # Papers:
 
+your article "Background modeling for double Higgs boson production: Density ratios and optimal transport"  
+was published in the Annals of Applied Statistics 2024, Vol. 18, No. 4, 2950-2978.
+
+You may access electronic version of your paper in Euclid by DOI link  
+[http://dx.doi.org/10.1214/24-AOAS1916](http://dx.doi.org/10.1214/24-AOAS1916)
+
+
 ## Not sure:
 - Focus topics for the ECFA study on Higgs / Top / EW factories https://arxiv.org/abs/2401.07564
 
