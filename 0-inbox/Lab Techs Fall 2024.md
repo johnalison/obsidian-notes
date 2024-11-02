@@ -3,7 +3,7 @@ CVs: [https://cmu.box.com/s/4yrnk44vszzeb2s16vjhjguavj3udsh7](https://cmu.box.co
 - Richard B. Bomgardner II: richardbomgardnerii@gmail.com
 - James R Coleman: james.r.coleman1@gmail.com 
 
-
+Andre Swain: open in the later afternoons, any day,
 
 
 # Intro Email: 
