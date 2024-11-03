@@ -39,3 +39,8 @@ If an opinion contrary to your own makes you angry, that is a sign that you are 
 4. Consistency (doing average things for longer)  
 5. Focus (saying no to distractions)
 Each of these requires a different type of hard work.
+
+
+Lots of adam Savage videos 
+
+Some [[OnGrandStrategy]]

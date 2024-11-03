@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/2 November 2024 Saturday.md",
+                "file": "Journal/May 2024.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/2 November 2024 Saturday.md",
+                "file": "Journal/May 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/2 November 2024 Saturday.md",
+                "file": "Journal/May 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/2 November 2024 Saturday.md"
+                "file": "Journal/May 2024.md"
               }
             }
           }
@@ -163,15 +163,18 @@
   },
   "active": "df65920f0a402d5d",
   "lastOpenFiles": [
-    "0-inbox/Nobel Prize Physics 2024.md",
+    "1-projects/Mixed2.0/Run3 Synthetic Data.md",
+    "Journal/April 2024.md",
+    "Journal/May 2024.md",
+    "Journal/3 November 2024 Sunday.md",
     "Journal/2 November 2024 Saturday.md",
+    "0-inbox/Nobel Prize Physics 2024.md",
     "0-inbox/StartupSpending.md",
     "Journal/July 2024.md",
     "Journal/July/27 July 2024 Saturday.md",
     "Journal/July/30 July 2024 Tuesday.md",
     "1-projects/Mixed2.0/Jet DeClustering.md",
     "Journal/August 2024.md",
-    "Journal/April 2024.md",
     "2-areas/Personal/ToAddToCV.md",
     "Input/Books/Books.md",
     "Input/Books/Open Borders.md",
@@ -180,15 +183,12 @@
     "0-inbox/Nexus.md",
     "Output/CMU Particle Physics Overview.md",
     "0-inbox/ARC HIG-24-017 Boosted VqqHbb.md",
-    "1-projects/Mixed2.0/Run3 Synthetic Data.md",
     "Journal/October/31 October 2024 Thursday.md",
     "Journal/October/30 October 2024 Wednesday.md",
     "1-projects/HH4b/Run-3 4b skims.md",
     "1-projects/Mixed2.0/Migrate Trigger Emulator.md",
     "Journal/October/29 October 2024 Tuesday.md",
     "Journal/October/28 October 2024 Monday.md",
-    "Journal/October/27 October 2024 Sunday.md",
-    "Journal/October/26 October 2024 Saturday.md",
     "Journal/October",
     "Input/Meetings/October",
     "0-inbox/#Selfish reasons to having more kids.md#",
