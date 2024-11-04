@@ -71,7 +71,7 @@ Did [[Osher Fall Particle Physics Course]]
 
 
 Wes gives Monday Meeting talk
-- [ ] Watch recording.
+- [x] Watch recording.
 - ~600 m^2 Si and ~500 m^2 Scintillator  
 
 # Hoops 
@@ -81,4 +81,10 @@ Joe's slides [[HGC MAC P2UG Silicon Modules]]
 
 More [[Run3 Synthetic Data]]
 
+# Sindhu Chat
+- Chat re:runTwoStageClosure
+- Still needs to make plots on v4j...
+
 Watching Wes' talk
+
+
