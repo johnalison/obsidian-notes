@@ -33,13 +33,13 @@
 - [x] Review Oct
 - [x] Lab Techs! 
 - [x] Finish AN review
-- [ ] Renew Visitor pass
-- [ ] Osher Course Prep
+- [>>] Renew Visitor pass
+- [>>] Osher Course Prep
 - [x] Request Hbb presentation
-- [ ] Ping Dean for lab visit
+- [>>] Ping Dean for lab visit
 - [AE] Binning Study runTwoStageClosure
-- [ ] Mixed data public ?
-- [ ] HH Compute s-factors
+- [[[SomedayMaybe]] ] Mixed data public ?
+- [[[SomedayMaybe]]] HH Compute s-factors
 
 
 # Log
@@ -50,19 +50,15 @@ M & T to school
 
 
 # [[Run3 Synthetic Data]]
-- [ ] Fix missing bRegCorr variables
-- Made plots data vs synthetic in Run3
-	`python  jet_clustering/compare_datasets.py  hists/synthetic_data_Run3_seedXXX.coffea   --out analysis/plots_synthetic_datasets_all_00-08-00-Run3 -m analysis/metadata/plotsSyntheticVsData2.yml`
-- Make slides with `make` ... very nice setup
-- Sent mail to FBC2 group
+- See Daily's above
 
 
 [[4b code base]] 
-- [ ] RunII and Run3 options to sum over the proper years
+- [<<] RunII and Run3 options to sum over the proper years
 
 Set up November
 
-Missed Meeting with Gabija Ziemyte
+Missed Meeting with Gabija Ziemyte :(
 
 # [[Lab Techs Fall 2024]]
 - Sent emails to three people... See above

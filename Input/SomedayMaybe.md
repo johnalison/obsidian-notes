@@ -11,7 +11,7 @@
 - [ ] jupyter notebooks for outreach 
 	- [x] ABCD
 	- [ ] minimization
-- [ ] Open dataa examples
+- [ ] Open data examples
 - [ ] Real Deep SF
 - [x] Better way to split hemispheres
 - [ ] Short tube 80
@@ -23,7 +23,7 @@
 - [x] How to digitize BuJo
 - [ ] Get links right in emacs obsidian
 - [ ] Update printCutFlow to compare cutflows
-
+- [ ]  HH Compute s-factors
 
 ## Links: 
 

@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/May 2024.md",
+                "file": "Journal/3 November 2024 Sunday.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e5e67d4b01625d69",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2-areas/coffea4bs/4b code base.md",
                 "mode": "source",
                 "source": false
               }
@@ -30,8 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0afa89d9606a5316",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Journal/4 November 2024 Monday.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -98,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/May 2024.md",
+                "file": "Journal/4 November 2024 Monday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/May 2024.md",
+                "file": "Journal/4 November 2024 Monday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/May 2024.md"
+                "file": "Journal/4 November 2024 Monday.md"
               }
             }
           }
@@ -161,13 +186,27 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "df65920f0a402d5d",
+  "active": "0afa89d9606a5316",
   "lastOpenFiles": [
-    "1-projects/Mixed2.0/Run3 Synthetic Data.md",
-    "Journal/April 2024.md",
-    "Journal/May 2024.md",
+    "2-areas/coffea4bs/4b code base.md",
+    "Journal/November 2024.md",
     "Journal/3 November 2024 Sunday.md",
     "Journal/2 November 2024 Saturday.md",
+    "Input/Blogs/FS How to read a book.md",
+    "Journal/1 November 2024 Friday.md",
+    "0-inbox/[SomedayMaybe.md",
+    "Input/SomedayMaybe.md",
+    "Journal/October/31 October 2024 Thursday.md",
+    "1-projects/Mixed2.0/Run3 Synthetic Data.md",
+    "Journal/4 November 2024 Monday.md",
+    "Journal/October 2024.md",
+    "Journal/October/30 October 2024 Wednesday.md",
+    "Journal/October/29 October 2024 Tuesday.md",
+    "Journal/October/28 October 2024 Monday.md",
+    "Journal/October/27 October 2024 Sunday.md",
+    "Journal/October/26 October 2024 Saturday.md",
+    "Journal/May 2024.md",
+    "Journal/April 2024.md",
     "0-inbox/Nobel Prize Physics 2024.md",
     "0-inbox/StartupSpending.md",
     "Journal/July 2024.md",
@@ -175,20 +214,6 @@
     "Journal/July/30 July 2024 Tuesday.md",
     "1-projects/Mixed2.0/Jet DeClustering.md",
     "Journal/August 2024.md",
-    "2-areas/Personal/ToAddToCV.md",
-    "Input/Books/Books.md",
-    "Input/Books/Open Borders.md",
-    "0-inbox/Lab Techs Fall 2024.md",
-    "Journal/1 November 2024 Friday.md",
-    "0-inbox/Nexus.md",
-    "Output/CMU Particle Physics Overview.md",
-    "0-inbox/ARC HIG-24-017 Boosted VqqHbb.md",
-    "Journal/October/31 October 2024 Thursday.md",
-    "Journal/October/30 October 2024 Wednesday.md",
-    "1-projects/HH4b/Run-3 4b skims.md",
-    "1-projects/Mixed2.0/Migrate Trigger Emulator.md",
-    "Journal/October/29 October 2024 Tuesday.md",
-    "Journal/October/28 October 2024 Monday.md",
     "Journal/October",
     "Input/Meetings/October",
     "0-inbox/#Selfish reasons to having more kids.md#",

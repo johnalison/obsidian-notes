@@ -66,7 +66,7 @@ Review: [[CMU Particle Physics Overview]]
 
 
 # Faculty Meeting
-- Chat with Dean: ____XX____ 
+- Chat with Dean: Barbara Shinn-Cunningham 
 - Gave [[CMU Particle Physics Overview]]
 - Dean's Main mission is to fix the MCS deficit. 6M / year
 - Shilla is leaving!

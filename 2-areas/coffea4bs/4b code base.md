@@ -3,7 +3,7 @@
 - [ ]  Remake plotting to be more flexible re:hist structure ? 
 - [x] Script to check process lumi section agaist json
 - [x] Reduce histograms Do we need the "other" tag list item ? / other regions ? passPreSel cut ?
-
+- [ ] RunII and Run3 options to sum over the proper years
 
 ## Follow-ups
 

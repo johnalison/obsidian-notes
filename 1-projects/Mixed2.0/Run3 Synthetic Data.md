@@ -18,6 +18,12 @@
 - Hack to get running.... working !...**31m2.461s**
 - First look at Plots ... sensible, but there are obvious problems. 
 
+[[1 November 2024 Friday]]
+- [>>] Fix missing bRegCorr variables
+- Made plots data vs synthetic in Run3
+	`python  jet_clustering/compare_datasets.py  hists/synthetic_data_Run3_seedXXX.coffea   --out analysis/plots_synthetic_datasets_all_00-08-00-Run3 -m analysis/metadata/plotsSyntheticVsData2.yml`
+- Make slides with `make` ... very nice setup
+- Sent mail to FBC2 group
 
 # Follow-ups
 
