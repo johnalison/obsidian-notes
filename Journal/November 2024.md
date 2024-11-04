@@ -6,7 +6,7 @@
 | 4  M |                                                                                 |       |
 | 5  T | (Election Day)                                                                  |       |
 | 6  W | (Osher #1)                                                                      |       |
-| 7  H |                                                                                 |       |
+| 7  H | (Lab Tech Interviews)                                                           |       |
 | 8  F |                                                                                 |       |
 | 9  S |                                                                                 |       |
 | 10 S |                                                                                 |       |

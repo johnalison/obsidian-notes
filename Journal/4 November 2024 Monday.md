@@ -29,7 +29,7 @@
 
 
 # To Do
-- [ ] Mail re:LabTech interviews
+- [x] Mail re:LabTech interviews
 - [ ] [[Osher Fall Particle Physics Course]]
 - [ ] Renew Visitor pass
 - [ ] Ping Dean for lab visit
@@ -48,6 +48,12 @@ H at work with me
 
 # [[Run3 Synthetic Data]]
 - [ ] Fix missing bRegCorr variables
+- [ ] Compare Run2 and Run3
+- [ ] Selected Jets energy scale different
 
 
  supervision is not a job of giving orders; it is a job of providing the opportunity for people to use their capabilities efficiently and effectively.
+
+[[Lab Techs Fall 2024]]
+- Sent mails
+

@@ -3,8 +3,11 @@ CVs: [https://cmu.box.com/s/4yrnk44vszzeb2s16vjhjguavj3udsh7](https://cmu.box.co
 - Richard B. Bomgardner II: richardbomgardnerii@gmail.com
 - James R Coleman: james.r.coleman1@gmail.com 
 
-Andre Swain: open in the later afternoons, any day,
-richard: Tuesday or Thursday between 10am and 5pm eastern time would work for me.
+Andre Swain: open in the later afternoons, any day:  3:00
+richard: Tuesday or Thursday between 10am and 5pm eastern time would work for me.: 10:00
+James Coleman: 2:00
+
+Scheduled Interviews
 
 # Intro Email: 
 Dear XXX
