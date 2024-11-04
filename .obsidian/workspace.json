@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-projects/Mixed2.0/Run3 Synthetic Data.md",
+                "file": "Journal/4 November 2024 Monday.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-projects/Mixed2.0/Run3 Synthetic Data.md",
+                "file": "Journal/4 November 2024 Monday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-projects/Mixed2.0/Run3 Synthetic Data.md",
+                "file": "Journal/4 November 2024 Monday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-projects/Mixed2.0/Run3 Synthetic Data.md"
+                "file": "Journal/4 November 2024 Monday.md"
               }
             }
           }
@@ -187,13 +187,14 @@
   },
   "active": "df65920f0a402d5d",
   "lastOpenFiles": [
+    "Journal/Future Log.md",
     "Journal/4 November 2024 Monday.md",
+    "1-projects/Mixed2.0/Run3 Synthetic Data.md",
     "2-areas/coffea4bs/4b code base.md",
     "0-inbox/HGC MAC P2UG Silicon Modules.md",
     "1-projects/Teaching/Osher Fall Particle Physics Course.md",
     "1-projects/Mixed2.0/Jet DeClustering.md",
     "1-projects/Mixed2.0/Cluster Run 3 data.md",
-    "1-projects/Mixed2.0/Run3 Synthetic Data.md",
     "Journal/3 November 2024 Sunday.md",
     "0-inbox/Lab Techs Fall 2024.md",
     "Journal/November 2024.md",
@@ -212,7 +213,6 @@
     "Journal/May 2024.md",
     "Journal/April 2024.md",
     "0-inbox/Nobel Prize Physics 2024.md",
-    "0-inbox/StartupSpending.md",
     "Journal/October",
     "Input/Meetings/October",
     "0-inbox/#Selfish reasons to having more kids.md#",

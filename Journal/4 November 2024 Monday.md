@@ -48,7 +48,7 @@ M & T to school
 
 H at work with me
 
-# [[Run3 Synthetic Data]]
+# [[Run3 Synt hetic Data]]
 - [x] Fix missing bRegCorr variables
 - [x] Fix missing btagging
 - Compared Run2 and Run3 plots... lots of differences... fixing

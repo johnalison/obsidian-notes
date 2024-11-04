@@ -23,7 +23,9 @@
 
 
 # December
-- [ ] 1st Wednesday Osher ends
+- [ ] 2nd ADA talk
+- [ ] 4th  Osher ends
+
 
 
 # January 
