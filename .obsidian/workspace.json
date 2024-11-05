@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-projects/Mixed2.0/Run3 Synthetic Data.md",
+                "file": "1-projects/Mixed2.0/Jet DeClustering.md",
                 "mode": "source",
                 "source": false
               }
@@ -55,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -122,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/4 November 2024 Monday.md",
+                "file": "1-projects/Mixed2.0/Jet DeClustering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/4 November 2024 Monday.md",
+                "file": "1-projects/Mixed2.0/Jet DeClustering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/4 November 2024 Monday.md"
+                "file": "1-projects/Mixed2.0/Jet DeClustering.md"
               }
             }
           }
@@ -185,12 +186,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "df65920f0a402d5d",
+  "active": "b396f0a73370f557",
   "lastOpenFiles": [
-    "Journal/November 2024.md",
+    "Journal/June 2024.md",
     "Journal/4 November 2024 Monday.md",
-    "Journal/Future Log.md",
     "1-projects/Mixed2.0/Run3 Synthetic Data.md",
+    "Journal/#June 2024.md#",
+    "0-inbox/Run3 Synt hetic Data.md",
+    "Journal/November 2024.md",
+    "Journal/Future Log.md",
     "2-areas/coffea4bs/4b code base.md",
     "0-inbox/HGC MAC P2UG Silicon Modules.md",
     "1-projects/Teaching/Osher Fall Particle Physics Course.md",
@@ -210,9 +214,6 @@
     "Journal/October/28 October 2024 Monday.md",
     "Journal/October/27 October 2024 Sunday.md",
     "Journal/October/26 October 2024 Saturday.md",
-    "Journal/May 2024.md",
-    "Journal/April 2024.md",
-    "0-inbox/Nobel Prize Physics 2024.md",
     "Journal/October",
     "Input/Meetings/October",
     "0-inbox/#Selfish reasons to having more kids.md#",
@@ -222,7 +223,6 @@
     "0-inbox/#How Adam Smith Can Change Your Life.md#",
     "Input/Books/#Books.md#",
     "0-inbox/#Run-3 4b skims.md#",
-    "Journal/2023/#November 2023.md#",
     "attachments/Pasted image 20240826220009.png",
     "attachments/Pasted image 20240826215955.png",
     "attachments/HGC TDR LD and HD Sensors.png",

@@ -93,6 +93,23 @@ Getting the new mixing going
 
 # Daily Logs
 
+
+[[3 June 2024]]
+- cluster w/R? or until g→bb... will do until g→bb
+- py ? / old c++ / new c++ ... will do py
+- Read "Lund Jet Plane"
+- Set up skeleton
+
+[[7 June 2024]]
+- Check for mass correlations
+
+[[11 June 2024]]
+- Have clustering alg! ... validated 
+- [>>] Hists 
+- [>>] Sampling
+- [>>] unclustering alg
+- [>>] event ΔR checks
+
 [[22 July 24 Monday]]
 - Working the [[script to compare the splittings]]
 - Working [[Script to check reclustered splittings]]

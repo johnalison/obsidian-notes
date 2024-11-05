@@ -17,12 +17,12 @@
 | 3   | [[Run3 Synthetic Data]]                    |        |
 |     | [[Run3 Synthetic Data]]                    |        |
 | 4   | Berman                                     |        |
-|     |                                            |        |
+|     | Wes slides                                 |        |
 
-**W:**
-**DW:**
-**OT:**
-**ex** or **No ex**
+**W:** 6
+**DW:** 3 
+**OT:** 3
+**ex** 
 
 # The ONE thing: 
 - [ ] [[Run3 Synthetic Data]]
@@ -48,7 +48,7 @@ M & T to school
 
 H at work with me
 
-# [[Run3 Synt hetic Data]]
+# [[Run3 Synthetic Data]]
 - [x] Fix missing bRegCorr variables
 - [x] Fix missing btagging
 - Compared Run2 and Run3 plots... lots of differences... fixing
@@ -58,7 +58,7 @@ H at work with me
 - [ ] Re-skim
 - Testing the Run3 synthetic dataset `python runner.py -s -p skimmer/processor/make_declustered_data_4b.py -c skimmer/metadata/declustering_for_test_noTTSubtraction.yml -y 2022_EE  -d data  -op output/synthetic_dataset_make_dataset -o picoaod_datasets_declustered_test_2022_EE.yml -m metadata/datasets_HH4b_Run3_fourTag.yml`
 - Made clustering code agnostic of btagging algorithm
-- Remaking Synthetic datasets on **cmslpc322**.. locally...
+- Remaking Synthetic datasets on **cmslpc322**.. locally...**215m32.777s**
 
  supervision is not a job of giving orders; it is a job of providing the opportunity for people to use their capabilities efficiently and effectively.
 
@@ -87,4 +87,10 @@ More [[Run3 Synthetic Data]]
 
 Watching Wes' talk
 
+Pick up M & T ... Home with kids.
+
+Some [[Nexus]]
+Some [[OnGrandStrategy]]
+
+[[June 2024]]
 
