@@ -48,8 +48,12 @@ Voted ... No ID needed ... not worth the ROI
 - [ ] recluster with new selection
 - [ ] new input pdfs
 - [ ] re:synthetic datasets
-- Making hists from new synthetic datasets locally ... 
-- Making processor agnostic of btag algorithm
+- Making hists from new synthetic datasets locally ... **14m47.720s**
+- Making processor agnostic of btag algorithm... Pushed
+- [ ] Fix CI
+- [ ] Update CERN/box slides and send mail
 
 [[Chat w Wes 5 November 2024]]
+
+[[CMU HGC Mac Meeting 5 November 2024]]
 

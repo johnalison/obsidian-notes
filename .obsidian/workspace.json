@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/5 November 2024 Tuesday.md",
+                "file": "0-inbox/CMU HGC Mac Meeting 5 November 2024.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "261f75c73b52e7af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Input/Meetings/October/CMU HGC Mac Meeting 29 October 2024.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/November 2024.md",
+                "file": "Journal/5 November 2024 Tuesday.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/5 November 2024 Tuesday.md",
+                "file": "0-inbox/CMU HGC Mac Meeting 5 November 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/5 November 2024 Tuesday.md",
+                "file": "0-inbox/CMU HGC Mac Meeting 5 November 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/5 November 2024 Tuesday.md"
+                "file": "0-inbox/CMU HGC Mac Meeting 5 November 2024.md"
               }
             }
           }
@@ -199,8 +211,13 @@
   },
   "active": "df65920f0a402d5d",
   "lastOpenFiles": [
-    "2-areas/coffea4bs/4b code base.md",
+    "Journal/October/30 October 2024 Wednesday.md",
+    "Input/Meetings/October/HGC Mac testing Meeting 30 October 2024.md",
+    "0-inbox/CMU HGC Mac Meeting 5 November 2024.md",
+    "Input/Meetings/October/CMU HGC Mac Meeting 29 October 2024.md",
     "Journal/5 November 2024 Tuesday.md",
+    "Journal/November 2024.md",
+    "2-areas/coffea4bs/4b code base.md",
     "0-inbox/Chat w Wes 5 November 2024.md",
     "Journal/4 November 2024 Monday.md",
     "1-projects/Mixed2.0/Run3 Synthetic Data.md",
@@ -209,13 +226,11 @@
     "Journal/2 November 2024 Saturday.md",
     "Journal/1 November 2024 Friday.md",
     "Journal/October/31 October 2024 Thursday.md",
-    "Journal/October/30 October 2024 Wednesday.md",
     "Journal/October/29 October 2024 Tuesday.md",
     "1-projects/Mixed2.0/Jet DeClustering.md",
     "Journal/June 2024.md",
     "Journal/#June 2024.md#",
     "0-inbox/Run3 Synt hetic Data.md",
-    "Journal/November 2024.md",
     "Journal/Future Log.md",
     "0-inbox/HGC MAC P2UG Silicon Modules.md",
     "1-projects/Teaching/Osher Fall Particle Physics Course.md",
@@ -223,9 +238,6 @@
     "0-inbox/Lab Techs Fall 2024.md",
     "Input/Blogs/FS How to read a book.md",
     "0-inbox/[SomedayMaybe.md",
-    "Journal/October 2024.md",
-    "Journal/October/28 October 2024 Monday.md",
-    "Journal/October/27 October 2024 Sunday.md",
     "Journal/October",
     "Input/Meetings/October",
     "0-inbox/#Selfish reasons to having more kids.md#",
