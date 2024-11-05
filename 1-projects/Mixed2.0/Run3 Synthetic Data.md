@@ -28,6 +28,19 @@
 - Make slides with `make` ... very nice setup
 - Sent mail to FBC2 group
 
+
+[[4 November 2024 Monday]]
+- [x] Fix missing bRegCorr variables
+- [x] Fix missing btagging
+- Compared Run2 and Run3 plots... lots of differences... fixing
+- [x] Selected Jets energy scale different
+- [x]  update Run3 btagging to PNet
+- [>>] Fix bReg corrections
+- [<<] Re-skim
+- Testing the Run3 synthetic dataset `python runner.py -s -p skimmer/processor/make_declustered_data_4b.py -c skimmer/metadata/declustering_for_test_noTTSubtraction.yml -y 2022_EE  -d data  -op output/synthetic_dataset_make_dataset -o picoaod_datasets_declustered_test_2022_EE.yml -m metadata/datasets_HH4b_Run3_fourTag.yml`
+- Made clustering code agnostic of btagging algorithm
+- Remaking Synthetic datasets on **cmslpc322**.. locally...**215m32.777s**
+
 # Follow-ups
 
 

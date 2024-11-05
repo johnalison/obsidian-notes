@@ -24,6 +24,7 @@
 - [ ] Get links right in emacs obsidian
 - [ ] Update printCutFlow to compare cutflows
 - [ ]  HH Compute s-factors
+- [ ] Ping Dean for a lab tour
 
 ## Links: 
 

@@ -48,7 +48,6 @@ Up at 7
 
 M & T to school
 
-
 # [[Run3 Synthetic Data]]
 - See Daily's above
 
