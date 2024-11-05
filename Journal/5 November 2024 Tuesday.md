@@ -11,18 +11,18 @@
 | 12  | HGC                         |         |
 |     | HGC                         |         |
 | 1   | Home                        |         |
-|     |                             |         |
-| 2   |                             |         |
-|     |                             |         |
-| 3   |                             |         |
-|     |                             |         |
+|     | w/Kids                      |         |
+| 2   | w/Kids                      |         |
+|     | w/kids                      |         |
+| 3   | Odds/Ends                   |         |
+|     | [[Cluster Run 3 data]]      |         |
 | 4   |                             |         |
 |     |                             |         |
 
 **W:**
 **DW:**
 **OT:**
-**ex** or **No ex**
+**No ex**
 
 # The ONE thing: 
 - [ ] [[Run3 Synthetic Data]]
@@ -35,7 +35,7 @@
 - [ ] Re-skim Run3
 - [ ]  Re: [[Cluster Run 3 data]]
 - [ ] Re: Make Synthetic Data
-- [ ] Osher Slides to print
+- [x] Osher Slides to print
 
 
 # Log
@@ -50,10 +50,15 @@ Voted ... No ID needed ... not worth the ROI
 - [ ] re:synthetic datasets
 - Making hists from new synthetic datasets locally ... **14m47.720s**
 - Making processor agnostic of btag algorithm... Pushed
-- [ ] Fix CI
-- [ ] Update CERN/box slides and send mail
+- [ ] Fix CI...v1
+- [x] Update CERN/box slides and send mail
 
 [[Chat w Wes 5 November 2024]]
 
 [[CMU HGC Mac Meeting 5 November 2024]]
 
+Home 
+
+Kids to sleep
+
+Sent mail re:Lecture 1 to [[Osher Fall Particle Physics Course]]

@@ -63,6 +63,22 @@ There will be no homework is there is no required reading/work before hand.
 Looking forward to getting started! 
 john
 
+
+# Mail re Lectures
+
+Hi Again,   
+  
+  Ive made a copy of tomorrows lecture slides available here:  
+https://cernbox.cern.ch/s/rvCYmXuaHcRADwp
+
+There is no need to read these beforehand, they are just there for those who want to follow along as we go through them tomorrow or to review afterwards.
+
+See you soon!
+john
+
+
+
+
 #### Weekly - Wed 2:30 PM - 4:00 PM; 4 sessions; starting 11/6/2024, ending 12/4/2024 ; Class Skip Dates : (No class on 11/27/2024)
 
 ## Links: 
