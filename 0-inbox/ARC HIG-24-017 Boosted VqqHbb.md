@@ -12,6 +12,33 @@ http://cms.cern.ch/iCMS/jsp/openfile.jsp?tp=draft&files=AN2022_031_v9.pdf
 https://cms.cern.ch/iCMS/analysisadmin/get?analysis=HIG-24-017-paper-v1.pdf
 
 
+# Paper draft Review
+v1
+
+Hard 
+
+General: 
+- Should reference other searchers for VH: other experiments and decay channels
+- Should sensitivity to searches with leptonic V decay modes
+- Should compare sensitivites to VBF 
+
+
+Paragraph at 112: No mention of the HLT btagging 
+
+Section4: 
+- Would be nice to have a plot of acc×eff vs pT_H
+- Some discussion should be given on how the binning (including the boundaries were chosen) To the reader 201 GeV is going to look like fine tuning. 
+
+Section 5: 
+- QCD Background explaination does not agree with what is written in the AN
+- l196 Dont you need two indices to specify the 2D bins ? eg i and j.
+- Is N_SR^i binned in pT and rho ? Same question for N_CR ?
+- If RMC^i is the overall ratio of SR to QCD CR events in MC does it need an "i" ?
+- l205: confused ... eq (4) is defined "For a given bin with bary center (pTi , ρi) ... "
+
+
+
+
 # AN Review
 http://cms.cern.ch/iCMS/jsp/openfile.jsp?tp=draft&files=AN2022_031_v9.pdf
 

@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "4394e28613065d04",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-projects/Mixed2.0/Cluster Run 3 data.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "261f75c73b52e7af",
             "type": "leaf",
             "state": {
@@ -211,8 +223,10 @@
   },
   "active": "df65920f0a402d5d",
   "lastOpenFiles": [
-    "1-projects/Teaching/Osher Fall Particle Physics Course.md",
+    "0-inbox/ARC HIG-24-017 Boosted VqqHbb.md",
     "Journal/5 November 2024 Tuesday.md",
+    "1-projects/Mixed2.0/Cluster Run 3 data.md",
+    "1-projects/Teaching/Osher Fall Particle Physics Course.md",
     "0-inbox/CMU HGC Mac Meeting 5 November 2024.md",
     "Journal/October/30 October 2024 Wednesday.md",
     "Input/Meetings/October/HGC Mac testing Meeting 30 October 2024.md",
@@ -234,10 +248,8 @@
     "0-inbox/Run3 Synt hetic Data.md",
     "Journal/Future Log.md",
     "0-inbox/HGC MAC P2UG Silicon Modules.md",
-    "1-projects/Mixed2.0/Cluster Run 3 data.md",
     "0-inbox/Lab Techs Fall 2024.md",
     "Input/Blogs/FS How to read a book.md",
-    "0-inbox/[SomedayMaybe.md",
     "Journal/October",
     "Input/Meetings/October",
     "0-inbox/#Selfish reasons to having more kids.md#",
