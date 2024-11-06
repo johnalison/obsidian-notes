@@ -110,6 +110,80 @@ Getting the new mixing going
 - [>>] unclustering alg
 - [>>] event ΔR checks
 
+[[13 June 2024]]
+- Lots of good work 
+- SOLID PROGRESS!!!
+- This will work
+
+[[14 June 2024]]
+- Adding hists
+- Tried to speed it up ... no luck
+
+[[17 June 2024]]
+- [x] test 1d Sampling
+- [>>] test 2d sampling
+
+[[18 June 2024]]
+- [x] b* clustering make sure g_bb is {A or B}...B
+- [x] Set g_bb m->0 in b*
+- Lots of [[Jet DeClustering]]
+- [x] understood z_A (g_bb vs b*)
+- [>>] propogate flavor when declustering
+- [x] replace b* jets w/original
+
+[[19 June 2024]]
+- Getting the declustering processor going! 
+- [x] Need to speed it up
+- [x] Error in φ, need to rotate to jet φ
+- [<<] Add test of all declustering
+- [x] Asymmetric lead phi
+- [x] make plot script
+- fixed phi error
+- plots nominal vs declustered!
+- Fixed asymmetric Δφ
+- made plot script
+- cleaned up PDF making
+- Added loop to retry failing η adn pT
+
+[[20 June 2024]]
+- [x] Try to cluster the Declustered jets
+	- See where the residual differences are?
+- Getting 2D sampling going!
+- Make PDFs vs PT ... will try this next
+- Getting plots vs pt going
+
+[[21 June 2024]]
+- Pt dependence not such big improvement
+- checking η-dependence 
+- [x] Recluster declustered jets
+- [<<] ML for jet splitting lookup?
+- Bug in setting m-> 0 
+- Adding clustering of declustered jets
+- Now have a solid baseline !!!
+- Next is pushing on slides.
+
+[[22 June 2024]]
+- Add clustering test to CI
+- Add PDFs (nes folder)
+
+[[25 June 2024]]
+- Pt orderings
+- cleaned up code
+- Added plots
+- slides ~done
+
+[[27 June 2024]]
+- [x] Stop clustering when trying to combine >2 bs 
+- [>>]  Clean ISR (eg: j(bb) -> j + (bb))
+
+[[28 June 2024]]
+- Got PDFs for all splittings
+- ISR removal ( - [>>] recursive )
+- Got 5j code running ! 
+
+
+
+
 [[22 July 24 Monday]]
 - Working the [[script to compare the splittings]]
 - Working [[Script to check reclustered splittings]]

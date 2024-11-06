@@ -70,3 +70,7 @@ Sent mail re:Lecture 1 to [[Osher Fall Particle Physics Course]]
 
 
 Read paper draft [[ARC HIG-24-017 Boosted VqqHbb]]
+
+
+Some [[OnGrandStrategy]]
+
