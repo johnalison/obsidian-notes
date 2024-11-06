@@ -54,7 +54,7 @@ Review: [[CMU Particle Physics Overview]]
 # FB2C
 - Discussion re:jet-veto maps
 - [>>] Request presentation
-- Gave talk on [[Classifier Studies]]... Summary doesnt matter much which SB to use
+- Gave talk on [[Classifier Studies]]... Summary: doesnt matter much which SB to use
 
 
 # Stats Chat 

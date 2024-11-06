@@ -37,19 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Input/Meetings/October/CMU HGC Mac Meeting 29 October 2024.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e5e67d4b01625d69",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Input/Learning List.md",
+                "file": "0-inbox/ToDo.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,14 +61,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/5 November 2024 Tuesday.md",
+                "file": "0-inbox/HGC TDR.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -99,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:list",
+                "query": "BTC",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -146,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Input/Learning List.md",
+                "file": "0-inbox/HGC TDR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Input/Learning List.md",
+                "file": "0-inbox/HGC TDR.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Input/Learning List.md"
+                "file": "0-inbox/HGC TDR.md"
               }
             }
           }
@@ -209,35 +197,35 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e5e67d4b01625d69",
+  "active": "a15acff7ab21689e",
   "lastOpenFiles": [
+    "2-areas/Personal/CryptoMoves.md",
+    "0-inbox/HGC TDR.md",
+    "Journal/6 November 2024 Wednesday.md",
+    "Journal/5 November 2024 Tuesday.md",
+    "0-inbox/ToDo.md",
+    "1-projects/Mixed2.0/Run3 Synthetic Data.md",
+    "Input/Meetings/October/CMU HGC Mac Meeting 29 October 2024.md",
+    "Journal/4 November 2024 Monday.md",
+    "Journal/3 November 2024 Sunday.md",
+    "Journal/2 November 2024 Saturday.md",
+    "0-inbox/Quotes.md",
+    "Journal/1 November 2024 Friday.md",
+    "Journal/October/31 October 2024 Thursday.md",
+    "Journal/October/30 October 2024 Wednesday.md",
+    "Input/Learning List.md",
     "1-projects/Mixed2.0/Jet DeClustering.md",
     "2-areas/coffea4bs/4b code base.md",
-    "Journal/5 November 2024 Tuesday.md",
     "0-inbox/ARC HIG-24-017 Boosted VqqHbb.md",
     "1-projects/Mixed2.0/Cluster Run 3 data.md",
     "1-projects/Teaching/Osher Fall Particle Physics Course.md",
     "0-inbox/CMU HGC Mac Meeting 5 November 2024.md",
-    "Journal/October/30 October 2024 Wednesday.md",
     "Input/Meetings/October/HGC Mac testing Meeting 30 October 2024.md",
-    "Input/Meetings/October/CMU HGC Mac Meeting 29 October 2024.md",
     "Journal/November 2024.md",
     "0-inbox/Chat w Wes 5 November 2024.md",
-    "Journal/4 November 2024 Monday.md",
-    "1-projects/Mixed2.0/Run3 Synthetic Data.md",
     "Input/SomedayMaybe.md",
-    "Journal/3 November 2024 Sunday.md",
-    "Journal/2 November 2024 Saturday.md",
-    "Journal/1 November 2024 Friday.md",
-    "Journal/October/31 October 2024 Thursday.md",
     "Journal/October/29 October 2024 Tuesday.md",
-    "Journal/June 2024.md",
     "Journal/#June 2024.md#",
-    "0-inbox/Run3 Synt hetic Data.md",
-    "Journal/Future Log.md",
-    "0-inbox/HGC MAC P2UG Silicon Modules.md",
-    "0-inbox/Lab Techs Fall 2024.md",
-    "Input/Blogs/FS How to read a book.md",
     "Journal/October",
     "Input/Meetings/October",
     "0-inbox/#Selfish reasons to having more kids.md#",

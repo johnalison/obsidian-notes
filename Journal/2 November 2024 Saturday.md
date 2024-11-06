@@ -30,6 +30,8 @@ Read [[Nobel Prize Physics 2024]]
 If an opinion contrary to your own makes you angry, that is a sign that you are subconsciously aware of having no good reason for thinking as you do.
 -- Bertrand Russell 
 
+to [[Quotes]]
+
 # There are different types of hard work:
 1. Outthinking (a better strategy, a shortcut)  
 2. Pure Effort (working longer, intensity)  

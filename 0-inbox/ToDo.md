@@ -4,8 +4,8 @@ Longer Term To Do Items...
 These should be on Daily's page  !
 
 # Important + Not Due Soon:
-- [>>] Watch Pre-Approval VqqHbb
-	- [ ] Read paper draft VqqHbb
+- [x] Watch Pre-Approval VqqHbb
+	- [x] Read paper draft VqqHbb
 - [ ] CAM Training
 - [ ] Read HGC TDR
 - [ ] Collect and Send Teachers program info
