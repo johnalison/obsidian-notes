@@ -69,3 +69,7 @@ Reading [[HGC TDR]]
 # Hoops 
 - core / 3s and 4s / played well 
 
+
+# Osher Class #1 
+- went well ! Newtons dream + Relativity + 1/2 QM 
+
