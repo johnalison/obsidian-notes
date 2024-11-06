@@ -88,7 +88,8 @@ Getting the new mixing going
 - 00-07-01:       ''        Tuning ranges
 - 00-07-02:    like 00-07-01, but with ttbar subtraction
 - 00-07-03:    like 00-07-02, but split by year
-- 00-08-00:    like 00-07-02, with **JEC/JER** on data. Includes run3 data... wrong btagging/calibration
+- 00-08-00:    like 00-07-02, with **JEC/JER** on data. Includes run3 data... wrong btagging/calibration in run2
+- 00-08-01:     like 00-08-01 but run3 with right btagging bRegCorr still unclear...
 
 
 # Daily Logs

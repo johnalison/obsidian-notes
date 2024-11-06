@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/5 November 2024 Tuesday.md",
+                "file": "Journal/6 November 2024 Wednesday.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-projects/Mixed2.0/Run3 Synthetic Data.md",
+                "file": "Journal/6 November 2024 Wednesday.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,14 +61,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/HGC TDR.md",
+                "file": "1-projects/Mixed2.0/Jet DeClustering.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -114,7 +114,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -134,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/HGC TDR.md",
+                "file": "Journal/6 November 2024 Wednesday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/HGC TDR.md",
+                "file": "Journal/6 November 2024 Wednesday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/HGC TDR.md"
+                "file": "Journal/6 November 2024 Wednesday.md"
               }
             }
           }
@@ -197,14 +198,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a15acff7ab21689e",
+  "active": "8359b20c1f28f50e",
   "lastOpenFiles": [
-    "2-areas/Personal/CryptoMoves.md",
-    "0-inbox/HGC TDR.md",
+    "1-projects/Mixed2.0/Run3 Synthetic Data.md",
     "Journal/6 November 2024 Wednesday.md",
     "Journal/5 November 2024 Tuesday.md",
+    "1-projects/Mixed2.0/Jet DeClustering.md",
+    "1-projects/Mixed2.0/Cluster Run 3 data.md",
+    "0-inbox/HGC TDR.md",
+    "2-areas/Personal/CryptoMoves.md",
     "0-inbox/ToDo.md",
-    "1-projects/Mixed2.0/Run3 Synthetic Data.md",
     "Input/Meetings/October/CMU HGC Mac Meeting 29 October 2024.md",
     "Journal/4 November 2024 Monday.md",
     "Journal/3 November 2024 Sunday.md",
@@ -214,10 +217,8 @@
     "Journal/October/31 October 2024 Thursday.md",
     "Journal/October/30 October 2024 Wednesday.md",
     "Input/Learning List.md",
-    "1-projects/Mixed2.0/Jet DeClustering.md",
     "2-areas/coffea4bs/4b code base.md",
     "0-inbox/ARC HIG-24-017 Boosted VqqHbb.md",
-    "1-projects/Mixed2.0/Cluster Run 3 data.md",
     "1-projects/Teaching/Osher Fall Particle Physics Course.md",
     "0-inbox/CMU HGC Mac Meeting 5 November 2024.md",
     "Input/Meetings/October/HGC Mac testing Meeting 30 October 2024.md",

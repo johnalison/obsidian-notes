@@ -40,6 +40,7 @@
 - Testing the Run3 synthetic dataset `python runner.py -s -p skimmer/processor/make_declustered_data_4b.py -c skimmer/metadata/declustering_for_test_noTTSubtraction.yml -y 2022_EE  -d data  -op output/synthetic_dataset_make_dataset -o picoaod_datasets_declustered_test_2022_EE.yml -m metadata/datasets_HH4b_Run3_fourTag.yml`
 - Made clustering code agnostic of btagging algorithm
 - Remaking Synthetic datasets on **cmslpc322**.. locally...**215m32.777s**
+	`source  .ci-workflows/synthetic-dataset-make-dataset-all.sh `
 
 # Follow-ups
 
