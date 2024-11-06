@@ -72,4 +72,4 @@ Reading [[HGC TDR]]
 
 # Osher Class #1 
 - went well ! Newtons dream + Relativity + 1/2 QM 
-
+- [[Osher Fall Particle Physics Course]]
