@@ -54,16 +54,17 @@ M&T to school... early
 - [x] new input pdfs
 - [x] re:synthetic datasets
 - [[Cluster Run 3 data]]
-	- Trying on condor on cmslpc325:... ran in 76 min:  **349** **events/s total (****1593337****/****4561.965741157532****)**
+	- Trying on condor on cmslpc325:... ran in 76 min:  **349** events/s total (1593337/4561.965741157532)
 	`python runner.py  -o synthetic_datasets_cluster_Run3.coffea -d data  -p analysis/processors/processor_cluster_4b.py -y 2022_preEE 2022_EE 2023_preBPix 2023_BPix   -op hists/ -m metadata/datasets_HH4b_Run3_fourTag.yml -c analysis/metadata/cluster_4b_noTTSubtraction.yml --condor `
 - need to add `jet_clustering` to `condor_transfer_input_files`
 - making PDFS 00-08-01 recorded in [[Jet DeClustering]]
 	` python  jet_clustering/make_jet_splitting_PDFs.py hists/synthetic_datasets_cluster_Run3.coffea --years Run3   --out jet_clustering/jet-splitting-PDFs-00-08-01`
-- [ ] plot of clustering multiplicity types 
+- [x] plot of clustering multiplicity types 
 - Remaking synthetic data (on condor) cmslpc325.. outputs to /store/user/jda102/XX4b/2024_v2 .. finished in **45m2.045s**... no errors ! 
 - Making hists from new synthetic datasets on condor ... **27m52.183s** ... better local!
 - ` time python runner.py  -o synthetic_data_Run3_seedXXX-00-08-01.coffea -d  data synthetic_data -p analysis/processors/processor_HH4b.py -y 2022_preEE 2022_EE 2023_preBPix 2023_BPix  -op hists -c analysis/metadata/HH4b_run_fastTopReco.yml -m metadata/datasets_HH4b_Run3_fourTag.yml --condor  `
 - Made presentations with 00-08-01
+- Made plot comparing splitting type multiplicities 
 
 
 
@@ -85,3 +86,4 @@ Home.
 
 Some [[Nexus]]
 
+Made plot comparing splitting type multiplicities 
