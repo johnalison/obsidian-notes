@@ -77,3 +77,11 @@ Reading [[HGC TDR]]
 - went well ! Newtons dream + Relativity + 1/2 QM 
 - [[Osher Fall Particle Physics Course]]
 
+More [[Run3 Synthetic Data]]
+
+Prepping for Osher #2
+
+Home. 
+
+Some [[Nexus]]
+
