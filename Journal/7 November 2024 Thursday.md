@@ -16,7 +16,7 @@
 |     | ~~Lab Tech Interview~~ | AN answers |
 | 3   | Lab Tech Interview     |            |
 |     | Lab Tech Interview     |            |
-| 4   |                        |            |
+| 4   | HH4b Plots             |            |
 |     |                        |            |
 
 **W:**
@@ -35,7 +35,7 @@
 - [ ] Read HGC TDR
 - [ ] OSHER: Prep lecture 2 
 - [ ] OSHER: Send videos 
-- [ ] Plot for ttH and hbb
+- [x] Plot for ttH and hbb
 
 
 # Log
@@ -85,3 +85,8 @@ https://twiki.cern.ch/twiki/bin/view/CMSPublic/Run2HH4b
 - out!
 
 Drafted answers to AN comments. 
+
+Made ttH and ggH plots
+- `python -i analysis/iPlot.py --combine_input_files hists/histAll.coffea  hists/test_ttH_Hbb.coffea  -m analysis/metadata/plotsAll_wggHbb.yml`
+- `python -i analysis/iPlot.py --combine_input_files hists/histAll.coffea  hists/test_ttH_Hbb.coffea  -m analysis/metadata/plotsAll_wttH.yml`
+- [ ] Save PDFs in AN
