@@ -62,8 +62,11 @@ M&T to school... early
 - [ ] plot of clustering multiplicity types 
 - Remaking synthetic data (on condor) cmslpc325.. outputs to /store/user/jda102/XX4b/2024_v2 .. finished in **45m2.045s**... no errors ! 
 - Making hists from new synthetic datasets on condor ... **27m52.183s** ... better local!
-- ` time python runner.py  -o synthetic_data_Run3_seedXXX-00-08-01.coffea -d  data synthetic_data -p analysis/processors/processor_HH4b.py -y 2022_preEE 2022_EE 2023_preBPix 2023_BPix  -op hists -c analysis/metadata/HH4b_run_fastTopReco.yml -m m
-etadata/datasets_HH4b_Run3_fourTag.yml --condor  `
+- ` time python runner.py  -o synthetic_data_Run3_seedXXX-00-08-01.coffea -d  data synthetic_data -p analysis/processors/processor_HH4b.py -y 2022_preEE 2022_EE 2023_preBPix 2023_BPix  -op hists -c analysis/metadata/HH4b_run_fastTopReco.yml -m metadata/datasets_HH4b_Run3_fourTag.yml --condor  `
+- Made presentations with 00-08-01
+
+
+
 Reading [[HGC TDR]]
 
 # Hoops 
@@ -73,3 +76,4 @@ Reading [[HGC TDR]]
 # Osher Class #1 
 - went well ! Newtons dream + Relativity + 1/2 QM 
 - [[Osher Fall Particle Physics Course]]
+

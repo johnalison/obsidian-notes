@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-projects/Teaching/Osher Fall Particle Physics Course.md",
+                "file": "Journal/6 November 2024 Wednesday.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-projects/Teaching/Osher Fall Particle Physics Course.md",
+                "file": "Journal/6 November 2024 Wednesday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-projects/Teaching/Osher Fall Particle Physics Course.md",
+                "file": "Journal/6 November 2024 Wednesday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-projects/Teaching/Osher Fall Particle Physics Course.md"
+                "file": "Journal/6 November 2024 Wednesday.md"
               }
             }
           }
@@ -199,6 +199,7 @@
   },
   "active": "df65920f0a402d5d",
   "lastOpenFiles": [
+    "1-projects/Teaching/Osher Fall Particle Physics Course.md",
     "Journal/6 November 2024 Wednesday.md",
     "1-projects/Mixed2.0/Jet DeClustering.md",
     "Journal/5 November 2024 Tuesday.md",
@@ -218,7 +219,6 @@
     "Input/Learning List.md",
     "2-areas/coffea4bs/4b code base.md",
     "0-inbox/ARC HIG-24-017 Boosted VqqHbb.md",
-    "1-projects/Teaching/Osher Fall Particle Physics Course.md",
     "0-inbox/CMU HGC Mac Meeting 5 November 2024.md",
     "Input/Meetings/October/HGC Mac testing Meeting 30 October 2024.md",
     "Journal/November 2024.md",
