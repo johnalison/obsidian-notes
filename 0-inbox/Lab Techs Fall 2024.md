@@ -12,10 +12,12 @@ James Coleman: 2:00
 
 # Interview Questions
 
-- Tell us about yourself
+- Tell us about yourself?
+- Experience working in groups 
 - When would you be able to start
 - Contacts for reference 
 
+# Richard Bomgardner
 
 # Intro Email: 
 Dear XXX
