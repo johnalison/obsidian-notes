@@ -7,7 +7,15 @@ Andre Swain: open in the later afternoons, any day:  3:00
 richard: Tuesday or Thursday between 10am and 5pm eastern time would work for me.: 10:00
 James Coleman: 2:00
 
-Scheduled Interviews
+- Scheduled Interviews
+
+
+# Interview Questions
+
+- Tell us about yourself
+- When would you be able to start
+- Contacts for reference 
+
 
 # Intro Email: 
 Dear XXX
@@ -24,11 +32,12 @@ Let me know if you are available next week and what times work best for you. 
 john
 
 
+
 # Follow-ups
 
 
 # Links: 
-
+[[HGC]]
 
 
 202411011049

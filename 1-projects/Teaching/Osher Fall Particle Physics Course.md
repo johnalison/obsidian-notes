@@ -6,7 +6,7 @@ Press:
 https://x.com/physics_cmu/status/1811833634892186027?s=46
 
 # To Do
-- [ ] Test AV
+- [x] Test AV .. same as CMU
 - [ ] Prep course
 - [ ] Videos for those who miss ?
 

@@ -51,7 +51,6 @@ M & T to school
 # [[Run3 Synthetic Data]]
 - See Daily's above
 
-
 [[4b code base]] 
 - [<<] RunII and Run3 options to sum over the proper years
 
@@ -83,7 +82,7 @@ Review [[Fall 2024]]
 
 Kids to get flu shots
 
-Schullis for Pizza slices
+# Schullis for Pizza slices
 
 Finished AN [[ARC HIG-24-017 Boosted VqqHbb]] questions
 

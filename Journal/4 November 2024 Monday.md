@@ -50,7 +50,7 @@ H at work with me
 # [[Run3 Synthetic Data]]
 - See Daily's above
 
-Supervision is not a job of giving orders; it is a job of providing the opportunity for people to use their capabilities efficiently and effectively.
+Supervision is not a job of giving orders; it is a job of providing the opportunity for people to use their capabilities efficiently and effectively.  >> [[Leadership]]
 
 [[Lab Techs Fall 2024]]
 - Sent mails

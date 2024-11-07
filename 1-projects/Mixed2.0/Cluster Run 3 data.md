@@ -31,7 +31,14 @@ Log about work to cluster Run-3 data.
 - Running the synthetic dataset making on **cmslpc301
 
 
+[[5 November 2024 Tuesday]]
+- Re running clustering with new btagging  on **cmslpc348**.... killed ! 
+	`python runner.py  -o synthetic_datasets_cluster_Run3.coffea -d data  -p analysis/processors/processor_cluster_4b.py -y 2022_preEE 2022_EE 2023_preBPix 2023_BPix   -op hists/ -m metadata/datasets_HH4b_Run3_fourTag.yml -c analysis/metadata/cluster_4b_noTTSubtraction.yml`
+ - ... Killed after **60/161** **[1:10:49
 
+[[6 November 2024 Wednesday]]
+- Trying on condor on cmslpc325:... ran in 76 min:  **349** events/s total (1593337/4561.965741157532)
+	`python runner.py  -o synthetic_datasets_cluster_Run3.coffea -d data  -p analysis/processors/processor_cluster_4b.py -y 2022_preEE 2022_EE 2023_preBPix 2023_BPix   -op hists/ -m metadata/datasets_HH4b_Run3_fourTag.yml -c analysis/metadata/cluster_4b_noTTSubtraction.yml --condor `
 
 # Follow-ups
 
