@@ -9,7 +9,15 @@ James Coleman: 2:00
 
 - Scheduled Interviews
 
+# Engineer pay
+25th percentile:  $ 70,574  
+50th percentile:  $ 75,521  
+75th percentile:  $ 81,132
 
+# Lab Tech Pay
+ 25% is $27.44/hour. **53508.0**
+ 50th percentile:  $ **57253.
+75th percentile:  $ 61261.
 # Interview Questions
 
 - Tell us about yourself?
@@ -18,6 +26,10 @@ James Coleman: 2:00
 - Contacts for reference 
 
 # Richard Bomgardner
+- Definietly qualified:  Has experience reviving shop and working on HEP construction
+- Only downside is relocation 
+- Salary?
+
 
 # Intro Email: 
 Dear XXX

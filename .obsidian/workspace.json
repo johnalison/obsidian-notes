@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/Lab Techs Fall 2024.md",
+                "file": "Journal/7 November 2024 Thursday.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/Lab Techs Fall 2024.md",
+                "file": "Journal/7 November 2024 Thursday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/Lab Techs Fall 2024.md",
+                "file": "Journal/7 November 2024 Thursday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/Lab Techs Fall 2024.md"
+                "file": "Journal/7 November 2024 Thursday.md"
               }
             }
           }
@@ -223,7 +223,11 @@
   },
   "active": "df65920f0a402d5d",
   "lastOpenFiles": [
+    "0-inbox/Lab Techs Fall 2024.md",
     "Journal/7 November 2024 Thursday.md",
+    "0-inbox/How I Use Obsidian Zettelkasten to Study AI & Tech Topics.md",
+    "0-inbox/USCMS Analysis Support Position.md",
+    "1-projects/Mixed2.0/Jet DeClustering.md",
     "Journal/6 November 2024 Wednesday.md",
     "1-projects/Mixed2.0/Run3 Synthetic Data.md",
     "1-projects/Mixed2.0/Cluster Run 3 data.md",
@@ -236,8 +240,6 @@
     "Journal/1 November 2024 Friday.md",
     "Journal/October/31 October 2024 Thursday.md",
     "1-projects/Teaching/Osher Fall Particle Physics Course.md",
-    "0-inbox/Lab Techs Fall 2024.md",
-    "1-projects/Mixed2.0/Jet DeClustering.md",
     "0-inbox/HGC TDR.md",
     "2-areas/Personal/CryptoMoves.md",
     "0-inbox/ToDo.md",
@@ -247,8 +249,6 @@
     "Input/Learning List.md",
     "2-areas/coffea4bs/4b code base.md",
     "0-inbox/ARC HIG-24-017 Boosted VqqHbb.md",
-    "0-inbox/CMU HGC Mac Meeting 5 November 2024.md",
-    "Input/Meetings/October/HGC Mac testing Meeting 30 October 2024.md",
     "Journal/#June 2024.md#",
     "Journal/October",
     "Input/Meetings/October",
