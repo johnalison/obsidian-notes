@@ -30,7 +30,7 @@
 
 # To Do
 - [ ] Prepare answers to AN comments
-- [ ] Setup Twiki
+- [x] Setup Twiki
 - [ ] Re-skim Run3
 - [ ] Read HGC TDR
 - [ ] OSHER: Prep lecture 2 
@@ -77,3 +77,5 @@ https://twiki.cern.ch/twiki/bin/view/CMS/HiggsBB#VBF_H_cc_AN1
 # Gym
 - Core / Row / Lift / Butterflies
 
+Setup twiki for Run3 HH4b: 
+https://twiki.cern.ch/twiki/bin/view/CMSPublic/Run2HH4b
