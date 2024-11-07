@@ -52,7 +52,7 @@ work by 8:15 !
 # [[Run3 Synthetic Data]]
 - Ideas for improvements... Do TTSubtraction add ttbar ps data
 - Try to improve selected jet multiplicity
-- Compare mixed to synthetic to fourtag
+- [ ] Compare mixed to synthetic to threeTag
 
 # FBC2 
 
@@ -72,4 +72,8 @@ https://twiki.cern.ch/twiki/bin/view/CMS/HiggsBB#VBF_H_cc_AN1
 
 
 # bbWW
-- 
+
+
+# Gym
+- Core / Row / Lift / Butterflies
+
