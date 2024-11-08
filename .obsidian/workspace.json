@@ -78,9 +78,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9c4674baa6218840",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-inbox/HH4b Run2 check consistency of years.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d6646bb8b8cf0975",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00-Zettelkasten/Naive Limit Combination.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -147,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/USCMS Analysis Support Position.md",
+                "file": "0-inbox/HH4b Run2 check consistency of years.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/USCMS Analysis Support Position.md",
+                "file": "0-inbox/HH4b Run2 check consistency of years.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +211,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/USCMS Analysis Support Position.md"
+                "file": "0-inbox/HH4b Run2 check consistency of years.md"
               }
             }
           }
@@ -210,10 +234,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b962980b2f04630f",
+  "active": "9c4674baa6218840",
   "lastOpenFiles": [
-    "Journal/8 November 2024 Friday.md",
+    "00-Zettelkasten/Naive Limit Combination.md",
+    "0-inbox/HH4b Run2 check consistency of years.md",
     "0-inbox/USCMS Analysis Support Position.md",
+    "Journal/8 November 2024 Friday.md",
     "Journal/October 2024.md",
     "Journal/November 2024.md",
     "0-inbox/ProgressReport 8 November 2024.md",
@@ -236,8 +262,6 @@
     "Journal/October/31 October 2024 Thursday.md",
     "1-projects/Teaching/Osher Fall Particle Physics Course.md",
     "0-inbox/HGC TDR.md",
-    "2-areas/Personal/CryptoMoves.md",
-    "Input/Meetings/October/CMU HGC Mac Meeting 29 October 2024.md",
     "Journal/#June 2024.md#",
     "Journal/October",
     "Input/Meetings/October",

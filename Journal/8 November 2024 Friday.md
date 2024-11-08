@@ -73,3 +73,14 @@ Compiing the AN
 Drafting letter [[USCMS Analysis Support Position]]
 
 Fixing the AN compilation ... problem seems to be the TEXINPUTS... 
+- maybe working
+- [ ] Fine tune TEXINPUTS 
+
+# HEP Lunch 
+
+# 4b chat 
+- Lots of progress... no Sindhu
+- [ ] Add ZZ/ZH studies to slides
+- [ ] [[HH4b Run2 check consistency of years]]
+- CL good progress on classifier studies: 20 min with data and ttbar
+
