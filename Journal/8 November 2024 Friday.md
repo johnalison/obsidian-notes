@@ -59,3 +59,17 @@ Jessica recomenda Andre... OK with me.
 
 Compiing the AN
 - intslling texlive: `brew install texlive`
+**brew uninstall basictex**
+**brew install mactex-no-gui**
+# Gabija Chat
+- [ ] Send links to P5 / snowmass reports ect
+	- https://www.usparticlephysics.org/2023-p5-report/
+	- https://arxiv.org/abs/2209.14136
+
+# Chat Lindsey Gray
+- [[USCMS Analysis Support Position]]
+- 
+
+Drafting letter [[USCMS Analysis Support Position]]
+
+Fixing the AN compilation ... problem seems to be the TEXINPUTS... 
