@@ -42,18 +42,17 @@ L3 /
 
 # Draft
 
-Writing to recommend Alejandro Espinosa and excited about this oppurtunity 
-He has been a postdoc in my group focusing on search for HH->4b and calibrating low pT (down to ~8 GeV) jets 
+I am writing to recommend Alejandro Espinosa for the USCMS Analysis Support position.  Alejandro is a postdoc in my group focusing on search for HH->4b and calibrating low pT (down to ~8 GeV) jets and is excited about this opportunity. 
 
-At CMU, four active factuly persuing wide range of anaalysis, have made a concerted effort to coordinate backend anlaysis effort around coffea (Cremonesi, Dutta, Pauilin). Currently have ten students all preforming separate thesis topics using coffea.    (students: Park / Durgut/ Roberts / Aniket / CL / Erdem / Murthy / Daniel/ Joy /  )
-Ale point person in teh CMU group to onboard students and new postdocs to use coffea at CMU.  He active on the coffea matter most channel (user name: algomez) and has developed tutorial DAS and CAT that rely on coffea. [1]
+We have a fairly large CMS group at CMU, we have four active faculty members supervising over a dozen students perusing wide range of analyses. We have made a concerted effort to coordinate all analyses the around coffea.  Alejandro is the point person in our group to onboard students and new postdocs to use coffea at CMU.  He has been integral in shaping the big picture software layout and is our boots on the ground in supporting students using the code base. 
 
-Alejandro has migrated and existing c++- (old link) based frame (used in HIG-22-011) to a coffea/python - based frame work  https://gitlab.cern.ch/cms-cmu/coffea4bees. Veryified reproducibility and significantly improved preformace what used to take an hour (with ~200 condor jobs in c++) now runs locally on a sinlge LPC node in 15min.
+Alejandro is active on the coffea, CAT and Reana mattermost channels (user name: algomez) and has developed a number of tutorials that rely on coffea. He recently lead the  CMSDAS/HAT jet tutorials: [https://cms-jet.github.io/JMEDAS]  where he migrated an older c++/python-based tutorial to use coffea. He is currently preparing for CAT about Snakemake/REANA: [https://alefisico.github.io/reana-tutorial/Snakemake.html](https://alefisico.github.io/reana-tutorial/Snakemake.html) to be given in XXXX
 
-Adapted modern programing practices in the coffeaforbs code
-CIs / unittests reAna
+Alejandro has migrated and existing c++-based framework (https://github.com/patrickbryant/ZZ4b) (used in HIG-22-011) to a coffea/python - based frame work  https://gitlab.cern.ch/cms-cmu/coffea4bees we are using in the HH->4b analysis.  Veryified reproducibility and significantly improved preformace what used to take an hour (with ~200 condor jobs in c++) now runs locally on a sinlge LPC node in 15min.  He has pushed to Adapted modern programing development practices in the coffeaforbs code CIs / unittests reAna. 
+I was recluctant at first, but now cannot image running a combined project anyother way. 
+Over 30 checks from unit tests of the baseclass to test of the combined skiming->processing->histogram->cutflow workflow. 
 
-L3 CAT position
+In addition Alejandro is currently serving as the convener (L3) of the Workflow Orchestration and Analysis Preservation group within CAT. This subgroup has the responsibility for the support, management, and development of tools for the orchestration of physics analysis workflows, promoting tools that ease the long-term reproducibility of analyses.
 
 
 Currently 
@@ -87,6 +86,9 @@ develop prototype workflow
 Understand and standardize practices
 
 Build a community of problem solving: documentaiton via working workflow and user support 
+
+# Notes
+ Currently have ten students all preforming separate thesis topics using coffea.    (students: Park / Durgut/ Roberts / Aniket / CL / Erdem / Murthy / Daniel/ Joy /  )
 
 # References 
 [1] Tutorials
