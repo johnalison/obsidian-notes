@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/7 November 2024 Thursday.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d798f7ba4c348667",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-projects/Mixed2.0/Run3 Synthetic Data.md",
+                "file": "Journal/8 November 2024 Friday.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,24 +32,12 @@
             }
           },
           {
-            "id": "4394e28613065d04",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Journal/7 November 2024 Thursday.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "261f75c73b52e7af",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/ToDo.md",
+                "file": "Journal/8 November 2024 Friday.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,19 +49,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/5 November 2024 Tuesday.md",
+                "file": "0-inbox/ProgressReport 8 November 2024.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a15acff7ab21689e",
+            "id": "40bf971abeb95084",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-projects/Mixed2.0/Jet DeClustering.md",
+                "file": "Output/ProgressReports/ProgressReport 25 October 2024.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/7 November 2024 Thursday.md",
+                "file": "Journal/8 November 2024 Friday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/7 November 2024 Thursday.md",
+                "file": "Journal/8 November 2024 Friday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/7 November 2024 Thursday.md"
+                "file": "Journal/8 November 2024 Friday.md"
               }
             }
           }
@@ -223,32 +199,32 @@
   },
   "active": "df65920f0a402d5d",
   "lastOpenFiles": [
-    "0-inbox/Lab Techs Fall 2024.md",
+    "Journal/October 2024.md",
+    "Journal/November 2024.md",
+    "0-inbox/ProgressReport 8 November 2024.md",
+    "Output/ProgressReports/ProgressReport 25 October 2024.md",
+    "Journal/8 November 2024 Friday.md",
+    "1-projects/Mixed2.0/Cluster Run 3 data.md",
     "Journal/7 November 2024 Thursday.md",
+    "0-inbox/ToDo.md",
+    "1-projects/Mixed2.0/Jet DeClustering.md",
+    "0-inbox/Lab Techs Fall 2024.md",
+    "Journal/5 November 2024 Tuesday.md",
+    "Journal/6 November 2024 Wednesday.md",
+    "Journal/4 November 2024 Monday.md",
+    "Journal/3 November 2024 Sunday.md",
+    "Journal/2 November 2024 Saturday.md",
+    "Journal/1 November 2024 Friday.md",
+    "1-projects/Mixed2.0/Run3 Synthetic Data.md",
     "0-inbox/How I Use Obsidian Zettelkasten to Study AI & Tech Topics.md",
     "0-inbox/USCMS Analysis Support Position.md",
-    "1-projects/Mixed2.0/Jet DeClustering.md",
-    "Journal/6 November 2024 Wednesday.md",
-    "1-projects/Mixed2.0/Run3 Synthetic Data.md",
-    "1-projects/Mixed2.0/Cluster Run 3 data.md",
-    "Journal/5 November 2024 Tuesday.md",
-    "Journal/4 November 2024 Monday.md",
-    "Journal/2 November 2024 Saturday.md",
     "Input/Reliability.md",
     "Input/Leadership.md",
-    "Journal/3 November 2024 Sunday.md",
-    "Journal/1 November 2024 Friday.md",
     "Journal/October/31 October 2024 Thursday.md",
     "1-projects/Teaching/Osher Fall Particle Physics Course.md",
     "0-inbox/HGC TDR.md",
     "2-areas/Personal/CryptoMoves.md",
-    "0-inbox/ToDo.md",
     "Input/Meetings/October/CMU HGC Mac Meeting 29 October 2024.md",
-    "0-inbox/Quotes.md",
-    "Journal/October/30 October 2024 Wednesday.md",
-    "Input/Learning List.md",
-    "2-areas/coffea4bs/4b code base.md",
-    "0-inbox/ARC HIG-24-017 Boosted VqqHbb.md",
     "Journal/#June 2024.md#",
     "Journal/October",
     "Input/Meetings/October",

@@ -26,10 +26,16 @@ James Coleman: 2:00
 - Contacts for reference 
 
 # Richard Bomgardner
-- Definietly qualified:  Has experience reviving shop and working on HEP construction
+- Definitely qualified:  Has experience reviving shop and working on HEP construction
 - Only downside is relocation 
 - Salary?
 
+# James R Coleman
+- Definitely no
+
+# Andre Swain
+- Would probably be fine
+- Local 
 
 # Intro Email: 
 Dear XXX

@@ -25,7 +25,7 @@ Read [[Nobel Prize Physics 2024]]
 # Farnam Street Wisdom
 “People spend too much time on the last 24 hours and not enough time on the last 6,000 years.”
 — Will Durant
-
+To  [[Quotes]]
 
 If an opinion contrary to your own makes you angry, that is a sign that you are subconsciously aware of having no good reason for thinking as you do.
 -- Bertrand Russell 

@@ -17,11 +17,11 @@
 | 3   | Lab Tech Interview     |            |
 |     | Lab Tech Interview     |            |
 | 4   | HH4b Plots             |            |
-|     |                        |            |
+|     | HH4b Plots             |            |
 
-**W:**
-**DW:**
-**OT:**
+**W:** 7
+**DW:** 1
+**OT:**. 0
 **ex** or **No ex**
 
 # The ONE thing: 
@@ -31,10 +31,10 @@
 # To Do
 - [x] Prepare answers to AN comments
 - [x] Setup Twiki
-- [ ] Re-skim Run3
-- [ ] Read HGC TDR
-- [ ] OSHER: Prep lecture 2 
-- [ ] OSHER: Send videos 
+- [<<] Re-skim Run3
+- [>>] Read HGC TDR
+- [>>] OSHER: Prep lecture 2 
+- [>>] OSHER: Send videos 
 - [x] Plot for ttH and hbb
 
 
@@ -52,14 +52,13 @@ work by 8:15 !
 # [[Run3 Synthetic Data]]
 - Ideas for improvements... Do TTSubtraction add ttbar ps data
 - Try to improve selected jet multiplicity
-- [ ] Compare mixed to synthetic to threeTag
+- [>>] Compare mixed to synthetic to threeTag
 
 # FBC2 
-
+- "JCM-like" correction degrades FvT closure in Run-3
 
 # Interview with Richard Bomgardner
 - See [[Lab Techs Fall 2024]]
-
 
 
 - Pinged Lindsey and David re: [[USCMS Analysis Support Position]]
@@ -86,14 +85,22 @@ https://twiki.cern.ch/twiki/bin/view/CMSPublic/Run2HH4b
 
 Drafted answers to AN comments. 
 
+# Interview Andre Swain
+- Would be fine
+
+Answers to some AN questions
+
 Made ttH and ggH plots
 - `python -i analysis/iPlot.py --combine_input_files hists/histAll.coffea  hists/test_ttH_Hbb.coffea  -m analysis/metadata/plotsAll_wggHbb.yml --out plotsAll_ggHbb`
 - `python -i analysis/iPlot.py --combine_input_files hists/histAll.coffea  hists/test_ttH_Hbb.coffea  -m analysis/metadata/plotsAll_wttH.yml --out plotsAll_wttH`
-- [ ] Save PDFs in AN
+- [x] Save PDFs in AN
+- [>>] Fix AN compile
 
 Home with M&T 
 
 Some [[Nexus]]
 
 Make three-tag ggHbb plots
+
+Some [[How I Use Obsidian Zettelkasten to Study AI & Tech Topics]]
 
