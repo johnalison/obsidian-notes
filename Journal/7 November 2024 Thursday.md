@@ -87,6 +87,6 @@ https://twiki.cern.ch/twiki/bin/view/CMSPublic/Run2HH4b
 Drafted answers to AN comments. 
 
 Made ttH and ggH plots
-- `python -i analysis/iPlot.py --combine_input_files hists/histAll.coffea  hists/test_ttH_Hbb.coffea  -m analysis/metadata/plotsAll_wggHbb.yml`
-- `python -i analysis/iPlot.py --combine_input_files hists/histAll.coffea  hists/test_ttH_Hbb.coffea  -m analysis/metadata/plotsAll_wttH.yml`
+- `python -i analysis/iPlot.py --combine_input_files hists/histAll.coffea  hists/test_ttH_Hbb.coffea  -m analysis/metadata/plotsAll_wggHbb.yml --out plotsAll_ggHbb`
+- `python -i analysis/iPlot.py --combine_input_files hists/histAll.coffea  hists/test_ttH_Hbb.coffea  -m analysis/metadata/plotsAll_wttH.yml --out plotsAll_wttH`
 - [ ] Save PDFs in AN
