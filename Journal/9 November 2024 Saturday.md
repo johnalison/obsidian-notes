@@ -19,3 +19,11 @@ Giant Eagle for Risotto inputs
 - [ ] OSHER: Send videos 
 
 Some [[OnGrandStrategy]]
+
+
+![](https://www.youtube.com/watch?v=FrTq_m1pLz8)
+
+Space-time, QM and the multiverse:
+- Why are the law physics different in the differnet vaccua ?
+- 
+
