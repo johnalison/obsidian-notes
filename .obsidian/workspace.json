@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/9 November 2024 Saturday.md",
+                "file": "Input/Dharma/StagesOfAwaking.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/9 November 2024 Saturday.md",
+                "file": "Input/Dharma/StagesOfAwaking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/9 November 2024 Saturday.md",
+                "file": "Input/Dharma/StagesOfAwaking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/9 November 2024 Saturday.md"
+                "file": "Input/Dharma/StagesOfAwaking.md"
               }
             }
           }
@@ -199,10 +199,10 @@
   },
   "active": "df65920f0a402d5d",
   "lastOpenFiles": [
+    "Journal/9 November 2024 Saturday.md",
     "Journal/8 November 2024 Friday.md",
     "Output/Recommendation  Letters/USCMS Analysis Support Position.md",
     "Output/ProgressReports/ProgressReport 8 November 2024.md",
-    "Journal/9 November 2024 Saturday.md",
     "0-inbox/Potential of Insight.md",
     "Journal/7 November 2024 Thursday.md",
     "Journal/2 November 2024 Saturday.md",
