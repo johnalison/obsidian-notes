@@ -9,7 +9,7 @@ These should be on Daily's page  !
 - [ ] CAM Training
 - [ ] Read HGC TDR
 - [ ] Collect and Send Teachers program info
-- [ ] CMU Security Course
+- [x] CMU Security Course
 - [ ] Synthetic datasets for boosted
 - [ ] Apply for more bridges money
 

@@ -4,7 +4,7 @@ Fantastic
 [[Mindfullness]]
 
 
-#Consume. Turn these in to permenant notes!
+
 
 - Purpose of the Direct approach is to evoke a spiritual awakening of your essential nature, beyond the mind. This awakening fundamentally changes who you take yourself to be and how you experience reality.
 
@@ -12,8 +12,12 @@ Fantastic
   - Most of us take ourselves to be a separate someone. Localized in time and space and identified with the body and life history.
     	 We identify with a narrative, we take it to be who we really are. and perpetuate it. Most of us never question this identity.
 
+
+
 - Spiritual awakening is the direct discovery that you are not who you take yourself to be. Instead you are the timeless presence, the always already awake awareness in which life unfolds.
    You're not an object, a thing, or a person. You are the eternal subject, which can never itself become objectified as a separate something or someone.
+
+#Consume. Turn these in to permenant notes!
 
 - Series of Stages (Sometimes collapsed to a single experience, but for most people happens over time)
 
