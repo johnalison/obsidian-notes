@@ -38,6 +38,7 @@ effective self-improvement critical
 # Don't Lie
  Evil only possible through lies
  [[Not lying the foundation of morality]]
+ [[Character building as focal point]]
 
 # [[BeTheGood - Intelligent ACTION is power]]
 
