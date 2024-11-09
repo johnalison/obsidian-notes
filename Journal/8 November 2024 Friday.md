@@ -30,8 +30,8 @@
 
 # To Do
 - [ ] Read HGC TDR
-- [ ] OSHER: Prep lecture 2 
-- [ ] OSHER: Send videos 
+- [>>] OSHER: Prep lecture 2 
+- [>>] OSHER: Send videos 
 - [ ] Compare mixed to synthetic to threeTag
 - [ ] Fix AN compile
 - [ ] AN Questions
@@ -54,7 +54,7 @@ Jessica recomenda Andre... OK with me.
 - will ping for visit next week
 - pinged
 
-# Compiing the AN
+# Compiling the AN
 - intslling texlive: `brew install texlive`
 - `brew uninstall basictex`
 - `brew install mactex-no-gui`
@@ -87,6 +87,7 @@ More AN compilation fixing... see above
 - [ ] Add ZZ/ZH studies to slides
 - [x] [[HH4b Run2 check consistency of years]]
 - CL good progress on classifier studies: 20 min with data and ttbar
+- AE has varible binning fits going
 
 # CMU CMS
 - Not much 

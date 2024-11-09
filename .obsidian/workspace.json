@@ -4,107 +4,70 @@
     "type": "split",
     "children": [
       {
-        "id": "76759e190f2b31ab",
-        "type": "split",
+        "id": "e348bad75ed3ae17",
+        "type": "tabs",
         "children": [
           {
-            "id": "e348bad75ed3ae17",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "df65920f0a402d5d",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Input/Dharma/StagesOfAwaking.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "8359b20c1f28f50e",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Journal/9 November 2024 Saturday.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "40bf971abeb95084",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Journal/9 November 2024 Saturday.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "b962980b2f04630f",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "0-inbox/USCMS Analysis Support Position.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "9c4674baa6218840",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "0-inbox/USCMS Analysis Support Position.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
+            "id": "df65920f0a402d5d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Journal/9 November 2024 Saturday.md",
+                "mode": "source",
+                "source": false
               }
-            ]
+            }
           },
           {
-            "id": "788477471a35399a",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "2cc72e1797b4d442",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "0-inbox/Potential of Insight.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "ff80c6f79d8f9c47",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "0-inbox/Our Default Point of View.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
+            "id": "8359b20c1f28f50e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-inbox/Potential of Insight.md",
+                "mode": "source",
+                "source": false
               }
-            ]
+            }
+          },
+          {
+            "id": "40bf971abeb95084",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Journal/9 November 2024 Saturday.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b962980b2f04630f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Output/Recommendation  Letters/USCMS Analysis Support Position.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9c4674baa6218840",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Output/Recommendation  Letters/USCMS Analysis Support Position.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,7 +86,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#consume",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -150,7 +113,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -170,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/Potential of Insight.md",
+                "file": "Journal/9 November 2024 Saturday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/Potential of Insight.md",
+                "file": "Journal/9 November 2024 Saturday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/Potential of Insight.md"
+                "file": "Journal/9 November 2024 Saturday.md"
               }
             }
           }
@@ -233,24 +197,26 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2cc72e1797b4d442",
+  "active": "df65920f0a402d5d",
   "lastOpenFiles": [
-    "Input/Dharma/StagesOfAwaking.md",
+    "Journal/8 November 2024 Friday.md",
+    "Output/Recommendation  Letters/USCMS Analysis Support Position.md",
+    "Output/ProgressReports/ProgressReport 8 November 2024.md",
+    "Journal/9 November 2024 Saturday.md",
     "0-inbox/Potential of Insight.md",
+    "Journal/7 November 2024 Thursday.md",
+    "Journal/2 November 2024 Saturday.md",
+    "Input/Dharma/StagesOfAwaking.md",
     "0-inbox/We are a point of view, not a separate thing.md",
     "0-inbox/Our Default Point of View.md",
-    "Journal/9 November 2024 Saturday.md",
-    "Output/ProgressReports/ProgressReport 8 November 2024.md",
     "Output/ProgressReports/ProgressReport 25 October 2024.md",
     "0-inbox/Untitled.md",
-    "Journal/8 November 2024 Friday.md",
     "0-inbox/Character building as focal point.md",
     "Input/Books/Libertarianism-A-primer.md",
     "Journal/July/14 July 24 Sunday.md",
     "Input/DontLie.md",
     "1-projects/Mixed2.0/Cluster Run 3 data.md",
     "00-Zettelkasten/Action-Now.md",
-    "0-inbox/USCMS Analysis Support Position.md",
     "0-inbox/Tool List.md",
     "0-inbox/ToDo.md",
     "0-inbox/Things-To-Add-To-Notes.md",
@@ -259,8 +225,6 @@
     "0-inbox/Numba.md",
     "0-inbox/Nexus.md",
     "0-inbox/MPL Chaos Experiment.md",
-    "2-areas/CMS/Low mass di-electrons.md",
-    "0-inbox/Lab Techs Fall 2024.md",
     "Journal/#June 2024.md#",
     "Journal/October",
     "Input/Meetings/October",

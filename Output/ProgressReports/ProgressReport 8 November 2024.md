@@ -8,7 +8,7 @@ AE is now looking into the variable binning. This is the big action item before 
 
 CL is studying the impact of the JCM on the FvT fits. This is very timely as the Run-3 sees that there is a degradation when correcting nJets first. He is also looking into the effect that using ttbar in the FvT training has on the closure.
 
-Still not much progress from Sindhu.  She is looking into runTwoStage closure but hasnt gotten past first-order bugs. She is still struggling to make the double peak plots that I made in 5 mins....
+Still not much progress from Sindhu.  She is looking into runTwoStage closure but hasn't gotten past first-order bugs. She is still struggling to make the double peak plots that I made in 5 mins....
 
 # HGC 
 HGC action picking up.  We did a first round of interviews and have two promising candidates. I would suggest trying to get the guy from Oregon and then falling back on Andre, will see what Jessica thinks.  I will probably defer to her judgement here. Lots of ordering of equipment following the SB site visit. We are getting parts for the pre-production. 
