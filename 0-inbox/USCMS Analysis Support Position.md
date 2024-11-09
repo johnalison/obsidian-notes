@@ -40,7 +40,9 @@ L3 /
 - social model 
 - develop culture around thi
 
-# Draft
+# Drafting
+
+https://docs.google.com/document/d/1cVXUWrh8gHO5zrLXeNNF0yi7A_qM8VJ8_HrtaYYvRaA/edit?tab=t.0
 
 I am writing to recommend Alejandro Espinosa for the USCMS Analysis Support position. Alejandro is a postdoc in my group, focusing on HH→4b and on extending the jet calibration to low pT (8 GeV). He has been an invaluable asset in our group and is excited about this new opportunity. **He is well qualified for this role:** Alejandro has experience migrating pipelines to coffea, holds a leadership position in a closely-related CMS Common Analysis Tools (CAT) subgroup, and has substantial experience growing and supporting a group of coffea users at CMU. 
 

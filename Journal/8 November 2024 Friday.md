@@ -19,10 +19,10 @@
 | 4   | [[USCMS Analysis Support Position]] |     |
 |     | Social                              |     |
 
-**W:**
-**DW:**
-**OT:**
-**ex** or **No ex**
+**W:**. 8 
+**DW:** 2
+**OT:** 0
+**No ex**
 
 # The ONE thing: 
 - [ ] AN questions 
@@ -37,7 +37,7 @@
 - [ ] AN Questions
 - [ ] Quantify variation among synthetic datasets 
 - [x] Links to Run2 HH presentation this summer
-- [ ] Resolved+Boosted kλ combination
+- [AE] Resolved+Boosted kλ combination
 
 
 # Log
@@ -46,37 +46,40 @@ Up at 6 ! T screaming for S
 
 M & T to school ... office by 8:15 ! 
 
-
-
 [[ProgressReport 8 November 2024]]
 
-# Thinking about HH at future colliders:
-- Plots of counts: ggF / VHF / ttHH
-- Simple scaling by lumi and x-section
-- https://indico.cern.ch/event/1461211/contributions/6197642/attachments/2955975/5197631/ColliderReachCompare.pdf
+# Thinking about [[HH at future colliders]]:
 
-Jessica recomenda Andre... OK with me. 
+Jessica recomenda Andre... OK with me.
+- will ping for visit next week
+- pinged
 
-Compiing the AN
+# Compiing the AN
 - intslling texlive: `brew install texlive`
-**brew uninstall basictex**
-**brew install mactex-no-gui**
+- `brew uninstall basictex`
+- `brew install mactex-no-gui`
+- Playing around with TEXINPUTS ... 
+- Fixing the AN compilation ... problem seems to be the TEXINPUTS... 
+- maybe working
+- [ ] Fine tune TEXINPUTS 
+- Still failing !!!!
+- https://twiki.cern.ch/twiki/bin/viewauth/CMS/Internal/TdrProcessing
+
+
 # Gabija Chat
-- [ ] Send links to P5 / snowmass reports ect
+- [x] Send links to P5 / snowmass reports ect
 	- https://www.usparticlephysics.org/2023-p5-report/
 	- https://arxiv.org/abs/2209.14136
 
 # Chat Lindsey Gray
 - [[USCMS Analysis Support Position]]
 
-Drafting letter [[USCMS Analysis Support Position]]
+# Drafting letter [[USCMS Analysis Support Position]]
 
-Fixing the AN compilation ... problem seems to be the TEXINPUTS... 
-- maybe working
-- [ ] Fine tune TEXINPUTS 
-- Still failing !!!!
+More AN compilation fixing... see above
 
 # HEP Lunch 
+- Not much ...
 
 # 4b chat 
 - Lots of progress... no Sindhu
@@ -85,14 +88,18 @@ Fixing the AN compilation ... problem seems to be the TEXINPUTS...
 - CL good progress on classifier studies: 20 min with data and ttbar
 
 # CMU CMS
+- Not much 
 
-More drafting letter for AE
+More drafting letter for AE... see above
 
 # Grad Social
 
 Home with M & T 
 
-Draft of AE reccomendation letter.
+Draft of AE reccomendation letter:
+  https://docs.google.com/document/d/1cVXUWrh8gHO5zrLXeNNF0yi7A_qM8VJ8_HrtaYYvRaA/edit?tab=t.0
 - sent to AE
 - [ ] Due Sunday !!!
 
+
+[[How I Use Obsidian Zettelkasten to Study AI & Tech Topics]]
