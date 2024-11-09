@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/How I Use Obsidian Zettelkasten to Study AI & Tech Topics.md",
+                "file": "0-inbox/MPL Chaos Experiment.md",
                 "mode": "source",
                 "source": false
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/How I Use Obsidian Zettelkasten to Study AI & Tech Topics.md",
+                "file": "0-inbox/MPL Chaos Experiment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/How I Use Obsidian Zettelkasten to Study AI & Tech Topics.md",
+                "file": "0-inbox/MPL Chaos Experiment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/How I Use Obsidian Zettelkasten to Study AI & Tech Topics.md"
+                "file": "0-inbox/MPL Chaos Experiment.md"
               }
             }
           }
@@ -235,32 +235,32 @@
   },
   "active": "df65920f0a402d5d",
   "lastOpenFiles": [
-    "Journal/8 November 2024 Friday.md",
-    "0-inbox/HH at future colliders.md",
-    "Input/Meetings/July/Chat with Elliot about future hadron colliders 9 July 2024.md",
-    "0-inbox/USCMS Analysis Support Position.md",
-    "00-Zettelkasten/Naive Limit Combination.md",
-    "0-inbox/HH4b Run2 check consistency of years.md",
-    "Journal/October 2024.md",
-    "Journal/November 2024.md",
-    "0-inbox/ProgressReport 8 November 2024.md",
-    "Output/ProgressReports/ProgressReport 25 October 2024.md",
-    "1-projects/Mixed2.0/Cluster Run 3 data.md",
-    "Journal/7 November 2024 Thursday.md",
-    "0-inbox/ToDo.md",
-    "1-projects/Mixed2.0/Jet DeClustering.md",
+    "0-inbox/Low mass di-electrons.md",
     "0-inbox/Lab Techs Fall 2024.md",
-    "Journal/5 November 2024 Tuesday.md",
-    "Journal/6 November 2024 Wednesday.md",
-    "Journal/4 November 2024 Monday.md",
-    "Journal/3 November 2024 Sunday.md",
-    "Journal/2 November 2024 Saturday.md",
-    "Journal/1 November 2024 Friday.md",
-    "1-projects/Mixed2.0/Run3 Synthetic Data.md",
     "0-inbox/How I Use Obsidian Zettelkasten to Study AI & Tech Topics.md",
-    "Input/Reliability.md",
-    "Input/Leadership.md",
-    "Journal/October/31 October 2024 Thursday.md",
+    "0-inbox/High-School Physics Teachers Program.md",
+    "0-inbox/HH4b Run2 check consistency of years.md",
+    "0-inbox/CMU 4b Chat 1 November  2024.md",
+    "0-inbox/Chat w Wes 5 November 2024.md",
+    "0-inbox/Building Fermilab.md",
+    "0-inbox/ARC HIG-24-017 Boosted VqqHbb.md",
+    "0-inbox/AnalysesOverview.excalidraw.md",
+    "0-inbox/5391 Financing.md",
+    "0-inbox/Numba.md",
+    "0-inbox/ProgressReport 8 November 2024.md",
+    "0-inbox/Quotes.md",
+    "0-inbox/StartupSpending.md",
+    "0-inbox/Things-To-Add-To-Notes.md",
+    "0-inbox/ToDo.md",
+    "0-inbox/Tool List.md",
+    "0-inbox/USCMS Analysis Support Position.md",
+    "0-inbox/Waiting for.md",
+    "Input/Papers/Nobel Prize Physics 2024.md",
+    "0-inbox/HGC Transfer Tape BCR.md",
+    "0-inbox/HGC TDR.md",
+    "0-inbox/HGC WADs.md",
+    "Journal/8 November 2024 Friday.md",
+    "Journal/7 November 2024 Thursday.md",
     "Journal/#June 2024.md#",
     "Journal/October",
     "Input/Meetings/October",

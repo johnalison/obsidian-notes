@@ -70,6 +70,7 @@ Jessica recomenda Andre... OK with me.
 - [x] Send links to P5 / snowmass reports ect
 	- https://www.usparticlephysics.org/2023-p5-report/
 	- https://arxiv.org/abs/2209.14136
+- [ ] Send meeting reminder Dec 13th !
 
 # Chat Lindsey Gray
 - [[USCMS Analysis Support Position]]
