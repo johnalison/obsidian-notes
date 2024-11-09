@@ -35,25 +35,51 @@ Address how and to fullfill the requirements
 hightlihgt helping people in the group adpoted by umber of people
 L3 / 
 
-- docuumentation/ user support
+- documentation/ user support
 - grow 
 - social model 
 - develop culture around thi
 
 # Draft
 
-I am writing to recommend Alejandro Espinosa for the USCMS Analysis Support position.  Alejandro is a postdoc in my group focusing on search for HH->4b and calibrating low pT (down to ~8 GeV) jets and is excited about this opportunity. 
+I am writing to recommend Alejandro Espinosa for the USCMS Analysis Support position. Alejandro is a postdoc in my group, focusing on HH→4b and on extending the jet calibration to low pT (8 GeV). He has been an invaluable asset in our group and is excited about this new opportunity. **He is well qualified for this role:** Alejandro has experience migrating pipelines to coffea, holds a leadership position in a closely-related CMS Common Analysis Tools (CAT) subgroup, and has substantial experience growing and supporting a group of coffea users at CMU. 
 
-We have a fairly large CMS group at CMU, we have four active faculty members supervising over a dozen students perusing wide range of analyses. We have made a concerted effort to coordinate all analyses the around coffea.  Alejandro is the point person in our group to onboard students and new postdocs to use coffea at CMU.  He has been integral in shaping the big picture software layout and is our boots on the ground in supporting students using the code base. 
+At CMU, we have a large CMS group with four active faculty members supervising over a dozen students engaged in a wide range of analyses. Our group has made a concerted effort to coordinate all analyses around the use of coffea. Alejandro serves our point person for onboarding students and new postdocs. He has been integral in both shaping the overall software structure and providing ongoing support to our code base’s users.
 
-Alejandro is active on the coffea, CAT and Reana mattermost channels (user name: algomez) and has developed a number of tutorials that rely on coffea. He recently lead the  CMSDAS/HAT jet tutorials: [https://cms-jet.github.io/JMEDAS]  where he migrated an older c++/python-based tutorial to use coffea. He is currently preparing for CAT about Snakemake/REANA: [https://alefisico.github.io/reana-tutorial/Snakemake.html](https://alefisico.github.io/reana-tutorial/Snakemake.html) to be given in XXXX
+Alejandro is active on the coffea, CAT, and reAna Mattermost channels (username: algomez) and has developed several tutorials centered on coffea. Recently, he led the CMSDAS/HATS jet tutorials[1] where he migrated an older C++/python-based tutorial to use coffea. He is currently developing a Snakemake/REANA tutorial[2] for an upcoming CAT hackathon.
 
-Alejandro has migrated and existing c++-based framework (https://github.com/patrickbryant/ZZ4b) (used in HIG-22-011) to a coffea/python - based frame work  https://gitlab.cern.ch/cms-cmu/coffea4bees we are using in the HH->4b analysis.  Veryified reproducibility and significantly improved preformace what used to take an hour (with ~200 condor jobs in c++) now runs locally on a sinlge LPC node in 15min.  He has pushed to Adapted modern programing development practices in the coffeaforbs code CIs / unittests reAna. 
-I was recluctant at first, but now cannot image running a combined project anyother way. 
-Over 30 checks from unit tests of the baseclass to test of the combined skiming->processing->histogram->cutflow workflow. 
+In the HH→4b analysis, Alejandro migrated an existing C++-based framework [3]—used in HIG-22-011—to a coffea/python-based framework [4], now our standard for this analysis. This migration the development of reproducibility tools and led to significant performance gains. What used to take an hour with ~200 Condor jobs in c++ now runs locally on a single LPC node in just 15 minutes. Alejandro has also driven the adoption of modern programming practices, including continuous integration (CI), extensive use of unit tests, and regular result replication with reAna. Initially, I was reluctant to invest in this infrastructure, but now I can't imagine running a collaborative software project any other way. Our code now runs over 30 CI checks for each merge request, covering everything from unit tests of base class functions to end-to-end tests of the skimming→processing→histogram→cutflow pipeline. Alejandro's efforts have made the codebase more robust, the entire team more productive, and has given students valuable experience transferable beyond HEP.
 
-In addition Alejandro is currently serving as the convener (L3) of the Workflow Orchestration and Analysis Preservation group within CAT. This subgroup has the responsibility for the support, management, and development of tools for the orchestration of physics analysis workflows, promoting tools that ease the long-term reproducibility of analyses.
+Alejandro currently serves as the convener (L3) of the Workflow Orchestration and Analysis Preservation group within CAT, a subgroup focused on orchestrating analysis workflows and promoting long-term reproducibility of analyses.. This role aligns well with Analysis Support responsibilities, particularly in maintaining performance stability as software evolves.
 
+# Plan for Analysis Support Role
+
+In the Analysis Support role, Alejandro's primary goal would be to grow the coffea user base and support community across USCMS. Building on his experience with CMU’s group, he would survey existing options, evaluate performance, and document best practices for coffea adoption, creating a foundation to engage a wider community.
+
+Alejandro’s initial focus would be to prototype three types of workflows: (1) a POG calibration pipeline, (2) a “simple,” mostly data-driven analysis, and (3) a complex MC-heavy analysis involving a combined fit with multiple control regions. His jet calibration and coffeafourbs code bases will serve as starting points for the first two prototypes. The third prototype will leverage the HH→bbWW analysis with support from one of my PhD students who is performing this analysis for his thesis.
+
+**Building community “from the POG up”**: After establishing these prototypes, Alejandro would focus on integrating best practices within CMS POGs, starting with JETMET, where he has relevant experience. With the L2 JetMET convener (Cremonesi) at CMU, we anticipate strong support at the iCMS level. The next steps would involve Flavour Tagging (already a partial coffea user) and then later the other object groups. Building at the POG level will enable him to create a foundation of students proficient in these tools, effectively developing a community of users and experts who would then go on to re-use the infrastructure for their thesis work. This strategy will also natural develop POG-supported tools to serve as further examples. 
+
+One potential gap is that Alejandro (and my group) has limited experience with RDataFrame. To address this, he would leverage connections within CAT to gain the necessary expertise.
+
+In summary, I believe Alejadro would be be an excellent fit for this position. He brings the required experience and enthusiasm, and his current work aligns well with the position’s goals. As PI, I would fully support Alejandro in this role, with my groups resources and graduate students, along with broader CMU network. This opportunity aligns well with my group’s priorities, and I am confident that Alejandro’s contributions will make a substantial impact.
+
+
+john
+
+
+
+# Refernces 
+[1] ([https://cms-jet.github.io/JMEDAS](https://cms-jet.github.io/JMEDAS)),
+[2] ([https://alefisico.github.io/reana-tutorial/Snakemake.html](https://alefisico.github.io/reana-tutorial/Snakemake.html))
+[3] ([https://github.com/patrickbryant/ZZ4b](https://github.com/patrickbryant/ZZ4b))
+[4] ([https://gitlab.cern.ch/cms-cmu/coffea4bees](https://gitlab.cern.ch/cms-cmu/coffea4bees))
+
+Understand and standardize practices
+
+Build a community of problem solving: documentaiton via working workflow and user support 
+
+# Notes
 
 Currently 
 - c++ -> coffea framework https://gitlab.cern.ch/cms-cmu/coffea4bees
@@ -74,6 +100,7 @@ ZZ4b c++ -> coffeaa
 helped many peolp in the group adopt coffea
 Postdoc at CMU 
 
+ Currently have ten students all preforming separate thesis topics using coffea.    (students: Park / Durgut/ Roberts / Aniket / CL / Erdem / Murthy / Daniel/ Joy /  )
 
 ## Future:
 develop prototype workflow
@@ -81,14 +108,6 @@ develop prototype workflow
 - "complex" MC heavy
 - POG calibration work with start JET/MET, profile btag and expand to other groups
 - push CI: Snakemake
-
-
-Understand and standardize practices
-
-Build a community of problem solving: documentaiton via working workflow and user support 
-
-# Notes
- Currently have ten students all preforming separate thesis topics using coffea.    (students: Park / Durgut/ Roberts / Aniket / CL / Erdem / Murthy / Daniel/ Joy /  )
 
 # References 
 [1] Tutorials

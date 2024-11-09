@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/USCMS Analysis Support Position.md",
+                "file": "Journal/8 November 2024 Friday.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/HH4b Run2 check consistency of years.md",
+                "file": "0-inbox/USCMS Analysis Support Position.md",
                 "mode": "source",
                 "source": false
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/HH4b Run2 check consistency of years.md",
+                "file": "0-inbox/USCMS Analysis Support Position.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/HH4b Run2 check consistency of years.md",
+                "file": "0-inbox/USCMS Analysis Support Position.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,7 +211,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/HH4b Run2 check consistency of years.md"
+                "file": "0-inbox/USCMS Analysis Support Position.md"
               }
             }
           }
@@ -236,10 +236,10 @@
   },
   "active": "9c4674baa6218840",
   "lastOpenFiles": [
+    "Journal/8 November 2024 Friday.md",
+    "0-inbox/USCMS Analysis Support Position.md",
     "00-Zettelkasten/Naive Limit Combination.md",
     "0-inbox/HH4b Run2 check consistency of years.md",
-    "0-inbox/USCMS Analysis Support Position.md",
-    "Journal/8 November 2024 Friday.md",
     "Journal/October 2024.md",
     "Journal/November 2024.md",
     "0-inbox/ProgressReport 8 November 2024.md",

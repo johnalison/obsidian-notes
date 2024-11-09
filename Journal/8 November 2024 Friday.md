@@ -1,23 +1,23 @@
 # Timeblock
 
-|     | setup           |     |
-| --- | --------------- | --- |
-| 9   | Progress Report |     |
-|     | Progress Report |     |
-| 10  | Gabija          |     |
-|     | Gabija          |     |
-| 11  | Lindsey         |     |
-|     | Lindsey         |     |
-| 12  | HEP Lunch       |     |
-|     | HEP Lunch       |     |
-| 1   | HEP Lunch       |     |
-|     |                 |     |
-| 2   | 4b Chat         |     |
-|     | 4b Chat         |     |
-| 3   | CMU CMS         |     |
-|     | CMU CMS         |     |
-| 4   |                 |     |
-|     |                 |     |
+|     | setup                               |     |
+| --- | ----------------------------------- | --- |
+| 9   | Progress Report                     |     |
+|     | Progress Report                     |     |
+| 10  | Gabija                              |     |
+|     | Gabija                              |     |
+| 11  | Lindsey                             |     |
+|     | Lindsey                             |     |
+| 12  | HEP Lunch                           |     |
+|     | HEP Lunch                           |     |
+| 1   | HEP Lunch                           |     |
+|     | [[USCMS Analysis Support Position]] |     |
+| 2   | 4b Chat                             |     |
+|     | 4b Chat                             |     |
+| 3   | CMU CMS                             |     |
+|     | CMU CMS                             |     |
+| 4   | [[USCMS Analysis Support Position]] |     |
+|     | Social                              |     |
 
 **W:**
 **DW:**
@@ -50,10 +50,10 @@ M & T to school ... office by 8:15 !
 
 [[ProgressReport 8 November 2024]]
 
-Thinking about HH at future colliders:
+# Thinking about HH at future colliders:
 - Plots of counts: ggF / VHF / ttHH
 - Simple scaling by lumi and x-section
-
+- https://indico.cern.ch/event/1461211/contributions/6197642/attachments/2955975/5197631/ColliderReachCompare.pdf
 
 Jessica recomenda Andre... OK with me. 
 
@@ -68,19 +68,29 @@ Compiing the AN
 
 # Chat Lindsey Gray
 - [[USCMS Analysis Support Position]]
-- 
 
 Drafting letter [[USCMS Analysis Support Position]]
 
 Fixing the AN compilation ... problem seems to be the TEXINPUTS... 
 - maybe working
 - [ ] Fine tune TEXINPUTS 
+- Still failing !!!!
 
 # HEP Lunch 
 
 # 4b chat 
 - Lots of progress... no Sindhu
 - [ ] Add ZZ/ZH studies to slides
-- [ ] [[HH4b Run2 check consistency of years]]
+- [x] [[HH4b Run2 check consistency of years]]
 - CL good progress on classifier studies: 20 min with data and ttbar
+
+# CMU CMS
+
+More drafting letter for AE
+
+# Grad Social
+
+Home with M & T 
+
+Draft of AE reccomendation letter.
 
