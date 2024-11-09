@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/8 November 2024 Friday.md",
+                "file": "0-inbox/USCMS Analysis Support Position.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,8 +103,7 @@
               }
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -234,7 +233,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9c4674baa6218840",
+  "active": "df65920f0a402d5d",
   "lastOpenFiles": [
     "Journal/8 November 2024 Friday.md",
     "0-inbox/USCMS Analysis Support Position.md",
