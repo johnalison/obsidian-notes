@@ -1,5 +1,5 @@
 Paid: 
-- Paid $550 for 5391 appraisal order #121339985 is ready for payment.
+- Paid $550 for 5391 appraisal order #121339985 is ready for payment. RETURNED !!!
 - Paid Home inspections $795.00
 - Paid  $100 for 720 appraisal order 241022029
 - Mason $300 
