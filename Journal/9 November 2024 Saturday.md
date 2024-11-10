@@ -27,3 +27,7 @@ Space-time, QM and the multiverse:
 - Why are the law physics different in the differnet vaccua ?
 - 
 
+Made Risotto 
+
+# Angle/Mark/Mark/Cheryl 
+- Average at best
