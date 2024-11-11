@@ -58,3 +58,5 @@ Pinged Andre re:visit
 # Hoops
 - 3s and 4s... Good Runs
 
+[[Whose Standards are too high?]]
+
