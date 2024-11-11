@@ -34,10 +34,10 @@
 - [ ] Compare mixed to synthetic to threeTag
 - [ ] Fix AN compile
 	- [ ] Fine tune TEXINPUTS for local compile
-- [ ]  AN Questions
+- [x]  AN Questions
 - [ ]  Quantify variation among synthetic datasets 
 - [x] Add ZZ/ZH studies to slides
-- [ ] OSHER: Send videos 
+- [x] OSHER: Send videos 
 - [ ] LabTech Round 2: Jr Tech
 
 
