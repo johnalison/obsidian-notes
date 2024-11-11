@@ -36,7 +36,7 @@
 	- [ ] Fine tune TEXINPUTS for local compile
 - [ ]  AN Questions
 - [ ]  Quantify variation among synthetic datasets 
-- [ ] Add ZZ/ZH studies to slides
+- [x] Add ZZ/ZH studies to slides
 - [ ] OSHER: Send videos 
 - [ ] LabTech Round 2: Jr Tech
 
@@ -55,4 +55,6 @@ Pinged Andre re:visit
 # Stats Chat
 - Discussion of Profile background in the SR
 
+# Hoops
+- 3s and 4s... Good Runs
 
