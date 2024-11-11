@@ -52,3 +52,7 @@ Pinged Andre re:visit
 
 [[Why hasn't economic progress lowered work hours more?]]
 
+# Stats Chat
+- Discussion of Profile background in the SR
+
+
