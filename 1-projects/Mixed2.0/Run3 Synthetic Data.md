@@ -42,6 +42,14 @@
 - Remaking Synthetic datasets on **cmslpc322**.. locally...**215m32.777s**
 	`source  .ci-workflows/synthetic-dataset-make-dataset-all.sh `
 
+[[5 November 2024 Tuesday]]
+- [x] recluster with new selection.. running see below
+- [>>] new input pdfs
+- [>>] re:synthetic datasets
+- Making hists from new synthetic datasets locally ... **14m47.720s**
+- Making processor agnostic of btag algorithm... Pushed
+- [x] Fix CI...v1
+- [x] Update CERN/box slides and send mail
 
 [[6 November 2024 Wednesday]]
 - [x] new input pdfs
@@ -57,6 +65,12 @@
 - ` time python runner.py  -o synthetic_data_Run3_seedXXX-00-08-01.coffea -d  data synthetic_data -p analysis/processors/processor_HH4b.py -y 2022_preEE 2022_EE 2023_preBPix 2023_BPix  -op hists -c analysis/metadata/HH4b_run_fastTopReco.yml -m metadata/datasets_HH4b_Run3_fourTag.yml --condor  `
 - Made presentations with 00-08-01
 - Made plot comparing splitting type multiplicities 
+
+
+[[7 November 2024 Thursday]]
+- Ideas for improvements... Do TTSubtraction add ttbar ps data
+- Try to improve selected jet multiplicity
+- [>>] Compare mixed to synthetic to threeTag
 
 # Follow-ups
 

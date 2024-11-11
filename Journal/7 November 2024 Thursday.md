@@ -50,9 +50,7 @@ work by 8:15 !
 [[Lab Techs Fall 2024]]
 
 # [[Run3 Synthetic Data]]
-- Ideas for improvements... Do TTSubtraction add ttbar ps data
-- Try to improve selected jet multiplicity
-- [>>] Compare mixed to synthetic to threeTag
+- see Daily's
 
 # FBC2 
 - "JCM-like" correction degrades FvT closure in Run-3
@@ -66,19 +64,14 @@ work by 8:15 !
 # [[How I Use Obsidian Zettelkasten to Study AI & Tech Topics]]
 
 
-Starting to setup twiki page for answers here:
-https://twiki.cern.ch/twiki/bin/view/CMS/HiggsBB#VBF_H_cc_AN1
-
+# Setup twiki for Run3 HH4b: 
+https://twiki.cern.ch/twiki/bin/view/CMSPublic/Run2HH4b
 
 # bbWW
 
 
 # Gym
 - Core / Row / Lift / Butterflies
-
-Setup twiki for Run3 HH4b: 
-https://twiki.cern.ch/twiki/bin/view/CMSPublic/Run2HH4b
-
 
 # Interview James Coleman
 - out!

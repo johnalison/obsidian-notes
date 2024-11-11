@@ -16,7 +16,7 @@ some [[Nexus]]
 Giant Eagle for Risotto inputs
 
 - [x] OSHER: Prep lecture 2 
-- [ ] OSHER: Send videos 
+- [>>] OSHER: Send videos 
 
 Some [[OnGrandStrategy]]
 

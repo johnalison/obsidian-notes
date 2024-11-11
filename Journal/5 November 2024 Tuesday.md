@@ -45,13 +45,7 @@ Up at 645
 Voted ... No ID needed ... not worth the ROI !
 
 # [[Run3 Synthetic Data]]
-- [x] recluster with new selection.. running see below
-- [>>] new input pdfs
-- [>>] re:synthetic datasets
-- Making hists from new synthetic datasets locally ... **14m47.720s**
-- Making processor agnostic of btag algorithm... Pushed
-- [x] Fix CI...v1
-- [x] Update CERN/box slides and send mail
+- See dailys above
 
 [[Chat w Wes 5 November 2024]]
 

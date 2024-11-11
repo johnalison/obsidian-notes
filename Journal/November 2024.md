@@ -7,9 +7,9 @@
 | 5  T | (Election Day) Vote / [[Run3 Synthetic Data]] / w/kids / ARC reviewing          | 5/2/2 |
 | 6  W | (Osher #1) Trump /  re-clustering / HGC TDR / **Hoops** / **Osher**             | 7/5/2 |
 | 7  H | (Lab Tech Interviews) Chat:AE USCMS position / **Gym** / AN questions           | 7/1/0 |
-| 8  F |                                                                                 |       |
-| 9  S |                                                                                 |       |
-| 10 S |                                                                                 |       |
+| 8  F | Progress Report / Gabija / USCMS 1/2 FTE / HEPLunch / Social                    | 8/2/0 |
+| 9  S | zettlekasten ! / AE Letter of Support / Osher #2 / Risitto / Dinner Party       |       |
+| 10 S | Reading / **Gym** / Leak in Teddys room / Internet down / Parents               |       |
 | 11 M | (Lab Tours)                                                                     |       |
 | 12 T | (Lab Tours)                                                                     |       |
 | 13 W | (Osher #2) (Update in Hbb)                                                      |       |
