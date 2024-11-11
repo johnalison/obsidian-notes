@@ -32,11 +32,12 @@
 - [x] Ping Andre Again 
 - [ ] Read HGC TDR
 - [ ] Compare mixed to synthetic to threeTag
-- [ ] Fix AN compile
+- [x] Fix AN compile
 	- [ ] Fine tune TEXINPUTS for local compile
 - [x]  AN Questions
 - [ ]  Quantify variation among synthetic datasets 
 - [x] Add ZZ/ZH studies to slides
+- [ ] Add ZZ/ZH study to AN
 - [x] OSHER: Send videos 
 - [ ] LabTech Round 2: Jr Tech
 
@@ -60,3 +61,14 @@ Pinged Andre re:visit
 
 [[Whose Standards are too high?]]
 
+# Got the AN to compile !
+- problem was the  `eval `utils/tdr runtime -sh`` ... the Makefile already knew the answer
+- Still problem with the docker version... FIX
+- got docker working need to download 
+
+Finished 1st pass at AN comments
+
+# Colloq: How to make sense of physical aging ?
+- Stephan Boettcher...uses Peter Yunker's data
+- [[How is Steel made ?]]
+- BAILED 
