@@ -10,8 +10,8 @@
 | 8  F | Progress Report / Gabija / USCMS 1/2 FTE / HEPLunch / Social                    | 8/2/0 |
 | 9  S | zettlekasten ! / AE Letter of Support / Osher #2 / Risitto / Dinner Party       |       |
 | 10 S | Reading / **Gym** / Leak in Teddys room / Internet down / Parents               |       |
-| 11 M | (Lab Tours)                                                                     |       |
-| 12 T | (Lab Tours)                                                                     |       |
+| 11 M | Slides for AE / **Hoops** / AN compiling / All sit/eat at dining table!         | 7/0/2 |
+| 12 T |                                                                                 |       |
 | 13 W | (Osher #2) (Update in Hbb)                                                      |       |
 | 14 H |                                                                                 |       |
 | 15 F | (Steph Away)                                                                    |       |

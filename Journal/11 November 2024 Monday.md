@@ -1,27 +1,27 @@
 # Timeblock
 
-|     |             |     |
-| --- | ----------- | --- |
-| 9   |             |     |
-|     |             |     |
-| 10  | Stats Chat  |     |
-|     | Stats Chat  |     |
-| 11  | CMU         |     |
-|     | Hoops       |     |
-| 12  | Hoops       |     |
-|     | Hoops       |     |
-| 1   | Hoops       |     |
-|     |             |     |
-| 2   |             |     |
-|     | Chat Sindhu |     |
-| 3   |             |     |
-|     |             |     |
-| 4   |             |     |
-|     |             |     |
+|     | setup          |     |
+| --- | -------------- | --- |
+| 9   | slides for  AE |     |
+|     | slides for  AE |     |
+| 10  | Stats Chat     |     |
+|     | Stats Chat     |     |
+| 11  | CMU CMS        |     |
+|     | Hoops          |     |
+| 12  | Hoops          |     |
+|     | Hoops          |     |
+| 1   | Hoops          |     |
+|     | Working AN     |     |
+| 2   | Working AN     |     |
+|     | Chat Sindhu    |     |
+| 3   | Working AN     |     |
+|     | Colloq         |     |
+| 4   | More AN        |     |
+|     | More AN        |     |
 
-**W:**
-**DW:**
-**OT:**
+**W:**. 7 
+**DW:** 0 
+**OT:**  2 
 **ex** or **No ex**
 
 # The ONE thing: 
@@ -30,16 +30,16 @@
 
 # To Do
 - [x] Ping Andre Again 
-- [ ] Read HGC TDR
-- [ ] Compare mixed to synthetic to threeTag
+- [>>] Read HGC TDR
+- [>>] Compare mixed to synthetic to threeTag
 - [x] Fix AN compile
-	- [ ] Fine tune TEXINPUTS for local compile
+	- [>>] Fine tune TEXINPUTS for local compile
 - [x]  AN Questions
-- [ ]  Quantify variation among synthetic datasets 
+- [>>]  Quantify variation among synthetic datasets 
 - [x] Add ZZ/ZH studies to slides
-- [ ] Add ZZ/ZH study to AN
+- [>>] Add ZZ/ZH study to AN
 - [x] OSHER: Send videos 
-- [ ] LabTech Round 2: Jr Tech
+- [>>] LabTech Round 2: Jr Tech
 
 
 # Log
@@ -66,9 +66,17 @@ Pinged Andre re:visit
 - Still problem with the docker version... FIX
 - got docker working need to download 
 
-Finished 1st pass at AN comments
+Finished 1st pass at AN comments:
+	https://twiki.cern.ch/twiki/bin/view/CMSPublic/Run2HH4b
 
 # Colloq: How to make sense of physical aging ?
 - Stephan Boettcher...uses Peter Yunker's data
 - [[How is Steel made ?]]
 - BAILED 
+
+
+Home w M&T
+
+All eat and sit at the dinner table !
+
+slept in basement again
