@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/Chat w Wes 12 November 2024.md",
+                "file": "Journal/12 November 2024 Tuesday.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chat w Wes 12 November 2024"
+              "title": "12 November 2024 Tuesday"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/Chat w Wes 12 November 2024.md",
+                "file": "Journal/12 November 2024 Tuesday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Chat w Wes 12 November 2024"
+              "title": "Backlinks for 12 November 2024 Tuesday"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/Chat w Wes 12 November 2024.md",
+                "file": "Journal/12 November 2024 Tuesday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Chat w Wes 12 November 2024"
+              "title": "Outgoing links from 12 November 2024 Tuesday"
             }
           },
           {
@@ -155,10 +155,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/Chat w Wes 12 November 2024.md"
+                "file": "Journal/12 November 2024 Tuesday.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Chat w Wes 12 November 2024"
+              "title": "Outline of 12 November 2024 Tuesday"
             }
           }
         ],
@@ -182,8 +182,8 @@
   },
   "active": "9c4674baa6218840",
   "lastOpenFiles": [
-    "Journal/12 November 2024 Tuesday.md",
     "0-inbox/Chat w Wes 12 November 2024.md",
+    "Journal/12 November 2024 Tuesday.md",
     "Journal/11 November 2024 Monday.md",
     "Journal/November 2024.md",
     "Journal/10 November 2024 Sunday.md",

@@ -29,13 +29,14 @@
 
 
 # To Do
-- [ ] Call Andre References
+- [x] Call Andre References
 - [ ] Read HGC TDR
 - [ ] Fine tune TEXINPUTS for local compile
 - [ ] Quantify variation among synthetic datasets
 - [ ] Compare mixed to synthetic to threeTag
-- [ ] Add ZZ/ZH study to AN
+- [x] Add ZZ/ZH study to AN
 - [ ] LabTech Round 2: Jr Tech
+- [ ] Reply to Andre
 
 
 # Log
@@ -48,4 +49,10 @@ To campus
 
 [[Chat w Wes 12 November 2024]]
 
+Chat Ira, Roy
 
+Working AN 
+
+Called Swains refernces:
+- Jorgen Pedersen- +1 (412) 398-0949-RE2 Robotics (CEO)
+- Mario Campagna- (724) 561-4934-RE2 Robotics (Principal Mechanical Engineer / Supervisor)
