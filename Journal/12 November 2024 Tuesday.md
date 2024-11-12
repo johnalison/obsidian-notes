@@ -1,23 +1,23 @@
 # Timeblock
 
-|     | w/kids      |     |
-| --- | ----------- | --- |
-| 9   | setup       |     |
-|     | Wes         |     |
-| 10  | AN          |     |
-|     | AN          |     |
-| 11  | AN          |     |
-|     | AN          |     |
-| 12  | HGC         |     |
-|     | HGC         |     |
-| 1   | home w/kids |     |
-|     |             |     |
-| 2   |             |     |
-|     |             |     |
-| 3   |             |     |
-|     |             |     |
-| 4   |             |     |
-|     |             |     |
+|     | w/kids                 |     |
+| --- | ---------------------- | --- |
+| 9   | setup                  |     |
+|     | Wes                    |     |
+| 10  | AN                     |     |
+|     | AN                     |     |
+| 11  | AN                     |     |
+|     | AN                     |     |
+| 12  | HGC                    |     |
+|     | HGC                    |     |
+| 1   | home w/kids            |     |
+|     | w/kids                 |     |
+| 2   | To PITT Campus         |     |
+|     | mails / random         |     |
+| 3   | mails / random         |     |
+|     |                        |     |
+| 4   | Computing talk at PITT |     |
+|     | Computing talk at PITT |     |
 
 **W:**
 **DW:**
@@ -31,12 +31,13 @@
 # To Do
 - [x] Call Andre References
 - [ ] Read HGC TDR
-- [ ] Fine tune TEXINPUTS for local compile
+- [x] Fine tune TEXINPUTS for local compile
 - [ ] Quantify variation among synthetic datasets
 - [ ] Compare mixed to synthetic to threeTag
 - [x] Add ZZ/ZH study to AN
-- [ ] LabTech Round 2: Jr Tech
-- [ ] Reply to Andre
+- [x] LabTech Round 2: Jr Tech
+- [x] Reply to Andre
+- [x] [[Computer Directory Setup]]
 
 
 # Log
@@ -67,3 +68,15 @@ Home ... put T down.
 
 to Pitt for Lecture
 
+# Looked at Junior Lab Tech CVs:
+- Joshua Kipiller (412) 303-4996. jtk5567@gmail.com  
+- Khalil R. Nobles  412-478-8848 | khalilrnobles@gmail.com |  
+- Connor L. Mosebey  ⎸clmosebey@gmail.com
+
+Invitation for PGSS next year
+
+# [[The Tech Professional's Guide to Accelerated Learning]]
+
+[[Computer Directory Setup]]
+
+[[Computing Challenges For Large Particle Physics Experiments]]
