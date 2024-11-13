@@ -33,6 +33,7 @@
 - [ ]  Read HGC TDR
 - [ ] Quantify variation among synthetic datasets
 - [ ] Compare mixed to synthetic to threeTag
+- [ ] ARC comments
 
 [[ToDo]]
 
@@ -61,4 +62,12 @@ AN: https://cms.cern.ch/iCMS/jsp/db_notes/noteInfo.jsp?cmsnoteid=CMS%20AN-2024/0
 - Strong message on ZZ/ZH SR not really effecting HH SR
 - min not at 2.5 ?
 
-HIstograms to cutflow
+- [ ] HIstograms to cutflow
+- [ ] colors
+
+
+# Hoops 
+- 3s,  4s and 5s played well no shots.
+
+
+
