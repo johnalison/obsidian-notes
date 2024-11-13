@@ -51,3 +51,12 @@ M & T to school
 Pinged Josh for  [[Lab Techs Fall 2024]]... waiting on input for others.
 
 Reviewed AE slides in Hbb
+
+AN: https://cms.cern.ch/iCMS/jsp/db_notes/noteInfo.jsp?cmsnoteid=CMS%20AN-2024/089
+
+
+# [[Hbb Meeting 13 November 2024]]
+- https://indico.cern.ch/event/1451198/#b-579879-higgs-to-bb- 
+- Good talk 
+- Strong message on ZZ/ZH SR not really effecting HH SR
+- min not at 2.5 ?
