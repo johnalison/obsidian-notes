@@ -71,3 +71,9 @@ AN: https://cms.cern.ch/iCMS/jsp/db_notes/noteInfo.jsp?cmsnoteid=CMS%20AN-2024/0
 
 Working plots. 
 
+# Osher Lecture 2
+- went well. 
+- Gave email to someone from NYC, maybe do remote
+
+
+
