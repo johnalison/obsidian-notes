@@ -13,7 +13,15 @@ https://www.betonit.ai/p/whose-standards-are-too-high?utm_source=post-email-titl
 
 # Politicians all have to attack this system to justify: govement regulation and government speading
 - Subtext of all political speaches ... "I have found it necessary to deny the free market in order to make room for government".... (Compare: “I have found it necessary to deny reason in order to make room for faith.”-- Kant)
-- Common a
+
+# Common complaints agianst the free market
+- sometime leads to monopoly, need to step in 
+- sometimes customers have imperfect information
+- Externalities 
+- People dont give enough to charity
+- sometimes people fail to hire the best person
+
+Politicians standards for the free market are too high
 
 # Follow-ups
 

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/Computing Challenges For Large Particle Physics Experiments.md",
+                "file": "Journal/12 November 2024 Tuesday.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Computing Challenges For Large Particle Physics Experiments"
+              "title": "12 November 2024 Tuesday"
             }
           },
           {
@@ -63,7 +63,8 @@
               "title": "CMU HGC Mac Meeting 5 November 2024"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -136,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/Computing Challenges For Large Particle Physics Experiments.md",
+                "file": "0-inbox/Whose Standards are too high?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Computing Challenges For Large Particle Physics Experiments"
+              "title": "Backlinks for Whose Standards are too high?"
             }
           },
           {
@@ -155,12 +156,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/Computing Challenges For Large Particle Physics Experiments.md",
+                "file": "0-inbox/Whose Standards are too high?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Computing Challenges For Large Particle Physics Experiments"
+              "title": "Outgoing links from Whose Standards are too high?"
             }
           },
           {
@@ -182,10 +183,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/Computing Challenges For Large Particle Physics Experiments.md"
+                "file": "0-inbox/Whose Standards are too high?.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Computing Challenges For Large Particle Physics Experiments"
+              "title": "Outline of Whose Standards are too high?"
             }
           }
         ],
@@ -207,11 +208,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "eb90154d71ae18db",
+  "active": "628c826ef22a44af",
   "lastOpenFiles": [
     "Journal/12 November 2024 Tuesday.md",
-    "0-inbox/Whose Standards are too high?.md",
     "0-inbox/Computing Challenges For Large Particle Physics Experiments.md",
+    "0-inbox/Whose Standards are too high?.md",
     "Journal/11 November 2024 Monday.md",
     "0-inbox/Computer Directory Setup.md",
     "Input/Blogs/The Tech Professional's Guide to Accelerated Learning.md",

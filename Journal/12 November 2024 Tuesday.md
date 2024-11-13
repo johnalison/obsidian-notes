@@ -80,3 +80,9 @@ Invitation for PGSS next year
 [[Computer Directory Setup]]
 
 [[Computing Challenges For Large Particle Physics Experiments]]
+
+Home 
+
+Chat w/Lynn re:Buying ETH
+
+
