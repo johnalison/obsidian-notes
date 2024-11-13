@@ -25,7 +25,7 @@
 **ex** or **No ex**
 
 # The ONE thing: 
-- [ ] 
+- [ ] L3 Comments
 
 
 # To Do
@@ -49,3 +49,5 @@ M & T to school
 48 Hexaboards being shipped this week from CERN
 
 Pinged Josh for  [[Lab Techs Fall 2024]]... waiting on input for others.
+
+Reviewed AE slides in Hbb
