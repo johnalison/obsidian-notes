@@ -2,15 +2,15 @@
 
 |     | setup          |     |
 | --- | -------------- | --- |
-| 9   |                |     |
-|     |                |     |
+| 9   | Arc comments   |     |
+|     | Arc comments   |     |
 | 10  | Hbb            |     |
 |     | Hbb            |     |
-| 11  |                |     |
+| 11  | Chat AE        |     |
 |     | Hoops          |     |
 | 12  | Hoops          |     |
 |     | Hoops          |     |
-| 1   |                |     |
+| 1   | plotting       |     |
 |     |                |     |
 | 2   |                |     |
 |     | Osher Course 2 |     |
@@ -63,11 +63,11 @@ AN: https://cms.cern.ch/iCMS/jsp/db_notes/noteInfo.jsp?cmsnoteid=CMS%20AN-2024/0
 - min not at 2.5 ?
 
 - [ ] HIstograms to cutflow
-- [ ] colors
+- [x] colors
 
 
 # Hoops 
 - 3s,  4s and 5s played well no shots.
 
-
+Working plots. 
 
