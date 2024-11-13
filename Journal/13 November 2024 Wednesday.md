@@ -11,17 +11,17 @@
 | 12  | Hoops          |     |
 |     | Hoops          |     |
 | 1   | plotting       |     |
-|     |                |     |
-| 2   |                |     |
+|     | plotting       |     |
+| 2   | prep           |     |
 |     | Osher Course 2 |     |
 | 3   | Osher Course 2 |     |
 |     | Osher Course 2 |     |
 | 4   | Osher Course 2 |     |
-|     |                |     |
+|     | reading        |     |
 
-**W:**
-**DW:**
-**OT:**
+**W:**  6
+**DW:** 3
+**OT:** 1
 **ex** or **No ex**
 
 # The ONE thing: 
@@ -70,10 +70,12 @@ AN: https://cms.cern.ch/iCMS/jsp/db_notes/noteInfo.jsp?cmsnoteid=CMS%20AN-2024/0
 - 3s,  4s and 5s played well no shots.
 
 Working plots. 
-
+- [ ] ggHbb 3b w/o and w JCM
 # Osher Lecture 2
 - went well. 
 - Gave email to someone from NYC, maybe do remote
+
+Prepped Lecture 3
 
 
 
