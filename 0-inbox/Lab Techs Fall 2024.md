@@ -1,13 +1,3 @@
-CVs: [https://cmu.box.com/s/4yrnk44vszzeb2s16vjhjguavj3udsh7](https://cmu.box.com/s/4yrnk44vszzeb2s16vjhjguavj3udsh7)
-- Andre Swain: mizz0313@gmail.com
-- Richard B. Bomgardner II: richardbomgardnerii@gmail.com
-- James R Coleman: james.r.coleman1@gmail.com 
-
-Andre Swain: open in the later afternoons, any day:  3:00
-richard: Tuesday or Thursday between 10am and 5pm eastern time would work for me.: 10:00
-James Coleman: 2:00
-
-- Scheduled Interviews
 
 # Engineer pay
 25th percentile:  $ 70,574  
@@ -18,6 +8,7 @@ James Coleman: 2:00
  25% is $27.44/hour. **53508.0**
  50th percentile:  $ **57253.
 75th percentile:  $ 61261.
+
 # Interview Questions
 
 - Tell us about yourself?
@@ -25,17 +16,43 @@ James Coleman: 2:00
 - When would you be able to start
 - Contacts for reference 
 
-# Richard Bomgardner
+# Round 2
+
+CVs: [https://cmu.box.com/s/4yrnk44vszzeb2s16vjhjguavj3udsh7](https://cmu.box.com/s/4yrnk44vszzeb2s16vjhjguavj3udsh7)
+- Joshua Kipiller (412) 303-4996. jtk5567@gmail.com  
+- Khalil R. Nobles  412-478-8848 | khalilrnobles@gmail.com |  
+- Connor L. Mosebey  ⎸clmosebey@gmail.com
+
+
+
+# Round 1
+
+CVs: [https://cmu.box.com/s/4yrnk44vszzeb2s16vjhjguavj3udsh7](https://cmu.box.com/s/4yrnk44vszzeb2s16vjhjguavj3udsh7)
+- Andre Swain: mizz0313@gmail.com
+- Richard B. Bomgardner II: richardbomgardnerii@gmail.com
+- James R Coleman: james.r.coleman1@gmail.com 
+
+## Planning:
+Andre Swain: open in the later afternoons, any day:  3:00
+richard: Tuesday or Thursday between 10am and 5pm eastern time would work for me.: 10:00
+James Coleman: 2:00
+
+- Scheduled Interviews
+
+## Richard Bomgardner
 - Definitely qualified:  Has experience reviving shop and working on HEP construction
 - Only downside is relocation 
 - Salary?
 
-# James R Coleman
+## James R Coleman
 - Definitely no
 
-# Andre Swain
+## Andre Swain
 - Would probably be fine
 - Local 
+
+
+
 
 # Intro Email: 
 Dear XXX

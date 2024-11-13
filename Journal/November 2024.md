@@ -11,7 +11,7 @@
 | 9  S | zettlekasten ! / AE Letter of Support / Osher #2 / Risitto / Dinner Party       |       |
 | 10 S | Reading / **Gym** / Leak in Teddys room / Internet down / Parents               |       |
 | 11 M | Slides for AE / **Hoops** / AN compiling / All sit/eat at dining table!         | 7/0/2 |
-| 12 T |                                                                                 |       |
+| 12 T | Working AN / Finances 2.2 / Pitt for computing colloq / Chat Olivito            | 7/2/2 |
 | 13 W | (Osher #2) (Update in Hbb)                                                      |       |
 | 14 H |                                                                                 |       |
 | 15 F | (Steph Away)                                                                    |       |

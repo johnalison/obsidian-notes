@@ -62,7 +62,7 @@ Pinged Andre re:visit
 [[Whose Standards are too high?]]
 
 # Got the AN to compile !
-- problem was the  `eval `utils/tdr runtime -sh`` ... the Makefile already knew the answer
+- problem was the  `eval utils/tdr runtime -sh` ... the Makefile already knew the answer
 - Still problem with the docker version... FIX
 - got docker working need to download 
 

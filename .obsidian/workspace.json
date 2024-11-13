@@ -27,12 +27,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/12 November 2024 Tuesday.md",
+                "file": "Journal/13 November 2024 Wednesday.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "12 November 2024 Tuesday"
+              "title": "13 November 2024 Wednesday"
+            }
+          },
+          {
+            "id": "79f92dabde6298bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Journal/November 2024.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "November 2024"
             }
           },
           {
@@ -48,23 +62,9 @@
               "icon": "lucide-file",
               "title": "Whose Standards are too high?"
             }
-          },
-          {
-            "id": "79f92dabde6298bc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Input/Meetings/CMU HGC Mac Meeting 5 November 2024.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "CMU HGC Mac Meeting 5 November 2024"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/Whose Standards are too high?.md",
+                "file": "Journal/13 November 2024 Wednesday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Whose Standards are too high?"
+              "title": "Backlinks for 13 November 2024 Wednesday"
             }
           },
           {
@@ -156,12 +156,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/Whose Standards are too high?.md",
+                "file": "Journal/13 November 2024 Wednesday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Whose Standards are too high?"
+              "title": "Outgoing links from 13 November 2024 Wednesday"
             }
           },
           {
@@ -183,10 +183,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/Whose Standards are too high?.md"
+                "file": "Journal/13 November 2024 Wednesday.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Whose Standards are too high?"
+              "title": "Outline of 13 November 2024 Wednesday"
             }
           }
         ],
@@ -208,34 +208,34 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "628c826ef22a44af",
+  "active": "9c4674baa6218840",
   "lastOpenFiles": [
+    "0-inbox/ToDo.md",
+    "Journal/13 November 2024 Wednesday.md",
+    "0-inbox/Lab Techs Fall 2024.md",
     "Journal/12 November 2024 Tuesday.md",
-    "0-inbox/Computing Challenges For Large Particle Physics Experiments.md",
-    "0-inbox/Whose Standards are too high?.md",
-    "Journal/11 November 2024 Monday.md",
-    "0-inbox/Computer Directory Setup.md",
-    "Input/Blogs/The Tech Professional's Guide to Accelerated Learning.md",
-    "0-inbox/CMU HGC Mac Meeting 12 November 2024.md",
-    "Input/Meetings/CMU HGC Mac Meeting 5 November 2024.md",
-    "0-inbox/Chat w Wes 12 November 2024.md",
     "Journal/November 2024.md",
+    "Journal/11 November 2024 Monday.md",
+    "0-inbox/Whose Standards are too high?.md",
+    "0-inbox/Why hasn't economic progress lowered work hours more?.md",
     "Journal/10 November 2024 Sunday.md",
     "Journal/9 November 2024 Saturday.md",
     "Journal/8 November 2024 Friday.md",
     "Journal/7 November 2024 Thursday.md",
     "Journal/6 November 2024 Wednesday.md",
     "Journal/5 November 2024 Tuesday.md",
+    "1-projects/Teaching/Osher Fall Particle Physics Course.md",
+    "0-inbox/Computing Challenges For Large Particle Physics Experiments.md",
+    "0-inbox/Computer Directory Setup.md",
+    "Input/Blogs/The Tech Professional's Guide to Accelerated Learning.md",
+    "0-inbox/CMU HGC Mac Meeting 12 November 2024.md",
+    "Input/Meetings/CMU HGC Mac Meeting 5 November 2024.md",
+    "0-inbox/Chat w Wes 12 November 2024.md",
     "Output/Recommendation  Letters/USCMS Analysis Support Position.md",
-    "0-inbox/Why hasn't economic progress lowered work hours more?.md",
     "1-projects/Mixed2.0/Run3 Synthetic Data.md",
     "Journal/4 November 2024 Monday.md",
     "Input/Dharma/StagesOfAwaking.md",
     "0-inbox/Potential of Insight.md",
-    "0-inbox/Our Default Point of View.md",
-    "0-inbox/We are a point of view, not a separate thing.md",
-    "0-inbox/ToDo.md",
-    "0-inbox/Tool List.md",
     "Journal/#June 2024.md#",
     "Journal/October",
     "Input/Meetings/October",

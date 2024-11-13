@@ -15,13 +15,13 @@
 | 2   | To PITT Campus         |     |
 |     | mails / random         |     |
 | 3   | mails / random         |     |
-|     |                        |     |
+|     | Chat Pritam            |     |
 | 4   | Computing talk at PITT |     |
 |     | Computing talk at PITT |     |
 
-**W:**
-**DW:**
-**OT:**
+**W:** 7 
+**DW:** 2
+**OT:** 2
 **ex** or **No ex**
 
 # The ONE thing: 
@@ -30,10 +30,10 @@
 
 # To Do
 - [x] Call Andre References
-- [ ] Read HGC TDR
+- [>>] Read HGC TDR
 - [x] Fine tune TEXINPUTS for local compile
-- [ ] Quantify variation among synthetic datasets
-- [ ] Compare mixed to synthetic to threeTag
+- [>>] Quantify variation among synthetic datasets
+- [>>] Compare mixed to synthetic to threeTag
 - [x] Add ZZ/ZH study to AN
 - [x] LabTech Round 2: Jr Tech
 - [x] Reply to Andre
@@ -60,7 +60,8 @@ Called Swains refernces:
 
 [[CMU HGC Mac Meeting 12 November 2024]]
 
-Chat with Mario... All good with Andre Swain ... works for ______XXX____
+Chat with Mario... All good with Andre Swain ... works for Neya Systems
+
 
 # Finances 2.2/2.2
 
@@ -85,4 +86,6 @@ Home
 
 Chat w/Lynn re:Buying ETH
 
-
+Some [[Nexus]]
+# Chat Olivito
+- Saxon wants to be an artist

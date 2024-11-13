@@ -58,8 +58,7 @@ work by 8:15 !
 # Interview with Richard Bomgardner
 - See [[Lab Techs Fall 2024]]
 
-
-- Pinged Lindsey and David re: [[USCMS Analysis Support Position]]
+ Pinged Lindsey and David re: [[USCMS Analysis Support Position]]
 
 # [[How I Use Obsidian Zettelkasten to Study AI & Tech Topics]]
 
