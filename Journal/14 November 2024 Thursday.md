@@ -65,4 +65,8 @@ Reset the internet using the [[eero  reset protocol]]
 
 Did [[Run2 HH4b AN]] planning
 
+Home Depot
+
+# Faculty Meeting
+
 
