@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/14 November 2024 Thursday.md",
+                "file": "0-inbox/Potential Sources of Failure in Free Markets.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "14 November 2024 Thursday"
+              "title": "Potential Sources of Failure in Free Markets"
             }
           },
           {
@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/Role of Government in Free Market economy.md",
+                "file": "0-inbox/ARC HIG-24-017 Boosted VqqHbb.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Role of Government in Free Market economy"
+              "title": "ARC HIG-24-017 Boosted VqqHbb"
             }
           },
           {
@@ -77,7 +77,8 @@
               "title": "ZettelKasten Index"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -150,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/14 November 2024 Thursday.md",
+                "file": "0-inbox/ARC HIG-24-017 Boosted VqqHbb.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +161,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 14 November 2024 Thursday"
+              "title": "Backlinks for ARC HIG-24-017 Boosted VqqHbb"
             }
           },
           {
@@ -169,12 +170,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/14 November 2024 Thursday.md",
+                "file": "0-inbox/ARC HIG-24-017 Boosted VqqHbb.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 14 November 2024 Thursday"
+              "title": "Outgoing links from ARC HIG-24-017 Boosted VqqHbb"
             }
           },
           {
@@ -196,10 +197,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/14 November 2024 Thursday.md"
+                "file": "0-inbox/ARC HIG-24-017 Boosted VqqHbb.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 14 November 2024 Thursday"
+              "title": "Outline of ARC HIG-24-017 Boosted VqqHbb"
             }
           }
         ],
@@ -221,24 +222,27 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8cd6e87e88b50c39",
+  "active": "6f8163b0fbe0f50b",
   "lastOpenFiles": [
+    "0-inbox/Role of Government in Free Market economy.md",
+    "0-inbox/Why Free Markets should be default type of political orginization.md",
+    "0-inbox/Potential Sources of Failure in Free Markets.md",
+    "1-projects/HH4b/Run2 HH4b AN.md",
+    "3-resources/computing/eero  reset protocol.md",
+    "Input/Blogs/Whose Standards are too high?.md",
+    "Journal/14 November 2024 Thursday.md",
+    "Input/Papers/Development of the CMS detector for the CERN LHC Run 3.md",
     "3-resources/computing/BitWardenCISetup.md",
     "3-resources/computing/BitWarden.md",
-    "Journal/14 November 2024 Thursday.md",
-    "0-inbox/Run2 HH4b AN.md",
     "0-inbox/Lab Techs Fall 2024.md",
     "Journal/7 November 2024 Thursday.md",
     "Journal/13 November 2024 Wednesday.md",
     "Journal/November 2024.md",
-    "Input/Blogs/Whose Standards are too high?.md",
-    "0-inbox/Role of Government in Free Market economy.md",
     "00-Zettelkasten/ZettelKasten Index.md",
     "00-Zettelkasten/Diminishing Returns in Politics.md",
     "00-Zettelkasten/Libertarianism-more-effective-in-complicated-societies.md",
     "00-Zettelkasten/Libertarianism.md",
     "Journal/10 November 2024 Sunday.md",
-    "0-inbox/eero  reset protocol.md",
     "00-Zettelkasten/Libertarianism-is-bottom-up.md",
     "00-Zettelkasten/Top down societal organization is impossible.md",
     "Journal/11 November 2024 Monday.md",
@@ -246,9 +250,6 @@
     "0-inbox/Colloq - Computing Challenges For Large Particle Physics Experiments.md",
     "2-areas/Personal/CryptoMoves.md",
     "Journal/Future Log.md",
-    "Journal/9 November 2024 Saturday.md",
-    "Journal/8 November 2024 Friday.md",
-    "0-inbox/Untitled.md",
     "Journal/#June 2024.md#",
     "Journal/October",
     "Input/Meetings/October",
