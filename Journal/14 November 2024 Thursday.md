@@ -1,6 +1,6 @@
 # Timeblock
 
-|     |                 |     |
+|     | setup           |     |
 | --- | --------------- | --- |
 | 9   | HH4b            |     |
 |     | HH4b            |     |
@@ -17,12 +17,12 @@
 | 3   | ggHbb           |     |
 |     | ggHbb           |     |
 | 4   | Workout         |     |
-|     |                 |     |
+|     | close out       |     |
 
-**W:**
-**DW:**
-**OT:**
-**ex** or **No ex**
+**W:** 5 
+**DW:** 1
+**OT:** 1
+**ex** 
 
 # The ONE thing: 
 - [ ] Demo Day
@@ -34,8 +34,9 @@
 - [ ]  Read HGC TDR
 - [ ] Quantify variation among synthetic datasets
 - [ ] Compare mixed to synthetic to threeTag
-- [ ] ARC comments
-- [ ]  HIstograms to cutflow
+- [ ] VqqHbb ARC comments
+- [ ]  Histograms to cutflow
+- [ ] Work [[Run2 HH4b AN]]
 
 
 # Log
@@ -77,4 +78,9 @@ Home Depot
 - `python runner.py -p analysis/processors/processor_HH4b.py -y UL18 -d ggHbb -c analysis/metadata/HH4b_rareBkgs.yml -o test_ggHbb.coffea -op hists/`
 - print cut flow with `python analysis/printCutFlow.py  -i hists/test_ggHbb.coffea -p ggHbb -e UL18`
 - HACKING the trigger bit requirement
-- 
+- Debugging the noFvT weights.. found errror.. Fixing...
+- Make new ggHbb plots...sent to Marko
+
+# Kettle Bells
+- halos and 20 EMOM
+
