@@ -21,7 +21,29 @@ Towards v4
 - [ ] Try new SvB classifier for kλ
 - [ ] Try to Correct bias from ZZ region (?)
 - [ ] Add to AN
-    - [ ] Update plots with new code (get figure numbers)
+    - [ ] Update plots with new code
+	    - [ ] fig 32
+	    - [ ] 33
+	    - [ ] 34
+	    - [ ] 36
+	    - [ ] 37
+	    - [ ] 38
+	    - [ ] 39
+	    - [ ] 40
+	    - [ ] 43
+	    - [ ] 44
+	    - [ ] 45
+	    - [ ] 46
+	    - [ ] 47
+	    - [ ] 48
+	    - [ ] 49
+	    - [ ] 91
+	    - [ ] 92
+	    - [ ] 93
+	    - [ ] 98
+	    - [ ] 99
+	    - [ ] 100
+	    - [ ] 101
 	- [ ] Add κλ scan
 
 

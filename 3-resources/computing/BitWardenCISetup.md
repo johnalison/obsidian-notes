@@ -1,7 +1,12 @@
 Homebrew install
 ```brew install bitwarden-cli```
 
-```bw login```
+
+
+ `>bw login`
+`Email address: johnda102@gmail.com`
+`Master password: [hidden]`
+`Two-step login code: [press yubikey]'
 
 
 

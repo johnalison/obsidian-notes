@@ -13,10 +13,10 @@
 | 1   | Faculty Meeting |     |
 |     | AN work         |     |
 | 2   | AN work         |     |
-|     |                 |     |
-| 3   |                 |     |
-|     |                 |     |
-| 4   |                 |     |
+|     | ggHbb           |     |
+| 3   | ggHbb           |     |
+|     | ggHbb           |     |
+| 4   | Workout         |     |
 |     |                 |     |
 
 **W:**
@@ -29,7 +29,7 @@
 
 
 # To Do
-- [ ] Iterate with Lab Tech
+- [x] Iterate with Lab Tech
 - [ ] OSHER: Prep lecture 3
 - [ ]  Read HGC TDR
 - [ ] Quantify variation among synthetic datasets
@@ -53,7 +53,7 @@ Internet out again... (there was a power cut last night)
 # HH4b 
 - Discussion of jet energy correction procedure 
 - Training discussion ... Bailed
-- [ ] Evan's email
+- [x] Evan's email
 
 [[Whose Standards are too high?]]
 
@@ -69,4 +69,12 @@ Home Depot
 
 # Faculty Meeting
 
+[[BitWardenCISetup]]
 
+# Looking into ggHbb
+- `python runner.py -p analysis/processors/processor_HH4b.py -y UL18 -d ttHbb ggHbb -c analysis/metadata/HH4b_rareBkgs.yml -o test_ttHbb_ggHbb.coffea -op hists/`
+- too slow... changed top reco to fast and now only running ggHbb
+- `python runner.py -p analysis/processors/processor_HH4b.py -y UL18 -d ggHbb -c analysis/metadata/HH4b_rareBkgs.yml -o test_ggHbb.coffea -op hists/`
+- print cut flow with `python analysis/printCutFlow.py  -i hists/test_ggHbb.coffea -p ggHbb -e UL18`
+- HACKING the trigger bit requirement
+- 
