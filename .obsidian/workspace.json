@@ -144,7 +144,8 @@
               "title": "Files"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -235,7 +236,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9862cb844a1a934c",
+  "active": "8cd6e87e88b50c39",
   "lastOpenFiles": [
     "0-inbox/Run2 HH4b AN.md",
     "Journal/7 November 2024 Thursday.md",

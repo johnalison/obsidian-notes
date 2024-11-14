@@ -1,23 +1,23 @@
 # Timeblock
 
-|     |               |     |
-| --- | ------------- | --- |
-| 9   | HH4b          |     |
-|     | HH4b          |     |
-| 10  | Home for demo |     |
-|     | Home for demo |     |
-| 11  | AN Planning   |     |
-|     |               |     |
-| 12  |               |     |
-|     |               |     |
-| 1   |               |     |
-|     |               |     |
-| 2   |               |     |
-|     |               |     |
-| 3   |               |     |
-|     |               |     |
-| 4   |               |     |
-|     |               |     |
+|     |                 |     |
+| --- | --------------- | --- |
+| 9   | HH4b            |     |
+|     | HH4b            |     |
+| 10  | Home for demo   |     |
+|     | Home for demo   |     |
+| 11  | AN Planning     |     |
+|     | Home depot      |     |
+| 12  | Home depot      |     |
+|     | Faculty Meeting |     |
+| 1   | Faculty Meeting |     |
+|     | AN work         |     |
+| 2   | AN work         |     |
+|     |                 |     |
+| 3   |                 |     |
+|     |                 |     |
+| 4   |                 |     |
+|     |                 |     |
 
 **W:**
 **DW:**
