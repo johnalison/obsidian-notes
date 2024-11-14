@@ -6,7 +6,7 @@
 |     | HH4b          |     |
 | 10  | Home for demo |     |
 |     | Home for demo |     |
-| 11  |               |     |
+| 11  | AN Planning   |     |
 |     |               |     |
 | 12  |               |     |
 |     |               |     |
@@ -25,7 +25,7 @@
 **ex** or **No ex**
 
 # The ONE thing: 
-- [ ] 
+- [ ] Demo Day
 
 
 # To Do
@@ -47,12 +47,22 @@ Connor over to look at ceiling
 
 Internet out again... (there was a power cut last night)
 
-# AN 
-- [ ] Add Boosted / Resolved discussion
-- [ ] Update plots with new code (figs: xxxx)
-- [ ] ggHbb 3b w/o and w JCM
-- [ ] pull plots
+# Planning [[Run2 HH4b AN]]
 
 
 # HH4b 
-- 
+- Discussion of jet energy correction procedure 
+- Training discussion ... Bailed
+- [ ] Evan's email
+
+[[Whose Standards are too high?]]
+
+Back home...  conor ripping down roof... Estimated cost $10k.
+
+Reset the internet using the [[eero  reset protocol]]
+
+[[Role of Government in Free Market economy]]
+
+Did [[Run2 HH4b AN]] planning
+
+

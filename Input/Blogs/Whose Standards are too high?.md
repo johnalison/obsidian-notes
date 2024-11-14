@@ -1,8 +1,11 @@
 https://www.betonit.ai/p/whose-standards-are-too-high?utm_source=post-email-title&publication_id=820634&post_id=148614734&utm_campaign=email-post-title&isFreemail=true&r=lewoe&triedRedirect=true&utm_medium=email
 
-#Consume 
+# Summary: 
+By rejecting all mainstream political candidates, the author gets attacked for having too high-standards; shouldn't he prefer the "least bad" candidate.  Response of the article is that its the political candidates themselves who have too high standards -- too high standards for the free market system.  Government action (spending or regulation) is only justified by perceived failures of the free market. Argues that these claims of free-market failure are often overblown. 
 
-- Any "Serious" candidates giving speaches sounds like C students giving presentations
+# Notes
+
+ Any "Serious" candidates giving speeches sounds like C students giving presentations
 
 # Arguments that current system is OK
 - US is one of best places to live. Politicians cant be that bad 
@@ -11,10 +14,10 @@ https://www.betonit.ai/p/whose-standards-are-too-high?utm_source=post-email-titl
 - Its really just entertainment
 - Be happy your not in a dictatorship
 
--  Free market is an alternative to demacracy and dictatorship
+ Free market is an alternative to demacracy and dictatorship
 
-# Politicians all have to attack this system to justify: govement regulation and government speading
-- Subtext of all political speaches ... "I have found it necessary to deny the free market in order to make room for government".... (Compare: “I have found it necessary to deny reason in order to make room for faith.”-- Kant)
+# Politicians all have to attack the free market system to justify: govement regulation and speading
+- Subtext of all political speeches ... "I have found it necessary to deny the free market in order to make room for government".... (Compare: “I have found it necessary to deny reason in order to make room for faith.”-- Kant)
 
 # Common complaints against the free market
 - sometime leads to monopoly, need to step in 

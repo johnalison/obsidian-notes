@@ -13,26 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Journal/7 November 2024 Thursday.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "7 November 2024 Thursday"
+            }
+          },
+          {
+            "id": "9862cb844a1a934c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Journal/14 November 2024 Thursday.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "14 November 2024 Thursday"
-            }
-          },
-          {
-            "id": "5e7a819ba4875e64",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Journal/13 November 2024 Wednesday.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "13 November 2024 Wednesday"
             }
           },
           {
@@ -55,15 +55,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/Whose Standards are too high?.md",
+                "file": "Input/Blogs/Whose Standards are too high?.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Whose Standards are too high?"
             }
+          },
+          {
+            "id": "6f8163b0fbe0f50b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-inbox/Role of Government in Free Market economy.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Role of Government in Free Market economy"
+            }
+          },
+          {
+            "id": "779acbb3148026f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00-Zettelkasten/ZettelKasten Index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ZettelKasten Index"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -82,7 +111,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "crypto",
+                "query": "twik",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -115,8 +144,7 @@
               "title": "Files"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -207,34 +235,34 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9c4674baa6218840",
+  "active": "9862cb844a1a934c",
   "lastOpenFiles": [
+    "0-inbox/Run2 HH4b AN.md",
+    "Journal/7 November 2024 Thursday.md",
     "Journal/13 November 2024 Wednesday.md",
     "Journal/14 November 2024 Thursday.md",
     "Journal/November 2024.md",
+    "Input/Blogs/Whose Standards are too high?.md",
+    "0-inbox/Role of Government in Free Market economy.md",
+    "00-Zettelkasten/ZettelKasten Index.md",
+    "00-Zettelkasten/Diminishing Returns in Politics.md",
+    "00-Zettelkasten/Libertarianism-more-effective-in-complicated-societies.md",
+    "00-Zettelkasten/Libertarianism.md",
+    "Journal/10 November 2024 Sunday.md",
+    "0-inbox/eero  reset protocol.md",
+    "00-Zettelkasten/Libertarianism-is-bottom-up.md",
+    "00-Zettelkasten/Top down societal organization is impossible.md",
+    "Journal/11 November 2024 Monday.md",
     "Journal/12 November 2024 Tuesday.md",
     "0-inbox/Colloq - Computing Challenges For Large Particle Physics Experiments.md",
-    "0-inbox/Whose Standards are too high?.md",
     "2-areas/Personal/CryptoMoves.md",
-    "Journal/11 November 2024 Monday.md",
     "Journal/Future Log.md",
-    "Journal/10 November 2024 Sunday.md",
     "Journal/9 November 2024 Saturday.md",
     "Journal/8 November 2024 Friday.md",
-    "Journal/7 November 2024 Thursday.md",
     "0-inbox/Untitled.md",
     "0-inbox/ToDo.md",
     "0-inbox/Lab Techs Fall 2024.md",
     "0-inbox/Why hasn't economic progress lowered work hours more?.md",
-    "Journal/6 November 2024 Wednesday.md",
-    "Journal/5 November 2024 Tuesday.md",
-    "1-projects/Teaching/Osher Fall Particle Physics Course.md",
-    "0-inbox/Computer Directory Setup.md",
-    "Input/Blogs/The Tech Professional's Guide to Accelerated Learning.md",
-    "0-inbox/CMU HGC Mac Meeting 12 November 2024.md",
-    "Input/Meetings/CMU HGC Mac Meeting 5 November 2024.md",
-    "0-inbox/Chat w Wes 12 November 2024.md",
-    "Output/Recommendation  Letters/USCMS Analysis Support Position.md",
     "Journal/#June 2024.md#",
     "Journal/October",
     "Input/Meetings/October",
