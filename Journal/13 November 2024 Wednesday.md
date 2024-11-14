@@ -30,10 +30,10 @@
 
 # To Do
 - [x] Ping Lab Techs
-- [ ]  Read HGC TDR
-- [ ] Quantify variation among synthetic datasets
-- [ ] Compare mixed to synthetic to threeTag
-- [ ] ARC comments
+- [>>]  Read HGC TDR
+- [>>] Quantify variation among synthetic datasets
+- [>>] Compare mixed to synthetic to threeTag
+- [>>] ARC comments
 
 [[ToDo]]
 
@@ -62,7 +62,7 @@ AN: https://cms.cern.ch/iCMS/jsp/db_notes/noteInfo.jsp?cmsnoteid=CMS%20AN-2024/0
 - Strong message on ZZ/ZH SR not really effecting HH SR
 - min not at 2.5 ?
 
-- [ ] HIstograms to cutflow
+- [x] HIstograms to cutflow
 - [x] colors
 
 
@@ -77,5 +77,5 @@ Working plots.
 
 Prepped Lecture 3
 
-
+Finished [[Nexus]]
 

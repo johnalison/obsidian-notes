@@ -82,7 +82,7 @@ Drafted answers to AN comments.
 
 Answers to some AN questions
 
-Made ttH and ggH plots
+# Made ttH and ggH plots
 - `python -i analysis/iPlot.py --combine_input_files hists/histAll.coffea  hists/test_ttH_Hbb.coffea  -m analysis/metadata/plotsAll_wggHbb.yml --out plotsAll_ggHbb`
 - `python -i analysis/iPlot.py --combine_input_files hists/histAll.coffea  hists/test_ttH_Hbb.coffea  -m analysis/metadata/plotsAll_wttH.yml --out plotsAll_wttH`
 - [x] Save PDFs in AN
@@ -92,7 +92,7 @@ Home with M&T
 
 Some [[Nexus]]
 
-Make three-tag ggHbb plots
+More three-tag ggHbb plots
 
 Some [[How I Use Obsidian Zettelkasten to Study AI & Tech Topics]]
 

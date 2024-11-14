@@ -67,20 +67,20 @@ Chat with Mario... All good with Andre Swain ... works for Neya Systems
 
 Home ... put T down.
 
-to Pitt for Lecture
+To Pitt for Lecture
 
 # Looked at Junior Lab Tech CVs:
 - Joshua Kipiller (412) 303-4996. jtk5567@gmail.com  
 - Khalil R. Nobles  412-478-8848 | khalilrnobles@gmail.com |  
 - Connor L. Mosebey  ⎸clmosebey@gmail.com
 
-Invitation for PGSS next year
+Got Invitation for PGSS next year. 
 
 # [[The Tech Professional's Guide to Accelerated Learning]]
 
 [[Computer Directory Setup]]
 
-[[Computing Challenges For Large Particle Physics Experiments]]
+[[Colloq - Computing Challenges For Large Particle Physics Experiments]]
 
 Home 
 

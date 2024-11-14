@@ -12,16 +12,16 @@
 | 10 S | Reading / **Gym** / Leak in Teddys room / Internet down / Parents               |       |
 | 11 M | Slides for AE / **Hoops** / AN compiling / All sit/eat at dining table!         | 7/0/2 |
 | 12 T | Working AN / Finances 2.2 / Pitt for computing colloq / Chat Olivito            | 7/2/2 |
-| 13 W | (Osher #2) (Update in Hbb)                                                      |       |
+| 13 W | (Osher #2) (Update in Hbb) **Hoops** / **Osher** / prep Lecture 3 / [[Nexus]]   | 6/3/1 |
 | 14 H |                                                                                 |       |
-| 15 F | (Steph Away)                                                                    |       |
+| 15 F | (Andre Visit) (Steph Away)                                                      |       |
 | 16 S | (Steph Away)                                                                    |       |
 | 17 S | (Steph Away)                                                                    |       |
 | 18 M |                                                                                 |       |
 | 19 T |                                                                                 |       |
 | 20 W | (Osher #3)                                                                      |       |
 | 21 H |                                                                                 |       |
-| 22 F |                                                                                 |       |
+| 22 F | (Poker Night)                                                                   |       |
 | 23 S |                                                                                 |       |
 | 24 S |                                                                                 |       |
 | 25 M |                                                                                 |       |

@@ -18,7 +18,7 @@ Home
 # LEAK IN TEDDYS ROOM !
 - Killed power
 - Took fan down
-- Called RickJon ... will come out tommorrw 
+- Called RickJon ... will come out tomorrow 
 
 # Internet down !
 - Needed to turn back on the power in Ts room

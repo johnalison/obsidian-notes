@@ -49,6 +49,8 @@ Up at 6:45
 
 M&T to school 
 
+Tree branch caused hole in roof !
+
 Pinged Andre re:visit 
 
 [[Why hasn't economic progress lowered work hours more?]]
@@ -64,7 +66,7 @@ Pinged Andre re:visit
 # Got the AN to compile !
 - problem was the  `eval utils/tdr runtime -sh` ... the Makefile already knew the answer
 - Still problem with the docker version... FIX
-- got docker working need to download 
+- got docker working need to download a bunch of files for algorithm2e
 
 Finished 1st pass at AN comments:
 	https://twiki.cern.ch/twiki/bin/view/CMSPublic/Run2HH4b
@@ -79,4 +81,4 @@ Home w M&T
 
 All eat and sit at the dinner table !
 
-slept in basement again
+Slept in basement again

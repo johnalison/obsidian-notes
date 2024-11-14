@@ -6,7 +6,7 @@ Buying:
 - $20k at    $800
 
 Selling:
-- 10% at $7200
+- 10% at $7200. (~90k)
 
 
 # BTC
@@ -14,7 +14,7 @@ Buying:
 - $20k at $25k
 
 Selling: 
-- 10%  at $110k
+- 10%  at $110k. (~40k)
 
 
 ## Follow-ups

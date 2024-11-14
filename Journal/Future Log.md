@@ -25,6 +25,7 @@
 # December
 - [ ] 2nd ADA talk
 - [ ] 4th  Osher ends
+- [ ] Math AI Talk 6th
 
 
 
