@@ -11,7 +11,8 @@ http://cms.cern.ch/iCMS/jsp/openfile.jsp?tp=draft&files=AN2022_031_v9.pdf
 
 https://cms.cern.ch/iCMS/analysisadmin/get?analysis=HIG-24-017-paper-v1.pdf
 
-
+John's AN Replies
+https://docs.google.com/document/d/1R5wnoPqAJsDw1X_qFnveh07A6Hjva6rwKp_ROSp8Gco/edit?tab=t.0
 # Paper draft Review
 v1
 
@@ -94,6 +95,7 @@ Section 7:
 - l550: which bins of the second jet m_SD ?
 - How are the transfer factors, which are function of rho, fit to the m_SD distributions
 - 
+
 
 
 # Pre-Approval:

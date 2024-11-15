@@ -84,5 +84,11 @@ Home Depot
 # Kettle Bells
 - halos and 20 EMOM
 
+Responded to [[ARC HIG-24-017 Boosted VqqHbb]] replies
+
+Some Zettlekasten:
+[[Potential Sources of Failure in Free Markets]]
+[[Role of Government in Free Market economy]]
+[[Why Free Markets should be default type of political organization]]
 
 
