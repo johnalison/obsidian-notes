@@ -5,14 +5,14 @@ Twiki: https://twiki.cern.ch/twiki/bin/view/CMSPublic/Run2HH4b
 
 Cut a v3: 
 - [ ] Fix binning
-- [ ] ggHbb 3b w/o and w JCM
+- [x] ggHbb 3b w/o and w JCM
 - [ ] Finalize L3 comments
 - [ ] Add to AN
-	- [ ] Add Boosted / Resolved discussion
-	- [ ] prefit plots + impact/pulls with asimov data 
-	- [ ] plots per year ( to appendix T)
-	- [ ] refit  ZZ/ZH sensitivity (should actually improve with ensembeling )
-	- [ ] Blinded prefit plots
+	- [ ] (AE) Add Boosted / Resolved discussion
+	- [ ] (AE) prefit plots + impact/pulls with asimov data 
+	- [ ] (AE) plots per year ( to appendix T)
+	- [ ] (AE) refit  ZZ/ZH sensitivity (should actually improve with ensembeling )
+	- [ ] Blinded prefit plots (JA)
 
 
 Towards v4
@@ -22,9 +22,9 @@ Towards v4
 - [ ] Try to Correct bias from ZZ region (?)
 - [ ] Add to AN
     - [ ] Update plots with new code
-	    - [ ] fig 32
-	    - [ ] 33
-	    - [ ] 34
+	    - [ ] fig 32 (Problem with ttbar Fraction)
+	    - [ ] 33 (From JCM Fits)
+	    - [ ] 34 (Need to add nPseudoTagJets)
 	    - [ ] 36
 	    - [ ] 37
 	    - [ ] 38

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/15 November 2024 Friday.md",
+                "file": "1-projects/HH4b/Run2 HH4b AN.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "15 November 2024 Friday"
+              "title": "Run2 HH4b AN"
             }
           },
           {
@@ -63,7 +63,8 @@
               "title": "15 November 2024 Friday"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -207,8 +208,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9862cb844a1a934c",
+  "active": "795bcb14775b6f71",
   "lastOpenFiles": [
+    "1-projects/HH4b/Run2 HH4b AN.md",
+    "Journal/15 November 2024 Friday.md",
     "Journal/7 November 2024 Thursday.md",
     "Journal/8 November 2024 Friday.md",
     "Journal/10 November 2024 Sunday.md",
@@ -217,7 +220,6 @@
     "Journal/14 November 2024 Thursday.md",
     "Journal/13 November 2024 Wednesday.md",
     "Journal/12 November 2024 Tuesday.md",
-    "Journal/15 November 2024 Friday.md",
     "2-areas/Personal/ToAddToCV.md",
     "0-inbox/Lab Techs Fall 2024.md",
     "Journal/Fall 2024.md",
@@ -234,7 +236,6 @@
     "Input/Meetings/Chat w Wes 12 November 2024.md",
     "0-inbox/Why Free Markets should be default type of political organization.md",
     "Input/Blogs/Whose Standards are too high?.md",
-    "00-Zettelkasten/ZettelKasten Index.md",
     "Journal/#June 2024.md#",
     "Journal/October",
     "Input/Meetings/October",

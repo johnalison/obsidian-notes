@@ -49,8 +49,12 @@ _Econ is the highest-paid of all the easy majors._
 
 
 Working [[Run2 HH4b AN]]
-- [ ] Update AN and twiki with ggHbb
+- [x] Update AN and twiki with ggHbb
 
 
 [[Lab Techs Fall 2024]]
+
+- [ ] Bkg stat uncertianty in ratio band ?
+- [ ] Add nPseudoTagJets
+- [ ] 
 
