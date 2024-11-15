@@ -58,7 +58,8 @@ Chat with Sufie: Pissed at Curtis
 - [ ] Why is canJet Phi 0-pi ?
 
 Names for [[Lab Techs Fall 2024]] from MP
-
+- [ ] Ping Round 2
+- [ ] Ping Ornella Pagliano re:salary
 
 # Chat with Titus 
 
