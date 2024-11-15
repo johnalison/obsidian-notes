@@ -49,7 +49,7 @@ Up at 6:45
 
 M&T to school 
 
-Tree branch caused hole in roof !
+Tree branch caused hole in roof ! ... Tree must go.
 
 Pinged Andre re:visit 
 
@@ -65,8 +65,8 @@ Pinged Andre re:visit
 
 # Got the AN to compile !
 - problem was the  `eval utils/tdr runtime -sh` ... the Makefile already knew the answer
-- Still problem with the docker version... FIX
-- got docker working need to download a bunch of files for algorithm2e
+- Still problem with the container version... FIXED
+- got the container working... needed to download a bunch of files for algorithm2e
 
 Finished 1st pass at AN comments:
 	https://twiki.cern.ch/twiki/bin/view/CMSPublic/Run2HH4b

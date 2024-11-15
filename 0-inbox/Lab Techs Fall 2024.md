@@ -22,7 +22,8 @@ CVs: [https://cmu.box.com/s/4yrnk44vszzeb2s16vjhjguavj3udsh7](https://cmu.box.co
 - Joshua Kipiller (412) 303-4996. jtk5567@gmail.com  
 - Khalil R. Nobles  412-478-8848 | khalilrnobles@gmail.com |  
 - Connor L. Mosebey  ⎸clmosebey@gmail.com
-
+- Ivan ALbert ivan.s.albert@gmail.com |
+- Ornella Pagliano (supervisor)  **_ornellap3@gmail.com_**
 
 
 # Round 1

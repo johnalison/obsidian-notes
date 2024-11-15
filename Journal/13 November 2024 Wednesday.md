@@ -57,12 +57,9 @@ AN: https://cms.cern.ch/iCMS/jsp/db_notes/noteInfo.jsp?cmsnoteid=CMS%20AN-2024/0
 
 
 # [[Hbb Meeting 13 November 2024]]
-- https://indico.cern.ch/event/1451198/#b-579879-higgs-to-bb- 
-- Good talk 
-- Strong message on ZZ/ZH SR not really effecting HH SR
-- min not at 2.5 ?
 
-- [x] HIstograms to cutflow
+
+- [>>] HIstograms to cutflow
 - [x] colors
 
 
@@ -70,10 +67,10 @@ AN: https://cms.cern.ch/iCMS/jsp/db_notes/noteInfo.jsp?cmsnoteid=CMS%20AN-2024/0
 - 3s,  4s and 5s played well no shots.
 
 Working plots. 
-- [ ] ggHbb 3b w/o and w JCM
+- [>>] ggHbb 3b w/o and w JCM
 # Osher Lecture 2
 - went well. 
-- Gave email to someone from NYC, maybe do remote
+- Gave email to someone from NYC, maybe do remote version for them ?
 
 Prepped Lecture 3
 

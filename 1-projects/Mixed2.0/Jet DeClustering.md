@@ -8,11 +8,13 @@ Getting the new mixing going
 - Extension to full Run2 dataset
 
 # To Do
+- [ ] Quantify variation among synthetic datasets
+- [ ] Compare mixed to synthetic to threeTag
 - [ ] Run-3
-	- [ ] Clustering Test job Running 
-	- [ ] Templates by year
-	- [ ] Synthetirc data Test job running
-	- [ ] Plots
+	- [x] Clustering Test job Running 
+	- [x] Templates by year
+	- [x] Synthetirc data Test job running
+	- [x] Plots
 - [ ] Boosted
 - [ ] Check re-clustering
 	- [ ] Check bj-bj to make sure they can be recovered

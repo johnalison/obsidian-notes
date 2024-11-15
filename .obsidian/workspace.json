@@ -13,26 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/Potential Sources of Failure in Free Markets.md",
+                "file": "Journal/7 November 2024 Thursday.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Potential Sources of Failure in Free Markets"
-            }
-          },
-          {
-            "id": "79f92dabde6298bc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Input/Meetings/CMU HGC Mac Meeting 12 November 2024.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "CMU HGC Mac Meeting 12 November 2024"
+              "title": "7 November 2024 Thursday"
             }
           },
           {
@@ -64,21 +50,20 @@
             }
           },
           {
-            "id": "779acbb3148026f1",
+            "id": "795bcb14775b6f71",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/14 November 2024 Thursday.md",
+                "file": "Journal/15 November 2024 Friday.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "14 November 2024 Thursday"
+              "title": "15 November 2024 Friday"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bitwar",
+                "query": "file:CV",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -151,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/14 November 2024 Thursday.md",
+                "file": "Journal/7 November 2024 Thursday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +146,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 14 November 2024 Thursday"
+              "title": "Backlinks for 7 November 2024 Thursday"
             }
           },
           {
@@ -170,12 +155,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/14 November 2024 Thursday.md",
+                "file": "Journal/7 November 2024 Thursday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 14 November 2024 Thursday"
+              "title": "Outgoing links from 7 November 2024 Thursday"
             }
           },
           {
@@ -197,10 +182,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/14 November 2024 Thursday.md"
+                "file": "Journal/7 November 2024 Thursday.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 14 November 2024 Thursday"
+              "title": "Outline of 7 November 2024 Thursday"
             }
           }
         ],
@@ -222,34 +207,34 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "779acbb3148026f1",
+  "active": "9862cb844a1a934c",
   "lastOpenFiles": [
+    "Journal/8 November 2024 Friday.md",
+    "Journal/7 November 2024 Thursday.md",
+    "Journal/10 November 2024 Sunday.md",
+    "Journal/9 November 2024 Saturday.md",
+    "Journal/11 November 2024 Monday.md",
+    "Journal/14 November 2024 Thursday.md",
+    "Journal/13 November 2024 Wednesday.md",
+    "Journal/12 November 2024 Tuesday.md",
+    "Journal/15 November 2024 Friday.md",
+    "2-areas/Personal/ToAddToCV.md",
+    "0-inbox/Lab Techs Fall 2024.md",
+    "Journal/Fall 2024.md",
+    "Journal/1 November 2024 Friday.md",
+    "Journal/November 2024.md",
+    "1-projects/Mixed2.0/Jet DeClustering.md",
     "0-inbox/ARC HIG-24-017 Boosted VqqHbb.md",
-    "0-inbox/Potential Sources of Failure in Free Markets.md",
+    "0-inbox/Hbb Meeting 13 November 2024.md",
     "Input/Meetings/CMU HGC Mac Meeting 12 November 2024.md",
+    "0-inbox/Outstanding Questions.md",
+    "2-areas/Philosophy/Questions.md",
+    "0-inbox/Potential Sources of Failure in Free Markets.md",
     "Input/Meetings/Colloq - Computing Challenges For Large Particle Physics Experiments.md",
     "Input/Meetings/Chat w Wes 12 November 2024.md",
-    "Journal/14 November 2024 Thursday.md",
     "0-inbox/Why Free Markets should be default type of political organization.md",
     "Input/Blogs/Whose Standards are too high?.md",
-    "Journal/November 2024.md",
     "00-Zettelkasten/ZettelKasten Index.md",
-    "0-inbox/Role of Government in Free Market economy.md",
-    "1-projects/HH4b/Run2 HH4b AN.md",
-    "3-resources/computing/eero  reset protocol.md",
-    "Input/Papers/Development of the CMS detector for the CERN LHC Run 3.md",
-    "3-resources/computing/BitWardenCISetup.md",
-    "3-resources/computing/BitWarden.md",
-    "0-inbox/Lab Techs Fall 2024.md",
-    "Journal/7 November 2024 Thursday.md",
-    "Journal/13 November 2024 Wednesday.md",
-    "00-Zettelkasten/Diminishing Returns in Politics.md",
-    "00-Zettelkasten/Libertarianism-more-effective-in-complicated-societies.md",
-    "00-Zettelkasten/Libertarianism.md",
-    "Journal/10 November 2024 Sunday.md",
-    "00-Zettelkasten/Libertarianism-is-bottom-up.md",
-    "00-Zettelkasten/Top down societal organization is impossible.md",
-    "Journal/11 November 2024 Monday.md",
     "Journal/#June 2024.md#",
     "Journal/October",
     "Input/Meetings/October",

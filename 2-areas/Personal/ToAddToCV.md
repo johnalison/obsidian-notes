@@ -38,6 +38,15 @@ Aniket: bbWW
 Souhen Yi
 
 
+Jessica
+- Promoted to ENgineer 2
+
+Alejandro 
+- USCMS DEI committee.  [https://uscms-diversity-equity-inclusion.github.io/contact](https://uscms-diversity-equity-inclusion.github.io/contact)
+- CAT L3
+
+Patrick
+
 # Work:
 
 SOS 

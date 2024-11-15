@@ -57,11 +57,12 @@ Working AN
 Called Swains refernces:
 - Jorgen Pedersen- +1 (412) 398-0949-RE2 Robotics (CEO)
 - Mario Campagna- (724) 561-4934-RE2 Robotics (Principal Mechanical Engineer / Supervisor)
+     Chat with Mario... All good with Andre Swain ... works for Neya Systems
+
 
 [[CMU HGC Mac Meeting 12 November 2024]]
 
-Chat with Mario... All good with Andre Swain ... works for Neya Systems
-
+Chat with Mario (above)
 
 # Finances 2.2/2.2
 

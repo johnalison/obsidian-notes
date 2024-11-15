@@ -30,13 +30,14 @@
 
 # To Do
 - [x] Iterate with Lab Tech
-- [ ] OSHER: Prep lecture 3
-- [ ]  Read HGC TDR
-- [ ] Quantify variation among synthetic datasets
-- [ ] Compare mixed to synthetic to threeTag
-- [ ] VqqHbb ARC comments
-- [ ]  Histograms to cutflow
-- [ ] Work [[Run2 HH4b AN]]
+- [x] OSHER: Prep lecture 3
+- [>>]  Read HGC TDR
+- [<<] Quantify variation among synthetic datasets ([[Jet DeClustering]])
+- [<<] Compare mixed to synthetic to threeTag ([[Jet DeClustering]])
+- [x] VqqHbb ARC comments
+- [>>]  Histograms to cutflow
+- [>>] Work [[Run2 HH4b AN]]
+- [x] ggHbb 3b w/o and w JCM
 
 
 # Log
@@ -51,22 +52,22 @@ Internet out again... (there was a power cut last night)
 # Planning [[Run2 HH4b AN]]
 
 
-# HH4b 
+# FBC2 HH4b 
 - Discussion of jet energy correction procedure 
 - Training discussion ... Bailed
 - [x] Evan's email
 
-[[Whose Standards are too high?]]
+Zettlekasten: [[Whose Standards are too high?]]
 
 Back home...  conor ripping down roof... Estimated cost $10k.
 
 Reset the internet using the [[eero  reset protocol]]
 
-[[Role of Government in Free Market economy]]
+Zettlekasten: [[Role of Government in Free Market economy]]
 
 Did [[Run2 HH4b AN]] planning
 
-Home Depot
+Home Depot... wall anchors / shop vac bags / safety googles
 
 # Faculty Meeting
 
@@ -80,6 +81,7 @@ Home Depot
 - HACKING the trigger bit requirement
 - Debugging the noFvT weights.. found errror.. Fixing...
 - Make new ggHbb plots...sent to Marko
+- [>>] Update AN and twiki
 
 # Kettle Bells
 - halos and 20 EMOM
@@ -91,4 +93,5 @@ Some Zettlekasten:
 [[Role of Government in Free Market economy]]
 [[Why Free Markets should be default type of political organization]]
 
+Did prep for OSHER 3
 
