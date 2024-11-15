@@ -27,13 +27,9 @@ Towards v4
 	    - [ ] 34 (Need to add nPseudoTagJets)
 	    - [ ] 36 - 40 are (No FvT plots)
 	    - [x] 42 - 49
-	    - [ ] 91
-	    - [ ] 92
-	    - [ ] 93
-	    - [ ] 98
-	    - [ ] 99
-	    - [ ] 100
-	    - [ ] 101
+	    - [ ] 91-93 (From Combine)
+	    - [x] 98
+	    - [ ] 99 - 101 (From Combine)
 	- [ ] Add κλ scan
 
 
