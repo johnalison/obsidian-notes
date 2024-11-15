@@ -63,8 +63,7 @@
               "title": "Run2 HH4b AN"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -137,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-projects/HH4b/Run2 HH4b AN.md",
+                "file": "Journal/15 November 2024 Friday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +146,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Run2 HH4b AN"
+              "title": "Backlinks for 15 November 2024 Friday"
             }
           },
           {
@@ -156,12 +155,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-projects/HH4b/Run2 HH4b AN.md",
+                "file": "Journal/15 November 2024 Friday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Run2 HH4b AN"
+              "title": "Outgoing links from 15 November 2024 Friday"
             }
           },
           {
@@ -183,10 +182,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-projects/HH4b/Run2 HH4b AN.md"
+                "file": "Journal/15 November 2024 Friday.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Run2 HH4b AN"
+              "title": "Outline of 15 November 2024 Friday"
             }
           }
         ],
@@ -208,10 +207,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "795bcb14775b6f71",
+  "active": "9862cb844a1a934c",
   "lastOpenFiles": [
-    "Journal/15 November 2024 Friday.md",
     "1-projects/HH4b/Run2 HH4b AN.md",
+    "Journal/15 November 2024 Friday.md",
     "Journal/7 November 2024 Thursday.md",
     "Journal/8 November 2024 Friday.md",
     "Journal/10 November 2024 Sunday.md",

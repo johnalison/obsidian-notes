@@ -7,16 +7,16 @@
 | 10  | AN               |     |
 |     | AN               |     |
 | 11  | Titus            |     |
-|     |                  |     |
+|     | AN               |     |
 | 12  | HEP Lunch        |     |
 |     | HEP Lunch        |     |
 | 1   | HEP Lunch        |     |
-|     |                  |     |
+|     | Andre Visit      |     |
 | 2   | Andre Visit      |     |
 |     | Andre Visit      |     |
-| 3   | Andre Visit      |     |
-|     | Andre Visit      |     |
-| 4   | Andre Visit      |     |
+| 3   | Setup            |     |
+|     | AN               |     |
+| 4   | AN               |     |
 |     | Leave            |     |
 
 **W:**
@@ -47,7 +47,7 @@ M&T to school
 
 _Econ is the highest-paid of all the easy majors._
 
-
+Chat with Sufie: Pissed at Curtis
 # Working [[Run2 HH4b AN]]
 - [x] Update AN and twiki with ggHbb
 - script to make plots from histAll.coffea
@@ -64,3 +64,10 @@ Names for [[Lab Techs Fall 2024]] from MP
 
 more [[Run2 HH4b AN]] see above
 
+
+# Hep Lunch 
+
+
+# Chat Andre
+- Will offer 32/hr
+- [x] Ping Jessica and Andre (cc:MP) 
