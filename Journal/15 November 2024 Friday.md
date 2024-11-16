@@ -91,3 +91,6 @@ Solo dad
 Looking into mixed data
 
 Peter Theil:  Where is science too dogmatic ?
+
+P2UG Close-Out
+https://indico.cern.ch/event/1471927/contributions/6197515/attachments/2967027/5220410/CMS_P2UG_Nov2024_closeout_v4.pdf
