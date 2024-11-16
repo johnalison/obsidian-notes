@@ -30,3 +30,5 @@ Running No FvT plots on 340
 	- Adding fit data to JCM plots
 - Updated JCM plots in AN
 - Adding nPSjet hists
+
+got $100 from CAPs study

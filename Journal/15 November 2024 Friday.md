@@ -53,8 +53,8 @@ Chat with Sufie: Pissed at Curtis
 - script to make plots from histAll.coffea
 - `python analysis/makePlotsAN.py hists/ANv3/histAll.coffea --out hists/ANv3/plots`
 - [ ] Bkg stat uncertianty in ratio band ?
-- [ ] Add nPseudoTagJets plot
-- [ ] Setup noFvT pipeline
+- [>>] Add nPseudoTagJets plot
+- [>>] Setup noFvT pipeline
 - [ ] Why is canJet Phi 0-pi ?
 
 Names for [[Lab Techs Fall 2024]] from MP
