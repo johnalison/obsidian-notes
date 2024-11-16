@@ -3,8 +3,13 @@
 # Log
 
 - [ ] Read ADA text
-- [ ] No FvT plots
+- [x] No FvT plots
 - [ ] Skimmer cut flow error
+- [ ] Reply to CL
+- [ ] nPseudoTagJets
+- [ ]  Mixed data summary plots
+- [ ] debug ttbar fraction in noJCM 
+- [ ] Redo plots with new JCM ?
 
 Running No FvT plots on 340
 
@@ -20,4 +25,7 @@ Running No FvT plots on 340
 - Added noFVT plots
 - Make JCM fits
 	- `python analysis/make_weights.py -o testJCM_Coffea -c passPreSel -r SB -i hists/histAll_noFvT.coffea `
+	- `python analysis/make_weights.py -o testJCM_Coffea_fix_e -c passPreSel -r SB -i hists/histAll_noFvT.coffea  -fix_e`
+	- `python analysis/make_weights.py -o testJCM_Coffea_fix_d -c passPreSel -r SB -i hists/histAll_noFvT.coffea  -fix_d`
 	- Adding fit data to JCM plots
+- Updated plots

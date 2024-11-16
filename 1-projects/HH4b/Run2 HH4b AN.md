@@ -23,7 +23,7 @@ Towards v4
 - [ ] Add to AN
     - [ ] Update plots with new code
 	    - [ ] fig 32 (Problem with ttbar Fraction)
-	    - [ ] 33 (From JCM Fits)
+	    - [x] 33 (From JCM Fits)
 	    - [ ] 34 (Need to add nPseudoTagJets)
 	    - [x] 36 - 40 are (No FvT plots)
 	    - [x] 42 - 49 (FvT Plots)
