@@ -10,6 +10,8 @@
 - [ ]  Mixed data summary plots
 - [ ] debug ttbar fraction in noJCM 
 - [ ] Redo plots with new JCM ?
+- [ ] Ping Lab Tech v2
+- [ ] stat error in ratio
 
 Running No FvT plots on 340
 
@@ -30,5 +32,7 @@ Running No FvT plots on 340
 	- Adding fit data to JCM plots
 - Updated JCM plots in AN
 - Adding nPSjet hists
+- Updating plots pre JCM:  (got mu_QCD from the JCM fit)
+- `python  analysis/makePlotsAN_noFvT_muQCD.py hists/ANv3/histAll_noFvT.coffea --out hists/ANv3/plots_noFvT_muQCD -m analysis/metadata/plotsAllNoFvT_muQCD.yml`
 
 got $100 from CAPs study
