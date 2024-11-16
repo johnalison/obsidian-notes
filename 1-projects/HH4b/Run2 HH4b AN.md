@@ -25,8 +25,9 @@ Towards v4
 	    - [ ] fig 32 (Problem with ttbar Fraction)
 	    - [ ] 33 (From JCM Fits)
 	    - [ ] 34 (Need to add nPseudoTagJets)
-	    - [ ] 36 - 40 are (No FvT plots)
-	    - [x] 42 - 49
+	    - [x] 36 - 40 are (No FvT plots)
+	    - [x] 42 - 49 (FvT Plots)
+	    - [ ] 72 Mixed data summary plots
 	    - [ ] 91-93 (From Combine)
 	    - [x] 98
 	    - [ ] 99 - 101 (From Combine)
