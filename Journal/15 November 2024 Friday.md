@@ -32,7 +32,7 @@
 - [ ] Histograms to cutflow
 - [ ] Work [[Run2 HH4b AN]]
 - [ ]  Read HGC TDR
-- [ ]  Chat AE re:FB2C and bbWW
+- [x]  Chat AE re:FB2C and bbWW
 - [x] Send jonas Lab layouts
 - [x] Update AN and twiki with ggHbb
 

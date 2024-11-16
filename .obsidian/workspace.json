@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/15 November 2024 Friday.md",
+                "file": "Journal/16 November 2024 Saturday.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "15 November 2024 Friday"
+              "title": "16 November 2024 Saturday"
             }
           },
           {
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/15 November 2024 Friday.md",
+                "file": "Journal/16 November 2024 Saturday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 15 November 2024 Friday"
+              "title": "Backlinks for 16 November 2024 Saturday"
             }
           },
           {
@@ -155,12 +155,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/15 November 2024 Friday.md",
+                "file": "Journal/16 November 2024 Saturday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 15 November 2024 Friday"
+              "title": "Outgoing links from 16 November 2024 Saturday"
             }
           },
           {
@@ -182,10 +182,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/15 November 2024 Friday.md"
+                "file": "Journal/16 November 2024 Saturday.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 15 November 2024 Friday"
+              "title": "Outline of 16 November 2024 Saturday"
             }
           }
         ],
@@ -209,8 +209,9 @@
   },
   "active": "9862cb844a1a934c",
   "lastOpenFiles": [
-    "1-projects/HH4b/Run2 HH4b AN.md",
     "Journal/15 November 2024 Friday.md",
+    "Journal/16 November 2024 Saturday.md",
+    "1-projects/HH4b/Run2 HH4b AN.md",
     "Journal/7 November 2024 Thursday.md",
     "Journal/8 November 2024 Friday.md",
     "Journal/10 November 2024 Sunday.md",
@@ -234,7 +235,6 @@
     "Input/Meetings/Colloq - Computing Challenges For Large Particle Physics Experiments.md",
     "Input/Meetings/Chat w Wes 12 November 2024.md",
     "0-inbox/Why Free Markets should be default type of political organization.md",
-    "Input/Blogs/Whose Standards are too high?.md",
     "Journal/#June 2024.md#",
     "Journal/October",
     "Input/Meetings/October",
