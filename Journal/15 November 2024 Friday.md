@@ -19,10 +19,10 @@
 | 4   | AN               |     |
 |     | Leave            |     |
 
-**W:**
-**DW:**
-**OT:**
-**ex** or **No ex**
+**W:**. 8 
+**DW:** 2 
+**OT:** 2
+ **No ex**
 
 # The ONE thing: 
 - [ ] Work the AN
@@ -72,3 +72,16 @@ more [[Run2 HH4b AN]] see above
 # Chat Andre
 - Will offer 32/hr
 - [x] Ping Jessica and Andre (cc:MP) 
+
+
+More Working AN... see above
+
+# Chat Sindhu
+- [ ]  Claims mixed data not working 
+
+Got M & T ... walk home .. got H 
+
+# Square Knot for M
+- left over right... right over left... pull all four ends.
+
+
