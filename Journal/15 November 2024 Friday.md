@@ -59,7 +59,7 @@ Chat with Sufie: Pissed at Curtis
 
 Names for [[Lab Techs Fall 2024]] from MP
 - [ ] Ping Round 2
-- [ ] Ping Ornella Pagliano re:salary
+- [>>] Ping Ornella Pagliano re:salary
 	- Start date / Salary range would you envision
 
 # Chat with Titus 

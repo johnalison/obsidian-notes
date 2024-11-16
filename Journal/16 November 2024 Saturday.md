@@ -7,19 +7,19 @@
 - [ ] Skimmer cut flow error
 - [x] Reply to CL
 - [x] nPseudoTagJets
-- [ ]  Mixed data summary plots
+- [ ] Mixed data summary plots
 - [ ] debug ttbar fraction in noJCM 
 - [ ] Redo plots with new JCM ?
-- [ ] Ping Lab Tech v2
+- [x] Ping Lab Tech v2
+- [x] Ping  Ornella Pagliano re:salary
 - [ ] stat error in ratio
 
-Running No FvT plots on 340
 
 # Reading Soheun draft
-
+- bailed
 
 # [[Run2 HH4b AN]]
-- Making noFvT plots
+- Making noFvT plots on 340
 - Make noFvT hists 
 	- `python runner.py -d data TTToHadronic TTToSemiLeptonic TTTo2L2Nu ZZ4b ZH4b GluGluToHHTo4B_cHHH1 -c analysis/metadata/HH4b_noFvT.yml   -p analysis/processors/processor_HH4b.py  -y UL17 UL18 UL16_preVFP UL16_postVFP -o histAll_noFvT.coffea -op hists/`
 - Making noFvT Plots
@@ -36,3 +36,7 @@ Running No FvT plots on 340
 - `python  analysis/makePlotsAN_noFvT_muQCD.py hists/ANv3/histAll_noFvT.coffea --out hists/ANv3/plots_noFvT_muQCD -m analysis/metadata/plotsAllNoFvT_muQCD.yml`
 
 got $100 from CAPs study
+
+Mom and Suzi over 
+
+More AN work
