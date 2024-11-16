@@ -89,3 +89,5 @@ Got M & T ... walk home .. got H
 Solo dad
 
 Looking into mixed data
+
+Peter Theil:  Where is science too dogmatic ?
