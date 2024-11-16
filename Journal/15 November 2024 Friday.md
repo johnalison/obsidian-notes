@@ -78,6 +78,7 @@ More Working AN... see above
 
 # Chat Sindhu
 - [ ]  Claims mixed data not working 
+- Looks like mixed data blinded
 
 Got M & T ... walk home .. got H 
 
@@ -85,3 +86,6 @@ Got M & T ... walk home .. got H
 - left over right... right over left... pull all four ends.
 
 
+Solo dad
+
+Looking into mixed data
