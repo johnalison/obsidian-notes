@@ -78,7 +78,7 @@ More Working AN... see above
 
 # Chat Sindhu
 - [ ]  Claims mixed data not working 
-- Looks like mixed data blinded
+- Looks like mixed data blinded... only in Snakemake ... found it
 
 Got M & T ... walk home .. got H 
 
