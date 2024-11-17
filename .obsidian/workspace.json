@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/Why hasn't economic progress lowered work hours more?.md",
+                "file": "Journal/16 November 2024 Saturday.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Why hasn't economic progress lowered work hours more?"
+              "title": "16 November 2024 Saturday"
             }
           },
           {
@@ -165,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/Why hasn't economic progress lowered work hours more?.md",
+                "file": "Journal/16 November 2024 Saturday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Why hasn't economic progress lowered work hours more?"
+              "title": "Backlinks for 16 November 2024 Saturday"
             }
           },
           {
@@ -184,12 +184,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/Why hasn't economic progress lowered work hours more?.md",
+                "file": "Journal/16 November 2024 Saturday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Why hasn't economic progress lowered work hours more?"
+              "title": "Outgoing links from 16 November 2024 Saturday"
             }
           },
           {
@@ -211,10 +211,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/Why hasn't economic progress lowered work hours more?.md"
+                "file": "Journal/16 November 2024 Saturday.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Why hasn't economic progress lowered work hours more?"
+              "title": "Outline of 16 November 2024 Saturday"
             }
           }
         ],
@@ -238,6 +238,8 @@
   },
   "active": "795bcb14775b6f71",
   "lastOpenFiles": [
+    "Journal/17 November 2024 Sunday.md",
+    "Input/Videos/Why hasn't economic progress lowered work hours more?.md",
     "0-inbox/Tool List.md",
     "0-inbox/Things-To-Add-To-Notes.md",
     "00-Zettelkasten/Our Default Point of View.md",
@@ -245,7 +247,6 @@
     "0-inbox/Potential Sources of Failure in Free Markets.md",
     "0-inbox/StartupSpending.md",
     "0-inbox/Waiting for.md",
-    "0-inbox/Why hasn't economic progress lowered work hours more?.md",
     "00-Zettelkasten/ZettelKasten Index.md",
     "00-Zettelkasten/We are a point of view, not a separate thing.md",
     "00-Zettelkasten/Potential of Insight.md",
@@ -263,7 +264,6 @@
     "Journal/16 November 2024 Saturday.md",
     "0-inbox/Lab Techs Fall 2024.md",
     "Journal/15 November 2024 Friday.md",
-    "Journal/7 November 2024 Thursday.md",
     "Journal/#June 2024.md#",
     "Journal/October",
     "Input/Meetings/October",

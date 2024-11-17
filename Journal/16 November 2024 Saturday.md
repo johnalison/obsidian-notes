@@ -8,7 +8,7 @@
 - [x] Reply to CL
 - [x] nPseudoTagJets
 - [ ] Mixed data summary plots
-- [ ] debug ttbar fraction in noJCM 
+- [x] debug ttbar fraction in noJCM 
 - [ ] Redo plots with new JCM ?
 - [x] Ping Lab Tech v2
 - [x] Ping  Ornella Pagliano re:salary
