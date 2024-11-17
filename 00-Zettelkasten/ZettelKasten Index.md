@@ -112,6 +112,9 @@ Index:
 
 [[Machine Learning is bottom up programing]]
 
+[[Role of Government in Free Market economy]]
+[[Free Markets good empirical track record]]
+
 
 # Free Will
 [[Free-Will-Lens-As-Mental-Model]]
@@ -120,3 +123,8 @@ Index:
 
 # LifeLong Learning
 [[Having children as education]]
+
+
+# Meditation
+[[Potential of Insight]]
+[[We are a point of view, not a separate thing]]

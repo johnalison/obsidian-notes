@@ -40,3 +40,7 @@ got $100 from CAPs study
 Mom and Suzi over 
 
 More AN work
+
+Sent Lab Tech emails
+
+# Ice cream with the the whole team

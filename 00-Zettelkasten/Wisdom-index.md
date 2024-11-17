@@ -20,15 +20,14 @@
 	[[Use ZettelKasting For Mindfulness]]
 	[[Kids-as-a-mindfulness-gauge]]
 
-# Perfection Not required
+
+#  [[Perfection Not Required]]
 effective self-improvement critical
 
 [[Seek out feedback loops]]
 [[Specialize in being the best version of you]]
 [[Get Better at getting better]]
 [[TheAmericanExperiment]]
-
-
 
 # Strict with yourself, Lenient with others.
 (Extreme Ownership)**
@@ -80,6 +79,8 @@ effective self-improvement critical
 [[StoicTestChallenge]]
 [[Dealing-With-Setbacks]]
 [[Function of Worry]]
+
+
 # Systems not Goals
 
 

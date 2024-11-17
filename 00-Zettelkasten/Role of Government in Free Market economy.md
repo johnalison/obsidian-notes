@@ -3,7 +3,7 @@ The default assumption for political organization should be free markets. Govern
 
 # Follow-ups
 [[Potential Sources of Failure in Free Markets]]
-[[Why Free Markets should be default type of political organization]]
+[[Free Markets good empirical track record]]
 
 
 # Links: 
