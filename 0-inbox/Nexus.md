@@ -152,9 +152,16 @@ JA: Communism as a negative example of AI alignment ?
   People in all countries and walks of life -- including even dictators -- might find themselves subservient to an alien intelligence that can monitor everything we do while we have little idea what it is doing. 
   The rest of this book, then, is dedicated to exploring whether such a Silicon Curtain is indeed descending on the world, and what liffe might look like when computers run our bureaucracies and algorithms invent new mythologies.
 
+# Chapter 6: How computers are different from printing presses
+
+[[Computer As Source of Current Historical Revolution]]
+- [[Computer revolution qualitatively more radical]]
+- [[Computers ability to become more powerful than humans]]
 
 
 
+
+ Disadvantages: lack of emotion (?)
 ## Follow-ups
 
 

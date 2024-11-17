@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-Zettelkasten/Role of Government in Free Market economy.md",
+                "file": "Journal/17 November 2024 Sunday.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Role of Government in Free Market economy"
+              "title": "17 November 2024 Sunday"
             }
           },
           {
@@ -27,26 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/Lab Techs Fall 2024.md",
+                "file": "0-inbox/Computer revolution qualitatively more radical.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lab Techs Fall 2024"
-            }
-          },
-          {
-            "id": "628c826ef22a44af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Input/Blogs/Whose Standards are too high?.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Whose Standards are too high?"
+              "title": "Computer revolution qualitatively more radical"
             }
           },
           {
@@ -69,30 +55,29 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/16 November 2024 Saturday.md",
+                "file": "0-inbox/Computer As Source of Current Historical Revolution.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "16 November 2024 Saturday"
+              "title": "Computer As Source of Current Historical Revolution"
             }
           },
           {
-            "id": "42cb003ccc840f8e",
+            "id": "5b96673702eaf885",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-Zettelkasten/We are a point of view, not a separate thing.md",
+                "file": "0-inbox/Computer revolution qualitatively more radical.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "We are a point of view, not a separate thing"
+              "title": "Computer revolution qualitatively more radical"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -165,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/16 November 2024 Saturday.md",
+                "file": "Journal/17 November 2024 Sunday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +160,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 16 November 2024 Saturday"
+              "title": "Backlinks for 17 November 2024 Sunday"
             }
           },
           {
@@ -184,12 +169,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/16 November 2024 Saturday.md",
+                "file": "Journal/17 November 2024 Sunday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 16 November 2024 Saturday"
+              "title": "Outgoing links from 17 November 2024 Sunday"
             }
           },
           {
@@ -211,10 +196,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/16 November 2024 Saturday.md"
+                "file": "Journal/17 November 2024 Sunday.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 16 November 2024 Saturday"
+              "title": "Outline of 17 November 2024 Sunday"
             }
           }
         ],
@@ -236,10 +221,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "795bcb14775b6f71",
+  "active": "9862cb844a1a934c",
   "lastOpenFiles": [
+    "0-inbox/Computer As Source of Current Historical Revolution.md",
+    "excalibrain.md",
+    "0-inbox/Nexus.md",
     "Journal/17 November 2024 Sunday.md",
+    "0-inbox/Drawing 2024-11-17 12.25.10.excalidraw.md",
     "Input/Videos/Why hasn't economic progress lowered work hours more?.md",
+    "0-inbox/Computer revolution qualitatively more radical.md",
+    "2-areas/Philosophy/Why Now is interesting.md",
+    "0-inbox/Lab Techs Fall 2024.md",
+    "00-Zettelkasten/Role of Government in Free Market economy.md",
+    "0-inbox/Computers ability to become more powerful than humans.md",
+    "0-inbox/Computer capabilities underestimated.md",
+    "Journal/16 November 2024 Saturday.md",
     "0-inbox/Tool List.md",
     "0-inbox/Things-To-Add-To-Notes.md",
     "00-Zettelkasten/Our Default Point of View.md",
@@ -253,17 +249,6 @@
     "Journal/9 November 2024 Saturday.md",
     "00-Zettelkasten/Wisdom-index.md",
     "00-Zettelkasten/TheAmericanExperiment.md",
-    "0-inbox/ARC HIG-24-017 Boosted VqqHbb.md",
-    "0-inbox/AnalysesOverview.excalidraw.md",
-    "00-Zettelkasten/Role of Government in Free Market economy.md",
-    "00-Zettelkasten/Free Markets good empirical track record.md",
-    "1-projects/HH4b/Run2 HH4b AN.md",
-    "Input/Blogs/Whose Standards are too high?.md",
-    "Input/Meetings/Hbb Meeting 13 November 2024.md",
-    "3-resources/computing/Computer Directory Setup.md",
-    "Journal/16 November 2024 Saturday.md",
-    "0-inbox/Lab Techs Fall 2024.md",
-    "Journal/15 November 2024 Friday.md",
     "Journal/#June 2024.md#",
     "Journal/October",
     "Input/Meetings/October",
