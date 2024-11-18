@@ -81,3 +81,19 @@ Mailed [[Osher Fall Particle Physics Course]] re:Lecture 3
 - 3/4/5s good games
 
 More skimmer debugging
+
+# Chat Aniket
+- discussed plan for optimization
+- 1d cuts vs 2d vs liklihood vs knn vs bdt ect
+- [ ] ping about oral
+- Clear how to proceed
+
+# Chat with Sindhu 
+- debugging mixed inputs
+
+
+To Pitt for colloq
+
+[[Science and the Global Economy]]
+
+Got kids... Home
