@@ -1,4 +1,8 @@
-https://indico.cern.ch/event/1471927/contributions/6197527/attachments/2960430/5206662/Incandela_HGC_SiModules_P2UG_5NOV2024_V1.pdf
+https://indico.cern.ch/event/1471927/
+
+https://indico.cern.ch/event/1471927/contributions/6197527/attachments/2960430/5207820/Incandela_HGC_SiModules_P2UG_5NOV2024_V2.pdf
+
+
 
 • Path end: Established default procedures/materials.
 

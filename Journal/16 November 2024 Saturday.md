@@ -2,17 +2,17 @@
 
 # Log
 
-- [ ] Read ADA text
+ [>>] Read ADA text
 - [x] No FvT plots
-- [ ] Skimmer cut flow error
+ [>>] Skimmer cut flow error
 - [x] Reply to CL
 - [x] nPseudoTagJets
-- [ ] Mixed data summary plots
+ [>>] Mixed data summary plots
 - [x] debug ttbar fraction in noJCM 
-- [ ] Redo plots with new JCM ?
+ [<<] Redo plots with new JCM ?
 - [x] Ping Lab Tech v2
 - [x] Ping  Ornella Pagliano re:salary
-- [ ] stat error in ratio
+ [>>] stat error in ratio
 
 
 # Reading Soheun draft
@@ -35,7 +35,7 @@
 - Updating plots pre JCM:  (got mu_QCD from the JCM fit)
 - `python  analysis/makePlotsAN_noFvT_muQCD.py hists/ANv3/histAll_noFvT.coffea --out hists/ANv3/plots_noFvT_muQCD -m analysis/metadata/plotsAllNoFvT_muQCD.yml`
 
-got $100 from CAPs study
+Got $100 from CAPs study
 
 Mom and Suzi over 
 

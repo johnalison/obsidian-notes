@@ -22,7 +22,7 @@
 **W:**  6
 **DW:** 3
 **OT:** 1
-**ex** or **No ex**
+**ex** 
 
 # The ONE thing: 
 - [ ] L3 Comments
@@ -33,7 +33,7 @@
 - [>>]  Read HGC TDR
 - [>>] Quantify variation among synthetic datasets
 - [>>] Compare mixed to synthetic to threeTag
-- [>>] ARC comments
+- [>>] VqqHbb ARC comments
 
 [[ToDo]]
 
@@ -47,7 +47,7 @@ M & T to school
 
 [[Osher Fall Particle Physics Course]]
 
-48 Hexaboards being shipped this week from CERN
+48 Hexaboards being shipped this week from CERN !
 
 Pinged Josh for  [[Lab Techs Fall 2024]]... waiting on input for others.
 
@@ -68,11 +68,14 @@ AN: https://cms.cern.ch/iCMS/jsp/db_notes/noteInfo.jsp?cmsnoteid=CMS%20AN-2024/0
 
 Working plots. 
 - [>>] ggHbb 3b w/o and w JCM
+
 # Osher Lecture 2
 - went well. 
 - Gave email to someone from NYC, maybe do remote version for them ?
 
+
 Prepped Lecture 3
+
 
 Finished [[Nexus]]
 

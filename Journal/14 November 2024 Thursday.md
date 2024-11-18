@@ -22,7 +22,7 @@
 **W:** 5 
 **DW:** 1
 **OT:** 1
-**ex** 
+**No ex** 
 
 # The ONE thing: 
 - [ ] Demo Day
@@ -31,12 +31,12 @@
 # To Do
 - [x] Iterate with Lab Tech
 - [x] OSHER: Prep lecture 3
-- [>>]  Read HGC TDR
-- [<<] Quantify variation among synthetic datasets ([[Jet DeClustering]])
-- [<<] Compare mixed to synthetic to threeTag ([[Jet DeClustering]])
+ [>>]  Read HGC TDR
+ [<<] Quantify variation among synthetic datasets ([[Jet DeClustering]])
+ [<<] Compare mixed to synthetic to threeTag ([[Jet DeClustering]])
 - [x] VqqHbb ARC comments
-- [>>]  Histograms to cutflow
-- [>>] Work [[Run2 HH4b AN]]
+ [>>]  Histograms to cutflow
+ [>>] Work [[Run2 HH4b AN]]
 - [x] ggHbb 3b w/o and w JCM
 
 
@@ -88,7 +88,7 @@ Home Depot... wall anchors / shop vac bags / safety googles
 
 Responded to [[ARC HIG-24-017 Boosted VqqHbb]] replies
 
-Some Zettlekasten:
+# Some Zettlekasten:
 [[Potential Sources of Failure in Free Markets]]
 [[Role of Government in Free Market economy]]
 [[Free Markets good empirical track record]]

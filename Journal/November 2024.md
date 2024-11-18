@@ -14,9 +14,9 @@
 | 12 T | Working AN / Finances 2.2 / Pitt for computing colloq / Chat Olivito            | 7/2/2 |
 | 13 W | (Osher #2) (Update in Hbb) **Hoops** / **Osher** / prep Lecture 3 / [[Nexus]]   | 6/3/1 |
 | 14 H | Demo Ts room / [[Run2 HH4b AN]] / Home depot / **Kettle Bells** / ARC work      | 5/1/1 |
-| 15 F | (Andre Visit) (Steph Away)                                                      |       |
-| 16 S | (Steph Away)                                                                    |       |
-| 17 S | (Steph Away)                                                                    |       |
+| 15 F | (Andre Visit) (Steph Away) Fall Review / AN / Hep Lunch / solo dad              | 8/2/2 |
+| 16 S | (Steph Away) Lots of AN work / solo dad / mom+ over / Ice cream                 |       |
+| 17 S | (Steph Away) Reading / Zettelkasten / Excalibrain / H Hoops / [[Nexus]]         |       |
 | 18 M |                                                                                 |       |
 | 19 T |                                                                                 |       |
 | 20 W | (Osher #3)                                                                      |       |
@@ -28,6 +28,6 @@
 | 26 T |                                                                                 |       |
 | 27 W | (No Osher)                                                                      |       |
 | 28 H | (Thanksgiving)                                                                  |       |
-| 29 F |                                                                                 |       |
+| 29 F | (No Cyert)                                                                      |       |
 | 30 S |                                                                                 |       |
 | 31 S |                                                                                 |       |

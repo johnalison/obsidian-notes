@@ -29,9 +29,9 @@
 
 
 # To Do
-- [ ] Histograms to cutflow
-- [ ] Work [[Run2 HH4b AN]]
-- [ ]  Read HGC TDR
+ [>>] Histograms to cutflow
+ [>>] Work [[Run2 HH4b AN]]
+ [>>]  Read HGC TDR
 - [x]  Chat AE re:FB2C and bbWW
 - [x] Send jonas Lab layouts
 - [x] Update AN and twiki with ggHbb
@@ -52,14 +52,14 @@ Chat with Sufie: Pissed at Curtis
 - [x] Update AN and twiki with ggHbb
 - script to make plots from histAll.coffea
 - `python analysis/makePlotsAN.py hists/ANv3/histAll.coffea --out hists/ANv3/plots`
-- [ ] Bkg stat uncertianty in ratio band ?
-- [>>] Add nPseudoTagJets plot
-- [>>] Setup noFvT pipeline
-- [ ] Why is canJet Phi 0-pi ?
+ [>>] Bkg stat uncertianty in ratio band ?
+ [>>] Add nPseudoTagJets plot
+ [>>] Setup noFvT pipeline
+ [>>] Why is canJet Phi 0-pi ?
 
 Names for [[Lab Techs Fall 2024]] from MP
-- [ ] Ping Round 2
-- [>>] Ping Ornella Pagliano re:salary
+ [>>] Ping Round 2
+ [>>] Ping Ornella Pagliano re:salary
 	- Start date / Salary range would you envision
 
 # Chat with Titus 
@@ -78,7 +78,7 @@ more [[Run2 HH4b AN]] see above
 More Working AN... see above
 
 # Chat Sindhu
-- [ ]  Claims mixed data not working 
+- [x]  Claims mixed data not working 
 - Looks like mixed data blinded... only in Snakemake ... found it
 
 Got M & T ... walk home .. got H 
@@ -93,5 +93,5 @@ Looking into mixed data
 
 Peter Theil:  Where is science too dogmatic ?
 
-P2UG Close-Out
+P2UG Close-Out (strong words for HGC...)
 https://indico.cern.ch/event/1471927/contributions/6197515/attachments/2967027/5220410/CMS_P2UG_Nov2024_closeout_v4.pdf

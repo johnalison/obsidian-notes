@@ -4,10 +4,10 @@
 
 [[Character building as focal point]]
 
-# From [[StagesOfAwaking]]:
-[[Potential of Insight]]
-[[Our Default Point of View]]
-[[We are a point of view, not a separate thing]]
+# Zettlekasten [[StagesOfAwaking]]:
+- [[Potential of Insight]]
+- [[Our Default Point of View]]
+- [[We are a point of view, not a separate thing]]
 
 
 # Sent AE Letter of support 

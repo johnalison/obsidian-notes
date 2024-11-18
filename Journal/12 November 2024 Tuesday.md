@@ -22,7 +22,7 @@
 **W:** 7 
 **DW:** 2
 **OT:** 2
-**ex** or **No ex**
+ **No ex**
 
 # The ONE thing: 
 - [ ] Finish AN
@@ -85,8 +85,9 @@ Got Invitation for PGSS next year.
 
 Home 
 
-Chat w/Lynn re:Buying ETH
+Chat w/Lynn re:Buying BTC/ETH
 
 Some [[Nexus]]
+
 # Chat Olivito
 - Saxon wants to be an artist

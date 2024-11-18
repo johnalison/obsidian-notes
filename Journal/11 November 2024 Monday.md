@@ -22,7 +22,7 @@
 **W:**. 7 
 **DW:** 0 
 **OT:**  2 
-**ex** or **No ex**
+**ex** 
 
 # The ONE thing: 
 - [ ] Slides / AN Answers for Wednesday
@@ -49,7 +49,7 @@ Up at 6:45
 
 M&T to school 
 
-Tree branch caused hole in roof ! ... Tree must go.
+Tree branch caused hole in roof ! ... Tree must go :(
 
 Pinged Andre re:visit 
 

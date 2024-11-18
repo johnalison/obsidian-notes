@@ -15,10 +15,12 @@ Cut a v3:
 	- [ ] Blinded prefit plots (JA)
 
 
+
 Towards v4
 - [ ] Update nominal background for k-folding
 - [ ] cutflow hists
 - [ ] Try new SvB classifier for kλ
+- [ ]  Redo plots with new JCM ?
 - [ ] Try to Correct bias from ZZ region (?)
 - [ ] Add to AN
     - [ ] Update plots with new code
@@ -33,6 +35,8 @@ Towards v4
 	    - [ ] 99 - 101 (From Combine)
 	- [ ] Add κλ scan
 
+
+# Daily Logs
 
 
 
