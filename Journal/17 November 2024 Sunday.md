@@ -27,3 +27,8 @@ Ornella writes back.
 Home 
 
 Made shrimp 
+
+w/kids
+
+# Finished writing up [[Nexus]]
+- Working Zettlekasten.. translate the book notes into my own words. 

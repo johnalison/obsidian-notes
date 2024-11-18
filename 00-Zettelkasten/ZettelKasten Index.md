@@ -89,7 +89,8 @@ Index:
 # AI
 
 [[AI-and-creating-our-own-Gods]]
-
+[[Computer As Source of Current Historical Revolution]]
+[[AI Most Pressing Issue of our Time]]
 
 # Productivity 
 [[Most-of-what-we-do-is-unnecessary]]

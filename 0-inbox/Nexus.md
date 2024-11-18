@@ -11,13 +11,13 @@ Yuval Noah Harari
 
 -) The tendency to create powerful things with unintended consequesnces started not with the invention of the steam engine or AI but with the invention of religion
 
--)  Power alway stems from cooperation between large numbers of humans
+-)  Power always stems from cooperation between large numbers of humans
 
 -)  The main argument of this book is that humankind gains enormous power by building large networks of cooperation, but the way these networks are built predisposes us to use that power unwisely. Our problem, then is a network problem.
 
 -)  It is an information problem. Information is the glue that holds networks together. But for 10 of thousands of year, Sapiens built and maintained large networks by inventing and spreading fictions, fantasies, and mass delusions.
 
--)  The niave view of information: by gathering and processing much more information than individuals can, big networks achieve a better undersstanding of medicine, physics, economics, and numerous other fields, which makes the network not only powerful but wise. This view posits that in sufficient quantities information leads to truth, and truth in turn leads to both power and wisdom.  
+-)  The niave view of information: by gathering and processing much more information than individuals can, big networks achieve a better understanding of medicine, physics, economics, and numerous other fields, which makes the network not only powerful but wise. This view posits that in sufficient quantities information leads to truth, and truth in turn leads to both power and wisdom.  
 
 Ignorance-- on this account-- leads nowhere. While delusional or deceitful networks might arise in moments of crisis, in the long-term they are bout to lose to more clear-sighted and honest rivals. 
 
@@ -159,9 +159,20 @@ JA: Communism as a negative example of AI alignment ?
 - [[Computers ability to become more powerful than humans]]
 
 
+# Chapter 9: Democracies: Can we still hold a conversation ?
+
+jeremiads - a long mournful complaint, a list of woes
+
+# Epiloge
+
+My goal with this book is to provide a more accurate historical perspective on the AI revolution. 
+
+[[AI Most Pressing Issue of our Time]]
 
 
- Disadvantages: lack of emotion (?)
+
+
+
 ## Follow-ups
 
 
