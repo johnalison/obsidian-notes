@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "p2ug",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -101,7 +101,8 @@
               "title": "Files"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -194,13 +195,13 @@
   },
   "active": "9862cb844a1a934c",
   "lastOpenFiles": [
+    "Input/Meetings/HGC MAC P2UG Silicon Modules.md",
+    "Journal/18 November 2024 Monday.md",
     "0-inbox/CAM Variance November 2024.md",
     "Output/CAM/CAM Variance October 2024.md",
-    "Input/Meetings/HGC MAC P2UG Silicon Modules.md",
     "Journal/4 November 2024 Monday.md",
     "Journal/12 November 2024 Tuesday.md",
     "Journal/13 November 2024 Wednesday.md",
-    "Journal/18 November 2024 Monday.md",
     "Output/CAM/CAM Variance September 2024.md",
     "Output/CAM/CAM Variance August 2024.md",
     "Journal/November 2024.md",

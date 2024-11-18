@@ -14,7 +14,7 @@
 |     | skimmer            |     |
 | 2   | skimmer            |     |
 |     | Chat Sindhu        |     |
-| 3   |                    |     |
+| 3   | Walk to PITT       |     |
 |     | Pitt Colloq        |     |
 | 4   | Pitt Colloq        |     |
 |     | Pitt Colloq        |     |
@@ -71,4 +71,13 @@ Mailed [[Osher Fall Particle Physics Course]] re:Lecture 3
 - Running out of diskspace on ~/home
 - moved `.apptainer -> /uscms/home/jda102/nobackup/.apptainer`
 - Now running ! 
-- job fails b/c missing Nano input file...
+- job fails b/c missing Nano input file... 
+- [ ] Download NANO locally and add to eos
+- skimmer job now running. 
+- Ran in HEAD Run3SyntheticData (**5d94291**) ... cutflow fails.
+- Ran in origin master( **1ac47f3**) ... fails... but not by much 
+- Trying in **2e0fad9** ... also fails by a little (should debug master)
+# Hoops 
+- 3/4/5s good games
+
+More skimmer debugging
