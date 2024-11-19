@@ -9,6 +9,8 @@
 	- Need spread sheet form Manfred...pinged him
 
 
+https://docs.google.com/spreadsheets/d/1PWj6JIvCmMzZLiagedCTp9tm09GdRMhWJG3yRQuG7rs/edit?gid=156788291#gid=156788291
+
 # Follow-ups
 
 
