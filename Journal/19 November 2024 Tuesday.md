@@ -50,8 +50,9 @@ Up at 7:15
 w/M 
 
 # Debugging skimmer-analysis-cutflow-job
-- [ ] Update cutflows
-- [ ] Get CI running
+- [x] Update cutflows
+- Skimmer cutflow fails in CI !
+
 
 Reading LHCC:
 - https://indico.cern.ch/event/1470570/contributions/6191103/attachments/2969273/5225159/CMSStatusReport_LHCC_AdW_18112024.pdf
