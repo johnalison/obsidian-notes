@@ -30,10 +30,10 @@
 
 # To Do
 - [x] Ping Lab Techs
-- [>>]  Read HGC TDR
-- [>>] Quantify variation among synthetic datasets
-- [>>] Compare mixed to synthetic to threeTag
-- [>>] VqqHbb ARC comments
+ [>>]  Read HGC TDR
+ [>>] Quantify variation among synthetic datasets
+ [>>] Compare mixed to synthetic to threeTag
+ [>>] VqqHbb ARC comments
 
 [[ToDo]]
 
@@ -58,16 +58,13 @@ AN: https://cms.cern.ch/iCMS/jsp/db_notes/noteInfo.jsp?cmsnoteid=CMS%20AN-2024/0
 
 # [[Hbb Meeting 13 November 2024]]
 
-
-- [>>] HIstograms to cutflow
+# Working AN plots. 
+ [>>] HIstograms to cutflow
 - [x] colors
-
+ [>>] ggHbb 3b w/o and w JCM
 
 # Hoops 
 - 3s,  4s and 5s played well no shots.
-
-Working plots. 
-- [>>] ggHbb 3b w/o and w JCM
 
 # Osher Lecture 2
 - went well. 

@@ -42,20 +42,14 @@ Up at 7:15
 
 M&T to school
 
-# Quarterly Reivew
-[[Fall 2024]]
+# Quarterly Review [[Fall 2024]]
 
 _Econ is the highest-paid of all the easy majors._
 
 Chat with Sufie: Pissed at Curtis
+
 # Working [[Run2 HH4b AN]]
-- [x] Update AN and twiki with ggHbb
-- script to make plots from histAll.coffea
-- `python analysis/makePlotsAN.py hists/ANv3/histAll.coffea --out hists/ANv3/plots`
- [>>] Bkg stat uncertianty in ratio band ?
- [>>] Add nPseudoTagJets plot
- [>>] Setup noFvT pipeline
- [>>] Why is canJet Phi 0-pi ?
+- see daily logs
 
 Names for [[Lab Techs Fall 2024]] from MP
  [>>] Ping Round 2
@@ -64,8 +58,7 @@ Names for [[Lab Techs Fall 2024]] from MP
 
 # Chat with Titus 
 
-more [[Run2 HH4b AN]] see above
-
+More [[Run2 HH4b AN]] see above
 
 # Hep Lunch 
 

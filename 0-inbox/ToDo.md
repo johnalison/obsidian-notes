@@ -12,7 +12,7 @@ These should be on Daily's page  !
 - [x] CMU Security Course
 - [ ] Synthetic datasets for boosted
 - [ ] Apply for more bridges money
-
+- [ ] Workstudy Lab hand
 # Not Important + Due Soon
 DON'T DO
 

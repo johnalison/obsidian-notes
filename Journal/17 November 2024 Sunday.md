@@ -12,7 +12,8 @@ Writing up [[Nexus]] (starting to do it in my own words...)
 
 Ornella writes back.
 - Interested, $65-70k,
-- January OK
+- January OK 
+- ... will interview
 
 
 

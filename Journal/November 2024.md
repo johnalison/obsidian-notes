@@ -17,7 +17,7 @@
 | 15 F | (Andre Visit) (Steph Away) Fall Review / AN / Hep Lunch / solo dad              | 8/2/2 |
 | 16 S | (Steph Away) Lots of AN work / solo dad / mom+ over / Ice cream                 |       |
 | 17 S | (Steph Away) Reading / Zettelkasten / Excalibrain / H Hoops / [[Nexus]]         |       |
-| 18 M |                                                                                 |       |
+| 18 M | VAR / Connor fight Adam / Debug skimmer / **Hoops** / Pat Gallagher colloq      | 6/2/1 |
 | 19 T |                                                                                 |       |
 | 20 W | (Osher #3)                                                                      |       |
 | 21 H |                                                                                 |       |

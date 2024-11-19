@@ -30,10 +30,10 @@
 
 # To Do
 - [x] Call Andre References
-- [>>] Read HGC TDR
+ [>>] Read HGC TDR
 - [x] Fine tune TEXINPUTS for local compile
-- [>>] Quantify variation among synthetic datasets
-- [>>] Compare mixed to synthetic to threeTag
+ [>>] Quantify variation among synthetic datasets
+ [>>] Compare mixed to synthetic to threeTag
 - [x] Add ZZ/ZH study to AN
 - [x] LabTech Round 2: Jr Tech
 - [x] Reply to Andre
