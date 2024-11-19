@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/HGCManagementMeeting 19 November 2024.md",
+                "file": "Journal/19 November 2024 Tuesday.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HGCManagementMeeting 19 November 2024"
+              "title": "19 November 2024 Tuesday"
             }
           },
           {
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/HGCManagementMeeting 19 November 2024.md",
+                "file": "Journal/19 November 2024 Tuesday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for HGCManagementMeeting 19 November 2024"
+              "title": "Backlinks for 19 November 2024 Tuesday"
             }
           },
           {
@@ -155,12 +155,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/HGCManagementMeeting 19 November 2024.md",
+                "file": "Journal/19 November 2024 Tuesday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from HGCManagementMeeting 19 November 2024"
+              "title": "Outgoing links from 19 November 2024 Tuesday"
             }
           },
           {
@@ -182,10 +182,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/HGCManagementMeeting 19 November 2024.md"
+                "file": "Journal/19 November 2024 Tuesday.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of HGCManagementMeeting 19 November 2024"
+              "title": "Outline of 19 November 2024 Tuesday"
             }
           }
         ],
@@ -209,9 +209,9 @@
   },
   "active": "9862cb844a1a934c",
   "lastOpenFiles": [
+    "0-inbox/HGCManagementMeeting 19 November 2024.md",
     "Journal/19 November 2024 Tuesday.md",
     "0-inbox/HGC Transfer Tape BCR.md",
-    "0-inbox/HGCManagementMeeting 19 November 2024.md",
     "0-inbox/CMU HGC Mac Meeting 19 November 2024.md",
     "Journal/18 November 2024 Monday.md",
     "Input/Meetings/CMU HGC Mac Meeting 12 November 2024.md",

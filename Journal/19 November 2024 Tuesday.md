@@ -56,7 +56,7 @@ w/M
 - From Snakemake: 
 - Help from CL
 - Still fails ... now only one event difference 
-- 
+- `python analysis/debugSkimming.py output/skimmer_analysis_test_job/test_skimmer.coffea output/test_skimmer_CI.coffea `
 
 
 
