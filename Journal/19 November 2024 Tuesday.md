@@ -61,7 +61,8 @@ w/M
 - `python analysis/debugSkimming.py output/skimmer_analysis_test_job/test_skimmer.coffea output/test_skimmer_CI.coffea `
 - found the event that is the differnece 
 	- xZZ: local: **2.5999363** vs  CI: **2.60000545**
-		
+	- The input fourvectors all agreed to precision 
+- Changing cutflow use a threshold of 0.1 %
 
 
 
