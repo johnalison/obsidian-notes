@@ -38,6 +38,12 @@ Towards v4
 
 # Daily Logs
 
+[[13 November 2024 Wednesday]]
+ [>>] HIstograms to cutflow
+- [x] colors
+ [>>] ggHbb 3b w/o and w JCM
+
+
 [[14 November 2024 Thursday]]
 Looking into ggHbb
 - `python runner.py -p analysis/processors/processor_HH4b.py -y UL18 -d ttHbb ggHbb -c analysis/metadata/HH4b_rareBkgs.yml -o test_ttHbb_ggHbb.coffea -op hists/`

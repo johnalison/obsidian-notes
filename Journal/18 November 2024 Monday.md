@@ -36,7 +36,7 @@
 - [x] Mail re:OSHER 3
 ([[Todo]]) [<<] Workstudy Lab hand
 [>>]  Work [[Run2 HH4b AN]]
-	 - [ ] Mixed data summary plots
+	  [>>] Mixed data summary plots
  [>>] Read HGC TDR
  [>>] Code base work
 	[>>] Histograms to cutflow
@@ -55,7 +55,7 @@ M&T to school
 
 " make the ordinary come alive, the extraordinary will take care of itself."
 
-Kussela on the HEP grant ?
+([[Manfred]]) [<<] Kussela on the HEP grant ?
 
 Connor over... gets in fight with Adam
 - Use to our advantage! repair relationship ! 
@@ -78,8 +78,8 @@ Mailed [[Osher Fall Particle Physics Course]] re:Lecture 3
 - Ran in origin master( **1ac47f3**) ... fails... but not by much 
 - Trying in **2e0fad9** ... also fails by a little (should debug master)
 - added rounding to master
-- [ ] Update cutflows
-- [ ] Get CI running
+ [>>] Update cutflows
+ [>>] Get CI running
 # Hoops 
 - 3/4/5s good games
 

@@ -1,1 +1,2 @@
-Manfred gone for week and a half starting on Aug 7th
+
+Kussela on the HEP grant ?

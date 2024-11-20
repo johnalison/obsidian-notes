@@ -58,10 +58,8 @@ AN: https://cms.cern.ch/iCMS/jsp/db_notes/noteInfo.jsp?cmsnoteid=CMS%20AN-2024/0
 
 # [[Hbb Meeting 13 November 2024]]
 
-# Working AN plots. 
- [>>] HIstograms to cutflow
-- [x] colors
- [>>] ggHbb 3b w/o and w JCM
+# Working [[Run2 HH4b AN]]  plots. 
+- See dailys above
 
 # Hoops 
 - 3s,  4s and 5s played well no shots.
