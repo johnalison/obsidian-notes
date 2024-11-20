@@ -35,6 +35,7 @@
 - [ ]  Work [[Run2 HH4b AN]]
 	 - [ ] Mixed data summary plots
 - [ ] BCR
+	- [ ] Read BOE
 - [ ] Code base work
 	- [ ] Histograms to cutflow
 	- [ ] Bkg stat uncertainty in ratio band ?
@@ -56,7 +57,9 @@ M&T to school
 - `source  .ci-workflows/analysis-mixed-all.sh`
 - Found bug with multi-jet weights for mixed background ... 
 - Fixing CI... after merge with johnda/master
-- 
+- Fixed CI
+- Now to mixed data summary plots
+- ` python -i analysis/iPlot.py --comb hists/ANv3/histAll_noFvT.coffea hists/ANv3/histMixedData.coffea  -m analysis/metadata/plotMixedVsDataVs3b.yml`
 
 
 Chat MP: 
@@ -64,8 +67,15 @@ Chat MP:
 - Maybe add Kussela to the DOE grant ?
 
 
-Contact for Lumafield 
+# Contact for Lumafield 
 
 Hello,  
 
   My name is John Alison and I am 
+
+
+# Hoops 
+- Great games 4/5s 
+- Me and Alvin dominating 
+
+More .. [[Run2 HH4b AN]] (see above)
