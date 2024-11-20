@@ -41,6 +41,7 @@
 	- [ ] Why is canJet Phi 0-pi ?
 	- [x] fix skimmer cutflow
 	- [ ] clean JCM code
+	- [ ] Matplotlib ".py"
 
 # Log
 
@@ -53,4 +54,18 @@ M&T to school
 - Working the mixed data summary plots
 - Running on **cmslpc336**
 - `source  .ci-workflows/analysis-mixed-all.sh`
+- Found bug with multi-jet weights for mixed background ... 
+- Fixing CI... after merge with johnda/master
 - 
+
+
+Chat MP: 
+- will send me a relevant BOE
+- Maybe add Kussela to the DOE grant ?
+
+
+Contact for Lumafield 
+
+Hello,  
+
+  My name is John Alison and I am 
