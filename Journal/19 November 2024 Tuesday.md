@@ -1,28 +1,28 @@
 # Timeblock
 
-|     | setup     |     |
-| --- | --------- | --- |
-| 9   | to campus |     |
-|     | Wes       |     |
-| 10  | HGC       |     |
-|     | skimmer   |     |
-| 11  | skimmer   |     |
-|     | skimmer   |     |
-| 12  | CMU HGC   |     |
-|     | CMU HGC   |     |
-| 1   | home w/T  |     |
-|     | home w/T  |     |
-| 2   |           |     |
-|     |           |     |
-| 3   | mans      |     |
-|     | mans      |     |
-| 4   | mans      |     |
-|     | Berman    |     |
+|     | setup      |     |
+| --- | ---------- | --- |
+| 9   | to campus  |     |
+|     | Wes        |     |
+| 10  | HGC        |     |
+|     | skimmer    |     |
+| 11  | skimmer    |     |
+|     | skimmer    |     |
+| 12  | CMU HGC    |     |
+|     | CMU HGC    |     |
+| 1   | home w/T   |     |
+|     | home w/T   |     |
+| 2   | skimmer    |     |
+|     | Tree       |     |
+| 3   | mans       |     |
+|     | mans       |     |
+| 4   | mans       |     |
+|     | ~~Berman~~ |     |
 
-**W:**
-**DW:**
-**OT:**
-**ex** or **No ex**
+**W:** 7 
+**DW:** 3
+~~**OT:**~~
+No ex**
 
 # The ONE thing: 
 - [ ] 
@@ -33,12 +33,13 @@
 - [ ]  Work [[Run2 HH4b AN]]
 	 - [ ] Mixed data summary plots
 - [ ] Read HGC TDR
+- [ ] BCR
 - [ ] Read [[Run2 X->HY->4b]]
 - [ ] Code base work
 	- [ ] Histograms to cutflow
 	- [ ] Bkg stat uncertianty in ratio band ?
 	- [ ] Why is canJet Phi 0-pi ?
-	- [ ] fix skimmer cutflow
+	- [x] fix skimmer cutflow
 	- [ ] clean JCM code
 
 
@@ -64,10 +65,12 @@ w/M
 	- The input fourvectors all agreed to precision 
 - Changing cutflow use a threshold of 0.1 %
 - Updated the all the cutflow counts
+- FIX CI !!! merged master
+- Updated **Run3SyntheticData**, running CI....
 
 
 
-Reading LHCC:
+# Reading LHCC:
 - https://indico.cern.ch/event/1470570/contributions/6191103/attachments/2969273/5225159/CMSStatusReport_LHCC_AdW_18112024.pdf
 - Now more Run3 data than Run2 
 - CMS X->HY->4b is now public [[Run2 X->HY->4b]]
@@ -79,11 +82,10 @@ To campus
 
 Do I want to prioritize HGC on Tuesdays ? 
 
-
 Lots of skimmer debugging ... see above
 
 # Chat CL
-- fixed the classifier.. now seing very similar SvB /FvT results
+- fixed the classifier.. now seeing very similar SvB /FvT results
 - discuss JCM_weights
 - Helped me debug random numbers for the skimmer !
 
@@ -94,12 +96,12 @@ Lots of skimmer debugging ... see above
 Home to put T down.
 
 Tree removal: $16k put 20% down
-
+- Sold vangaurd
 
 [[HGCManagementMeeting 19 November 2024]]
 
-# Mans Meeting: 
-- [[HGC Transfer Tape BCR]]
-- [[Dry Air for MMTS]]
+Lots more skimmer debugging... see above
 
+w/Kids
 
+Tried to fix drain in bathroom...trap clogged... finally got it loose... will clean tomorrow
