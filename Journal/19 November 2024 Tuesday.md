@@ -37,7 +37,7 @@ No ex**
 - [ ] Read [[Run2 X->HY->4b]]
 - [ ] Code base work
 	- [ ] Histograms to cutflow
-	- [ ] Bkg stat uncertianty in ratio band ?
+	- [ ] Bkg stat uncertainty in ratio band ?
 	- [ ] Why is canJet Phi 0-pi ?
 	- [x] fix skimmer cutflow
 	- [ ] clean JCM code
