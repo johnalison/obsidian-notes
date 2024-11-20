@@ -11,20 +11,8 @@
 
 https://docs.google.com/spreadsheets/d/1PWj6JIvCmMzZLiagedCTp9tm09GdRMhWJG3yRQuG7rs/edit?gid=156788291#gid=156788291
 
-# BoEs 
-The BoE area for module assembly at CMU is at
+[[HGC MAC BoEs]]
 
-[https://cms-docdb.cern.ch/cgi-bin/DocDB/ShowDocument?docid=13032](https://cms-docdb.cern.ch/cgi-bin/DocDB/ShowDocument?docid=13032)
-
-There you find the BoE we wrote for CD2/3 plus backup documentation such as for cleanroom consumables etc
-
-The BoE area for TTU is
-
-[https://cms-docdb.cern.ch/cgi-](https://cms-docdb.cern.ch/cgi-bin/DocDB/ShowDocument?docid=13031)[bin/DocDB/ShowDocument?docid=](https://cms-docdb.cern.ch/cgi-bin/DocDB/ShowDocument?docid=13031)[13031](https://cms-docdb.cern.ch/cgi-bin/DocDB/ShowDocument?docid=13031)
-
-and for UCSB it is
-
-[https://cms-docdb.cern.ch/cgi-bin/DocDB/ShowDocument?docid=13033](https://cms-docdb.cern.ch/cgi-bin/DocDB/ShowDocument?docid=13033)
 
 
 # Follow-ups

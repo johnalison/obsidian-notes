@@ -6,9 +6,10 @@ our plans during the DOE progress review in June.
 Progress Review in Directors Review in April and DOE Project review in June 
 
 # BCR
-|   |   |   |   |   |
-|---|---|---|---|---|
-|MAC and Module|J. Alison (w Nural)|Hybrid assembly costs, testing infrastructure remaining costs||December 5|
+|                |                     |                                                               |     |            |
+| -------------- | ------------------- | ------------------------------------------------------------- | --- | ---------- |
+| MAC and Module | J. Alison (w Nural) | Hybrid assembly costs, testing infrastructure remaining costs |     | December 5 |
+|                |                     |                                                               |     |            |
 - [[HGC Transfer Tape BCR]]
 - [[Dry Air for MMTS]]
 
