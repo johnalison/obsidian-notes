@@ -24,8 +24,10 @@
 
 # December
 - [ ] 2nd ADA talk
-- [ ] 4th  Osher ends
+- [ ] 4th  Osher ends / MAC Meeting
 - [ ] Math AI Talk 6th
+- [ ] 18th MAC Meeting
+- [ ] 19th Osher Lunch 
 
 
 

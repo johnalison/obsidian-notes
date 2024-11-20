@@ -29,18 +29,19 @@ No ex**
 
 
 # To Do
-- [ ] Read ADA text
-- [ ]  Work [[Run2 HH4b AN]]
-	 - [ ] Mixed data summary plots
-- [ ] Read HGC TDR
-- [ ] BCR
-- [ ] Read [[Run2 X->HY->4b]]
-- [ ] Code base work
-	- [ ] Histograms to cutflow
-	- [ ] Bkg stat uncertainty in ratio band ?
-	- [ ] Why is canJet Phi 0-pi ?
-	- [x] fix skimmer cutflow
-	- [ ] clean JCM code
+[>>] Read ADA text
+[>>]  Work [[Run2 HH4b AN]]
+	[>>] Mixed data summary plots
+[>>] Read HGC TDR
+[>>] BCR
+[>>] Read [[Run2 X->HY->4b]]
+[>>] Code base work
+- [x] fix skimmer cutflow
+	[>>] Histograms to cutflow
+	[>>] Bkg stat uncertainty in ratio band ?
+	[>>] Why is canJet Phi 0-pi ?
+
+	[>>] clean JCM code
 
 
 # Log
@@ -96,7 +97,9 @@ Lots of skimmer debugging ... see above
 Home to put T down.
 
 Tree removal: $16k put 20% down
-- Sold vangaurd
+- Sold $16k vanguard... will move to PNC
+
+Home Insurance Inspection OK... Need to dry closet or demo it.
 
 [[HGCManagementMeeting 19 November 2024]]
 

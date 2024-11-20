@@ -25,18 +25,32 @@
 **ex** or **No ex**
 
 # The ONE thing: 
-- [ ] 
+- [ ] Mixed data summary plots
 
 
 # To Do
 - [ ] Modules Summary
-- [ ] 
-- [ ] 
-- [ ] 
-
+- [ ] Read ADA text
+- [ ] Read [[Run2 X->HY->4b]]
+- [ ]  Work [[Run2 HH4b AN]]
+	 - [ ] Mixed data summary plots
+- [ ] BCR
+- [ ] Code base work
+	- [ ] Histograms to cutflow
+	- [ ] Bkg stat uncertainty in ratio band ?
+	- [ ] Why is canJet Phi 0-pi ?
+	- [x] fix skimmer cutflow
+	- [ ] clean JCM code
 
 # Log
 
 Up at 6;45 
 
 M&T to school
+
+
+# [[Run2 HH4b AN]]
+- Working the mixed data summary plots
+- Running on **cmslpc336**
+- `source  .ci-workflows/analysis-mixed-all.sh`
+- 
