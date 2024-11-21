@@ -167,7 +167,7 @@ jeremiads - a long mournful complaint, a list of woes
 
 My goal with this book is to provide a more accurate historical perspective on the AI revolution. 
 
-[[AI Most Pressing Issue of our Time]]
+[[AI Momst Pressing Issue of our Time]]
 
 
 

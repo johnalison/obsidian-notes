@@ -43,6 +43,7 @@
 	- [x] fix skimmer cutflow
 	- [ ] clean JCM code
 	- [ ] Matplotlib ".py"
+- [ ] AEs snakemake tutorial https://alefisico.github.io/reana-tutorial/index.html#basic-knowledge
 
 # Log
 
@@ -63,6 +64,7 @@ M&T to school
 - `python analysis/makePlotsMixedVsDataVs3b.py --comb hists/ANv3/histAll_noFvT.coffea hists/ANv3/histMixedData.coffea  -m analysis/metadata/plotMixedVsDataVs3b.yml --out hists/ANv3/mixedVsDataVs3b`
 - [ ] Function for processing stack dict in `base_class/plots`
 - [ ] Debug `data_3b_for_mixed` cutflow
+-  Added debugging output to outfile... Rerunning CI...
 
 Chat MP: 
 - will send me a relevant BOE... [[HGC MAC BoEs]]
@@ -90,3 +92,11 @@ Hexaboards arrive ! (48)
 # Sent [[Inquiry for Module CT Scans Lumafield ]]
 
 Raining steph will pick up
+
+Hanging at CYERT... more [[Run2 HH4b AN]]
+
+
+[[MAC Testing Meeting 20 November 2024]]
+
+
+[[Modules Summary November 2024]]

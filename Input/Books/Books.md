@@ -1,4 +1,7 @@
-- [[Open Borders]]] (Bryan Caplan)
+
+* [[Nexus]] (Yuval Noah Harari)
+
+- [[Open Borders]] (Bryan Caplan)
 
 - [[Selfish reasons to having more kids]] (Bryan Caplan)
 
