@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/21 November 2024 Thursday.md",
+                "file": "2-areas/Physics/Ratio Errors.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "21 November 2024 Thursday"
+              "title": "Ratio Errors"
             }
           },
           {
@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "file:ratio",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -116,8 +116,7 @@
               "title": "Files"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -137,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/21 November 2024 Thursday.md",
+                "file": "2-areas/Physics/Ratio Errors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +146,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 21 November 2024 Thursday"
+              "title": "Backlinks for Ratio Errors"
             }
           },
           {
@@ -156,12 +155,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/21 November 2024 Thursday.md",
+                "file": "2-areas/Physics/Ratio Errors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 21 November 2024 Thursday"
+              "title": "Outgoing links from Ratio Errors"
             }
           },
           {
@@ -183,10 +182,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/21 November 2024 Thursday.md"
+                "file": "2-areas/Physics/Ratio Errors.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 21 November 2024 Thursday"
+              "title": "Outline of Ratio Errors"
             }
           }
         ],
@@ -210,8 +209,8 @@
   },
   "active": "6b0b8af53ee94401",
   "lastOpenFiles": [
-    "Journal/Future Log.md",
     "Journal/21 November 2024 Thursday.md",
+    "Journal/Future Log.md",
     "Journal/20 November 2024 Wednesday.md",
     "Journal/November 2024.md",
     "Input/Meetings/Chat w Wes 12 November 2024.md",
