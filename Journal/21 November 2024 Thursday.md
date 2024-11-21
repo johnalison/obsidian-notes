@@ -7,7 +7,7 @@
 | 10  | Chat Connor                      |     |
 |     | Mixed data summary plots         |     |
 | 11  | Stats chat                       |     |
-|     | Stats chat / FBC2                |     |
+|     | Stats chat                       |     |
 | 12  | FBC2                             |     |
 |     | Mixed data summary plots         |     |
 | 1   | Khalil Nobles                    |     |
@@ -47,4 +47,14 @@ setup
 
 
 # [[Run2 HH4b AN]]
-- 
+- Got mixed ave and v0 plots running.
+- Stats ratio error wrong!
+- update 
+
+# Stats Chat
+- How to ensamble gamma/~gamma
+
+# FBC2
+- Nice studies by CL: 
+- https://indico.cern.ch/event/1481600/
+
