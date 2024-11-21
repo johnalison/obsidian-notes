@@ -31,11 +31,11 @@
 # To Do
  [>>] Modules Summary
  [>>] Read ADA text
-- [ ] Read [[Run2 X->HY->4b]]
+ [>>] Read [[Run2 X->HY->4b]]
  [>>]  Work [[Run2 HH4b AN]]
 	  [>>] Mixed data summary plots
-- [ ] BCR
-	- [ ] Read BOE
+ [>>] BCR
+	 [>>] Read BOE
 - [ ] Code base work
 	- [ ] Histograms to cutflow
 	- [ ] Bkg stat uncertainty in ratio band ?
@@ -62,8 +62,8 @@ M&T to school
 - Now to mixed data summary plots
 - ` python -i analysis/iPlot.py --comb hists/ANv3/histAll_noFvT.coffea hists/ANv3/histMixedData.coffea  -m analysis/metadata/plotMixedVsDataVs3b.yml`
 - `python analysis/makePlotsMixedVsDataVs3b.py --comb hists/ANv3/histAll_noFvT.coffea hists/ANv3/histMixedData.coffea  -m analysis/metadata/plotMixedVsDataVs3b.yml --out hists/ANv3/mixedVsDataVs3b`
-- [ ] Function for processing stack dict in `base_class/plots`
-- [>>] Debug `data_3b_for_mixed` cutflow
+ [>>] Function for processing stack dict in `base_class/plots`
+ [>>] Debug `data_3b_for_mixed` cutflow
 -  Added debugging output to outfile... Rerunning CI...
 
 Chat MP: 
@@ -81,7 +81,7 @@ More .. [[Run2 HH4b AN]] (see above)
 - Course 3 went well.
 - Got a gift card.
 - People excited about an experimental lecture
-- [ ] Ping no lecture next week, thanks for gift card
+ [>>] Ping no lecture next week, thanks for gift card
 
 Hexaboards arrive ! (48)
 

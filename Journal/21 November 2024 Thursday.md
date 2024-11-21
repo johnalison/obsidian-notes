@@ -32,11 +32,14 @@
 - [ ] Read ADA text
 - [ ] Modules Summary
 - [ ] Work [[Run2 HH4b AN]]
-	 - [ ] Mixed data summary plots
+	 - [x] Mixed data summary plots
 - [ ] Debug data_3b_for_mixed weights CI vs local 
 - [ ] Letter for Jonas
-
-
+- [ ] push ratio error and band updates
+- [ ] OSHER Ping no lecture next week, thanks for gift card
+- [ ] Read [[Run2 X->HY->4b]]
+- [ ] BCR
+	- [ ] Read BOE
 # Log
 
 Up at 6:45
@@ -49,12 +52,18 @@ setup
 # [[Run2 HH4b AN]]
 - Got mixed ave and v0 plots running.
 - Stats ratio error wrong!
-- update 
-
+- updated error in the ration plots
+- Added error bacd for the bkg uncertainty 
+- Need to blind the NoFvT plots !!!... running....
+- [x]  Function for processing stack dict in `base_class/plots`
+- [ ] 
 # Stats Chat
 - How to ensamble gamma/~gamma
 
 # FBC2
 - Nice studies by CL: 
 - https://indico.cern.ch/event/1481600/
+
+# Khalil Interview
+- Seems fine
 
