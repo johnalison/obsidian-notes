@@ -8,7 +8,7 @@
 - [ ] UG lab tech ? x 2 ?
 - [ ] Backups on everything
 - [ ] work study (student?)
-- [ ] Buy tape for ramp-up modules
+- [x] Buy tape for ramp-up modules
 - [ ] https://docs.google.com/spreadsheets/d/1nqnepZqZMgKnlGoYlEUgenFgOrUqPX78Iq-h1LkuBck/edit?gid=0#gid=0
 
 

@@ -11,7 +11,7 @@
 | 12  | FBC2                             |     |
 |     | Mixed data summary plots         |     |
 | 1   | Khalil Nobles                    |     |
-|     | Khalil Nobles                    |     |
+|     | Mixed data summary plots         |     |
 | 2   | Aleesha's Annual Research Review |     |
 |     | Aleesha's Annual Research Review |     |
 | 3   | Chat: Ornella                    |     |
@@ -33,13 +33,20 @@
 - [ ] Modules Summary
 - [ ] Work [[Run2 HH4b AN]]
 	 - [x] Mixed data summary plots
-- [ ] Debug data_3b_for_mixed weights CI vs local 
-- [ ] Letter for Jonas
+- [ ] Letter for Jonas... Due Dec 15th
 - [ ] push ratio error and band updates
 - [ ] OSHER Ping no lecture next week, thanks for gift card
 - [ ] Read [[Run2 X->HY->4b]]
 - [ ] BCR
 	- [ ] Read BOE
+- [ ] Code base work
+	([[4b code base]]) [<<] Histograms to cutflow
+	- [x] Bkg stat uncertainty in ratio band ?
+	- [ ] Why is canJet Phi 0-pi ?
+	([[4b code base]]) [<< ] clean JCM code
+	([[4b code base]]) [<<] Matplotlib ".py"
+	- [ ] debug/Fix data_3b_for_mixed cutflow CI
+ - [ ] AEs snakemake tutorial https://alefisico.github.io/reana-tutorial/index.html#basic-knowledge
 # Log
 
 Up at 6:45
@@ -56,7 +63,8 @@ setup
 - Added error bacd for the bkg uncertainty 
 - Need to blind the NoFvT plots !!!... running....
 - [x]  Function for processing stack dict in `base_class/plots`
-- [ ] 
+- remade noFvT plots now blinded
+- updated the mixed data summary plots
 # Stats Chat
 - How to ensamble gamma/~gamma
 
@@ -67,3 +75,7 @@ setup
 # Khalil Interview
 - Seems fine
 
+# Alyeesha Progress Report
+- All good
+
+[[Modules Summary November 2024]]

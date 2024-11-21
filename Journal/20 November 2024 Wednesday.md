@@ -36,13 +36,13 @@
 	  [>>] Mixed data summary plots
  [>>] BCR
 	 [>>] Read BOE
-- [ ] Code base work
-	- [ ] Histograms to cutflow
-	- [ ] Bkg stat uncertainty in ratio band ?
-	- [ ] Why is canJet Phi 0-pi ?
+ [>>] Code base work
+	[>>] Histograms to cutflow
+	[>>] Bkg stat uncertainty in ratio band ?
+	[>>] Why is canJet Phi 0-pi ?
 	- [x] fix skimmer cutflow
-	- [ ] clean JCM code
-	- [ ] Matplotlib ".py"
+	[>>] clean JCM code
+	[>>] Matplotlib ".py"
 - [ ] AEs snakemake tutorial https://alefisico.github.io/reana-tutorial/index.html#basic-knowledge
 
 # Log
