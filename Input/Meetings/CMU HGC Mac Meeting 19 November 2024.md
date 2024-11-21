@@ -7,16 +7,14 @@
 - https://indico.cern.ch/event/1478166/
 
 # Action Items
-- [ ] Hexaboards by H ? 
+- [x] Hexaboards by H ? 
 - [ ] transfer tape 
 - [ ] Get Bags Vacuum sealed ? 
 - [ ] need dry air and HV for MMTS
 - [x] Microscope ~$200
-- [ ] How to check shipping items?? unclear
 - [ ] Shipping DB NOT usable 
 - [x] Need cleanroom consumables  .... will get spread sheet
-- [ ] Jessica y/n chat Andre .. will do tomorrow
-
+- [x] Jessica y/n chat Andre .. will do tomorrow
 
 # Jessica
 - Idea for how the si got cracked... unclear

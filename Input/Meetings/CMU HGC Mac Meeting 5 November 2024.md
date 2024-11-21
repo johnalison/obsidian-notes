@@ -13,12 +13,12 @@
 - Baseplates ?
 - Hexaboards ? 
 - Get Bags Vacuum sealed
-- [ ] need dry air for MMTS
-- [ ] Oven ~$730 
-- [ ] Microscope ~$200
-- [ ] Tables
-- [ ] How to check shipping items
-- [ ] Shipping complaints 
+- [>>] need dry air for MMTS
+- [>>] Oven ~$730 
+- [>>] Microscope ~$200
+- [ >>] Tables
+- [>>] How to check shipping items
+
 # Jessica
 - Table for gantry coming 
 - Desktop ioizer

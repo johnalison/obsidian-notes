@@ -5,13 +5,13 @@
 
 # Action Items
 - Hexaboards ? 
-- [ ] Get Bags Vacuum sealed ? 
-- [ ] need dry air for MMTS
+- [>>] Get Bags Vacuum sealed ? 
+- [>>] need dry air for MMTS
 - [x] Oven ~$730 
-- [ ] Microscope ~$200
+- [>>] Microscope ~$200
 - [x] Tables ? 
-- [ ] How to check shipping items?? unclear
-- [ ] Shipping complaints 
+- [>>] How to check shipping items?? unclear
+
 
 Picture after protomodule assembly 
 # Jonas

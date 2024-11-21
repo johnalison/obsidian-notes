@@ -30,7 +30,7 @@
 
 # To Do
 - [ ] Read ADA text
-- [ ] Modules Summary
+- [x] Modules Summary
 - [ ] Work [[Run2 HH4b AN]]
 	 - [x] Mixed data summary plots
 - [ ] Letter for Jonas... Due Dec 15th
@@ -83,6 +83,13 @@ setup
 
 # Ornella Interview
 - Would be a nice fit
-- [ ] References 
-- [ ] Arrange visit 
+- [x] References 
+- [x] Arrange visit 
+
+# Josh Interview 
+- Would be great
+- [ ] Arrange visit
+- [ ] Ping Barry
+
+
 
