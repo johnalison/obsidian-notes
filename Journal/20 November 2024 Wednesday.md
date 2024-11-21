@@ -29,11 +29,11 @@
 
 
 # To Do
-- [ ] Modules Summary
-- [ ] Read ADA text
+ [>>] Modules Summary
+ [>>] Read ADA text
 - [ ] Read [[Run2 X->HY->4b]]
-- [ ]  Work [[Run2 HH4b AN]]
-	 - [ ] Mixed data summary plots
+ [>>]  Work [[Run2 HH4b AN]]
+	  [>>] Mixed data summary plots
 - [ ] BCR
 	- [ ] Read BOE
 - [ ] Code base work
@@ -63,7 +63,7 @@ M&T to school
 - ` python -i analysis/iPlot.py --comb hists/ANv3/histAll_noFvT.coffea hists/ANv3/histMixedData.coffea  -m analysis/metadata/plotMixedVsDataVs3b.yml`
 - `python analysis/makePlotsMixedVsDataVs3b.py --comb hists/ANv3/histAll_noFvT.coffea hists/ANv3/histMixedData.coffea  -m analysis/metadata/plotMixedVsDataVs3b.yml --out hists/ANv3/mixedVsDataVs3b`
 - [ ] Function for processing stack dict in `base_class/plots`
-- [ ] Debug `data_3b_for_mixed` cutflow
+- [>>] Debug `data_3b_for_mixed` cutflow
 -  Added debugging output to outfile... Rerunning CI...
 
 Chat MP: 
@@ -91,7 +91,7 @@ Hexaboards arrive ! (48)
 
 # Sent [[Inquiry for Module CT Scans Lumafield ]]
 
-Raining steph will pick up
+Raining Steph will pick up
 
 Hanging at CYERT... more [[Run2 HH4b AN]]
 
@@ -100,3 +100,5 @@ Hanging at CYERT... more [[Run2 HH4b AN]]
 
 
 [[Modules Summary November 2024]]
+
+Steph out

@@ -26,6 +26,8 @@
 - [ ] 2nd ADA talk
 - [ ] 4th  Osher ends / MAC Meeting
 - [ ] Math AI Talk 6th
+- [ ] Wes Annual Review Tuesday Dec. 10th from 9:00-10:00 EST
+- [ ] Sindhu  Annual Dec 11, 2024, Wednesday, from 2:00-4:00 pm in WH-7423
 - [ ] 18th MAC Meeting
 - [ ] 19th Osher Lunch 
 
