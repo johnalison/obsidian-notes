@@ -47,6 +47,7 @@
 	([[4b code base]]) [<<] Matplotlib ".py"
 	- [ ] debug/Fix data_3b_for_mixed cutflow CI
  - [ ] AEs snakemake tutorial https://alefisico.github.io/reana-tutorial/index.html#basic-knowledge
+ - [x] Ping Andre 
 # Log
 
 Up at 6:45
@@ -79,3 +80,9 @@ setup
 - All good
 
 [[Modules Summary November 2024]]
+
+# Ornella Interview
+- Would be a nice fit
+- [ ] References 
+- [ ] Arrange visit 
+
