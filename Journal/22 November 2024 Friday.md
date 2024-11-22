@@ -57,8 +57,9 @@ M&T to school in snow
 - Adding print outs
 - CI fails... 
 `data_3b_for_mixed_2018             passDiJetMass       15.51      15.48           0.0019                0.03`
-- Respin same CI...
-``
+- FvT weights are identical ...
+- JCM weight are different ... printing out JCM weights are read from file.. differences
+- [ ]  Will add a different threshold for the data JCM cutflow test
 
 
 
@@ -68,3 +69,5 @@ M&T to school in snow
 # Chated with Connor
 - Could also be a good fit. $20/hour, told him start date was Feb/March
  [>>] ping him for a visit in January 
+
+[[CAM Turnaround Report]]

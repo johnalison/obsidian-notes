@@ -10,6 +10,9 @@ September
 https://docs.google.com/spreadsheets/d/1z-ugaRIo4SszJzNrT5N7ddWe7vlk615xH2ospkZQoS4/edit?gid=983055628#gid=983055628
 
 
+November:
+[https://docs.google.com/spreadsheets/d/1wmcJ2myS0LIQdlsP8n9IuCanh3bSH0BrJ9gDTFIXmoU/edit](https://docs.google.com/spreadsheets/d/1wmcJ2myS0LIQdlsP8n9IuCanh3bSH0BrJ9gDTFIXmoU/edit)
+
 ## Follow-ups
 
 

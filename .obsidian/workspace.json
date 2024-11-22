@@ -27,6 +27,20 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Output/ProgressReports/ProgressReport 8 November 2024.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ProgressReport 8 November 2024"
+            }
+          },
+          {
+            "id": "ef03564d7d0802fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Journal/22 November 2024 Friday.md",
                 "mode": "source",
                 "source": false
@@ -36,21 +50,21 @@
             }
           },
           {
-            "id": "ef03564d7d0802fa",
+            "id": "6ee395554702d8b0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/21 November 2024 Thursday.md",
+                "file": "Journal/November 2024.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "21 November 2024 Thursday"
+              "title": "November 2024"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -69,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "noFvT",
+                "query": "turnaround",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,8 +116,7 @@
               "title": "Files"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -204,16 +217,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "44d5c0350310a7aa",
+  "active": "ef03564d7d0802fa",
   "lastOpenFiles": [
-    "Journal/20 January 2025 Monday.md",
+    "1-projects/HGC/CAM Turnaround Report.md",
     "Journal/22 November 2024 Friday.md",
+    "0-inbox/ProgressReport 22 November 2024.md",
+    "Journal/November 2024.md",
+    "Journal/21 November 2024 Thursday.md",
+    "Output/ProgressReports/ProgressReport 8 November 2024.md",
+    "Journal/20 January 2025 Monday.md",
     "0-inbox/CMU HGC MAC Websites.md",
     "Input/Meetings/CMU HGC Mac Meeting 12 November 2024.md",
-    "0-inbox/ProgressReport 22 November 2024.md",
     "templates/Daily Template.md",
-    "Journal/21 November 2024 Thursday.md",
-    "Journal/November 2024.md",
     "Journal/Future Log.md",
     "Journal/20 November 2024 Wednesday.md",
     "Journal/19 November 2024 Tuesday.md",
@@ -230,8 +245,6 @@
     "Journal/August/1 August 2024 Thursday.md",
     "Journal/July/30 July 2024 Tuesday.md",
     "Journal/July/31 July 2024 Wednesday.md",
-    "Journal/5 November 2024 Tuesday.md",
-    "Input/Meetings/CMU HGC Mac Meeting 19 November 2024.md",
     "Journal/#June 2024.md#",
     "Journal/October",
     "Input/Meetings/October",
