@@ -33,7 +33,7 @@
 - [ ] Work [[Run2 HH4b AN]]
 - [ ] Letter for Jonas... Due Dec 15th
 - [ ]  Read [[Run2 X->HY->4b]]
-- [ ] debug/Fix data_3b_for_mixed cutflow CI
+- [x] debug/Fix data_3b_for_mixed cutflow CI
 - [ ]  BCR
 	- [ ] Read BOE
 - [ ] [[Snakemake tutorial]] 
@@ -59,7 +59,7 @@ M&T to school in snow
 `data_3b_for_mixed_2018             passDiJetMass       15.51      15.48           0.0019                0.03`
 - FvT weights are identical ...
 - JCM weight are different ... printing out JCM weights are read from file.. differences
-- [ ]  Will add a different threshold for the data JCM cutflow test
+- [x]  Will add a different threshold for the data JCM cutflow test
 
 
 
