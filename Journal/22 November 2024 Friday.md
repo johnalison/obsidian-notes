@@ -16,7 +16,8 @@
 |     | 4b                         |                            |
 | 3   | CMU CMS                    |                            |
 |     | CMU CMS                    |                            |
-| 4   |                            |                            |
+| 4   | Home                       |                            |
+|     | Update plots               |                            |
 
 **W:**
 **DW:**
@@ -40,6 +41,7 @@
 - [x] Ping Josh re:interview
 - [x] Respond to Ornella re:interview
 	- [x] Ping References
+- [ ] Progress report
 
 ---
 # Log
@@ -88,7 +90,7 @@ Pinged Ornellas reference
 - Not much
 
 
-
+Home to be with Teddy and Marlo
 
 
 
