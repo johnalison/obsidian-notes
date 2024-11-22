@@ -26,6 +26,22 @@ CVs: [https://cmu.box.com/s/4yrnk44vszzeb2s16vjhjguavj3udsh7](https://cmu.box.co
 - Ornella Pagliano (supervisor)  **_ornellap3@gmail.com_**
 
 
+# Reference email:
+
+subject: Reference for Ornella Pagliano
+
+HI XXX,
+
+My name is John Alison and I am a physicist at CMU working on an experiment at the Large Hadron Collider. 
+
+Ornella Pagliano is a candidate for a lab coordinator position in our group and provided you as a reference.  I was wondering if you could briefly comment on Ornella's ethics, work habits, and ability to work together in a team. Your input would really help us make a decision. 
+
+Happy to chat over the phone if it is easier for you. 
+
+Thank you in advance.
+
+john
+
 # Round 1
 
 CVs: [https://cmu.box.com/s/4yrnk44vszzeb2s16vjhjguavj3udsh7](https://cmu.box.com/s/4yrnk44vszzeb2s16vjhjguavj3udsh7)

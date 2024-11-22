@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "turnaround",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -219,8 +219,9 @@
   },
   "active": "ef03564d7d0802fa",
   "lastOpenFiles": [
-    "1-projects/HGC/CAM Turnaround Report.md",
+    "0-inbox/Lab Techs Fall 2024.md",
     "Journal/22 November 2024 Friday.md",
+    "1-projects/HGC/CAM Turnaround Report.md",
     "0-inbox/ProgressReport 22 November 2024.md",
     "Journal/November 2024.md",
     "Journal/21 November 2024 Thursday.md",
@@ -244,7 +245,6 @@
     "Journal/October/31 October 2024 Thursday.md",
     "Journal/August/1 August 2024 Thursday.md",
     "Journal/July/30 July 2024 Tuesday.md",
-    "Journal/July/31 July 2024 Wednesday.md",
     "Journal/#June 2024.md#",
     "Journal/October",
     "Input/Meetings/October",

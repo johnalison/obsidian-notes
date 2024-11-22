@@ -1,22 +1,22 @@
 # Timeblock
 
-|     | setup               |                            |
-| --- | ------------------- | -------------------------- |
-| 9   | ~~Progress Report~~ | data_3b_for_mixed cut flow |
-|     | ~~Progress Report~~ | data_3b_for_mixed cut flow |
-| 10  | Connor Interview    |                            |
-|     | Progress Report     |                            |
-| 11  | Progress Report     |                            |
-|     |                     |                            |
-| 12  | HEP Lunch           |                            |
-|     | HEP Lunch           |                            |
-| 1   |                     |                            |
-|     |                     |                            |
-| 2   | 4b                  |                            |
-|     | 4b                  |                            |
-| 3   | CMU CMS             |                            |
-|     | CMU CMS             |                            |
-| 4   |                     |                            |
+|     | setup                      |                            |
+| --- | -------------------------- | -------------------------- |
+| 9   | ~~Progress Report~~        | data_3b_for_mixed cut flow |
+|     | ~~Progress Report~~        | data_3b_for_mixed cut flow |
+| 10  | Connor Interview           |                            |
+|     | ~~Progress Report~~        | data_3b_for_mixed cut flow |
+| 11  | ~~Progress Report~~        | data_3b_for_mixed cut flow |
+|     | data_3b_for_mixed cut flow |                            |
+| 12  | HEP Lunch                  |                            |
+|     | HEP Lunch                  |                            |
+| 1   | HEP Lunch                  |                            |
+|     | Mails for Ornella refs     |                            |
+| 2   | 4b                         |                            |
+|     | 4b                         |                            |
+| 3   | CMU CMS                    |                            |
+|     | CMU CMS                    |                            |
+| 4   |                            |                            |
 
 **W:**
 **DW:**
@@ -38,8 +38,8 @@
 	- [ ] Read BOE
 - [ ] [[Snakemake tutorial]] 
 - [x] Ping Josh re:interview
-- [ ] Respond to Ornella re:interview
-	- [ ] Ping References
+- [x] Respond to Ornella re:interview
+	- [x] Ping References
 
 ---
 # Log
@@ -71,3 +71,24 @@ M&T to school in snow
  [>>] ping him for a visit in January 
 
 [[CAM Turnaround Report]]
+
+# HEP Lunch
+- Not much... 
+
+[[Lab Techs Fall 2024]]
+
+Pinged Ornellas reference
+
+# CMU 4b Chat 22 November 2024
+- Debugging with CL
+- FOUND THE pseudoJet Bug !! Very subtle
+
+
+# CMU CMS Round Table
+- Not much
+
+
+
+
+
+
