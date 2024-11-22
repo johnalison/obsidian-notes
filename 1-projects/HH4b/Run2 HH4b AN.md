@@ -29,7 +29,7 @@ Towards v4
 	    - [x] 34 (Need to add nPseudoTagJets)
 	    - [x] 36 - 40 are (No FvT plots)
 	    - [x] 42 - 49 (FvT Plots)
-	    - [ ] 72 Mixed data summary plots
+	    - [x] 72 Mixed data summary plots
 	    - [ ] 91-93 (From Combine)
 	    - [x] 98
 	    - [ ] 99 - 101 (From Combine)
