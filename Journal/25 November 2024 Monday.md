@@ -1,3 +1,4 @@
+# Timeblock
 
 |     |     |     |
 | --- | --- | --- |
@@ -23,18 +24,15 @@
 **OT:**
 **ex** or **No ex**
 
----
 # The ONE thing: 
 - [ ] 
 
----
+
 # To Do
+- [ ] OSHER Ping no lecture next week, thanks for gift card
+- [ ] 
+- [ ] 
+- [ ] 
 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-
----
 
 # Log

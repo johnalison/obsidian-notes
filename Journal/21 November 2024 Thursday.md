@@ -1,52 +1,52 @@
 # Timeblock
 
-|     | setup                            |     |
-| --- | -------------------------------- | --- |
-| 9   | Mixed data summary plots         |     |
-|     | Mixed data summary plots         |     |
-| 10  | Chat Connor                      |     |
-|     | Mixed data summary plots         |     |
-| 11  | Stats chat                       |     |
-|     | Stats chat                       |     |
-| 12  | FBC2                             |     |
-|     | Mixed data summary plots         |     |
-| 1   | Khalil Nobles                    |     |
-|     | Mixed data summary plots         |     |
-| 2   | Aleesha's Annual Research Review |     |
-|     | Aleesha's Annual Research Review |     |
-| 3   | Chat: Ornella                    |     |
-|     | Chat: Ornella                    |     |
-| 4   | Chat Joshua Kipiller             |     |
-|     | Chat Joshua Kipiller             |     |
+|     | setup                            |                          |
+| --- | -------------------------------- | ------------------------ |
+| 9   | Mixed data summary plots         |                          |
+|     | Mixed data summary plots         |                          |
+| 10  | ~~Chat Connor~~                  | Mixed data summary plots |
+|     | Mixed data summary plots         |                          |
+| 11  | Stats chat                       |                          |
+|     | Stats chat                       |                          |
+| 12  | FBC2                             |                          |
+|     | Mixed data summary plots         |                          |
+| 1   | Khalil Nobles                    |                          |
+|     | Mixed data summary plots         |                          |
+| 2   | Aleesha's Annual Research Review |                          |
+|     | Aleesha's Annual Research Review |                          |
+| 3   | Chat: Ornella                    |                          |
+|     | Chat: Ornella                    |                          |
+| 4   | Chat Joshua Kipiller             |                          |
+|     | Chat Joshua Kipiller             |                          |
 
-**W:**
-**DW:**
-**OT:**
-**ex** or **No ex**
+**W:** 9 
+**DW:** 5 
+**OT:** 4
+**No ex**
 
 # The ONE thing: 
 - [ ] Mixed data summary plots
 
 
 # To Do
-- [ ] Read ADA text
+ [xx] ~~Read ADA text~~
 - [x] Modules Summary
-- [ ] Work [[Run2 HH4b AN]]
+ [>>] Work [[Run2 HH4b AN]]
 	 - [x] Mixed data summary plots
-- [ ] Letter for Jonas... Due Dec 15th
-- [ ] push ratio error and band updates
-- [ ] OSHER Ping no lecture next week, thanks for gift card
-- [ ] Read [[Run2 X->HY->4b]]
-- [ ] BCR
-	- [ ] Read BOE
-- [ ] Code base work
+ [>>] Letter for Jonas... Due Dec 15th
+- [x] push ratio error and band updates
+ [>>] OSHER Ping no lecture next week, thanks for gift card
+ [>>] Read [[Run2 X->HY->4b]]
+ [>>] BCR
+	[>>] Read BOE
+-[>>] Code base work
 	([[4b code base]]) [<<] Histograms to cutflow
 	- [x] Bkg stat uncertainty in ratio band ?
-	- [ ] Why is canJet Phi 0-pi ?
+	([[4b code base]])  [<<] Why is canJet Phi 0-pi ?
 	([[4b code base]]) [<< ] clean JCM code
 	([[4b code base]]) [<<] Matplotlib ".py"
-	- [ ] debug/Fix data_3b_for_mixed cutflow CI
- - [ ] AEs snakemake tutorial https://alefisico.github.io/reana-tutorial/index.html#basic-knowledge
+	- [>>] debug/Fix data_3b_for_mixed cutflow CI
+ [>>]  [[Snakemake tutorial]] 
  - [x] Ping Andre 
 # Log
 
@@ -62,10 +62,11 @@ setup
 - Stats ratio error wrong!
 - updated error in the ration plots
 - Added error bacd for the bkg uncertainty 
-- Need to blind the NoFvT plots !!!... running....
+- Need to blind the NoFvT plots !!!... running....DONE
 - [x]  Function for processing stack dict in `base_class/plots`
 - remade noFvT plots now blinded
 - updated the mixed data summary plots
+
 # Stats Chat
 - How to ensamble gamma/~gamma
 
@@ -79,7 +80,7 @@ setup
 # Alyeesha Progress Report
 - All good
 
-[[Modules Summary November 2024]]
+Sent [[Modules Summary November 2024]]
 
 # Ornella Interview
 - Would be a nice fit
@@ -88,8 +89,19 @@ setup
 
 # Josh Interview 
 - Would be great
-- [ ] Arrange visit
-- [ ] Ping Barry
+ [>>] Arrange visit
+- [x] Ping Barry
 
 
+Home with M&T 
+
+Played chess with H 
+
+Start [[Progressive Myths]]
+
+Cleaned out trap...steph cleans other end... made it worse!!
+
+Lice!  Bag up bedding and towels. 
+
+H off rails
 

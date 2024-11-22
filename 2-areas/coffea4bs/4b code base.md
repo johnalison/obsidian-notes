@@ -7,6 +7,7 @@
 - [ ] Histograms to cutflow
 - [ ] Matplotlib ".py"
 - [ ]  clean JCM code
+- [ ] Why is canJet Phi 0-pi ?
 ## Follow-ups
 
 

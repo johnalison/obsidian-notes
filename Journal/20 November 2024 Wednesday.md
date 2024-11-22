@@ -43,7 +43,7 @@
 	- [x] fix skimmer cutflow
 	[>>] clean JCM code
 	[>>] Matplotlib ".py"
-- [ ] AEs snakemake tutorial https://alefisico.github.io/reana-tutorial/index.html#basic-knowledge
+ [>>]  [[Snakemake tutorial]]
 
 # Log
 
