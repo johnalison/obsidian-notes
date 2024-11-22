@@ -19,10 +19,10 @@
 | 4   | Home                       |                            |
 |     | Update plots               |                            |
 
-**W:**
-**DW:**
-**OT:**
-**ex** or **No ex**
+**W:** 8 
+**DW:** 3 
+**OT:** 2
+**No ex**
 
 ---
 # The ONE thing: 
@@ -94,6 +94,9 @@ Home to be with Teddy and Marlo
 
 
 # [[Run2 HH4b AN]]
-- updating plots with errorbands
+- updating plots with error bands
 - [[4b code base]]
-- 
+
+
+Ordered Scuillies pizza.
+
