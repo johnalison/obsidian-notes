@@ -10,6 +10,8 @@ Computers are qualitatively different from the technological sources of previous
 # Links: 
 [[Why Now is interesting]]
 [[NowIsDifferent]]
+[[Nexus]]
+
 
 
 202411171101
