@@ -100,3 +100,7 @@ Home to be with Teddy and Marlo
 
 Ordered Scuillies pizza.
 
+# Poker Night
+- good times: Clay /  (_wife_) / Shane Valenzi / Steve / Tony 
+
+Some [[Progressive Myths]]
