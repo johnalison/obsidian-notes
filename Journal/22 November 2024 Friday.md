@@ -102,5 +102,6 @@ Ordered Scuillies pizza.
 
 # Poker Night
 - good times: Clay /  (_wife_) / Shane Valenzi / Steve / Tony 
+- Won $23 
 
 Some [[Progressive Myths]]

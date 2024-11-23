@@ -9,12 +9,15 @@ You may access electronic version of your paper in Euclid by DOI link
 [http://dx.doi.org/10.1214/24-AOAS1916](http://dx.doi.org/10.1214/24-AOAS1916)
 
 
+TRG-19-001: Performance of the CMS High Level Trigger during LHC Run 2
+https://iopscience.iop.org/article/10.1088/1748-0221/19/11/P11021
+
 ## Not sure:
 - Focus topics for the ECFA study on Higgs / Top / EW factories https://arxiv.org/abs/2401.07564
 
 ## Not yet ready:
-- BTV-22-001: BTV Boosted performance nad calibration
-- TRG-19-001: Performance of the CMS High Level Trigger during LHC Run 2
+- BTV-22-001: BTV Boosted performance and calibration
+
 
 
 # Personelle

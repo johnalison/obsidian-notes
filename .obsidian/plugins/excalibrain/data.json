@@ -242,7 +242,9 @@
     "00-Zettelkasten/How-to-Detach.md",
     "00-Zettelkasten/ZettelKasten Index.md",
     "0-inbox/AI Most Pressing Issue of our Time.md",
-    "0-inbox/Nexus.md"
+    "0-inbox/Nexus.md",
+    "00-Zettelkasten/Computer As Source of Current Historical Revolution.md",
+    "0-inbox/Computer capabilities underestimated.md"
   ],
   "allowOntologySuggester": true,
   "ontologySuggesterParentTrigger": "::p",
