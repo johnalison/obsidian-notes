@@ -31,17 +31,17 @@
 ---
 # To Do
 
-- [ ] Work [[Run2 HH4b AN]]
-- [ ] Letter for Jonas... Due Dec 15th
-- [ ]  Read [[Run2 X->HY->4b]]
+[>>] Work [[Run2 HH4b AN]]
+[>>] Letter for Jonas... Due Dec 15th
+[>>]  Read [[Run2 X->HY->4b]]
 - [x] debug/Fix data_3b_for_mixed cutflow CI
-- [ ]  BCR
-	- [ ] Read BOE
-- [ ] [[Snakemake tutorial]] 
+ [>>]  BCR
+	 [>>] Read BOE
+ [>>]   [[Snakemake tutorial]] 
 - [x] Ping Josh re:interview
 - [x] Respond to Ornella re:interview
 	- [x] Ping References
-- [ ] Progress report
+[>>] Progress report
 
 ---
 # Log
@@ -62,7 +62,9 @@ M&T to school in snow
 - FvT weights are identical ...
 - JCM weight are different ... printing out JCM weights are read from file.. differences
 - [x]  Will add a different threshold for the data JCM cutflow test
-
+- Debugging with CL
+- FOUND THE pseudoJet Bug !! Very subtle
+	- Bug in uproot. when searching for a key that is not in the dictionary, returns random member if the key you search for starts with a number.... Now fixed
 
 
 [[CMU HGC MAC Websites]]
@@ -83,7 +85,7 @@ Pinged Ornellas reference
 
 # CMU 4b Chat 22 November 2024
 - Debugging with CL
-- FOUND THE pseudoJet Bug !! Very subtle
+- FOUND THE pseudoJet Bug !! Very subtle.. see above
 
 
 # CMU CMS Round Table
@@ -94,8 +96,7 @@ Home to be with Teddy and Marlo
 
 
 # [[Run2 HH4b AN]]
-- updating plots with error bands
-- [[4b code base]]
+- see dailys
 
 
 Ordered Scuillies pizza.

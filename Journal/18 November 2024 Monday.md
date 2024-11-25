@@ -97,7 +97,7 @@ More skimmer debugging
 
 To Pitt for colloq
 
-[[Science and the Global Economy]]
+Colloq: [[Science and the Global Economy]]
 
 Got kids... Home
 

@@ -32,7 +32,7 @@
  [xx] ~~Read ADA text~~
 - [x] Modules Summary
  [>>] Work [[Run2 HH4b AN]]
-	 - [x] Mixed data summary plots
+	 - [x] ~~Mixed data summary plots~~
  [>>] Letter for Jonas... Due Dec 15th
 - [x] push ratio error and band updates
  [>>] OSHER Ping no lecture next week, thanks for gift card
@@ -41,7 +41,7 @@
 	[>>] Read BOE
 -[>>] Code base work
 	([[4b code base]]) [<<] Histograms to cutflow
-	- [x] Bkg stat uncertainty in ratio band ?
+	- [x] ~~Bkg stat uncertainty in ratio band ?~~
 	([[4b code base]])  [<<] Why is canJet Phi 0-pi ?
 	([[4b code base]]) [<< ] clean JCM code
 	([[4b code base]]) [<<] Matplotlib ".py"
@@ -58,14 +58,7 @@ setup
 
 
 # [[Run2 HH4b AN]]
-- Got mixed ave and v0 plots running.
-- Stats ratio error wrong!
-- updated error in the ration plots
-- Added error bacd for the bkg uncertainty 
-- Need to blind the NoFvT plots !!!... running....DONE
-- [x]  Function for processing stack dict in `base_class/plots`
-- remade noFvT plots now blinded
-- updated the mixed data summary plots
+- See daily's above
 
 # Stats Chat
 - How to ensamble gamma/~gamma

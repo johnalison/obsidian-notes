@@ -17,10 +17,18 @@ Up at 9
 
 Home 
 
-# Family Picture 
+# Family Pictures 
 
 got 45 lb kettle bell at Dicks
 
 Home
 
 [[Marginal Revolution University - Micro Economics]]
+
+# Parents 
+
+Home 
+
+Bailed [[OnGrandStrategy]]
+
+Start [[Case Against Education]]

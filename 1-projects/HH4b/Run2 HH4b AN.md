@@ -21,7 +21,7 @@ Towards v4
 - [ ] cutflow hists
 - [ ] Try new SvB classifier for kλ
 - [ ]  Redo plots with new JCM ?
-- [ ] Try to Correct bias from ZZ region (?)
+- [ ] ~~Try to Correct bias from ZZ region (?)~~
 - [ ] Add to AN
     - [ ] Update plots with new code
 	    - [x] fig 32 (Problem with ttbar Fraction)
@@ -83,6 +83,39 @@ Looking into ggHbb
 - Updating plots pre JCM:  (got mu_QCD from the JCM fit)
 - `python  analysis/makePlotsAN_noFvT_muQCD.py hists/ANv3/histAll_noFvT.coffea --out hists/ANv3/plots_noFvT_muQCD -m analysis/metadata/plotsAllNoFvT_muQCD.yml`
 
+
+[[20 November 2024 Wednesday]]
+- Working the mixed data summary plots
+- Running on **cmslpc336**
+- `source  .ci-workflows/analysis-mixed-all.sh`
+- Found bug with multi-jet weights for mixed background ... 
+- Fixing CI... after merge with johnda/master
+- Fixed CI ... now mixed cutflow fails !! 
+- Now to mixed data summary plots
+- ` python -i analysis/iPlot.py --comb hists/ANv3/histAll_noFvT.coffea hists/ANv3/histMixedData.coffea  -m analysis/metadata/plotMixedVsDataVs3b.yml`
+- `python analysis/makePlotsMixedVsDataVs3b.py --comb hists/ANv3/histAll_noFvT.coffea hists/ANv3/histMixedData.coffea  -m analysis/metadata/plotMixedVsDataVs3b.yml --out hists/ANv3/mixedVsDataVs3b`
+ [>>] Function for processing stack dict in `base_class/plots`
+ [>>] Debug `data_3b_for_mixed` cutflow
+-  Added debugging output to outfile... Rerunning CI...
+
+[[21 November 2024 Thursday]]
+- Got mixed ave and v0 plots running.
+- Stats ratio error wrong!
+- updated error in the ration plots
+- Added error band for the bkg uncertainty 
+- Need to blind the NoFvT plots !!!... running....DONE
+- [x]  Function for processing stack dict in `base_class/plots`
+- remade noFvT plots now blinded
+- updated the mixed data summary plots
+
+
+[[22 November 2024 Friday]]
+- updating plots with error bands
+- [[4b code base]]
+
+
+[[23 November 2024 Saturday]]
+- Updated runTwoStageClosure to use new colors
 
 # Follow-ups
 

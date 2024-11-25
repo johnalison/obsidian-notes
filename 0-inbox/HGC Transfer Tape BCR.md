@@ -9,14 +9,19 @@
 	- Need spread sheet form Manfred...pinged him
 
 
+Spread sheet from Jessica (Not the official one!)
 https://docs.google.com/spreadsheets/d/1PWj6JIvCmMzZLiagedCTp9tm09GdRMhWJG3yRQuG7rs/edit?gid=156788291#gid=156788291
+Official one availbe here:
+https://cms-docdb.cern.ch/cgi-bin/DocDB/ShowDocument?docid=13032
+
+$33,875.13 / 4240 ~$8/module 
 
 [[HGC MAC BoEs]]
 
 
 
 # Follow-ups
-
+[[Module assembly at CMU]]
 
 # Links: 
 

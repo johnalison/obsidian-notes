@@ -1,7 +1,8 @@
 
-The BoE area for module assembly at CMU is at
-
+The BoE area for [[Module assembly at CMU]] is at
 [https://cms-docdb.cern.ch/cgi-bin/DocDB/ShowDocument?docid=13032](https://cms-docdb.cern.ch/cgi-bin/DocDB/ShowDocument?docid=13032)
+
+
 
 There you find the BoE we wrote for CD2/3 plus backup documentation such as for cleanroom consumables etc
 

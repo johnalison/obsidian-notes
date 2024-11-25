@@ -54,9 +54,8 @@ w/M
 - [x] Update cutflows
 - Skimmer cutflow fails in CI !
 - Difference is SB / SR assignment
-- From Snakemake: 
 - Help from CL
-- Still fails ... now only one event difference 
+- Still fails ... now only one event difference! 
 - MEGA DEBUGGING...
 - adding debug info to output file
 - `python analysis/debugSkimming.py output/skimmer_analysis_test_job/test_skimmer.coffea output/test_skimmer_CI.coffea `

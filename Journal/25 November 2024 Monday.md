@@ -1,23 +1,22 @@
-# Timeblock
 
-|     |     |     |
-| --- | --- | --- |
-| 9   |     |     |
-|     |     |     |
-| 10  |     |     |
-|     |     |     |
-| 11  |     |     |
-|     |     |     |
-| 12  |     |     |
-|     |     |     |
-| 1   |     |     |
-|     |     |     |
-| 2   |     |     |
-|     |     |     |
-| 3   |     |     |
-|     |     |     |
-| 4   |     |     |
-|     |     |     |
+|     | kids to school  |     |
+| --- | --------------- | --- |
+| 9   | home w/tree     |     |
+|     | setup / visits  |     |
+| 10  | Progress Report |     |
+|     | Progress Report |     |
+| 11  | To Campus       |     |
+|     | Hoops           |     |
+| 12  | Hoops           |     |
+|     | Hoops           |     |
+| 1   |                 |     |
+|     |                 |     |
+| 2   | Dentist         |     |
+|     | Dentist         |     |
+| 3   |                 |     |
+|     |                 |     |
+| 4   |                 |     |
+|     |                 |     |
 
 **W:**
 **DW:**
@@ -25,14 +24,32 @@
 **ex** or **No ex**
 
 # The ONE thing: 
-- [ ] 
+- [ ] Progress Report
 
 
 # To Do
-- [ ] OSHER Ping no lecture next week, thanks for gift card
-- [ ] 
-- [ ] 
-- [ ] 
-
-
+- [x] OSHER Ping no lecture next week, thanks for gift card
+- [x] Progress Report
+- [x] Plan visits first week Dec
+- [ ]  Work [[Run2 HH4b AN]]
+- [ ] Letter for Jonas... Due Dec 15th
+- [ ]  Read [[Run2 X->HY->4b]]
+- [ ]  BCR
+	- [ ] Read BOE
+- [ ] [[Snakemake tutorial]] 
+- [ ] Re do FvT fits with new code
+- [ ] Ping CMU about hiring more people
 # Log
+
+Up at 7:30
+
+M&T to school
+
+# Tree getting cut down ...
+
+
+[[ProgressReport 22 November 2024]]
+
+
+
+[[HGC MAC BoEs]]

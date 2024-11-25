@@ -40,7 +40,7 @@
 	[>>] Histograms to cutflow
 	[>>] Bkg stat uncertainty in ratio band ?
 	[>>] Why is canJet Phi 0-pi ?
-	- [x] fix skimmer cutflow
+- [x] fix skimmer cut flow
 	[>>] clean JCM code
 	[>>] Matplotlib ".py"
  [>>]  [[Snakemake tutorial]]
@@ -53,18 +53,7 @@ M&T to school
 
 
 # [[Run2 HH4b AN]]
-- Working the mixed data summary plots
-- Running on **cmslpc336**
-- `source  .ci-workflows/analysis-mixed-all.sh`
-- Found bug with multi-jet weights for mixed background ... 
-- Fixing CI... after merge with johnda/master
-- Fixed CI ... now mixed cutflow fails !! 
-- Now to mixed data summary plots
-- ` python -i analysis/iPlot.py --comb hists/ANv3/histAll_noFvT.coffea hists/ANv3/histMixedData.coffea  -m analysis/metadata/plotMixedVsDataVs3b.yml`
-- `python analysis/makePlotsMixedVsDataVs3b.py --comb hists/ANv3/histAll_noFvT.coffea hists/ANv3/histMixedData.coffea  -m analysis/metadata/plotMixedVsDataVs3b.yml --out hists/ANv3/mixedVsDataVs3b`
- [>>] Function for processing stack dict in `base_class/plots`
- [>>] Debug `data_3b_for_mixed` cutflow
--  Added debugging output to outfile... Rerunning CI...
+- See daily's above
 
 Chat MP: 
 - will send me a relevant BOE... [[HGC MAC BoEs]]

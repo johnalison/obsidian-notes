@@ -21,9 +21,9 @@
 | 19 T | Skimmer Debugging / Chat CL / Tree $16k / Mans Meeting / Unclog Drain v1        | 7/3/- |
 | 20 W | (Osher #3) Debug Mixed / **Hoops** / Osher course 3 / Ping Lumafield / Rain     | 6/5/3 |
 | 21 H | Mixed data plots / Interviews (decisions) / More interviews / Chaos at home     | 9/5/4 |
-| 22 F | (Poker Night)                                                                   |       |
-| 23 S |                                                                                 |       |
-| 24 S |                                                                                 |       |
+| 22 F | (Poker Night) debug data_3b_for_mixed / HEP Lunch / Pizza / Poker               | 8/3/2 |
+| 23 S | Car inspections / Bought Auger / Fixed Drain ! / Meat Sauce                     |       |
+| 24 S | **Gym** / Family Pictures / Reading / Parents                                   |       |
 | 25 M |                                                                                 |       |
 | 26 T |                                                                                 |       |
 | 27 W | (No Osher)                                                                      |       |
