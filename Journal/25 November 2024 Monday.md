@@ -9,8 +9,8 @@
 |     | Hoops           |     |
 | 12  | Hoops           |     |
 |     | Hoops           |     |
-| 1   |                 |     |
-|     |                 |     |
+| 1   | HGC BOE         |     |
+|     | HGC BOE         |     |
 | 2   | Dentist         |     |
 |     | Dentist         |     |
 | 3   |                 |     |
@@ -24,7 +24,7 @@
 **ex** or **No ex**
 
 # The ONE thing: 
-- [ ] Progress Report
+- [x] Progress Report
 
 
 # To Do
@@ -35,7 +35,7 @@
 - [ ] Letter for Jonas... Due Dec 15th
 - [ ]  Read [[Run2 X->HY->4b]]
 - [ ]  BCR
-	- [ ] Read BOE
+	- [x] Read BOE
 - [ ] [[Snakemake tutorial]] 
 - [ ] Re do FvT fits with new code
 - [ ] Ping CMU about hiring more people
@@ -50,6 +50,9 @@ M&T to school
 
 [[ProgressReport 22 November 2024]]
 
+Reading  [[HGC MAC BoEs]]
 
 
-[[HGC MAC BoEs]]
+# Hoops 
+- 4s and 5s. Played well
+
