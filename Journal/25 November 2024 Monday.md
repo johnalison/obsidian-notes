@@ -56,3 +56,8 @@ Reading  [[HGC MAC BoEs]]
 # Hoops 
 - 4s and 5s. Played well
 
+Reading [[Snakemake tutorial]]
+
+Tree is down :(
+- $12800 
+- Got some logs... need a sander.
