@@ -70,3 +70,5 @@ Pinged Michelle waters re:Three more positions
 - Modules are probably too big to get the magnification to see ~100µm
 
 [[HGCManagementMeeting 26 November 2024]]
+
+Andre Chat
