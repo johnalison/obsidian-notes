@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/26 November 2024 Tuesday.md",
+                "file": "Output/Inquiry for Module CT Scans Lumafield.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "26 November 2024 Tuesday"
+              "title": "Inquiry for Module CT Scans Lumafield"
             }
           },
           {
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/26 November 2024 Tuesday.md",
+                "file": "Output/Inquiry for Module CT Scans Lumafield.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 26 November 2024 Tuesday"
+              "title": "Backlinks for Inquiry for Module CT Scans Lumafield"
             }
           },
           {
@@ -126,12 +126,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/26 November 2024 Tuesday.md",
+                "file": "Output/Inquiry for Module CT Scans Lumafield.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 26 November 2024 Tuesday"
+              "title": "Outgoing links from Inquiry for Module CT Scans Lumafield"
             }
           },
           {
@@ -153,10 +153,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/26 November 2024 Tuesday.md"
+                "file": "Output/Inquiry for Module CT Scans Lumafield.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 26 November 2024 Tuesday"
+              "title": "Outline of Inquiry for Module CT Scans Lumafield"
             }
           },
           {
@@ -190,8 +190,8 @@
   },
   "active": "ef03564d7d0802fa",
   "lastOpenFiles": [
-    "1-projects/HH4b/Run2 HH4b AN.md",
     "Journal/26 November 2024 Tuesday.md",
+    "1-projects/HH4b/Run2 HH4b AN.md",
     "Journal/25 November 2024 Monday.md",
     "Journal/November 2024.md",
     "Journal/24 November 2024 Sunday.md",
