@@ -24,7 +24,7 @@
 | 22 F | (Poker Night) debug data_3b_for_mixed / HEP Lunch / Pizza / Poker               | 8/3/2 |
 | 23 S | Car inspections / Bought Auger / Fixed Drain ! / Meat Sauce                     |       |
 | 24 S | **Gym** / Family Pictures / Reading / Parents                                   |       |
-| 25 M |                                                                                 |       |
+| 25 M |                                                                                 | 4/2/1 |
 | 26 T |                                                                                 |       |
 | 27 W | (No Osher)                                                                      |       |
 | 28 H | (Thanksgiving)                                                                  |       |

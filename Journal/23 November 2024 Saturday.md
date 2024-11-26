@@ -9,7 +9,7 @@ Up at 8
 - At Starbucks
 
 # [[Run2 HH4b AN]]
-- See dail's
+- See daily's
 
 Reading about Austrian Economics:
 
@@ -19,7 +19,7 @@ Reading about Austrian Economics:
 Home. 
 
 # To Homedepot:
-- bought Auger and drayno 
+- Bought Auger and drayno 
 
 # Unclogged the sink !!!
 - Finally got it.

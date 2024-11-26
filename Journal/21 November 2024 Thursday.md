@@ -32,22 +32,23 @@
  [xx] ~~Read ADA text~~
 - [x] Modules Summary
  [>>] Work [[Run2 HH4b AN]]
-	 - [x] ~~Mixed data summary plots~~
+  - [x] ~~Mixed data summary plots~~
  [>>] Letter for Jonas... Due Dec 15th
 - [x] push ratio error and band updates
  [>>] OSHER Ping no lecture next week, thanks for gift card
  [>>] Read [[Run2 X->HY->4b]]
  [>>] BCR
 	[>>] Read BOE
--[>>] Code base work
+[>>] Code base work
 	([[4b code base]]) [<<] Histograms to cutflow
-	- [x] ~~Bkg stat uncertainty in ratio band ?~~
+- [x] ~~Bkg stat uncertainty in ratio band ?~~
 	([[4b code base]])  [<<] Why is canJet Phi 0-pi ?
 	([[4b code base]]) [<< ] clean JCM code
 	([[4b code base]]) [<<] Matplotlib ".py"
-	- [>>] debug/Fix data_3b_for_mixed cutflow CI
+	[>>] debug/Fix data_3b_for_mixed cutflow CI
  [>>]  [[Snakemake tutorial]] 
  - [x] Ping Andre 
+
 # Log
 
 Up at 6:45
@@ -55,7 +56,6 @@ Up at 6:45
 M&T to school 
 
 setup
-
 
 # [[Run2 HH4b AN]]
 - See daily's above

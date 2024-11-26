@@ -65,12 +65,13 @@ M&T to school in snow
 - Debugging with CL
 - FOUND THE pseudoJet Bug !! Very subtle
 	- Bug in uproot. when searching for a key that is not in the dictionary, returns random member if the key you search for starts with a number.... Now fixed
+- Removed the different JCM threshold
 
 
 [[CMU HGC MAC Websites]]
 
 
-# Chated with Connor
+# Chatted with Connor
 - Could also be a good fit. $20/hour, told him start date was Feb/March
  [>>] ping him for a visit in January 
 

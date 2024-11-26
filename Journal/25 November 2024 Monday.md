@@ -1,26 +1,26 @@
 
-|     | kids to school  |     |
-| --- | --------------- | --- |
-| 9   | home w/tree     |     |
-|     | setup / visits  |     |
-| 10  | Progress Report |     |
-|     | Progress Report |     |
-| 11  | To Campus       |     |
-|     | Hoops           |     |
-| 12  | Hoops           |     |
-|     | Hoops           |     |
-| 1   | HGC BOE         |     |
-|     | HGC BOE         |     |
-| 2   | Dentist         |     |
-|     | Dentist         |     |
-| 3   |                 |     |
-|     |                 |     |
-| 4   |                 |     |
-|     |                 |     |
+|     | kids to school         |     |
+| --- | ---------------------- | --- |
+| 9   | home w/tree            |     |
+|     | setup / visits         |     |
+| 10  | Progress Report        |     |
+|     | Progress Report        |     |
+| 11  | To Campus              |     |
+|     | Hoops                  |     |
+| 12  | Hoops                  |     |
+|     | Hoops                  |     |
+| 1   | HGC BOE                |     |
+|     | HGC BOE                |     |
+| 2   | Dentist                |     |
+|     | Dentist                |     |
+| 3   | [[Snakemake tutorial]] |     |
+|     | [[Snakemake tutorial]] |     |
+| 4   | tree                   |     |
+|     | Reading                |     |
 
-**W:**
-**DW:**
-**OT:**
+**W:** 4 
+**DW:**  2
+**OT:** 1 
 **ex** or **No ex**
 
 # The ONE thing: 
@@ -58,6 +58,12 @@ Reading  [[HGC MAC BoEs]]
 
 Reading [[Snakemake tutorial]]
 
+Dentist 
+
 Tree is down :(
 - $12800 
 - Got some logs... need a sander.
+
+Some [[Progressive Myths]]
+Some [[Case Against Education]]
+
