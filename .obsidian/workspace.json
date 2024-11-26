@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Output/Inquiry for Module CT Scans Lumafield.md",
+                "file": "0-inbox/HGCManagementMeeting 26 November 2024.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Inquiry for Module CT Scans Lumafield"
+              "title": "HGCManagementMeeting 26 November 2024"
             }
           },
           {
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Output/Inquiry for Module CT Scans Lumafield.md",
+                "file": "0-inbox/HGCManagementMeeting 26 November 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Inquiry for Module CT Scans Lumafield"
+              "title": "Backlinks for HGCManagementMeeting 26 November 2024"
             }
           },
           {
@@ -126,12 +126,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Output/Inquiry for Module CT Scans Lumafield.md",
+                "file": "0-inbox/HGCManagementMeeting 26 November 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Inquiry for Module CT Scans Lumafield"
+              "title": "Outgoing links from HGCManagementMeeting 26 November 2024"
             }
           },
           {
@@ -153,10 +153,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Output/Inquiry for Module CT Scans Lumafield.md"
+                "file": "0-inbox/HGCManagementMeeting 26 November 2024.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Inquiry for Module CT Scans Lumafield"
+              "title": "Outline of HGCManagementMeeting 26 November 2024"
             }
           },
           {
@@ -190,7 +190,11 @@
   },
   "active": "ef03564d7d0802fa",
   "lastOpenFiles": [
+    "0-inbox/HGC MAC BoEs.md",
+    "0-inbox/Module assembly at CMU.md",
+    "0-inbox/HGCManagementMeeting 26 November 2024.md",
     "Journal/26 November 2024 Tuesday.md",
+    "Output/Inquiry for Module CT Scans Lumafield.md",
     "1-projects/HH4b/Run2 HH4b AN.md",
     "Journal/25 November 2024 Monday.md",
     "Journal/November 2024.md",
@@ -202,11 +206,9 @@
     "Journal/20 November 2024 Wednesday.md",
     "Journal/19 November 2024 Tuesday.md",
     "0-inbox/Snakemake tutorial.md",
-    "0-inbox/Module assembly at CMU.md",
     "attachments/ModuleAssemblyPersonel.png",
     "1-projects/HGC/CAM Turnaround Report.md",
     "0-inbox/HGC Transfer Tape BCR.md",
-    "0-inbox/HGC MAC BoEs.md",
     "0-inbox/ProgressReport 22 November 2024.md",
     "Output/ProgressReports/ProgressReport 8 November 2024.md",
     "2-areas/coffea4bs/4b code base.md",
@@ -215,8 +217,6 @@
     "Journal/18 November 2024 Monday.md",
     "0-inbox/Marginal Revolution University - Micro Economics.md",
     "Journal/17 November 2024 Sunday.md",
-    "0-inbox/Learning Excalibrain.md",
-    "0-inbox/Things-To-Add-To-Notes.md",
     "Journal/#June 2024.md#",
     "Journal/October",
     "Input/Meetings/October",

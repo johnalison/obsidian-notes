@@ -62,3 +62,11 @@ w/kids
 Pinged Michelle waters re:Three more positions 
 
 [[Inquiry for Module CT Scans Lumafield]]
+
+
+# Lumafield Chat
+- 4-6 hours to process a modules
+- 75k / year use as much as you want
+- Modules are probably too big to get the magnification to see ~100µm
+
+[[HGCManagementMeeting 26 November 2024]]
