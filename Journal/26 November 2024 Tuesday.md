@@ -39,7 +39,7 @@
 - [ ] BCR
 - [ ]   [[Snakemake tutorial]] 
 - [ ] Re do FvT fits with new code
-- [ ] Ping CMU about hiring more people
+- [x] Ping CMU about hiring more people
 
 ---
 
@@ -56,3 +56,7 @@ w/kids
 - move truth function to `helpers/truth_tools`
 - `python runner.py -t -o test.coffea -d ZH4b ZZ4b GluGluToHHTo4B_cHHH1 -p analysis/processors/processor_HH4b.py -y UL18  -op $OUTPUT_DIR -m $DATASETS
 - added truth_v4b to event... adding histogram
+- added a first pass of histograms
+
+Pinged Michelle waters re:Three more positions 
+
