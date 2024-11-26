@@ -1,5 +1,5 @@
 
-|     |              |     |
+|     | setup        |     |
 | --- | ------------ | --- |
 | 9   | ARC meeting  |     |
 |     | ARC meeting  |     |
@@ -8,7 +8,7 @@
 | 11  |              |     |
 |     |              |     |
 | 12  |              |     |
-|     | 
+|     |              |     |
 | 1   |              |     |
 |     |              |     |
 | 2   | Lumafield    |     |
@@ -41,3 +41,6 @@
 
 Up at 6:30 ... meditation
 
+w/kids
+
+# ARC Meeting

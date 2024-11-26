@@ -49,7 +49,8 @@
               "title": "November 2024"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -121,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/25 November 2024 Monday.md",
+                "file": "Journal/26 November 2024 Tuesday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +132,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 25 November 2024 Monday"
+              "title": "Backlinks for 26 November 2024 Tuesday"
             }
           },
           {
@@ -140,12 +141,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/25 November 2024 Monday.md",
+                "file": "Journal/26 November 2024 Tuesday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 25 November 2024 Monday"
+              "title": "Outgoing links from 26 November 2024 Tuesday"
             }
           },
           {
@@ -167,10 +168,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/25 November 2024 Monday.md"
+                "file": "Journal/26 November 2024 Tuesday.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 25 November 2024 Monday"
+              "title": "Outline of 26 November 2024 Tuesday"
             }
           },
           {
@@ -202,17 +203,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ef03564d7d0802fa",
+  "active": "fdafba627e6701b4",
   "lastOpenFiles": [
+    "Journal/25 November 2024 Monday.md",
+    "Journal/26 November 2024 Tuesday.md",
     "Journal/24 November 2024 Sunday.md",
     "Journal/23 November 2024 Saturday.md",
     "Journal/22 November 2024 Friday.md",
-    "Journal/26 November 2024 Tuesday.md",
     "Journal/21 November 2024 Thursday.md",
     "Input/Meetings/CMU HGC Mac Meeting 19 November 2024.md",
     "Journal/20 November 2024 Wednesday.md",
     "Journal/19 November 2024 Tuesday.md",
-    "Journal/25 November 2024 Monday.md",
     "0-inbox/Snakemake tutorial.md",
     "Journal/November 2024.md",
     "0-inbox/Module assembly at CMU.md",
