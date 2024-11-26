@@ -31,14 +31,14 @@
 - [x] OSHER Ping no lecture next week, thanks for gift card
 - [x] Progress Report
 - [x] Plan visits first week Dec
-- [ ]  Work [[Run2 HH4b AN]]
-- [ ] Letter for Jonas... Due Dec 15th
-- [ ]  Read [[Run2 X->HY->4b]]
-- [ ]  BCR
-	- [x] Read BOE
-- [ ] [[Snakemake tutorial]] 
-- [ ] Re do FvT fits with new code
-- [ ] Ping CMU about hiring more people
+ [>>]  Work [[Run2 HH4b AN]]
+ [>>]  [[Letter for Jonas]] ... Due Dec 15th
+ [>>]  Read [[Run2 X->HY->4b]]
+ [>>]  BCR
+   - [x] Read BOE
+ [>>]  [[Snakemake tutorial]] 
+ [>>] Re do FvT fits with new code
+ [>>] Ping CMU about hiring more people
 # Log
 
 Up at 7:30

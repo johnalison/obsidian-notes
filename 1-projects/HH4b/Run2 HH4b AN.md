@@ -10,7 +10,7 @@ Cut a v3:
 - [ ] Add to AN
 	- [ ] (AE) Add Boosted / Resolved discussion
 	- [ ] (AE) prefit plots + impact/pulls with asimov data 
-	- [ ] (AE) plots per year ( to appendix T)
+	- [x] (AE) plots per year ( to appendix T)
 	- [ ] (AE) refit  ZZ/ZH sensitivity (should actually improve with ensembeling )
 	- [x] Blinded prefit plots (JA)
 
