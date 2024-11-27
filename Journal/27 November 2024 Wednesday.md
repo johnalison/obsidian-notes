@@ -55,8 +55,9 @@ Mail to Scott
 - put **var, cut, region** in plot_data.. DONE
 - [ ]  make plot hist from yaml script
 - [x] Stack working
-- [ ] Stack working iwth ratio
+- [x] Stack working iwth ratio
 - [ ] Stack with sum working
+- [ ] 2d plots
 
 # Hbb Meeting
 - 4 HH4b talks... Didnt learn much
@@ -75,4 +76,5 @@ More plottting.... good progress
 - Will apply
 
 # Chat Arvind
-- 
+- Works with Robin
+- CS / applied physics 
