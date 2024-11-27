@@ -56,7 +56,7 @@ Mail to Scott
 - [ ]  make plot hist from yaml script
 - [x] Stack working
 - [x] Stack working iwth ratio
-- [ ] Stack with sum working
+- [x] Stack with sum working
 - [ ] 2d plots
 
 # Hbb Meeting
