@@ -9,10 +9,10 @@
 |     |                       |     |
 | 12  |                       |     |
 |     |                       |     |
-| 1   |                       |     |
-|     |                       |     |
+| 1   | H to bed              |     |
+|     | H to bed              |     |
 | 2   | Lumafield             |     |
-|     |                       |     |
+|     | H to bed              |     |
 | 3   | Mans Meeting          |     |
 |     | Mans Meeting          |     |
 | 4   | Mans Meeting          |     |
@@ -80,3 +80,7 @@ Pinged Michelle waters re:Three more positions
 - key is  https://hsf-training.github.io/hsf-training-matplotlib/05-mplhep/index.html
 - hist commands from: https://github.com/scikit-hep/hist/blob/main/src/hist/plot.py
 - will make list of `(values, variances, edges, config)` for hists same for ratios
+
+Made chicken in wine cream sauce
+
+Some [[Progressive Myths]]
