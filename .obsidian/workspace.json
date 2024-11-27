@@ -69,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "file:boo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,8 +102,7 @@
               "title": "Files"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -206,9 +205,10 @@
   },
   "active": "fdafba627e6701b4",
   "lastOpenFiles": [
+    "Input/Books/Books.md",
+    "Journal/27 November 2024 Wednesday.md",
     "Journal/26 November 2024 Tuesday.md",
     "1-projects/HH4b/Run2 HH4b AN.md",
-    "Journal/27 November 2024 Wednesday.md",
     "Journal/November 2024.md",
     "Journal/25 November 2024 Monday.md",
     "Journal/24 November 2024 Sunday.md",
@@ -232,7 +232,6 @@
     "2-areas/coffea4bs/4b code base.md",
     "0-inbox/ToDo.md",
     "Journal/18 November 2024 Monday.md",
-    "0-inbox/Marginal Revolution University - Micro Economics.md",
     "Journal/#June 2024.md#",
     "Journal/October",
     "Input/Meetings/October",

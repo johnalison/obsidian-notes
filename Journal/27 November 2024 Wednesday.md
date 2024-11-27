@@ -44,3 +44,5 @@
 # Log
 
 Up at 6:50 ... M&T to school
+
+Mail to Scott
