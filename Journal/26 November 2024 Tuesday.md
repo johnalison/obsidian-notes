@@ -71,4 +71,12 @@ Pinged Michelle waters re:Three more positions
 
 [[HGCManagementMeeting 26 November 2024]]
 
-Andre Chat
+# Andre Chat
+- offered 32/hr
+- Start date Feb 1
+- will get back to me on Monday
+
+# Start work on Matplotlib ".py"
+- key is  https://hsf-training.github.io/hsf-training-matplotlib/05-mplhep/index.html
+- hist commands from: https://github.com/scikit-hep/hist/blob/main/src/hist/plot.py
+- will make list of `(values, variances, edges, config)` for hists same for ratios
