@@ -67,5 +67,12 @@ Mail to Scott
 - Got there at 12:15 .. Gym closed at 12:30 ... got 3x3 sets off! 
 
 
+More plottting.... good progress
 
+# Chat Christian Guinto-Brody
+- From Pittsburgh
+- Did PGSS when I taught Higgs 
+- Will apply
 
+# Chat Arvind
+- 
