@@ -14,9 +14,9 @@
 | 2   | Matplotlib ".py"       |     |
 |     | Christian Guinto-Brody |     |
 | 3   | Arvind                 |     |
-|     | BCR                    |     |
-| 4   | BCR                    |     |
-|     | BCR                    |     |
+|     | Matplotlib ".py"       |     |
+| 4   | Matplotlib ".py"       |     |
+|     | Matplotlib ".py"       |     |
 
 **W:**
 **DW:**
@@ -58,7 +58,8 @@ Mail to Scott
 - [x] Stack working iwth ratio
 - [x] Stack with sum working
 - [ ] 2d plots
-
+- [ ] Verrify the output paths
+- [ ] Add test to test the yaml 
 # Hbb Meeting
 - 4 HH4b talks... Didnt learn much
 
@@ -78,3 +79,7 @@ More plottting.... good progress
 # Chat Arvind
 - Works with Robin
 - CS / applied physics 
+
+More plotting... Mega hacking...
+
+
