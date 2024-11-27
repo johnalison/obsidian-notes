@@ -6,9 +6,9 @@
 | 10  | histograms to cutflow |     |
 |     | histograms to cutflow |     |
 | 11  | histograms to cutflow |     |
-|     |                       |     |
-| 12  |                       |     |
-|     |                       |     |
+|     | histograms to cutflow |     |
+| 12  | histograms to cutflow |     |
+|     | histograms to cutflow |     |
 | 1   | H to bed              |     |
 |     | H to bed              |     |
 | 2   | Lumafield             |     |
@@ -18,10 +18,10 @@
 | 4   | Mans Meeting          |     |
 |     | Andre Swain           |     |
 
-**W:**
-**DW:**
-**OT:**
-**ex** or **No ex**
+**W:** 7 
+**DW:** 3
+**OT:** 3
+**No ex**
 
 ---
 # The ONE thing: 
@@ -30,15 +30,14 @@
 ---
 # To Do
 
-- [ ] Histograms to cutflow
-- [ ] Matplotlib ".py"
-- [ ] Ping re:CMU hires
-- [ ]   Work [[Run2 HH4b AN]]
-- [ ]  [[Letter for Jonas]] ... Due Dec 15th
-- [ ]  Read [[Run2 X->HY->4b]]
-- [ ] BCR
-- [ ]   [[Snakemake tutorial]] 
-- [ ] Re do FvT fits with new code
+- [x] Histograms to cutflow
+ [>>] Matplotlib ".py"
+ [>>]   Work [[Run2 HH4b AN]]
+ [>>]  [[Letter for Jonas]] ... Due Dec 15th
+ [>> ]  Read [[Run2 X->HY->4b]]
+ [>>] BCR
+ [>>]   [[Snakemake tutorial]] 
+ ([[Run2 HH4b AN]]) [<<] Re do FvT fits with new code
 - [x] Ping CMU about hiring more people
 
 ---
@@ -58,6 +57,7 @@ w/kids
 - added truth_v4b to event... adding histogram
 - added a first pass of histograms
 - pushed first version
+- [ ] Code to make plots 
 
 Pinged Michelle waters re:Three more positions 
 

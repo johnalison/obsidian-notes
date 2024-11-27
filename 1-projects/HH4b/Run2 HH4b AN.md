@@ -4,7 +4,7 @@ Twiki: https://twiki.cern.ch/twiki/bin/view/CMSPublic/Run2HH4b
 # To do
 
 Cut a v3: 
-- [ ] Fix binning
+- [x] Fix binning
 - [x] ggHbb 3b w/o and w JCM
 - [ ] Finalize L3 comments
 - [ ] Add to AN
@@ -21,6 +21,7 @@ Towards v4
 - [ ] cutflow hists
 - [ ] Try new SvB classifier for kλ
 - [ ]  Redo plots with new JCM ?
+- [ ] Re do FvT fits with new code
 - [ ] ~~Try to Correct bias from ZZ region (?)~~
 - [ ] Add to AN
     - [ ] Update plots with new code
