@@ -46,3 +46,11 @@
 Up at 6:50 ... M&T to school
 
 Mail to Scott
+
+
+# Working the Matplotlib ".py"
+- Will do yaml outputs
+- got plots working without ratio
+
+# Hbb Meeting
+- 4 HH4b talks
