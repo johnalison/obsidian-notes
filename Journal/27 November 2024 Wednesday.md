@@ -54,7 +54,8 @@ Mail to Scott
 - got ratio working
 - put **var, cut, region** in plot_data.. DONE
 - [ ]  make plot hist from yaml script
-- [ ] Stack working
+- [x] Stack working
+- [ ] Stack working iwth ratio
 - [ ] Stack with sum working
 
 # Hbb Meeting
