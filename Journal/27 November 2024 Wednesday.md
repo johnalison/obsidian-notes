@@ -8,8 +8,8 @@
 | 11  | Hbb                    |     |
 |     | Matplotlib ".py"       |     |
 | 12  | Gym                    |     |
-|     | Gym                    |     |
-| 1   | Gym                    |     |
+|     | Matplotlib ".py"       |     |
+| 1   | Matplotlib ".py"       |     |
 |     | Matplotlib ".py"       |     |
 | 2   | Matplotlib ".py"       |     |
 |     | Christian Guinto-Brody |     |
@@ -52,7 +52,17 @@ Mail to Scott
 - Will do yaml outputs
 - got plots working without ratio
 - got ratio working
-- put **var, cut, region** in plot_data
+- put **var, cut, region** in plot_data.. DONE
+- [ ]  make plot hist from yaml script
+
 # Hbb Meeting
-- 4 HH4b talks
-- 
+- 4 HH4b talks... Didnt learn much
+
+
+# Gym ... Blitz sets
+- bench / lift / row
+- Got there at 12:15 .. Gym closed at 12:30 ... got 3x3 sets off! 
+
+
+
+
