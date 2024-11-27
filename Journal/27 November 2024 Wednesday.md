@@ -51,6 +51,8 @@ Mail to Scott
 # Working the Matplotlib ".py"
 - Will do yaml outputs
 - got plots working without ratio
-
+- got ratio working
+- put **var, cut, region** in plot_data
 # Hbb Meeting
 - 4 HH4b talks
+- 
