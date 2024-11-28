@@ -18,10 +18,10 @@
 | 4   | Matplotlib ".py"       |     |
 |     | Matplotlib ".py"       |     |
 
-**W:**
-**DW:**
-**OT:**
-**ex** or **No ex**
+**W:** 8 
+**DW:** 4
+**OT:** 5
+**ex** 
 
 ---
 # The ONE thing: 
@@ -57,8 +57,8 @@ Mail to Scott
 - [x] Stack working
 - [x] Stack working iwth ratio
 - [x] Stack with sum working
-- [ ] 2d plots
-- [ ] Verrify the output paths
+- [x] 2d plots
+- [x] Verrify the output paths
 - [ ] Add test to test the yaml 
 - [x] merge
 # Hbb Meeting
@@ -83,4 +83,9 @@ More plottting.... good progress
 
 More plotting... Mega hacking...
 
+Got some BCR inputs from Jessica
+
+Home with M&T
+
+more plotting.. merged 
 
