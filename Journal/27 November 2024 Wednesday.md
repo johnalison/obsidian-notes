@@ -60,6 +60,7 @@ Mail to Scott
 - [ ] 2d plots
 - [ ] Verrify the output paths
 - [ ] Add test to test the yaml 
+- [x] merge
 # Hbb Meeting
 - 4 HH4b talks... Didnt learn much
 
