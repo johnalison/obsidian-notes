@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/26 November 2024 Tuesday.md",
+                "file": "Journal/27 November 2024 Wednesday.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "26 November 2024 Tuesday"
+              "title": "27 November 2024 Wednesday"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/27 November 2024 Wednesday.md",
+                "file": "Journal/28 November 2024 Thursday.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "27 November 2024 Wednesday"
+              "title": "28 November 2024 Thursday"
             }
           },
           {
@@ -49,8 +49,7 @@
               "title": "November 2024"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -203,11 +202,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fdafba627e6701b4",
+  "active": "ef03564d7d0802fa",
   "lastOpenFiles": [
-    "Input/Books/Books.md",
+    "Journal/28 November 2024 Thursday.md",
     "Journal/27 November 2024 Wednesday.md",
     "Journal/26 November 2024 Tuesday.md",
+    "Input/Books/Books.md",
     "1-projects/HH4b/Run2 HH4b AN.md",
     "Journal/November 2024.md",
     "Journal/25 November 2024 Monday.md",
@@ -231,7 +231,6 @@
     "Output/ProgressReports/ProgressReport 8 November 2024.md",
     "2-areas/coffea4bs/4b code base.md",
     "0-inbox/ToDo.md",
-    "Journal/18 November 2024 Monday.md",
     "Journal/#June 2024.md#",
     "Journal/October",
     "Input/Meetings/October",

@@ -53,14 +53,15 @@ Mail to Scott
 - got plots working without ratio
 - got ratio working
 - put **var, cut, region** in plot_data.. DONE
-- [ ]  make plot hist from yaml script
+ [>>]  make plot hist from yaml script
 - [x] Stack working
 - [x] Stack working iwth ratio
 - [x] Stack with sum working
 - [x] 2d plots
 - [x] Verrify the output paths
-- [ ] Add test to test the yaml 
+ [>>] Add test to test the yaml 
 - [x] merge
+
 # Hbb Meeting
 - 4 HH4b talks... Didnt learn much
 
@@ -75,6 +76,7 @@ More plottting.... good progress
 # Chat Christian Guinto-Brody
 - From Pittsburgh
 - Did PGSS when I taught Higgs 
+- Works with Chris Neu
 - Will apply
 
 # Chat Arvind
