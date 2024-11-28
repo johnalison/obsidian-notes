@@ -49,7 +49,8 @@
               "title": "November 2024"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -121,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/27 November 2024 Wednesday.md",
+                "file": "Journal/28 November 2024 Thursday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +132,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 27 November 2024 Wednesday"
+              "title": "Backlinks for 28 November 2024 Thursday"
             }
           },
           {
@@ -140,12 +141,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/27 November 2024 Wednesday.md",
+                "file": "Journal/28 November 2024 Thursday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 27 November 2024 Wednesday"
+              "title": "Outgoing links from 28 November 2024 Thursday"
             }
           },
           {
@@ -167,10 +168,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/27 November 2024 Wednesday.md"
+                "file": "Journal/28 November 2024 Thursday.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 27 November 2024 Wednesday"
+              "title": "Outline of 28 November 2024 Thursday"
             }
           },
           {
@@ -202,10 +203,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ef03564d7d0802fa",
+  "active": "fdafba627e6701b4",
   "lastOpenFiles": [
-    "Journal/28 November 2024 Thursday.md",
     "Journal/27 November 2024 Wednesday.md",
+    "Journal/28 November 2024 Thursday.md",
     "Journal/26 November 2024 Tuesday.md",
     "Input/Books/Books.md",
     "1-projects/HH4b/Run2 HH4b AN.md",
