@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Input/Books/Viral.md",
+                "file": "Journal/29 November 2024 Friday.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Viral"
+              "title": "29 November 2024 Friday"
             }
           },
           {
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Input/Books/Viral.md",
+                "file": "Journal/29 November 2024 Friday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Viral"
+              "title": "Backlinks for 29 November 2024 Friday"
             }
           },
           {
@@ -126,12 +126,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Input/Books/Viral.md",
+                "file": "Journal/29 November 2024 Friday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Viral"
+              "title": "Outgoing links from 29 November 2024 Friday"
             }
           },
           {
@@ -153,10 +153,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Input/Books/Viral.md"
+                "file": "Journal/29 November 2024 Friday.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Viral"
+              "title": "Outline of 29 November 2024 Friday"
             }
           },
           {
@@ -190,6 +190,8 @@
   },
   "active": "ef03564d7d0802fa",
   "lastOpenFiles": [
+    "Input/Books/Viral.md",
+    "Journal/29 November 2024 Friday.md",
     "Input/Papers/The economic way of thinking in a pandemic.md",
     "Input/Dharma/StagesOfAwaking.md",
     "00-Zettelkasten/Potential of Insight.md",
@@ -214,8 +216,6 @@
     "0-inbox/HH at future colliders.md",
     "Input/Meetings/HGCManagementMeeting 26 November 2024.md",
     "0-inbox/HGC Transfer Tape BCR.md",
-    "0-inbox/HGC TDR.md",
-    "0-inbox/HGC MAC BoEs.md",
     "attachments/ModuleAssemblyPersonel.png",
     "Journal/#June 2024.md#",
     "Journal/October",
