@@ -17,8 +17,6 @@ Fantastic
 - Spiritual awakening is the direct discovery that you are not who you take yourself to be. Instead you are the timeless presence, the always already awake awareness in which life unfolds.
    You're not an object, a thing, or a person. You are the eternal subject, which can never itself become objectified as a separate something or someone.
 
-#Consume. Turn these in to permenant notes!
-
 - Series of Stages (Sometimes collapsed to a single experience, but for most people happens over time)
 
 - Not always in this order, but most common scenario
@@ -45,7 +43,7 @@ Fantastic
 
     Here again, many people are satisfied with this realization and their investigation stops here.
 
-    However this realization is still dualistic. On the one hand, you are pure subjectivity -- boundryless, openness. 
+    However this realization is still dualistic. On the one hand, you are pure subjectivity -- boundry-less, openness. 
     And on the other hand, there are all these objects that come and go in the openness.  And You still haven't penetrated into the non-dual nature of reality.
 
     Now that you have recognized the emptiness or non-objectivity of self, you can direct your awareness to the nature of reality. 
@@ -56,7 +54,7 @@ Fantastic
 
 - 3rd state: Emptiness. 
    A world that exists for you -- the only world that you can know -- is your experience of it, which is made of awareness.
-   That which is looking and that which is looked out, are both nothing but awareness. In this recognition duality resolves into the seamlessness of subject and object; self and other.
+   That which is looking and that which is looked at, are both nothing but awareness. In this recognition duality resolves into the seamlessness of subject and object; self and other.
 
    Inside and outside. Gazing with shear awareness into shear awareness.
 

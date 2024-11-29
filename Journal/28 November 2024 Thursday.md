@@ -10,6 +10,7 @@ To Giant eagle for avacados.... smoothie soo good
 
 Some [[Progressive Myths]]
 
+- [ ] Prep for Final Osher
 # Working the Matplotlib ".py"
 - [x]  make plot hist from yaml script
 - [x]  Add test to test the yaml 
@@ -25,3 +26,9 @@ Feedback from Marina
 Working Matplotlib ".py" ... see above
 
 Writing up ... [[OnGrandStrategy]]
+
+# To Jon and Jamies for Thanksgiving 
+- sing clogged Jon pissed
+
+
+
