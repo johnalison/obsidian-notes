@@ -1,3 +1,4 @@
+- [[OnGrandStrategy]] (John Lewis Gaddis)
 
 * [[Nexus]] (Yuval Noah Harari)
 

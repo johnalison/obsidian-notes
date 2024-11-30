@@ -33,8 +33,8 @@
 - [x] Matplotlib ".py"
 	- <font color=red> Finished on Thanksgiving morning </font>
 - [ ] Work [[Run2 HH4b AN]]
-- [ ] [[Letter for Jonas]] ... Due Dec 15th
-- [ ]   Read [[Run2 X->HY->4b]]
+ [>>]  [[Letter for Jonas]] ... Due Dec 15th
+ [>>]   Read [[Run2 X->HY->4b]]
 - [ ] BCR
 - [ ] [[Snakemake tutorial]] 
 - [ ] Re do FvT fits with new code

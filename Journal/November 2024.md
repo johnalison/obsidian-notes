@@ -26,8 +26,8 @@
 | 24 S | **Gym** / Family Pictures / Reading / Parents                                   |       |
 | 25 M | Tree getting cut down / Progress report / **Hoops** / Dentist                   | 4/2/1 |
 | 26 T | Arc Meeting / histograms in cutflow / Lumafeild / Offer to Swain                | 7/3/3 |
-| 27 W | (No Osher)                                                                      |       |
-| 28 H | (Thanksgiving)                                                                  |       |
-| 29 F | (No Cyert)                                                                      |       |
+| 27 W | (No Osher) Mega Matplotlib ".py" / Hbb meeting / **Gym (Blitz)** / prospectives | 8/4/5 |
+| 28 H | (Thanksgiving) finish plotting rewrite / Jon and Jamies                         |       |
+| 29 F | (No Cyert)  sham legacy of Richard Feynman / Riccardos / Tony & Gio             |       |
 | 30 S |                                                                                 |       |
 | 31 S |                                                                                 |       |

@@ -14,7 +14,10 @@ The sham legacy of Richard Feynman
 # Ricardos and Palomas
 
 
-some [[Progressive Myths]]
+Some [[Progressive Myths]]
+
+# Tony and Gio over... no conoor
+- Pizza from Mecerios 
 
 Working Osher slides
-
+- Sent slides
