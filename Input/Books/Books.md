@@ -1,3 +1,5 @@
+- [[Progressive Myths]] (Micheal Huemer)
+
 - [[OnGrandStrategy]] (John Lewis Gaddis)
 
 * [[Nexus]] (Yuval Noah Harari)

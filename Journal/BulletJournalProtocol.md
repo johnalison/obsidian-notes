@@ -1,7 +1,7 @@
 
 # Daily 
 - Setup new journal page
-- Review previous few days, migrate to do items
+- Review previous week, migrate to do items
 - migrate items in inbox that are done
 
 # Weekly

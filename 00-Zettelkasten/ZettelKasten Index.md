@@ -129,3 +129,10 @@ Index:
 # Meditation
 [[Potential of Insight]]
 [[We are a point of view, not a separate thing]]
+
+
+# Politics
+
+[[How Political Ideology is Formed]]
+
+[[Left-wing political myths currently much more dangerous than corresponding right-wing myths]]
