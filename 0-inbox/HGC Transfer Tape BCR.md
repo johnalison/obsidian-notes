@@ -1,13 +1,25 @@
 
 - Update all cleanroom consumable numbers ?
 - Araldite:   464 -> 202  $20 -> $25
-	- Current: 251 days * 24 modules / day * (13 modules / cartrige )-1 = 464 x $20 = $9,280.00
-	- New: 251 days * 24 modules / day * (30 modules / cartrige )-1 = 201 cartridges x  $25 / cartrige = $4,020.00
+	- Current: 251 days * 24 modules / day * (13 modules / cartrige )^-1 = 464 x $20 = $9,280.00
+	- New: 251 days * 24 modules / day * (30 modules / cartrige )^-1 = 201 cartridges x  $25 / cartrige = $4,020.00
+
 https://www.perigeedirect.com/products/huntsman-araldite-2011-slow-setting-all-purpose-epoxy?variant=42330316177662
+
+* Transfer Tape: 251 * 24 m/d * 1 tape/module = 6024 * $8.75 = **$52710.0**
+- OR: 251 * 12m/d = 3012 * $8.75 = **$26355.0**
+
+Added OGP calibration
+
+# Assembly Estimates
+Was: 34k / year  x 1./12 months x (1 month / 231 modules) = $12.27 / module
+Now  56k /year  x  1/12 x 1/231 = $20.20 / module
 
 # Questions:
 - BOE assumes 24 modules glued /day x 251 days = 6024 ?
 	- if 12/day = 3012 (/year) 
+- How the uncertainty assessed ?
+A: https://cms-docdb.cern.ch/cgi-bin/DocDB/RetrieveFile?docid=12919&filename=HL_LHC-CMS-Detector-Upgrade-Key-Assumptions-v9-4.pdf&version=57
 
 # BCR Draft 
 - Cost update for transfer tape assembly  for ODMB5/7 boards
