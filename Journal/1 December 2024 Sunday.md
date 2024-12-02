@@ -13,3 +13,6 @@ Wrote up [[Progressive Myths]]
 Setup December
 
 [[Existence Is Evidence of Immortality]]
+
+To Angel and Marks for Marks birthday
+- Met director of Carnegie Natural History Museum: Gretchen Baker  

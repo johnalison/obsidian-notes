@@ -29,5 +29,4 @@
 | 27 W | (No Osher) Mega Matplotlib ".py" / Hbb meeting / **Gym (Blitz)** / prospectives | 8/4/5 |
 | 28 H | (Thanksgiving) finish plotting rewrite / Jon and Jamies                         |       |
 | 29 F | (No Cyert)  sham legacy of Richard Feynman / Riccardos / Tony & Gio             |       |
-| 30 S |                                                                                 |       |
-| 31 S |                                                                                 |       |
+| 30 S | **Kettle bells** / Parents for Thanksgiving / Finished [[Progressive Myths]]    |       |

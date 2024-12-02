@@ -10,6 +10,11 @@ I am reaching out to see about using your CT scans in our QA/QC process. It woul
 
 # Follow-ups
 
+# Lumafield Chat 
+* [[26 November 2024 Tuesday]]
+- 4-6 hours to process a modules
+- 75k / year use as much as you want
+- Modules are probably too big to get the magnification to see ~100µm
 
 # Links: 
 

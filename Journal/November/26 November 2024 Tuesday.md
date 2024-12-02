@@ -9,10 +9,10 @@
 |     | histograms to cutflow |     |
 | 12  | histograms to cutflow |     |
 |     | histograms to cutflow |     |
-| 1   | H to bed              |     |
-|     | H to bed              |     |
+| 1   | T to bed              |     |
+|     | T to bed              |     |
 | 2   | Lumafield             |     |
-|     | H to bed              |     |
+|     | T to bed              |     |
 | 3   | Mans Meeting          |     |
 |     | Mans Meeting          |     |
 | 4   | Mans Meeting          |     |
@@ -32,9 +32,9 @@
 
 - [x] Histograms to cutflow
  [>>] Matplotlib ".py"
- [>>]   Work [[Run2 HH4b AN]]
+ [>>]  Work [[Run2 HH4b AN]]
  [>>]  [[Letter for Jonas]] ... Due Dec 15th
- [>> ]  Read [[Run2 X->HY->4b]]
+ [>> ] Read [[Run2 X->HY->4b]]
  [>>] BCR
  [>>]   [[Snakemake tutorial]] 
  ([[Run2 HH4b AN]]) [<<] Re do FvT fits with new code
@@ -57,7 +57,7 @@ w/kids
 - added truth_v4b to event... adding histogram
 - added a first pass of histograms
 - pushed first version
-- [ ] Code to make plots 
+ [>>] Code to make plots 
 
 Pinged Michelle waters re:Three more positions 
 

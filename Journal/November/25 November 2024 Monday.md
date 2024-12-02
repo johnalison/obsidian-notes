@@ -61,7 +61,7 @@ Reading [[Snakemake tutorial]]
 Dentist 
 
 # Tree is down :(
-- $12400  + 3600 down
+- $12800  + 3200 down
 - Got some logs... need a sander.
 
 Some [[Progressive Myths]]

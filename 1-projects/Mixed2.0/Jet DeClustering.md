@@ -8,6 +8,11 @@ Getting the new mixing going
 - Extension to full Run2 dataset
 
 # To Do
+Feedback from Marina:
+- [ ] add the TrigObj collection
+- [ ] Move pt cut to 35
+- [ ] Jets with 3 medium b-jets
+
 - [ ] Quantify variation among synthetic datasets
 - [ ] Compare mixed to synthetic to threeTag
 - [ ] Run-3

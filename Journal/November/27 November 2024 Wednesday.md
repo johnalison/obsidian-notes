@@ -32,13 +32,13 @@
 
 - [x] Matplotlib ".py"
 	- <font color=red> Finished on Thanksgiving morning </font>
-- [ ] Work [[Run2 HH4b AN]]
- [>>]  [[Letter for Jonas]] ... Due Dec 15th
+ [>>] Work [[Run2 HH4b AN]]
+ [>>]  [[Letter for Jonas]] ... Due Dec 1st
  [>>]   Read [[Run2 X->HY->4b]]
-- [ ] BCR
-- [ ] [[Snakemake tutorial]] 
-- [ ] Re do FvT fits with new code
-- [ ] Code to make eff plots 
+ [>>] BCR
+ [>>]  [[Snakemake tutorial]] 
+ [>>] Re do FvT fits with new code
+ [>>] Code to make eff plots 
 
 ---
 
@@ -69,10 +69,10 @@ Mail to Scott
 
 # Gym ... Blitz sets
 - bench / lift / row
-- Got there at 12:15 .. Gym closed at 12:30 ... got 3x3 sets off! 
+- Got there at 12:15 .. Gym closed at 12:30 ... got 3x3 sets off!!! 
 
 
-More plottting.... good progress
+More plotting.... good progress
 
 # Chat Christian Guinto-Brody
 - From Pittsburgh

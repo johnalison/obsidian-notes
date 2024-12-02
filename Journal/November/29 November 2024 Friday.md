@@ -16,7 +16,7 @@ The sham legacy of Richard Feynman
 
 Some [[Progressive Myths]]
 
-# Tony and Gio over... no conoor
+# Tony and Gio over... no Conor
 - Pizza from Mecerios 
 
 Working Osher slides
