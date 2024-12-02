@@ -11,12 +11,19 @@ Dry air requirements:
 
 Options: Manual Dessicant vs Regenerative Heatless
 
-Regenarative Heatless: 
+## Manual Dessicant
+dessicant air dryer inline between the compressor air dryer and the MMTS. These are inexpensive, but would require frequent regeneration of the dessicant
+
+Cost: < $500
+## Regenarative Heatless: 
 uses pressure swing adsorption (PSA). The operation is fully automatic and relatively little
 maintenance is required
 
 Cost : $2000-$4000
-.
+
+https://www.radwell.com/Buy/WILKERSON%20PNEUMATIC/WILKERSON%20PNEUMATIC/DE1-AC-000-7G04
+
+
 # Follow-ups
 
 

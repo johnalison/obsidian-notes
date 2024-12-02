@@ -15,8 +15,6 @@ Ornella writes back.
 - January OK 
 - ... will interview
 
-
-
 # [[Learning Excalibrain]]
 
 

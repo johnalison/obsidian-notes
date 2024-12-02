@@ -1,4 +1,3 @@
-# Timeblock
 
 |     | setup          |     |
 | --- | -------------- | --- |
@@ -30,16 +29,16 @@
 
 # To Do
 - [x] Ping Andre Again 
-- [>>] Read HGC TDR
-- [>>] Compare mixed to synthetic to threeTag
+ [>>] Read HGC TDR
+ [>>] Compare mixed to synthetic to threeTag
 - [x] Fix AN compile
-	- [>>] Fine tune TEXINPUTS for local compile
+	 [>>] Fine tune TEXINPUTS for local compile
 - [x]  AN Questions
-- [>>]  Quantify variation among synthetic datasets 
+ [>>]  Quantify variation among synthetic datasets 
 - [x] Add ZZ/ZH studies to slides
-- [>>] Add ZZ/ZH study to AN
+ [>>] Add ZZ/ZH study to AN
 - [x] OSHER: Send videos 
-- [>>] LabTech Round 2: Jr Tech
+ [>>] LabTech Round 2: Jr Tech
 
 
 # Log

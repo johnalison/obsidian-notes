@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-projects/HH4b/Run2 HH4b AN.md",
+                "file": "0-inbox/HGC Transfer Tape BCR.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Run2 HH4b AN"
+              "title": "HGC Transfer Tape BCR"
             }
           },
           {
@@ -27,26 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/December 2024.md",
+                "file": "Journal/November/30 November 2024 Saturday.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "December 2024"
-            }
-          },
-          {
-            "id": "c48e414ef32adcef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Journal/1 December 2024 Sunday.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1 December 2024 Sunday"
+              "title": "30 November 2024 Saturday"
             }
           }
         ]
@@ -68,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:books",
+                "query": "dry air",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -101,8 +87,7 @@
               "title": "Files"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -122,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-projects/HH4b/Run2 HH4b AN.md",
+                "file": "0-inbox/HGC Transfer Tape BCR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +117,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Run2 HH4b AN"
+              "title": "Backlinks for HGC Transfer Tape BCR"
             }
           },
           {
@@ -141,12 +126,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-projects/HH4b/Run2 HH4b AN.md",
+                "file": "0-inbox/HGC Transfer Tape BCR.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Run2 HH4b AN"
+              "title": "Outgoing links from HGC Transfer Tape BCR"
             }
           },
           {
@@ -168,10 +153,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-projects/HH4b/Run2 HH4b AN.md"
+                "file": "0-inbox/HGC Transfer Tape BCR.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Run2 HH4b AN"
+              "title": "Outline of HGC Transfer Tape BCR"
             }
           },
           {
@@ -205,34 +190,34 @@
   },
   "active": "d47ecdea14c3140b",
   "lastOpenFiles": [
+    "0-inbox/Dry Air for MMTS.md",
+    "0-inbox/HGC Transfer Tape BCR.md",
     "Journal/2 December 2024 Monday.md",
-    "Journal/1 December 2024 Sunday.md",
-    "Journal/December 2024.md",
-    "Journal/November 2024.md",
     "Journal/November/30 November 2024 Saturday.md",
+    "Journal/1 December 2024 Sunday.md",
     "Journal/November/29 November 2024 Friday.md",
     "Journal/November/28 November 2024 Thursday.md",
-    "Journal/November/26 November 2024 Tuesday.md",
     "Journal/November/27 November 2024 Wednesday.md",
-    "1-projects/Mixed2.0/Jet DeClustering.md",
-    "Output/Inquiry for Module CT Scans Lumafield.md",
+    "Journal/November/26 November 2024 Tuesday.md",
     "Journal/November/25 November 2024 Monday.md",
-    "0-inbox/Waiting for.md",
-    "0-inbox/Existence Is Evidence of Immortality.md",
-    "Journal/Future Log.md",
-    "Journal/Goals.md",
-    "Journal/BulletJournalProtocol.md",
+    "Journal/November/24 November 2024 Sunday.md",
+    "Journal/November/23 November 2024 Saturday.md",
+    "Journal/November/22 November 2024 Friday.md",
+    "Journal/November/21 November 2024 Thursday.md",
+    "Journal/November/20 November 2024 Wednesday.md",
+    "Journal/November/19 November 2024 Tuesday.md",
+    "Journal/November/18 November 2024 Monday.md",
+    "Journal/November/17 November 2024 Sunday.md",
+    "Journal/November/16 November 2024 Saturday.md",
+    "Journal/November/15 November 2024 Friday.md",
+    "Journal/November/14 November 2024 Thursday.md",
+    "Journal/November/13 November 2024 Wednesday.md",
+    "Journal/November/12 November 2024 Tuesday.md",
+    "Journal/November/11 November 2024 Monday.md",
+    "Journal/November/10 November 2024 Sunday.md",
+    "3-resources/computing/eero reset protocol.md",
     "Journal/#Future Log.md#",
     "Journal/#December 2024.md#",
-    "Input/Meetings/November/HGC MAC P2UG Silicon Modules.md",
-    "Input/Meetings/November/Colloq - Computing Challenges For Large Particle Physics Experiments.md",
-    "Input/Meetings/November/MAC Testing Meeting 20 November 2024.md",
-    "Input/Meetings/November/Hbb Meeting 13 November 2024.md",
-    "Input/Meetings/November/HGCManagementMeeting 26 November 2024.md",
-    "Input/Meetings/November/HGCManagementMeeting 19 November 2024.md",
-    "Input/Meetings/November/Chat w Wes 5 November 2024.md",
-    "Input/Meetings/November/Chat w Wes 19 November 2024.md",
-    "Input/Meetings/November/Chat w Wes 12 November 2024.md",
     "Input/Meetings/November",
     "Journal/November",
     "0-inbox/#Letter for Jonas.md#",

@@ -1,22 +1,22 @@
 
-|     | setup    |     |
-| --- | -------- | --- |
-| 9   |          |     |
-|     |          |     |
-| 10  |          |     |
-|     |          |     |
-| 11  | Hoops    |     |
-|     | Hoops    |     |
-| 12  | Hoops    |     |
-|     |          |     |
-| 1   |          |     |
-|     |          |     |
-| 2   | Ada Talk |     |
-|     | Ada Talk |     |
-| 3   |          |     |
-|     |          |     |
-| 4   | Berman   |     |
-|     |          |     |
+|     | setup       |     |
+| --- | ----------- | --- |
+| 9   | AE / Sindhu |     |
+|     | Review Nov  |     |
+| 10  | BCR         |     |
+|     | BCR         |     |
+| 11  | Hoops       |     |
+|     | Hoops       |     |
+| 12  | Hoops       |     |
+|     |             |     |
+| 1   |             |     |
+|     |             |     |
+| 2   | Ada Talk    |     |
+|     | Ada Talk    |     |
+| 3   |             |     |
+|     |             |     |
+| 4   | Berman      |     |
+|     |             |     |
 
 **W:**
 **DW:**
@@ -39,7 +39,7 @@
 - [ ] [[Snakemake tutorial]] 
 - [ ] Re do FvT fits with new code
 - [ ] Code to make eff plots 
-- [ ] Update [[Jet DeClustering]]
+- [ ] Update [[Run3 Synthetic Data]]
 - [ ] Read [[Run2 X->HY->4b]]
 - [ ] Review November
 
@@ -53,4 +53,11 @@ Kits to school... H to work wMe
 
 Sindhu gets runTwoStageClosure working
 
+# Chat AE re:trip: 
+- reAna like a full scale CI test
+- way to run full analysis (vs condor jobs)
+- good for POG corrections 
 
+# Review November
+
+[[HGC Transfer Tape BCR]]

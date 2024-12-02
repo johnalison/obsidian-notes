@@ -24,12 +24,10 @@ Read [[Nobel Prize Physics 2024]]
 
 # Farnam Street Wisdom
 “People spend too much time on the last 24 hours and not enough time on the last 6,000 years.”
-— Will Durant
-To  [[Quotes]]
+— Will Durant >> ([[Quotes]])
 
 If an opinion contrary to your own makes you angry, that is a sign that you are subconsciously aware of having no good reason for thinking as you do.
--- Bertrand Russell 
-To  [[Quotes]]
+-- Bertrand Russell   >> ([[Quotes]])
 
 # There are different types of hard work:
 1. Outthinking (a better strategy, a shortcut)  
@@ -37,9 +35,7 @@ To  [[Quotes]]
 3. Opportunistic (positioning yourself to take advantage of change)  
 4. Consistency (doing average things for longer)  
 5. Focus (saying no to distractions)
-Each of these requires a different type of hard work.
-
-to [[Reliability]]
+Each of these requires a different type of hard work >> ( [[Reliability]])
 
 
 Lots of Adam Savage videos 

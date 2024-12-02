@@ -24,7 +24,7 @@ Home
 - Needed to turn back on the power in Ts room
 - eero down.... 
 - Hour debugging... called eero support ... think the problem is b/c the router has the same wifi name as the eero.. was connecting to that instead. 
-- Solved it by the [[eero  reset protocol]]
+- Solved it by the [[eero reset protocol]]
 
 
 # Parents 

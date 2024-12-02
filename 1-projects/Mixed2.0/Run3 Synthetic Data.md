@@ -1,7 +1,14 @@
 
+# To Do
+Feedback from Marina:
+- [ ] add the TrigObj collection
+- [ ] Move pt cut to 35
+- [ ] Jets with 3 medium b-jets
+
 **v1**
 - 202*_v1
 - Problems:   no TTbar subtraction / wrong btagging / wrong breg Corrections
+
 
 # Daily Logs
 
@@ -35,8 +42,8 @@
 - Compared Run2 and Run3 plots... lots of differences... fixing
 - [x] Selected Jets energy scale different
 - [x]  update Run3 btagging to PNet
-- [>>] Fix bReg corrections
-- [<<] Re-skim
+ [>>] Fix bReg corrections
+ [<<] Re-skim
 - Testing the Run3 synthetic dataset `python runner.py -s -p skimmer/processor/make_declustered_data_4b.py -c skimmer/metadata/declustering_for_test_noTTSubtraction.yml -y 2022_EE  -d data  -op output/synthetic_dataset_make_dataset -o picoaod_datasets_declustered_test_2022_EE.yml -m metadata/datasets_HH4b_Run3_fourTag.yml`
 - Made clustering code agnostic of btagging algorithm
 - Remaking Synthetic datasets on **cmslpc322**.. locally...**215m32.777s**
@@ -44,8 +51,8 @@
 
 [[5 November 2024 Tuesday]]
 - [x] recluster with new selection.. running see below
-- [>>] new input pdfs
-- [>>] re:synthetic datasets
+ [>>] new input pdfs
+ [>>] re:synthetic datasets
 - Making hists from new synthetic datasets locally ... **14m47.720s**
 - Making processor agnostic of btag algorithm... Pushed
 - [x] Fix CI...v1
@@ -70,7 +77,7 @@
 [[7 November 2024 Thursday]]
 - Ideas for improvements... Do TTSubtraction add ttbar ps data
 - Try to improve selected jet multiplicity
-- [>>] Compare mixed to synthetic to threeTag
+ [>>] Compare mixed to synthetic to threeTag
 
 # Follow-ups
 

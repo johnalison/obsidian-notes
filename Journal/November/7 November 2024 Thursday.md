@@ -1,4 +1,3 @@
-# Timeblock
 
 |     | setup                  |            |
 | --- | ---------------------- | ---------- |
@@ -31,10 +30,10 @@
 # To Do
 - [x] Prepare answers to AN comments
 - [x] Setup Twiki
-- [<<] Re-skim Run3
-- [>>] Read HGC TDR
-- [>>] OSHER: Prep lecture 2 
-- [>>] OSHER: Send videos 
+ [<<] Re-skim Run3
+ [>>] Read HGC TDR
+ [>>] OSHER: Prep lecture 2 
+ [>>] OSHER: Send videos 
 - [x] Plot for ttH and hbb
 
 
@@ -86,7 +85,7 @@ Answers to some AN questions
 - `python -i analysis/iPlot.py --combine_input_files hists/histAll.coffea  hists/test_ttH_Hbb.coffea  -m analysis/metadata/plotsAll_wggHbb.yml --out plotsAll_ggHbb`
 - `python -i analysis/iPlot.py --combine_input_files hists/histAll.coffea  hists/test_ttH_Hbb.coffea  -m analysis/metadata/plotsAll_wttH.yml --out plotsAll_wttH`
 - [x] Save PDFs in AN
-- [>>] Fix AN compile
+ [>>] Fix AN compile
 
 Home with M&T 
 

@@ -32,9 +32,9 @@
 - [x] Car Registration
 - [x] Read  VqqHbb paper
 - [x] Renew Parking pass
-- [>>] Re-skim Run3
+ [>>] Re-skim Run3
 - [x]  Re: [[Cluster Run 3 data]]
-- [>>] Re: Make Synthetic Data
+ [>>] Re: Make Synthetic Data
 - [x] Osher Slides to print
 
 

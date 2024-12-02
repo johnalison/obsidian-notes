@@ -1,4 +1,3 @@
-# Timeblock
 
 |     | setup                   |     |
 | --- | ----------------------- | --- |
@@ -29,9 +28,9 @@
 
 
 # To Do
-- [>>] Re-skim Run3
+ [>>] Re-skim Run3
 - [x] Re: Make Synthetic Data
-- [>>] Read HGC TDR
+ [>>] Read HGC TDR
 
 [[ToDo]]
 
@@ -60,8 +59,8 @@ Reading [[HGC TDR]]
 # Osher Class #1 
 - went well ! Newtons dream + Relativity + 1/2 QM 
 - [[Osher Fall Particle Physics Course]]
-- [>>] Prep lecture 2 
-- [>>] Send videos 
+ [>>] Prep lecture 2 
+ [>>] Send videos 
 
 More [[Run3 Synthetic Data]]
 

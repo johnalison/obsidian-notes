@@ -1,4 +1,3 @@
-# Timeblock
 
 |     | setup           |     |
 | --- | --------------- | --- |
@@ -62,7 +61,7 @@ Zettlekasten:
 
 Back home...  conor ripping down roof... Estimated cost $10k.
 
-Reset the internet using the [[eero  reset protocol]]
+Reset the internet using the [[eero reset protocol]]
 
 Zettlekasten:
 - [[Role of Government in Free Market economy]]
