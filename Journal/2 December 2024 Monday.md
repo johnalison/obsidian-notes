@@ -8,20 +8,20 @@
 | 11  | Hoops       |     |
 |     | Hoops       |     |
 | 12  | Hoops       |     |
-|     |             |     |
-| 1   |             |     |
-|     |             |     |
+|     | Hoops       |     |
+| 1   | BCR         |     |
+|     | BCR         |     |
 | 2   | Ada Talk    |     |
 |     | Ada Talk    |     |
-| 3   |             |     |
-|     |             |     |
+| 3   | BCR         |     |
+|     | BCR         |     |
 | 4   | Berman      |     |
-|     |             |     |
+|     | Library     |     |
 
 **W:**
 **DW:**
 **OT:**
-**ex** or **No ex**
+**ex** 
 
 ---
 # The ONE thing: 
@@ -61,3 +61,11 @@ Sindhu gets runTwoStageClosure working
 # Review November
 
 [[HGC Transfer Tape BCR]]
+
+# Hoops 
+- 4s and 5s. 
+- Played well... Lots of Ws
+
+Alejandro gets interview for USCMS Analysis contact.
+
+# [[ADA presentation Soheun Yi]]

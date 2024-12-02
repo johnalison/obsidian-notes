@@ -4,6 +4,11 @@
 	- Current: 251 days * 24 modules / day * (13 modules / cartrige )-1 = 464 x $20 = $9,280.00
 	- New: 251 days * 24 modules / day * (30 modules / cartrige )-1 = 201 cartridges x  $25 / cartrige = $4,020.00
 https://www.perigeedirect.com/products/huntsman-araldite-2011-slow-setting-all-purpose-epoxy?variant=42330316177662
+
+# Questions:
+- BOE assumes 24 modules glued /day x 251 days = 6024 ?
+	- if 12/day = 3012 (/year) 
+
 # BCR Draft 
 - Cost update for transfer tape assembly  for ODMB5/7 boards
 
