@@ -49,7 +49,8 @@
               "title": "HGC Transfer Tape BCR"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/Future Log.md",
+                "file": "Journal/3 December 2024 Tuesday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Future Log"
+              "title": "Backlinks for 3 December 2024 Tuesday"
             }
           },
           {
@@ -141,12 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/Future Log.md",
+                "file": "Journal/3 December 2024 Tuesday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Future Log"
+              "title": "Outgoing links from 3 December 2024 Tuesday"
             }
           },
           {
@@ -168,10 +169,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/Future Log.md"
+                "file": "Journal/3 December 2024 Tuesday.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Future Log"
+              "title": "Outline of 3 December 2024 Tuesday"
             }
           },
           {
@@ -203,12 +204,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "42b5d6cc5e8dca38",
+  "active": "a138e0692b131bc7",
   "lastOpenFiles": [
+    "Journal/Future Log.md",
+    "Journal/3 December 2024 Tuesday.md",
     "Journal/December 2024.md",
     "Journal/2 December 2024 Monday.md",
-    "Journal/3 December 2024 Tuesday.md",
-    "Journal/Future Log.md",
     "0-inbox/The expert class is failing, and so is Biden’s presidency.md",
     "0-inbox/Run2 X->HY->4b.md",
     "0-inbox/HGC Transfer Tape BCR.md",

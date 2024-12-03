@@ -82,9 +82,12 @@ Subscribed to "The silver bulletin"
 
 To get haircut... line too long ... checked out white whale book store...very cool!
 
+- [x] Get date for seminar to herwig 
+	- March 3rd 
+
 [[The expert class is failing, and so is Biden’s presidency]]
 
-CMU Teaching Schedule:
+# CMU Teaching Schedule:
 - MWF: 9-9:50
 - H: 10 - 10:50
 - Classes start: 13th
