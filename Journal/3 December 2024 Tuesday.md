@@ -63,3 +63,8 @@ To campus
 - [x] Review annual review slides
 - [x] Send mono-jet event display
 - Long chat with Wes about preparing his slides for the Annual Review
+
+# [[Run3 Synthetic Data]]
+- Running on Run3 synthetic data
+- [ ] Check cutflow
+- [ ] Plots comparing 3-tag 
