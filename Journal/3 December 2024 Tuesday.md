@@ -36,7 +36,7 @@
 - [ ] Work [[Run2 HH4b AN]]
 - [ ] BCR
 - [ ]  [[Snakemake tutorial]] 
-- [ ] Ping Sam re:kubernetes
+- [x] Ping Sam re:kubernetes
 - [ ] Re do FvT fits with new code
 - [ ] Update [[Run3 Synthetic Data]]
 - [ ] Read [[Run2 X->HY->4b]]
@@ -60,5 +60,6 @@ With kids
 To campus
 
 [[Chat w Wes 3 December 2024]]
-- [ ] Review annual review slides
-- [ ] Send mono-jet event display
+- [x] Review annual review slides
+- [x] Send mono-jet event display
+- Long chat with Wes about preparing his slides for the Annual Review
