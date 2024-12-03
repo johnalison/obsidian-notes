@@ -73,7 +73,7 @@ To campus
 # Met with Ornella: 
 - Seems very nice.
 - Showed her the lab
-- [ ] Ping re:offer
+- [x] Ping re:offer
 
 
 [[CMU HGC Mac Meeting 3 December 2024]]
@@ -81,5 +81,7 @@ To campus
 Subscribed to "The silver bulletin"
 
 To get haircut... line too long ... checked out white whale book store...very cool!
+
+[[The expert class is failing, and so is Biden’s presidency]]
 
 
