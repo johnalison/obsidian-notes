@@ -4,7 +4,7 @@
 
 # Log
 
-The sham legacy of Richard Feynman
+# The sham legacy of Richard Feynman
 
 ![][https://www.youtube.com/watch?v=TwKpj2ISQAc&t=8308s]
 
@@ -18,6 +18,7 @@ Some [[Progressive Myths]]
 
 # Tony and Gio over... no Conor
 - Pizza from Mecerios 
+
 
 Working Osher slides
 - Sent slides

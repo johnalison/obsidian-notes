@@ -30,16 +30,16 @@
 ---
 # To Do
 
-- [ ] Osher ping re:transcripts
+[>>] Osher ping re:transcripts
 - [x] Ping Sindhu
-- [ ] Code to make cutflow eff plots 
+[>>] Code to make cutflow eff plots 
 - [x] Ping Matteo re:Prospectives
-- [ ]  Work [[Run2 HH4b AN]]
-- [ ] BCR
-- [ ] [[Snakemake tutorial]] 
-- [ ] Re do FvT fits with new code
-- [ ] Update [[Run3 Synthetic Data]]
-- [ ] Read [[Run2 X->HY->4b]]
+[>>]  Work [[Run2 HH4b AN]]
+[>>] BCR
+[>>]  [[Snakemake tutorial]] 
+[>>] Re do FvT fits with new code
+[>>] Update [[Run3 Synthetic Data]]
+[>>] Read [[Run2 X->HY->4b]]
 - [x] Review November
 
 ---
@@ -50,7 +50,7 @@ Up at 6:50
 
 Kits to school... H to work wMe
 
-Sindhu gets runTwoStageClosure working
+Sindhu gets runTwoStageClosure working!
 
 # Chat AE re:trip: 
 - reAna like a full scale CI test
@@ -72,7 +72,7 @@ Alejandro gets interview for USCMS Analysis contact.
 More BCR...
 
 # Chat with Berman. 
-- [ ] Mail re:iSURF
+ [>>] Mail re:iSURF
 
 # To Library: 
 - Got [[Blind Spots]] and [[Talent]]

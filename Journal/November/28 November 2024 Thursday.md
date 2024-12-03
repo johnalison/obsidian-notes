@@ -4,7 +4,7 @@
 
 # Log
 
-Thanksgiving !! 
+# Thanksgiving !! 
 
 To Giant eagle for avacados.... smoothie soo good
 
@@ -29,7 +29,7 @@ Working Matplotlib ".py" ... see above
 Writing up ... [[OnGrandStrategy]]
 
 # To Jon and Jamies for Thanksgiving 
-- sing clogged Jon pissed
+- sink clogged Jon pissed
 
 
 

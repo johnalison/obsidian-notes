@@ -5,7 +5,8 @@
 
 Up at 8:30
 
-Finished [[Letter for Jonas]]
+
+- [x]  [[Letter for Jonas]]
 - Submitted Northeastern and UT
 
 Wrote up [[Progressive Myths]]

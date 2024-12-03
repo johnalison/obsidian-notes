@@ -59,7 +59,7 @@ w/kids
 - pushed first version
  [>>] Code to make plots 
 
-Pinged Michelle waters re:Three more positions 
+Pinged Michelle waters re:three more positions 
 
 [[Inquiry for Module CT Scans Lumafield]]
 
