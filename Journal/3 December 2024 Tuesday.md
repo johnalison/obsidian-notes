@@ -68,3 +68,7 @@ To campus
 - Running on Run3 synthetic data
 - [ ] Check cutflow
 - [ ] Plots comparing 3-tag 
+
+
+[[CMU HGC Mac Meeting 3 December 2024]]
+
