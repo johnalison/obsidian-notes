@@ -18,9 +18,9 @@
 | 4   | Berman      |     |
 |     | Library     |     |
 
-**W:**
-**DW:**
-**OT:**
+**W:** 6 
+**DW:** 2
+**OT:** 2
 **ex** 
 
 ---
@@ -38,10 +38,9 @@
 - [ ] BCR
 - [ ] [[Snakemake tutorial]] 
 - [ ] Re do FvT fits with new code
-- [ ] Code to make eff plots 
 - [ ] Update [[Run3 Synthetic Data]]
 - [ ] Read [[Run2 X->HY->4b]]
-- [ ] Review November
+- [x] Review November
 
 ---
 
@@ -71,3 +70,11 @@ Alejandro gets interview for USCMS Analysis contact.
 # [[ADA presentation Soheun Yi]]
 
 More BCR...
+
+# Chat with Berman. 
+- [ ] Mail re:iSURF
+
+# To Library: 
+- Got [[Blind Spots]] and [[Talent]]
+
+Home with kids

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/HGC Transfer Tape BCR.md",
+                "file": "Journal/December 2024.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HGC Transfer Tape BCR"
+              "title": "December 2024"
             }
           },
           {
@@ -35,7 +35,8 @@
               "title": "2 December 2024 Monday"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +88,8 @@
               "title": "Files"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -107,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/HGC Transfer Tape BCR.md",
+                "file": "Journal/2 December 2024 Monday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for HGC Transfer Tape BCR"
+              "title": "Backlinks for 2 December 2024 Monday"
             }
           },
           {
@@ -126,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/HGC Transfer Tape BCR.md",
+                "file": "Journal/2 December 2024 Monday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from HGC Transfer Tape BCR"
+              "title": "Outgoing links from 2 December 2024 Monday"
             }
           },
           {
@@ -153,10 +155,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/HGC Transfer Tape BCR.md"
+                "file": "Journal/2 December 2024 Monday.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of HGC Transfer Tape BCR"
+              "title": "Outline of 2 December 2024 Monday"
             }
           },
           {
@@ -188,12 +190,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d47ecdea14c3140b",
+  "active": "42b5d6cc5e8dca38",
   "lastOpenFiles": [
-    "0-inbox/HGC MAC BoEs.md",
-    "0-inbox/HGC Transfer Tape BCR.md",
-    "1-projects/HGC/Module assembly at CMU.md",
+    "Journal/December 2024.md",
     "Journal/2 December 2024 Monday.md",
+    "0-inbox/HGC Transfer Tape BCR.md",
+    "0-inbox/HGC MAC BoEs.md",
+    "1-projects/HGC/Module assembly at CMU.md",
     "Journal/November/30 November 2024 Saturday.md",
     "0-inbox/ADA presentation Soheun Yi.md",
     "Output/CAM/CAM Variance November 2024.md",
@@ -215,7 +218,6 @@
     "Journal/November/19 November 2024 Tuesday.md",
     "Journal/November/18 November 2024 Monday.md",
     "Journal/November/17 November 2024 Sunday.md",
-    "Journal/November/16 November 2024 Saturday.md",
     "Journal/#Future Log.md#",
     "Journal/#December 2024.md#",
     "Input/Meetings/November",
