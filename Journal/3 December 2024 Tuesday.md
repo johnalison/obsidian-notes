@@ -68,7 +68,13 @@ To campus
 - Running on Run3 synthetic data
 - [ ] Check cutflow
 - [ ] Plots comparing 3-tag 
+- Running on Run2 on **cmslpc350**
+
+# Met with Ornella: 
+- Seems very nice.
+- Showed her the lab
 
 
 [[CMU HGC Mac Meeting 3 December 2024]]
 
+**cmslpc350**

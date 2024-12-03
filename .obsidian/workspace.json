@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/CMU HGC Mac Meeting 3 December 2024.md",
+                "file": "Journal/3 December 2024 Tuesday.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CMU HGC Mac Meeting 3 December 2024"
+              "title": "3 December 2024 Tuesday"
             }
           }
         ],
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/CMU HGC Mac Meeting 3 December 2024.md",
+                "file": "Journal/3 December 2024 Tuesday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for CMU HGC Mac Meeting 3 December 2024"
+              "title": "Backlinks for 3 December 2024 Tuesday"
             }
           },
           {
@@ -142,12 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/CMU HGC Mac Meeting 3 December 2024.md",
+                "file": "Journal/3 December 2024 Tuesday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from CMU HGC Mac Meeting 3 December 2024"
+              "title": "Outgoing links from 3 December 2024 Tuesday"
             }
           },
           {
@@ -169,10 +169,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/CMU HGC Mac Meeting 3 December 2024.md"
+                "file": "Journal/3 December 2024 Tuesday.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of CMU HGC Mac Meeting 3 December 2024"
+              "title": "Outline of 3 December 2024 Tuesday"
             }
           },
           {
@@ -206,8 +206,8 @@
   },
   "active": "37ca9d1b5cdebe8c",
   "lastOpenFiles": [
-    "Input/Meetings/November/CMU HGC Mac Meeting 19 November 2024.md",
     "0-inbox/CMU HGC Mac Meeting 3 December 2024.md",
+    "Input/Meetings/November/CMU HGC Mac Meeting 19 November 2024.md",
     "Journal/3 December 2024 Tuesday.md",
     "Journal/November/19 November 2024 Tuesday.md",
     "Journal/November/26 November 2024 Tuesday.md",
