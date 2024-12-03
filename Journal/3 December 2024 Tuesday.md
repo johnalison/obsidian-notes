@@ -73,8 +73,13 @@ To campus
 # Met with Ornella: 
 - Seems very nice.
 - Showed her the lab
+- [ ] Ping re:offer
 
 
 [[CMU HGC Mac Meeting 3 December 2024]]
 
-**cmslpc350**
+Subscribed to "The silver bulletin"
+
+To get haircut... line too long ... checked out white whale book store...very cool!
+
+
