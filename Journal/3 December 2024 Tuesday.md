@@ -1,22 +1,22 @@
 
-|     |            |     |
-| --- | ---------- | --- |
-| 9   |            |     |
-|     | Wes        |     |
-| 10  |            |     |
-|     |            |     |
-| 11  | Ornella    |     |
-|     | Ornella    |     |
-| 12  | HGC        |     |
-|     | HGC        |     |
-| 1   |            |     |
-|     |            |     |
-| 2   |            |     |
-|     |            |     |
-| 3   | Eye Doctor |     |
-|     | Eye Doctor |     |
-| 4   | Mans       |     |
-|     |            |     |
+|     | setup /kids |     |
+| --- | ----------- | --- |
+| 9   | To campus   |     |
+|     | Wes         |     |
+| 10  |             |     |
+|     |             |     |
+| 11  | Ornella     |     |
+|     | Ornella     |     |
+| 12  | HGC         |     |
+|     | HGC         |     |
+| 1   |             |     |
+|     |             |     |
+| 2   |             |     |
+|     |             |     |
+| 3   | Eye Doctor  |     |
+|     | Eye Doctor  |     |
+| 4   | Mans        |     |
+|     |             |     |
 
 **W:**
 **DW:**
@@ -30,7 +30,7 @@
 ---
 # To Do
 
-- [ ] Review Anikets slides
+- [x] Review Anikets slides
 - [x] Osher ping re:transcripts
 - [ ] Code to make cutflow eff plots
 - [ ] Work [[Run2 HH4b AN]]
@@ -54,3 +54,11 @@ w/M and T
 - https://indico.cern.ch/event/1485353/contributions/6260626/attachments/2978312/5243455/bbWW_AniketK_CMU_Dec2.pdf
 - s3: Make sure you know where that form of the SM potential comes from. 
 - s8: know the difference between observed and expected
+
+With kids
+
+To campus
+
+[[Chat w Wes 3 December 2024]]
+- [ ] Review annual review slides
+- [ ] Send mono-jet event display
