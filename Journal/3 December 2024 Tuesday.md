@@ -84,4 +84,8 @@ To get haircut... line too long ... checked out white whale book store...very co
 
 [[The expert class is failing, and so is Biden’s presidency]]
 
-
+CMU Teaching Schedule:
+- MWF: 9-9:50
+- H: 10 - 10:50
+- Classes start: 13th
+- No class: 

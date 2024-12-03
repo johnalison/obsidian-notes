@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/2 December 2024 Monday.md",
+                "file": "Journal/Future Log.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2 December 2024 Monday"
+              "title": "Future Log"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/The expert class is failing, and so is Biden’s presidency.md",
+                "file": "Journal/3 December 2024 Tuesday.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The expert class is failing, and so is Biden’s presidency"
+              "title": "3 December 2024 Tuesday"
             }
           },
           {
@@ -49,8 +49,7 @@
               "title": "HGC Transfer Tape BCR"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/The expert class is failing, and so is Biden’s presidency.md",
+                "file": "Journal/Future Log.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +132,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for The expert class is failing, and so is Biden’s presidency"
+              "title": "Backlinks for Future Log"
             }
           },
           {
@@ -142,12 +141,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/The expert class is failing, and so is Biden’s presidency.md",
+                "file": "Journal/Future Log.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from The expert class is failing, and so is Biden’s presidency"
+              "title": "Outgoing links from Future Log"
             }
           },
           {
@@ -169,10 +168,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/The expert class is failing, and so is Biden’s presidency.md"
+                "file": "Journal/Future Log.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of The expert class is failing, and so is Biden’s presidency"
+              "title": "Outline of Future Log"
             }
           },
           {
@@ -204,11 +203,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a138e0692b131bc7",
+  "active": "42b5d6cc5e8dca38",
   "lastOpenFiles": [
-    "Journal/3 December 2024 Tuesday.md",
-    "0-inbox/The expert class is failing, and so is Biden’s presidency.md",
+    "Journal/December 2024.md",
     "Journal/2 December 2024 Monday.md",
+    "Journal/3 December 2024 Tuesday.md",
+    "Journal/Future Log.md",
+    "0-inbox/The expert class is failing, and so is Biden’s presidency.md",
     "0-inbox/Run2 X->HY->4b.md",
     "0-inbox/HGC Transfer Tape BCR.md",
     "0-inbox/Chat w Wes 3 December 2024.md",
@@ -217,7 +218,6 @@
     "Journal/November/19 November 2024 Tuesday.md",
     "Journal/November/26 November 2024 Tuesday.md",
     "Input/Meetings/November/Update from Wes 26 November 2024.md",
-    "Journal/December 2024.md",
     "Journal/1 December 2024 Sunday.md",
     "Journal/November/30 November 2024 Saturday.md",
     "Journal/November/29 November 2024 Friday.md",
@@ -231,7 +231,6 @@
     "Output/CAM/CAM Variance September 2024.md",
     "Output/CAM/CAM Variance August 2024.md",
     "0-inbox/Dry Air for MMTS.md",
-    "Journal/November/25 November 2024 Monday.md",
     "Journal/#Future Log.md#",
     "Journal/#December 2024.md#",
     "Input/Meetings/November",
