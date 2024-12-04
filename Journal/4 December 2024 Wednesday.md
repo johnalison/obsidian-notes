@@ -80,4 +80,9 @@ M&T to school
 
 - [ ] Add justification for the BCR
 
-[[Osher Particle Physics Transcript]]
+[[Osher Particle Physics Lecture 1 Transcript]]
+[[Osher Particle Physics Lecture 2 Transcript]]
+
+# Last Osher Lecture
+- Went well... good feedback
+
