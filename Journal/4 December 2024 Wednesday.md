@@ -65,4 +65,8 @@ M&T to school
 
 # Lipika
 - [[HGC Transfer Tape BCR]]
-- [ ] How to get into P6 ?
+- [x] How to get into P6 ?
+	- She will send the request
+- Lipika Made the changes in P6 and estimated the impacts
+
+# MAC Meeting

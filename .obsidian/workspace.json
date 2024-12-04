@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/HGC Transfer Tape BCR.md",
+                "file": "Journal/4 December 2024 Wednesday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for HGC Transfer Tape BCR"
+              "title": "Backlinks for 4 December 2024 Wednesday"
             }
           },
           {
@@ -156,12 +156,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/HGC Transfer Tape BCR.md",
+                "file": "Journal/4 December 2024 Wednesday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from HGC Transfer Tape BCR"
+              "title": "Outgoing links from 4 December 2024 Wednesday"
             }
           },
           {
@@ -183,10 +183,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/HGC Transfer Tape BCR.md"
+                "file": "Journal/4 December 2024 Wednesday.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of HGC Transfer Tape BCR"
+              "title": "Outline of 4 December 2024 Wednesday"
             }
           },
           {
@@ -218,12 +218,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "37ca9d1b5cdebe8c",
+  "active": "ad1541367cb39d8a",
   "lastOpenFiles": [
-    "0-inbox/HGC MAC BoEs.md",
-    "0-inbox/HGC Transfer Tape BCR.md",
-    "Journal/4 December 2024 Wednesday.md",
     "Journal/3 December 2024 Tuesday.md",
+    "0-inbox/HGC Transfer Tape BCR.md",
+    "0-inbox/HGC MAC BoEs.md",
+    "Journal/4 December 2024 Wednesday.md",
     "Journal/December 2024.md",
     "1-projects/4b Resonant/4b Resonant Search.md",
     "2-areas/Aspirations.md",
