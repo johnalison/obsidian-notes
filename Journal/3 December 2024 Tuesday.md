@@ -1,27 +1,27 @@
 
-|     | setup /kids |     |
-| --- | ----------- | --- |
-| 9   | To campus   |     |
-|     | Wes         |     |
-| 10  |             |     |
-|     |             |     |
-| 11  | Ornella     |     |
-|     | Ornella     |     |
-| 12  | HGC         |     |
-|     | HGC         |     |
-| 1   |             |     |
-|     |             |     |
-| 2   |             |     |
-|     |             |     |
-| 3   | Eye Doctor  |     |
-|     | Eye Doctor  |     |
-| 4   | Mans        |     |
-|     |             |     |
+|     | setup /kids              |     |
+| --- | ------------------------ | --- |
+| 9   | To campus                |     |
+|     | Wes                      |     |
+| 10  | Wes                      |     |
+|     | Start Synthetic Datasets |     |
+| 11  | Ornella                  |     |
+|     | Ornella                  |     |
+| 12  | HGC                      |     |
+|     | HGC                      |     |
+| 1   | home w/Kids              |     |
+|     | home w/Kids              |     |
+| 2   | Try to get hairs cut     |     |
+|     | Eye Doctor               |     |
+| 3   | Eye Doctor               |     |
+|     | Eye Doctor               |     |
+| 4   | Mans                     |     |
+|     |                          |     |
 
-**W:**
-**DW:**
-**OT:**
-**ex** or **No ex**
+**W:** 4
+**DW:** 2
+**OT:** xxx
+ **No ex**
 
 ---
 # The ONE thing: 
@@ -54,12 +54,13 @@ w/M and T
 - https://indico.cern.ch/event/1485353/contributions/6260626/attachments/2978312/5243455/bbWW_AniketK_CMU_Dec2.pdf
 - s3: Make sure you know where that form of the SM potential comes from. 
 - s8: know the difference between observed and expected
+- [x] Send to Aniket
 
 With kids
 
 To campus
 
-[[Chat w Wes 3 December 2024]]
+# [[Chat w Wes 3 December 2024]]
 - [x] Review annual review slides
 - [x] Send mono-jet event display
 - Long chat with Wes about preparing his slides for the Annual Review
