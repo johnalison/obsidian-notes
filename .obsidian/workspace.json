@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/Future Log.md",
+                "file": "Journal/December 2024.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Future Log"
+              "title": "December 2024"
             }
           },
           {
@@ -36,6 +36,20 @@
             }
           },
           {
+            "id": "ad1541367cb39d8a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Journal/4 December 2024 Wednesday.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4 December 2024 Wednesday"
+            }
+          },
+          {
             "id": "37ca9d1b5cdebe8c",
             "type": "leaf",
             "state": {
@@ -50,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -69,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "var",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -123,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/3 December 2024 Tuesday.md",
+                "file": "0-inbox/HGC Transfer Tape BCR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 3 December 2024 Tuesday"
+              "title": "Backlinks for HGC Transfer Tape BCR"
             }
           },
           {
@@ -142,12 +156,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/3 December 2024 Tuesday.md",
+                "file": "0-inbox/HGC Transfer Tape BCR.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 3 December 2024 Tuesday"
+              "title": "Outgoing links from HGC Transfer Tape BCR"
             }
           },
           {
@@ -169,10 +183,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/3 December 2024 Tuesday.md"
+                "file": "0-inbox/HGC Transfer Tape BCR.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 3 December 2024 Tuesday"
+              "title": "Outline of HGC Transfer Tape BCR"
             }
           },
           {
@@ -204,34 +218,34 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a138e0692b131bc7",
+  "active": "37ca9d1b5cdebe8c",
   "lastOpenFiles": [
-    "Journal/Future Log.md",
+    "0-inbox/HGC MAC BoEs.md",
+    "0-inbox/HGC Transfer Tape BCR.md",
+    "Journal/4 December 2024 Wednesday.md",
     "Journal/3 December 2024 Tuesday.md",
     "Journal/December 2024.md",
+    "1-projects/4b Resonant/4b Resonant Search.md",
+    "2-areas/Aspirations.md",
+    "2-areas/Physics/S-factors-for-HH-Analyses.md",
+    "2-areas/Physics/Summary of Relativity.md",
+    "2-areas/Physics/Why QM + relativity might work with the time slices at infinity.md",
+    "2-areas/Physics/ABCDMethod.md",
+    "1-projects/HH4b/Run2 HH4b AN.md",
+    "Journal/Future Log.md",
     "Journal/2 December 2024 Monday.md",
-    "0-inbox/The expert class is failing, and so is Biden’s presidency.md",
-    "0-inbox/Run2 X->HY->4b.md",
-    "0-inbox/HGC Transfer Tape BCR.md",
-    "0-inbox/Chat w Wes 3 December 2024.md",
-    "0-inbox/CMU HGC Mac Meeting 3 December 2024.md",
-    "Input/Meetings/November/CMU HGC Mac Meeting 19 November 2024.md",
-    "Journal/November/19 November 2024 Tuesday.md",
-    "Journal/November/26 November 2024 Tuesday.md",
-    "Input/Meetings/November/Update from Wes 26 November 2024.md",
     "Journal/1 December 2024 Sunday.md",
     "Journal/November/30 November 2024 Saturday.md",
     "Journal/November/29 November 2024 Friday.md",
     "Journal/November/28 November 2024 Thursday.md",
     "Journal/November/27 November 2024 Wednesday.md",
-    "0-inbox/HGC MAC BoEs.md",
-    "1-projects/HGC/Module assembly at CMU.md",
-    "0-inbox/ADA presentation Soheun Yi.md",
-    "Output/CAM/CAM Variance November 2024.md",
-    "Output/CAM/CAM Variance October 2024.md",
-    "Output/CAM/CAM Variance September 2024.md",
-    "Output/CAM/CAM Variance August 2024.md",
-    "0-inbox/Dry Air for MMTS.md",
+    "1-projects/Teaching/Osher Fall Particle Physics Course.md",
+    "0-inbox/The expert class is failing, and so is Biden’s presidency.md",
+    "0-inbox/Run2 X->HY->4b.md",
+    "0-inbox/Chat w Wes 3 December 2024.md",
+    "0-inbox/CMU HGC Mac Meeting 3 December 2024.md",
+    "Input/Meetings/November/CMU HGC Mac Meeting 19 November 2024.md",
+    "Journal/November/19 November 2024 Tuesday.md",
     "Journal/#Future Log.md#",
     "Journal/#December 2024.md#",
     "Input/Meetings/November",

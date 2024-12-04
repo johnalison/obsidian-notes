@@ -48,7 +48,7 @@
 
 Up at 6:50 
 
-Kits to school... H to work wMe
+Kids to school... H to work wMe
 
 Sindhu gets runTwoStageClosure working!
 

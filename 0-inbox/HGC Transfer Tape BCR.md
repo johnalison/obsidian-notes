@@ -1,3 +1,4 @@
+https://fbcr.fnal.gov/BCR/All
 
 - Update all cleanroom consumable numbers ?
 - Araldite:   464 -> 202  $20 -> $25
@@ -10,6 +11,14 @@ https://www.perigeedirect.com/products/huntsman-araldite-2011-slow-setting-all-p
 - OR: 251 * 12m/d = 3012 * $8.75 = **$26355.0**
 
 Added OGP calibration
+
+- -5k  + 26k + 1500 * 1.5 
+45,344 + 2
+$48288 -> $72,288 
+
+$45344 -> 69344
+$48396 + 12
+
 
 # Assembly Estimates
 Was: 34k / year  x 1./12 months x (1 month / 231 modules) = $12.27 / module
