@@ -70,3 +70,14 @@ M&T to school
 - Lipika Made the changes in P6 and estimated the impacts
 
 # MAC Meeting
+- [ ] Notes from slides
+
+# Hoops
+- Great games good wins! 
+- Steamroom back ! 10' at Tmax = 120
+
+# Ornella Accepts ! 
+
+- [ ] Add justification for the BCR
+
+[[Osher Particle Physics Transcript]]
