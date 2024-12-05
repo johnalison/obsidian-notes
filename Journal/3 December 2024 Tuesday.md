@@ -32,8 +32,8 @@
 
 - [x] Review Anikets slides
 - [x] Osher ping re:transcripts
-- [ ] Code to make cutflow eff plots
-- [ ] Work [[Run2 HH4b AN]]
+([[4b code base]]) [<< ] Code to make cutflow eff plots
+ [>>] Work [[Run2 HH4b AN]]
  [>>] BCR
 - [ ]  [[Snakemake tutorial]] 
 - [x] Ping Sam re:kubernetes

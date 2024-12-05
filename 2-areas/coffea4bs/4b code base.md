@@ -8,6 +8,7 @@
 - [x] Matplotlib ".py"
 - [ ]  clean JCM code
 - [ ] Why is canJet Phi 0-pi ?
+- [ ]  Code to make cutflow eff plots
 ## Follow-ups
 
 
