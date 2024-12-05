@@ -86,3 +86,10 @@ M&T to school
 # Last Osher Lecture
 - Went well... good feedback
 
+# Chat with AE
+- plans re:AN hope to release by Friday
+
+# Chat MP
+- [ ] Ping Andre Swain
+- [ ] Ping Eric
+- [ ] Ping Michelle Waters
