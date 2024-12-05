@@ -1,27 +1,27 @@
 
-|     |        |     |
-| --- | ------ | --- |
-| 9   | Sindhu |     |
-|     | Sindhu |     |
-| 10  | Lipika |     |
-|     | Lipika |     |
-| 11  | MAC    |     |
-|     | Hoops  |     |
-| 12  | Hoops  |     |
-|     | Hoops  |     |
-| 1   | Hoops  |     |
-|     | BCR    |     |
-| 2   | BCR    |     |
-|     | Osher  |     |
-| 3   | Osher  |     |
-|     | Osher  |     |
-| 4   | Osher  |     |
-|     | BCR    |     |
+|     | setup   |     |
+| --- | ------- | --- |
+| 9   | Sindhu  |     |
+|     | Sindhu  |     |
+| 10  | Lipika  |     |
+|     | Lipika  |     |
+| 11  | MAC     |     |
+|     | Hoops   |     |
+| 12  | Hoops   |     |
+|     | Hoops   |     |
+| 1   | Hoops   |     |
+|     | prep    |     |
+| 2   | Grisha  |     |
+|     | Osher   |     |
+| 3   | Osher   |     |
+|     | Osher   |     |
+| 4   | Osher   |     |
+|     | Chat AE |     |
 
-**W:**
-**DW:**
-**OT:**
-**ex** or **No ex**
+**W:** 6
+**DW:** 4
+**OT:** 1
+**ex** 
 
 ---
 # The ONE thing: 
@@ -33,7 +33,6 @@
 - [ ] Date for Herwig
 - [ ] BCR
 - [ ] Mail re:iSURF
-- [ ] 
 
 ---
 
@@ -82,6 +81,8 @@ M&T to school
 
 [[Osher Particle Physics Lecture 1 Transcript]]
 [[Osher Particle Physics Lecture 2 Transcript]]
+[[Osher Particle Physics Lecture 3 Transcript]]
+
 
 # Last Osher Lecture
 - Went well... good feedback

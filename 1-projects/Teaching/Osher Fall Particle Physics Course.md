@@ -86,5 +86,11 @@ john
 [[Osher Study Leader Training 20 Aug 2024]]
 
 
+[[Osher Particle Physics Lecture 1 Transcript]]
+[[Osher Particle Physics Lecture 2 Transcript]]
+[[Osher Particle Physics Lecture 3 Transcript]]
+
+
+
 
 202407121431
