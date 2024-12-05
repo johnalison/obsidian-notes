@@ -90,6 +90,7 @@ M&T to school
 - plans re:AN hope to release by Friday
 
 # Chat MP
-- [ ] Ping Andre Swain
+- [x] Ping Andre Swain
 - [ ] Ping Eric
-- [ ] Ping Michelle Waters
+- [x] Ping Michelle Waters
+- [ ] Ping Rachel 
