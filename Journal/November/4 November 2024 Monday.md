@@ -67,7 +67,7 @@ Wes gives Monday Meeting talk
 # Hoops 
 - good runs 5s 
 
-Joe's slides [[HGC MAC P2UG Silicon Modules]]
+Joe's slides [[HGC MAC P2UG Silicon Modules 5 Nov 2024]]
 
 More [[Run3 Synthetic Data]]
 

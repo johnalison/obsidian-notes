@@ -1,8 +1,46 @@
 https://fbcr.fnal.gov/BCR/All
 
+# BCR Draft
+
+### What is the change about? Include any details about the change
+
+This change has two pieces which affect module production at the 3 US sites (CMU, TTU, UCSB). 
+
+The first is a change of the cost of the consumables used during module production, stemming from the change in adhesive used for module assembly and including an annual calibration of the OGP microscope used in the QA/QC process.
+
+The OGP calibration will increase the cost by $2k.
+
+The per module consumables cost will:
+- increase by $8.75 (cost of the transfer tape) 
+- decrease by $0.7 (we now need will need less of the Araldite epoxy)
+
+The combined effect is an increase in the total cleanroom consumables cost of $24k at each site.  
+
+
+The second change 
+
+
+
+
+### Impact / Justification
+
+The baseline assumed epoxy-only construction. However because some layers can arrive too warped to laminate with epoxy alone, would like to move to a "hybrid" adhesive strategy, using a combination of epoxy and transfer tape. 
+
+Quality, specs, production rates, all at risk
+
+about because of the change from epoxy only 
+
+- ADHESIVES FOR MODULE STACKUP
+- “Hybrid” adhesive method of lamination
+- Because layers are not always flat: – Transfer tape was recommended
+
+13 modules / cartrige 
+# Notes
+
+
 - Update all cleanroom consumable numbers ?
 - Araldite:   464 -> 202  $20 -> $25
-	- Current: 251 days * 24 modules / day * (13 modules / cartrige )^-1 = 464 x $20 = $9,280.00
+	- Current: 251 days * 24 modules / day * (13 modules / cartrige )^-1 = 464 x $20 = $9,280.00. (Was 20/13... now 25/30
 	- New: 251 days * 24 modules / day * (30 modules / cartrige )^-1 = 201 cartridges x  $25 / cartrige = $4,020.00
 
 https://www.perigeedirect.com/products/huntsman-araldite-2011-slow-setting-all-purpose-epoxy?variant=42330316177662
@@ -61,6 +99,7 @@ $33,875.13 / 4240 ~$8/module
 # Follow-ups
 [[Module assembly at CMU]]
 
+[[HGC MAC P2UG Silicon Modules 5 Nov 2024]]
 # Links: 
 
 

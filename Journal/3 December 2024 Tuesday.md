@@ -37,8 +37,8 @@
  [>>] BCR
 - [ ]  [[Snakemake tutorial]] 
 - [x] Ping Sam re:kubernetes
-- [ ] Re do FvT fits with new code
-- [ ] Update [[Run3 Synthetic Data]]
+ [>>] Re do FvT fits with new code
+ [>>] Update [[Run3 Synthetic Data]]
 - [ ] Read [[Run2 X->HY->4b]]
  [>>] Mail re:iSURF
 
