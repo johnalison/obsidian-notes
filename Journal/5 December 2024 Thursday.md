@@ -58,3 +58,12 @@ Swain rejects
 
 
 
+# Stats chat
+
+
+# bbWW
+- Prep talk for bbWW
+
+# Faculty Meeting
+- Jeff Ables: from CyLab
+

@@ -4,9 +4,9 @@ https://fbcr.fnal.gov/BCR/All
 
 ### What is the change about? Include any details about the change
 
-This change has two pieces which affect module production at the 3 US sites (CMU, TTU, UCSB). 
+This change has two pieces which affect module production at the 3 US sites (CMU, TTU, and UCSB). 
 
-The first is a change of the cost of the consumables used during module production, stemming from the change in adhesive used for module assembly and including an annual calibration of the OGP microscope used in the QA/QC process.
+The first is a change of the cost of consumables used during module production stemming from the change in adhesive used for module assembly and including an annual calibration of the OGP microscope used in the QA/QC process.
 
 The OGP calibration will increase the cost by $2k.
 
@@ -16,8 +16,10 @@ The per module consumables cost will:
 
 The combined effect is an increase in the total cleanroom consumables cost of $24k at each site.  
 
+The second change is for equipment needed to supply dry air and high-voltage for the multi-module test stand. This increases the cost of the setup needed per MAC by:
+- $15k for high-voltage power supplies
+- $5k for the dry-air regenerative air dryer
 
-The second change 
 
 
 
@@ -35,6 +37,14 @@ about because of the change from epoxy only
 - Because layers are not always flat: – Transfer tape was recommended
 
 13 modules / cartrige 
+
+. The specs for this dry air are more stringent than what  
+we're using for our dry air storage cabinets, so at least at UCSB our  
+current air dryer won't work for the MMTS.x
+
+MACs will be responsible for the equipment needed to supply the dry air  
+for the MMTS. T
+
 # Notes
 
 
@@ -55,7 +65,7 @@ Added OGP calibration
 $48288 -> $72,288 
 
 $45344 -> 69344
-$48396 + 12
+$48396 + 24
 
 
 # Assembly Estimates
