@@ -1,22 +1,22 @@
 
-|     |                    |     |
-| --- | ------------------ | --- |
-| 9   | Progress Reporting |     |
-|     | Progress Reporting |     |
-| 10  | HGC Pictures       |     |
-|     | Progress Reporting |     |
-| 11  |                    |     |
-|     |                    |     |
-| 12  |                    |     |
-|     |                    |     |
-| 1   |                    |     |
-|     | STAMPS             |     |
-| 2   | STAMPS / Ornella   |     |
-|     |                    |     |
-| 3   |                    |     |
-|     | David Shih         |     |
-| 4   | Math AI Talk       |     |
-|     | Math AI Talk       |     |
+|     |                         |     |
+| --- | ----------------------- | --- |
+| 9   | Progress Reporting      |     |
+|     | Progress Reporting      |     |
+| 10  | HGC Pictures            |     |
+|     | Progress Reporting      |     |
+| 11  | GYM                     |     |
+|     | GYM                     |     |
+| 12  | GYM                     |     |
+|     | [[Run3 Synthetic Data]] |     |
+| 1   | [[Run3 Synthetic Data]] |     |
+|     | STAMPS                  |     |
+| 2   | STAMPS / Ornella        |     |
+|     |                         |     |
+| 3   |                         |     |
+|     | David Shih              |     |
+| 4   | Math AI Talk            |     |
+|     | Math AI Talk            |     |
 
 **W:**
 **DW:**
