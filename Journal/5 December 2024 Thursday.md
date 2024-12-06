@@ -1,5 +1,5 @@
 
-|     |            |     |
+|     | setup      |     |
 | --- | ---------- | --- |
 | 9   | FBC2       |     |
 |     | FBC2       |     |
@@ -16,12 +16,12 @@
 | 3   | Josh Visit |     |
 |     | Josh Visit |     |
 | 4   | BCR        |     |
-|     | BRC        |     |
+|     | BCR        |     |
 
-**W:**
-**DW:**
-**OT:**
-**ex** or **No ex**
+**W:**  8 
+**DW:** 2
+**OT:** 1
+ **No ex**
 
 ---
 # The ONE thing: 
@@ -31,10 +31,11 @@
 # To Do
 
 - [ ]  Work [[Run2 HH4b AN]]
+- [x] BCR
 - [ ] Re do FvT fits with new code
 - [ ] Update [[Run3 Synthetic Data]]
 - [x] Ping Eric
-- [ ] feed back on christians' statement
+- [x] feed back on christians' statement
 - [ ] [[DOE progress report 2024]]
 - [ ]  Read [[Run2 X->HY->4b]]
 - [ ]  Mail re:iSURF
@@ -47,10 +48,8 @@ Up at 7
 
 M & T to school... Dropped popcorn in wind T throws a fit
 
-Swain rejects
-
+Swain rejects :(
 - [x] Ping Eric
-
 
 # FBC2 Meeting
 
@@ -72,7 +71,6 @@ Swain rejects
 - Long discussion of runTwoStageClosure
 
 # MPL
-- whence: the degeneracy of electron spin
 - [[Electron Spin Resonance]]
 - How could you get more absorption ?
 - s7-8 can you explain the cartoons? 
@@ -81,8 +79,7 @@ Swain rejects
 - s29 looks like bad fit on the left
 
 # Josh Interview
-- [ ] Well send offer letter
-
+- [x] Send offer letter
 
 Finished draft of BCR
 

@@ -77,8 +77,7 @@
               "title": "December 2024"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -151,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-projects/HGC/Dry Air for MMTS.md",
+                "file": "Journal/5 December 2024 Thursday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +160,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Dry Air for MMTS"
+              "title": "Backlinks for 5 December 2024 Thursday"
             }
           },
           {
@@ -170,12 +169,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-projects/HGC/Dry Air for MMTS.md",
+                "file": "Journal/5 December 2024 Thursday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Dry Air for MMTS"
+              "title": "Outgoing links from 5 December 2024 Thursday"
             }
           },
           {
@@ -197,10 +196,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-projects/HGC/Dry Air for MMTS.md"
+                "file": "Journal/5 December 2024 Thursday.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Dry Air for MMTS"
+              "title": "Outline of 5 December 2024 Thursday"
             }
           },
           {
@@ -232,10 +231,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ad1541367cb39d8a",
+  "active": "42b5d6cc5e8dca38",
   "lastOpenFiles": [
-    "Journal/4 December 2024 Wednesday.md",
+    "1-projects/Teaching/Electron Spin Resonance.md",
     "Journal/5 December 2024 Thursday.md",
+    "Journal/4 December 2024 Wednesday.md",
+    "1-projects/HGC/Dry Air for MMTS.md",
     "Journal/3 December 2024 Tuesday.md",
     "Journal/2 December 2024 Monday.md",
     "0-inbox/ToDo.md",
@@ -248,14 +249,12 @@
     "0-inbox/HGC Transfer Tape BCR.md",
     "1-projects/HGC/HGC MAC BoEs.md",
     "0-inbox/Existence Is Evidence of Immortality.md",
-    "1-projects/HGC/Dry Air for MMTS.md",
     "Input/Meetings/CMU HGC Mac Meeting 3 December 2024.md",
     "Input/Meetings/Chat w Wes 3 December 2024.md",
     "2-areas/CMS/ARC HIG-24-017 Boosted VqqHbb.md",
     "Input/Meetings/ADA presentation Soheun Yi.md",
     "0-inbox/Tree Stump.md",
     "0-inbox/DOE progress report 2024.md",
-    "1-projects/Teaching/Electron Spin Resonance.md",
     "Input/Meetings/November/HGC MAC P2UG Silicon Modules 5 Nov 2024.md",
     "2-areas/coffea4bs/4b code base.md",
     "Journal/December 2024.md",

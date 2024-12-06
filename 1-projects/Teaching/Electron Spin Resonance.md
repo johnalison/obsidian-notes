@@ -12,7 +12,7 @@ Setup:
 - Measure signal reflected 
 - Scan over field strength
 - Instrumentation to control the magnet 
-- Gaus meter to measuer B-field
+- Gaus meter to measue B-field
 - Scope and Computer to do DAQ
 
 Crystal structure of Cu-sulfate 
