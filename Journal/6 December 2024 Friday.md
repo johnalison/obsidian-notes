@@ -4,7 +4,7 @@
 | 9   | Progress Reporting |     |
 |     | Progress Reporting |     |
 | 10  | HGC Pictures       |     |
-|     |                    |     |
+|     | Progress Reporting |     |
 | 11  |                    |     |
 |     |                    |     |
 | 12  |                    |     |
@@ -30,8 +30,8 @@
 ---
 # To Do
 
-- [ ] Chat AE re:discussion
-- [ ] What to do about the machine shop
+- [x] Chat AE re:discussion
+- [ ] What to do about the machine shop ? 
 - [ ] Call Eye Doctor
 - [ ] review MAC meeting
 - [ ] Update [[Run3 Synthetic Data]]
@@ -51,10 +51,18 @@ Eric Rejects !
 
 [[ProgressReport 6 December 2024]]
 
-# EXX Status update
+# EXO Status update
 - EXO-23-017
 - Talk by Peter... 
 - https://indico.cern.ch/event/1476269/
+
+Did pre-production photos
+
+Make the Marlo-Fucking Alison collage
+
+Finished the progress report. 
+
+Chat AE re:USCMS analysis contact interview
 
 [[Run3 Synthetic Data]]
 - [ ] Check cutflow

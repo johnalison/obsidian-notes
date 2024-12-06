@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/ProgressReport 6 December 2024.md",
+                "file": "Journal/6 December 2024 Friday.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ProgressReport 6 December 2024"
+              "title": "6 December 2024 Friday"
             }
           },
           {
@@ -63,8 +63,7 @@
               "title": "28 November 2024 Thursday"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -218,7 +217,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ad1541367cb39d8a",
+  "active": "a138e0692b131bc7",
   "lastOpenFiles": [
     "0-inbox/ProgressReport 6 December 2024.md",
     "Journal/6 December 2024 Friday.md",
