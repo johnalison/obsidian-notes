@@ -25,20 +25,20 @@
 
 ---
 # The ONE thing: 
-- [ ] BCR
+- [x] BCR
 
 ---
 # To Do
 
-- [ ]  Work [[Run2 HH4b AN]]
+[>>]  Work [[Run2 HH4b AN]]
 - [x] BCR
-- [ ] Re do FvT fits with new code
-- [ ] Update [[Run3 Synthetic Data]]
+([[Run2 HH4b AN]]) [<<] Re do FvT fits with new code
+ [>>] Update [[Run3 Synthetic Data]]
 - [x] Ping Eric
 - [x] feed back on christians' statement
-- [ ] [[DOE progress report 2024]]
-- [ ]  Read [[Run2 X->HY->4b]]
-- [ ]  Mail re:iSURF
+[>>]  [[DOE progress report 2024]]
+ [>>]  Read [[Run2 X->HY->4b]]
+ [>>]  Mail re:iSURF
 
 ---
 
@@ -58,14 +58,14 @@ Swain rejects :(
 
 
 # Stats chat
-- How to enseamble the latent space.
+- How to ensemble the latent space.
 - not much else...
 
 # bbWW
 - Prep talk for bbWW
 
 # Faculty Meeting
-- Jeff Ables: from CyLab
+- Jeff Ables: from CyLab.. seems competent 
 
 # Chat with Sindhu
 - Long discussion of runTwoStageClosure
@@ -84,3 +84,6 @@ Swain rejects :(
 Finished draft of BCR
 
 [[Tree Stump]]
+
+Some [[Case Against Education]]
+

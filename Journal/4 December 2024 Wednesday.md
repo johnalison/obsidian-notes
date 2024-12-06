@@ -69,7 +69,7 @@ M&T to school
 - Lipika Made the changes in P6 and estimated the impacts
 
 # MAC Meeting
-- [ ] Notes from slides
+ [>>] Notes from slides
 
 # Hoops
 - Great games good wins! 
@@ -82,7 +82,7 @@ M&T to school
 [[Osher Particle Physics Lecture 1 Transcript]]
 [[Osher Particle Physics Lecture 2 Transcript]]
 [[Osher Particle Physics Lecture 3 Transcript]]
-
+[>>] ([[Osher Fall Particle Physics Course]])
 
 # Last Osher Lecture
 - Went well... good feedback

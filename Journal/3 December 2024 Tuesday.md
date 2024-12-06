@@ -67,8 +67,8 @@ To campus
 
 # [[Run3 Synthetic Data]]
 - Running on Run3 synthetic data
-- [ ] Check cutflow
-- [ ] Plots comparing 3-tag 
+ [>>] Check cutflow
+ [>>] Plots comparing 3-tag 
 - Running on Run2 on **cmslpc350**
 
 # Met with Ornella: 
@@ -101,4 +101,4 @@ To get haircut... line too long ... checked out white whale book store...very co
 - MWF: 9-9:50
 - H: 10 - 10:50
 - Classes start: 13th
-- No class: 
+- Added to: caladar
