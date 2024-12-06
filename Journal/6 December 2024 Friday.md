@@ -67,3 +67,23 @@ Chat AE re:USCMS analysis contact interview
 [[Run3 Synthetic Data]]
 - [ ] Check cutflow
 - [ ] Plots comparing 3-tag 
+
+
+# Gym / Steamroom
+- core / pullups / back squat / press
+- 10' at Tmax = 124
+
+Start on [[Run-3 4b skims]]
+
+# STAMPS David Shih
+- Searching for the unexpected from colliders to stars
+- Q: What is the super low-lying fruit in particle physics ?
+- Info with data sizes: Luca Clissa (2022)
+- Normalizing flows
+- Trick in ML stack the units to add expressiness 
+
+
+
+“There is only one success – to be able to spend your life in your own way.”
+— Christopher Morley [>>] ([[Quoates]])
+

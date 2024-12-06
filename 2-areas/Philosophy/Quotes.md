@@ -6,6 +6,10 @@ If an opinion contrary to your own makes you angry, that is a sign that you are 
 -- Bertrand Russell 
 
 
+“There is only one success – to be able to spend your life in your own way.”
+— Christopher Morley
+
+
 # Follow-ups
 
 
