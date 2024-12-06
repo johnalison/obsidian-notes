@@ -79,11 +79,24 @@ Start on [[Run-3 4b skims]]
 - Searching for the unexpected from colliders to stars
 - Q: What is the super low-lying fruit in particle physics ?
 - Info with data sizes: Luca Clissa (2022)
-- Normalizing flows
+- Not so much about Normalizing flows
 - Trick in ML stack the units to add expressiness 
-
+- Not learning much
+- CATHODE and ANODE - only work on 1D bump hunt...?
+- LHC 2020 R&D datasets
+- Research 
 
 
 “There is only one success – to be able to spend your life in your own way.”
 — Christopher Morley [>>] ([[Quoates]])
 
+# Chat Ornella 
+
+# 4b Chat
+- AE:  will make friend trees
+- AE: updating the AN
+- AE: ZZ and ZH fits 
+- AE: mixed data instead of data for v4. 
+- JA: Add CL stuff
+- CL: More classifier FvT variations 
+- 
