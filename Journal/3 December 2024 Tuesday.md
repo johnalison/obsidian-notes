@@ -35,11 +35,11 @@
 ([[4b code base]]) [<< ] Code to make cutflow eff plots
  [>>] Work [[Run2 HH4b AN]]
  [>>] BCR
-- [ ]  [[Snakemake tutorial]] 
+([[ToDo]]) [<<]  [[Snakemake tutorial]] 
 - [x] Ping Sam re:kubernetes
  [>>] Re do FvT fits with new code
  [>>] Update [[Run3 Synthetic Data]]
-- [ ] Read [[Run2 X->HY->4b]]
+ [>>] Read [[Run2 X->HY->4b]]
  [>>] Mail re:iSURF
 
 ---

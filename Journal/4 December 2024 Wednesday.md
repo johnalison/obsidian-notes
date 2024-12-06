@@ -30,9 +30,9 @@
 ---
 # To Do
 
-- [ ] Date for Herwig
-- [ ] BCR
-- [ ] Mail re:iSURF
+- [x] Date for Herwig
+ [>>] BCR
+ [>>] Mail re:iSURF
 
 ---
 
@@ -77,7 +77,7 @@ M&T to school
 
 # Ornella Accepts ! 
 
-- [ ] Add justification for the BCR
+ [>>] Add justification for the BCR
 
 [[Osher Particle Physics Lecture 1 Transcript]]
 [[Osher Particle Physics Lecture 2 Transcript]]
@@ -92,6 +92,6 @@ M&T to school
 
 # Chat MP
 - [x] Ping Andre Swain
-- [ ] Ping Eric
+ [>>] Ping Eric
 - [x] Ping Michelle Waters
-- [ ] Ping Rachel 
+- [x] Ping Rachel 

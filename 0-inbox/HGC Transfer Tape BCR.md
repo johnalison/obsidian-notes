@@ -14,7 +14,7 @@ The per module consumables cost will:
 - increase by $8.75 (cost of the transfer tape) 
 - decrease by $0.7 (we now need will need less of the Araldite epoxy)
 
-The combined effect is an increase in the total cleanroom consumables cost of $24k at each site.  
+The combined effect is an increase in the total cleanroom consumables cost of $34k at each site.  
 
 The second change is for equipment needed to supply dry air and high-voltage for the multi-module test stand. This increases the cost of the setup needed per MAC by:
 - $15k for high-voltage power supplies
@@ -26,24 +26,15 @@ The second change is for equipment needed to supply dry air and high-voltage for
 
 ### Impact / Justification
 
-The baseline assumed epoxy-only construction. However because some layers can arrive too warped to laminate with epoxy alone, would like to move to a "hybrid" adhesive strategy, using a combination of epoxy and transfer tape. 
+Module construction was originally foreseen to only use epoxy for adhesive. Because the PCB can arrive too warped to laminate with epoxy alone, we would like to move to a "hybrid" adhesive strategy, using a combination of epoxy and transfer tape.  The hybrid adhesive strategy also reduces the latency of producing a module; with epoxy-only construction requires two overnight curing steps, with the hybrid scheme a module can be assembled in a single day. Reducing assembly latency by two days significantly mitigates the risk from problems during the first assembly stages. This change will thus lead to improved module quality, decreased time to produce a module, and reduced potential risk. 
 
-Quality, specs, production rates, all at risk
 
-about because of the change from epoxy only 
+Annual calibration of the OGP SmartScope microscopes is required to maintain their precision and reliability. It is critical that the QA/QC measurements remain accurate and consistent over time.
 
-- ADHESIVES FOR MODULE STACKUP
-- “Hybrid” adhesive method of lamination
-- Because layers are not always flat: – Transfer tape was recommended
+Equipment is needed to supply the dry air  and high-voltage power for the multi-module test stands.  These test stands are a critical part of the QA/QC at each site. The specification for the dry air is more stringent than what is currently used during assembly in for storage. The specs could potentially be met with a manual desiccant air dryer inline between the compressor air dryer and the teststand. These are inexpensive ($500), but would require frequent regeneration of the desiccant which would be tedious and costly in terms of person-time.  Regenerative air dryers ($4000) have fully automatic operation and require relatively little maintenance.
 
-13 modules / cartrige 
 
-. The specs for this dry air are more stringent than what  
-we're using for our dry air storage cabinets, so at least at UCSB our  
-current air dryer won't work for the MMTS.x
 
-MACs will be responsible for the equipment needed to supply the dry air  
-for the MMTS. T
 
 # Notes
 
@@ -58,12 +49,18 @@ https://www.perigeedirect.com/products/huntsman-araldite-2011-slow-setting-all-p
 * Transfer Tape: 251 * 24 m/d * 1 tape/module = 6024 * $8.75 = **$52710.0**
 - OR: 251 * 12m/d = 3012 * $8.75 = **$26355.0**
 
+
+
 Added OGP calibration
 
 - -5k  + 26k + 1500 * 1.5 
 45,344 + 2
-$48288 -> $72,288 
 
+Change:
+- Was **13920.0** - **6030.0** 
+- Should be (-7890 + 39532.5 + 3000)
+
+$48288 -> $72,288 
 $45344 -> 69344
 $48396 + 24
 

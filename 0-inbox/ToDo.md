@@ -13,6 +13,7 @@ These should be on Daily's page  !
 - [ ] Synthetic datasets for boosted
 - [ ] Apply for more bridges money
 - [ ] Workstudy Lab hand
+- [ ] [[Snakemake tutorial]] 
 # Not Important + Due Soon
 DON'T DO
 
