@@ -22,3 +22,7 @@ Some [[Case Against Education]]
 
 Bailed on [[Mindful learning]]
 
+# [[Run3 Synthetic Data]]
+- Streamlining RunII and Run3 selection code
+- Updating Run3 selection
+
