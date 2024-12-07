@@ -12,14 +12,14 @@
 | 1   | [[Run3 Synthetic Data]] |     |
 |     | STAMPS                  |     |
 | 2   | STAMPS / Ornella        |     |
-|     |                         |     |
-| 3   |                         |     |
+|     | Chat PITTPACC           |     |
+| 3   | Chat Sindhu             |     |
 |     | David Shih              |     |
-| 4   | Math AI Talk            |     |
-|     | Math AI Talk            |     |
+| 4   | David Shih              |     |
+|     | Got kids                |     |
 
-**W:**
-**DW:**
+**W:** 6 
+**DW:** 
 **OT:**
 **ex** or **No ex**
 
@@ -38,6 +38,7 @@
 - [ ] Work [[Run2 HH4b AN]]
 - [ ]  Mail re:iSURF
 - [ ]  Read [[Run2 X->HY->4b]]
+- [ ] Add CL slides to support note
 
 ---
 
@@ -99,4 +100,18 @@ Start on [[Run-3 4b skims]]
 - AE: mixed data instead of data for v4. 
 - JA: Add CL stuff
 - CL: More classifier FvT variations 
-- 
+
+
+- [ ] Watch Math Talk
+
+Home with M&T 
+
+Pick up H
+
+# Dinner at Eleven 
+- David Shih, Mikeal, Ann
+- Took Ann back to CMU... nice chat ...claims bio knows that the cloud lab scam
+
+Start [[The Problem of Political Authority]]
+
+
