@@ -1,3 +1,5 @@
+- [[Mindful learning]] (Ellen Langer)
+
 - [[Progressive Myths]] (Micheal Huemer)
 
 - [[OnGrandStrategy]] (John Lewis Gaddis)
@@ -16,7 +18,7 @@
 
 - [[Conspiracy]] (Ryan Holiday)
 
-- [[MindfullnessBook]] ( ) 
+- [[MindfullnessBook]] (Ellen Langer) 
 
 - [[BlackSwan]] (Nassim Taleb)
 

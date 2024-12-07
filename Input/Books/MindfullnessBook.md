@@ -1,3 +1,5 @@
+by Ellen Langer
+
 Not very good.  
 
 Bailed early

@@ -19,6 +19,6 @@ Working Jonas letter
 
 
 Finished [[Progressive Myths]]
-Start [[Mindful Learning]]
+Start [[Mindful learning]]
 
 
