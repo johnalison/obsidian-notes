@@ -26,3 +26,6 @@ Bailed on [[Mindful learning]]
 - Streamlining RunII and Run3 selection code
 - Updating Run3 selection
 
+# To Christmas signal along in East Liberty Church
+- Very gay
+
