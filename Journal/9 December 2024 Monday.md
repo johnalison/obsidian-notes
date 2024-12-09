@@ -9,14 +9,14 @@
 |     | Hoops      |     |
 | 12  | Hoops      |     |
 |     | Hoops      |     |
-| 1   |            |     |
-|     |            |     |
+| 1   | Run 2 AN   |     |
+|     | Run 2 AN   |     |
 | 2   | Get M      |     |
 |     | Get M      |     |
 | 3   | Dentist    |     |
-|     |            |     |
-| 4   |            |     |
-|     |            |     |
+|     | Run 2 AN   |     |
+| 4   | Sindhu     |     |
+|     | Run 2 AN   |     |
 
 **W:**
 **DW:**
@@ -38,7 +38,7 @@
 - [x] review MAC meeting
 - [ ] Update [[Run3 Synthetic Data]]
 - [ ] Work [[Run2 HH4b AN]]
-- [ ] Add CL slides to support note
+- [x] Add CL slides to support note
 ---
 
 # Log
@@ -57,7 +57,12 @@ Work by 9
 - 4s and 5s
 - 10' at Tmax = 124
 
+More [[Run2 HH4b AN]]
 
+# Marlo to Dentist
+
+
+# Chat Sinhu
 
 
 ----
