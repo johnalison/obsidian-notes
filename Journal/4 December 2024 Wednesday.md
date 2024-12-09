@@ -68,8 +68,9 @@ M&T to school
 	- She will send the request
 - Lipika Made the changes in P6 and estimated the impacts
 
-# MAC Meeting
+# [[MAC meeting 4 December 2024]]
  [>>] Notes from slides
+ 
 
 # Hoops
 - Great games good wins! 

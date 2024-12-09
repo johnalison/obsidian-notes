@@ -5,9 +5,9 @@
 | 3  T | (Ornella visit) Wes slides / Ornella visit / Eye Doctor / Silver Bulletin   | 4/2/- |
 | 4  W | (Osher ends / MAC Meeting) Plan w/Sindhu / Lipika / **Hoops/SR** / Ornella! | 6/4/1 |
 | 5  H | (Josh visit) BCR / Swain rejects / Chat Sindhu / MPL talks / Josh Kipiller  | 8/2/1 |
-| 6  F | (Math AI Talk)                                                              |       |
-| 7  S |                                                                             |       |
-| 8  S |                                                                             |       |
+| 6  F | (David Shih) M collage / **Gym/SR** / STAMPS / 4b plans / Dinner at 11      | 6/1/1 |
+| 7  S | solo dad / Giant Eagle / Reading / **Christmas Carroll Concert**            |       |
+| 8  S | Reading / [[Cluster Run 3 data]] / H to Hoops                               |       |
 | 9  M |                                                                             |       |
 | 10 T | (Wes Annual Review)                                                         |       |
 | 11 W | (Sindhu Annual Review)                                                      |       |

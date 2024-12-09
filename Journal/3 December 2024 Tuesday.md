@@ -37,7 +37,7 @@
  [>>] BCR
 ([[ToDo]]) [<<]  [[Snakemake tutorial]] 
 - [x] Ping Sam re:kubernetes
- [>>] Re do FvT fits with new code
+ [>>] Redo FvT fits with new code
  [>>] Update [[Run3 Synthetic Data]]
  [>>] Read [[Run2 X->HY->4b]]
  [>>] Mail re:iSURF
@@ -84,8 +84,8 @@ Subscribed to "The silver bulletin"
 To get haircut... line too long ... checked out white whale book store...very cool!
 
 # Eye Doctor
-- Was wearing two rights ! 
-- Got new prescription ...  ordered new lens. if OK will get second pair.  
+- Was wearing two right lenes ! 
+- Got new prescription ...  ordered new lenes. if OK will get second pair.  
 - Take contacts out when get home
 
 # Mans Meeting

@@ -8,7 +8,7 @@ Up at 8:30
 Some [[Case Against Education]]
 
 
-Remaking synthetric datasets:
+Remaking synthetic datasets:
 
 # [[Cluster Run 3 data]]
 - Running on **cmslpc319**
@@ -20,3 +20,7 @@ Remaking synthetric datasets:
 - Made splitting pdfs [[Jet DeClustering]]
 	- `python  jet_clustering/make_jet_splitting_PDFs.py hists/synthetic_datasets_cluster_Run3.coffea --years Run3   --out jet_clustering/jet-splitting-PDFs-00-08-02`
 - Making synthetic dataset with new pdfs 
+
+# H to Hoops
+- Some more [[The Problem of Political Authority]]
+

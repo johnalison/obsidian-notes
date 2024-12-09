@@ -19,9 +19,9 @@
 |     | Got kids                |     |
 
 **W:** 6 
-**DW:** 
-**OT:**
-**ex** or **No ex**
+**DW:** 1 
+**OT:** 1
+**No ex**
 
 ---
 # The ONE thing: 
@@ -31,14 +31,14 @@
 # To Do
 
 - [x] Chat AE re:discussion
-- [ ] What to do about the machine shop ? 
-- [ ] Call Eye Doctor
-- [ ] review MAC meeting
-- [ ] Update [[Run3 Synthetic Data]]
-- [ ] Work [[Run2 HH4b AN]]
-- [ ]  Mail re:iSURF
+ [>>] What to do about the machinist  ? 
+ [>>] Call Eye Doctor
+ [>>] review MAC meeting
+ [>>] Update [[Run3 Synthetic Data]]
+ [ >>] Work [[Run2 HH4b AN]]
+ [>>]  Mail re:iSURF
 - [ ]  Read [[Run2 X->HY->4b]]
-- [ ] Add CL slides to support note
+ [>>] Add CL slides to support note
 
 ---
 
@@ -66,8 +66,8 @@ Finished the progress report.
 Chat AE re:USCMS analysis contact interview
 
 [[Run3 Synthetic Data]]
-- [ ] Check cutflow
-- [ ] Plots comparing 3-tag 
+- [>>] Check cutflow
+- [>>] Plots comparing 3-tag 
 
 
 # Gym / Steamroom
@@ -102,7 +102,8 @@ Start on [[Run-3 4b skims]]
 - CL: More classifier FvT variations 
 
 
-- [ ] Watch Math Talk
+- [x] Watch Math Talk
+	- <font color="red"> On Saturday </font>
 
 Home with M&T 
 
