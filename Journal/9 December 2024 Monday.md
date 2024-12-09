@@ -50,6 +50,13 @@ Rain ride w/SHM
 Work by 9
 
 # Working [[Run2 HH4b AN]]
+- Chat AE: he will push today
+- Working Appendix with CL results
+
+# Hoops / Steamroom 
+- 4s and 5s
+- 10' at Tmax = 124
+
 
 
 
