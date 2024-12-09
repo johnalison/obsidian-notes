@@ -68,6 +68,11 @@ More [[Run2 HH4b AN]]
 - Chat on mHH binning
 - Will send slides for annual review tonight...
 
+Pushing changed to [[Run2 HH4b AN]]
 
-# Pushed 
+# [[Run3 Synthetic Data]]
+- Looks like the synthetic datasets finished OK.
+- Processing them now...
+	`python runner.py -o synthetic_data_Run3_seedXXX.coffea -d synthetic_data data -p analysis/processors/processor_HH4b.py -y 2022_preEE 2022_EE 2023_preBPix 2023_BPix -op hists -c analysis/metadata/HH4b_run_fastTopReco.yml -m metadata/datasets_HH4b_Run3_fourTag.yml`
+	
 

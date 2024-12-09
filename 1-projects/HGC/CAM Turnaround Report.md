@@ -9,9 +9,12 @@ https://docs.google.com/spreadsheets/d/1uuUD5JkIhXx8zDhtWwWRrfelDgBqR3iYWHE5NqkY
 September
 https://docs.google.com/spreadsheets/d/1z-ugaRIo4SszJzNrT5N7ddWe7vlk615xH2ospkZQoS4/edit?gid=983055628#gid=983055628
 
+October: 
+https://docs.google.com/spreadsheets/d/1_n3haNSgdGix-USM7QhdwhWFtRAPt12EgQ8hgiNsBP4/edit?gid=843171142#gid=843171142
 
-November:
-[https://docs.google.com/spreadsheets/d/1wmcJ2myS0LIQdlsP8n9IuCanh3bSH0BrJ9gDTFIXmoU/edit](https://docs.google.com/spreadsheets/d/1wmcJ2myS0LIQdlsP8n9IuCanh3bSH0BrJ9gDTFIXmoU/edit)
+November:[https://docs.google.com/spreadsheets/d/1wmcJ2myS0LIQdlsP8n9IuCanh3bSH0BrJ9gDTFIXmoU/edit](https://docs.google.com/spreadsheets/d/1wmcJ2myS0LIQdlsP8n9IuCanh3bSH0BrJ9gDTFIXmoU/edit)
+
+
 
 ## Follow-ups
 

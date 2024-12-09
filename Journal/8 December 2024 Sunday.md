@@ -19,7 +19,7 @@ Remaking synthetic datasets:
 - Ran in **10651.310122966766** s = 177m
 - Made splitting pdfs [[Jet DeClustering]]
 	- `python  jet_clustering/make_jet_splitting_PDFs.py hists/synthetic_datasets_cluster_Run3.coffea --years Run3   --out jet_clustering/jet-splitting-PDFs-00-08-02`
-- Making synthetic dataset with new pdfs 
+- Making synthetic dataset with new pdfs ...  **91m56.841s**
 
 # H to Hoops
 - Some more [[The Problem of Political Authority]]
