@@ -18,10 +18,10 @@
 | 4   | Sindhu     |     |
 |     | Run 2 AN   |     |
 
-**W:**
-**DW:**
-**OT:**
-**ex** or **No ex**
+**W:** 5 
+**DW:** 3 
+**OT:** 3 
+**ex** 
 
 ---
 # The ONE thing: 
@@ -52,6 +52,8 @@ Work by 9
 # Working [[Run2 HH4b AN]]
 - Chat AE: he will push today
 - Working Appendix with CL results
+- Finished the comments
+- [ ] Send
 
 # Hoops / Steamroom 
 - 4s and 5s
@@ -63,10 +65,9 @@ More [[Run2 HH4b AN]]
 
 
 # Chat Sinhu
+- Chat on mHH binning
+- Will send slides for annual review tonight...
 
 
-----
+# Pushed 
 
-[[Run3 Synthetic Data]]
-- [ ] Check cutflow
-- [ ] Plots comparing 3-tag 
