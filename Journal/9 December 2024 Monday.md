@@ -74,5 +74,8 @@ Pushing changed to [[Run2 HH4b AN]]
 - Looks like the synthetic datasets finished OK.
 - Processing them now...
 	`python runner.py -o synthetic_data_Run3_seedXXX.coffea -d synthetic_data data -p analysis/processors/processor_HH4b.py -y 2022_preEE 2022_EE 2023_preBPix 2023_BPix -op hists -c analysis/metadata/HH4b_run_fastTopReco.yml -m metadata/datasets_HH4b_Run3_fourTag.yml`
-	
+- [ ] Fix CI
+- Moved the pt cut of the fail_b_pt cut to 30 GeV 
+- [ ] Try Run-2 synthetic data with lower pt Cut
+- Rerunning Run3 synthetic data with lower pt threshold
 
