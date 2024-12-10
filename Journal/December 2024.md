@@ -8,7 +8,7 @@
 | 6  F | (David Shih) M collage / **Gym/SR** / STAMPS / 4b plans / Dinner at 11      | 6/1/1 |
 | 7  S | solo dad / Giant Eagle / Reading / **Christmas Carroll Concert**            |       |
 | 8  S | Reading / [[Cluster Run 3 data]] / H to Hoops                               |       |
-| 9  M |                                                                             |       |
+| 9  M | Run2 AN / **Hoops/SR**  / Marlo to Dentist / More [[Run3 Synthetic Data]]   | 5/3/3 |
 | 10 T | (Wes Annual Review)                                                         |       |
 | 11 W | (Sindhu Annual Review)                                                      |       |
 | 12 H |                                                                             |       |

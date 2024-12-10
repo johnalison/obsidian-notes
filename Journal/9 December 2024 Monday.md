@@ -36,8 +36,8 @@
 - [x] Reply Eric
 - [ ] What to do about the machinist  ? 
 - [x] review MAC meeting
-- [ ] Update [[Run3 Synthetic Data]]
-- [ ] Work [[Run2 HH4b AN]]
+ [>>] Update [[Run3 Synthetic Data]]
+- [x] Work [[Run2 HH4b AN]]
 - [x] Add CL slides to support note
 ---
 
@@ -53,7 +53,8 @@ Work by 9
 - Chat AE: he will push today
 - Working Appendix with CL results
 - Finished the comments
-- [ ] Send
+- [XX] Send
+- AE found problem with the fits... will wait to send
 
 # Hoops / Steamroom 
 - 4s and 5s
@@ -77,5 +78,7 @@ Pushing changed to [[Run2 HH4b AN]]
 - [ ] Fix CI
 - Moved the pt cut of the fail_b_pt cut to 30 GeV 
 - [ ] Try Run-2 synthetic data with lower pt Cut
-- Rerunning Run3 synthetic data with lower pt threshold
+- Rerunning Run3 synthetic data with lower pt threshold on **cmslpc320**... finished **8492.214286327362** = 141 min
+
+Some [[The Problem of Political Authority]]
 

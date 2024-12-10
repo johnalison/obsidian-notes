@@ -37,7 +37,7 @@
  [>>] Update [[Run3 Synthetic Data]]
  [ >>] Work [[Run2 HH4b AN]]
  [>>]  Mail re:iSURF
-- [ ]  Read [[Run2 X->HY->4b]]
+ [>>]  Read [[Run2 X->HY->4b]]
  [>>] Add CL slides to support note
 
 ---
@@ -81,9 +81,9 @@ Start on [[Run-3 4b skims]]
 - Q: What is the super low-lying fruit in particle physics ?
 - Info with data sizes: Luca Clissa (2022)
 - Not so much about Normalizing flows
-- Trick in ML stack the units to add expressiness 
-- Not learning much
-- CATHODE and ANODE - only work on 1D bump hunt...?
+- Trick in ML stack the units to add expressivness 
+- Not learning much...
+- CATHODE and ANODE - only work on 1D bump hunt...? ... yes
 - LHC 2020 R&D datasets
 - Research 
 

@@ -40,6 +40,16 @@ Log about work to cluster Run-3 data.
 - Trying on condor on cmslpc325:... ran in 76 min:  **349** events/s total (1593337/4561.965741157532)
 	`python runner.py  -o synthetic_datasets_cluster_Run3.coffea -d data  -p analysis/processors/processor_cluster_4b.py -y 2022_preEE 2022_EE 2023_preBPix 2023_BPix   -op hists/ -m metadata/datasets_HH4b_Run3_fourTag.yml -c analysis/metadata/cluster_4b_noTTSubtraction.yml --condor `
 
+[[8 December 2024 Sunday]]
+- Running on **cmslpc319**
+- testing with
+	`python runner.py -t -o test_synthetic_datasets_cluster_Run3.coffea -d data -p analysis/processors/processor_cluster_4b.py -y 2022_preEE 2022_EE 2023_preBPix 2023_BPix -op hists/ -m metadata/datasets_HH4b_Run3_fourTag.yml -c analysis/metadata/cluster_4b_noTTSubtraction.yml`
+- running on condor with 
+	`python runner.py  -o synthetic_datasets_cluster_Run3.coffea -d data -p analysis/processors/processor_cluster_4b.py -y 2022_preEE 2022_EE 2023_preBPix 2023_BPix -op hists/ -m metadata/datasets_HH4b_Run3_fourTag.yml -c analysis/metadata/cluster_4b_noTTSubtraction.yml --condor`
+- Ran in **10651.310122966766** s = 177m
+- Made splitting pdfs [[Jet DeClustering]]
+	- `python  jet_clustering/make_jet_splitting_PDFs.py hists/synthetic_datasets_cluster_Run3.coffea --years Run3   --out jet_clustering/jet-splitting-PDFs-00-08-02`
+- Making synthetic dataset with new pdfs ...  **91m56.841s**
 # Follow-ups
 
 
