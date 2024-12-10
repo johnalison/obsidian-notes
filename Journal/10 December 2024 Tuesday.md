@@ -51,3 +51,13 @@ Up at 7
 # Wes Annual Review
 - No Matt
 - Recording Wes' talk
+
+
+# Hairs Cut
+
+To campus
+
+# Stats Chat
+- Reviewed the Ada write up
+
+[[CMU HGC Mac Meeting 10 December 2024]]

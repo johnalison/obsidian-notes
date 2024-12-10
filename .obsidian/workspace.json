@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/10 December 2024 Tuesday.md",
+                "file": "1-projects/HGC/HGC MAC BoEs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10 December 2024 Tuesday"
+              "title": "HGC MAC BoEs"
             }
           },
           {
@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "turnarou",
+                "query": "boe",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -130,8 +130,7 @@
               "title": "Files"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -151,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/10 December 2024 Tuesday.md",
+                "file": "1-projects/HGC/HGC MAC BoEs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +160,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 10 December 2024 Tuesday"
+              "title": "Backlinks for HGC MAC BoEs"
             }
           },
           {
@@ -170,12 +169,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/10 December 2024 Tuesday.md",
+                "file": "1-projects/HGC/HGC MAC BoEs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 10 December 2024 Tuesday"
+              "title": "Outgoing links from HGC MAC BoEs"
             }
           },
           {
@@ -197,10 +196,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/10 December 2024 Tuesday.md"
+                "file": "1-projects/HGC/HGC MAC BoEs.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 10 December 2024 Tuesday"
+              "title": "Outline of HGC MAC BoEs"
             }
           },
           {
@@ -234,9 +233,13 @@
   },
   "active": "bc2a82abd9422c9a",
   "lastOpenFiles": [
+    "Input/Meetings/November/HGCManagementMeeting 26 November 2024.md",
+    "0-inbox/CMU HGC Mac Meeting 10 December 2024.md",
+    "Input/Meetings/CMU HGC Mac Meeting 3 December 2024.md",
+    "Journal/3 December 2024 Tuesday.md",
+    "Journal/10 December 2024 Tuesday.md",
     "Journal/9 December 2024 Monday.md",
     "Journal/Future Log.md",
-    "Journal/10 December 2024 Tuesday.md",
     "Journal/December 2024.md",
     "1-projects/HH4b/Run2 HH4b AN.md",
     "Journal/8 December 2024 Sunday.md",
@@ -245,21 +248,17 @@
     "Journal/6 December 2024 Friday.md",
     "Journal/5 December 2024 Thursday.md",
     "Journal/4 December 2024 Wednesday.md",
-    "Journal/3 December 2024 Tuesday.md",
     "Input/Meetings/November/HGC MAC P2UG Silicon Modules 5 Nov 2024.md",
     "1-projects/HGC/CAM Turnaround Report.md",
     "Input/Meetings/October/HGCManagementMeeting 1 October 2024.md",
     "Input/Meetings/October/HGCManagementMeeting 29 October 2024.md",
     "Input/Meetings/November/HGCManagementMeeting 19 November 2024.md",
-    "Input/Meetings/November/HGCManagementMeeting 26 November 2024.md",
     "Journal/August/15 August 2024 Thursday.md",
     "0-inbox/MAC meeting 4 December 2024.md",
     "1-projects/Mixed2.0/Run3 Synthetic Data.md",
     "Journal/2 December 2024 Monday.md",
     "1-projects/Mixed2.0/Jet DeClustering.md",
     "2-areas/Personal/CryptoMoves.md",
-    "Input/Books/Books.md",
-    "Input/Books/Mindful learning.md",
     "Journal/#Future Log.md#",
     "Journal/#December 2024.md#",
     "Input/Meetings/November",
