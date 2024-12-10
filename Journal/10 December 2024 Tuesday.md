@@ -46,7 +46,8 @@ Up at 7
  - [ ] Fix CI
  - [ ] Try Run-2 synthetic data with lower pt Cut
  - Normalization in 22 looks OK (pt spectrum still cut in synthetic data)
- - Normalizaiton in 23 off (missing trigger ?)
+ - Normalizaiton in 23 off (missing trigger ?)... Not the trigger.
+ - Found problem with input files... rerunning
 
 # Wes Annual Review
 - No Matt
@@ -61,3 +62,9 @@ To campus
 - Reviewed the Ada write up
 
 [[CMU HGC Mac Meeting 10 December 2024]]
+
+Home. 
+
+M & T down 
+
+Debugging [[Run3 Synthetic Data]]... see above
