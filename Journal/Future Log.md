@@ -41,7 +41,7 @@
 
 # March 
 - [ ] 3rd Spring Break 
-- [ ] 3rd Herwig semiar
+- [ ] 10th Herwig semiar
 
 
 
