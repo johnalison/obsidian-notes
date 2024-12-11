@@ -5,12 +5,12 @@
 |     | [[Run3 Synthetic Data]] |     |
 | 10  | [[Run3 Synthetic Data]] |     |
 |     | [[Run3 Synthetic Data]] |     |
-| 11  |                         |     |
-|     |                         |     |
-| 12  | Hoops                   |     |
-|     | Hoops                   |     |
-| 1   |                         |     |
-|     |                         |     |
+| 11  | Home                    |     |
+|     | [[Run3 Synthetic Data]] |     |
+| 12  | [[Run3 Synthetic Data]] |     |
+|     | [[Run3 Synthetic Data]] |     |
+| 1   | Gaussian Kernal         |     |
+|     | Gaussian Kernal         |     |
 | 2   | Sindhu Annual Review    |     |
 |     | Sindhu Annual Review    |     |
 | 3   |                         |     |
@@ -48,7 +48,7 @@ HGC Press on X
 https://x.com/CmuScience/status/1866633999906373940
 
 # [[Run3 Synthetic Data]]
-- [ ] Fix CI
+- [x] Fix CI
 - [ ] Try Run-2 synthetic data with lower pt Cut
 - Debugging CI
 - Multijet cutflow OK .... but the histograms are off !?!
@@ -56,4 +56,8 @@ https://x.com/CmuScience/status/1866633999906373940
 - If tagCode is buggy, the plots can be wrong, but the cutflow OK
 
 [[4b code base]]
-- [ ] Dont draw ration points when no data
+- [x] Dont draw ration points when no data
+
+Home w/T 
+
+Fix ratio points with no data.
