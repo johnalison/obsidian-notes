@@ -34,7 +34,7 @@
 - [x] Check CVs for machinist
 - [x] Weights that apply Gaussian Kernel
 - [ ] Modules Monthly report
-- [ ] Sell $20k pHex
+- [x] Sell $20k pHex
 
 ---
 
@@ -86,3 +86,7 @@ Fix ratio points with no data.
 - Once 96 transactions... clicked claim on the pulseChain Bridge site
 - Had to sign in ledger
 - Sent to coinbase: https://etherscan.io/tx/0x35d6c83b0d4f3f7098e0e439df3ce00bd894483c75d20ce64e4d52e3a79d1545
+
+Market orders:
+- 10,061.92 USDC to BTC at 100,000 USDC/BTC
+- 10,061.92 USDC to ETH at 3,644.66 USDC/ETH
