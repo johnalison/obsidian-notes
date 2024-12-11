@@ -2,7 +2,7 @@
 # To Do
 Feedback from Marina:
 - [ ] add the TrigObj collection
-- [ ] Move pt cut to 35
+- [x] Move pt cut to 35
 - [ ] Jets with 3 medium b-jets
 
 **v1**
@@ -78,6 +78,20 @@ Feedback from Marina:
 - Ideas for improvements... Do TTSubtraction add ttbar ps data
 - Try to improve selected jet multiplicity
  [>>] Compare mixed to synthetic to threeTag
+
+
+[[7 December 2024 Saturday]]
+- Streamlining RunII and Run3 selection code
+- Updating Run3 selection
+
+[[9 December 2024 Monday]]
+- Looks like the synthetic datasets finished OK.
+- Processing them now...
+	`python runner.py -o synthetic_data_Run3_seedXXX.coffea -d synthetic_data data -p analysis/processors/processor_HH4b.py -y 2022_preEE 2022_EE 2023_preBPix 2023_BPix -op hists -c analysis/metadata/HH4b_run_fastTopReco.yml -m metadata/datasets_HH4b_Run3_fourTag.yml`
+ [>>] Fix CI
+- Moved the pt cut of the fail_b_pt cut to 30 GeV 
+ [>>] Try Run-2 synthetic data with lower pt Cut
+- Rerunning Run3 synthetic data with lower pt threshold on **cmslpc320**... finished **8492.214286327362** = 141 min
 
 # Follow-ups
 

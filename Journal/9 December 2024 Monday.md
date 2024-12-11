@@ -34,7 +34,7 @@
 - [x] Call eye doctor
 - [x] Ping Kristine on hires
 - [x] Reply Eric
-- [ ] What to do about the machinist  ? 
+ [>>] What to do about the machinist  ? 
 - [x] review MAC meeting
  [>>] Update [[Run3 Synthetic Data]]
 - [x] Work [[Run2 HH4b AN]]
@@ -50,11 +50,7 @@ Rain ride w/SHM
 Work by 9
 
 # Working [[Run2 HH4b AN]]
-- Chat AE: he will push today
-- Working Appendix with CL results
-- Finished the comments
-- [XX] Send
-- AE found problem with the fits... will wait to send
+- see daily's above
 
 # Hoops / Steamroom 
 - 4s and 5s
@@ -72,13 +68,7 @@ More [[Run2 HH4b AN]]
 Pushing changed to [[Run2 HH4b AN]]
 
 # [[Run3 Synthetic Data]]
-- Looks like the synthetic datasets finished OK.
-- Processing them now...
-	`python runner.py -o synthetic_data_Run3_seedXXX.coffea -d synthetic_data data -p analysis/processors/processor_HH4b.py -y 2022_preEE 2022_EE 2023_preBPix 2023_BPix -op hists -c analysis/metadata/HH4b_run_fastTopReco.yml -m metadata/datasets_HH4b_Run3_fourTag.yml`
-- [ ] Fix CI
-- Moved the pt cut of the fail_b_pt cut to 30 GeV 
-- [ ] Try Run-2 synthetic data with lower pt Cut
-- Rerunning Run3 synthetic data with lower pt threshold on **cmslpc320**... finished **8492.214286327362** = 141 min
+- See Daily's above
 
 Some [[The Problem of Political Authority]]
 

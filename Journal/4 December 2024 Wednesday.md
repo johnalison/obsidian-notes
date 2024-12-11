@@ -65,7 +65,7 @@ M&T to school
 # Lipika
 - [[HGC Transfer Tape BCR]]
 - [x] How to get into P6 ?
-	- She will send the request
+	- She will send the request...<font color=red> Done Wednesday Dec 11 </font>
 - Lipika Made the changes in P6 and estimated the impacts
 
 # [[MAC meeting 4 December 2024]]

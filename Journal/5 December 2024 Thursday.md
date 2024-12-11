@@ -37,8 +37,8 @@
 - [x] Ping Eric
 - [x] feed back on christians' statement
 [>>]  [[DOE progress report 2024]]
- [>>]  Read [[Run2 X->HY->4b]]
- [>>]  Mail re:iSURF
+[>>]  Read [[Run2 X->HY->4b]]
+[>>]  Mail re:iSURF
 
 ---
 

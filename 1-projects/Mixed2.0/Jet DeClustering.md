@@ -9,6 +9,7 @@ Getting the new mixing going
 
 # To Do
 - [ ] Quantify variation among synthetic datasets
+- [ ] Try Run-2 synthetic data with lower pt Cut
 - [ ] Compare mixed to synthetic to threeTag
 - [ ] Run-3
 	- [x] Clustering Test job Running 

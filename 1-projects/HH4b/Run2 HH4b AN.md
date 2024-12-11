@@ -118,6 +118,13 @@ Looking into ggHbb
 [[23 November 2024 Saturday]]
 - Updated runTwoStageClosure to use new colors
 
+
+[[9 December 2024 Monday]]
+- Chat AE: he will push today
+- Working Appendix with CL results
+- Finished the comments
+- [XX] Send
+- AE found problem with the fits... will wait to send
 # Follow-ups
 
 

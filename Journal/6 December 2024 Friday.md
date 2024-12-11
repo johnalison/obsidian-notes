@@ -76,20 +76,11 @@ Chat AE re:USCMS analysis contact interview
 
 Start on [[Run-3 4b skims]]
 
-# STAMPS David Shih
-- Searching for the unexpected from colliders to stars
-- Q: What is the super low-lying fruit in particle physics ?
-- Info with data sizes: Luca Clissa (2022)
-- Not so much about Normalizing flows
-- Trick in ML stack the units to add expressivness 
-- Not learning much...
-- CATHODE and ANODE - only work on 1D bump hunt...? ... yes
-- LHC 2020 R&D datasets
-- Research 
+# [[Searching for the unexpected from colliders to stars]]
 
 
 “There is only one success – to be able to spend your life in your own way.”
-— Christopher Morley [>>] ([[Quoates]])
+— Christopher Morley [>>] ([[Quotes]])
 
 # Chat Ornella 
 
