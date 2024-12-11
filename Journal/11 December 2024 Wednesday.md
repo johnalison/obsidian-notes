@@ -34,6 +34,7 @@
 - [ ] Check CVs for machinist
 - [ ] Weights that apply Gaussian Kernel
 - [ ] Modules Monthly report
+- [ ] Sell $20k pHex
 
 ---
 
