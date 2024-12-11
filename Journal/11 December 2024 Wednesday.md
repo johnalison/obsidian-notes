@@ -83,3 +83,6 @@ Fix ratio points with no data.
 - submitted... and signed....wait 30 mins
 - Can see in https://bridge.mypinata.cloud/ipfs/bafybeiahfpwhfdjf6iw4mwv5ytj7b6x4nmlxhwyae5ymfjdvszm6q5t3bm/#/transactions
 - Send 21,000.0 USDC from PulseChain and receive 20,937.0 USDC on Ethereum
+- Once 96 transactions... clicked claim on the pulseChain Bridge site
+- Had to sign in ledger
+- Sent to coinbase: https://etherscan.io/tx/0x35d6c83b0d4f3f7098e0e439df3ce00bd894483c75d20ce64e4d52e3a79d1545
