@@ -1,22 +1,22 @@
 
-|     |                   |     |
-| --- | ----------------- | --- |
-| 9   | Wes Annual Review |     |
-|     | Wes Annual Review |     |
-| 10  | Hair Cut          |     |
-|     | to campus         |     |
-| 11  | Stats chat        |     |
-|     | Stats Cat         |     |
-| 12  | Mac               |     |
-|     | Mac               |     |
-| 1   | home              |     |
-|     |                   |     |
-| 2   |                   |     |
-|     |                   |     |
-| 3   |                   |     |
-|     |                   |     |
-| 4   |                   |     |
-|     |                   |     |
+|     |                         |     |
+| --- | ----------------------- | --- |
+| 9   | Wes Annual Review       |     |
+|     | Wes Annual Review       |     |
+| 10  | Hair Cut                |     |
+|     | to campus               |     |
+| 11  | Stats chat              |     |
+|     | Stats Cat               |     |
+| 12  | Mac                     |     |
+|     | Mac                     |     |
+| 1   | home                    |     |
+|     | w/kids                  |     |
+| 2   | w/kids                  |     |
+|     | w/kids                  |     |
+| 3   | [[Run3 Synthetic Data]] |     |
+|     | [[Run3 Synthetic Data]] |     |
+| 4   | [[Run3 Synthetic Data]] |     |
+|     |                         |     |
 
 **W:**
 **DW:**
@@ -48,6 +48,7 @@ Up at 7
  - Normalization in 22 looks OK (pt spectrum still cut in synthetic data)
  - Normalizaiton in 23 off (missing trigger ?)... Not the trigger.
  - Found problem with input files... rerunning
+ - Looks pretty good.... sending to Marina
 
 # Wes Annual Review
 - No Matt
@@ -68,3 +69,7 @@ Home.
 M & T down 
 
 Debugging [[Run3 Synthetic Data]]... see above
+
+Reading... [[Case Against Education]]
+
+Reading... [[The Problem of Political Authority]]
