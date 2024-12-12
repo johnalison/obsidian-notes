@@ -4,7 +4,7 @@
 | 9   | FBC2             |        |
 |     | FBC2             |        |
 | 10  | AE / 2d plotting |        |
-|     |                  |        |
+|     | plotting         |        |
 | 11  | Sindhu           |        |
 |     | Sindhu           |        |
 | 12  | ~~bbWW~~         | Sindhu |
@@ -40,6 +40,7 @@
 - [ ] Summary of Sindhu Annual Review
 - [ ] Modules Monthly report
 - [ ] Do Title IX training !
+- [ ] Coinbase account for Lynn
 
 ---
 
@@ -65,3 +66,9 @@ Skipped bbWW
 # Faculty Meeting
 - In person meeting Jan 6th
 
+# Gym / Steamroom
+- core / farmers carries / cling / step-ups
+- 80% 
+- 10' at Tmax = 124
+
+BTC order filled ! 
