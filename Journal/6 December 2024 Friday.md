@@ -35,7 +35,7 @@
  [>>] Call Eye Doctor
  [>>] review MAC meeting
  [>>] Update [[Run3 Synthetic Data]]
- [ >>] Work [[Run2 HH4b AN]]
+ [>>] Work [[Run2 HH4b AN]]
  [>>]  Mail re:iSURF
  [>>]  Read [[Run2 X->HY->4b]]
  [>>] Add CL slides to support note
@@ -59,7 +59,7 @@ Eric Rejects !
 
 Did pre-production photos
 
-Make the Marlo-Fucking Alison collage
+Made the Marlo-Fucking Alison collage
 
 Finished the progress report. 
 

@@ -11,7 +11,7 @@ With Kids.. S to starbucks to work
 
 Some [[The Problem of Political Authority]]
 
-To Giant Ealge
+To Giant Eagle
 
 Some [[Case Against Education]]
 

@@ -73,10 +73,10 @@ Swain rejects :(
 # MPL
 - [[Electron Spin Resonance]]
 - How could you get more absorption ?
-- s7-8 can you explain the cartoons? 
+- s7-8 can you explain the cartoons ? 
 - s11 how would you look at the g-factor as a tensor ?
 - s28 number? how to interpret them ?
-- s29 looks like bad fit on the left
+- s29 looks like bad fit on the left.
 
 # Josh Interview
 - [x] Send offer letter
