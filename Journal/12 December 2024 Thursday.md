@@ -31,8 +31,8 @@
 # To Do
 
 - [ ] Reskim Run3
-- [ ] 
-- [ ] 
+- [ ] Debug variable binning function
+- [ ] fix 2d plots
 - [ ] 
 
 ---
@@ -43,3 +43,7 @@ Up at 7
 
 M & T to school (M had to walk in snow! complained, but pushed through)
 
+# FBC2
+- Synthetic data still factor of 2 too low!
+- [ ] Reskim and try again
+- ]
