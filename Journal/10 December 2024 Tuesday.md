@@ -30,8 +30,8 @@
 ---
 # To Do
 
-- [ ] Read [[Run2 X->HY->4b]]
-- [ ] Update [[Run3 Synthetic Data]]
+ [>>] Read [[Run2 X->HY->4b]]
+ [>>] Update [[Run3 Synthetic Data]]
 
 ---
 
@@ -40,13 +40,7 @@
 Up at 7
 
 # [[Run3 Synthetic Data]]
-- Running on new synthetic data
- [>>] Fix CI
- ([[Jet DeClustering]]) [<<] Try Run-2 synthetic data with lower pt Cut
- - Normalization in 22 looks OK (pt spectrum still cut in synthetic data)
- - Normalizaiton in 23 off (missing trigger ?)... Not the trigger.
- - Found problem with input files... rerunning
- - Looks pretty good.... sending to Marina
+- See daily's above
 
 # Wes Annual Review
 - No Matt

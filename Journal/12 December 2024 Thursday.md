@@ -1,22 +1,22 @@
 
-|     |         |     |
-| --- | ------- | --- |
-| 9   | FBC2    |     |
-|     | FBC2    |     |
-| 10  |         |     |
-|     |         |     |
-| 11  | Sindhu  |     |
-|     | Sindhu  |     |
-| 12  | bbWW    |     |
-|     | faculty |     |
-| 1   | faculty |     |
-|     | faculty |     |
-| 2   | Gym     |     |
-|     | Gym     |     |
-| 3   | Gym     |     |
-|     |         |     |
-| 4   |         |     |
-|     |         |     |
+|     |                  |     |
+| --- | ---------------- | --- |
+| 9   | FBC2             |     |
+|     | FBC2             |     |
+| 10  | AE / 2d plotting |     |
+|     |                  |     |
+| 11  | Sindhu           |     |
+|     | Sindhu           |     |
+| 12  | bbWW             |     |
+|     | faculty          |     |
+| 1   | faculty          |     |
+|     | faculty          |     |
+| 2   | Gym              |     |
+|     | Gym              |     |
+| 3   | Gym              |     |
+|     |                  |     |
+| 4   |                  |     |
+|     |                  |     |
 
 **W:**
 **DW:**
@@ -25,15 +25,20 @@
 
 ---
 # The ONE thing: 
-- [ ] 
+- [ ] reskim
 
 ---
 # To Do
 
 - [ ] Reskim Run3
 - [ ] Debug variable binning function
-- [ ] fix 2d plots
-- [ ] 
+- [x] fix 2d plots
+- [ ] Jonas Letters
+- [ ] Read [[Run2 X->HY->4b]]
+- [ ] Update [[Run3 Synthetic Data]]
+- [ ] Summary of Wes Annual Review
+- [ ] Summary of Sindhu Annual Review
+- [ ] Modules Monthly report
 
 ---
 
@@ -46,4 +51,8 @@ M & T to school (M had to walk in snow! complained, but pushed through)
 # FBC2
 - Synthetic data still factor of 2 too low!
 - [ ] Reskim and try again
-- ]
+
+# [[Run3 Synthetic Data]]
+- [ ] Make presentations
+- [ ] Reskim
+

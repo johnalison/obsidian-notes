@@ -14,14 +14,14 @@
 | 2   | Sindhu Annual Review    |     |
 |     | Sindhu Annual Review    |     |
 | 3   | Sindhu Annual Review    |     |
-|     |                         |     |
-| 4   |                         |     |
-|     |                         |     |
+|     | selling pHex            |     |
+| 4   | kettle Bells            |     |
+|     | w/T                     |     |
 
-**W:**
-**DW:**
-**OT:**
-**ex** or **No ex**
+**W:** 6
+**DW:** 4
+**OT:** 3
+**ex** 
 
 ---
 # The ONE thing: 
@@ -33,7 +33,7 @@
 - [x] Mail re:Wes Review
 - [x] Check CVs for machinist
 - [x] Weights that apply Gaussian Kernel
-- [ ] Modules Monthly report
+ [>>] Modules Monthly report
 - [x] Sell $20k pHex
 
 ---
@@ -50,7 +50,7 @@ https://x.com/CmuScience/status/1866633999906373940
 
 # [[Run3 Synthetic Data]]
 - [x] Fix CI
-- [ ] Try Run-2 synthetic data with lower pt Cut
+([[Jet DeClustering]]) [<<] Try Run-2 synthetic data with lower pt Cut
 - Debugging CI
 - Multijet cutflow OK .... but the histograms are off !?!
 - Think the problem is with the tagcode
@@ -68,25 +68,24 @@ Fix ratio points with no data.
 
 
 # Selling pHex
-- Connected ledger
-- https://app.pulsex.com/
-- clicked on: "pulsex.mypinata.cloud"
-- opened ledger live
-- traded 750344 HEX  -> 21000 USDC
-- https://otter.pulsechain.com/tx/0xa5795cc65c91bf47d38486cd482101f0145d5cc995acd681bb84cc2992631e68
-- Had to sign twice...
-- https://otter.pulsechain.com/tx/0xa38064d0defe430a5525b0bd12c79713c2ca022f52ccec81f9ba04fbe79303b0
-- OK now have 21000 USDC on pulse
-- Now bridging to etherum
-- https://bridge.pulsechain.com/
-- Set the direction of the bridge from pulsechian to etherum
-- submitted... and signed....wait 30 mins
-- Can see in https://bridge.mypinata.cloud/ipfs/bafybeiahfpwhfdjf6iw4mwv5ytj7b6x4nmlxhwyae5ymfjdvszm6q5t3bm/#/transactions
-- Send 21,000.0 USDC from PulseChain and receive 20,937.0 USDC on Ethereum
-- Once 96 transactions... clicked claim on the pulseChain Bridge site
-- Had to sign in ledger
+- [[CryptoMoves]]
+- [[How to sell pHex]]
+- traded 750344 pHEX  -> 21000 USDC
+- Sent 21,000.0 USDC from PulseChain and receive 20,937.0 USDC on Ethereum
 - Sent to coinbase: https://etherscan.io/tx/0x35d6c83b0d4f3f7098e0e439df3ce00bd894483c75d20ce64e4d52e3a79d1545
 
-Market orders:
+# Market orders on coinbase:
 - 10,061.92 USDC to BTC at 100,000 USDC/BTC
 - 10,061.92 USDC to ETH at 3,644.66 USDC/ETH
+
+# KettleBells 
+- Weak b/c of elbow and wrist
+
+w/T 
+
+Reading ... [[Case Against Education]]
+
+# Putt Shack
+- Drove Clay... me, Clay, Dustin (Novas dad), Tony
+- Won at minigolf ... chat ... back home
+

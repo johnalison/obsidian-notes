@@ -93,6 +93,15 @@ Feedback from Marina:
  [>>] Try Run-2 synthetic data with lower pt Cut
 - Rerunning Run3 synthetic data with lower pt threshold on **cmslpc320**... finished **8492.214286327362** = 141 min
 
+[[10 December 2024 Tuesday]]
+- Running on new synthetic data
+ [>>] Fix CI
+ ([[Jet DeClustering]]) [<<] Try Run-2 synthetic data with lower pt Cut
+ - Normalization in 22 looks OK (pt spectrum still cut in synthetic data)
+ - Normalizaiton in 23 off (missing trigger ?)... Not the trigger.
+ - Found problem with input files... rerunning
+ - Looks pretty good.... sending to Marina
+
 # Follow-ups
 
 
