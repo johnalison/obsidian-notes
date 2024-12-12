@@ -1,22 +1,22 @@
 
-|     |                  |     |
-| --- | ---------------- | --- |
-| 9   | FBC2             |     |
-|     | FBC2             |     |
-| 10  | AE / 2d plotting |     |
-|     |                  |     |
-| 11  | Sindhu           |     |
-|     | Sindhu           |     |
-| 12  | bbWW             |     |
-|     | faculty          |     |
-| 1   | faculty          |     |
-|     | faculty          |     |
-| 2   | Gym              |     |
-|     | Gym              |     |
-| 3   | Gym              |     |
-|     |                  |     |
-| 4   |                  |     |
-|     |                  |     |
+|     |                  |        |
+| --- | ---------------- | ------ |
+| 9   | FBC2             |        |
+|     | FBC2             |        |
+| 10  | AE / 2d plotting |        |
+|     |                  |        |
+| 11  | Sindhu           |        |
+|     | Sindhu           |        |
+| 12  | ~~bbWW~~         | Sindhu |
+|     | faculty          |        |
+| 1   | faculty          |        |
+|     | faculty          |        |
+| 2   | Gym              |        |
+|     | Gym              |        |
+| 3   | Gym              |        |
+|     |                  |        |
+| 4   |                  |        |
+|     |                  |        |
 
 **W:**
 **DW:**
@@ -63,5 +63,5 @@ M & T to school (M had to walk in snow! complained, but pushed through)
 Skipped bbWW
 
 # Faculty Meeting
-
+- In person meeting Jan 6th
 
