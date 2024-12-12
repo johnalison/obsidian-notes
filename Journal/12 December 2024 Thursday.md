@@ -39,6 +39,7 @@
 - [ ] Summary of Wes Annual Review
 - [ ] Summary of Sindhu Annual Review
 - [ ] Modules Monthly report
+- [ ] Do Title IX training !
 
 ---
 
@@ -57,4 +58,10 @@ M & T to school (M had to walk in snow! complained, but pushed through)
 - [ ] Reskim
 
 # Chat Sindhu
+- Long chat 
+
+Skipped bbWW
+
+# Faculty Meeting
+
 
