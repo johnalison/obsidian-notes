@@ -139,7 +139,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "phex",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -172,8 +172,7 @@
               "title": "Files"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -276,13 +275,13 @@
   },
   "active": "16fa5852b43bbd99",
   "lastOpenFiles": [
-    "0-inbox/Chiller delivery.md",
+    "Journal/11 December 2024 Wednesday.md",
+    "Journal/12 December 2024 Thursday.md",
     "Journal/13 December 2024 Friday.md",
+    "0-inbox/Chiller delivery.md",
     "0-inbox/CMU Shipping Address.md",
     "Journal/December 2024.md",
-    "Journal/12 December 2024 Thursday.md",
     "0-inbox/Modules Summary December 2024.md",
-    "Journal/11 December 2024 Wednesday.md",
     "2-areas/coffea4bs/4b code base.md",
     "1-projects/Mixed2.0/Run3 Synthetic Data.md",
     "Journal/10 December 2024 Tuesday.md",

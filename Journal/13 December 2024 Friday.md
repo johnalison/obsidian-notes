@@ -30,7 +30,7 @@
 ---
 # To Do
 
-- [ ] Push the AN out
+- [x] Push the AN out
 - [ ] Update fancy crypto ledger
 - [ ] Reskim Run3
 - [ ] Debug variable binning function
@@ -65,18 +65,20 @@ Setup
 - on **cmslpc302**
 - `python runner.py -s -p skimmer/processor/skimmer_4b.py -c skimmer/metadata/HH4b.yml -y 2022_preEE -d data -e B C D -op skimmer/metadata/ -o picoaod_datasets_data_2022_preEE.yml -m metadata/datasets_HH4b_Run3.yml --condor`
 - Another ERROR... running one era at a time now...
-- 2022_preEEB .. fails. Trying C .. OK. Trying D.. OK... 
+- 2022_preEEB .. fails. Trying C .. OK. Trying D.. OK... keep going
+- Now on **cmslpc317**
 - [ ] 2022_preEEB 
 - [x] 2022_preEEC
 - [x] 2022_preEED
 - [x] 2023_preBPixA
-- [ ] 2023_preBPixB
-- [ ] 2023_preBPixC
-- [ ] 2023_preBPixD
+- [x] 2023_preBPixB
+- [x] 2023_preBPixC
+- [x] 2023_preBPixD
 - [ ] 2023_preBPixE
 - [ ] 2023_preBPixF
 - [ ] 2023_BPixD
 - [ ] 2023_BPixE
+
 
 
 [[Modules Summary December 2024]]
@@ -96,3 +98,10 @@ Setup
 
 # Scheduling [[Chiller delivery]]
 - Tuesday December 17th
+
+Sent AN and L3 replies
+
+Starting to update the fancy crypto ledger
+
+To Campus
+
