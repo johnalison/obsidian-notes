@@ -102,6 +102,13 @@ Feedback from Marina:
  - Found problem with input files... rerunning
  - Looks pretty good.... sending to Marina
 
+[[11 December 2024 Wednesday]]
+- [x] Fix CI
+- Debugging CI
+- Multijet cutflow OK .... but the histograms are off !?!
+- Think the problem is with the tagcode
+- If tagCode is buggy, the plots can be wrong, but the cutflow OK
+
 # Follow-ups
 
 

@@ -1,27 +1,27 @@
 
-|     |                  |        |
-| --- | ---------------- | ------ |
-| 9   | FBC2             |        |
-|     | FBC2             |        |
-| 10  | AE / 2d plotting |        |
-|     | plotting         |        |
-| 11  | Sindhu           |        |
-|     | Sindhu           |        |
-| 12  | ~~bbWW~~         | Sindhu |
-|     | faculty          |        |
-| 1   | faculty          |        |
-|     | faculty          |        |
-| 2   | Gym              |        |
-|     | Gym              |        |
-| 3   | Gym              |        |
-|     |                  |        |
-| 4   |                  |        |
-|     |                  |        |
+|     |                          |        |
+| --- | ------------------------ | ------ |
+| 9   | FBC2                     |        |
+|     | FBC2                     |        |
+| 10  | AE / 2d plotting         |        |
+|     | plotting                 |        |
+| 11  | Sindhu                   |        |
+|     | Sindhu                   |        |
+| 12  | ~~bbWW~~                 | Sindhu |
+|     | faculty                  |        |
+| 1   | faculty                  |        |
+|     | faculty                  |        |
+| 2   | Gym                      |        |
+|     | Gym                      |        |
+| 3   | Gym                      |        |
+|     | Chat AE                  |        |
+| 4   | Start [[Run-3 4b skims]] |        |
+|     |  [[Run-3 4b skims]]      |        |
 
-**W:**
-**DW:**
-**OT:**
-**ex** or **No ex**
+**W:** 6 
+**DW:** 3
+**OT:** 1 
+**ex** 
 
 ---
 # The ONE thing: 
@@ -30,15 +30,15 @@
 ---
 # To Do
 
-- [ ] Reskim Run3
-- [ ] Debug variable binning function
+ [>>] Reskim Run3
+ [>>] Debug variable binning function
 - [x] fix 2d plots
 - [x] Jonas Letters
-- [ ] Read [[Run2 X->HY->4b]]
-- [ ] Update [[Run3 Synthetic Data]]
-- [ ] Summary of Wes Annual Review
-- [ ] Summary of Sindhu Annual Review
-- [ ] Modules Monthly report
+ [>> ] Read [[Run2 X->HY->4b]]
+- [x] Update [[Run3 Synthetic Data]]
+ [>>] Summary of Wes Annual Review
+ [>>] Summary of Sindhu Annual Review
+ [>>] Modules Monthly report
 - [x] Do Title IX training !
 [xx] Coinbase account for Lynn
 
@@ -52,11 +52,11 @@ M & T to school (M had to walk in snow! complained, but pushed through)
 
 # FBC2
 - Synthetic data still factor of 2 too low!
-- [ ] Reskim and try again ? 
+ [>>] Reskim and try again ? 
 
 # [[Run3 Synthetic Data]]
-- [ ] Make presentations
-- [ ] Reskim
+ [>>] Make presentations
+ [>>] Reskim
 
 # Chat Sindhu
 - Long chat 
@@ -94,16 +94,13 @@ Chat with AE re:pts
 - Cannot do it !!!! 
 
 # Submitting Jonas Letters
-- Maryland
-- UW
-- UCSB
-- CU
-- UCSD
-- BU
-- USC
+- Maryland / UW / UCSB / CU / UCSD / BU / USC
 
 Chat Markus
 
 More [[Run-3 4b skims]]
 
 Home with M & T 
+
+Some [[The Problem of Political Authority]]
+

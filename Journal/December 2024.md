@@ -11,7 +11,7 @@
 | 9  M | Run2 AN / **Hoops/SR**  / Marlo to Dentist / More [[Run3 Synthetic Data]]   | 5/3/3 |
 | 10 T | (Wes Annual Review) Debug [[Run3 Synthetic Data]] / Hair cut / Reading      | 4/2/1 |
 | 11 W | (Sindhu Annual Review) Home w/T / Kettlebells / pHex moves/ Putt Shack      | 6/4/3 |
-| 12 H |                                                                             |       |
+| 12 H | Plotting updates  / **Gym/SR** / Start reskim / Random                      | 6/3/1 |
 | 13 F |                                                                             |       |
 | 14 S |                                                                             |       |
 | 15 S |                                                                             |       |

@@ -49,12 +49,7 @@ HGC Press on X
 https://x.com/CmuScience/status/1866633999906373940
 
 # [[Run3 Synthetic Data]]
-- [x] Fix CI
-([[Jet DeClustering]]) [<<] Try Run-2 synthetic data with lower pt Cut
-- Debugging CI
-- Multijet cutflow OK .... but the histograms are off !?!
-- Think the problem is with the tagcode
-- If tagCode is buggy, the plots can be wrong, but the cutflow OK
+- See Daily's above
 
 [[4b code base]]
 - [x] Dont draw ration points when no data
@@ -64,20 +59,20 @@ Home w/T
 Fix ratio points with no data.
 
 # Sindhu Annual Review
-- [ ] Need to talk to her about big picture
+ [>>] Need to talk to her about big picture
 
 
 # Selling pHex
 - [[CryptoMoves]]
 - [[How to sell pHex]]
-- traded 750344 pHEX  -> 21000 USDC
+- Traded 750344 pHEX  -> 21000 USDC
 - Sent 21,000.0 USDC from PulseChain and receive 20,937.0 USDC on Ethereum
 - Sent to coinbase: https://etherscan.io/tx/0x35d6c83b0d4f3f7098e0e439df3ce00bd894483c75d20ce64e4d52e3a79d1545
 
 # Market orders on coinbase:
-- 10,061.92 USDC to BTC at 100,000 USDC/BTC
-- 10,061.92 USDC to ETH at 3,644.66 USDC/ETH
-
+- 10,002.26 USDC USDC to BTC at 100,000 USDC/BTC... Filled !
+- 10,061.92 USDC to ETH at 3,644.66 USDC/ETH... 
+- [>>] Update fancy crypto ledger
 # KettleBells 
 - Weak b/c of elbow and wrist
 
@@ -87,5 +82,5 @@ Reading ... [[Case Against Education]]
 
 # Putt Shack
 - Drove Clay... me, Clay, Dustin (Novas dad), Tony
-- Won at minigolf ... chat ... back home
+- Won mini-golf ... chat ... back home
 

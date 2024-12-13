@@ -6,9 +6,9 @@
 | 10  | Hair Cut                |     |
 |     | to campus               |     |
 | 11  | Stats chat              |     |
-|     | Stats Cat               |     |
-| 12  | Mac                     |     |
-|     | Mac                     |     |
+|     | Stats Chat              |     |
+| 12  | Mac Meeting             |     |
+|     | Mac Meeting             |     |
 | 1   | home                    |     |
 |     | w/kids                  |     |
 | 2   | w/kids                  |     |

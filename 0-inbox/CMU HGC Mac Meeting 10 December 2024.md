@@ -13,7 +13,7 @@ https://www.fedex.com/fedextrack/?trknbr=9604772553&trkqual=~9604772553~FDFR
 - [x] Get Bags Vacuum sealed ? 
 - [ ] need dry air and HV for MMTS
 - [ ] Shipping DB NOT usable 
-- [ ] Ping Wes re xmax
+- [x] Ping Wes re xmax
 
 # Jessica 
 - Bonder low test pulls ... will calibrate bonder

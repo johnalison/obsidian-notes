@@ -69,7 +69,6 @@ Chat AE re:USCMS analysis contact interview
 - [>>] Check cutflow
 - [>>] Plots comparing 3-tag 
 
-
 # Gym / Steamroom
 - core / pullups / back squat / press
 - 10' at Tmax = 124
