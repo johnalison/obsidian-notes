@@ -90,5 +90,9 @@ Setup
 
 # [[Run2 HH4b AN]]
 - Updating the responses. 
-- [ ] New v3 versions
-- [ ] Send email to L3s
+- [x] New v3 versions
+- [x] Send email to L3s
+
+
+# Scheduling [[Chiller delivery]]
+- Tuesday December 17th
