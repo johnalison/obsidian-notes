@@ -65,6 +65,7 @@ Setup
 - on **cmslpc302**
 - `python runner.py -s -p skimmer/processor/skimmer_4b.py -c skimmer/metadata/HH4b.yml -y 2022_preEE -d data -e B C D -op skimmer/metadata/ -o picoaod_datasets_data_2022_preEE.yml -m metadata/datasets_HH4b_Run3.yml --condor`
 - Another ERROR... running one era at a time now...
+- 2022_preEEB fails. Trying C
 - [ ] B 
 - [ ] C
 - [ ] D
