@@ -85,7 +85,8 @@ Chat with AE re:pts
 - `python runner.py -s -p skimmer/processor/skimmer_4b.py -c  skimmer/metadata/HH4b.yml -y 2023_preBPix -d data -e A B C D E F -op  skimmer/metadata/ -o picoaod_datasets_data_2023_preBPix.yml -m  metadata/datasets_HH4b_Run3.yml --condor 
 - That fails (removing perdue)  trying BPix...
 - `python runner.py -s -p skimmer/processor/skimmer_4b.py -c  skimmer/metadata/HH4b.yml -y 2023_BPix -d data -e D E -op  skimmer/metadata/ -o picoaod_datasets_data_2023_BPix.yml -m metadata/datasets_HH4b_Run3.yml --condor`
-# Title IX Training
+
+# Did Title IX Training
 
 
 # Creating Coinbase Account
@@ -104,3 +105,5 @@ Chat with AE re:pts
 Chat Markus
 
 More [[Run-3 4b skims]]
+
+Home with M & T 
