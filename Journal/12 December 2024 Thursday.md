@@ -33,14 +33,14 @@
 - [ ] Reskim Run3
 - [ ] Debug variable binning function
 - [x] fix 2d plots
-- [ ] Jonas Letters
+- [x] Jonas Letters
 - [ ] Read [[Run2 X->HY->4b]]
 - [ ] Update [[Run3 Synthetic Data]]
 - [ ] Summary of Wes Annual Review
 - [ ] Summary of Sindhu Annual Review
 - [ ] Modules Monthly report
-- [ ] Do Title IX training !
-- [ ] Coinbase account for Lynn
+- [x] Do Title IX training !
+[xx] Coinbase account for Lynn
 
 ---
 
@@ -72,3 +72,34 @@ Skipped bbWW
 - 10' at Tmax = 124
 
 BTC order filled ! 
+
+Chat with AE re:pts
+# [[Run-3 4b skims]]
+- on **cmslpc303**
+- `base_path: root://cmseos.fnal.gov//store/user/jda102/XX4b/2024_v3/`
+-  `python runner.py -s -p skimmer/processor/skimmer_4b.py -c  skimmer/metadata/HH4b.yml -y 2022_EE -d data -e E F G -op  skimmer/metadata/ -o picoaod_datasets_data_2022_EE.yml -m  metadata/datasets_HH4b_Run3.yml --condor`
+- finished in **2386.692587852478**
+- `python runner.py -s -p skimmer/processor/skimmer_4b.py -c  skimmer/metadata/HH4b.yml -y 2022_preEE -d data -e B C D -op  skimmer/metadata/ -o picoaod_datasets_data_2022_preEE.yml -m  metadata/datasets_HH4b_Run3.yml --condor`
+- ... Has errors will likely need to rerun... moving on.
+- Running now on **cmslpc308**
+- `python runner.py -s -p skimmer/processor/skimmer_4b.py -c  skimmer/metadata/HH4b.yml -y 2023_preBPix -d data -e A B C D E F -op  skimmer/metadata/ -o picoaod_datasets_data_2023_preBPix.yml -m  metadata/datasets_HH4b_Run3.yml --condor 
+`
+# Title IX Training
+
+
+# Creating Coinbase Account
+- johnalison@cmu.edu
+- Cannot do it !!!! 
+
+# Submitting Jonas Letters
+- Maryland
+- UW
+- UCSB
+- CU
+- UCSD
+- BU
+- USC
+
+Chat Markus
+
+More [[Run-3 4b skims]]
