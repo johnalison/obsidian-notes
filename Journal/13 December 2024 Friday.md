@@ -67,6 +67,7 @@ Setup
 - Another ERROR... running one era at a time now...
 - 2022_preEEB .. fails. Trying C .. OK. Trying D.. OK... keep going
 - Now on **cmslpc317**
+- Now on **cmslpc318**
 - [ ] 2022_preEEB 
 - [x] 2022_preEEC
 - [x] 2022_preEED
@@ -74,7 +75,7 @@ Setup
 - [x] 2023_preBPixB
 - [x] 2023_preBPixC
 - [x] 2023_preBPixD
-- [ ] 2023_preBPixE
+- [x] 2023_preBPixE
 - [ ] 2023_preBPixF
 - [ ] 2023_BPixD
 - [ ] 2023_BPixE
@@ -104,4 +105,10 @@ Sent AN and L3 replies
 Starting to update the fancy crypto ledger
 
 To Campus
+
+More [[Run-3 4b skims]]
+
+# HEP Party ! 
+
+Home with M
 
