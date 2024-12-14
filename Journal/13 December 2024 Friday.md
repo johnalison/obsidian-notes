@@ -76,7 +76,7 @@ Setup
 - [x] 2023_preBPixC
 - [x] 2023_preBPixD
 - [x] 2023_preBPixE
-- [ ] 2023_preBPixF
+- [x] 2023_preBPixF
 - [ ] 2023_BPixD
 - [ ] 2023_BPixE
 
@@ -114,3 +114,4 @@ Home with M
 
 # Finances:  2.5/2.5
 
+More skimming... see above
