@@ -67,7 +67,7 @@ Setup
 - Another ERROR... running one era at a time now...
 - 2022_preEEB .. fails. Trying C .. OK. Trying D.. OK... keep going
 - Now on **cmslpc317**
-- Now on **cmslpc318**
+- Now on **cmslpc318** 
 - [ ] 2022_preEEB 
 - [x] 2022_preEEC
 - [x] 2022_preEED
@@ -111,4 +111,6 @@ More [[Run-3 4b skims]]
 # HEP Party ! 
 
 Home with M
+
+# Finances:  2.5/2.5
 
