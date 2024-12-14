@@ -78,7 +78,7 @@ Setup
 - [x] 2023_preBPixE
 - [x] 2023_preBPixF
 - [ ] 2023_BPixD
-- [ ] 2023_BPixE
+- [x] 2023_BPixE
 
 
 
