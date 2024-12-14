@@ -68,7 +68,7 @@ Setup
 - 2022_preEEB .. fails. Trying C .. OK. Trying D.. OK... keep going
 - Now on **cmslpc317**
 - Now on **cmslpc318** 
-- [ ] 2022_preEEB 
+- [x] 2022_preEEB 
 - [x] 2022_preEEC
 - [x] 2022_preEED
 - [x] 2023_preBPixA
@@ -115,3 +115,5 @@ Home with M
 # Finances:  2.5/2.5
 
 More skimming... see above
+
+Birthday cake... 
