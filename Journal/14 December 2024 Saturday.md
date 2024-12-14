@@ -10,4 +10,4 @@ Some [[Case Against Education]]
 
 # Hex moves
 - Open ledger live, unlock ledger, to to etherum app
-- 
+- https://backuphex.com/
