@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/13 December 2024 Friday.md",
+                "file": "Journal/14 December 2024 Saturday.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "13 December 2024 Friday"
+              "title": "14 December 2024 Saturday"
             }
           },
           {
@@ -191,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/13 December 2024 Friday.md",
+                "file": "Journal/14 December 2024 Saturday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,7 +201,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 13 December 2024 Friday"
+              "title": "Backlinks for 14 December 2024 Saturday"
             }
           },
           {
@@ -210,12 +210,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/13 December 2024 Friday.md",
+                "file": "Journal/14 December 2024 Saturday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 13 December 2024 Friday"
+              "title": "Outgoing links from 14 December 2024 Saturday"
             }
           },
           {
@@ -237,10 +237,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/13 December 2024 Friday.md"
+                "file": "Journal/14 December 2024 Saturday.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 13 December 2024 Friday"
+              "title": "Outline of 14 December 2024 Saturday"
             }
           },
           {
@@ -274,9 +274,10 @@
   },
   "active": "37ca9d1b5cdebe8c",
   "lastOpenFiles": [
+    "Journal/13 December 2024 Friday.md",
+    "Journal/14 December 2024 Saturday.md",
     "Journal/12 December 2024 Thursday.md",
     "2-areas/CMS/CMSSWNotes.md",
-    "Journal/13 December 2024 Friday.md",
     "Journal/11 December 2024 Wednesday.md",
     "0-inbox/Chiller delivery.md",
     "0-inbox/CMU Shipping Address.md",
@@ -299,7 +300,6 @@
     "1-projects/HH4b/Run2 HH4b AN.md",
     "Journal/2 December 2024 Monday.md",
     "Journal/3 December 2024 Tuesday.md",
-    "Input/Meetings/November/HGC MAC P2UG Silicon Modules 5 Nov 2024.md",
     "Journal/#Future Log.md#",
     "Journal/#December 2024.md#",
     "Input/Meetings/November",
