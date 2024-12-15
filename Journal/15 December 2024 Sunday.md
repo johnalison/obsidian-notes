@@ -22,3 +22,11 @@ Some [[The Problem of Political Authority]] ... Great!
 	- "Know your own biases. If you don’t, scammers will use them to manipulate you."
 - Colin Gay https://fakenous.substack.com/p/the-lessons-of-claudine-gay?utm_source=substack&utm_medium=email
 	- Affirmative action is not used as a _tie-breaker_ in academia. It’s not a thumb on the scale; it’s an elephant on the scale. In many cases, like that of Claudine Gay, the color of someone’s skin, the shape of their genitals, and/or their political orientation are _decisive_ factors.
+
+# Valerie Playday
+- Her mom Kris over
+
+# H to Hoops
+- Walk / Got a Keebab very good
+- Chat Chris Warren
+
