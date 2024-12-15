@@ -32,7 +32,7 @@ No ex**
 
 - [x] Push the AN out
 - [x] Update fancy crypto ledger
-- [ ] Reskim Run3
+- [x] Reskim Run3
 - [ ] Debug variable binning function
 - [ ] Modules Monthly report
 - [ ] Summary of Wes Annual Review

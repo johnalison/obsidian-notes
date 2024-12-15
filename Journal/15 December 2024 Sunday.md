@@ -14,6 +14,8 @@ Some [[The Problem of Political Authority]] ... Great!
 
 
 - [ ]  VARs
+- [ ] Process Skims
+- [ ] Add CL studies to AN
 
 # Reading # [Fake Noûs](https://fakenous.substack.com/)
 - Dont be a sucker: https://fakenous.substack.com/p/dont-be-a-sucker
