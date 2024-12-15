@@ -52,6 +52,7 @@ Kids sick: working from home in morning
  Baseplate shipped:  
 - CuW LD-Full (x14) / Ti LD-Full (x20) 
 - Tracking number: 1738646571
+-  [https://cmsr-shipment.web.cern.ch/shipping_info/529](https://cmsr-shipment.web.cern.ch/shipping_info/529)
 
 To Doctors... Shots for T.
 

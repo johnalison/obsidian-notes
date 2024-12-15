@@ -12,7 +12,7 @@
 | 10 T | (Wes Annual Review) Debug [[Run3 Synthetic Data]] / Hair cut / Reading      | 4/2/1 |
 | 11 W | (Sindhu Annual Review) Home w/T / Kettlebells / pHex moves/ Putt Shack      | 6/4/3 |
 | 12 H | Plotting updates  / **Gym/SR** / Start reskim / Random                      | 6/3/1 |
-| 13 F | Birth day!                                                                  | 4/2/0 |
+| 13 F | Birthday!                                                                   | 4/2/0 |
 | 14 S |                                                                             |       |
 | 15 S |                                                                             |       |
 | 16 M |                                                                             |       |
