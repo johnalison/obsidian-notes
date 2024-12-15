@@ -19,8 +19,12 @@ Call Saxon and Meehan
 
 # Chat Lester
 - all good
+
 # Gym / Steamroom 
-- core / Zone 2 50'
+- core / Zone-2 50'
 - 15' at Tmax = 118
+
+Some [[The Problem of Political Authority]]
+
 
 

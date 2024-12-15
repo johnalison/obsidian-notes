@@ -1,27 +1,27 @@
 
-|     |                      |            |
-| --- | -------------------- | ---------- |
-| 9   | ~~Quarterly Review~~ | Sick hours |
-|     | ~~Quarterly Review~~ | Sick hours |
-| 10  | ~~Gabija~~           | Sick hours |
-|     | ~~setups~~           | setup      |
-| 11  | Quarterly Review     |            |
-|     | Quarterly Review     |            |
-| 12  |                      |            |
-|     |                      |            |
-| 1   |                      |            |
-|     |                      |            |
-| 2   |                      |            |
-|     |                      |            |
-| 3   | HEP Party            |            |
-|     | HEP Party            |            |
-| 4   | HEP Party            |            |
-|     | HEP Party            |            |
+|     |                      |                  |
+| --- | -------------------- | ---------------- |
+| 9   | ~~Quarterly Review~~ | Sick hours       |
+|     | ~~Quarterly Review~~ | Sick hours       |
+| 10  | ~~Gabija~~           | Sick hours       |
+|     | ~~setups~~           | setup            |
+| 11  | ~~Quarterly Review~~ | [[Run2 HH4b AN]] |
+|     | Quarterly Review     | [[Run2 HH4b AN]] |
+| 12  | [[Run2 HH4b AN]]     |                  |
+|     | [[Run2 HH4b AN]]     |                  |
+| 1   | Skims                |                  |
+|     | Skims                |                  |
+| 2   | skims                |                  |
+|     | To campus            |                  |
+| 3   | HEP Party            |                  |
+|     | HEP Party            |                  |
+| 4   | HEP Party            |                  |
+|     | HEP Party            |                  |
 
-**W:**
-**DW:**
-**OT:**
-**ex** or **No ex**
+**W:** 4
+**DW:** 2
+**OT:** 0
+No ex**
 
 ---
 # The ONE thing: 
@@ -31,7 +31,7 @@
 # To Do
 
 - [x] Push the AN out
-- [ ] Update fancy crypto ledger
+- [x] Update fancy crypto ledger
 - [ ] Reskim Run3
 - [ ] Debug variable binning function
 - [ ] Modules Monthly report
@@ -49,7 +49,7 @@ Up at 7
 
 Kids sick: working from home in morning
 
-Baseplate shipped:  
+ Baseplate shipped:  
 - CuW LD-Full (x14) / Ti LD-Full (x20) 
 - Tracking number: 1738646571
 
@@ -63,7 +63,7 @@ Setup
 
 # [[Run-3 4b skims]]
 - on **cmslpc302**
-- `python runner.py -s -p skimmer/processor/skimmer_4b.py -c skimmer/metadata/HH4b.yml -y 2022_preEE -d data -e B C D -op skimmer/metadata/ -o picoaod_datasets_data_2022_preEE.yml -m metadata/datasets_HH4b_Run3.yml --condor`
+	- `python runner.py -s -p skimmer/processor/skimmer_4b.py -c skimmer/metadata/HH4b.yml -y 2022_preEE -d data -e B C D -op skimmer/metadata/ -o picoaod_datasets_data_2022_preEE.yml -m metadata/datasets_HH4b_Run3.yml --condor`
 - Another ERROR... running one era at a time now...
 - 2022_preEEB .. fails. Trying C .. OK. Trying D.. OK... keep going
 - Now on **cmslpc317**
