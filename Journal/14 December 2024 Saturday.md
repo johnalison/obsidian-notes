@@ -6,10 +6,12 @@
 
 Up at 8:30
 
+With Kids.. S to Starbucks to work
+
 Some [[Case Against Education]]
 
 # Hex moves
-- Open ledger live, unlock ledger, to to etherum app
+- Open ledger live, unlock ledger,  to etherum app
 - Could not end stake on main hex apps.
 - Used https://backuphex.com/
 - Ended stakes on both networks

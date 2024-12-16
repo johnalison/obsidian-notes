@@ -9,6 +9,7 @@
 - [ ]  clean JCM code
 - [ ] Why is canJet Phi 0-pi ?
 - [ ]  Code to make cutflow eff plots
+- [ ] Debug variable binning function
  - [x] Dont draw ration points when no data
 ## Follow-ups
 

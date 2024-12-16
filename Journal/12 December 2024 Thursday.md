@@ -40,7 +40,7 @@
  [>>] Summary of Sindhu Annual Review
  [>>] Modules Monthly report
 - [x] Do Title IX training !
-[xx] Coinbase account for Lynn
+[xx] ~~Coinbase account for Lynn~~
 
 ---
 
@@ -75,16 +75,7 @@ BTC order filled !
 
 Chat with AE re:pts
 # [[Run-3 4b skims]]
-- on **cmslpc303**
-- `base_path: root://cmseos.fnal.gov//store/user/jda102/XX4b/2024_v3/`
--  `python runner.py -s -p skimmer/processor/skimmer_4b.py -c  skimmer/metadata/HH4b.yml -y 2022_EE -d data -e E F G -op  skimmer/metadata/ -o picoaod_datasets_data_2022_EE.yml -m  metadata/datasets_HH4b_Run3.yml --condor`
-- finished in **2386.692587852478**
-- `python runner.py -s -p skimmer/processor/skimmer_4b.py -c  skimmer/metadata/HH4b.yml -y 2022_preEE -d data -e B C D -op  skimmer/metadata/ -o picoaod_datasets_data_2022_preEE.yml -m  metadata/datasets_HH4b_Run3.yml --condor`
-- ... Has errors will likely need to rerun... moving on.
-- Running now on **cmslpc308**
-- `python runner.py -s -p skimmer/processor/skimmer_4b.py -c  skimmer/metadata/HH4b.yml -y 2023_preBPix -d data -e A B C D E F -op  skimmer/metadata/ -o picoaod_datasets_data_2023_preBPix.yml -m  metadata/datasets_HH4b_Run3.yml --condor 
-- That fails (removing perdue)  trying BPix...
-- `python runner.py -s -p skimmer/processor/skimmer_4b.py -c  skimmer/metadata/HH4b.yml -y 2023_BPix -d data -e D E -op  skimmer/metadata/ -o picoaod_datasets_data_2023_BPix.yml -m metadata/datasets_HH4b_Run3.yml --condor`
+- See Daily's above
 
 # Did Title IX Training
 
@@ -96,7 +87,7 @@ Chat with AE re:pts
 # Submitting Jonas Letters
 - Maryland / UW / UCSB / CU / UCSD / BU / USC
 
-Chat Markus
+Chat Markus.. exchange gifts
 
 More [[Run-3 4b skims]]
 

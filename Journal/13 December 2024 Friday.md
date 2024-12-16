@@ -33,11 +33,11 @@ No ex**
 - [x] Push the AN out
 - [x] Update fancy crypto ledger
 - [x] Reskim Run3
-- [ ] Debug variable binning function
-- [ ] Modules Monthly report
-- [ ] Summary of Wes Annual Review
-- [ ] Summary of Sindhu Annual Review
-- [ ] Read [[Run2 X->HY->4b]]
+([[4b code base]]) [<<] Debug variable binning function
+ [>> ] Modules Monthly report
+ [>>] Summary of Wes Annual Review
+ [>>] Summary of Sindhu Annual Review
+ [>>] Read [[Run2 X->HY->4b]]
 
 ---
 
@@ -63,39 +63,19 @@ T home sick.
 Setup
 
 # [[Run-3 4b skims]]
-- on **cmslpc302**
-	- `python runner.py -s -p skimmer/processor/skimmer_4b.py -c skimmer/metadata/HH4b.yml -y 2022_preEE -d data -e B C D -op skimmer/metadata/ -o picoaod_datasets_data_2022_preEE.yml -m metadata/datasets_HH4b_Run3.yml --condor`
-- Another ERROR... running one era at a time now...
-- 2022_preEEB .. fails. Trying C .. OK. Trying D.. OK... keep going
-- Now on **cmslpc317**
-- Now on **cmslpc318** 
-- [x] 2022_preEEB 
-- [x] 2022_preEEC
-- [x] 2022_preEED
-- [x] 2023_preBPixA
-- [x] 2023_preBPixB
-- [x] 2023_preBPixC
-- [x] 2023_preBPixD
-- [x] 2023_preBPixE
-- [x] 2023_preBPixF
-- [x] 2023_BPixD
-- [x] 2023_BPixE
-
+- See Daily's above
 
 
 [[Modules Summary December 2024]]
 
 [[CMU Shipping Address]]
 
-
 # [[Run3 Synthetic Data]]
-- [ ] Make presentations
+ [>>] Make presentations
 
 
 # [[Run2 HH4b AN]]
-- Updating the responses. 
-- [x] New v3 versions
-- [x] Send email to L3s
+- See daily's above ... Sent v3 !
 
 
 # Scheduling [[Chiller delivery]]

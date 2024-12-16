@@ -65,7 +65,7 @@ More [[Run2 HH4b AN]]
 - Chat on mHH binning
 - Will send slides for annual review tonight...
 
-Pushing changed to [[Run2 HH4b AN]]
+Pushing changes to [[Run2 HH4b AN]]
 
 # [[Run3 Synthetic Data]]
 - See Daily's above
