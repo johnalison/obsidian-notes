@@ -88,7 +88,12 @@ Home
 # Mans Meeting BCR
 * There are overheads ~20% but vary by University (which is why my numbers arent identical)
 - https://indico.cern.ch/event/1356090/contributions/5710303/attachments/2768555/4823054/MMStand-ShoppingList.pdf
+- from https://indico.cern.ch/event/1356090/
 - https://vastitec.com/en/products-2/safety-2/high-voltage-switching-system/
 - https://www.tek.com/en/products/keithley/source-measure-units/2400-standard-series-sourcemeter
 - Ping Rong Shoang about mimimum requirements
 - Ping Joe and Nural about HV 2410
+
+
+Mio now has a grade of 110 on Article 1! 
+- Sent mail to Brendan 
