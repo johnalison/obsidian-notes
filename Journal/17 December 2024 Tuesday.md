@@ -85,6 +85,9 @@ Home
 [[HGC Transfer Tape BCR]]
 
 
-Ping Rong Shoang about mimimum requirements
-
-- FNAL route?
+# BCR
+- https://indico.cern.ch/event/1356090/contributions/5710303/attachments/2768555/4823054/MMStand-ShoppingList.pdf
+- https://vastitec.com/en/products-2/safety-2/high-voltage-switching-system/
+- https://www.tek.com/en/products/keithley/source-measure-units/2400-standard-series-sourcemeter
+- Ping Rong Shoang about mimimum requirements
+- Ping Joe and Nural about HV 2410
