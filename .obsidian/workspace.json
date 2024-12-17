@@ -91,8 +91,7 @@
               "title": "Run2 HH4b AN"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -165,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/December 2024.md",
+                "file": "Journal/16 December 2024 Monday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +174,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for December 2024"
+              "title": "Backlinks for 16 December 2024 Monday"
             }
           },
           {
@@ -184,12 +183,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/December 2024.md",
+                "file": "Journal/16 December 2024 Monday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from December 2024"
+              "title": "Outgoing links from 16 December 2024 Monday"
             }
           },
           {
@@ -211,10 +210,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/December 2024.md"
+                "file": "Journal/16 December 2024 Monday.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of December 2024"
+              "title": "Outline of 16 December 2024 Monday"
             }
           },
           {
@@ -246,8 +245,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "92d3a3044b786e68",
+  "active": "a8976300d9879388",
   "lastOpenFiles": [
+    "Journal/December 2024.md",
     "1-projects/HH4b/Run-3 4b skims.md",
     "0-inbox/Untitled.md",
     "0-inbox/Untitled 1.md",
@@ -274,7 +274,6 @@
     "0-inbox/HGC Transfer Tape BCR.md",
     "0-inbox/HGC TDR.md",
     "0-inbox/Existence Is Evidence of Immortality.md",
-    "Input/Meetings/CMU HGC Mac Meeting 10 December 2024.md",
     "Journal/#Future Log.md#",
     "Journal/#December 2024.md#",
     "Input/Meetings/November",
