@@ -141,6 +141,12 @@ allowlist_sites:
 - [x] 2023_preBPixF
 - [x] 2023_BPixD
 - [x] 2023_BPixE
+- Added `T1_US_FNAL_Disk` and blocked `T2_US_Purdue` .. fixed all previous failues
+	- Also had to do set `rucio_regex_sites: 'T[123]_(US|CH|DE|UK)'`
+
+
+# v3 Monday Dec 16th
+- 
 
 # v1 Tuesday Oct 8th
 - Problems... too many collections/ triggers /events and no LumiBlock checking

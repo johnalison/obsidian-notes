@@ -15,7 +15,7 @@
 | 13 F | Birthday! / kids sick / Drs / sent ANv3/ HEP Party ! / **Finances 2.5** / Cake | 4/2/0 |
 | 14 S | Hex stakes / Phone calls / **Gym/SR** / Reading                                |       |
 | 15 S | Reading / Quarterly Review / Valerie and mom / H to Hoops / Reading            |       |
-| 16 M |                                                                                |       |
+| 16 M | Fast 1                                                                         |       |
 | 17 T |                                                                                |       |
 | 18 W | (MAC Meeting)                                                                  |       |
 | 19 H | (Osher Lunch)                                                                  |       |
