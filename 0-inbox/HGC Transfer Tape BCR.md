@@ -34,7 +34,11 @@ Annual calibration of the OGP SmartScope microscopes is required to maintain the
 Equipment is needed to supply the dry air  and high-voltage power for the multi-module test stands.  These test stands are a critical part of the QA/QC at each site. The specification for the dry air is more stringent than what is currently used during assembly in for storage. The specs could potentially be met with a manual desiccant air dryer inline between the compressor air dryer and the teststand. These are inexpensive ($500), but would require frequent regeneration of the desiccant which would be tedious and costly in terms of person-time.  Regenerative air dryers ($4000) have fully automatic operation and require relatively little maintenance.
 
 
+# Change was:
+- Three sites:
+-  26355 - 5250 + 1500 = 22605 / year x 1.5 = 33907.5
 
+	- 15,300.000+ 3,850.00
 
 # Notes
 
@@ -48,7 +52,6 @@ https://www.perigeedirect.com/products/huntsman-araldite-2011-slow-setting-all-p
 
 * Transfer Tape: 251 * 24 m/d * 1 tape/module = 6024 * $8.75 = **$52710.0**
 - OR: 251 * 12m/d = 3012 * $8.75 = **$26355.0**
-
 
 
 Added OGP calibration

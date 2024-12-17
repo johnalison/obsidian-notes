@@ -1,8 +1,9 @@
 
 # News 
-- Chiller arrives
+- Chiller arrived and is unpacked
 - KRIA coming 
 - Tooling 5 assembly trays 8 PU tools  
+- Lab inspections OK
 
 # Action Items
 - [ ] How to hire? MP Ping 

@@ -1,22 +1,23 @@
 
-|     |              |     |
-| --- | ------------ | --- |
-| 9   |              |     |
-|     | Wes          |     |
-| 10  |              |     |
-|     | HH4b Chat    |     |
-| 11  | HH4b Chat    |     |
-|     |              |     |
-| 12  | Mac Meeting  |     |
-|     | Mac Meeting  |     |
-| 1   |              |     |
-|     |              |     |
-| 2   |              |     |
-|     |              |     |
-| 3   | Mans Meeting |     |
-|     | Mans Meeting |     |
-| 4   | Mans Meeting |     |
-|     |              |     |
+
+|     | setup               |           |
+| --- | ------------------- | --------- |
+| 9   | w/kids              |           |
+|     | ~~Wes (via email)~~ | To campus |
+| 10  | 4b skimmes          |           |
+|     | Chiller             |           |
+| 11  | Unpack chiller      |           |
+|     | Unpack chiller      |           |
+| 12  | Mac Meeting         |           |
+|     | home                |           |
+| 1   | T down              |           |
+|     | T down              |           |
+| 2   | M down              |           |
+|     |                     |           |
+| 3   | Mans Meeting        |           |
+|     | Mans Meeting        |           |
+| 4   | Mans Meeting        |           |
+|     |                     |           |
 
 **W:**
 **DW:**
@@ -25,12 +26,13 @@
 
 ---
 # The ONE thing: 
-- [ ] 
+- [x] 4b skims
+- [ ] [[Run3 Synthetic Data]]
 
 ---
 # To Do
 
-- [ ] Chiller Delivery ?
+- [x] Chiller Delivery ?
 - [ ] Annual Review Write-ups: Wes and Sindhu
 - [ ] Skim4b Run3 v3
 - [ ] New  synthetic data presentations
@@ -70,13 +72,14 @@ To campus
 # [[Run3 Synthetic Data]]
 - on **cmslpc327**
 - Making v3 synthetic datasets
-- 
 
 
 Chiller Delivered ! 
 
 
-[[CMU HGC Mac Meeting 17 December 2024]]
+# [[CMU HGC Mac Meeting 17 December 2024]]
 
-- Chiller arrived and unpack 
-- inspection
+
+Home
+
+[[HGC Transfer Tape BCR]]
