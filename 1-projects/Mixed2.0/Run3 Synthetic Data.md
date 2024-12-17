@@ -12,6 +12,13 @@ Feedback from Marina:
 
 # Daily Logs
 
+[[15 October 2024 Tuesday]]
+- Fixes for Run3 clustering test jobs
+- Starting Run3 [[Jet DeClustering]]
+- Failed b/c tag ... also probably ran out of memory
+- Fixed tag... Now trying with 1_000 chunksize ... works 
+- Running all 
+
 [[30 October 2024 Wednesday]]
 - Trying with 3 workers ... Jobs failing b/c of memory 
 - Try with 4 workers 10_000 chunksize ... looks like this is working... need to try condor
