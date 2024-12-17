@@ -74,3 +74,9 @@ To campus
 
 
 Chiller Delivered ! 
+
+
+[[CMU HGC Mac Meeting 17 December 2024]]
+
+- Chiller arrived and unpack 
+- inspection
