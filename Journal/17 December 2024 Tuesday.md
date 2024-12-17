@@ -68,5 +68,9 @@ To campus
 
 
 # [[Run3 Synthetic Data]]
+- on **cmslpc327**
+- Making v3 synthetic datasets
 - 
 
+
+Chiller Delivered ! 
