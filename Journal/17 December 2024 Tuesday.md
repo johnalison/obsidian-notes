@@ -85,7 +85,8 @@ Home
 [[HGC Transfer Tape BCR]]
 
 
-# BCR
+# Mans Meeting BCR
+* There are overheads ~20% but vary by University (which is why my numbers arent identical)
 - https://indico.cern.ch/event/1356090/contributions/5710303/attachments/2768555/4823054/MMStand-ShoppingList.pdf
 - https://vastitec.com/en/products-2/safety-2/high-voltage-switching-system/
 - https://www.tek.com/en/products/keithley/source-measure-units/2400-standard-series-sourcemeter
