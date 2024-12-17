@@ -37,7 +37,7 @@
 - [ ] 13th Classes start 
 
 # Februrary
-
+- [ ] Aishik Ghosh visit (Feb 5th)
 
 # March 
 - [ ] 3rd Spring Break 

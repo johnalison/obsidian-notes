@@ -73,6 +73,7 @@ Fix ratio points with no data.
 - 10,002.26 USDC USDC to BTC at 100,000 USDC/BTC... Filled !
 - 10,061.92 USDC to ETH at 3,644.66 USDC/ETH... 
 - [>>] Update fancy crypto ledger
+
 # KettleBells 
 - Weak b/c of elbow and wrist
 

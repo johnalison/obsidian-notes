@@ -21,7 +21,7 @@
 **W:** 4
 **DW:** 2
 **OT:** 0
-No ex**
+**No ex**
 
 ---
 # The ONE thing: 
@@ -54,7 +54,7 @@ Kids sick: working from home in morning
 - Tracking number: 1738646571
 -  [https://cmsr-shipment.web.cern.ch/shipping_info/529](https://cmsr-shipment.web.cern.ch/shipping_info/529)
 
-To Doctors... Shots for T.
+To Doctors... Shots for T
 
 M to school.
 

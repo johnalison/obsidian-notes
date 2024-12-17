@@ -15,11 +15,11 @@
 | 13 F | Birthday! / kids sick / Drs / sent ANv3/ HEP Party ! / **Finances 2.5** / Cake | 4/2/0 |
 | 14 S | Hex stakes / Phone calls / **Gym/SR** / Reading                                |       |
 | 15 S | Reading / Quarterly Review / Valerie and mom / H to Hoops / Reading            |       |
-| 16 M | Fast 1                                                                         |       |
-| 17 T |                                                                                |       |
-| 18 W | (MAC Meeting)                                                                  |       |
-| 19 H | (Osher Lunch)                                                                  |       |
-| 20 F |                                                                                |       |
+| 16 M | VARs / progress report / **Hoops** / [[Run-3 4b skims]] / CMU Party !          | 5/3/3 |
+| 17 T | (Fast 1)                                                                       |       |
+| 18 W | (Fast 2) (MAC Meeting)                                                         |       |
+| 19 H | (Fast 3) (Osher Lunch)                                                         |       |
+| 20 F | (Fast 4) (No Cyert)                                                            |       |
 | 21 S |                                                                                |       |
 | 22 S |                                                                                |       |
 | 23 M |                                                                                |       |
