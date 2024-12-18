@@ -68,4 +68,5 @@ Brainstorm [[Diane Ternshek Letter]]
 - Good runs ! Played well. Good wins
 - 10' at Tmax = ???
 
-
+ETH order filled! 
+- 2.72799223 for 10,002.25978596
