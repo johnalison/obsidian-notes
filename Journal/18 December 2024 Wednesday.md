@@ -55,4 +55,4 @@ Fast Day 2
 - Adding synthethic dataset files to `datasets_HH4b_Run3_fourTag_v3`
 - Processing new synthetic data
 	- `time python runner.py -o synthetic_data_Run3_v3_seedXXX.coffea -d synthetic_data data -p analysis/processors/processor_HH4b.py -y 2022_preEE 2022_EE 2023_preBPix 2023_BPix  -op hists -c analysis/metadata/HH4b_run_fastTopReco.yml -m metadata/datasets_HH4b_Run3_fourTag_v3.yml
-`
+ **21m54.294s**`

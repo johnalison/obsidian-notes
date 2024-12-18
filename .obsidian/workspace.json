@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/December 2024.md",
+                "file": "Journal/18 December 2024 Wednesday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for December 2024"
+              "title": "Backlinks for 18 December 2024 Wednesday"
             }
           },
           {
@@ -169,12 +169,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/December 2024.md",
+                "file": "Journal/18 December 2024 Wednesday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from December 2024"
+              "title": "Outgoing links from 18 December 2024 Wednesday"
             }
           },
           {
@@ -196,10 +196,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/December 2024.md"
+                "file": "Journal/18 December 2024 Wednesday.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of December 2024"
+              "title": "Outline of 18 December 2024 Wednesday"
             }
           },
           {
@@ -231,11 +231,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "65537951a980bc04",
+  "active": "a349c3899d4e3290",
   "lastOpenFiles": [
+    "Journal/December 2024.md",
     "Journal/18 December 2024 Wednesday.md",
     "Journal/17 December 2024 Tuesday.md",
-    "Journal/December 2024.md",
     "Input/Books/AWK.md",
     "3-resources/computing/AWK-examples.md",
     "Journal/13 January 2025 Monday.md",
