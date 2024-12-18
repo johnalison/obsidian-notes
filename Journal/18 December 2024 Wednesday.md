@@ -1,22 +1,22 @@
 
-|     | setup                   |     |
-| --- | ----------------------- | --- |
-| 9   | setup                   |     |
-|     | [[Run3 Synthetic Data]] |     |
-| 10  | [[Run3 Synthetic Data]] |     |
-|     | [[Run3 Synthetic Data]] |     |
-| 11  | MAC Meeting             |     |
-|     | Hoops                   |     |
-| 12  | Hoops                   |     |
-|     | Hoops                   |     |
-| 1   | Hoops                   |     |
-|     | Annual Reviews          |     |
-| 2   | Annual Reviews          |     |
-|     |                         |     |
-| 3   |                         |     |
-|     |                         |     |
-| 4   |                         |     |
-|     |                         |     |
+|     | setup                   |            |
+| --- | ----------------------- | ---------- |
+| 9   | setup                   |            |
+|     | [[Run3 Synthetic Data]] |            |
+| 10  | [[Run3 Synthetic Data]] |            |
+|     | [[Run3 Synthetic Data]] |            |
+| 11  | MAC Meeting             |            |
+|     | Hoops                   |            |
+| 12  | Hoops                   |            |
+|     | Hoops                   |            |
+| 1   | Hoops                   |            |
+|     | ~~Annual Reviews~~      | MAC slides |
+| 2   | ~~Annual Reviews~~      | MAC slides |
+|     |                         | MAC slides |
+| 3   | Annual Reviews          |            |
+|     | Annual Reviews          |            |
+| 4   | Iterate with Rong Sheng |            |
+|     |                         |            |
 
 **W:**
 **DW:**
@@ -62,7 +62,7 @@ Fast Day 2
 Brainstorm [[Diane Ternshek Letter]]
 
 # [[MAC meeting 18 December 2024]]
-- [ ] Take notes
+- [x] Take notes
 
 # Hoops / Steamroom 
 - Good runs ! Played well. Good wins
