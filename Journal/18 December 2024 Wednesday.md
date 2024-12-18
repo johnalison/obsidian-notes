@@ -35,8 +35,9 @@
 - [x] Return pallet jack
 - [ ] New synthetic data presentations
 - [ ]  Add CL studies to AN
-- [ ] Aishik Ghosh visit (Feb 5th)
+ [>>] Aishik Ghosh visit (Feb 5th)
 - [ ] Read [[Run2 X->HY->4b]]
+- [ ] mixed data c++ vs python
 
 ---
 
@@ -73,3 +74,8 @@ ETH order filled!
 - 2.72799223 for 10,002.25978596
 
 Did graduate research grades
+
+[[Wesley Terrill Annual Review 2024]]
+
+[[Sindhu Murthy Annual Review 2024]]
+
