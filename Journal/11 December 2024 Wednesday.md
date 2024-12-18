@@ -70,7 +70,7 @@ Fix ratio points with no data.
 - Sent to coinbase: https://etherscan.io/tx/0x35d6c83b0d4f3f7098e0e439df3ce00bd894483c75d20ce64e4d52e3a79d1545
 
 # Market orders on coinbase:
-- 10,002.26 USDC USDC to BTC at 100,000 USDC/BTC... Filled !
+- 10,002.26 USDC to BTC at 100,000 USDC/BTC... Filled !
 - 10,061.92 USDC to ETH at 3,644.66 USDC/ETH... 
 - [>>] Update fancy crypto ledger
 
@@ -83,5 +83,5 @@ Reading ... [[Case Against Education]]
 
 # Putt Shack
 - Drove Clay... me, Clay, Dustin (Novas dad), Tony
-- Won mini-golf ... chat ... back home
+- I won mini-golf ! ... chat ... back home
 

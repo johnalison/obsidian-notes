@@ -16,7 +16,7 @@
 | 14 S | Hex stakes / Phone calls / **Gym/SR** / Reading                                |       |
 | 15 S | Reading / Quarterly Review / Valerie and mom / H to Hoops / Reading            |       |
 | 16 M | VARs / progress report / **Hoops** / [[Run-3 4b skims]] / CMU Party !          | 5/3/3 |
-| 17 T | (Fast 1)                                                                       |       |
+| 17 T | (Fast 1) Condor problems / Chiller ! /  Bought MRST / BCR / Huemer book!       | 4/0/0 |
 | 18 W | (Fast 2) (MAC Meeting)                                                         |       |
 | 19 H | (Fast 3) (Osher Lunch)                                                         |       |
 | 20 F | (Fast 4) (No Cyert)                                                            |       |
@@ -28,6 +28,6 @@
 | 26 H |                                                                                |       |
 | 27 F |                                                                                |       |
 | 28 S |                                                                                |       |
-| 29 S |                                                                                |       |
+| 29 S | (Olivitos)                                                                     |       |
 | 30 M |                                                                                |       |
 | 31 T |                                                                                |       |

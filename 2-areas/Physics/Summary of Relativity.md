@@ -18,7 +18,7 @@ The "theoretical minimum" of relativity
 ## Links: 
 
 [[Physics]]
-[[ModernEssentials]]
+[[Modern Essentials]]
 [[Relativity]]
 
 

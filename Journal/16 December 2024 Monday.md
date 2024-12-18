@@ -70,6 +70,8 @@ Helped Leonard print x-mass message
 # Teaching in: 
 - DH 1112 9-9:50 MWF
 - SH 238 10-10:50 H
+[>>] ([[Modern Essentials]])
+
 
 Aishik Ghosh visiting for a stats + data science job
 - Feb 3-4, will extend stay for HEP talk 
@@ -79,19 +81,7 @@ Chat Sufie re:Crypto and new administration
 Chat Rachel re:New grad curriculum
 
 # [[Run-3 4b skims]]
-- No missing files reported
-- Checking event counts
-	- eg: `python skimmer/metadata/check_event_counts.py -y skimmer/metadata/picoaod_datasets_data_2022_preEEB.yml`
-	* All counts good! 
-* Copied output yml files to ` metadata/archive/skims_Run3_2024_v3/`
-- Merging `python metadata/merge_yaml_datasets.py -m metadata/datasets_HH4b_Run3.yml -o metadata/datasets_HH4b_Run3_merged_v3.yml -f metadata/archive/skims_Run3_2024_v3/picoaod_datasets_data_202*`
-- Moved `datasets_HH4b_Run3_merged_v3.yml` to `datasets_HH4b_Run3.yml`
-- Now to four-b skims...
-- Command in `skimmer-fourTag-job.sh `
-	- `python runner.py -s -p skimmer/processor/skimmer_4b.py -c skimmer/metadata/HH4b_fourTag.yml -y 2022_EE 2022_preEE 2023_BPix 2023_preBPix -d data -op skimmer/metadata/ -o picoaod_datasets_fourTag_data_Run3_v3.yml -m metadata/datasets_HH4b_Run3.yml --condor`
-- submitted on **cmslpc330**
-- now running on **cmslpc341**
-
+- Check daily's above
 
 Claimed: $2,836.83 from liberty mutual for tree damages
 

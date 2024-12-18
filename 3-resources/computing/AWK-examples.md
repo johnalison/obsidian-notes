@@ -18,7 +18,7 @@ awk ‘/start_pattern/,/stop_pattern/’ file.txt
 eg: 
 cat log_runAddFvTToScratchOneOffset|awk '/Aver/,/.pkl/'
 
-
+`awk '/ files:/,/lumis_processed/' skimmer/metadata/picoaod_datasets_declustered_data_Run3_v3_seed0.yml`
 # replace
 
 ls |awk '/Extended/ {printf("mv %s ",$0); gsub("Extended","",$0); print $0}'

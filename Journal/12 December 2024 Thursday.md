@@ -82,7 +82,7 @@ Chat with AE re:pts
 
 # Creating Coinbase Account
 - johnalison@cmu.edu
-- Cannot do it !!!! 
+- Cannot do it !!!! ... bailing
 
 # Submitting Jonas Letters
 - Maryland / UW / UCSB / CU / UCSD / BU / USC

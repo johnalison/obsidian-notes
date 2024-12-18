@@ -34,7 +34,7 @@
 - [x] Update fancy crypto ledger
 - [x] Reskim Run3
 ([[4b code base]]) [<<] Debug variable binning function
- [>> ] Modules Monthly report
+ [>>] Modules Monthly report
  [>>] Summary of Wes Annual Review
  [>>] Summary of Sindhu Annual Review
  [>>] Read [[Run2 X->HY->4b]]
@@ -45,7 +45,7 @@
 
 Up at 7 
 
-# Birthday !
+# Birthday ! 42!
 
 Kids sick: working from home in morning
 
@@ -70,7 +70,7 @@ Setup
 
 [[CMU Shipping Address]]
 
-# [[Run3 Synthetic Data]]
+ [[Run3 Synthetic Data]]
  [>>] Make presentations
 
 

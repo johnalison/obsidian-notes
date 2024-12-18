@@ -142,6 +142,20 @@ allowlist_sites:
 	- Also had to do set `rucio_regex_sites: 'T[123]_(US|CH|DE|UK)'`
 
 
+[[16 December 2024 Monday]]
+- No missing files reported
+- Checking event counts
+	- eg: `python skimmer/metadata/check_event_counts.py -y skimmer/metadata/picoaod_datasets_data_2022_preEEB.yml`
+	* All counts good! 
+* Copied output yml files to ` metadata/archive/skims_Run3_2024_v3/`
+- Merging `python metadata/merge_yaml_datasets.py -m metadata/datasets_HH4b_Run3.yml -o metadata/datasets_HH4b_Run3_merged_v3.yml -f metadata/archive/skims_Run3_2024_v3/picoaod_datasets_data_202*`
+- Moved `datasets_HH4b_Run3_merged_v3.yml` to `datasets_HH4b_Run3.yml`
+- Now to four-b skims...
+- Command in `skimmer-fourTag-job.sh `
+	- `python runner.py -s -p skimmer/processor/skimmer_4b.py -c skimmer/metadata/HH4b_fourTag.yml -y 2022_EE 2022_preEE 2023_BPix 2023_preBPix -d data -op skimmer/metadata/ -o picoaod_datasets_fourTag_data_Run3_v3.yml -m metadata/datasets_HH4b_Run3.yml --condor`
+- submitted on **cmslpc330**
+- now running on **cmslpc341**
+
 # v3 Monday Dec 16th
 - 
 
