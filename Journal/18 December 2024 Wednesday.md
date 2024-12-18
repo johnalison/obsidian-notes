@@ -63,6 +63,7 @@ Brainstorm [[Diane Ternshek Letter]]
 
 # [[MAC meeting 18 December 2024]]
 - [x] Take notes
+- [ ] Iterate with Rong Shong
 
 # Hoops / Steamroom 
 - Good runs ! Played well. Good wins
@@ -70,3 +71,5 @@ Brainstorm [[Diane Ternshek Letter]]
 
 ETH order filled! 
 - 2.72799223 for 10,002.25978596
+
+Did graduate research grades
