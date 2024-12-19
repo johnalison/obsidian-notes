@@ -62,8 +62,13 @@ Fast Day 3
 	- Test job fails
 	- works with `--dask` !
 - Redoing the synthetic data sets v4 with 30 GeV b-jet filter
-- 
-
+- `--dask` sets up a local dask cluster and only has access to interactive node cpus
+-  from AE:  
+	- known problem: [https://github.com/CoffeaTeam/lpcjobqueue/issues/38](https://github.com/CoffeaTeam/lpcjobqueue/issues/38)
+	- fix `pip install htcondor==24.2.1`
+	- Need to do this each time you `source set_shell.sh`
+- Now running with `--condor` ! 
 
 # Stats chat
 - Soheun poster: 1hr, 
+- **DARMA** (Data-driven Algorithm for signal Region-based Model-Agnostic signals)
