@@ -60,3 +60,10 @@ Fast Day 3
 	- update to master
 	- rerun bootstrap
 	- Test job fails
+	- works with `--dask` !
+- Redoing the synthetic data sets v4 with 30 GeV b-jet filter
+- 
+
+
+# Stats chat
+- Soheun poster: 1hr, 
