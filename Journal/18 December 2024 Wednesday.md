@@ -59,6 +59,11 @@ Fast Day 2
 - Finished in ... **21m54.294s**`
 - Normalization better ! 
 - Sent to marina. 
+- `python  jet_clustering/compare_datasets.py  hists/synthetic_data_Run3_v3_seedXXX.coffea   --out analysis/plots_synthetic_datasets_all_00-08-00-Run3_v3 -m analysis/metadata/plotsSyntheticVsData2.yml'
+- Making slides
+	- `make jetclustering_slides_Run3 TEXFILENAME=SyntheticDatasets-00-08-02_Run3_v3 NEW_DIR=analysis\\/plots_synthetic_datasets_all_00-08-02-Run3_v3`
+- [ ] new clustering templates
+- 
 
 Brainstorm [[Diane Ternshek Letter]]
 
