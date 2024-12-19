@@ -1,22 +1,22 @@
 
-|     | setup       |     |
-| --- | ----------- | --- |
-| 9   | FB2C        |     |
-|     | Rong Shong  |     |
-| 10  |             |     |
-|     |             |     |
-| 11  | Stats Chat  |     |
-|     | Stats Chat  |     |
-| 12  |             |     |
-|     |             |     |
-| 1   | Osher Lunch |     |
-|     | Osher Lunch |     |
-| 2   | Osher Lunch |     |
-|     | Berman      |     |
-| 3   | Gym         |     |
-|     | Gym         |     |
-| 4   | Gym         |     |
-|     |             |     |
+|     | setup                   |     |
+| --- | ----------------------- | --- |
+| 9   | FB2C                    |     |
+|     | Rong Shong              |     |
+| 10  | [[Run3 Synthetic Data]] |     |
+|     |                         |     |
+| 11  | Stats Chat              |     |
+|     | Stats Chat              |     |
+| 12  |                         |     |
+|     |                         |     |
+| 1   | Osher Lunch             |     |
+|     | Osher Lunch             |     |
+| 2   | Osher Lunch             |     |
+|     | Berman                  |     |
+| 3   | Gym                     |     |
+|     | Gym                     |     |
+| 4   | Gym                     |     |
+|     |                         |     |
 
 **W:**
 **DW:**
@@ -30,7 +30,7 @@
 ---
 # To Do
 
-- [ ]  Write up Annual Reviews
+- [x]  Write up Annual Reviews
 - [ ] Condor Problem
 - [ ]  Add CL studies to AN
 - [ ] Read [[Run2 X->HY->4b]]
@@ -53,3 +53,10 @@ Fast Day 3
 [[Wesley Terrill Annual Review 2024]]
 
 - [ ] Ping Lipika to update the BCR
+
+# [[Run3 Synthetic Data]]
+- changed the b-fail flat to 30 Gev
+- Still have condor errors
+	- update to master
+	- rerun bootstrap
+	- Test job fails
