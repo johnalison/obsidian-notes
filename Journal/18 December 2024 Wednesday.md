@@ -1,27 +1,27 @@
 
-|     | setup                   |            |
-| --- | ----------------------- | ---------- |
-| 9   | setup                   |            |
-|     | [[Run3 Synthetic Data]] |            |
-| 10  | [[Run3 Synthetic Data]] |            |
-|     | [[Run3 Synthetic Data]] |            |
-| 11  | MAC Meeting             |            |
-|     | Hoops                   |            |
-| 12  | Hoops                   |            |
-|     | Hoops                   |            |
-| 1   | Hoops                   |            |
-|     | ~~Annual Reviews~~      | MAC slides |
-| 2   | ~~Annual Reviews~~      | MAC slides |
-|     |                         | MAC slides |
-| 3   | Annual Reviews          |            |
-|     | Annual Reviews          |            |
-| 4   | Iterate with Rong Sheng |            |
-|     |                         |            |
+|     | setup                       |            |
+| --- | --------------------------- | ---------- |
+| 9   | setup                       |            |
+|     | [[Run3 Synthetic Data]]     |            |
+| 10  | [[Run3 Synthetic Data]]     |            |
+|     | [[Run3 Synthetic Data]]     |            |
+| 11  | MAC Meeting                 |            |
+|     | Hoops                       |            |
+| 12  | Hoops                       |            |
+|     | Hoops                       |            |
+| 1   | Hoops                       |            |
+|     | ~~Annual Reviews~~          | MAC slides |
+| 2   | ~~Annual Reviews~~          | MAC slides |
+|     |                             | MAC slides |
+| 3   | Annual Reviews              |            |
+|     | Annual Reviews              |            |
+| 4   | ~~Iterate with Rong Sheng~~ |            |
+|     | Home with kids              |            |
 
-**W:**
-**DW:**
-**OT:**
-**ex** or **No ex**
+**W:** 6
+**DW:** 2
+**OT:** 1
+**ex** 
 
 ---
 # The ONE thing: 
@@ -30,14 +30,14 @@
 ---
 # To Do
 
-- [ ] Write up Annual Reviews
-- [ ] Condor Problem
+ [>>] Write up Annual Reviews
+ [>>] Condor Problem
 - [x] Return pallet jack
-- [ ] New synthetic data presentations
-- [ ]  Add CL studies to AN
+- [x] New synthetic data presentations
+ [>>]  Add CL studies to AN
  [>>] Aishik Ghosh visit (Feb 5th)
-- [ ] Read [[Run2 X->HY->4b]]
-- [ ] mixed data c++ vs python
+ [>>] Read [[Run2 X->HY->4b]]
+ [>>] mixed data c++ vs python
 
 ---
 
@@ -62,14 +62,14 @@ Fast Day 2
 - `python  jet_clustering/compare_datasets.py  hists/synthetic_data_Run3_v3_seedXXX.coffea   --out analysis/plots_synthetic_datasets_all_00-08-00-Run3_v3 -m analysis/metadata/plotsSyntheticVsData2.yml'
 - Making slides
 	- `make jetclustering_slides_Run3 TEXFILENAME=SyntheticDatasets-00-08-02_Run3_v3 NEW_DIR=analysis\\/plots_synthetic_datasets_all_00-08-02-Run3_v3`
-- [ ] new clustering templates
-- 
+- [>>] new clustering templates
+
 
 Brainstorm [[Diane Ternshek Letter]]
 
 # [[MAC meeting 18 December 2024]]
 - [x] Take notes
-- [ ] Iterate with Rong Shong
+ [>>] Iterate with Rong Shong
 
 # Hoops / Steamroom 
 - Good runs ! Played well. Good wins
@@ -84,3 +84,6 @@ Did graduate research grades
 
 [[Sindhu Murthy Annual Review 2024]]
 
+Home with M & T 
+
+Some [[The Problem of Political Authority]]

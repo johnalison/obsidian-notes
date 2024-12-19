@@ -116,6 +116,14 @@ Feedback from Marina:
 - Think the problem is with the tagcode
 - If tagCode is buggy, the plots can be wrong, but the cutflow OK
 
+[[17 December 2024 Tuesday]]
+- on **cmslpc327**
+- Making v3 synthetic datasets
+- `source  .ci-workflows/synthetic-dataset-make-dataset-all.sh`
+	- `time python runner.py -s -p skimmer/processor/make_declustered_data_4b.py -c skimmer/metadata/declustering_noTT_subtraction_seed_${new_seed}.yml -y 2022_EE 2022_preEE 2023_BPix 2023_preBPix -d data -op skimmer/metadata/ -o picoaod_datasets_declustered_data_Run3_v3_seed${new_seed}.yml -m metadata/datasets_HH4b_Run3_fourTag_v3.yml`
+- condor fails... doing locallly ... taking a looong time... 
+
+
 # Follow-ups
 
 

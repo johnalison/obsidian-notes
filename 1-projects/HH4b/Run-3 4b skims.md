@@ -156,6 +156,14 @@ allowlist_sites:
 - submitted on **cmslpc330**
 - now running on **cmslpc341**
 
+[[17 December 2024 Tuesday]]
+- on **cmslpc318**
+- Trying 4b skims locally
+	- `python runner.py -s -p skimmer/processor/skimmer_4b.py -c skimmer/metadata/HH4b_fourTag.yml -y 2022_EE 2022_preEE 2023_BPix 2023_preBPix -d data -op skimmer/metadata/ -o picoaod_datasets_fourTag_data_Run3_v3.yml -m metadata/datasets_HH4b_Run3.yml`
+* ran in 1508 s = 25min
+- Merged fourTag skim datasets 
+	- `python metadata/merge_yaml_datasets.py -m metadata/datasets_HH4b_Run3.yml -o metadata/datasets_HH4b_Run3_fourTag_v3.yml -f skimmer/metadata/picoaod_datasets_fourTag_data_Run3_v3.yml `
+
 # v3 Monday Dec 16th
 - 
 

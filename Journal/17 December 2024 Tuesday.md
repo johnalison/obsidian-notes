@@ -50,13 +50,7 @@ Up at 7
 Starting the Fast!
 
 # [[Run-3 4b skims]]
-- on **cmslpc318**
-- Trying 4b skims locally
-	- `python runner.py -s -p skimmer/processor/skimmer_4b.py -c skimmer/metadata/HH4b_fourTag.yml -y 2022_EE 2022_preEE 2023_BPix 2023_preBPix -d data -op skimmer/metadata/ -o picoaod_datasets_fourTag_data_Run3_v3.yml -m metadata/datasets_HH4b_Run3.yml`
-* ran in 1508 s = 25min
-- Merged fourTag skim datasets 
-	- `python metadata/merge_yaml_datasets.py -m metadata/datasets_HH4b_Run3.yml -o metadata/datasets_HH4b_Run3_fourTag_v3.yml -f skimmer/metadata/picoaod_datasets_fourTag_data_Run3_v3.yml `
-
+- see Daily's above
 
 Wes update over email
 
@@ -68,12 +62,7 @@ To campus
 
 
 # [[Run3 Synthetic Data]]
-- on **cmslpc327**
-- Making v3 synthetic datasets
-- `source  .ci-workflows/synthetic-dataset-make-dataset-all.sh`
-	- `time python runner.py -s -p skimmer/processor/make_declustered_data_4b.py -c skimmer/metadata/declustering_noTT_subtraction_seed_${new_seed}.yml -y 2022_EE 2022_preEE 2023_BPix 2023_preBPix -d data -op skimmer/metadata/ -o picoaod_datasets_declustered_data_Run3_v3_seed${new_seed}.yml -m metadata/datasets_HH4b_Run3_fourTag_v3.yml`
-- condor fails... doing locallly ... taking a looong time... 
-- 
+- see daily's above
 
 
 # Chiller Delivered ! 
@@ -95,7 +84,7 @@ Home
 - https://www.tek.com/en/products/keithley/source-measure-units/2400-standard-series-sourcemeter
 - [x] Ping Rong Shoang about mimimum requirements
 - [x] Ping Joe and Nural about HV 2410
-
+[>>] ([[HGC Transfer Tape BCR]])
 
 Mio now has a grade of 110 on Article 1! 
 - Sent mail to Brendan 
@@ -105,4 +94,4 @@ Mio now has a grade of 110 on Article 1!
 
 
 Some [[Case Against Education]]
-Start [[Knowledge, Reality, and Value]]
+Start [[Knowledge, Reality, and Value]]... seems great! another new favorite author !!!!
