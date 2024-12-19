@@ -68,7 +68,7 @@ Fast Day 3
 	- fix `pip install htcondor==24.2.1`
 	- Need to do this each time you `source set_shell.sh`
 - Now running with `--condor` ! 
-- Failed ... retrying
+- Failed ... retrying... same error.... removed output directory and trying again
 
 # Stats chat
 - Soheun poster: 1hr, 
@@ -80,3 +80,14 @@ Fast Day 3
 # Chat w/Chuyuan 
 - Will put together slides/comitte for annual review
 - Target September thesis
+
+More [[Run3 Synthetic Data]]
+
+# Osher Lunch
+ - good convos
+
+# Chat with Berman
+ - [ ] Ping sebastian.wuchterl
+ - Think Swiss
+
+
