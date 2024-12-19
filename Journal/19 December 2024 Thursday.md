@@ -70,10 +70,11 @@ Fast Day 3
 - Now running with `--condor` ! 
 - Failed ... retrying... same error.... removed output directory and trying again
 - Now works ! Runs in **4586.94751906395s** = 76min
-- Analyzing "v4"
+- Analyzing "v4"... running on **cmslpc345**
+
 # Stats chat
 - Soheun poster: 1hr, 
-- **DARMA** (Data-driven Algorithm for signal Region-based Model-Agnostic signals) ? 
+- **DARMA** (Data-driven Algorithm for signal Region-based Model-Agnostic signals) ? ??
 - Should we varry the kernel during the ensembling ?
 	- Complicates interpretations
 - Use CLUE to show that smearing works 
@@ -94,3 +95,7 @@ More [[Run3 Synthetic Data]]
 # Gym / Steamroom
 - core / bench / row / deadlift
 - 10' at Tmax = 124
+
+Met Steph at Cyert
+
+Steph to 
