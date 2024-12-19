@@ -31,8 +31,8 @@
 # To Do
 
 - [x]  Write up Annual Reviews
-- [ ] Condor Problem
-- [ ]  Add CL studies to AN
+- [x] Condor Problem
+- [ ] Add CL studies to AN
 - [ ] Read [[Run2 X->HY->4b]]
 - [ ] mixed data c++ vs python
 - [x]  Iterate with Rong Shong
