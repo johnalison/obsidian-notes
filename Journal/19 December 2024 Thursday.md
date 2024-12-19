@@ -68,6 +68,7 @@ Fast Day 3
 	- fix `pip install htcondor==24.2.1`
 	- Need to do this each time you `source set_shell.sh`
 - Now running with `--condor` ! 
+- Failed ... retrying
 
 # Stats chat
 - Soheun poster: 1hr, 
