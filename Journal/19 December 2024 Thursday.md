@@ -69,7 +69,8 @@ Fast Day 3
 	- Need to do this each time you `source set_shell.sh`
 - Now running with `--condor` ! 
 - Failed ... retrying... same error.... removed output directory and trying again
-
+- Now works ! Runs in **4586.94751906395s** = 76min
+- Analyzing "v4"
 # Stats chat
 - Soheun poster: 1hr, 
 - **DARMA** (Data-driven Algorithm for signal Region-based Model-Agnostic signals) ? 
@@ -90,4 +91,6 @@ More [[Run3 Synthetic Data]]
  - [ ] Ping sebastian.wuchterl
  - Think Swiss
 
-
+# Gym / Steamroom
+- core / bench / row / deadlift
+- 10' at Tmax = 124
