@@ -71,4 +71,11 @@ Fast Day 3
 
 # Stats chat
 - Soheun poster: 1hr, 
-- **DARMA** (Data-driven Algorithm for signal Region-based Model-Agnostic signals)
+- **DARMA** (Data-driven Algorithm for signal Region-based Model-Agnostic signals) ? 
+- Should we varry the kernel during the ensembling ?
+	- Complicates interpretations
+- Use CLUE to show that smearing works 
+
+# Chat w/Chuyuan 
+- Will put together slides/comitte for annual review
+- Target September thesis
