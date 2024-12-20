@@ -89,7 +89,7 @@ More [[Run3 Synthetic Data]]
  - good convos
 
 # Chat with Berman
- - [ ] Ping sebastian.wuchterl
+ - [x] Ping sebastian.wuchterl
  - Think Swiss
 
 # Gym / Steamroom
