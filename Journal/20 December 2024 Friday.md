@@ -1,0 +1,13 @@
+
+
+---
+
+# Log
+
+- Up at 7:30 
+
+- Home with M&T
+
+- Broke fast !!
+
+- [ ] Paulini Letter January 27

@@ -1,27 +1,27 @@
 
-|     | setup                   |     |
-| --- | ----------------------- | --- |
-| 9   | FB2C                    |     |
-|     | Rong Shong              |     |
-| 10  | [[Run3 Synthetic Data]] |     |
-|     |                         |     |
-| 11  | Stats Chat              |     |
-|     | Stats Chat              |     |
-| 12  |                         |     |
-|     |                         |     |
-| 1   | Osher Lunch             |     |
-|     | Osher Lunch             |     |
-| 2   | Osher Lunch             |     |
-|     | Berman                  |     |
-| 3   | Gym                     |     |
-|     | Gym                     |     |
-| 4   | Gym                     |     |
-|     |                         |     |
+|     | setup                             |     |
+| --- | --------------------------------- | --- |
+| 9   | FB2C                              |     |
+|     | Rong Shong                        |     |
+| 10  | [[Run3 Synthetic Data]]           |     |
+|     | [[Run3 Synthetic Data]]           |     |
+| 11  | Stats Chat                        |     |
+|     | Stats Chat                        |     |
+| 12  | Chuyuan / [[Run3 Synthetic Data]] |     |
+|     | [[Run3 Synthetic Data]]           |     |
+| 1   | Osher Lunch                       |     |
+|     | Osher Lunch                       |     |
+| 2   | Osher Lunch                       |     |
+|     | Berman                            |     |
+| 3   | Gym                               |     |
+|     | Gym                               |     |
+| 4   | Gym                               |     |
+|     | [[Run3 Synthetic Data]]           |     |
 
-**W:**
-**DW:**
-**OT:**
-**ex** or **No ex**
+**W:** 6 
+**DW:** 3
+**OT:** 2
+**ex** ++
 
 ---
 # The ONE thing: 
@@ -37,7 +37,7 @@
 - [ ] mixed data c++ vs python
 - [x]  Iterate with Rong Shong
 - [ ] Synthetic data... 
-	- [ ] debug threshold 
+	- [x] debug threshold 
 	- [ ] new splitting templates
 
 ---
@@ -98,4 +98,12 @@ More [[Run3 Synthetic Data]]
 
 Met Steph at Cyert
 
-Steph to 
+Steph to Dinner
+
+Daddy Day Care 
+
+Some [[Case Against Education]]
+
+# Falk Hoops !
+- Good runs... good wins... pretty high level of play... lot of tall people
+- Beers afterwards at Hemmingways
