@@ -17,3 +17,9 @@
 Finished [[Case Against Education]]
 - Listening to the EconTalk podcasts about it
 
+
+
+
+
+
+ 
