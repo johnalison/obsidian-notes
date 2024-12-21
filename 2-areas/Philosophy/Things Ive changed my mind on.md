@@ -1,5 +1,5 @@
 *  benefits of agriculture revolution
-   - Worth it to fund AMS 
+- Worth it to fund AMS 
    - Lying 
    - Meditation
    - Gun control 
@@ -13,7 +13,8 @@
    - cryonics
    - Never talk to the cops
    - Peer review
- - Feynman's Legacy 
+  - Feynman's Legacy 
+  - Social benefit of education (mostly signaling)
 
 
 ## Links: 

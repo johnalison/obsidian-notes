@@ -1,10 +1,14 @@
+# 2024
+
+- [[Case Against Education]] (Bryan Caplan)
+
 - [[Mindful learning]] (Ellen Langer)
 
 - [[Progressive Myths]] (Micheal Huemer)
 
 - [[OnGrandStrategy]] (John Lewis Gaddis)
 
-* [[Nexus]] (Yuval Noah Harari)
+- [[Nexus]] (Yuval Noah Harari)
 
 - [[Open Borders]] (Bryan Caplan)
 
