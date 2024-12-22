@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/Sindhu Murthy Annual Review 2024.md",
+                "file": "Journal/21 December 2024 Saturday.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sindhu Murthy Annual Review 2024"
+              "title": "21 December 2024 Saturday"
             }
           },
           {
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/Sindhu Murthy Annual Review 2024.md",
+                "file": "Journal/21 December 2024 Saturday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Sindhu Murthy Annual Review 2024"
+              "title": "Backlinks for 21 December 2024 Saturday"
             }
           },
           {
@@ -127,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/Sindhu Murthy Annual Review 2024.md",
+                "file": "Journal/21 December 2024 Saturday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Sindhu Murthy Annual Review 2024"
+              "title": "Outgoing links from 21 December 2024 Saturday"
             }
           },
           {
@@ -154,10 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/Sindhu Murthy Annual Review 2024.md"
+                "file": "Journal/21 December 2024 Saturday.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Sindhu Murthy Annual Review 2024"
+              "title": "Outline of 21 December 2024 Saturday"
             }
           },
           {
@@ -191,6 +191,7 @@
   },
   "active": "dddb8a5eb1085a6b",
   "lastOpenFiles": [
+    "0-inbox/Sindhu Murthy Annual Review 2024.md",
     "0-inbox/Outstanding Questions.md",
     "Output/CAM/Modules Summary December 2024.md",
     "00-Zettelkasten/Libertarianism implies a strong bias against taxpayer support for anything.md",
@@ -216,7 +217,6 @@
     "2-areas/Philosophy/Things Ive changed my mind on.md",
     "Journal/December 2024.md",
     "Journal/20 December 2024 Friday.md",
-    "Journal/13 December 2024 Friday.md",
     "3-resources/crypto",
     "Journal/#Future Log.md#",
     "Journal/#December 2024.md#",
