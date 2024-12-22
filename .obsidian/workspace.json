@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/21 December 2024 Saturday.md",
+                "file": "Journal/22 December 2024 Sunday.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "21 December 2024 Saturday"
+              "title": "22 December 2024 Sunday"
             }
           },
           {
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/21 December 2024 Saturday.md",
+                "file": "Journal/22 December 2024 Sunday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 21 December 2024 Saturday"
+              "title": "Backlinks for 22 December 2024 Sunday"
             }
           },
           {
@@ -127,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/21 December 2024 Saturday.md",
+                "file": "Journal/22 December 2024 Sunday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 21 December 2024 Saturday"
+              "title": "Outgoing links from 22 December 2024 Sunday"
             }
           },
           {
@@ -154,10 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/21 December 2024 Saturday.md"
+                "file": "Journal/22 December 2024 Sunday.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 21 December 2024 Saturday"
+              "title": "Outline of 22 December 2024 Sunday"
             }
           },
           {
@@ -191,6 +191,8 @@
   },
   "active": "dddb8a5eb1085a6b",
   "lastOpenFiles": [
+    "Journal/21 December 2024 Saturday.md",
+    "Journal/22 December 2024 Sunday.md",
     "0-inbox/Sindhu Murthy Annual Review 2024.md",
     "0-inbox/Outstanding Questions.md",
     "Output/CAM/Modules Summary December 2024.md",
@@ -204,7 +206,6 @@
     "1-projects/HGC/Chiller delivery.md",
     "Output/CAM/CAM Variance December 2024.md",
     "0-inbox/Building Fermilab.md",
-    "Journal/21 December 2024 Saturday.md",
     "Journal/19 December 2024 Thursday.md",
     "1-projects/HH4b/Run2 HH4b AN.md",
     "Input/Books/Case Against Education.md",
@@ -216,7 +217,6 @@
     "00-Zettelkasten/Social justice objection to cutting education subsidies.md",
     "2-areas/Philosophy/Things Ive changed my mind on.md",
     "Journal/December 2024.md",
-    "Journal/20 December 2024 Friday.md",
     "3-resources/crypto",
     "Journal/#Future Log.md#",
     "Journal/#December 2024.md#",
