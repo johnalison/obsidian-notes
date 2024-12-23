@@ -82,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:cryp",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -218,8 +218,9 @@
   },
   "active": "dddb8a5eb1085a6b",
   "lastOpenFiles": [
-    "0-inbox/ProgressReport 20 December 2024.md",
+    "Journal/September/11 September 2024 Wednesday.md",
     "Journal/23 December 2024 Monday.md",
+    "0-inbox/ProgressReport 20 December 2024.md",
     "3-resources/crypto/CryptoMoves.md",
     "Journal/11 December 2024 Wednesday.md",
     "Journal/December 2024.md",
@@ -243,7 +244,6 @@
     "0-inbox/Outstanding Questions.md",
     "Output/CAM/Modules Summary December 2024.md",
     "00-Zettelkasten/Libertarianism implies a strong bias against taxpayer support for anything.md",
-    "1-projects/HGC/Lab Techs Fall 2024.md",
     "3-resources/crypto",
     "Journal/#Future Log.md#",
     "Journal/#December 2024.md#",
