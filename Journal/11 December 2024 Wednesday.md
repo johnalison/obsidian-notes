@@ -65,7 +65,7 @@ Fix ratio points with no data.
 # Selling pHex
 - [[CryptoMoves]]
 - [[How to sell pHex]]
-- Traded 750344 pHEX  -> 21000 USDC
+- Traded 750344 pHEX  -> 21000 USDC (**0.028**)
 - Sent 21,000.0 USDC from PulseChain and receive 20,937.0 USDC on Ethereum
 - Sent to coinbase: https://etherscan.io/tx/0x35d6c83b0d4f3f7098e0e439df3ce00bd894483c75d20ce64e4d52e3a79d1545
 

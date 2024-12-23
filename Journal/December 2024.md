@@ -17,7 +17,7 @@
 | 15 S | Reading / Quarterly Review / Valerie and mom / H to Hoops / Reading                   |       |
 | 16 M | VARs / progress report / **Hoops** / [[Run-3 4b skims]] / CMU Party !                 | 5/3/3 |
 | 17 T | (Fast 1) Condor problems / Chiller ! /  Bought MRST / BCR / Huemer book!              | 4/0/0 |
-| 18 W | (Fast 2) (MAC Meeting) New Synthetic data / **Hoops/SR** / ETH filled 10k$            | 6/2/1 |
+| 18 W | (Fast 2) (MAC Meeting) New Synthetic data / **Hoops/SR** / ETH filled $10k            | 6/2/1 |
 | 19 H | (Fast 3) (Osher Lunch) [[Run3 Synthetic Data]]/ **Gym/SR** / solo dad/ **Falk Hoops** | 6/3/2 |
 | 20 F | (Fast 4) (No Cyert) Broke fast / w/kids / Fin [[Case Against Education]] / Reading    | -/-/- |
 | 21 S | Reading / Wrote [[Case Against Education]] / Marshalls                                |       |

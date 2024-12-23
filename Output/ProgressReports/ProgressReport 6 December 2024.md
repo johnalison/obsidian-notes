@@ -7,12 +7,12 @@ Need Improvements in meditation and some more weightlifting/kettle bells.
 # 4b 
 Made a big change in the plotting script backend to use python dictionaries. This should give us the functional equivalent of the ".C" files for root plots. 
 
-AE has been updating plots in the AN. The plan is to cut a new version of the AN in the next couple of days. We will then move on to re-doing the FvT fits with Chuyuans code and finalize the analysis. 
+AE has been updating plots in the AN. The plan is to cut a new version of the AN in the next couple of days. We will then move on to re-doing the FvT fits with Chuyuan's code and finalize the analysis. 
 
 Chuyuan has now debugged the classifier rewrite and is producing a lot of interesting studies. 
 Compare ttbar vs no-ttbar in the FvT fits.  JCM vs no-JCM in the etc. Will update AN with these results.
 
-Sindhu has the runTwoStage closure running and (I think) is begining to understand it. Her next step is to write it up and present it in B2G. Then move to start looking into signal samples.
+Sindhu has the runTwoStage closure running and (I think) is beginning to understand it. Her next step is to write it up and present it in B2G. Then move to start looking into signal samples.
 
 # HGC
 

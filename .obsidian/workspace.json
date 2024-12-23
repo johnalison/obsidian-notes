@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/22 December 2024 Sunday.md",
+                "file": "Journal/23 December 2024 Monday.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "22 December 2024 Sunday"
+              "title": "23 December 2024 Monday"
             }
           },
           {
@@ -27,12 +27,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/December 2024.md",
+                "file": "3-resources/crypto/CryptoMoves.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "December 2024"
+              "title": "CryptoMoves"
+            }
+          },
+          {
+            "id": "a34bb9df8ba6cfdd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Output/ProgressReports/ProgressReport 6 December 2024.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ProgressReport 6 December 2024"
             }
           },
           {
@@ -68,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "awk",
+                "query": "file:cryp",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -101,8 +115,7 @@
               "title": "Files"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -122,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/22 December 2024 Sunday.md",
+                "file": "Journal/23 December 2024 Monday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +145,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 22 December 2024 Sunday"
+              "title": "Backlinks for 23 December 2024 Monday"
             }
           },
           {
@@ -141,12 +154,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/22 December 2024 Sunday.md",
+                "file": "Journal/23 December 2024 Monday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 22 December 2024 Sunday"
+              "title": "Outgoing links from 23 December 2024 Monday"
             }
           },
           {
@@ -168,10 +181,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/22 December 2024 Sunday.md"
+                "file": "Journal/23 December 2024 Monday.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 22 December 2024 Sunday"
+              "title": "Outline of 23 December 2024 Monday"
             }
           },
           {
@@ -205,10 +218,15 @@
   },
   "active": "dddb8a5eb1085a6b",
   "lastOpenFiles": [
+    "0-inbox/ProgressReport 20 December 2024.md",
+    "Journal/23 December 2024 Monday.md",
+    "3-resources/crypto/CryptoMoves.md",
+    "Journal/11 December 2024 Wednesday.md",
     "Journal/December 2024.md",
+    "Output/ProgressReports/ProgressReport 6 December 2024.md",
+    "Journal/6 December 2024 Friday.md",
     "Journal/22 December 2024 Sunday.md",
     "Journal/21 December 2024 Saturday.md",
-    "Journal/23 December 2024 Monday.md",
     "Journal/20 December 2024 Friday.md",
     "Journal/20 January 2025 Monday.md",
     "Journal/19 December 2024 Thursday.md",
@@ -226,11 +244,6 @@
     "Output/CAM/Modules Summary December 2024.md",
     "00-Zettelkasten/Libertarianism implies a strong bias against taxpayer support for anything.md",
     "1-projects/HGC/Lab Techs Fall 2024.md",
-    "0-inbox/High-School Physics Teachers Program.md",
-    "0-inbox/HH at future colliders.md",
-    "0-inbox/HGC Transfer Tape BCR.md",
-    "Output/ProgressReports/DOE progress report 2024.md",
-    "Input/Meetings/CMU HGC Mac Meeting 17 December 2024.md",
     "3-resources/crypto",
     "Journal/#Future Log.md#",
     "Journal/#December 2024.md#",

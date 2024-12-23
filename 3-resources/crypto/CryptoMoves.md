@@ -20,11 +20,11 @@ Selling:
 # pHEX
 
 Buying: 
-- $20k at 0.015
+- $20k at 0.014
 
 Selling:
-- 10% at $0.025
-- 10% at $0.050
+- 10% at $0.028
+- 10% at $0.056
 
 
 ## Follow-ups
