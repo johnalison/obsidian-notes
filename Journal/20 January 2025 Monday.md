@@ -1,3 +1,4 @@
+# ACTION: Paulini Letter
 
 |     |     |     |
 | --- | --- | --- |
@@ -31,7 +32,7 @@
 # To Do
 
 - [ ] Ping: Connor Mosebey <clmosebey@gmail.com> (re: campus visit)
-- [ ] 
+- [ ] Paulini Letter
 - [ ] 
 - [ ] 
 

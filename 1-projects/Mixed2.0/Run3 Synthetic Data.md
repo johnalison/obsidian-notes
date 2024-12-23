@@ -123,6 +123,37 @@ Feedback from Marina:
 	- `time python runner.py -s -p skimmer/processor/make_declustered_data_4b.py -c skimmer/metadata/declustering_noTT_subtraction_seed_${new_seed}.yml -y 2022_EE 2022_preEE 2023_BPix 2023_preBPix -d data -op skimmer/metadata/ -o picoaod_datasets_declustered_data_Run3_v3_seed${new_seed}.yml -m metadata/datasets_HH4b_Run3_fourTag_v3.yml`
 - condor fails... doing locallly ... taking a looong time... 
 
+[[18 December 2024 Wednesday]]
+- Local job finished in **30945.83396744728** = 515m = 8 hrs !
+- Adding synthethic dataset files to `datasets_HH4b_Run3_fourTag_v3`
+- Processing new synthetic data
+	- `time python runner.py -o synthetic_data_Run3_v3_seedXXX.coffea -d synthetic_data data -p analysis/processors/processor_HH4b.py -y 2022_preEE 2022_EE 2023_preBPix 2023_BPix  -op hists -c analysis/metadata/HH4b_run_fastTopReco.yml -m metadata/datasets_HH4b_Run3_fourTag_v3.yml
+- Finished in ... **21m54.294s**`
+- Normalization better ! 
+- Sent to marina. 
+- `python  jet_clustering/compare_datasets.py  hists/synthetic_data_Run3_v3_seedXXX.coffea   --out analysis/plots_synthetic_datasets_all_00-08-00-Run3_v3 -m analysis/metadata/plotsSyntheticVsData2.yml'
+- Making slides
+	- `make jetclustering_slides_Run3 TEXFILENAME=SyntheticDatasets-00-08-02_Run3_v3 NEW_DIR=analysis\\/plots_synthetic_datasets_all_00-08-02-Run3_v3`
+- [>>] new clustering templates
+
+[[19 December 2024 Thursday]]
+- changed the b-fail flat to 30 GeV
+- Still have condor errors
+	- update to master
+	- rerun bootstrap
+	- Test job fails
+	- works with `--dask` !
+- Redoing the synthetic data sets v4 with 30 GeV b-jet filter
+- `--dask` sets up a local dask cluster and only has access to interactive node cpus
+-  from AE:  
+	- known problem: [https://github.com/CoffeaTeam/lpcjobqueue/issues/38](https://github.com/CoffeaTeam/lpcjobqueue/issues/38)
+	- fix `pip install htcondor==24.2.1`
+	- Need to do this each time you `source set_shell.sh`
+- Now running with `--condor` ! 
+- Failed ... retrying... same error.... removed output directory and trying again
+- Now works ! Runs in **4586.94751906395s** = 76min
+- Analyzing "v4"... running on **cmslpc345**
+
 
 # Follow-ups
 

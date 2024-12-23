@@ -27,12 +27,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-projects/HH4b/Run2 HH4b AN.md",
+                "file": "Journal/December 2024.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Run2 HH4b AN"
+              "title": "December 2024"
+            }
+          },
+          {
+            "id": "b2f176be9c48ad39",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Journal/23 December 2024 Monday.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "23 December 2024 Monday"
             }
           }
         ]
@@ -191,8 +205,22 @@
   },
   "active": "dddb8a5eb1085a6b",
   "lastOpenFiles": [
-    "Journal/21 December 2024 Saturday.md",
+    "Journal/December 2024.md",
     "Journal/22 December 2024 Sunday.md",
+    "Journal/21 December 2024 Saturday.md",
+    "Journal/23 December 2024 Monday.md",
+    "Journal/20 December 2024 Friday.md",
+    "Journal/20 January 2025 Monday.md",
+    "Journal/19 December 2024 Thursday.md",
+    "1-projects/Mixed2.0/Run3 Synthetic Data.md",
+    "0-inbox/ToDo.md",
+    "Journal/18 December 2024 Wednesday.md",
+    "Journal/17 December 2024 Tuesday.md",
+    "Journal/16 December 2024 Monday.md",
+    "1-projects/HH4b/Run2 HH4b AN.md",
+    "Journal/15 December 2024 Sunday.md",
+    "Journal/14 December 2024 Saturday.md",
+    "Journal/13 December 2024 Friday.md",
     "0-inbox/Sindhu Murthy Annual Review 2024.md",
     "0-inbox/Outstanding Questions.md",
     "Output/CAM/Modules Summary December 2024.md",
@@ -203,20 +231,6 @@
     "0-inbox/HGC Transfer Tape BCR.md",
     "Output/ProgressReports/DOE progress report 2024.md",
     "Input/Meetings/CMU HGC Mac Meeting 17 December 2024.md",
-    "1-projects/HGC/Chiller delivery.md",
-    "Output/CAM/CAM Variance December 2024.md",
-    "0-inbox/Building Fermilab.md",
-    "Journal/19 December 2024 Thursday.md",
-    "1-projects/HH4b/Run2 HH4b AN.md",
-    "Input/Books/Case Against Education.md",
-    "00-Zettelkasten/Education is mostly signaling.md",
-    "Input/Books/Books.md",
-    "3-resources/computing/AWK-examples.md",
-    "00-Zettelkasten/Educations position in society is robust against technological advances.md",
-    "0-inbox/Social justice objection to having education subsidies.md",
-    "00-Zettelkasten/Social justice objection to cutting education subsidies.md",
-    "2-areas/Philosophy/Things Ive changed my mind on.md",
-    "Journal/December 2024.md",
     "3-resources/crypto",
     "Journal/#Future Log.md#",
     "Journal/#December 2024.md#",

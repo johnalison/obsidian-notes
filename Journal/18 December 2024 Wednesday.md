@@ -52,18 +52,7 @@ School by 8:15
 Fast Day 2
 
 # [[Run3 Synthetic Data]]
-- Local job finished in **30945.83396744728** = 515m = 8 hrs !
-- Adding synthethic dataset files to `datasets_HH4b_Run3_fourTag_v3`
-- Processing new synthetic data
-	- `time python runner.py -o synthetic_data_Run3_v3_seedXXX.coffea -d synthetic_data data -p analysis/processors/processor_HH4b.py -y 2022_preEE 2022_EE 2023_preBPix 2023_BPix  -op hists -c analysis/metadata/HH4b_run_fastTopReco.yml -m metadata/datasets_HH4b_Run3_fourTag_v3.yml
-- Finished in ... **21m54.294s**`
-- Normalization better ! 
-- Sent to marina. 
-- `python  jet_clustering/compare_datasets.py  hists/synthetic_data_Run3_v3_seedXXX.coffea   --out analysis/plots_synthetic_datasets_all_00-08-00-Run3_v3 -m analysis/metadata/plotsSyntheticVsData2.yml'
-- Making slides
-	- `make jetclustering_slides_Run3 TEXFILENAME=SyntheticDatasets-00-08-02_Run3_v3 NEW_DIR=analysis\\/plots_synthetic_datasets_all_00-08-02-Run3_v3`
-- [>>] new clustering templates
-
+- See daily's above
 
 Brainstorm [[Diane Ternshek Letter]]
 

@@ -11,7 +11,7 @@ Some [[The Problem of Political Authority]]
 
 Writing up [[Case Against Education]]
 
-- [ ] Order M's new bed
+ [>>] Order M's new bed
 
 Some [[Dune]]
 Some [[Knowledge, Reality, and Value]]
