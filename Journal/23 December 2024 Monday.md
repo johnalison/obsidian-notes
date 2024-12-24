@@ -32,3 +32,8 @@ Did the [[ProgressReport 20 December 2024]]
 	- 30 Aug: ? 
 	- 22 May: ?
 
+
+Some [[Dune]]
+
+Some [[Knowledge, Reality, and Value]]
+
