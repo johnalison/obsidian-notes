@@ -33,3 +33,6 @@ Collected info for [[High-School Physics Teachers Program]] and sent to katie an
 
 Worked Zettlekasten
 
+Started Wes' thesis... Ch4
+
+Some [[The Problem of Political Authority]]

@@ -2,7 +2,9 @@ Micheal Heumer
 
 Outstanding ! Completely changed my mind about Governments. Basically accept his thesis. 
 
-Thinking about the [[Importance Political Authority]], Heumer shows that our common sense moral intuitions imply that most of what governments do is unethical. "Political authority is incompatible with common sense moral beliefs"
+Thinking about the [[Importance Political Authority]], Heumer shows that our common sense moral intuitions imply that most of what governments do is unethical. 
+- "Political authority is incompatible with common sense moral beliefs"
+- "Equal respect for persons is not compatible with political authority"
 
 
 Its not surprising that we have strong intuition that government actions are moral because
@@ -16,8 +18,16 @@ He then makes an argument anarchism can work.  (Note: anarchism - the idea of a 
 
 [[Hobbes' flawed game-theoretic argument for government]]
 
+[[Problems with Limits on Government Power]]
+
+[[Government's bad incentives]]
 
 [[Governments as monopolies]]
+
+[[Choice in Anarchy vs Democracy]]
+
+
+[[Progress in Philosophy]]
 
 
 "John Rawls is, by far and without question, the most influential political philosopher in the last 100 years"

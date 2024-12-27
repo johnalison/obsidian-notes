@@ -116,6 +116,7 @@ Index:
 
 [[Libertarianism implies a strong bias against taxpayer support for anything]] 
 
+[[Governments as monopolies]]
 # Free Will
 [[Free-Will-Lens-As-Mental-Model]]
 [[How-to-define-good-action-if-no-free-will]]
@@ -139,3 +140,7 @@ Index:
 [[Left-wing political myths currently much more dangerous than corresponding right-wing myths]]
 
 [[Diminishing Returns in Politics]]
+
+[[Problems with Limits on Government Power]]
+[[Government's bad incentives]]
+[[Choice in Anarchy vs Democracy]]
