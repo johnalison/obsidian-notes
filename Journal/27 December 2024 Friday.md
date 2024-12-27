@@ -36,3 +36,7 @@ Worked Zettlekasten
 Started Wes' thesis... Ch4
 
 Some [[The Problem of Political Authority]]
+
+To Library with H
+- Got [[Life and Fate]]
+- Took back (unread) Blind spots
