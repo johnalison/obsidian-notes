@@ -13,4 +13,4 @@ Some [[Dune]]
 
 Some [[Knowledge, Reality, and Value]]
 
-
+Wrote up some [[The Problem of Political Authority]]
