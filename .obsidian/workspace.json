@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/26 December 2024 Thursday.md",
+                "file": "0-inbox/The Problem of Political Authority.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "26 December 2024 Thursday"
+              "title": "The Problem of Political Authority"
             }
           },
           {
@@ -115,7 +115,8 @@
               "title": "Files"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -135,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/26 December 2024 Thursday.md",
+                "file": "0-inbox/The Problem of Political Authority.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +146,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 26 December 2024 Thursday"
+              "title": "Backlinks for The Problem of Political Authority"
             }
           },
           {
@@ -154,12 +155,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/26 December 2024 Thursday.md",
+                "file": "0-inbox/The Problem of Political Authority.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 26 December 2024 Thursday"
+              "title": "Outgoing links from The Problem of Political Authority"
             }
           },
           {
@@ -181,10 +182,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/26 December 2024 Thursday.md"
+                "file": "0-inbox/The Problem of Political Authority.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 26 December 2024 Thursday"
+              "title": "Outline of The Problem of Political Authority"
             }
           },
           {
@@ -218,8 +219,12 @@
   },
   "active": "dddb8a5eb1085a6b",
   "lastOpenFiles": [
-    "Journal/25 December 2024 Wednesday.md",
+    "0-inbox/Importance Political Authority.md",
+    "0-inbox/The Problem of Political Authority.md",
+    "0-inbox/Unethical Government Actions.md",
+    "2-areas/Philosophy/Things Ive changed my mind on.md",
     "Journal/26 December 2024 Thursday.md",
+    "Journal/25 December 2024 Wednesday.md",
     "Journal/24 December 2024 Tuesday.md",
     "Journal/23 December 2024 Monday.md",
     "Journal/September/11 September 2024 Wednesday.md",
@@ -240,10 +245,6 @@
     "Journal/17 December 2024 Tuesday.md",
     "Journal/16 December 2024 Monday.md",
     "1-projects/HH4b/Run2 HH4b AN.md",
-    "Journal/15 December 2024 Sunday.md",
-    "Journal/14 December 2024 Saturday.md",
-    "Journal/13 December 2024 Friday.md",
-    "0-inbox/Sindhu Murthy Annual Review 2024.md",
     "3-resources/crypto",
     "Journal/#Future Log.md#",
     "Journal/#December 2024.md#",

@@ -1,6 +1,6 @@
 *  benefits of agriculture revolution
 - Worth it to fund AMS 
-   - Lying 
+- Lying 
    - Meditation
    - Gun control 
    - Crypto 
@@ -15,6 +15,7 @@
    - Peer review
   - Feynman's Legacy 
   - Social benefit of education (mostly signaling)
+  - The Political Authority of the Government
 
 
 ## Links: 

@@ -11,3 +11,6 @@ Finished [[The Problem of Political Authority]]
 
 Some [[Dune]]
 
+Some [[Knowledge, Reality, and Value]]
+
+
