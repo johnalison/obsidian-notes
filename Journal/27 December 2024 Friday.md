@@ -2,7 +2,7 @@
 ---
 # To Do
 
-- [ ] High-School Physics Teachers Program
+- [x] High-School Physics Teachers Program
 - [ ] Connect notes in Zettlekasten
 - [ ] Quarterly Review
 - [x] Buy Marlo Bed
@@ -12,6 +12,9 @@
 	- [ ] Run2 synthetic data with lower thresholds
 - [ ] Wes's Thesis
 - [ ] [[Sam Hobbeheydar Rec Letter]]
+- [x] Reset FNAL services password
+- [x] Eduroam password
+- [ ] Annual report
 ---
 
 # Log
@@ -21,3 +24,12 @@ Up at 8:30
 To Startbucks to work
 
 Bought Marlo bed
+
+Renewed some pwds:
+- [[ResetFNALServicesPWD]]
+- [[RenewEduRoam]]
+
+Collected info for [[High-School Physics Teachers Program]] and sent to katie and Shybyu
+
+
+
