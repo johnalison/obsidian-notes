@@ -91,6 +91,7 @@ Index:
 [[AI-and-creating-our-own-Gods]]
 [[Computer As Source of Current Historical Revolution]]
 [[AI Most Pressing Issue of our Time]]
+[[Machine Learning is bottom up programing]]
 
 # Productivity 
 [[Most-of-what-we-do-is-unnecessary]]
@@ -101,24 +102,20 @@ Index:
 
 
 # Libertarianism 
+
+[[Libertarianism]]
+
 [[Libertarianism-is-bottom-up]]
 [[Top down societal organization is impossible]]
 
 [[Libertarianism-optimal-under-uncertianty]]
 
-[[Libertarianism]]
 [[Libertarianism-more-effective-in-complicated-societies]]
 
-[[Diminishing Returns in Politics]]
-
-[[Machine Learning is bottom up programing]]
-
 [[Role of Government in Free Market economy]]
-[[Free Markets good empirical track record]]
-
-[[Social justice objection to cutting education subsidies]]
 
 [[Libertarianism implies a strong bias against taxpayer support for anything]] 
+
 # Free Will
 [[Free-Will-Lens-As-Mental-Model]]
 [[How-to-define-good-action-if-no-free-will]]
@@ -140,3 +137,5 @@ Index:
 [[How Political Ideology is Formed]]
 
 [[Left-wing political myths currently much more dangerous than corresponding right-wing myths]]
+
+[[Diminishing Returns in Politics]]

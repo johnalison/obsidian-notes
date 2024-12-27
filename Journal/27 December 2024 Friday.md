@@ -3,7 +3,7 @@
 # To Do
 
 - [x] High-School Physics Teachers Program
-- [ ] Connect notes in Zettlekasten
+- [x] Connect notes in Zettlekasten
 - [ ] Quarterly Review
 - [x] Buy Marlo Bed
 - [ ] Ping Lipika to update the BCR
@@ -31,5 +31,5 @@ Renewed some pwds:
 
 Collected info for [[High-School Physics Teachers Program]] and sent to katie and Shybyu
 
-
+Worked Zettlekasten
 

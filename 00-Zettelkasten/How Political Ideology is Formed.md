@@ -2,7 +2,7 @@ Most of us adopt a political ideology when we are young, based mainly on emotion
 
 
 # Follow-ups
-
+[[Political Myths]]
 
 # Links: 
 

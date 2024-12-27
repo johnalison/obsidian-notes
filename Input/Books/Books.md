@@ -1,5 +1,7 @@
 # 2024
 
+- [[The Problem of Political Authority]] (Micheal Heumer)
+
 - [[Case Against Education]] (Bryan Caplan)
 
 - [[Mindful learning]] (Ellen Langer)

@@ -1,4 +1,4 @@
-Libertarianism is also a sensible strategy if you are not sure you know the correct course of action.  Freedom will foster of a diversify of potential solutions which will be more effective at finding a global (or better local) maximum. These decentralized solutions will also be more robust to [[BlackSwan]]s and unforeseen failure modes.
+Libertarianism is a sensible strategy if you are not sure you know the correct course of action.  Freedom will foster of a diversify of potential solutions which will be more effective at finding a global (or better local) maximum. These decentralized solutions will also be more robust to [[BlackSwan]]s and unforeseen failure modes.
 
 
 ## Follow-ups

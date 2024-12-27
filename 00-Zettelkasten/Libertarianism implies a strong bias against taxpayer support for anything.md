@@ -4,7 +4,7 @@ Therefore libertarianism implies a strong bias against taxpayer support for anyt
 
 
 # Follow-ups
-
+[[Social justice objection to cutting education subsidies]]
 
 # Links: 
 
