@@ -116,7 +116,9 @@ Index:
 [[Role of Government in Free Market economy]]
 [[Free Markets good empirical track record]]
 
+[[Social justice objection to cutting education subsidies]]
 
+[[Libertarianism implies a strong bias against taxpayer support for anything]] 
 # Free Will
 [[Free-Will-Lens-As-Mental-Model]]
 [[How-to-define-good-action-if-no-free-will]]
@@ -124,6 +126,8 @@ Index:
 
 # LifeLong Learning
 [[Having children as education]]
+[[Education is mostly signaling]]
+[[Educations position in society is robust against technological advances]]
 
 
 # Meditation

@@ -1,4 +1,5 @@
 by Michael Huemer
+https://philpapers.org/archive/HUEEIE-2
 
 Notes:
 - I shall argue (i) that your present existence constitutes significant evidence that you will be reincarnated, and (ii) that if the history of the universe is infinite, then you will be reincarnated.
