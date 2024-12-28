@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/The Problem of Political Authority.md",
+                "file": "Journal/27 December 2024 Friday.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Problem of Political Authority"
+              "title": "27 December 2024 Friday"
             }
           },
           {
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/The Problem of Political Authority.md",
+                "file": "Journal/27 December 2024 Friday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for The Problem of Political Authority"
+              "title": "Backlinks for 27 December 2024 Friday"
             }
           },
           {
@@ -140,12 +140,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/The Problem of Political Authority.md",
+                "file": "Journal/27 December 2024 Friday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from The Problem of Political Authority"
+              "title": "Outgoing links from 27 December 2024 Friday"
             }
           },
           {
@@ -167,10 +167,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/The Problem of Political Authority.md"
+                "file": "Journal/27 December 2024 Friday.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of The Problem of Political Authority"
+              "title": "Outline of 27 December 2024 Friday"
             }
           },
           {
@@ -204,8 +204,9 @@
   },
   "active": "6d7210d9892730bb",
   "lastOpenFiles": [
-    "0-inbox/Problems with Limits on Government Power.md",
+    "Journal/28 December 2024 Saturday.md",
     "0-inbox/The Problem of Political Authority.md",
+    "0-inbox/Problems with Limits on Government Power.md",
     "00-Zettelkasten/Intuitions on authority cannot be trusted.md",
     "00-Zettelkasten/Importance Political Authority.md",
     "Journal/27 December 2024 Friday.md",
@@ -229,7 +230,6 @@
     "00-Zettelkasten/Libertarianism implies a strong bias against taxpayer support for anything.md",
     "0-inbox/High-School Physics Teachers Program.md",
     "2-areas/Outreach/Teacher Program 2023 vpython links.md",
-    "3-resources/MAC/RenewEduRoam.md",
     "3-resources/crypto",
     "Journal/#Future Log.md#",
     "Journal/#December 2024.md#",

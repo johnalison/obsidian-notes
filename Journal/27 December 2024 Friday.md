@@ -43,3 +43,7 @@ To Library with H
 
 To Noodle Head
 
+Some [[Dune]]
+
+Watched Documentary on Rene Girard
+
