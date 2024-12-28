@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/27 December 2024 Friday.md",
+                "file": "Journal/28 December 2024 Saturday.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "27 December 2024 Friday"
+              "title": "28 December 2024 Saturday"
             }
           },
           {
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/27 December 2024 Friday.md",
+                "file": "Journal/28 December 2024 Saturday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 27 December 2024 Friday"
+              "title": "Backlinks for 28 December 2024 Saturday"
             }
           },
           {
@@ -140,12 +140,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/27 December 2024 Friday.md",
+                "file": "Journal/28 December 2024 Saturday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 27 December 2024 Friday"
+              "title": "Outgoing links from 28 December 2024 Saturday"
             }
           },
           {
@@ -167,10 +167,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/27 December 2024 Friday.md"
+                "file": "Journal/28 December 2024 Saturday.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 27 December 2024 Friday"
+              "title": "Outline of 28 December 2024 Saturday"
             }
           },
           {
@@ -204,12 +204,12 @@
   },
   "active": "6d7210d9892730bb",
   "lastOpenFiles": [
+    "Journal/27 December 2024 Friday.md",
     "Journal/28 December 2024 Saturday.md",
     "0-inbox/The Problem of Political Authority.md",
     "0-inbox/Problems with Limits on Government Power.md",
     "00-Zettelkasten/Intuitions on authority cannot be trusted.md",
     "00-Zettelkasten/Importance Political Authority.md",
-    "Journal/27 December 2024 Friday.md",
     "2-areas/Philosophy/Progress in Philosophy.md",
     "00-Zettelkasten/Choice in Anarchy vs Democracy.md",
     "00-Zettelkasten/ZettelKasten Index.md",
