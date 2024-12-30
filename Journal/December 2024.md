@@ -21,13 +21,13 @@
 | 19 H | (Fast 3) (Osher Lunch) [[Run3 Synthetic Data]]/ **Gym/SR** / solo dad/ **Falk Hoops** | 6/3/2 |
 | 20 F | (Fast 4) (No Cyert) Broke fast / w/kids / Fin [[Case Against Education]] / Reading    | -/-/- |
 | 21 S | Reading / Wrote [[Case Against Education]] / Marshalls                                |       |
-| 22 S | Reading                                                                               |       |
-| 23 M |                                                                                       |       |
-| 24 T | (x-mas party)                                                                         |       |
-| 25 W |                                                                                       |       |
-| 26 H |                                                                                       |       |
-| 27 F |                                                                                       |       |
-| 28 S |                                                                                       |       |
-| 29 S | (Olivitos)                                                                            |       |
+| 22 S | Reading / [[ProgressReport 20 December 2024]]                                         |       |
+| 23 M | Starbucks to work / Reading / Synthetic data with lower pt cut                        | -/-/- |
+| 24 T | (x-mas party) M&A over / Stephs family / secrete Hitler !                             | -/-/- |
+| 25 W | Presents with kids / reading / To parents for x-mas                                   | -/-/- |
+| 26 H | Peter has cancer needs transplants :( / Reading                                       | -/-/- |
+| 27 F | Starbuck to work / Bought M bed / Wes thesis / Noodle Head / Rene Girard              | -/-/- |
+| 28 S | Reading / Connor and Tony                                                             |       |
+| 29 S | (Olivitos) Reading / Chinese Lunch / Coinbase for Lynn / Reading                      |       |
 | 30 M |                                                                                       |       |
 | 31 T |                                                                                       |       |

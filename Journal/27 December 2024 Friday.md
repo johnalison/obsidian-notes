@@ -4,17 +4,17 @@
 
 - [x] High-School Physics Teachers Program
 - [x] Connect notes in Zettlekasten
-- [ ] Quarterly Review
+ [>>] Quarterly Review
 - [x] Buy Marlo Bed
-- [ ] Ping Lipika to update the BCR
-- [ ] Synthetic data... 
-	- [ ] new splitting templates for Run3 
-	- [ ] Run2 synthetic data with lower thresholds
-- [ ] Wes's Thesis
-- [ ] [[Sam Hobbeheydar Rec Letter]]
+ [>>] Ping Lipika to update the BCR
+ [>>] Synthetic data... 
+	[>>] new splitting templates for Run3 
+	[>>] Run2 synthetic data with lower thresholds
+ [>>] Wes's Thesis
+ [>>]  [[Sam Hobbeheydar Rec Letter]]
 - [x] Reset FNAL services password
 - [x] Eduroam password
-- [ ] Annual report
+ [>>] Annual report
 ---
 
 # Log
