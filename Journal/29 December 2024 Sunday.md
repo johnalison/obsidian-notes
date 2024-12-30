@@ -3,7 +3,7 @@
 
 # Log
 
-- [ ] Coinbase account for lynn
+- [x] Coinbase account for lynn
 
 Up at 9
 
@@ -15,3 +15,5 @@ Some [[Knowledge, Reality, and Value]]
 Made Lynn Crypto Account
  - sent $3k ETH and $2k BTC
 
+Some [[Talent]]
+Some [[Dune]]
