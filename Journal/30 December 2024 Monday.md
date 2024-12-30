@@ -32,3 +32,6 @@ To Campus!
 
 Did [[Sam Hobbeheydar Rec Letter]]
 - uploading PDFs
+
+Reading wes's thesis
+- some missing refernces 
