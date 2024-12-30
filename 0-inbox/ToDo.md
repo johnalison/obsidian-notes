@@ -8,7 +8,7 @@ These should be on Daily's page  !
 	- [x] Read paper draft VqqHbb
 - [ ] CAM Training
 - [ ] Read HGC TDR
-- [ ] Collect and Send Teachers program info
+- [x] Collect and Send Teachers program info
 - [x] CMU Security Course
 - [ ] Synthetic datasets for boosted
 - [ ] Apply for more bridges money
