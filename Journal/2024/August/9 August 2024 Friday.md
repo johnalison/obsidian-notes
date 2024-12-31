@@ -36,7 +36,6 @@
 	- [x] Correct additional jet treatment
 	- [> ] Update slides
 	- [ ] ~~ΔR fix ?
-- [ ] 
 
 
 # Log

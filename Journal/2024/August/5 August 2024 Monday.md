@@ -35,8 +35,6 @@
 - [> ] write up S/sqrt(B) argument
 - [> ] CAM training
 - [x] Aniket re:MPL
-- [ ] 
-
 
 # Log
 

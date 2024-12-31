@@ -57,7 +57,7 @@ Start [[AnalysesOverview.excalidraw]]
 
 Installed slack
 
-Can do plagarism check at https://library.cmu.edu/services/ithenticate
+Can do plagiarism check at https://library.cmu.edu/services/ithenticate
 
 Techspark logon
 https://cmu.fbs.io/Apps/FBS/Default.aspx?f=619

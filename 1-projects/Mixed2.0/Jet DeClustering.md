@@ -222,6 +222,14 @@ Getting the new mixing going
 [[1 August 2024 Thursday]]
 - fix children_jet_flavors to deal with (XX)Y combinations
 - Added unittest
+- simplified ISR definition (anything splitting that doesnt have bs on both sides is ISR)
+- debugging particle order
+- Adding nice unit test to verify (FINDING BUGS!!!!)
+- Cleaning the parentheses form the children jet flavors
+- Now need recursive clean_ISR
+	`['bb', '(bb)(jj)'] -> with ISR cleaning ['bb', 'bb', 'jj']
+- clustering test job failing ! 
+	- Runs in debug... think im running out of memory !!!
 
 [[2 August 2024 Friday]]
 - Made **make_jet_splitting_PDFs.py** robust against changing cuts in the histogram file.
@@ -389,7 +397,7 @@ in file root://cmseos.fnal.gov//store/user/algomez/XX4b/20231115/data2018D/picoA
 - running again ... 
 
 [[19 August 2024 Monday]]
-update presenations with hT and top reco
+update presentations with hT and top reco
 - Adding a fix (?) for jet selection (int to bools) for the hT calculation 
 	- Did indeed fix the hT Calculation
 - Running on **cmslpc333**

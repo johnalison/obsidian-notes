@@ -33,7 +33,6 @@
 	 - [> ] 4b + 2j
 - [> ] write up S/sqrt(B) argument
 - [> ] CAM training
-- [ ] 
 
 
 # Log
@@ -46,11 +45,9 @@ Sorting Journal Folder
 Sorting Meetings Folder
 
 [[Jet DeClustering]]
+- See daily's above
 
 Lots of debugging!  
-- simplified ISR definition (anything splitting that doesnt have bs on both sides is ISR)
-- debugging particle order
-- Adding nice unit test to verify (FINDING BUGS!!!!)
 
 [[CMU HGC Mac Meeting 1 August 2024]]
 
@@ -69,12 +66,7 @@ SURA Meeting with Tony
 
 
 More bug fixes
-- Cleaning the parentheses form the children jet flavors
-- Now need recursive clean_ISR
-	`['bb', '(bb)(jj)'] -> with ISR cleaning ['bb', 'bb', 'jj']
-- clustering test job failing ! 
-	- Runs in debug... think im running out of memory !!!
-
+- see above
 
 Picked up H
 

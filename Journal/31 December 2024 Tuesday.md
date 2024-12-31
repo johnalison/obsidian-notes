@@ -10,7 +10,8 @@
 - [ ] Synthetic data... 
 	- [ ] new splitting templates for Run3 
 	- [ ] Run2 synthetic data with lower thresholds
-
+- [ ] Wes Annual Review
+- [ ] Look into neuroscience ?
 ---
 
 # Log
@@ -28,8 +29,15 @@ Pick up some more MSTR ? in roth ?
 
 # Semi-Annual Review
 - [x] July 
-- [ ] August 
+- [x] August 
 - [ ] September 
 - [ ] October
 - [ ] November
 - [ ] December
+
+Home to put kids down
+
+More reviews
+
+[[Wesley Terrill Annual Review 2024]]
+

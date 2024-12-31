@@ -34,7 +34,6 @@
 	 - [x] 4b + Xj
 - [> ] write up S/sqrt(B) argument
 - [> ] CAM training
-- [ ] 
 
 
 # Log
@@ -61,7 +60,7 @@ Long chat with Alejandro:
 - iterative unwinding  nC + nC' ?
 
 # Hoops
-good runs: 4s / 5s/ 4s / 3s
+- good runs: 4s / 5s/ 4s / 3s
 
 More mixed debugging (see above)
 
@@ -70,7 +69,7 @@ No Mans meeting
 install pdflatex [[Setup M3 Macbook]]
 
 # Starting to make pdflatex slides 
-added them to my lab repro
+- added them to my lab repro
 
 Seeing signal crash when running all years (out of memory) during the synthetic datasets... 
 - Testing 2018 signal on **cmslpc331**

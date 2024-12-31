@@ -33,7 +33,6 @@
 	 - [x] 4b + 2j
 - [> ] write up S/sqrt(B) argument
 - [> ] CAM training
-- [ ] 
 
 
 # Log

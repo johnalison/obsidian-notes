@@ -1,6 +1,6 @@
 
 - [x] Ping Predrag
-- [ ] Ping Kareem
+- [x] Ping Kareem
 
 # Log
 

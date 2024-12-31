@@ -4,9 +4,6 @@
 - [ >] Read HGC TDR
 - [ >] Parno Letter
 - [ >] CAM Training
-- [ ] 
-- [ ] 
-
 
 # Log
 

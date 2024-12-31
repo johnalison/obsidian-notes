@@ -31,7 +31,7 @@
 # To Do
 - [x] [[Modules Summary August 2024]]
 	- [ >] Send
-- [ >] [[Matteo Cremonesi reappointment Letter]]
+- [ >]  [[Matteo Cremonesi reappointment Letter]]
 - [ >] CAM Training
 - [ >] Read HGC TDR
 
