@@ -22,5 +22,14 @@ To Campus
 
 [[CMU Annual Reports]]
 
-Did Annual Report
+Did Annual Report  
 
+Pick up some more MSTR ? in roth ?
+
+# Semi-Annual Review
+- [x] July 
+- [ ] August 
+- [ ] September 
+- [ ] October
+- [ ] November
+- [ ] December

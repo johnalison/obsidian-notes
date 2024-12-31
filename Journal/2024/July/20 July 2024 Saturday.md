@@ -25,7 +25,7 @@ More Kubernetes
 
 Mom and suzi over.
 
-Saving the Relativity lectures in gitlab [[https://gitlab.cern.ch/johnda/pgss-relativity-lectures]]
+Saving the Relativity lectures in gitlab https://gitlab.cern.ch/johnda/pgss-relativity-lectures
 
 Updated the [[HIG-22-011]] reference and pdf in CADI and in gitlab
 
