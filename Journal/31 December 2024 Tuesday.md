@@ -1,39 +1,15 @@
 
-|     |     |     |
-| --- | --- | --- |
-| 9   |     |     |
-|     |     |     |
-| 10  |     |     |
-|     |     |     |
-| 11  |     |     |
-|     |     |     |
-| 12  |     |     |
-|     |     |     |
-| 1   |     |     |
-|     |     |     |
-| 2   |     |     |
-|     |     |     |
-| 3   |     |     |
-|     |     |     |
-| 4   |     |     |
-|     |     |     |
-
-**W:**
-**DW:**
-**OT:**
-**ex** or **No ex**
-
----
-# The ONE thing: 
-- [ ] 
 
 ---
 # To Do
 
-- [ ] Yearly Review
-- [ ] 
-- [ ] 
-- [ ] 
+- [ ] 6 month review
+- [ ]  Annual report
+- [ ]  Wes's Thesis
+- [ ] Ping Lipika to update the BCR
+- [ ] Synthetic data... 
+	- [ ] new splitting templates for Run3 
+	- [ ] Run2 synthetic data with lower thresholds
 
 ---
 
@@ -43,3 +19,8 @@
 - Took old table apart and out
 
 To Campus
+
+[[CMU Annual Reports]]
+
+
+

@@ -6,20 +6,23 @@
 
 
 - [x] Quarterly Review
-- [ ] Ping Lipika to update the BCR
-- [ ] Synthetic data... 
-	- [ ] new splitting templates for Run3 
-	- [ ] Run2 synthetic data with lower thresholds
-- [ ] Wes's Thesis
+ [>>] Ping Lipika to update the BCR
+ [>>] Synthetic data... 
+	- [>>] new splitting templates for Run3 
+	- [>>] Run2 synthetic data with lower thresholds
+ [>>] Wes's Thesis
 - [x] [[Sam Hobbeheydar Rec Letter]]
-- [ ] Annual report
-- [ ] 6 month review
+ [>>] Annual report
+ [>>] 6 month review
 
 Up at 9 
+
+w/kids...H sick
 
 To RiteAid
 
 Some [[Knowledge, Reality, and Value]]
+- Not a very satisfying discussion of free will
 
 # Long Chat Saxon
 - politics
@@ -42,7 +45,7 @@ Some [[Dune]]
 Some [[Talent]]
 
 
-# Start Quant Phases of Matter
+# Start Quant Phases of Matter Series
 https://www.youtube.com/watch?v=-_9Jf75exnc&list=PLrNpJOaBSWSCrLUO_tuKa5l5YJl0JNr1z
 1) Bose Superfluods
 	- BECs

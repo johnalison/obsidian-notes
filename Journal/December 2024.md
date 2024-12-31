@@ -29,5 +29,5 @@
 | 27 F | Starbuck to work / Bought M bed / Wes thesis / Noodle Head / Rene Girard              | -/-/- |
 | 28 S | Reading / Connor and Tony                                                             |       |
 | 29 S | (Olivitos) Reading / Chinese Lunch / Coinbase for Lynn / Reading                      |       |
-| 30 M |                                                                                       |       |
+| 30 M | w/kids in morning / to campus / Saxon / To campus / Reading                           | 3/-/- |
 | 31 T |                                                                                       |       |

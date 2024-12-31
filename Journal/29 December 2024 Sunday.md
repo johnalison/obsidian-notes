@@ -17,3 +17,4 @@ Made Lynn Crypto Account
 
 Some [[Talent]]
 Some [[Dune]]
+ 
