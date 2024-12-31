@@ -49,7 +49,8 @@
               "title": "31 December 2024 Tuesday"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -68,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "annual report",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -121,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/CMU Annual Reports.md",
+                "file": "Journal/31 December 2024 Tuesday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +132,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for CMU Annual Reports"
+              "title": "Backlinks for 31 December 2024 Tuesday"
             }
           },
           {
@@ -140,12 +141,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/CMU Annual Reports.md",
+                "file": "Journal/31 December 2024 Tuesday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from CMU Annual Reports"
+              "title": "Outgoing links from 31 December 2024 Tuesday"
             }
           },
           {
@@ -167,10 +168,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/CMU Annual Reports.md"
+                "file": "Journal/31 December 2024 Tuesday.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of CMU Annual Reports"
+              "title": "Outline of 31 December 2024 Tuesday"
             }
           },
           {
@@ -202,10 +203,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6d7210d9892730bb",
+  "active": "a34bb9df8ba6cfdd",
   "lastOpenFiles": [
-    "Journal/31 December 2024 Tuesday.md",
     "0-inbox/CMU Annual Reports.md",
+    "Journal/31 December 2024 Tuesday.md",
     "Journal/30 December 2024 Monday.md",
     "Journal/December 2024.md",
     "Journal/27 December 2024 Friday.md",

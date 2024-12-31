@@ -4,7 +4,7 @@
 # To Do
 
 - [ ] 6 month review
-- [ ]  Annual report
+- [x]  Annual report
 - [ ]  Wes's Thesis
 - [ ] Ping Lipika to update the BCR
 - [ ] Synthetic data... 
@@ -22,5 +22,5 @@ To Campus
 
 [[CMU Annual Reports]]
 
-
+Did Annual Report
 
