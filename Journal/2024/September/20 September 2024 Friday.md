@@ -35,5 +35,5 @@ Some [[Self-Help is like a vaccine]]
 Reading [[Gulag Archipelago]]
 
 # Cigars with Tony
-- Meet XXXOwen?  / Steve / Carmella 
+- Meet Clay  / Steve / Carmella 
 - Home at midnight

@@ -31,9 +31,9 @@
 # To Do
 - [>>] CAM Training
 - [>>] Read HGC TDR
-- [SM] Update printCutFlow to compare cutflows
+- ([[SomedayMaybe]]) [<<] Update printCutFlow to compare cutflows
 - [>>]  Remake plottting to be more flexible re:hist structure ? 
-- [SM] Get links right in emacs obsidian
+- ([[SomedayMaybe]]) [<<] Get links right in emacs obsidian
 
 
 

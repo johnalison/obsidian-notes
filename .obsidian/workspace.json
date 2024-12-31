@@ -27,26 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/December 2024.md",
+                "file": "Journal/2024/September/30 September 2024 Monday.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "December 2024"
-            }
-          },
-          {
-            "id": "800feff7c5a6732f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Journal/2024/September/1 September 2024 Sunday.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1 September 2024 Sunday"
+              "title": "30 September 2024 Monday"
             }
           },
           {
@@ -63,7 +49,8 @@
               "title": "Jet DeClustering"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -115,7 +102,8 @@
               "title": "Files"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -135,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/31 December 2024 Tuesday.md",
+                "file": "1-projects/Mixed2.0/Jet DeClustering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 31 December 2024 Tuesday"
+              "title": "Backlinks for Jet DeClustering"
             }
           },
           {
@@ -154,12 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/31 December 2024 Tuesday.md",
+                "file": "1-projects/Mixed2.0/Jet DeClustering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 31 December 2024 Tuesday"
+              "title": "Outgoing links from Jet DeClustering"
             }
           },
           {
@@ -181,10 +169,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/31 December 2024 Tuesday.md"
+                "file": "1-projects/Mixed2.0/Jet DeClustering.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 31 December 2024 Tuesday"
+              "title": "Outline of Jet DeClustering"
             }
           },
           {
@@ -216,34 +204,34 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6d7210d9892730bb",
+  "active": "dcaf03e08b389548",
   "lastOpenFiles": [
-    "Journal/December 2024.md",
-    "Journal/2024/September/1 September 2024 Sunday.md",
-    "Journal/2024/August/31 August 2024 Saturday.md",
+    "Journal/2024/September/30 September 2024 Monday.md",
+    "Journal/2024/September/29 September 2024 Sunday.md",
+    "Journal/2024/September/28 September 2024 Saturday.md",
+    "Journal/2024/September/27 September 2024 Friday.md",
+    "Journal/2024/September/26 September 2024 Thursday.md",
+    "Journal/2024/September/25 September 2024 Wednesday.md",
+    "Journal/2024/September/24 September 2024 Tuesday.md",
+    "Journal/2024/September/23 September 2024 Monday.md",
+    "Journal/2024/September/22 September 2024 Sunday.md",
     "1-projects/Mixed2.0/Jet DeClustering.md",
-    "Journal/2024/August/30 August 2024 Friday.md",
-    "Journal/2024/August/29 August 2024 Thursday.md",
-    "Journal/2024/August/28 August 2024 Wednesday.md",
-    "Journal/2024/August/27 August 2024 Tuesday.md",
-    "Journal/2024/August/26 August 2024 Monday.md",
-    "Journal/2024/August/25 August 2024 Sunday.md",
-    "Journal/2024/August/24 August 2024 Saturday.md",
-    "Journal/2024/August/23 August 2024 Friday.md",
-    "Journal/2024/August/22 August 2024 Thursday.md",
-    "Journal/2024/August/21 August 2024 Wednesday.md",
-    "Journal/31 December 2024 Tuesday.md",
-    "Journal/2024/August/20 August 2024 Tuesday.md",
-    "Journal/2024/August/19 August 2024 Monday.md",
-    "Journal/2024/August/18 August 2024 Sunday.md",
-    "Journal/2024/August/17 August 2024 Saturday.md",
-    "Journal/2024/August/16 August 2024 Friday.md",
-    "Journal/2024/August/15 August 2024 Thursday.md",
-    "Journal/2024/August/14 August 2024 Wednesday.md",
-    "Journal/2024/August/13 August 2024 Tuesday.md",
-    "Journal/2024/August/12 August 2024 Monday.md",
-    "Journal/2024/August/11 August 2024 Sunday.md",
-    "Journal/2024/August/10 August 2024 Saturday.md",
+    "Journal/2024/September/21 September 2024 Saturday.md",
+    "Journal/2024/September/20 September 2024 Friday.md",
+    "Journal/2024/September/19 September 2024 Thursday.md",
+    "Journal/2024/September/18 September 2024 Wednesday.md",
+    "Journal/2024/September/17 September 2024 Tuesday.md",
+    "Journal/2024/September/16 September 2024 Monday.md",
+    "Journal/2024/September/15 September 2024 Sunday.md",
+    "Journal/2024/September/14 September 2024 Saturday.md",
+    "Journal/2024/September/13 September 2024 Friday.md",
+    "Journal/2024/September/12 September 2024 Thursday.md",
+    "Journal/2024/September/11 September 2024 Wednesday.md",
+    "Journal/2024/September/10 September 2024 Tuesday.md",
+    "00-Zettelkasten/When in Doubt Draft Emails.md",
+    "Journal/2024/September/9 September 2024 Monday.md",
+    "Journal/2024/September/8 September 2024 Sunday.md",
+    "Journal/2024/September/7 September 2024 Saturday.md",
     "Journal/2024/November",
     "Journal/2024/October",
     "Journal/2024/September",
