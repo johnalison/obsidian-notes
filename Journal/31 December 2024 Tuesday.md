@@ -30,7 +30,7 @@
 ---
 # To Do
 
-- [ ] 
+- [ ] Yearly Review
 - [ ] 
 - [ ] 
 - [ ] 
@@ -39,5 +39,7 @@
 
 # Log
 
-# Bench arrives
+# Table arrives !
+- Took old table apart and out
 
+To Campus
