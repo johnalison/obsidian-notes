@@ -30,7 +30,7 @@ Pick up some more MSTR ? in roth ?
 # Semi-Annual Review
 - [x] July 
 - [x] August 
-- [ ] September 
+- [x] September 
 - [ ] October
 - [ ] November
 - [ ] December
@@ -41,3 +41,9 @@ More reviews
 
 [[Wesley Terrill Annual Review 2024]]
 
+Some [[Knowledge, Reality, and Value]]
+- Does personhood / subjective being make sense ?
+
+Some [[Dune]]
+
+[[How to Like Everything More]]
