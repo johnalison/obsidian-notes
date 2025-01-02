@@ -1,5 +1,24 @@
 https://fbcr.fnal.gov/BCR/All
 
+
+# Mail from [[19 December 2024 Thursday]]
+So I suggest updating the BCR as follows:
+   - $15k new 2410 ->  $6k used 2410 
+   - add HV distribution cost ~$6k 
+  (The cost of the PLC and LV power supplies should be in the noise. )
+
+With the procurement through CMU. 
+
+  The bottom line cost change would be reduction of about $9k :  ($15k x 3 -> $12k x 3)
+
+## HV System
+from: https://indico.cern.ch/event/1471518/contributions/6195787/attachments/2957115/5200188/MAC_TestingIntro_Oct%2030%202024.pdf
+- 1 x VITREK 964i High Voltage Switching System Mainframe (8 card capacity)
+ https://vitrek.com/product/964i/.  $2.7k
+- 3 x VITREK LV3-8R Card 3kV Single (+) input Bus 8 Outputs, Red Banana Jacks
+https://vitrek.com/product/lv3-8r/.   3 x 600 
+
+Total 6k
 # Mans meeting [[17 December 2024 Tuesday]]
  There are overheads ~20% but vary by University (which is why my numbers arent identical)
 - https://indico.cern.ch/event/1356090/contributions/5710303/attachments/2768555/4823054/MMStand-ShoppingList.pdf

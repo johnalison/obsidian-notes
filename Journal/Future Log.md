@@ -1,6 +1,6 @@
 
 # January 
-- [ ] 13th Classes start 
+- [x] 13th Classes start 
 
 # Februrary
 - [ ] Aishik Ghosh visit (Feb 5th)

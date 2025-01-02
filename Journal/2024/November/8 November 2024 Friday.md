@@ -50,7 +50,7 @@ M & T to school ... office by 8:15 !
 
 # Thinking about [[HH at future colliders]]:
 
-Jessica recomenda Andre... OK with me.
+Jessica recomends Andre... OK with me.
 - will ping for visit next week
 - pinged
 

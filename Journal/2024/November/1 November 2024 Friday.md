@@ -33,13 +33,13 @@
 - [x] Review Oct
 - [x] Lab Techs! 
 - [x] Finish AN review
-- [>>] Renew Visitor pass
-- [>>] Osher Course Prep
+ [>>] Renew Visitor pass
+ [>>] Osher Course Prep
 - [x] Request Hbb presentation
-- [>>] Ping Dean for lab visit
-- [AE] Binning Study runTwoStageClosure
-- [[[SomedayMaybe]] ] Mixed data public ?
-- [[[SomedayMaybe]]] HH Compute s-factors
+ [>>] Ping Dean for lab visit
+ [AE] Binning Study runTwoStageClosure
+ [[[SomedayMaybe]] ] Mixed data public ?
+ [[[SomedayMaybe]]] HH Compute s-factors
 
 
 # Log

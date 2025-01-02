@@ -5,7 +5,6 @@
 # Log
 
 - [ ] Turn around report
-- [x] Reviewed Oct
 
 Up at 9 
 
@@ -28,3 +27,6 @@ Some [[Dune]]
 
 Some [[Talent]]
 
+Reviewed Oct
+
+More [[Dune]]

@@ -59,7 +59,7 @@ Internet out again... (there was a power cut last night)
 Zettlekasten:
 - [[Whose Standards are too high?]]
 
-Back home...  conor ripping down roof... Estimated cost $10k.
+Back home...  connor ripping down roof... Estimated cost $10k.
 
 Reset the internet using the [[eero reset protocol]]
 
