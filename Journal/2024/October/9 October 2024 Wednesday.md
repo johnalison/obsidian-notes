@@ -29,14 +29,14 @@
 
 
 # To Do
-- [>>]  [[Run-3 4b skims]]
-- [>>] Watch Pre-Approval VqqHbb
-- [>>] CAM Training
-- [>>] Read HGC TDR
-- [>>] Remake plotting to be more flexible re:hist structure ? 
-- [>>]  CAP/LTS online questionnaire and tasks
+ [>>]  [[Run-3 4b skims]]
+ [>>] Watch Pre-Approval VqqHbb
+ [>>] CAM Training
+ [>>] Read HGC TDR
+ [>>] Remake plotting to be more flexible re:hist structure ? 
+ [>>]  CAP/LTS online questionnaire and tasks
 - [x] Get Hand money
-- [>>] Aniket CERN office
+ [>>] Aniket CERN office
 
 # Log
 

@@ -4,6 +4,9 @@
 
 # Log
 
+- [ ] Turn around report
+- [x] Reviewed Oct
+
 Up at 9 
 
 solo with kids
@@ -18,3 +21,10 @@ New authors in 2024:
 # Sold 
 - Vanguard Small-Cap Value Index Fund Admiral Shares ~$35k 
 - Will dollar cost average ~$10k into MSTR
+
+Some [[Dune]]
+
+1/2 of a kettle bell workout
+
+Some [[Talent]]
+

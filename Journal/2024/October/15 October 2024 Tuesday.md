@@ -32,13 +32,13 @@
 - [x] Ping CL re:Annual Review
 - [x] Ping SM re:Annual Review
 - [x] [[Run-3 4b skims]]
-- [>>] cluster Run 3 data
-- [>>] update CV 
+ [>>] cluster Run 3 data
+ [>>] update CV 
 - [x] Act 153 clearances
-- [>>]  [[Classifier Studies]]
-- [>>] VAR Due 16th
-- [>>] LAB Techs
-- [>>] Update website
+ [>>]  [[Classifier Studies]]
+ [>>] VAR Due 16th
+ [>>] LAB Techs
+ [>>] Update website
 
 
 # Log

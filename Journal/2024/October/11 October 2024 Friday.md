@@ -29,17 +29,17 @@
 
 
 # To Do
-- [>>] Update website
+ [>>] Update website
 - [x] Get falcon account 
-- [>>]  [[Run-3 4b skims]]
-- [>>] Watch Pre-Approval VqqHbb
-- [>>] CAM Training
-- [>>] Read HGC TDR
+ [>>]  [[Run-3 4b skims]]
+ [>>] Watch Pre-Approval VqqHbb
+ [>>] CAM Training
+ [>>] Read HGC TDR
 - [x]  CAP/LTS online questionnaire and tasks
 	- <font color=red>On Sunday</font>
 - [x] Aniket CERN office
-- [>>] CV for rachel
-- [>>] Collect and Send Teachers program info
+ [>>] CV for rachel
+ [>>] Collect and Send Teachers program info
 
 
 # Log

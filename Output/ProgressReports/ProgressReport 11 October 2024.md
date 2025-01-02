@@ -22,7 +22,7 @@ I think the double peak in m4j is understood. I'm waiting on Sindhu to write it 
 I've started working on mW and mH constraints. I think I understand whats happening in mW, but still need to push on mH.  There has also not been as much progress here as I would want from Aniket.
 
 # HGC 
-Still not much.  We have 150 Si sensors now stored in new dry air space. We have also made module with tje new glue pattern. It looks like the high noise and strange IV behaviour are not present in the new module. The next steps here are to move on the Lab tech positions.
+Still not much.  We have 150 Si sensors now stored in new dry air space. We have also made module with the new glue pattern. It looks like the high noise and strange IV behaviour are not present in the new module. The next steps here are to move on the Lab tech positions.
 # Sos
 Peter is back and I think Wes has understood the comine fit problems. The issue of the empty bins might be bug in the binning. Peter will look into this.
 

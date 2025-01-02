@@ -28,10 +28,10 @@
 - [ ] [[Jet DeClustering]]
 
 # To Do
-- [>>] CAM Training
-- [>>] Read HGC TDR
-- [>>] Remake plotting to be more flexible re:hist structure ? 
-- [>>] Ping Markus/Joe re:baseplates
+ [>>] CAM Training
+ [>>] Read HGC TDR
+ [>>] Remake plotting to be more flexible re:hist structure ? 
+ [>>] Ping Markus/Joe re:baseplates
 
 # Log
 

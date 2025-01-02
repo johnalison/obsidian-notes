@@ -30,12 +30,12 @@
 
 # To Do
 - [x] Send Soheen the AN
-- [>>] debug error from JIT... Try in unit_test ! 
+ [>>] debug error from JIT... Try in unit_test ! 
 - [x] Outreach emails
-- [>>] CAM Training
-- [>>] Read HGC TDR
-- [>>] Remake plottting to be more flexible re:hist structure ? 
-- [>>] Ping Markus/Joe re:baseplates
+ [>>] CAM Training
+ [>>] Read HGC TDR
+ [>>] Remake plottting to be more flexible re:hist structure ? 
+ [>>] Ping Markus/Joe re:baseplates
 
 
 

@@ -32,10 +32,10 @@
 # To Do
 - [x] Grade forward outlines
 - [x] Look at LabTech applicants
-- [>>] CAM Training
-- [>>] Read HGC TDR
-- [>>] Remake plottting to be more flexible re:hist structure ? 
-- [>>] Ping Markus/Joe re:baseplates
+ [>>] CAM Training
+ [>>] Read HGC TDR
+ [>>] Remake plottting to be more flexible re:hist structure ? 
+ [>>] Ping Markus/Joe re:baseplates
 
 
 
@@ -72,7 +72,7 @@ wrote up [[mW constraint]]
 - core / dips / calf raises / lunges 
 - 10' at Tmax = 124
 
-Looked at LabTech CVs but them on box here:
+Looked at LabTech CVs put them on box here:
 https://cmu.box.com/s/4yrnk44vszzeb2s16vjhjguavj3udsh7
 
 More [[Jet DeClustering]]... See above

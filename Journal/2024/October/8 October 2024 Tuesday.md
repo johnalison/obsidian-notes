@@ -29,13 +29,13 @@
 
 # To Do
 - [x] New parking pass
-- [>>] new skims
-- [>>] Watch Pre-Approval VqqHbb
-- [>>] CAM Training
-- [>>] Read HGC TDR
-- [>>] Remake plotting to be more flexible re:hist structure ? 
-- [>>]  CAP/LTS online questionnaire and tasks
-- [MP] work study (student? )
+ [>>] new skims
+ [>>] Watch Pre-Approval VqqHbb
+ [>>] CAM Training
+ [>>] Read HGC TDR
+ [>>] Remake plotting to be more flexible re:hist structure ? 
+ [>>]  CAP/LTS online questionnaire and tasks
+ [MP] work study (student? )
 
 # Log
 

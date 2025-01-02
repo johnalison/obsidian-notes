@@ -29,16 +29,16 @@
 
 
 # To Do
-- [>>]  [[Run-3 4b skims]]
-- [>>]  Watch Pre-Approval VqqHbb
-- [>>] CAM Training
-- [>>] Read HGC TDR
-- [<<] Remake plotting to be more flexible re:hist structure ? 
-- [>>]  CAP/LTS online questionnaire and tasks
-- [>>] Aniket CERN office
+ [>>]  [[Run-3 4b skims]]
+ [>>]  Watch Pre-Approval VqqHbb
+ [>>] CAM Training
+ [>>] Read HGC TDR
+ [<<] Remake plotting to be more flexible re:hist structure ? 
+ [>>]  CAP/LTS online questionnaire and tasks
+ [>>] Aniket CERN office
 - [x] Pay ticket
 - [x] Ping Eva re:saw
-- [>>] CV for rachel
+ [>>] CV for rachel
 
 
 # Log

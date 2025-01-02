@@ -31,7 +31,7 @@ Pick up some more MSTR ? in roth ?
 - [x] July 
 - [x] August 
 - [x] September 
-- [ ] October
+- [x] October
 - [ ] November
 - [ ] December
 

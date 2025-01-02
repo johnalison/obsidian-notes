@@ -31,11 +31,11 @@
 
 # To Do
 - [x] debug error from JIT... Try in unit_test ! 
-- [>>] CAM Training
-- [>>] Read HGC TDR
-- [>>] Remake plotting to be more flexible re:hist structure ? 
+ [>>] CAM Training
+ [>>] Read HGC TDR
+ [>>] Remake plotting to be more flexible re:hist structure ? 
 - [x] Ping Markus/Joe re:baseplates
-- [>>] CAP/LTS online questionnaire and tasks
+ [>>] CAP/LTS online questionnaire and tasks
 
 
 # Log
