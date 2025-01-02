@@ -81,8 +81,8 @@ Subscribed to "The silver bulletin"
 To get haircut... line too long ... checked out white whale book store...very cool!
 
 # Eye Doctor
-- Was wearing two right lenes ! 
-- Got new prescription ...  ordered new lenes. if OK will get second pair.  
+- Was wearing two right lenses ! 
+- Got new prescription ...  ordered new lenses. if OK will get second pair.  
 - Take contacts out when get home
 
 # Mans Meeting

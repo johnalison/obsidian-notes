@@ -21,7 +21,7 @@
 **W:** 4 
 **DW:** 2
 **OT:** 1
-**ex** or **No ex**
+ **No ex**
 
 ---
 # The ONE thing: 
@@ -43,7 +43,7 @@ Up at 7
 - See daily's above
 
 # Wes Annual Review
-- No Matt
+- No Matt / Valentina
 - Recording Wes' talk
 
 # Hairs Cut

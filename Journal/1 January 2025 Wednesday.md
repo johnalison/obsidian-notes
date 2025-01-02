@@ -4,7 +4,7 @@
 
 # Log
 
-- [ ] Turn around report
+- [>>] Turn around report
 
 Up at 9 
 
@@ -17,7 +17,7 @@ New authors in 2024:
 - Russ Roberts
 - Micheal Heumer
 
-# Sold 
+# Sold Vangaurd
 - Vanguard Small-Cap Value Index Fund Admiral Shares ~$35k 
 - Will dollar cost average ~$10k into MSTR
 

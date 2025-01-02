@@ -13,14 +13,14 @@
 |     | Gym                  |     |
 | 2   | 6 month review       |     |
 |     | 6 month review       |     |
-| 3   |                      |     |
-|     |                      |     |
-| 4   |                      |     |
-|     |                      |     |
+| 3   | Roy                  |     |
+|     | Roy                  |     |
+| 4   | 6 month review       |     |
+|     | 6 month review       |     |
 
-**W:**
-**DW:**
-**OT:**
+**W:** 4
+**DW:** 2
+**OT:** 2
 **ex** 
 
 ---
@@ -31,16 +31,17 @@
 ---
 # To Do
 
-- [ ] 6 Month review
+- [x] 6 Month review
 - [ ] Wes's Thesis
 - [x] Ping Lipika to update the BCR
 - [ ] Synthetic data... 
 	- [ ] new splitting templates for Run3 
-	- [ ] Run2 synthetic data with lower thresholds
-	- [ ] Presentations !
+	- [x] Run2 synthetic data with lower thresholds
+	- [x] Presentations !
 - [x] Wes Annual Review
 - [x] December [[CAM Turnaround Report]]
 - [ ] Call Liberty mutual re:tree down
+- [ ] Pick up contacts
 
 ---
 
@@ -54,7 +55,7 @@ Work by 930
 
 # Semi-Annual Review
 - [x] November
-- [ ] December
+- [x] December
 - Start review November up to the ~~4th~~ 16th
 
 Kria Controller Arrives!
@@ -92,3 +93,12 @@ Marlos Bed arrives
 Got $900 from Liberty Mutual
 
 reviewed November
+
+# Chat with Roy
+- Recommends shrooms
+- Who cares if P/E is high.. just means I will hold it for longer
+	- Say is P/E ~ X, expect to earn 0.05 P => if E = 1/20 P, then P/E = 20
+	- APPL:  E = 0.3 P so P/E ~ 3
+
+reviewed December
+

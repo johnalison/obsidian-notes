@@ -24,8 +24,9 @@ Did the [[ProgressReport 20 December 2024]]
 # [[Jet DeClustering]]
 - on **cmslpc313**
 - Making Run2 synthetic datasets with 30 GeV pt filter
-- Looked a bit into changes in the cutflow
-	- https://gitlab.cern.ch/cms-cmu/coffea4bees/-/commits/master/python/analysis/tests/known_Counts_MixedBkg_data_3b_for_mixed.yml?ref_type=heads
+
+ # Looked a bit into changes in the cutflow
+- https://gitlab.cern.ch/cms-cmu/coffea4bees/-/commits/master/python/analysis/tests/known_Counts_MixedBkg_data_3b_for_mixed.yml?ref_type=heads
 	- Nov 22: Fix JCM 
 	- Nov 20th: ?
 	- 11 Sep: changes in random numbers
