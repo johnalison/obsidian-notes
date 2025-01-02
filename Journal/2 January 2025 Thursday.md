@@ -10,9 +10,9 @@
 | 12  | Gym                  |     |
 |     | Gym                  |     |
 | 1   | Gym                  |     |
-|     |                      |     |
-| 2   |                      |     |
-|     |                      |     |
+|     | Gym                  |     |
+| 2   | 6 month review       |     |
+|     | 6 month review       |     |
 | 3   |                      |     |
 |     |                      |     |
 | 4   |                      |     |
@@ -21,7 +21,7 @@
 **W:**
 **DW:**
 **OT:**
-**ex** or **No ex**
+**ex** 
 
 ---
 # The ONE thing: 
@@ -40,7 +40,7 @@
 	- [ ] Presentations !
 - [x] Wes Annual Review
 - [x] December [[CAM Turnaround Report]]
-
+- [ ] Call Liberty mutual re:tree down
 
 ---
 
@@ -53,7 +53,7 @@ M & T BACK TO SCHOOL!!!
 Work by 930
 
 # Semi-Annual Review
-- [ ] November
+- [x] November
 - [ ] December
 - Start review November up to the ~~4th~~ 16th
 
@@ -76,9 +76,19 @@ Kria Controller Arrives!
 - Start 106? (Have Kria at CMU!)
 - Start 149 150 
 
-
+Marlos Bed arrives
 # [[Jet DeClustering]]
 - Plots for RunII 30 GeV 
 	`py jet_clustering/compare_datasets.py hists/synthetic_data_RunII_30GeV_noOverride_seedXXX.coffea --out analysis/plots_synthetic_datasets_all_00-08-02-RunII_30GeV_noOverride -m analysis/metadata/plotsSyntheticVsData2.yml`
 - Make slides
 	`make jetclustering_slides_RunII TEXFILENAME=SyntheticDatasets-00-08-02_RunII_30GeV_noOverride NEW_DIR=analysis\\/plots_synthetic_datasets_all_00-08-02-RunII_30GeV_noOverride /Library/Developer/CommandLineTools/usr/bin/make jetclustering_slides_year YEAR=RunII`
+
+
+# Gym / Steamroom
+- core / back squat / press / pull-ups
+- Still cant do front squat b/c wrist
+- 15' at Tmax = 118
+
+Got $900 from Liberty Mutual
+
+reviewed November

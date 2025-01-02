@@ -86,6 +86,11 @@ Feedback from Marina:
 - Try to improve selected jet multiplicity
  [>>] Compare mixed to synthetic to threeTag
 
+[[3 December 2024 Tuesday]]
+- Running on Run3 synthetic data
+ [>>] Check cutflow
+ [>>] Plots comparing 3-tag 
+- Running on Run2 on **cmslpc350**
 
 [[7 December 2024 Saturday]]
 - Streamlining RunII and Run3 selection code

@@ -66,10 +66,7 @@ To campus
 - Long chat with Wes about preparing his slides for the Annual Review
 
 # [[Run3 Synthetic Data]]
-- Running on Run3 synthetic data
- [>>] Check cutflow
- [>>] Plots comparing 3-tag 
-- Running on Run2 on **cmslpc350**
+- see logs above
 
 # Met with Ornella: 
 - Seems very nice.

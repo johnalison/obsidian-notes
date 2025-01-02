@@ -102,7 +102,7 @@ Looking into ggHbb
 [[21 November 2024 Thursday]]
 - Got mixed ave and v0 plots running.
 - Stats ratio error wrong!
-- updated error in the ration plots
+- updated error in the ratio plots
 - Added error band for the bkg uncertainty 
 - Need to blind the NoFvT plots !!!... running....DONE
 - [x]  Function for processing stack dict in `base_class/plots`

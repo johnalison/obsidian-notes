@@ -32,7 +32,7 @@ The capital gains tax rate is low b/c it is a kind of double tax. The owners of 
 
 "Publication bias makes it difficult to assess the reality and magnitude of any effect in psycology"
 
-"Most of the humanities are extremely unreliable to teh point of uselessness". 
+"Most of the humanities are extremely unreliable to the point of uselessness". 
 
 
 
