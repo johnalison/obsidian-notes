@@ -38,6 +38,7 @@
 - [ ] Call Liberty mutual re:tree down
 - [ ] Pick up contacts
 - [ ] Vangaurd moves
+- [ ] Book Ann Arbor
 
 ---
 
@@ -49,3 +50,6 @@ snow !
 
 M & T to school... H to office
 
+# [[Ann Arbor Trip 2025]]
+Booked Ann Arbor Flight
+- direct 456.97USD
