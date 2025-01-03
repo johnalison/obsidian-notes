@@ -10,8 +10,8 @@
 | 12  | Gym                      |     |
 |     | Gym                      |     |
 | 1   | Gym                      |     |
-|     |                          |     |
-| 2   |                          |     |
+|     | Gym                      |     |
+| 2   | Gym                      |     |
 |     |                          |     |
 | 3   |                          |     |
 |     |                          |     |
@@ -21,11 +21,11 @@
 **W:**
 **DW:**
 **OT:**
-**ex** or **No ex**
+**ex** 
 
 ---
 # The ONE thing: 
-- [ ] 
+- [ ] [[Jet DeClustering]]
 
 ---
 # To Do
@@ -68,3 +68,13 @@ Booked Ann Arbor Flight
 
 
 Quantum Matter Lecture 2
+
+[[ProgressReport 3 January 2024]]
+
+# Hoops 
+- Good slow start ... 3s , 4s 80% speed
+
+[[CAM Training]]
+
+Finished "Progress Report"  more of a look ahead at 2025, given the holidays for the last two weeks. 
+
