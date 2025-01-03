@@ -1,22 +1,22 @@
 
-|     |     |     |
-| --- | --- | --- |
-| 9   |     |     |
-|     |     |     |
-| 10  |     |     |
-|     |     |     |
-| 11  |     |     |
-|     |     |     |
-| 12  |     |     |
-|     |     |     |
-| 1   |     |     |
-|     |     |     |
-| 2   |     |     |
-|     |     |     |
-| 3   |     |     |
-|     |     |     |
-| 4   |     |     |
-|     |     |     |
+|     | To campus                |     |
+| --- | ------------------------ | --- |
+| 9   | setup                    |     |
+|     | Ann Arbor                |     |
+| 10  | Vanguard Moves           |     |
+|     | [[Jet DeClustering]]     |     |
+| 11  | email                    |     |
+|     | Quantum Matter Lecture 2 |     |
+| 12  | Gym                      |     |
+|     | Gym                      |     |
+| 1   | Gym                      |     |
+|     |                          |     |
+| 2   |                          |     |
+|     |                          |     |
+| 3   |                          |     |
+|     |                          |     |
+| 4   |                          |     |
+|     |                          |     |
 
 **W:**
 **DW:**
@@ -33,7 +33,7 @@
 - [ ] Progress Reporting
 - [ ] Wes's Thesis
 - [ ]  Synthetic data... 
-	- [ ] Iterate Marina
+	- [x] Iterate Marina
 	- [ ] New cluster splitting templates
 	- [ ] Run 3 presentations 
 - [ ] Call Liberty mutual re:tree down
@@ -65,3 +65,6 @@ Booked Ann Arbor Flight
 - 50 MSTR shares at $300 = ~$15k
 - 35 MSTR share at $285 =  ~$10k
 - 40 MSTR share at $255 =  ~$10k
+
+
+Quantum Matter Lecture 2
