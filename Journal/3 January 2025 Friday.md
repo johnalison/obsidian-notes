@@ -30,7 +30,7 @@
 ---
 # To Do
 
-- [ ] Progress Reporting
+- [x] Progress Reporting
 - [ ] Wes's Thesis
 - [ ]  Synthetic data... 
 	- [x] Iterate Marina
@@ -67,7 +67,8 @@ Booked Ann Arbor Flight
 - 40 MSTR share at $255 =  ~$10k
 
 
-Quantum Matter Lecture 2
+[[Quantum Phases of Matter Series]]
+- Finished Quantum Matter Lecture 2
 
 [[ProgressReport 3 January 2024]]
 
