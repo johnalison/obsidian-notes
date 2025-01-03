@@ -32,16 +32,16 @@
 # To Do
 
 - [x] 6 Month review
-- [ ] Wes's Thesis
+ [>>] Wes's Thesis
 - [x] Ping Lipika to update the BCR
-- [ ] Synthetic data... 
-	- [ ] new splitting templates for Run3 
+ [>>] Synthetic data... 
+	- [>>] new splitting templates for Run3 
 	- [x] Run2 synthetic data with lower thresholds
 	- [x] Presentations !
 - [x] Wes Annual Review
 - [x] December [[CAM Turnaround Report]]
-- [ ] Call Liberty mutual re:tree down
-- [ ] Pick up contacts
+ [>>] Call Liberty mutual re:tree down
+ [>>] Pick up contacts
 
 ---
 
@@ -101,4 +101,10 @@ reviewed November
 	- APPL:  E = 0.3 P so P/E ~ 3
 
 reviewed December
+
+Home with M&T 
+
+# Mega Bed Building Session
+
+Some [[Dune]]
 

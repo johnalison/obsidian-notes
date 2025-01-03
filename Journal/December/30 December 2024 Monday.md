@@ -37,7 +37,8 @@ Did [[Sam Hobbeheydar Rec Letter]]
 - uploading PDFs
 
 Reading wes's thesis
-- some missing refernces 
+* Looks good
+- some missing references 
 
 Home 
 
