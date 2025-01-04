@@ -79,3 +79,14 @@ Booked Ann Arbor Flight
 
 Finished "Progress Report"  more of a look ahead at 2025, given the holidays for the last two weeks. 
 
+Some CAM Training...
+
+Leave  with Henry ... Decided to bail on CAM training
+
+Walk Home 
+
+Building the shelves for Marlos bed
+
+Some [[Dune]]
+
+

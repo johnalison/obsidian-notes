@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/Existence Is Evidence of Immortality.md",
+                "file": "Journal/4 January 2025 Saturday.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Existence Is Evidence of Immortality"
+              "title": "4 January 2025 Saturday"
             }
           }
         ],
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/Existence Is Evidence of Immortality.md",
+                "file": "Journal/4 January 2025 Saturday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Existence Is Evidence of Immortality"
+              "title": "Backlinks for 4 January 2025 Saturday"
             }
           },
           {
@@ -142,12 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/Existence Is Evidence of Immortality.md",
+                "file": "Journal/4 January 2025 Saturday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Existence Is Evidence of Immortality"
+              "title": "Outgoing links from 4 January 2025 Saturday"
             }
           },
           {
@@ -169,10 +169,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/Existence Is Evidence of Immortality.md"
+                "file": "Journal/4 January 2025 Saturday.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Existence Is Evidence of Immortality"
+              "title": "Outline of 4 January 2025 Saturday"
             }
           },
           {
@@ -206,9 +206,11 @@
   },
   "active": "ba625790b603c995",
   "lastOpenFiles": [
+    "Journal/3 January 2025 Friday.md",
+    "Journal/4 January 2025 Saturday.md",
+    "0-inbox/Existence Is Evidence of Immortality.md",
     "Journal/2 January 2025 Thursday.md",
     "1-projects/HGC/CAM Turnaround Report.md",
-    "Journal/3 January 2025 Friday.md",
     "Journal/2024/December 2024.md",
     "Journal/January 2025.md",
     "0-inbox/ProgressReport 3 January 2024.md",
@@ -230,8 +232,6 @@
     "Journal/December/26 December 2024 Thursday.md",
     "Journal/2024/November/30 November 2024 Saturday.md",
     "Journal/2024/January 2024.md",
-    "Journal/December/25 December 2024 Wednesday.md",
-    "Journal/December/24 December 2024 Tuesday.md",
     "Journal/#January.md#",
     "Journal/2024/November",
     "Journal/2024/October",
