@@ -16,4 +16,9 @@ Finished [[Dune]]
 
 - [ ] Buy $20k of pHEX 
 	- Will amount to 16k from coinbase ETH
-	- Selling $17k  of ETH (limit order)
+	- Selling $16k  of ETH (limit order)
+
+Some [[Talent]]
+
+Built the bookshelves for Marlo
+
