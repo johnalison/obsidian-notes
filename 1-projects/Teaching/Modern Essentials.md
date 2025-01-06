@@ -4,6 +4,7 @@
 - [ ] Syllabus 
 - [x] Book Calendar 
 - [ ] Canvas
+- [ ] Prep Lecture 1
 
 
  Teaching in: 

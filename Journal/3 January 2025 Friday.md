@@ -31,13 +31,13 @@
 # To Do
 
 - [x] Progress Reporting
-- [ ] Wes's Thesis
-- [ ]  Synthetic data... 
+ [>>] Wes's Thesis
+ [>>]  Synthetic data... 
 	- [x] Iterate Marina
-	- [ ] New cluster splitting templates
-	- [ ] Run 3 presentations 
-- [ ] Call Liberty mutual re:tree down
-- [ ] Pick up contacts
+	[>>] New cluster splitting templates
+	[>>] Run 3 presentations 
+ [>>] Call Liberty mutual re:tree down
+ [>>] Pick up contacts
 - [x] Vanguard moves
 - [x] Book Ann Arbor
 
@@ -59,7 +59,7 @@ Booked Ann Arbor Flight
 # [[Jet DeClustering]]
 - Iterated with marina 
 - 25% differneces in yields 
-- [ ] Cut flow challenge
+- [>>] Cut flow challenge
 
 # Vanguard Moves
 - 50 MSTR shares at $300 = ~$15k

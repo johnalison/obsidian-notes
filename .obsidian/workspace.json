@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Input/Books/The Problem of Political Authority.md",
+                "file": "1-projects/Teaching/Modern Essentials.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Problem of Political Authority"
+              "title": "Modern Essentials"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/5 January 2025 Sunday.md",
+                "file": "0-inbox/Run3 HH4b Cutflow Challenge.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5 January 2025 Sunday"
+              "title": "Run3 HH4b Cutflow Challenge"
             }
           },
           {
@@ -48,23 +48,8 @@
               "icon": "lucide-file",
               "title": "January 2025"
             }
-          },
-          {
-            "id": "7614a0e766c9b396",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Journal/6 January 2025 Monday.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "6 January 2025 Monday"
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -136,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/6 January 2025 Monday.md",
+                "file": "1-projects/Teaching/Modern Essentials.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +131,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 6 January 2025 Monday"
+              "title": "Backlinks for Modern Essentials"
             }
           },
           {
@@ -155,12 +140,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/6 January 2025 Monday.md",
+                "file": "1-projects/Teaching/Modern Essentials.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 6 January 2025 Monday"
+              "title": "Outgoing links from Modern Essentials"
             }
           },
           {
@@ -182,10 +167,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/6 January 2025 Monday.md"
+                "file": "1-projects/Teaching/Modern Essentials.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 6 January 2025 Monday"
+              "title": "Outline of Modern Essentials"
             }
           },
           {
@@ -217,13 +202,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7614a0e766c9b396",
+  "active": "81e5c66ee41147f1",
   "lastOpenFiles": [
+    "Journal/6 January 2025 Monday.md",
+    "2-areas/Philosophy/wrong in future.md",
+    "Input/Books/The Problem of Political Authority.md",
+    "0-inbox/Run3 HH4b Cutflow Challenge.md",
+    "0-inbox/Aishik Ghosh visit.md",
     "Journal/January 2025.md",
+    "Journal/3 January 2025 Friday.md",
     "Journal/5 January 2025 Sunday.md",
     "Journal/4 January 2025 Saturday.md",
-    "Journal/6 January 2025 Monday.md",
-    "Journal/3 January 2025 Friday.md",
     "Journal/2 January 2025 Thursday.md",
     "Journal/1 January 2025 Wednesday.md",
     "Journal/December/31 December 2024 Tuesday.md",
@@ -234,7 +223,6 @@
     "0-inbox/ToDo.md",
     "0-inbox/Things-To-Add-To-Notes.md",
     "3-resources/crypto/CryptoMoves.md",
-    "Input/Books/The Problem of Political Authority.md",
     "0-inbox/StartupSpending.md",
     "0-inbox/Snakemake tutorial.md",
     "Output/Recommendation  Letters/Sam Hobbeheydar Rec Letter.md",
@@ -242,9 +230,6 @@
     "Output/ProgressReports/ProgressReport 3 January 2024.md",
     "00-Zettelkasten/Problems with Limits on Government Power.md",
     "Input/Meetings/MAC meeting 18 December 2024.md",
-    "0-inbox/Libertarianism follows from common sense morality.md",
-    "Input/Blogs/How to Like Everything More.md",
-    "3-resources/crypto/How to buy pHex.md",
     "Journal/#January.md#",
     "Journal/2024/November",
     "Journal/2024/October",

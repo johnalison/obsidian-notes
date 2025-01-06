@@ -1,23 +1,23 @@
 # ACTION:  Aishik Ghosh visit (Feb 5th)
 
-|     | w/kids      |     |
-| --- | ----------- | --- |
-| 9   | to Cyert    |     |
-|     | setup       |     |
-| 10  | Chat AE     |     |
-|     |             |     |
-| 11  |             |     |
-|     |             |     |
-| 12  | multi-Higgs |     |
-|     | multi-Higgs |     |
-| 1   | Aniket Oral |     |
-|     | Aniket Oral |     |
-| 2   | Gym         |     |
-|     | Gym         |     |
-| 3   | Gym         |     |
-|     |             |     |
-| 4   |             |     |
-|     |             |     |
+|     | w/kids                 |     |
+| --- | ---------------------- | --- |
+| 9   | to Cyert               |     |
+|     | setup                  |     |
+| 10  | Chat AE                |     |
+|     | [[Aishik Ghosh visit]] |     |
+| 11  | Cutflow Challenge      |     |
+|     | Cutflow Challenge      |     |
+| 12  | multi-Higgs            |     |
+|     | multi-Higgs            |     |
+| 1   | Aniket Oral            |     |
+|     | Aniket Oral            |     |
+| 2   | Gym                    |     |
+|     | Gym                    |     |
+| 3   | Gym                    |     |
+|     |                        |     |
+| 4   |                        |     |
+|     |                        |     |
 
 **W:**
 **DW:**
@@ -26,15 +26,21 @@
 
 ---
 # The ONE thing: 
-- [ ]  Aishik Ghosh visit (Feb 5th)
+- [x]  Aishik Ghosh visit (Feb 5th)
+- [ ] Cutflow challenge 
 
 ---
 # To Do
 
-- [ ]  Aishik Ghosh visit (Feb 5th)
+- [x]  Aishik Ghosh visit (Feb 5th)
 - [ ]  Write up Dune
-- [ ] 
-- [ ] 
+- [ ] Wes's Thesis
+- [ ] Synthetic data
+	- [ ] New cluster splitting templates
+	- [ ] cut flow challenge !!!
+	- [ ] Run-3 Presentations 
+- [ ] Call Liberty mutual re:tree down
+- [ ] Pick up contacts
 
 ---
 
@@ -44,5 +50,27 @@ Up at 7:30 ...
 
 Snow day for H... Kida to Cyert by 9
 
+c++ and python
+
 # Chat AE: 
-- 
+- [ ] L3 comments v2
+- [ ] Need new background model
+- [ ] Whats wrong with mixed data fits ?
+	- [ ] Repeate Closure with old SvB
+
+[[Aishik Ghosh visit]]
+
+# Cutflow challenge
+- [[Run3 HH4b Cutflow Challenge]]
+- Copied File from marina to 
+	`root://cmseos.fnal.gov//store/user/jda102/debugRun3HH/data_2022_postEE_0_tree.root`
+- Chat GPT to write uproot program
+- Wrote out a pkl file with the events and lumis
+- Make pickle of events passing 4jets selection
+
+
+[[wrong in future]] [<<] In 50 years will look back on and realize that Governments even liberal democracies are almost entirely unethical
+
+
+# Prepping Modern Essentials
+[[Modern Essentials]]
