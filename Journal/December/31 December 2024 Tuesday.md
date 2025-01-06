@@ -24,9 +24,9 @@ To Campus
 
 [[CMU Annual Reports]]
 
-Did Annual Report  
+Did 2024 Annual Report  
 
-Pick up some more MSTR ? in roth ?
+Pick up some more MSTR ? in Roth ? ... <font color=red> Yes! See Wednesday setup 3 10k limit orders to buy the next dip.  </font>
 
 # Semi-Annual Review
 - [x] July 

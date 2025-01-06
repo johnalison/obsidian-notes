@@ -1,3 +1,6 @@
+# 2025
+
+[[Dune]] ()
 # 2024
 
 - [[The Problem of Political Authority]] (Micheal Heumer)

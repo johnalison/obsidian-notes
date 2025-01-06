@@ -51,7 +51,7 @@ Up at 7:30 ... T a nightmare
 
 M & T BACK TO SCHOOL!!! 
 
-Work by 930
+Work by 9:30
 
 # Semi-Annual Review
 - [x] November
@@ -105,6 +105,7 @@ reviewed December
 Home with M&T 
 
 # Mega Bed Building Session
+- Got bed built, not drawers, shelves, or table
 
 Some [[Dune]]
 

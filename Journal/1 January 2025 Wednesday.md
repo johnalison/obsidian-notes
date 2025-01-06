@@ -4,7 +4,7 @@
 
 # Log
 
-- [>>] Turn around report
+ [>>] Turn around report
 
 Up at 9 
 

@@ -1,26 +1,26 @@
 
-|     | To campus                |     |
-| --- | ------------------------ | --- |
-| 9   | setup                    |     |
-|     | Ann Arbor                |     |
-| 10  | Vanguard Moves           |     |
-|     | [[Jet DeClustering]]     |     |
-| 11  | email                    |     |
-|     | Quantum Matter Lecture 2 |     |
-| 12  | Gym                      |     |
-|     | Gym                      |     |
-| 1   | Gym                      |     |
-|     | Gym                      |     |
-| 2   | Gym                      |     |
-|     |                          |     |
-| 3   |                          |     |
-|     |                          |     |
-| 4   |                          |     |
-|     |                          |     |
+|     | To campus                         |     |
+| --- | --------------------------------- | --- |
+| 9   | setup                             |     |
+|     | Ann Arbor                         |     |
+| 10  | Vanguard Moves                    |     |
+|     | [[Jet DeClustering]]              |     |
+| 11  | email                             |     |
+|     | Quantum Matter Lecture 2          |     |
+| 12  | Gym                               |     |
+|     | Gym                               |     |
+| 1   | Gym                               |     |
+|     | Gym                               |     |
+| 2   | Gym                               |     |
+|     | [[ProgressReport 3 January 2024]] |     |
+| 3   | Some Quantum Matter               |     |
+|     | [[CAM Training]]                  |     |
+| 4   | [[CAM Training]]                  |     |
+|     | Home                              |     |
 
-**W:**
-**DW:**
-**OT:**
+**W:** 5 
+**DW:** 1
+**OT:** 1
 **ex** 
 
 ---
@@ -81,11 +81,12 @@ Finished "Progress Report"  more of a look ahead at 2025, given the holidays for
 
 Some CAM Training...
 
-Leave  with Henry ... Decided to bail on CAM training
+Leave  with Henry ... **Decided to bail on CAM training !**
 
 Walk Home 
 
-Building the shelves for Marlos bed
+# More Building for Marlo
+- Drawers done. Still need to do shelves and table
 
 Some [[Dune]]
 

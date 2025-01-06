@@ -23,7 +23,12 @@ Home
 Home
 
 # 720 Day
-- Lots of moves .. Picture up
+- Lots of moves .. 
+- Pictures up
+- Move bed in master bedroom
+- Move dresser to master... start moving clothes out of H&Ts room
+
+# M goes to bed on her own! 
 
 # Buying pHex back
 - sold xx ETH for 794478 USDC  on coinbase

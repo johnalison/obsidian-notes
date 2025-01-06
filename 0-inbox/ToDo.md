@@ -6,7 +6,7 @@ These should be on Daily's page  !
 # Important + Not Due Soon:
 - [x] Watch Pre-Approval VqqHbb
 	- [x] Read paper draft VqqHbb
-- [ ] CAM Training
+ [XX] ~~CAM Training~~
 - [ ] Read HGC TDR
 - [x] Collect and Send Teachers program info
 - [x] CMU Security Course
