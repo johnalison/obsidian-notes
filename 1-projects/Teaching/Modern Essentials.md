@@ -5,8 +5,9 @@ https://canvas.cmu.edu/courses/45541
 ## To Do
 - [ ] Syllabus 
 - [x] Book Calendar 
-- [ ] Canvas
+- [x] Canvas
 - [ ] Prep Lecture 1
+- [ ] Meet TA
 
 # Draft Schedule 
 

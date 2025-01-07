@@ -12,17 +12,17 @@
 |     | multi-Higgs            |     |
 | 1   | Aniket Oral            |     |
 |     | Aniket Oral            |     |
-| 2   | Gym                    |     |
+| 2   | Aniket Oral            |     |
 |     | Gym                    |     |
 | 3   | Gym                    |     |
-|     |                        |     |
-| 4   |                        |     |
-|     |                        |     |
+|     | Gym                    |     |
+| 4   | Sindhu                 |     |
+|     | Sindhu                 |     |
 
-**W:**
-**DW:**
-**OT:**
-**ex** or **No ex**
+**W:** 6 
+**DW:** 2
+**OT:** 2
+**ex** 
 
 ---
 # The ONE thing: 
@@ -33,7 +33,9 @@
 # To Do
 
 - [x]  Aishik Ghosh visit (Feb 5th)
-- [ ]  Write up [[Dune]]
+- [x]  Write up [[Dune]]
+- [ ] [[Modern Essentials]]
+	- [x] setup 
 - [ ] Wes's Thesis
 - [ ] Synthetic data
 	- [ ] New cluster splitting templates
@@ -115,3 +117,9 @@ c++ and python
 Home with M&T 
 
 Chess with H
+
+# Built Marlos Table
+- Bed construction finally complete 
+
+Some [[Knowledge, Reality, and Value]]
+

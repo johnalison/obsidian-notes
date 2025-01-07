@@ -1,6 +1,7 @@
 # 2025
 
 - [[Dune]] (Frank Herbert)
+
 # 2024
 
 - [[The Problem of Political Authority]] (Micheal Heumer)
