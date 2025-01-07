@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/6 January 2025 Monday.md",
+                "file": "0-inbox/Dune.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "6 January 2025 Monday"
+              "title": "Dune"
             }
           },
           {
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "canvas",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/6 January 2025 Monday.md",
+                "file": "0-inbox/Dune.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 6 January 2025 Monday"
+              "title": "Backlinks for Dune"
             }
           },
           {
@@ -140,12 +140,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/6 January 2025 Monday.md",
+                "file": "0-inbox/Dune.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 6 January 2025 Monday"
+              "title": "Outgoing links from Dune"
             }
           },
           {
@@ -167,10 +167,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/6 January 2025 Monday.md"
+                "file": "0-inbox/Dune.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 6 January 2025 Monday"
+              "title": "Outline of Dune"
             }
           },
           {
@@ -204,8 +204,9 @@
   },
   "active": "81e5c66ee41147f1",
   "lastOpenFiles": [
-    "1-projects/Teaching/Modern Essentials.md",
     "Journal/6 January 2025 Monday.md",
+    "0-inbox/Dune.md",
+    "1-projects/Teaching/Modern Essentials.md",
     "0-inbox/Run3 HH4b Cutflow Challenge.md",
     "2-areas/Philosophy/wrong in future.md",
     "Input/Books/The Problem of Political Authority.md",
@@ -229,7 +230,6 @@
     "Output/Recommendation  Letters/Sam Hobbeheydar Rec Letter.md",
     "Output/ProgressReports/ProgressReport 20 December 2024.md",
     "Output/ProgressReports/ProgressReport 3 January 2024.md",
-    "00-Zettelkasten/Problems with Limits on Government Power.md",
     "Journal/#January.md#",
     "Journal/2024/November",
     "Journal/2024/October",

@@ -33,7 +33,7 @@
 # To Do
 
 - [x]  Aishik Ghosh visit (Feb 5th)
-- [ ]  Write up Dune
+- [ ]  Write up [[Dune]]
 - [ ] Wes's Thesis
 - [ ] Synthetic data
 	- [ ] New cluster splitting templates
@@ -102,3 +102,16 @@ c++ and python
  - SC di-pole magnets 
  - How to focus the beams. 
  - Higgs potential 
+
+# Gym / Steamroom
+- core / 50' zone 2
+- 10' Tmax = 123
+
+# Chat Sindhu 
+- Did a lot of Database stuff
+- back on the double peak question
+- Chatted a bit about motivation in for the lab (104)
+
+Home with M&T 
+
+Chess with H
