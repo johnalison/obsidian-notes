@@ -35,7 +35,7 @@
 	- [ ] Remake synthetirc data with update jet corrections
 - [ ] Add Run3 job to CI
 - [ ] Check effect of `selections.add( "pass4GenBJets", event.pass4GenBJets)`
-- [ ] 
+- [ ] Read [[Evolution of Silicon Sensor Technology in Particle Physics]] !!!
 
 ---
 
@@ -54,16 +54,27 @@ To Starbucks
 - Made our event numbers list
 - `python analysis/debugRun3CutFlow.py  hists/data_Run3_2022_EE.coffea`
 - Only missing ~1% of events
+- Some differences in jet and b-jet multiplicities
 
 
-# [[Sam Altman Blog New Year Reflections ]]
+[[Sam Altman Blog New Year Reflections ]]
 
 
 Against Libertarinism: 
 - "If embedded in an imperfect system, corporate efficiency is not always a pure virtue."
 
+
+# [[Modern Essentials]]
+- Adding syllabus to canvas page
+- published canvas page
+
 # d/acc: one year later
 - https://vitalik.eth.limo/general/2025/01/05/dacc2.html
+
+
+Wes' thesis => 
+[[Evolution of Silicon Sensor Technology in Particle Physics]]
+
 
 ----
 [[HGCManagementMeeting 7 January 2025]]

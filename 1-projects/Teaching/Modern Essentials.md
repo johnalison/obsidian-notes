@@ -2,12 +2,14 @@
 
 https://canvas.cmu.edu/courses/45541
 
+Old Canvas: https://canvas.cmu.edu/courses/32799
 ## To Do
-- [ ] Syllabus 
+- [x] Syllabus 
 - [x] Book Calendar 
 - [x] Canvas
 - [ ] Prep Lecture 1
 - [ ] Meet TA
+- [ ] Use announcements from old canvas
 
 # Draft Schedule 
 
