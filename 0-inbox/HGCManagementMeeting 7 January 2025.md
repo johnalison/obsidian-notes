@@ -10,7 +10,20 @@
 - Start 81 ECM: Ship PCB batch 1 to module assembly sites
 - Start 106? (Have Kria at CMU!)
 - Start 149 150 
+- close 116 / 123
+- Add expected for 149 and 150
 
+# Follow up with Dave
+- is the bae PCB proceeding ? (order out for a while)
+- assembly still underway
+
+
+
+[[CAM Turnaround Report]]
+
+https://docs.google.com/spreadsheets/d/12NhkWpOrwotOBbPfx21_r1S_-IWLX1YuRGmjqPmBb_0/edit?gid=1225274733#gid=1225274733
+
+[[MAC meeting 18 December 2024]]
 
 # Follow-ups
 
