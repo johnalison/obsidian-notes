@@ -32,6 +32,7 @@
 
 - [ ] Synthetic data
 	- [ ] cut flow challenge !!!
+	- [ ] Remake synthetirc data with update jet corrections
 - [ ] Add Run3 job to CI
 - [ ] Check effect of `selections.add( "pass4GenBJets", event.pass4GenBJets)`
 - [ ] 
@@ -52,11 +53,17 @@ To Starbucks
 - [x] Ask Marina to compare unblinded inclusive 4b counts... Maybe normalization is CR acceptance difference 
 - Made our event numbers list
 - `python analysis/debugRun3CutFlow.py  hists/data_Run3_2022_EE.coffea`
-
+- Only missing ~1% of events
 
 
 # [[Sam Altman Blog New Year Reflections ]]
 
+
+Against Libertarinism: 
+- "If embedded in an imperfect system, corporate efficiency is not always a pure virtue."
+
+# d/acc: one year later
+- https://vitalik.eth.limo/general/2025/01/05/dacc2.html
 
 ----
 [[HGCManagementMeeting 7 January 2025]]
