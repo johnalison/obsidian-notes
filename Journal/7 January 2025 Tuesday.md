@@ -75,6 +75,11 @@ Against Libertarinism:
 Wes' thesis => 
 [[Evolution of Silicon Sensor Technology in Particle Physics]]
 
+Home with kids
 
-----
 [[HGCManagementMeeting 7 January 2025]]
+
+Picked up H
+
+# Chat with Lipika
+- [[HGC Transfer Tape BCR]]

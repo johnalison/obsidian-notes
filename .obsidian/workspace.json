@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/HGCManagementMeeting 7 January 2025.md",
+                "file": "0-inbox/HGC Transfer Tape BCR.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HGCManagementMeeting 7 January 2025"
+              "title": "HGC Transfer Tape BCR"
             }
           },
           {
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/HGCManagementMeeting 7 January 2025.md",
+                "file": "0-inbox/HGC Transfer Tape BCR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for HGCManagementMeeting 7 January 2025"
+              "title": "Backlinks for HGC Transfer Tape BCR"
             }
           },
           {
@@ -140,12 +140,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/HGCManagementMeeting 7 January 2025.md",
+                "file": "0-inbox/HGC Transfer Tape BCR.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from HGCManagementMeeting 7 January 2025"
+              "title": "Outgoing links from HGC Transfer Tape BCR"
             }
           },
           {
@@ -167,10 +167,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/HGCManagementMeeting 7 January 2025.md"
+                "file": "0-inbox/HGC Transfer Tape BCR.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of HGCManagementMeeting 7 January 2025"
+              "title": "Outline of HGC Transfer Tape BCR"
             }
           },
           {
@@ -204,16 +204,17 @@
   },
   "active": "81e5c66ee41147f1",
   "lastOpenFiles": [
-    "Input/Meetings/MAC meeting 18 December 2024.md",
-    "0-inbox/HGCManagementMeeting 7 January 2025.md",
-    "1-projects/HGC/CAM Turnaround Report.md",
+    "Journal/January 2025.md",
+    "0-inbox/HGC Transfer Tape BCR.md",
     "Journal/7 January 2025 Tuesday.md",
+    "0-inbox/HGCManagementMeeting 7 January 2025.md",
+    "Input/Meetings/MAC meeting 18 December 2024.md",
+    "1-projects/HGC/CAM Turnaround Report.md",
     "0-inbox/Evolution of Silicon Sensor Technology in Particle Physics.md",
     "Journal/3 January 2025 Friday.md",
     "Journal/6 January 2025 Monday.md",
     "1-projects/Teaching/Modern Essentials.md",
     "Journal/2 January 2025 Thursday.md",
-    "Journal/January 2025.md",
     "Input/Blogs/Sam Altman Blog New Year Reflections.md",
     "0-inbox/Run3 HH4b Cutflow Challenge.md",
     "Journal/3 February 2025 Monday.md",
@@ -229,7 +230,6 @@
     "Input/Books/The Problem of Political Authority.md",
     "0-inbox/Aishik Ghosh visit.md",
     "Journal/December/30 December 2024 Monday.md",
-    "Journal/December/11 December 2024 Wednesday.md",
     "Journal/#January.md#",
     "Journal/2024/November",
     "Journal/2024/October",
