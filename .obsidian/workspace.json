@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/7 January 2025 Tuesday.md",
+                "file": "0-inbox/Evolution of Silicon Sensor Technology in Particle Physics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7 January 2025 Tuesday"
+              "title": "Evolution of Silicon Sensor Technology in Particle Physics"
             }
           },
           {
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/7 January 2025 Tuesday.md",
+                "file": "0-inbox/Evolution of Silicon Sensor Technology in Particle Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 7 January 2025 Tuesday"
+              "title": "Backlinks for Evolution of Silicon Sensor Technology in Particle Physics"
             }
           },
           {
@@ -140,12 +140,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/7 January 2025 Tuesday.md",
+                "file": "0-inbox/Evolution of Silicon Sensor Technology in Particle Physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 7 January 2025 Tuesday"
+              "title": "Outgoing links from Evolution of Silicon Sensor Technology in Particle Physics"
             }
           },
           {
@@ -167,10 +167,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/7 January 2025 Tuesday.md"
+                "file": "0-inbox/Evolution of Silicon Sensor Technology in Particle Physics.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 7 January 2025 Tuesday"
+              "title": "Outline of Evolution of Silicon Sensor Technology in Particle Physics"
             }
           },
           {
@@ -204,10 +204,11 @@
   },
   "active": "81e5c66ee41147f1",
   "lastOpenFiles": [
-    "0-inbox/Evolution of Silicon Sensor Technology in Particle Physics.md",
     "Journal/7 January 2025 Tuesday.md",
-    "0-inbox/HGCManagementMeeting 7 January 2025.md",
+    "Journal/3 January 2025 Friday.md",
     "Journal/6 January 2025 Monday.md",
+    "0-inbox/Evolution of Silicon Sensor Technology in Particle Physics.md",
+    "0-inbox/HGCManagementMeeting 7 January 2025.md",
     "1-projects/Teaching/Modern Essentials.md",
     "Journal/2 January 2025 Thursday.md",
     "Journal/January 2025.md",
@@ -216,7 +217,6 @@
     "Journal/3 February 2025 Monday.md",
     "Journal/5 January 2025 Sunday.md",
     "Journal/4 January 2025 Saturday.md",
-    "Journal/3 January 2025 Friday.md",
     "0-inbox/Ann Arbor Trip 2025.md",
     "Journal/1 January 2025 Wednesday.md",
     "Journal/December/31 December 2024 Tuesday.md",
