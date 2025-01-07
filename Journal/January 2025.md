@@ -5,7 +5,7 @@
 | 3  F | H to campus / book Ann Arbor / MSTR limit orders / **Hoops** / More M building     | 5/1/1 |
 | 4  S | solo dad/ Finished [[Dune]] / Sell ETH for pHex / Built bookshelves for M          |       |
 | 5  S | solo dad / Start [[Life and Fate]] / Campus / H to Basketball / **720 day** / pHex |       |
-| 6  M | (Aniket Oral)                                                                      |       |
+| 6  M | (Aniket Oral) Start cutflow challenge / **Gym/SR** / Chat Sindhu / Built table     | 6/2/2 |
 | 7  T |                                                                                    |       |
 | 8  W |                                                                                    |       |
 | 9  H |                                                                                    |       |
@@ -13,7 +13,7 @@
 | 11 S |                                                                                    |       |
 | 12 S |                                                                                    |       |
 | 13 M | (Classes Start)                                                                    |       |
-| 14 T |                                                                                    |       |
+| 14 T | (Panel Discussion)                                                                 |       |
 | 15 W |                                                                                    |       |
 | 16 H |                                                                                    |       |
 | 17 F |                                                                                    |       |
@@ -21,7 +21,7 @@
 | 19 S |                                                                                    |       |
 | 20 M | (No classes)                                                                       |       |
 | 21 T |                                                                                    |       |
-| 22 W |                                                                                    |       |
+| 22 W | (Presentation in Hbb)                                                              |       |
 | 23 H |                                                                                    |       |
 | 24 F |                                                                                    |       |
 | 25 S |                                                                                    |       |

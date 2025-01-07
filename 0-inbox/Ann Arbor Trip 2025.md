@@ -1,6 +1,6 @@
-- [ ] Need bus detroint -> Ann arbor 
+- [x] Need bus Detroit -> Ann arbor 
 	 https://campusinfo.umich.edu/article/and-airport
-
+Will get Uber.
 
 Flight: Booked Ann Arbor Flight
 - 456.97USD
