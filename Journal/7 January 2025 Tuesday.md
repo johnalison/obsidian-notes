@@ -1,22 +1,22 @@
 
-|     | setup |     |
-| --- | ----- | --- |
-| 9   |       |     |
-|     |       |     |
-| 10  |       |     |
-|     |       |     |
-| 11  |       |     |
-|     |       |     |
-| 12  |       |     |
-|     |       |     |
-| 1   |       |     |
-|     |       |     |
-| 2   |       |     |
-|     |       |     |
-| 3   |       |     |
-|     |       |     |
-| 4   |       |     |
-|     |       |     |
+|     | setup                           |     |
+| --- | ------------------------------- | --- |
+| 9   | To Starbucks                    |     |
+|     |                                 |     |
+| 10  | [[Run3 HH4b Cutflow Challenge]] |     |
+|     | [[Run3 HH4b Cutflow Challenge]] |     |
+| 11  | [[Run3 HH4b Cutflow Challenge]] |     |
+|     | [[Run3 HH4b Cutflow Challenge]] |     |
+| 12  | [[Modern Essentials]]           |     |
+|     | Reading                         |     |
+| 1   | Home with Kids                  |     |
+|     |                                 |     |
+| 2   |                                 |     |
+|     |                                 |     |
+| 3   | Mans                            |     |
+|     | Mans                            |     |
+| 4   | Mans                            |     |
+|     |                                 |     |
 
 **W:**
 **DW:**
@@ -30,9 +30,10 @@
 ---
 # To Do
 
-- [ ] 
-- [ ] 
-- [ ] 
+- [ ] Synthetic data
+	- [ ] cut flow challenge !!!
+- [ ] Add Run3 job to CI
+- [ ] Check effect of `selections.add( "pass4GenBJets", event.pass4GenBJets)`
 - [ ] 
 
 ---
@@ -40,3 +41,22 @@
 # Log
 
 w/kids
+
+To Starbucks 
+
+# [[Run3 HH4b Cutflow Challenge]]
+- output event list for florida
+	- `python debug_HHRun3.py`
+- Outputting our preSelection event list
+	- `time python runner.py -o data_Run3_2022_EE.coffea -d data -p analysis/processors/processor_HH4b.py -y 2022_EE   -op hists -c analysis/metadata/HH4b_run_fastTopReco.yml -m metadata/datasets_HH4b_Run3_fourTag_v4.yml`
+- [x] Ask Marina to compare unblinded inclusive 4b counts... Maybe normalization is CR acceptance difference 
+- Made our event numbers list
+- `python analysis/debugRun3CutFlow.py  hists/data_Run3_2022_EE.coffea`
+
+
+
+# [[Sam Altman Blog New Year Reflections ]]
+
+
+----
+[[HGCManagementMeeting 7 January 2025]]

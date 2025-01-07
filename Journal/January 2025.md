@@ -12,7 +12,7 @@
 | 10 F | (in-person Faculty noon)                                                           |       |
 | 11 S |                                                                                    |       |
 | 12 S |                                                                                    |       |
-| 13 M | (Classes Start)                                                                    |       |
+| 13 M | (Classes Start) (Tova)                                                             |       |
 | 14 T | (Panel Discussion)                                                                 |       |
 | 15 W |                                                                                    |       |
 | 16 H |                                                                                    |       |

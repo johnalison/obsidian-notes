@@ -39,7 +39,7 @@
 - [ ] Wes's Thesis
 - [ ] Synthetic data
 	- [ ] New cluster splitting templates
-	- [ ] cut flow challenge !!!
+	[>>] cut flow challenge !!!
 	- [ ] Run-3 Presentations 
 - [ ] Call Liberty mutual re:tree down
 - [ ] Pick up contacts

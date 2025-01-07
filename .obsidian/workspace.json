@@ -36,7 +36,7 @@
             }
           },
           {
-            "id": "8ea1f78ce666b0e3",
+            "id": "8e57a613d1e5a947",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:bo",
+                "query": "file:janua",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/January 2025.md",
+                "file": "Journal/7 January 2025 Tuesday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for January 2025"
+              "title": "Backlinks for 7 January 2025 Tuesday"
             }
           },
           {
@@ -141,12 +141,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/January 2025.md",
+                "file": "Journal/7 January 2025 Tuesday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from January 2025"
+              "title": "Outgoing links from 7 January 2025 Tuesday"
             }
           },
           {
@@ -168,10 +168,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/January 2025.md"
+                "file": "Journal/7 January 2025 Tuesday.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of January 2025"
+              "title": "Outline of 7 January 2025 Tuesday"
             }
           },
           {
@@ -203,21 +203,23 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8ea1f78ce666b0e3",
+  "active": "ba625790b603c995",
   "lastOpenFiles": [
-    "Journal/6 January 2025 Monday.md",
-    "Journal/January 2025.md",
+    "Journal/2 January 2025 Thursday.md",
+    "0-inbox/HGCManagementMeeting 7 January 2025.md",
     "Journal/7 January 2025 Tuesday.md",
+    "Journal/January 2025.md",
+    "Input/Blogs/Sam Altman Blog New Year Reflections.md",
+    "0-inbox/Run3 HH4b Cutflow Challenge.md",
+    "Journal/6 January 2025 Monday.md",
     "Journal/3 February 2025 Monday.md",
     "Journal/5 January 2025 Sunday.md",
     "Journal/4 January 2025 Saturday.md",
     "Journal/3 January 2025 Friday.md",
     "0-inbox/Ann Arbor Trip 2025.md",
-    "Journal/2 January 2025 Thursday.md",
     "Journal/1 January 2025 Wednesday.md",
     "Journal/December/31 December 2024 Tuesday.md",
     "Input/Blogs/How to Like Everything More.md",
-    "0-inbox/Run3 HH4b Cutflow Challenge.md",
     "1-projects/Teaching/Modern Essentials.md",
     "Input/Books/Books.md",
     "Input/Books/Dune.md",
@@ -229,8 +231,6 @@
     "0-inbox/Tree Stump.md",
     "0-inbox/ToDo.md",
     "0-inbox/Things-To-Add-To-Notes.md",
-    "3-resources/crypto/CryptoMoves.md",
-    "0-inbox/StartupSpending.md",
     "Journal/#January.md#",
     "Journal/2024/November",
     "Journal/2024/October",
