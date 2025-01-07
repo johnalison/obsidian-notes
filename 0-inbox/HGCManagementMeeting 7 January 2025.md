@@ -11,7 +11,7 @@
 - Start 106? (Have Kria at CMU!)
 - Start 149 150 
 - close 116 / 123
-- Add expected for 149 and 150
+- Added expected for 149 and 150
 
 # Follow up with Dave
 - is the bae PCB proceeding ? (order out for a while)
