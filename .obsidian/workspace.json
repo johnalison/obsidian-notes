@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/Dune.md",
+                "file": "Input/Books/Books.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dune"
+              "title": "Books"
             }
           },
           {
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "file:bo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/Dune.md",
+                "file": "Input/Books/Books.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Dune"
+              "title": "Backlinks for Books"
             }
           },
           {
@@ -140,12 +140,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/Dune.md",
+                "file": "Input/Books/Books.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Dune"
+              "title": "Outgoing links from Books"
             }
           },
           {
@@ -167,10 +167,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/Dune.md"
+                "file": "Input/Books/Books.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Dune"
+              "title": "Outline of Books"
             }
           },
           {
@@ -204,8 +204,8 @@
   },
   "active": "81e5c66ee41147f1",
   "lastOpenFiles": [
+    "Input/Books/Dune.md",
     "Journal/6 January 2025 Monday.md",
-    "0-inbox/Dune.md",
     "1-projects/Teaching/Modern Essentials.md",
     "0-inbox/Run3 HH4b Cutflow Challenge.md",
     "2-areas/Philosophy/wrong in future.md",
