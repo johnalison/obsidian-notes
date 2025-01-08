@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/8 January 2025 Wednesday.md",
+                "file": "1-projects/Mixed2.0/Run3 Synthetic Data.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "8 January 2025 Wednesday"
+              "title": "Run3 Synthetic Data"
             }
           },
           {
@@ -55,15 +55,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-projects/HH4b/Run2 HH4b AN.md",
+                "file": "Journal/8 January 2025 Wednesday.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Run2 HH4b AN"
+              "title": "8 January 2025 Wednesday"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -82,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:janua",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -135,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/7 January 2025 Tuesday.md",
+                "file": "Journal/8 January 2025 Wednesday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +146,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 7 January 2025 Tuesday"
+              "title": "Backlinks for 8 January 2025 Wednesday"
             }
           },
           {
@@ -154,12 +155,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/7 January 2025 Tuesday.md",
+                "file": "Journal/8 January 2025 Wednesday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 7 January 2025 Tuesday"
+              "title": "Outgoing links from 8 January 2025 Wednesday"
             }
           },
           {
@@ -181,10 +182,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/7 January 2025 Tuesday.md"
+                "file": "Journal/8 January 2025 Wednesday.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 7 January 2025 Tuesday"
+              "title": "Outline of 8 January 2025 Wednesday"
             }
           },
           {
@@ -216,13 +217,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "81e5c66ee41147f1",
+  "active": "c88cc96372c3e42e",
   "lastOpenFiles": [
-    "Journal/8 January 2025 Wednesday.md",
     "Journal/7 January 2025 Tuesday.md",
+    "Journal/8 January 2025 Wednesday.md",
+    "1-projects/HH4b/Run2 HH4b AN.md",
+    "1-projects/Mixed2.0/Run3 Synthetic Data.md",
     "Journal/6 January 2025 Monday.md",
     "1-projects/Teaching/Modern Essentials.md",
-    "1-projects/HH4b/Run2 HH4b AN.md",
     "Journal/January 2025.md",
     "Journal/5 January 2025 Sunday.md",
     "Journal/4 January 2025 Saturday.md",
@@ -243,7 +245,6 @@
     "Input/Books/Books.md",
     "Input/Books/Dune.md",
     "2-areas/Philosophy/wrong in future.md",
-    "Input/Books/The Problem of Political Authority.md",
     "Journal/#January.md#",
     "Journal/2024/November",
     "Journal/2024/October",

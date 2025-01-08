@@ -26,17 +26,17 @@
 
 ---
 # The ONE thing: 
-- [ ] Cutflow challenge
+- [x] Cutflow challenge
 
 ---
 # To Do
 
-- [ ] Synthetic data
+- [>>] Synthetic data
 	- [x] cut flow challenge !!!
-	- [ ] Remake synthetic data with update jet corrections
-- [ ] Add Run3 job to CI
-- [ ] Check effect of `selections.add( "pass4GenBJets", event.pass4GenBJets)`
-- [ ] Read [[Evolution of Silicon Sensor Technology in Particle Physics]] !!!
+	- [>>] Remake synthetic data with update jet corrections
+ [>>] Add Run3 job to CI
+- [>>] Check effect of `selections.add( "pass4GenBJets", event.pass4GenBJets)`
+- [>>] Read [[Evolution of Silicon Sensor Technology in Particle Physics]] !!!
 
 ---
 
