@@ -75,7 +75,12 @@ home... walk to campus by 9:30
 	- 30 GeV b-jet filter 
 	- new jet corrections
 	- `source  .ci-workflows/synthetic-dataset-make-dataset-all.sh
+- Errors due to change in `apply_object_selection_4b` interface 
+- Running
 
 Looks like the pass4bGenBs does not mess up the cutflow, but it is also never True for signal ! 
 - [ ] Debug truth v4j
+
+Bought 2024 yearbook
+Bought new basketball
 
