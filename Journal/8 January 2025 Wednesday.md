@@ -40,7 +40,7 @@
 - [ ] [[Run2 HH4b AN]]
 - [ ] Reverse chronological order on daily logs ?
 - [ ]  Add Run3 job to CI
-- [ ] Check effect of `selections.add( "pass4GenBJets", event.pass4GenBJets)`
+- [x] Check effect of `selections.add( "pass4GenBJets", event.pass4GenBJets)`
 - [ ] Read [[Evolution of Silicon Sensor Technology in Particle Physics]] !!!
 
 ---
@@ -74,3 +74,8 @@ home... walk to campus by 9:30
 - Remaking v4 synthetic data 
 	- 30 GeV b-jet filter 
 	- new jet corrections
+	- `source  .ci-workflows/synthetic-dataset-make-dataset-all.sh
+
+Looks like the pass4bGenBs does not mess up the cutflow, but it is also never True for signal ! 
+- [ ] Debug truth v4j
+
