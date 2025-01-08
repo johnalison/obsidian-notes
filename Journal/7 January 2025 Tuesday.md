@@ -19,10 +19,10 @@
 |     | Get H                           |     |
 | 5   | Lipika                          |     |
 
-**W:**
-**DW:**
-**OT:**
-**ex** or **No ex**
+**W:** 5 
+**DW:** 3
+**OT:**  2
+**No ex**
 
 ---
 # The ONE thing: 
@@ -32,8 +32,8 @@
 # To Do
 
 - [ ] Synthetic data
-	- [ ] cut flow challenge !!!
-	- [ ] Remake synthetirc data with update jet corrections
+	- [x] cut flow challenge !!!
+	- [ ] Remake synthetic data with update jet corrections
 - [ ] Add Run3 job to CI
 - [ ] Check effect of `selections.add( "pass4GenBJets", event.pass4GenBJets)`
 - [ ] Read [[Evolution of Silicon Sensor Technology in Particle Physics]] !!!
