@@ -51,3 +51,6 @@ H to school in Lynns Car, then M to school (tons of traffic in snow)
 home... walk to campus by 9:30
 
 [[Run2 HH4b AN]]
+
+# Long Chat Aniket 
+- re:Oral 
