@@ -5,7 +5,7 @@
 
 Up at 9 
 
-solo dad
+Solo dad
 
 Some [[Dune]] 
 Some [[Knowledge, Reality, and Value]]

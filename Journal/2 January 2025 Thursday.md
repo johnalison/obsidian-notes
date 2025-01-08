@@ -71,10 +71,7 @@ Kria Controller Arrives!
 
 Marlos Bed arrives
 # [[Jet DeClustering]]
-- Plots for RunII 30 GeV 
-	`py jet_clustering/compare_datasets.py hists/synthetic_data_RunII_30GeV_noOverride_seedXXX.coffea --out analysis/plots_synthetic_datasets_all_00-08-02-RunII_30GeV_noOverride -m analysis/metadata/plotsSyntheticVsData2.yml`
-- Make slides
-	`make jetclustering_slides_RunII TEXFILENAME=SyntheticDatasets-00-08-02_RunII_30GeV_noOverride NEW_DIR=analysis\\/plots_synthetic_datasets_all_00-08-02-RunII_30GeV_noOverride /Library/Developer/CommandLineTools/usr/bin/make jetclustering_slides_year YEAR=RunII`
+- See logs above
 
 
 # Gym / Steamroom
@@ -92,7 +89,7 @@ reviewed November
 	- Say is P/E ~ X, expect to earn 0.05 P => if E = 1/20 P, then P/E = 20
 	- APPL:  E = 0.3 P so P/E ~ 3
 
-reviewed December
+Reviewed December
 
 Home with M&T 
 

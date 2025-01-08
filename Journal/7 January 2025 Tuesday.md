@@ -2,7 +2,7 @@
 |     | setup                           |     |
 | --- | ------------------------------- | --- |
 | 9   | To Starbucks                    |     |
-|     |                                 |     |
+|     | setup                           |     |
 | 10  | [[Run3 HH4b Cutflow Challenge]] |     |
 |     | [[Run3 HH4b Cutflow Challenge]] |     |
 | 11  | [[Run3 HH4b Cutflow Challenge]] |     |
@@ -10,13 +10,14 @@
 | 12  | [[Modern Essentials]]           |     |
 |     | Reading                         |     |
 | 1   | Home with Kids                  |     |
-|     |                                 |     |
-| 2   |                                 |     |
-|     |                                 |     |
+|     | w/T                             |     |
+| 2   | w/M                             |     |
+|     | Reading                         |     |
 | 3   | Mans                            |     |
 |     | Mans                            |     |
 | 4   | Mans                            |     |
-|     |                                 |     |
+|     | Get H                           |     |
+| 5   | Lipika                          |     |
 
 **W:**
 **DW:**
@@ -83,3 +84,6 @@ Picked up H
 
 # Chat with Lipika
 - [[HGC Transfer Tape BCR]]
+
+Some [[Life and Fate]]
+Some [[Knowledge, Reality, and Value]]

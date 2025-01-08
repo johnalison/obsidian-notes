@@ -34,15 +34,15 @@
 
 - [x]  Aishik Ghosh visit (Feb 5th)
 - [x]  Write up [[Dune]]
-- [ ] [[Modern Essentials]]
+- [x] [[Modern Essentials]]
 	- [x] setup 
-- [ ] Wes's Thesis
-- [ ] Synthetic data
-	- [ ] New cluster splitting templates
+ [>>] Wes's Thesis
+ [>>] Synthetic data
+	[>>] New cluster splitting templates
 	[>>] cut flow challenge !!!
-	- [ ] Run-3 Presentations 
-- [ ] Call Liberty mutual re:tree down
-- [ ] Pick up contacts
+	[XX] ~~Run-3 Presentations~~ (Wait until we have results with new calibration) 
+ [>>] Call Liberty mutual re:tree down
+ [>>] Pick up contacts
 
 ---
 
@@ -55,15 +55,14 @@ Snow day for H... Kida to Cyert by 9
 c++ and python
 
 # Chat AE: 
-- [ ] L3 comments v2
-- [ ] Need new background model
-- [ ] Whats wrong with mixed data fits ?
-	- [ ] Repeate Closure with old SvB
+- [>>] L3 comments v2
+-  [>>] Need new background model
+- [>>] Whats wrong with mixed data fits ?
+	- [>>] Repeate Closure with old SvB
 
 [[Aishik Ghosh visit]]
 
-# Cutflow challenge
-- [[Run3 HH4b Cutflow Challenge]]
+# [[Run3 HH4b Cutflow Challenge]]
 - Copied File from marina to 
 	`root://cmseos.fnal.gov//store/user/jda102/debugRun3HH/data_2022_postEE_0_tree.root`
 - Chat GPT to write uproot program
@@ -92,18 +91,17 @@ c++ and python
  - Synchrotron radiation:  losses small. 
  - frequency 400 MHz ?
  - Bremming: strength vs chemical species ? Z 
- - 1/m^4 
  - Why plastic is not good as plastic ?
- - Thickness of ECAL: charge on teh nucleus
+ - Thickness of ECAL: charge on the nucleus
  - Why sqrt in S/sqrt(B) ?
- - What happens to 3 DoF of the HIggs
+ - What happens to 3 DoF of the Higgs
  - Why Higgs (v+h)^4 ??
  - How do you get anti-quarks at the LHC? PDFs 
  - E=mγ
  - Br(W->enu) ?
  - SC di-pole magnets 
  - How to focus the beams. 
- - Higgs potential 
+ - Higgs potential factorization
 
 # Gym / Steamroom
 - core / 50' zone 2

@@ -2,19 +2,11 @@ Official version: https://cms.cern.ch/iCMS/jsp/db_notes/noteInfo.jsp?cmsnoteid=C
 Twiki: https://twiki.cern.ch/twiki/bin/view/CMSPublic/Run2HH4b
 
 # To do
-
-Cut a v3: 
-- [x] Fix binning
-- [x] ggHbb 3b w/o and w JCM
-- [x] Finalize L3 comments
-- [ ] Add to AN
-	- [x] (AE) Add Boosted / Resolved discussion
-	- [x] (AE) prefit plots + impact/pulls with asimov data 
-	- [x] (AE) plots per year ( to appendix T)
-	- [ ] (AE) refit  ZZ/ZH sensitivity (should actually improve with ensembeling )
-	- [x] Blinded prefit plots (JA)
-
-
+- [ ] L3 comments v2
+- [ ] Need new background model
+- [ ] Whats wrong with mixed data fits ?
+	- [ ] Repeate Closure with old SvB
+- [ ] What is up with PS FSR
 
 Towards v4
 - [ ] Update nominal background for k-folding
@@ -24,16 +16,6 @@ Towards v4
 - [ ] Re do FvT fits with new code
 - [ ] ~~Try to Correct bias from ZZ region (?)~~
 - [ ] Add to AN
-    - [x] Update plots with new code
-	    - [x] fig 32 (Problem with ttbar Fraction)
-	    - [x] 33 (From JCM Fits)
-	    - [x] 34 (Need to add nPseudoTagJets)
-	    - [x] 36 - 40 are (No FvT plots)
-	    - [x] 42 - 49 (FvT Plots)
-	    - [x] 72 Mixed data summary plots
-	    - [x] 91-93 (From Combine)
-	    - [x] 98
-	    - [x] 99 - 101 (From Combine)
 	- [ ] Add κλ scan
 
 
@@ -130,6 +112,31 @@ Looking into ggHbb
 - Updating the responses. 
 - [x] New v3 versions
 - [x] Send email to L3s
+
+
+# Archive
+
+Cut a v3: 
+- [x] Fix binning
+- [x] ggHbb 3b w/o and w JCM
+- [x] Finalize L3 comments
+- [x] Add to AN
+	- [x] (AE) Add Boosted / Resolved discussion
+	- [x] (AE) prefit plots + impact/pulls with asimov data 
+	- [x] (AE) plots per year ( to appendix T)
+	- [x] (AE) refit  ZZ/ZH sensitivity (should actually improve with ensembeling )
+	- [x] Blinded prefit plots (JA)
+- [x] Add to AN
+    - [x] Update plots with new code
+	    - [x] fig 32 (Problem with ttbar Fraction)
+	    - [x] 33 (From JCM Fits)
+	    - [x] 34 (Need to add nPseudoTagJets)
+	    - [x] 36 - 40 are (No FvT plots)
+	    - [x] 42 - 49 (FvT Plots)
+	    - [x] 72 Mixed data summary plots
+	    - [x] 91-93 (From Combine)
+	    - [x] 98
+	    - [x] 99 - 101 (From Combine)
 # Follow-ups
 
 

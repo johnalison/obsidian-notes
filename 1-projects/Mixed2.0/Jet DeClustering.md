@@ -739,7 +739,11 @@ update presentations with hT and top reco
 	- Data is OK
 	- **fixed the issue!**  Cannot repeat filenames in the datasets.. All the PS data was being counted in v0 (fixed by making copies of the PS data with different file name)
 
-
+[[2 January 2025 Thursday]]
+- Plots for RunII 30 GeV 
+	`py jet_clustering/compare_datasets.py hists/synthetic_data_RunII_30GeV_noOverride_seedXXX.coffea --out analysis/plots_synthetic_datasets_all_00-08-02-RunII_30GeV_noOverride -m analysis/metadata/plotsSyntheticVsData2.yml`
+- Make slides
+	`make jetclustering_slides_RunII TEXFILENAME=SyntheticDatasets-00-08-02_RunII_30GeV_noOverride NEW_DIR=analysis\\/plots_synthetic_datasets_all_00-08-02-RunII_30GeV_noOverride /Library/Developer/CommandLineTools/usr/bin/make jetclustering_slides_year YEAR=RunII`
 
 # Archive:
 
