@@ -15,8 +15,8 @@
 |     | Got contacts            |     |
 | 3   | Reading                 |     |
 |     | Reading                 |     |
-| 4   |                         |     |
-|     |                         |     |
+| 4   | [[Run3 Synthetic Data]] |     |
+|     | [[Run3 Synthetic Data]] |     |
 
 **W:**
 **DW:**
@@ -75,6 +75,10 @@ More Adding Run3CI
 - AE pushed fix for JECRs 
 - pulled...fixed printout
 - resumbitting on **cmslpc331**
+- `source .ci-workflows/synthetic-dataset-make-dataset-all.sh`
+- Finished ... **real    149m59.119s**
+- Making hists... errror when processing synthetic data with new JECRs
+- fixed... running
 
 Picked up new contacts
 
