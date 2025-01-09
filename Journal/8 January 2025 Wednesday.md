@@ -68,16 +68,7 @@ home... walk to campus by 9:30
 - 10' at Tmax = 120
 
 # [[Run3 Synthetic Data]]
-- Merged
-- Running on **cmslpc339**
-- 30 GeV threshold
-- Remaking v4 synthetic data 
-	- 30 GeV b-jet filter 
-	- new jet corrections
-	- `source  .ci-workflows/synthetic-dataset-make-dataset-all.sh
-- Errors due to change in `apply_object_selection_4b` interface 
-- Running ... not on tmux !!... killed ... re running
-- Fails b/c of BPix JEC crash.. Pinged AE
+- See logs above
 
 
 Looks like the pass4bGenBs does not mess up the cutflow, but it is also never True for signal ! 

@@ -25,7 +25,7 @@
 
 ---
 # The ONE thing: 
-- [ ] [[Jet DeClustering]]
+- [ ] [[Run3 Synthetic Data]]
 
 ---
 # To Do
@@ -55,10 +55,8 @@ M & T to school... H to office
 Booked Ann Arbor Flight
 - direct 456.97USD
 
-# [[Jet DeClustering]]
-- Iterated with marina 
-- 25% differneces in yields 
-- [>>] Cut flow challenge
+# [[Run3 Synthetic Data]]
+- See logs above
 
 # Vanguard Moves
 - 50 MSTR shares at $300 = ~$15k
