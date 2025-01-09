@@ -14,14 +14,14 @@
 | 2   | [[Run3 Synthetic Data]] |     |
 |     | [[Run3 Synthetic Data]] |     |
 | 3   | [[Run3 Synthetic Data]] |     |
-|     |                         |     |
-| 4   |                         |     |
+|     | [[Run3 Synthetic Data]] |     |
+| 4   | [[Run3 Synthetic Data]] |     |
 |     |                         |     |
 
 **W:**
 **DW:**
 **OT:**
-**ex** or **No ex**
+**ex** 
 
 ---
 # The ONE thing: 
@@ -34,7 +34,7 @@
 - [ ] Pick up contacts
 - [ ] Synthetic Data
 	- [ ] New cluster splitting templates
-	- [ ] Remake synthetic data with updated jet corrections
+	- [x] Remake synthetic data with updated jet corrections
 - [ ]  Wes's Thesis
 - [ ] Call Liberty mutual re:tree down
 - [ ] [[Run2 HH4b AN]]
@@ -76,7 +76,8 @@ home... walk to campus by 9:30
 	- new jet corrections
 	- `source  .ci-workflows/synthetic-dataset-make-dataset-all.sh
 - Errors due to change in `apply_object_selection_4b` interface 
-- Running
+- Running ... not on tmux !!... killed ... re running
+
 
 Looks like the pass4bGenBs does not mess up the cutflow, but it is also never True for signal ! 
 - [ ] Debug truth v4j
@@ -84,3 +85,9 @@ Looks like the pass4bGenBs does not mess up the cutflow, but it is also never Tr
 Bought 2024 yearbook
 Bought new basketball
 
+
+# Chat AE
+- unblinded mixed data used the wrong background model... will fix
+
+
+Leave to get M
