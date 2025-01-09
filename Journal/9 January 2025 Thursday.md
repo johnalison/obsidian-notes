@@ -49,4 +49,11 @@
 Up at 7.. home with T 
 
 # FBC2
+
+Adding Run3CI 
+- Analysis job and cut flow
+- [ ] Need to upload flies to eos
+
+
+# Stats Chat
 - 
