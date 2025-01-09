@@ -25,7 +25,8 @@
 
 ---
 # The ONE thing: 
-- [ ] Add Run3 job to CI
+- [x] Add Run3 job to CI
+- [ ] Make v4 of the [[Run3 Synthetic Data]]
 
 ---
 # To Do
@@ -58,7 +59,9 @@ Up at 7.. home with T
 - Coping files to EOS
 	- `py filesToLxplus.py `
 - Failed...files there but cant be read on gitlab...pinged AE
-- 
+- Had to explicity give alejandro access to the tmpFiles directory via CERNBOX
+- that worked! ... merged! 
+- Need to add cutflow
 # Stats Chat
 - [x] Send crypto links
 	[[CryptoLinks]]
@@ -73,5 +76,8 @@ More Adding Run3CI
 - pulled...fixed printout
 - resumbitting on **cmslpc331**
 
-# [[Evolution of Silicon Sensor Technology in Particle Physics]] 
+Picked up new contacts
+
+Some [[Evolution of Silicon Sensor Technology in Particle Physics]] 
+
 
