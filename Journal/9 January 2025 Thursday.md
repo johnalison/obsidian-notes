@@ -56,14 +56,13 @@ Adding Run3CI
 
 
 # Stats Chat
-- [ ] Send crypto links
-	- [https://inference-review.com/article/cryptocurrencies-and-blockchains](https://inference-review.com/article/cryptocurrencies-and-blockchains)  
-	and a "reply"
-[https://inference-review.com/letter/from-bitcoin-to-ethereum](https://inference-review.com/letter/from-bitcoin-to-ethereum)
-	[https://www.econtalk.org/wences-casares-on-bitcoin-and-xapo/](https://www.econtalk.org/wences-casares-on-bitcoin-and-xapo/)
+- [x] Send crypto links
+	[[CryptoLinks]]
+	[[CryptoBottomLine]]
 - Another background fit in th eSR
 
-Coping files to EOS
+Coping files to EOS:
+- 
 
 
 AE pushed fix for 
