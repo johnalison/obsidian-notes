@@ -12,9 +12,9 @@
 | 1   | T down                  |     |
 |     | [[Run3 Synthetic Data]] |     |
 | 2   | [[Run3 Synthetic Data]] |     |
-|     |                         |     |
-| 3   |                         |     |
-|     |                         |     |
+|     | Got contacts            |     |
+| 3   | Reading                 |     |
+|     | Reading                 |     |
 | 4   |                         |     |
 |     |                         |     |
 
@@ -32,7 +32,7 @@
 
 - [x] Update Wes Annual Review
 - [ ] Write up  [[Knowledge, Reality, and Value]]
-- [ ] Pick up contacts
+- [x] Pick up contacts
 - [ ] Wes's Thesis
 - [ ] Debug truth v4j
 - [ ] Call Liberty mutual re:tree down
@@ -72,3 +72,6 @@ More Adding Run3CI
 - AE pushed fix for JECRs 
 - pulled...fixed printout
 - resumbitting on **cmslpc331**
+
+# [[Evolution of Silicon Sensor Technology in Particle Physics]] 
+
