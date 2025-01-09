@@ -55,7 +55,6 @@ M & T to school... H to office
 Booked Ann Arbor Flight
 - direct 456.97USD
 
-
 # [[Jet DeClustering]]
 - Iterated with marina 
 - 25% differneces in yields 

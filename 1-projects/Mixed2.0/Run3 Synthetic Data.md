@@ -1,9 +1,15 @@
 
 # To Do
+- [ ] New cluster splitting templates
 Feedback from Marina:
 - [ ] add the TrigObj collection
 - [x] Move pt cut to 35
 - [ ] Jets with 3 medium b-jets
+
+
+
+**v3**
+- new skims (btag filter at 40 GeV)
 
 **v1**
 - 202*_v1

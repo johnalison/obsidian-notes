@@ -1,0 +1,52 @@
+
+|     | setup      |     |
+| --- | ---------- | --- |
+| 9   | FB2C       |     |
+|     | FB2C       |     |
+| 10  | Run3 CIs   |     |
+|     | Run3 CIs   |     |
+| 11  | Stats Chat |     |
+|     | Stats Chat |     |
+| 12  |            |     |
+|     |            |     |
+| 1   |            |     |
+|     |            |     |
+| 2   |            |     |
+|     |            |     |
+| 3   |            |     |
+|     |            |     |
+| 4   |            |     |
+|     |            |     |
+
+**W:**
+**DW:**
+**OT:**
+**ex** or **No ex**
+
+---
+# The ONE thing: 
+- [ ] Add Run3 job to CI
+
+---
+# To Do
+
+- [x] Update Wes Annual Review
+- [ ] Write up  [[Knowledge, Reality, and Value]]
+- [ ] Pick up contacts
+- [ ] Wes's Thesis
+- [ ] Debug truth v4j
+- [ ] Call Liberty mutual re:tree down
+- [ ]  [[Run2 HH4b AN]]
+- [ ] Reverse chronological order on daily logs ?
+- [ ]  Add Run3 job to CI
+- [ ] Read [[Evolution of Silicon Sensor Technology in Particle Physics]] !!!
+
+
+---
+
+# Log
+
+Up at 7.. home with T 
+
+# FBC2
+- 

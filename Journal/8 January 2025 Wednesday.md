@@ -16,11 +16,11 @@
 | 3   | [[Run3 Synthetic Data]] |     |
 |     | [[Run3 Synthetic Data]] |     |
 | 4   | [[Run3 Synthetic Data]] |     |
-|     |                         |     |
+|     | home with M on bus      |     |
 
-**W:**
-**DW:**
-**OT:**
+**W:** 5 
+**DW:** 4
+**OT:** 3
 **ex** 
 
 ---
@@ -30,18 +30,18 @@
 ---
 # To Do
 
-- [ ] Modern Essentials: prep Lecture 1
-- [ ] Pick up contacts
-- [ ] Synthetic Data
-	- [ ] New cluster splitting templates
+- [>>] Modern Essentials: prep Lecture 1
+- [>>] Pick up contacts
+- [>>]  [[Run3 Synthetic Data]]
+	- [<<] New cluster splitting templates
 	- [x] Remake synthetic data with updated jet corrections
-- [ ]  Wes's Thesis
-- [ ] Call Liberty mutual re:tree down
-- [ ] [[Run2 HH4b AN]]
-- [ ] Reverse chronological order on daily logs ?
-- [ ]  Add Run3 job to CI
+- [>>]  Wes's Thesis
+- [>>] Call Liberty mutual re:tree down
+- [>>]  [[Run2 HH4b AN]]
+- [>>] Reverse chronological order on daily logs ?
+- [>>]  Add Run3 job to CI
 - [x] Check effect of `selections.add( "pass4GenBJets", event.pass4GenBJets)`
-- [ ] Read [[Evolution of Silicon Sensor Technology in Particle Physics]] !!!
+- [>>] Read [[Evolution of Silicon Sensor Technology in Particle Physics]] !!!
 
 ---
 
@@ -81,7 +81,7 @@ home... walk to campus by 9:30
 
 
 Looks like the pass4bGenBs does not mess up the cutflow, but it is also never True for signal ! 
-- [ ] Debug truth v4j
+- [>>] Debug truth v4j
 
 Bought 2024 yearbook
 Bought new basketball
@@ -95,4 +95,4 @@ Leave to get M.. bus home with M !
 
 Some [[Life and Fate]]
 
-Finished [[Knowledge, Reality, and Value]] Awesome !
+Finished [[Knowledge, Reality, and Value]] .... Awesome !

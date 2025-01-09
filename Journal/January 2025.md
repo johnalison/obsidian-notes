@@ -6,8 +6,8 @@
 | 4  S | solo dad/ Finished [[Dune]] / Sell ETH for pHex / Built bookshelves for M          |       |
 | 5  S | solo dad / Start [[Life and Fate]] / Campus / H to Basketball / **720 day** / pHex |       |
 | 6  M | (Aniket Oral) Start cutflow challenge / **Gym/SR** / Chat Sindhu / Built table     | 6/2/2 |
-| 7  T |                                                                                    |       |
-| 8  W |                                                                                    |       |
+| 7  T | Work Starbucks / Cutflow Challenge / Modern Essentials Prep / BCR work             | 5/3/2 |
+| 8  W | (T surgery) Debrief Aniket / Chats AE / **Hoops/SR** / new JEC / M on bus          | 5/4/3 |
 | 9  H |                                                                                    |       |
 | 10 F | (in-person Faculty noon)                                                           |       |
 | 11 S |                                                                                    |       |
