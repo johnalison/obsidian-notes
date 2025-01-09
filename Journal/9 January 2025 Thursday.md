@@ -62,3 +62,8 @@ Adding Run3CI
 [https://inference-review.com/letter/from-bitcoin-to-ethereum](https://inference-review.com/letter/from-bitcoin-to-ethereum)
 	[https://www.econtalk.org/wences-casares-on-bitcoin-and-xapo/](https://www.econtalk.org/wences-casares-on-bitcoin-and-xapo/)
 - Another background fit in th eSR
+
+Coping files to EOS
+
+
+AE pushed fix for 
