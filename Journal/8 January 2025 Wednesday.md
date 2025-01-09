@@ -77,6 +77,7 @@ home... walk to campus by 9:30
 	- `source  .ci-workflows/synthetic-dataset-make-dataset-all.sh
 - Errors due to change in `apply_object_selection_4b` interface 
 - Running ... not on tmux !!... killed ... re running
+- Fails b/c of BPix JEC crash.. Pinged AE
 
 
 Looks like the pass4bGenBs does not mess up the cutflow, but it is also never True for signal ! 
@@ -90,4 +91,8 @@ Bought new basketball
 - unblinded mixed data used the wrong background model... will fix
 
 
-Leave to get M
+Leave to get M.. bus home with M ! 
+
+Some [[Life and Fate]]
+
+Finished [[Knowledge, Reality, and Value]] Awesome !
