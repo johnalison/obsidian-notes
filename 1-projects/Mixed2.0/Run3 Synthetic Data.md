@@ -19,6 +19,16 @@ v4:
 
 # Daily Logs
 
+
+[[9 January 2025 Thursday]]
+- AE pushed fix for JECRs 
+- pulled...fixed printout
+- resumbitting on **cmslpc331**
+- `source .ci-workflows/synthetic-dataset-make-dataset-all.sh`
+- Finished ... **real    149m59.119s**
+- Making hists... errror when processing synthetic data with new JECRs
+- fixed... running
+
 [[8 January 2025 Wednesday]]
 - Merged
 - Running on **cmslpc339**

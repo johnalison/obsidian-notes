@@ -8,8 +8,8 @@
 | 6  M | (Aniket Oral) Start cutflow challenge / **Gym/SR** / Chat Sindhu / Built table     | 6/2/2 |
 | 7  T | Work Starbucks / Cutflow Challenge / Modern Essentials Prep / BCR work             | 5/3/2 |
 | 8  W | (T surgery) Debrief Aniket / Chats AE / **Hoops/SR** / new JEC / M on bus          | 5/4/3 |
-| 9  H |                                                                                    |       |
-| 10 F | (in-person Faculty noon)                                                           |       |
+| 9  H | home w/T / Added Run3 CI / New synthetic dataset / contacts! / Chat TMan           | 7/4/4 |
+| 10 F | (in-person Faculty)                                                                |       |
 | 11 S |                                                                                    |       |
 | 12 S |                                                                                    |       |
 | 13 M | (Classes Start) (Tova)                                                             |       |

@@ -47,15 +47,7 @@ w/kids
 To Starbucks 
 
 # [[Run3 HH4b Cutflow Challenge]]
-- output event list for florida
-	- `python debug_HHRun3.py`
-- Outputting our preSelection event list
-	- `time python runner.py -o data_Run3_2022_EE.coffea -d data -p analysis/processors/processor_HH4b.py -y 2022_EE   -op hists -c analysis/metadata/HH4b_run_fastTopReco.yml -m metadata/datasets_HH4b_Run3_fourTag_v4.yml`
-- [x] Ask Marina to compare unblinded inclusive 4b counts... Maybe normalization is CR acceptance difference 
-- Made our event numbers list
-- `python analysis/debugRun3CutFlow.py  hists/data_Run3_2022_EE.coffea`
-- Only missing ~1% of events
-- Some differences in jet and b-jet multiplicities
+- See logs above
 
 
 [[Sam Altman Blog New Year Reflections ]]

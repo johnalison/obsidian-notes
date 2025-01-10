@@ -4,9 +4,9 @@ Twiki: https://twiki.cern.ch/twiki/bin/view/CMSPublic/Run2HH4b
 # To do
 - [ ] L3 comments v2
 - [ ] Need new background model
-- [ ] Whats wrong with mixed data fits ?
-	- [ ] Repeate Closure with old SvB
-- [ ] What is up with PS FSR
+- [x] Whats wrong with mixed data fits ?
+	- [x] Repeate Closure with old SvB
+- [ ] What is up with PS FSR ?
 
 Towards v4
 - [ ] Update nominal background for k-folding

@@ -58,16 +58,13 @@ c++ and python
 - [>>] L3 comments v2
 - [>>] Need new background model
 - [>>] Whats wrong with mixed data fits ?
-	- [>>] Repeate Closure with old SvB
+	- [>>] Repeat Closure with old SvB
+moved to [>>] ([[Run2 HH4b AN]])
 
 [[Aishik Ghosh visit]]
 
 # [[Run3 HH4b Cutflow Challenge]]
-- Copied File from marina to 
-	`root://cmseos.fnal.gov//store/user/jda102/debugRun3HH/data_2022_postEE_0_tree.root`
-- Chat GPT to write uproot program
-- Wrote out a pkl file with the events and lumis
-- Make pickle of events passing 4jets selection
+- see logs above
 
 
 [[wrong in future]] [<<] In 50 years will look back on and realize that Governments even liberal democracies are almost entirely unethical
