@@ -11,7 +11,7 @@
 |     | Faculty Meeting            | (Systems/Goals Review)  |
 | 1   | Faculty Meeting            | (Systems/Goals Review)  |
 |     | Faculty Meeting            | (Systems/Goals Review)  |
-| 2   | Chat AE                    |                         |
+| 2   | Chat Aniket                |                         |
 |     | [[Run2 HH4b AN]]           |                         |
 | 3   | Chat Sophie                |                         |
 |     | [[Modern Essentials]]      |                         |
