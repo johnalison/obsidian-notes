@@ -101,3 +101,5 @@ Got an email from docker.
 # Figured out how to recover dask stats when you disconnect from lcp
 - was on from "wrong" node on lpc do
   `ssh -XY -L  10200:localhost:10200 cmslpc330`
+
+Writing up [[Knowledge, Reality, and Value]]
