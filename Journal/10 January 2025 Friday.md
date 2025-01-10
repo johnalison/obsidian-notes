@@ -30,7 +30,7 @@
 ---
 # To Do
 
-- [ ] Modern Essentials: prep Lecture 1
+- [x] Modern Essentials: prep Lecture 1
 - [x] Systems/Goals Review
 - [ ] Iterate on [[Run2 HH4b AN]]
 - [ ] Add Run3 Synthetic data CI
@@ -85,3 +85,6 @@ Pinged Rachel re:Aishik Ghosh
 - [[Fall 2024]]
 - Anything else to add?
 
+# Chat Sophie 
+- re:Grading. Should be easy
+- Will get back to me re:office hours
