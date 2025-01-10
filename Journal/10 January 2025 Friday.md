@@ -92,3 +92,9 @@ Pinged Rachel re:Aishik Ghosh
 Chat Valentina 
 
 
+Home with M
+
+Got an email from docker.
+- Updated to newest version
+- Fixed the problem!
+
