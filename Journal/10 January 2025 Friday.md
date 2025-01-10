@@ -31,6 +31,7 @@
 # To Do
 
 - [ ] Modern Essentials: prep Lecture 1
+- [ ] Systems/Goals Review
 - [ ] Iterate on [[Run2 HH4b AN]]
 - [ ] Add Run3 Synthetic data CI
 - [ ] Wes's Thesis
@@ -72,3 +73,11 @@ Pinged Rachel re:Aishik Ghosh
 - starting on comments
 
 [[Lab Techs Fall 2024]]
+
+
+# Faculty Meeting 
+- Jeff back, seems good
+- 22 pass / 5 pass
+
+# Systems/Goals [[Spring 2025]]
+- [[Fall 2024]]
