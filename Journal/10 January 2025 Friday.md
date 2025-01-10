@@ -38,7 +38,7 @@
 - [ ] Debug truth v4j
 - [ ] Call Liberty mutual re:tree down
 - [ ] Read [[Evolution of Silicon Sensor Technology in Particle Physics]] !!!
-- [ ] [[Run3 Synthetic Data]]
+- [x] [[Run3 Synthetic Data]]
 - [x] Josh applies to the LabTech III position
 - [x] Ping re:Lab Coordinator opening
 
@@ -88,3 +88,7 @@ Pinged Rachel re:Aishik Ghosh
 # Chat Sophie 
 - re:Grading. Should be easy
 - Will get back to me re:office hours
+
+Chat Valentina 
+
+
