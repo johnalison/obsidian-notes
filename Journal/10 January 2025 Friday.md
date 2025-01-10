@@ -4,7 +4,7 @@
 | 9   | ~~Systems/Goals Review~~   | [[Run3 Synthetic Data]] |
 |     | [[Run3 Synthetic Data]]    |                         |
 | 10  | [[Run3 Synthetic Data]]    |                         |
-|     |                            |                         |
+|     | [[Run3 Synthetic Data]]    |                         |
 | 11  | Add Run3 Synthetic data CI |                         |
 |     | Add Run3 Synthetic data CI |                         |
 | 12  | Faculty Meeting            | (Systems/Goals Review)  |
@@ -51,14 +51,19 @@ M to school (T still home recovering)
 Pinged Rachel re:Aishik Ghosh
 
 #  [[Run3 Synthetic Data]]
-- [ ] Validate
-- [ ] Send to Marina
+- [x] Validate
+- [x] Send to Marina
 - Looks like previous analayze job ran out of memory...
 - Rerunning  On **cmslpc330**... checking memory
 	- `> source .ci-workflows/synthetic-dataset-analyze-all.sh`
-
+- finished **44m8.523s**
+- Plots look good.
+- Making presentations
+	- `python  jet_clustering/compare_datasets.py  hists/synthetic_data_Run3_v4_new_seedXXX.coffea   --out analysis/plots_synthetic_datasets_all_00-08-02-Run3_v4 -m plots/metadata/plotsSyntheticVsData2.yml`
+	- `make jetclustering_slides_Run3_all TEXFILENAME=SyntheticDatasets-00-08-02_Run3_v4 NEW_DIR=analysis\\/plots_synthetic_datasets_all_00-08-02-Run3_v4`
+- [ ] New splitting PDFs
 
 
 # [[Run2 HH4b AN]]
 - Docker throwing an error... wont restart ... maybe need a reboot ?
-- 
+- starting on comments
