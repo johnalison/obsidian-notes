@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -164,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/Spring 2025.md",
+                "file": "Output/Lists.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +174,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Spring 2025"
+              "title": "Backlinks for Lists"
             }
           },
           {
@@ -183,12 +183,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/Spring 2025.md",
+                "file": "Output/Lists.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Spring 2025"
+              "title": "Outgoing links from Lists"
             }
           },
           {
@@ -210,10 +210,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/Spring 2025.md"
+                "file": "Output/Lists.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Spring 2025"
+              "title": "Outline of Lists"
             }
           },
           {
@@ -245,17 +245,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "12732b469f5b9810",
+  "active": "292f3984a00f7c40",
   "lastOpenFiles": [
-    "Journal/2024/Fall 2024.md",
+    "Journal/10 January 2025 Friday.md",
     "0-inbox/Spring 2025.md",
+    "Journal/2024/Fall 2024.md",
     "Output/Lists.md",
     "2-areas/Philosophy/Things Ive changed my mind on.md",
     "Journal/9 January 2025 Thursday.md",
     "Input/SomedayMaybe.md",
     "Input/SystemsNotGoals.md",
     "Journal/January 2025.md",
-    "Journal/10 January 2025 Friday.md",
     "1-projects/HGC/Lab Techs Fall 2024.md",
     "1-projects/Mixed2.0/Run3 Synthetic Data.md",
     "3-resources/computing/Tmux Tips.md",
