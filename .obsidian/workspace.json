@@ -83,16 +83,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-projects/Mixed2.0/Run3 Synthetic Data.md",
+                "file": "1-projects/HGC/Lab Techs Fall 2024.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Run3 Synthetic Data"
+              "title": "Lab Techs Fall 2024"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -164,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-projects/Mixed2.0/Run3 Synthetic Data.md",
+                "file": "Journal/10 January 2025 Friday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +174,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Run3 Synthetic Data"
+              "title": "Backlinks for 10 January 2025 Friday"
             }
           },
           {
@@ -183,12 +183,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-projects/Mixed2.0/Run3 Synthetic Data.md",
+                "file": "Journal/10 January 2025 Friday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Run3 Synthetic Data"
+              "title": "Outgoing links from 10 January 2025 Friday"
             }
           },
           {
@@ -210,10 +210,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-projects/Mixed2.0/Run3 Synthetic Data.md"
+                "file": "Journal/10 January 2025 Friday.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Run3 Synthetic Data"
+              "title": "Outline of 10 January 2025 Friday"
             }
           },
           {
@@ -245,8 +245,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fdfafbcec5160e81",
+  "active": "8c65b9663334950b",
   "lastOpenFiles": [
+    "1-projects/HGC/Lab Techs Fall 2024.md",
     "Journal/10 January 2025 Friday.md",
     "1-projects/Mixed2.0/Run3 Synthetic Data.md",
     "3-resources/computing/Tmux Tips.md",
@@ -273,7 +274,6 @@
     "0-inbox/ToDo.md",
     "2-areas/CMU/Aniket Oral  Exam.md",
     "Journal/December/31 December 2024 Tuesday.md",
-    "1-projects/Teaching/Modern Essentials.md",
     "Journal/#January.md#",
     "Journal/2024/November",
     "Journal/2024/October",
