@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/11 January 2025 Saturday.md",
+                "file": "0-inbox/Why Most Published Research Findings Are False.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "11 January 2025 Saturday"
+              "title": "Why Most Published Research Findings Are False"
             }
           },
           {
@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/Knowledge, Reality, and Value.md",
+                "file": "0-inbox/Why Most Published Research Findings Are False.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Knowledge, Reality, and Value"
+              "title": "Backlinks for Why Most Published Research Findings Are False"
             }
           },
           {
@@ -170,12 +170,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/Knowledge, Reality, and Value.md",
+                "file": "0-inbox/Why Most Published Research Findings Are False.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Knowledge, Reality, and Value"
+              "title": "Outgoing links from Why Most Published Research Findings Are False"
             }
           },
           {
@@ -197,10 +197,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/Knowledge, Reality, and Value.md"
+                "file": "0-inbox/Why Most Published Research Findings Are False.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Knowledge, Reality, and Value"
+              "title": "Outline of Why Most Published Research Findings Are False"
             }
           },
           {
@@ -232,12 +232,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8c65b9663334950b",
+  "active": "12732b469f5b9810",
   "lastOpenFiles": [
-    "2-areas/Philosophy/Progress in Philosophy.md",
-    "0-inbox/Knowledge, Reality, and Value.md",
-    "0-inbox/Radical skepticism is a means of probing intuitions.md",
     "Journal/11 January 2025 Saturday.md",
+    "0-inbox/Knowledge, Reality, and Value.md",
+    "2-areas/Philosophy/Progress in Philosophy.md",
+    "0-inbox/Radical skepticism is a means of probing intuitions.md",
     "0-inbox/Why Most Published Research Findings Are False.md",
     "Journal/10 January 2025 Friday.md",
     "0-inbox/Determining truth of assumptions makes philosophy is hard.md",
