@@ -16,7 +16,8 @@ To "begs the question" means to makes a circular argument.
 [[Benefit of Philosophy to Other Disciplines]]
 
 [[Treat opposition views seriously]]
-Being afraid of seriously considering the opposition view is a useful unconscious signal that you doubt your position or the strength of your argument.
+Being afraid of seriously considering an opposition view is a useful unconscious signal that you doubt your position or the strength of your argument.
+You ... p35
 
 p17
 # Follow-ups

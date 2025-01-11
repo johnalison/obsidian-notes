@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/10 January 2025 Friday.md",
+                "file": "0-inbox/Knowledge, Reality, and Value.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 10 January 2025 Friday"
+              "title": "Backlinks for Knowledge, Reality, and Value"
             }
           },
           {
@@ -169,12 +169,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/10 January 2025 Friday.md",
+                "file": "0-inbox/Knowledge, Reality, and Value.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 10 January 2025 Friday"
+              "title": "Outgoing links from Knowledge, Reality, and Value"
             }
           },
           {
@@ -196,10 +196,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/10 January 2025 Friday.md"
+                "file": "0-inbox/Knowledge, Reality, and Value.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 10 January 2025 Friday"
+              "title": "Outline of Knowledge, Reality, and Value"
             }
           },
           {
@@ -231,14 +231,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "12732b469f5b9810",
+  "active": "8c65b9663334950b",
   "lastOpenFiles": [
+    "Journal/10 January 2025 Friday.md",
     "Journal/January 2025.md",
     "0-inbox/Knowledge, Reality, and Value.md",
     "2-areas/Philosophy/Progress in Philosophy.md",
     "0-inbox/Benefit of Philosophy to Other Disciplines.md",
     "Input/Books/Books.md",
-    "Journal/10 January 2025 Friday.md",
     "1-projects/Teaching/Modern Essentials.md",
     "0-inbox/Spring 2025.md",
     "1-projects/Mixed2.0/Run3 Synthetic Data.md",
