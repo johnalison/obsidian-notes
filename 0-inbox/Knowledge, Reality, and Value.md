@@ -1,12 +1,10 @@
 Great!  Entertaining and Educational. Reminds me of [[Everything and More]]
 Very good general introduction to Philosophy. 
 
-Focus of the arguments on implications of "common sense" intuitions of the first-person self. 
+Focuses on the implications of the "common sense" intuitions of the first-person self. 
 
-Should investigate the implications of philosophy from three sets of ground-truth axioms
-- "common sense" intuitions of the first-person self.
-- state-of-the-art scientific worldview
-- the non-dual awake awareness 
+[[Ground truth believe systems on which to base philosophy]]
+
 
 [[Progress in Philosophy]]
 
