@@ -69,6 +69,10 @@ Pinged Rachel re:Aishik Ghosh
 	- `python runner.py -o datasets_Run3_v4.coffea -d data -p analysis/processors/processor_cluster_4b.py -y 2022_EE 2022_preEE 2023_BPix 2023_preBPix -op output/synthetic_dataset_cluster -m metadata/datasets_HH4b_Run3_fourTag_v3.yml -c analysis/metadata/cluster_4b_noTTSubtraction.yml --condor`
 - Failed ... submitting the four years separately...
 - Submitting 2022_EE on **cmslpc328**
+	- [x] 2022_EE
+	- [ ] 2022_preEE
+	- [ ] 2023_preBPix
+	- [ ] 2023_BPix
 
 # [[Run2 HH4b AN]]
 - Docker throwing an error... wont restart ... maybe need a reboot ?

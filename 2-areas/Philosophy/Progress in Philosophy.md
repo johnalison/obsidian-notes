@@ -5,6 +5,8 @@
 - Womens suffrage 
 - Civil rights
 - Anarchy !
+- No-go theorems on rigorously defining concepts 
+- Evolutions as an inanimate designer 
 
 
 

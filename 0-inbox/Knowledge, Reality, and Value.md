@@ -5,6 +5,9 @@ Focuses on the implications of the "common sense" intuitions of the first-person
 
 [[Ground truth believe systems on which to base philosophy]]
 
+[[Determining truth of assumptions makes philosophy is hard]]
+
+[[Radical skepticism is a means of probing intuitions]]
 
 [[Progress in Philosophy]]
 
@@ -14,10 +17,17 @@ To "begs the question" means to makes a circular argument.
 [[Benefit of Philosophy to Other Disciplines]]
 
 [[Treat opposition views seriously]]
-Being afraid of seriously considering an opposition view is a useful unconscious signal that you doubt your position or the strength of your argument.
-You ... p35
 
-p17
+p151
+
+# Score Card
+- Truth Relativism is to be hated: it actively discourages the pursuit of truth
+- External-world skepticism wrong: cannot account for the coherent reality we experience. 
+- Global skepticism (skepticism about all knowledge) is obviously false.
+- The concept of knowledge cant be rigorously defined (most concepts outside of technical term cant be)
+- 
+
+
 # Follow-ups
 
 
