@@ -18,15 +18,27 @@ To "begs the question" means to makes a circular argument.
 
 [[Treat opposition views seriously]]
 
-p151
+[[Free will incompatible with determinism and not determinism]]
+- The argument that free will is an illusion only compelling if there is [[Evidence That Free Will is an Illlusion]]
+
+[[Free will is similar to collapse of the wave function.]]
+
+Very strong chapter on animal ethics.
+"Its possible that all the total amount of pain and suffering we inflict through factory farming, in just a few years, may be greater than all the pain and suffering in all of human history"
+
+
 
 # Score Card
 - Truth Relativism is to be hated: it actively discourages the pursuit of truth
 - External-world skepticism wrong: cannot account for the coherent reality we experience. 
 - Global skepticism (skepticism about all knowledge) is obviously false.
 - The concept of knowledge cant be rigorously defined (most concepts outside of technical term cant be)
-- 
-
+- We have free will 
+- We have souls
+- Ethical intuitionism (we can know ethical truths through intuition) is the most sensible view of meta ethics. 
+- All ethical theories problematic: Utilitarianism and absolute deontology obviously wrong. Moderate deontology arbitrary.
+- You should support factory farming. 
+- Most human beings are horrifyingly immoral 
 
 # Follow-ups
 

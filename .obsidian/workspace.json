@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/Knowledge, Reality, and Value.md",
+                "file": "Input/Books/Knowledge, Reality, and Value.md",
                 "mode": "source",
                 "source": false
               },
@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/11 January 2025 Saturday.md",
+                "file": "Input/Books/Books.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "11 January 2025 Saturday"
+              "title": "Books"
             }
           },
           {
@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "truth",
+                "query": "file:books",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/11 January 2025 Saturday.md",
+                "file": "Input/Books/Books.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 11 January 2025 Saturday"
+              "title": "Backlinks for Books"
             }
           },
           {
@@ -170,12 +170,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/11 January 2025 Saturday.md",
+                "file": "Input/Books/Books.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 11 January 2025 Saturday"
+              "title": "Outgoing links from Books"
             }
           },
           {
@@ -197,10 +197,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/11 January 2025 Saturday.md"
+                "file": "Input/Books/Books.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 11 January 2025 Saturday"
+              "title": "Outline of Books"
             }
           },
           {
@@ -232,20 +232,23 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "12732b469f5b9810",
+  "active": "8cd6e87e88b50c39",
   "lastOpenFiles": [
-    "Input/Papers/Why Most Published Research Findings Are False.md",
-    "Journal/11 January 2025 Saturday.md",
-    "0-inbox/Knowledge, Reality, and Value.md",
-    "2-areas/Philosophy/Progress in Philosophy.md",
+    "Input/Books/Knowledge, Reality, and Value.md",
+    "0-inbox/Ground truth believe systems on which to base philosophy.md",
     "0-inbox/Radical skepticism is a means of probing intuitions.md",
+    "0-inbox/Free will is similar to collapse of the wave function..md",
+    "0-inbox/Evidence That Free Will is an Illlusion.md",
+    "0-inbox/Free will incompatible with determinism and not determinism.md",
+    "Journal/11 January 2025 Saturday.md",
+    "Input/Papers/Why Most Published Research Findings Are False.md",
+    "2-areas/Philosophy/Progress in Philosophy.md",
     "Journal/10 January 2025 Friday.md",
     "0-inbox/Determining truth of assumptions makes philosophy is hard.md",
     "0-inbox/Treat opposition views seriously.md",
     "Input/Rationality.md",
     "Input/WorkingPhilosophy.md",
     "1-projects/Mixed2.0/Run3 Synthetic Data.md",
-    "0-inbox/Ground truth believe systems on which to base philosophy.md",
     "Input/Books/Books.md",
     "Journal/2024/Fall 2024.md",
     "Journal/January 2025.md",
@@ -257,9 +260,6 @@
     "2-areas/Philosophy/Things Ive changed my mind on.md",
     "Journal/9 January 2025 Thursday.md",
     "Input/SomedayMaybe.md",
-    "Input/SystemsNotGoals.md",
-    "1-projects/HGC/Lab Techs Fall 2024.md",
-    "3-resources/computing/Tmux Tips.md",
     "1-projects/Mixed2.0/#Run3 Synthetic Data.md#",
     "Journal/#January.md#",
     "Journal/2024/November",

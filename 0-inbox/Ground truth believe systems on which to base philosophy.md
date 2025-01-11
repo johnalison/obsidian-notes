@@ -4,7 +4,7 @@ Several different plausible belief systems on which to base philosophy
 - "common sense" intuitions of the first-person self. ([[Knowledge, Reality, and Value]])
 - state-of-the-art scientific worldview 
 - state-of-the-art scientific worldview + many worlds 
-- the non-dual awareness
+- the non-dual awareness : (supported by lack of theory of personal identity) 
 - pragmatic approach (see what works) [[The problems of philosophy]]
 
 Should investigate the implications of each belief system [[MetaPhilosophy]]

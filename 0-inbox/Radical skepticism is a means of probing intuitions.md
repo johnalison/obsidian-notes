@@ -3,7 +3,8 @@ Thinking about radical skepticism is Interesting not because it might be true,  
 
 # Follow-ups
 
-[[Determining truth of assumptions makes philosophy is hard]]
+- [[Determining truth of assumptions makes philosophy is hard]]
+- Could this be true of the problems with personal identity 
 # Links: 
 
 [1] Chapter 7,  [[Knowledge, Reality, and Value]], Micheal Heumuer 

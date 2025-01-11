@@ -1,5 +1,7 @@
 # 2025
 
+- [[Knowledge, Reality, and Value]] (Micheal Heumer)
+
 - [[Dune]] (Frank Herbert)
 
 # 2024
