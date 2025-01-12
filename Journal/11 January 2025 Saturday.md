@@ -13,6 +13,10 @@ Solo dad
 
 Writing up more [[Knowledge, Reality, and Value]]
 
-
 Read [[Why Most Published Research Findings Are False]]
+
+More [[Life and Fate]]
+
+To Parents 
+- Lots of [[Life and Fate]]
 

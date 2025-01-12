@@ -1,26 +1,26 @@
 
-|     | setup                      |                         |
-| --- | -------------------------- | ----------------------- |
-| 9   | ~~Systems/Goals Review~~   | [[Run3 Synthetic Data]] |
-|     | [[Run3 Synthetic Data]]    |                         |
-| 10  | [[Run3 Synthetic Data]]    |                         |
-|     | [[Run3 Synthetic Data]]    |                         |
-| 11  | Add Run3 Synthetic data CI |                         |
-|     | Add Run3 Synthetic data CI |                         |
-| 12  | Faculty Meeting            | (Systems/Goals Review)  |
-|     | Faculty Meeting            | (Systems/Goals Review)  |
-| 1   | Faculty Meeting            | (Systems/Goals Review)  |
-|     | Faculty Meeting            | (Systems/Goals Review)  |
-| 2   | Chat Aniket                |                         |
-|     | [[Run2 HH4b AN]]           |                         |
-| 3   | Chat Sophie                |                         |
-|     | [[Modern Essentials]]      |                         |
-| 4   | Debug truth v4j            |                         |
-|     | Debug truth v4j            |                         |
+|     | setup                          |                         |
+| --- | ------------------------------ | ----------------------- |
+| 9   | ~~Systems/Goals Review~~       | [[Run3 Synthetic Data]] |
+|     | [[Run3 Synthetic Data]]        |                         |
+| 10  | [[Run3 Synthetic Data]]        |                         |
+|     | [[Run3 Synthetic Data]]        |                         |
+| 11  | ~~Add Run3 Synthetic data CI~~ | [[Run2 HH4b AN]]        |
+|     | ~~Add Run3 Synthetic data CI~~ | [[Run2 HH4b AN]]        |
+| 12  | Faculty Meeting                | (Systems/Goals Review)  |
+|     | Faculty Meeting                | (Systems/Goals Review)  |
+| 1   | Faculty Meeting                | (Systems/Goals Review)  |
+|     | Faculty Meeting                | (Systems/Goals Review)  |
+| 2   | Chat Aniket                    |                         |
+|     | [[Run2 HH4b AN]]               |                         |
+| 3   | Chat Sophie                    |                         |
+|     | [[Modern Essentials]]          |                         |
+| 4   | ~~Debug truth v4j~~            | [[Run3 Synthetic Data]] |
+|     | ~~Debug truth v4j~~            | Home                    |
 
-**W:**
-**DW:**
-**OT:**
+**W:** 8 
+**DW:** 6
+**OT:** 4
 **ex** or **No ex**
 
 ---
@@ -70,7 +70,7 @@ Pinged Rachel re:Aishik Ghosh
 - Failed ... submitting the four years separately...
 - Submitting 2022_EE on **cmslpc328**
 	- [x] 2022_EE
-	- [ ] 2022_preEE
+	- [x] 2022_preEE
 	- [ ] 2023_preBPix
 	- [ ] 2023_BPix
 
