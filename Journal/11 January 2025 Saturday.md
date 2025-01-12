@@ -20,3 +20,5 @@ More [[Life and Fate]]
 To Parents 
 - Lots of [[Life and Fate]]
 
+
+Start [[The problems of philosophy]]

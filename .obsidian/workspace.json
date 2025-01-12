@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Input/Rationality.md",
+                "file": "0-inbox/Wesley Terrill Thesis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rationality"
+              "title": "Wesley Terrill Thesis"
             }
           },
           {
@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/January 2025.md",
+                "file": "0-inbox/Wesley Terrill Thesis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "January 2025"
+              "title": "Wesley Terrill Thesis"
             }
           },
           {
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:books",
+                "query": "thesis",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -129,8 +129,7 @@
               "title": "Files"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -150,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Input/Rationality.md",
+                "file": "0-inbox/Wesley Terrill Thesis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +159,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Rationality"
+              "title": "Backlinks for Wesley Terrill Thesis"
             }
           },
           {
@@ -169,12 +168,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Input/Rationality.md",
+                "file": "0-inbox/Wesley Terrill Thesis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Rationality"
+              "title": "Outgoing links from Wesley Terrill Thesis"
             }
           },
           {
@@ -196,10 +195,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Input/Rationality.md"
+                "file": "0-inbox/Wesley Terrill Thesis.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Rationality"
+              "title": "Outline of Wesley Terrill Thesis"
             }
           },
           {
@@ -233,11 +232,18 @@
   },
   "active": "81e5c66ee41147f1",
   "lastOpenFiles": [
-    "Journal/10 January 2025 Friday.md",
+    "Journal/December/19 December 2024 Thursday.md",
+    "Journal/December/27 December 2024 Friday.md",
+    "Journal/December/30 December 2024 Monday.md",
+    "0-inbox/Wesley Terrill Thesis.md",
+    "Journal/12 January 2025 Sunday.md",
     "Journal/January 2025.md",
+    "Journal/7 January 2025 Tuesday.md",
+    "Journal/11 January 2025 Saturday.md",
+    "Input/Rationality.md",
+    "Journal/10 January 2025 Friday.md",
     "Journal/2024/Fall 2024.md",
     "Journal/9 January 2025 Thursday.md",
-    "Journal/11 January 2025 Saturday.md",
     "Input/Books/Books.md",
     "Input/Books/Knowledge, Reality, and Value.md",
     "0-inbox/Ground truth believe systems on which to base philosophy.md",
@@ -249,16 +255,9 @@
     "2-areas/Philosophy/Progress in Philosophy.md",
     "0-inbox/Determining truth of assumptions makes philosophy is hard.md",
     "0-inbox/Treat opposition views seriously.md",
-    "Input/Rationality.md",
     "Input/WorkingPhilosophy.md",
     "1-projects/Mixed2.0/Run3 Synthetic Data.md",
     "0-inbox/Benefit of Philosophy to Other Disciplines.md",
-    "1-projects/Teaching/Modern Essentials.md",
-    "0-inbox/Spring 2025.md",
-    "Input/Blogs/Cryptocurrencies and Blockchains.md",
-    "Output/Lists.md",
-    "2-areas/Philosophy/Things Ive changed my mind on.md",
-    "Input/SomedayMaybe.md",
     "1-projects/Mixed2.0/#Run3 Synthetic Data.md#",
     "Journal/#January.md#",
     "Journal/2024/November",
