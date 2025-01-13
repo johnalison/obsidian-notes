@@ -33,13 +33,13 @@
 
 - [x] Update Wes Annual Review
 - [x] Pick up contacts
-- [ ] Wes's Thesis
-- [ ] Debug truth v4j
-- [ ] Call Liberty mutual re:tree down
-- [ ]  [[Run2 HH4b AN]]
+- [>>] Wes's Thesis
+- [>>] Debug truth v4j
+- [>>]  Call Liberty mutual re:tree down
+- [>>]  [[Run2 HH4b AN]]
 - [x] Reverse chronological order on daily logs ? ... Yes, but as I come accross them !
 - [x]  Add Run3 job to CI
-- [ ] Read [[Evolution of Silicon Sensor Technology in Particle Physics]] !!!
+- [>>] Read [[Evolution of Silicon Sensor Technology in Particle Physics]] !!!
 
 
 ---
@@ -59,7 +59,7 @@ Ankle really hurting
 - Coping files to EOS
 	- `py filesToLxplus.py `
 - Failed...files there but cant be read on gitlab...pinged AE
-- Had to explicity give alejandro access to the tmpFiles directory via CERNBOX
+- Had to explicitly give alejandro access to the tmpFiles directory via CERNBOX
 - that worked! ... merged! 
 - Need to add cutflow
 

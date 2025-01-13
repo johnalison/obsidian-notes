@@ -9,14 +9,14 @@
 | 7  T | Work Starbucks / Cutflow Challenge / Modern Essentials Prep / BCR work             | 5/3/2 |
 | 8  W | (T surgery) Debrief Aniket / Chats AE / **Hoops/SR** / new JEC / M on bus          | 5/4/3 |
 | 9  H | home w/T / Added Run3 CI / New synthetic dataset / contacts! / Chat TMan           | 7/4/4 |
-| 10 F | (in-person Faculty)                                                                | 8/6/4 |
-| 11 S |                                                                                    |       |
-| 12 S |                                                                                    |       |
+| 10 F | (in-person Faculty) Synthetic data / Iterate on AN / writing up Knowledge ..       | 8/6/4 |
+| 11 S | solo dad / write more [[Knowledge, Reality, and Value]] / Reading                  |       |
+| 12 S | Reading / **Gym/SR** / H to basketball / Reading                                   |       |
 | 13 M | (Classes Start) (Tova)                                                             |       |
 | 14 T | (Panel Discussion)                                                                 |       |
 | 15 W |                                                                                    |       |
 | 16 H |                                                                                    |       |
-| 17 F |                                                                                    |       |
+| 17 F | (H half day)                                                                       |       |
 | 18 S | (H Birthday Party)                                                                 |       |
 | 19 S |                                                                                    |       |
 | 20 M | (No classes)                                                                       |       |

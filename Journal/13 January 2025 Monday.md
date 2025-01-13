@@ -2,24 +2,24 @@
 
 ---
 
-|     |     |     |
-| --- | --- | --- |
-| 9   |     |     |
-|     |     |     |
-| 10  |     |     |
-|     |     |     |
-| 11  |     |     |
-|     |     |     |
-| 12  |     |     |
-|     |     |     |
-| 1   |     |     |
-|     |     |     |
-| 2   |     |     |
-|     |     |     |
-| 3   |     |     |
-|     |     |     |
-| 4   |     |     |
-|     |     |     |
+|     | setup                   |     |
+| --- | ----------------------- | --- |
+| 9   | Teaching                |     |
+|     | Teaching                |     |
+| 10  | Letter for Diane        |     |
+|     | New splitting Templates |     |
+| 11  | New splitting Templates |     |
+|     | New splitting Templates |     |
+| 12  | Hoops                   |     |
+|     | Hoops                   |     |
+| 1   | Hoops                   |     |
+|     | [[Run2 HH4b AN]]        |     |
+| 2   | [[Run2 HH4b AN]]        |     |
+|     | Tova Chat               |     |
+| 3   | Tova Chat               |     |
+|     | Tova Colloq             |     |
+| 4   | Tova Colloq             |     |
+|     |                         |     |
 
 **W:**
 **DW:**
@@ -34,9 +34,13 @@
 # To Do
 
 - [ ] Letter for Diane T
-- [ ] 
-- [ ] 
-- [ ] 
+- [ ] Wes's Thesis
+- [ ] Debug truth v4j
+- [ ] Iterate on  [[Run2 HH4b AN]]
+- [ ] Read [[Evolution of Silicon Sensor Technology in Particle Physics]] !!!
+- [ ] Call Liberty mutual re:tree down
+- [ ] Add Run3 Synthetic data CI
+- [ ] New splitting PDFs for [[Run3 Synthetic Data]]
 
 ---
 
@@ -48,4 +52,7 @@
 M & T to school 
 
 # Taught
-- 
+- Went well 
+- "Robert Foster" / Nicholas 
+
+[[Diane Turnshek Letter]]

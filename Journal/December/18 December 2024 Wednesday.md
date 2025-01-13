@@ -54,7 +54,7 @@ Fast Day 2
 # [[Run3 Synthetic Data]]
 - See daily's above
 
-Brainstorm [[Diane Ternshek Letter]]
+Brainstorm [[Diane Turnshek Letter]]
 
 # [[MAC meeting 18 December 2024]]
 - [x] Take notes
