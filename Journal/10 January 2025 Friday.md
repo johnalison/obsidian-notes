@@ -71,8 +71,9 @@ Pinged Rachel re:Aishik Ghosh
 - Submitting 2022_EE on **cmslpc328**
 	- [x] 2022_EE
 	- [x] 2022_preEE
-	- [ ] 2023_preBPix
-	- [ ] 2023_BPix
+	- [x] 2023_preBPix
+	- [x] 2023_BPix
+- Reduced the chunksize to 5k and works without errors! 
 
 # [[Run2 HH4b AN]]
 - Docker throwing an error... wont restart ... maybe need a reboot ?

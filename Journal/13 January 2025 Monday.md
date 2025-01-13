@@ -41,3 +41,11 @@
 ---
 
 # Log
+
+
+# H Birthday! 
+
+M & T to school 
+
+# Taught
+- 

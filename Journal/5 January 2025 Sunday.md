@@ -34,6 +34,6 @@ Home
 # Buying pHex back
 - sold 4.5 ETH for 794478 USDC  on coinbase
 - [[How to buy pHex]]
-- (The Sell) Traded 750344 pHEX  -> 21000 USDC (**$0.028**) [[11 December 2024 Wednesday]]
-- (The Buy back)  1,266,688 for 17,000 USCD (**$0.013**)
+- (The Sell)      750344 pHEX  -> 21000 USDC (**$0.028**) [[11 December 2024 Wednesday]]
+- (Buy back)  1,266,688 pHeX -> 17,000 USCD (**$0.013**)
 - [[CryptoMoves]]

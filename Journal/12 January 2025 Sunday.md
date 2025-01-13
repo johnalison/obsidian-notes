@@ -9,4 +9,18 @@ Some [[Life and Fate]]
 
 
 # [[Wesley Terrill Thesis]]
-l 1663. 1664  The p − n junction can only conduct current when the junction is reversed biased,
+
+Some [[The problems of philosophy]]
+
+ To Campus
+
+# Gym / Steam room
+- core / 50' zone 2 
+- 2 sets: farmers carries / cling / step-ups
+- 10' at Tmax = 120
+
+# H To Basketball
+- Chat with Henry (Falk hoops)
+- Giant Eagle (not as nice as shady side)
+- Cafe 61C [[Life and Fate]]
+
