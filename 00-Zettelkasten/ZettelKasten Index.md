@@ -117,10 +117,15 @@ Index:
 [[Libertarianism implies a strong bias against taxpayer support for anything]] 
 
 [[Governments as monopolies]]
+[[Libertarianism follows from common sense morality]]
+
 # Free Will
 [[Free-Will-Lens-As-Mental-Model]]
 [[How-to-define-good-action-if-no-free-will]]
 
+[[Evidence That Free Will is an Illusion]]
+[[Free will incompatible with determinism and not determinism]]
+[[Free will is similar to collapse of the wave function.]]
 
 # LifeLong Learning
 [[Having children as education]]
@@ -144,3 +149,12 @@ Index:
 [[Problems with Limits on Government Power]]
 [[Government's bad incentives]]
 [[Choice in Anarchy vs Democracy]]
+
+
+# Philosophy
+
+[[Benefit of Philosophy to Other Disciplines]] 
+[[Determining truth of assumptions makes philosophy is hard]]
+[[Ground truth believe systems on which to base philosophy]]
+
+[[Radical skepticism is a means of probing intuitions]]

@@ -19,7 +19,7 @@ To "begs the question" means to makes a circular argument.
 [[Treat opposition views seriously]]
 
 [[Free will incompatible with determinism and not determinism]]
-- The argument that free will is an illusion only compelling if there is [[Evidence That Free Will is an Illlusion]]
+- The argument that free will is an illusion only compelling if there is [[Evidence That Free Will is an Illusion]]
 
 [[Free will is similar to collapse of the wave function.]]
 
