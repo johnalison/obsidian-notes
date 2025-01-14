@@ -19,7 +19,7 @@
 | 3   | Tova Chat                   |                  |
 |     | Tova Colloq                 |                  |
 | 4   | Tova Colloq                 |                  |
-|     |                             |                  |
+|     | Home                        |                  |
 
 **W:**
 **DW:**
@@ -34,7 +34,7 @@
 # To Do
 
 - [x] Letter for Diane T
-	- [ ] Send
+	- [x] Send
 - [ ] Wes's Thesis
 - [ ] Debug truth v4j
 - [ ] Iterate on  [[Run2 HH4b AN]]
@@ -76,3 +76,5 @@ More [[Diane Turnshek Letter]]
 - For continous Lumi, reinject at 100Hz (10Hz) for 1 (10) TeV collisions
 - Higher E => Higher L b/c of the Lorentz boost 
 - 13 EeV ~ 2 Joules
+
+Home with M & T
