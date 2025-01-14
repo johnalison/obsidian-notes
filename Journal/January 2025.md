@@ -21,7 +21,7 @@
 | 19 S |                                                                                    |       |
 | 20 M | (No classes)                                                                       |       |
 | 21 T |                                                                                    |       |
-| 22 W | (Presentation in Hbb)                                                              |       |
+| 22 W | (MAC Meeting) (Presentation in Hbb)                                                |       |
 | 23 H |                                                                                    |       |
 | 24 F |                                                                                    |       |
 | 25 S |                                                                                    |       |
