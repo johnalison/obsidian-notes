@@ -32,8 +32,9 @@
 
 - [x] Finish Wes' Annual Review
 - [ ] Lab Tech positions
+- [ ] Sindhu Annual Review
 - [ ] Add Run3 Synthetic data CI
-- [ ] New splitting PDFs for [[Run3 Synthetic Data]]
+- [x] New splitting PDFs for [[Run3 Synthetic Data]]
 - [ ]  Iterate on  [[Run2 HH4b AN]]
 
 ---
@@ -69,3 +70,5 @@ New splitting PDFs for
 Did panel discussion 
 
 Home T&M down
+
+[[Sindhu Murthy Annual Review 2024]]
