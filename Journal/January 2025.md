@@ -23,7 +23,7 @@
 | 21 T |                                                                                    |       |
 | 22 W | (MAC Meeting) (Presentation in Hbb)                                                |       |
 | 23 H |                                                                                    |       |
-| 24 F |                                                                                    |       |
+| 24 F | (Field Trip)                                                                       |       |
 | 25 S |                                                                                    |       |
 | 26 S |                                                                                    |       |
 | 27 M | (No Cyert)                                                                         |       |

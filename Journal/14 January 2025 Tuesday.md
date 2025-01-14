@@ -15,7 +15,7 @@
 |     | T down                                         |     |
 | 3   | M down                                         |     |
 |     | Lab Techs                                      |     |
-| 4   |                                                |     |
+| 4   | Sindhu review                                  |     |
 |     |                                                |     |
 
 **W:**
@@ -32,7 +32,7 @@
 
 - [x] Finish Wes' Annual Review
 - [ ] Lab Tech positions
-- [ ] Sindhu Annual Review
+- [x] Sindhu Annual Review
 - [ ] Add Run3 Synthetic data CI
 - [x] New splitting PDFs for [[Run3 Synthetic Data]]
 - [ ]  Iterate on  [[Run2 HH4b AN]]
@@ -58,7 +58,7 @@ New splitting PDFs for
 - updated [[Splitting PDF Archive]]
 - Making synthetic datasets with new pdfs (v5)
 	- `source .ci-workflows/synthetic-dataset-make-dataset-all.sh`
-
+- on **cmslpc320**
 
 # [[Thoughts about working in collaborations]]
 
@@ -71,4 +71,4 @@ Did panel discussion
 
 Home T&M down
 
-[[Sindhu Murthy Annual Review 2024]]
+Completed and sent [[Sindhu Murthy Annual Review 2024]]
