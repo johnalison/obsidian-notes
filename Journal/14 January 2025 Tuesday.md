@@ -11,10 +11,10 @@
 |     | MAC Meeting                                    |     |
 | 1   | Sophomore Colloq                               |     |
 |     | Sophomore Colloq                               |     |
-| 2   |                                                |     |
-|     |                                                |     |
-| 3   | Mans                                           |     |
-|     | Mans                                           |     |
+| 2   | home                                           |     |
+|     | T down                                         |     |
+| 3   | M down                                         |     |
+|     | Lab Techs                                      |     |
 | 4   |                                                |     |
 |     |                                                |     |
 
@@ -57,3 +57,15 @@ New splitting PDFs for
 - updated [[Splitting PDF Archive]]
 - Making synthetic datasets with new pdfs (v5)
 	- `source .ci-workflows/synthetic-dataset-make-dataset-all.sh`
+
+
+# [[Thoughts about working in collaborations]]
+
+
+# MAC meeting Tuesdays 
+- [[CMU HGC Mac Meeting 14 January 2024]]
+
+
+Did panel discussion 
+
+Home T&M down
