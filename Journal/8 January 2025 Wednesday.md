@@ -62,6 +62,7 @@ home... walk to campus by 9:30
 
 # Chat AE 
 
+
 # Hoops / Steamroom
 - 3s and 4s good wins. 
 - Twisted ankle 

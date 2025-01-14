@@ -12,7 +12,7 @@
 | 10 F | (in-person Faculty) Synthetic data / Iterate on AN / writing up Knowledge ..       | 8/6/4 |
 | 11 S | solo dad / write more [[Knowledge, Reality, and Value]] / Reading                  |       |
 | 12 S | Reading / **Gym/SR** / H to basketball / Reading                                   |       |
-| 13 M | (Classes Start) (Tova)                                                             |       |
+| 13 M | (Classes Start) (Tova) [[Diane Turnshek Letter]] / Chat Roy / **Hoops** / Cashba   |       |
 | 14 T | (Panel Discussion)                                                                 |       |
 | 15 W |                                                                                    |       |
 | 16 H |                                                                                    |       |

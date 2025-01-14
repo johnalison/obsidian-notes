@@ -7,7 +7,6 @@
 
 Some [[Life and Fate]]
 
-
 # [[Wesley Terrill Thesis]]
 
 Some [[The problems of philosophy]]

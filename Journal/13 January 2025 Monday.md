@@ -21,14 +21,14 @@
 | 4   | Tova Colloq                 |                  |
 |     | Home                        |                  |
 
-**W:**
-**DW:**
-**OT:**
-**ex** or **No ex**
+**W:** 6
+**DW:** 2
+**OT:** 2
+**ex** 
 
 ---
 # The ONE thing: 
-- [ ] Letter for Diane T
+- [x] Letter for Diane T
 
 ---
 # To Do
@@ -37,11 +37,11 @@
 	- [x] Send
 - [ ] Wes's Thesis
 - [ ] Debug truth v4j
-- [ ] Iterate on  [[Run2 HH4b AN]]
+- [>>] Iterate on  [[Run2 HH4b AN]]
 - [ ] Read [[Evolution of Silicon Sensor Technology in Particle Physics]] !!!
 - [ ] Call Liberty mutual re:tree down
-- [ ] Add Run3 Synthetic data CI
-- [ ] New splitting PDFs for [[Run3 Synthetic Data]]
+- [>>] Add Run3 Synthetic data CI
+- [>>] New splitting PDFs for [[Run3 Synthetic Data]]
 
 ---
 
@@ -78,3 +78,6 @@ More [[Diane Turnshek Letter]]
 - 13 EeV ~ 2 Joules
 
 Home with M & T
+
+# Dinner at Cashba
+- Me / Valentina / Tova

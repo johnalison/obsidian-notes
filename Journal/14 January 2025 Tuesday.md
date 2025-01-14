@@ -31,9 +31,10 @@
 # To Do
 
 - [ ] Finish Wes' Annual Review
-- [ ] 
-- [ ] 
-- [ ] 
+- [ ] Lab Tech positions
+- [ ] Add Run3 Synthetic data CI
+- [ ] New splitting PDFs for [[Run3 Synthetic Data]]
+- [ ]  Iterate on  [[Run2 HH4b AN]]
 
 ---
 

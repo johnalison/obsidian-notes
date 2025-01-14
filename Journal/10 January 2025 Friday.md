@@ -53,27 +53,7 @@ M to school (T still home recovering)
 Pinged Rachel re:Aishik Ghosh
 
 #  [[Run3 Synthetic Data]]
-- [x] Validate
-- [x] Send to Marina
-- Looks like previous analayze job ran out of memory...
-- Rerunning  On **cmslpc330**... checking memory
-	- `> source .ci-workflows/synthetic-dataset-analyze-all.sh`
-- finished **44m8.523s**
-- Plots look good.
-- Making presentations
-	- `python  jet_clustering/compare_datasets.py  hists/synthetic_data_Run3_v4_new_seedXXX.coffea   --out analysis/plots_synthetic_datasets_all_00-08-02-Run3_v4 -m plots/metadata/plotsSyntheticVsData2.yml`
-	- `make jetclustering_slides_Run3_all TEXFILENAME=SyntheticDatasets-00-08-02_Run3_v4 NEW_DIR=analysis\\/plots_synthetic_datasets_all_00-08-02-Run3_v4`
-- [>>] New splitting PDFs
-- testing clustering job...OK
-- Submitting on condor ...
-	- `python runner.py -o datasets_Run3_v4.coffea -d data -p analysis/processors/processor_cluster_4b.py -y 2022_EE 2022_preEE 2023_BPix 2023_preBPix -op output/synthetic_dataset_cluster -m metadata/datasets_HH4b_Run3_fourTag_v3.yml -c analysis/metadata/cluster_4b_noTTSubtraction.yml --condor`
-- Failed ... submitting the four years separately...
-- Submitting 2022_EE on **cmslpc328**
-	- [x] 2022_EE
-	- [x] 2022_preEE
-	- [x] 2023_preBPix
-	- [x] 2023_BPix
-- Reduced the chunksize to 5k and works without errors! 
+- See logs above
 
 # [[Run2 HH4b AN]]
 - Docker throwing an error... wont restart ... maybe need a reboot ?
