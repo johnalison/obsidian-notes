@@ -81,3 +81,6 @@ Van has hole in tire ~~-$200~~ (only $40 !!!)
 # Chat Sindhu 
 - Discussed p-values 
 
+MCS townhall 
+- not very useful
+- Curtis is "special advisor" on peer institutions comparables and MCS equipment
