@@ -25,7 +25,7 @@
 
 ---
 # The ONE thing: 
-- [ ] Check new [[Run3 Synthetic Data]]
+- [x] Check new [[Run3 Synthetic Data]]
 
 ---
 # To Do
@@ -54,16 +54,29 @@ M & T to school
 - Making datasets file v5
 - making histograms..
 - v5 looking  good... Making presentations 
-- 
+- sent to marina
 
 # Run3 Synthetic Data in CI
 - got make script running.
-- working analyze script
+- working analyze script... DONE
+- added cutflow script
+- pushing
 
 # Working Homework1
 - add F=Ma or not ? ... not !
 
 Fancy screen shoot: option + shift + 5 = command + shift + 5
 
-Van has hole in tire -$200
+Van has hole in tire ~~-$200~~ (only $40 !!!)
+
+
+# Hoops 
+- 4s and 5s in the AUX gym
+- Played well, 
+
+# Chat CL
+- JCM different
+- will ping people for annual review
+
+
 
