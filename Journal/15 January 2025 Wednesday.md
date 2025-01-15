@@ -1,22 +1,22 @@
 
-|     |                                 |     |
-| --- | ------------------------------- | --- |
-| 9   | Teaching                        |     |
-|     | Teaching                        |     |
-| 10  | setup / [[Run3 Synthetic Data]] |     |
-|     | [[Run3 Synthetic Data]]         |     |
-| 11  | [[Run3 Synthetic Data]]         |     |
-|     | Add Run3 Synthetic data CI      |     |
-| 12  | Hoops                           |     |
-|     | Hoops                           |     |
-| 1   | Hoops                           |     |
-|     | Hoops                           |     |
-| 2   | Sindhu                          |     |
-|     | Iterate on  [[Run2 HH4b AN]]    |     |
-| 3   | Townhall                        |     |
-|     | Iterate on  [[Run2 HH4b AN]]    |     |
-| 4   | Chat Aishik                     |     |
-|     | Chat Aishik                     |     |
+|     |                                  |                            |
+| --- | -------------------------------- | -------------------------- |
+| 9   | Teaching                         |                            |
+|     | Teaching                         |                            |
+| 10  | setup / [[Run3 Synthetic Data]]  |                            |
+|     | [[Run3 Synthetic Data]]          |                            |
+| 11  | [[Run3 Synthetic Data]]          |                            |
+|     | Add Run3 Synthetic data CI       |                            |
+| 12  | Hoops                            |                            |
+|     | Hoops                            |                            |
+| 1   | Hoops                            |                            |
+|     | Hoops                            |                            |
+| 2   | Sindhu                           |                            |
+|     | ~~Iterate on  [[Run2 HH4b AN]]~~ | Sindhu                     |
+| 3   | Townhall                         |                            |
+|     | ~~Iterate on  [[Run2 HH4b AN]]~~ | Add Run3 Synthetic data CI |
+| 4   | Chat Aishik                      |                            |
+|     | Chat Aishik                      |                            |
 
 **W:**
 **DW:**
@@ -30,7 +30,7 @@
 ---
 # To Do
 
-- [ ] Add Run3 Synthetic data CI
+- [x] Add Run3 Synthetic data CI
 - [x]  Check new [[Run3 Synthetic Data]]
 - [ ]  Wes's Thesis
 - [ ] Iterate on  [[Run2 HH4b AN]]
@@ -60,7 +60,7 @@ M & T to school
 - got make script running.
 - working analyze script... DONE
 - added cutflow script
-- pushing
+- pushing.. CI errors.. v3 .. 
 
 # Working Homework1
 - add F=Ma or not ? ... not !
@@ -84,3 +84,6 @@ Van has hole in tire ~~-$200~~ (only $40 !!!)
 MCS townhall 
 - not very useful
 - Curtis is "special advisor" on peer institutions comparables and MCS equipment
+
+More CI debugging ... see above
+
