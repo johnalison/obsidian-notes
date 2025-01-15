@@ -5,7 +5,7 @@ Focuses on the implications of the "common sense" intuitions of the first-person
 
 [[Ground truth believe systems on which to base philosophy]]
 
-[[Determining truth of assumptions makes philosophy is hard]]
+[[Determining truth of assumptions makes philosophy  hard]]
 
 [[Radical skepticism is a means of probing intuitions]]
 

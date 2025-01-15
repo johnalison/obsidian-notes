@@ -1,22 +1,22 @@
 
-|     |             |     |
-| --- | ----------- | --- |
-| 9   | Teaching    |     |
-|     | Teaching    |     |
-| 10  |             |     |
-|     |             |     |
-| 11  |             |     |
-|     |             |     |
-| 12  | Hoops       |     |
-|     | Hoops       |     |
-| 1   | Hoops       |     |
-|     | Hoops       |     |
-| 2   | Sindhu      |     |
-|     |             |     |
-| 3   |             |     |
-|     |             |     |
-| 4   | Chat Aishik |     |
-|     | Chat Aishik |     |
+|     |                                 |     |
+| --- | ------------------------------- | --- |
+| 9   | Teaching                        |     |
+|     | Teaching                        |     |
+| 10  | setup / [[Run3 Synthetic Data]] |     |
+|     | [[Run3 Synthetic Data]]         |     |
+| 11  | [[Run3 Synthetic Data]]         |     |
+|     | Add Run3 Synthetic data CI      |     |
+| 12  | Hoops                           |     |
+|     | Hoops                           |     |
+| 1   | Hoops                           |     |
+|     | Hoops                           |     |
+| 2   | Sindhu                          |     |
+|     |                                 |     |
+| 3   |                                 |     |
+|     |                                 |     |
+| 4   | Chat Aishik                     |     |
+|     | Chat Aishik                     |     |
 
 **W:**
 **DW:**
@@ -25,16 +25,31 @@
 
 ---
 # The ONE thing: 
-- [ ] 
+- [ ] Check new [[Run3 Synthetic Data]]
 
 ---
 # To Do
 
+- [ ] Add Run3 Synthetic data CI
+- [ ]  Wes's Thesis
 - [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-
+- [ ] Iterate on  [[Run2 HH4b AN]]
+- [ ] Debug truth v4j
 ---
 
 # Log
+
+up at 6:50
+- Start meditating at 6:30 ?
+
+M & T to school
+
+# Taught
+- coordinate transformations in classical physics
+
+# [[Run3 Synthetic Data]]
+- Making datasets file v5
+- making histograms..
+
+
+Fancy screen shoot: option + shift + 5 = command + shift + 5

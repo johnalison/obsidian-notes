@@ -154,7 +154,7 @@ Index:
 # Philosophy
 
 [[Benefit of Philosophy to Other Disciplines]] 
-[[Determining truth of assumptions makes philosophy is hard]]
+[[Determining truth of assumptions makes philosophy  hard]]
 [[Ground truth believe systems on which to base philosophy]]
 
 [[Radical skepticism is a means of probing intuitions]]

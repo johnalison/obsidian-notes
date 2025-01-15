@@ -18,10 +18,10 @@
 | 4   | Sindhu review                                  |     |
 |     |                                                |     |
 
-**W:**
-**DW:**
-**OT:**
-**ex** or **No ex**
+**W:** 5
+**DW:** 1
+**OT:** 1
+**No ex**
 
 ---
 # The ONE thing: 
@@ -33,9 +33,9 @@
 - [x] Finish Wes' Annual Review
 - [ ] Lab Tech positions
 - [x] Sindhu Annual Review
-- [ ] Add Run3 Synthetic data CI
+- [>>] Add Run3 Synthetic data CI
 - [x] New splitting PDFs for [[Run3 Synthetic Data]]
-- [ ]  Iterate on  [[Run2 HH4b AN]]
+- [>>]  Iterate on  [[Run2 HH4b AN]]
 
 ---
 
@@ -58,7 +58,7 @@ New splitting PDFs for
 - updated [[Splitting PDF Archive]]
 - Making synthetic datasets with new pdfs (v5)
 	- `source .ci-workflows/synthetic-dataset-make-dataset-all.sh`
-- on **cmslpc320**
+- on **cmslpc320**. ... **real    82m12.738s**
 
 # [[Thoughts about working in collaborations]]
 

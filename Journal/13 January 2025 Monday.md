@@ -35,8 +35,8 @@
 
 - [x] Letter for Diane T
 	- [x] Send
-- [ ] Wes's Thesis
-- [ ] Debug truth v4j
+- [>>] Wes's Thesis
+- [>>] Debug truth v4j
 - [>>] Iterate on  [[Run2 HH4b AN]]
 - [ ] Read [[Evolution of Silicon Sensor Technology in Particle Physics]] !!!
 - [ ] Call Liberty mutual re:tree down
@@ -67,13 +67,13 @@ Chat with Roy and Valentina
 More [[Diane Turnshek Letter]]
 
 # Meet with Tova
-- Lia out at FNAL
+- Lia out at FNAL !!  YKK in the house.
 - https://news.fnal.gov/2025/01/fermilab-undergoes-leadership-change/
 - Showed her the lab
 
 # Tova Colloq
-- Two circulating beams
-- For continous Lumi, reinject at 100Hz (10Hz) for 1 (10) TeV collisions
+- Two circulating bunches
+- For continuous Lumi, re-inject at 100Hz (10Hz) for 1 (10) TeV collisions
 - Higher E => Higher L b/c of the Lorentz boost 
 - 13 EeV ~ 2 Joules
 

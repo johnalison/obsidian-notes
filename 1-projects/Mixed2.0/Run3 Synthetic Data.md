@@ -6,6 +6,11 @@ Feedback from Marina:
 - [x] Move pt cut to 35
 - [ ] Jets with 3 medium b-jets
 
+
+
+v5: 
+- like v4, but with splitting functions that use the JEC calbiration
+
 v4: 
 - like v3 but with new JEC calibration and btag filter at 30 GeV
 
