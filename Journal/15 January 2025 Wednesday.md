@@ -78,5 +78,6 @@ Van has hole in tire ~~-$200~~ (only $40 !!!)
 - JCM different
 - will ping people for annual review
 
-
+# Chat Sindhu 
+- Discussed p-values 
 

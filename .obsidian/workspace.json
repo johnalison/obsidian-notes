@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/15 January 2025 Wednesday.md",
+                "file": "Input/Papers/Why Most Published Research Findings Are False.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "15 January 2025 Wednesday"
+              "title": "Why Most Published Research Findings Are False"
             }
           },
           {
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/15 January 2025 Wednesday.md",
+                "file": "Input/Papers/Why Most Published Research Findings Are False.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 15 January 2025 Wednesday"
+              "title": "Backlinks for Why Most Published Research Findings Are False"
             }
           },
           {
@@ -155,12 +155,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/15 January 2025 Wednesday.md",
+                "file": "Input/Papers/Why Most Published Research Findings Are False.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 15 January 2025 Wednesday"
+              "title": "Outgoing links from Why Most Published Research Findings Are False"
             }
           },
           {
@@ -182,10 +182,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/15 January 2025 Wednesday.md"
+                "file": "Input/Papers/Why Most Published Research Findings Are False.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 15 January 2025 Wednesday"
+              "title": "Outline of Why Most Published Research Findings Are False"
             }
           },
           {
@@ -219,15 +219,15 @@
   },
   "active": "f1f51623167b83db",
   "lastOpenFiles": [
-    "Journal/14 January 2025 Tuesday.md",
+    "Journal/11 January 2025 Saturday.md",
     "Journal/15 January 2025 Wednesday.md",
+    "Journal/14 January 2025 Tuesday.md",
     "1-projects/Mixed2.0/Run3 Synthetic Data.md",
     "2-areas/Outreach/WhyShouldPhysicistsDoOutreach.md",
     "Journal/January 2025.md",
     "0-inbox/CMU HGC Mac Meeting 14 January 2024.md",
     "Journal/13 January 2025 Monday.md",
     "Journal/12 January 2025 Sunday.md",
-    "Journal/11 January 2025 Saturday.md",
     "00-Zettelkasten/Determining truth of assumptions makes philosophy  hard.md",
     "Journal/10 January 2025 Friday.md",
     "Journal/9 January 2025 Thursday.md",
