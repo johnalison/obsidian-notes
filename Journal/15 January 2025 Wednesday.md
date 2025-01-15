@@ -31,10 +31,12 @@
 # To Do
 
 - [ ] Add Run3 Synthetic data CI
+- [x]  Check new [[Run3 Synthetic Data]]
 - [ ]  Wes's Thesis
 - [ ] Iterate on  [[Run2 HH4b AN]]
 - [ ] Debug truth v4j
-- [ ] post homework 1
+- [x] post homework 1
+- [x] Lab Tech positions
 
 ---
 
@@ -51,7 +53,15 @@ M & T to school
 # [[Run3 Synthetic Data]]
 - Making datasets file v5
 - making histograms..
+- v5 looking  good... Making presentations 
+- 
 
+# Run3 Synthetic Data in CI
+- got make script running.
+- working analyze script
+
+# Working Homework1
+- add F=Ma or not ? ... not !
 
 Fancy screen shoot: option + shift + 5 = command + shift + 5
 
