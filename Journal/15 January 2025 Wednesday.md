@@ -12,9 +12,9 @@
 | 1   | Hoops                           |     |
 |     | Hoops                           |     |
 | 2   | Sindhu                          |     |
-|     |                                 |     |
-| 3   |                                 |     |
-|     |                                 |     |
+|     | Iterate on  [[Run2 HH4b AN]]    |     |
+| 3   | Townhall                        |     |
+|     | Iterate on  [[Run2 HH4b AN]]    |     |
 | 4   | Chat Aishik                     |     |
 |     | Chat Aishik                     |     |
 
@@ -32,9 +32,10 @@
 
 - [ ] Add Run3 Synthetic data CI
 - [ ]  Wes's Thesis
-- [ ] 
 - [ ] Iterate on  [[Run2 HH4b AN]]
 - [ ] Debug truth v4j
+- [ ] post homework 1
+
 ---
 
 # Log
@@ -53,3 +54,6 @@ M & T to school
 
 
 Fancy screen shoot: option + shift + 5 = command + shift + 5
+
+Van has hole in tire -$200
+
