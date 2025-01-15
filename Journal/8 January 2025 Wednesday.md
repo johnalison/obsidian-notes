@@ -49,7 +49,7 @@
 
 Up at 7 
 
-T getting ear tubes
+T getting ear tubes... ended up getting adenoids removed
 
 H to school in Lynns Car, then M to school (tons of traffic in snow)
 

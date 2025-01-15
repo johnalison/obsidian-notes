@@ -72,3 +72,7 @@ Did panel discussion
 Home T&M down
 
 Completed and sent [[Sindhu Murthy Annual Review 2024]]
+
+To get H... tons of traffic ... home... H pissy
+
+Some [[Life and Fate]]
