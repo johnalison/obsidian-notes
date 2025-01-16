@@ -10,7 +10,7 @@
 | 12  | Sam             |     |
 |     | Faculty Meeting |     |
 | 1   | Faculty Meeting |     |
-|     |                 |     |
+|     | Chat Reinhard   |     |
 | 2   |                 |     |
 |     | Office Hours    |     |
 | 3   | Office Hours    |     |
@@ -66,5 +66,7 @@ School by 9:30
 - Will start looking into kubernetes
 
 # Faculty Meeting
+- Long discussion of Astro track
 
+[[Write up Universal Inference Toy]]
 
