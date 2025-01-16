@@ -1,22 +1,22 @@
 
-|     | w/kids          |     |
-| --- | --------------- | --- |
-| 9   | To school       |     |
-|     | FBC3            |     |
-| 10  | Teaching        |     |
-|     | Teaching        |     |
-| 11  |                 |     |
-|     |                 |     |
-| 12  | Sam             |     |
-|     | Faculty Meeting |     |
-| 1   | Faculty Meeting |     |
-|     | Chat Reinhard   |     |
-| 2   |                 |     |
-|     | Office Hours    |     |
-| 3   | Office Hours    |     |
-|     |                 |     |
-| 4   |                 |     |
-|     |                 |     |
+|     | w/kids                |                                    |
+| --- | --------------------- | ---------------------------------- |
+| 9   | To school             |                                    |
+|     | FBC3                  |                                    |
+| 10  | Teaching              |                                    |
+|     | Teaching              |                                    |
+| 11  |                       |                                    |
+|     |                       |                                    |
+| 12  | Sam                   |                                    |
+|     | Faculty Meeting       |                                    |
+| 1   | Faculty Meeting       |                                    |
+|     | Chat Reinhard         |                                    |
+| 2   | Chat AE               |                                    |
+|     | ~~Office Hours~~      | Thinking about Universal Inference |
+| 3   | Office Hours          | Thinking about Universal Inference |
+|     | Synthetic Dataset CI  |                                    |
+| 4   |  Synthetic Dataset CI |                                    |
+|     |                       |                                    |
 
 **W:**
 **DW:**
