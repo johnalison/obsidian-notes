@@ -30,12 +30,12 @@
 ---
 # To Do
 
-- [ ] Outreach meeting poll
+- [x] Outreach meeting poll
 - [ ]  Synthetic Dataset CI
 - [ ] Read [[Evolution of Silicon Sensor Technology in Particle Physics]] !!!
 - [ ] Call Liberty mutual re:tree down
 - [ ] Wes's Thesis
-- [ ] Iterate on  [[Run2 HH4b AN]]
+- [x] Iterate on  [[Run2 HH4b AN]]
 - [ ] Debug truth v4j
 - [ ] Fix Run3 Synthetic data CI
 
