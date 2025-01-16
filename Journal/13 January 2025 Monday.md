@@ -38,8 +38,8 @@
 - [>>] Wes's Thesis
 - [>>] Debug truth v4j
 - [>>] Iterate on  [[Run2 HH4b AN]]
-- [ ] Read [[Evolution of Silicon Sensor Technology in Particle Physics]] !!!
-- [ ] Call Liberty mutual re:tree down
+- [>>] Read [[Evolution of Silicon Sensor Technology in Particle Physics]] !!!
+- [>>] Call Liberty mutual re:tree down
 - [>>] Add Run3 Synthetic data CI
 - [>>] New splitting PDFs for [[Run3 Synthetic Data]]
 

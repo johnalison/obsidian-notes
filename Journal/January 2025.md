@@ -14,7 +14,7 @@
 | 12 S | Reading / **Gym/SR** / H to basketball / Reading                                   |       |
 | 13 M | (Classes Start) (Tova) [[Diane Turnshek Letter]] / Chat Roy / **Hoops** / Cashba   | 6/2/2 |
 | 14 T | (Panel Discussion) New splitting pdfs / 2 more modules / snow == traffic           | 5/1/1 |
-| 15 W |                                                                                    |       |
+| 15 W | Taught / Synthetic data v5 / Run3 Synth CI / **Hoops** / Aishik / **Cafe 33**      | 6/3/2 |
 | 16 H |                                                                                    |       |
 | 17 F | (H half day)                                                                       |       |
 | 18 S | (H Birthday Party)                                                                 |       |

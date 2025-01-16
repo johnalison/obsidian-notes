@@ -1,22 +1,22 @@
 
-|     |     |     |
-| --- | --- | --- |
-| 9   |     |     |
-|     |     |     |
-| 10  |     |     |
-|     |     |     |
-| 11  |     |     |
-|     |     |     |
-| 12  |     |     |
-|     |     |     |
-| 1   |     |     |
-|     |     |     |
-| 2   |     |     |
-|     |     |     |
-| 3   |     |     |
-|     |     |     |
-| 4   |     |     |
-|     |     |     |
+|     | w/kids          |     |
+| --- | --------------- | --- |
+| 9   | To school       |     |
+|     | FBC3            |     |
+| 10  | Teaching        |     |
+|     | Teaching        |     |
+| 11  |                 |     |
+|     |                 |     |
+| 12  | Sam             |     |
+|     | Faculty Meeting |     |
+| 1   | Faculty Meeting |     |
+|     |                 |     |
+| 2   |                 |     |
+|     | Office Hours    |     |
+| 3   | Office Hours    |     |
+|     |                 |     |
+| 4   |                 |     |
+|     |                 |     |
 
 **W:**
 **DW:**
@@ -25,15 +25,19 @@
 
 ---
 # The ONE thing: 
-- [ ] 
+- [ ] Iterate on  [[Run2 HH4b AN]]
 
 ---
 # To Do
 
 - [ ] Outreach meeting poll
-- [ ] 
-- [ ] 
-- [ ] 
+- [ ]  Synthetic Dataset CI
+- [ ] Read [[Evolution of Silicon Sensor Technology in Particle Physics]] !!!
+- [ ] Call Liberty mutual re:tree down
+- [ ] Wes's Thesis
+- [ ] Iterate on  [[Run2 HH4b AN]]
+- [ ] Debug truth v4j
+- [ ] Fix Run3 Synthetic data CI
 
 ---
 
@@ -46,4 +50,10 @@ M & T to school with H
 School by 9:30 
 
 # FBC2
-- got the comments on Run 3
+- got the comments on Run 3... Not bad
+
+# Taught
+- Michelson and Morley 
+- Discussed General Transformations 
+- Determinism 
+

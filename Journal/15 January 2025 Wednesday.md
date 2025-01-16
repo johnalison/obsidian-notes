@@ -18,23 +18,24 @@
 | 4   | Chat Aishik                      |                            |
 |     | Chat Aishik                      |                            |
 
-**W:**
-**DW:**
-**OT:**
-**ex** or **No ex**
+**W:** 6
+**DW:** 3
+**OT:** 2
+**ex** 
 
 ---
 # The ONE thing: 
 - [x] Check new [[Run3 Synthetic Data]]
+- [ ] Add Run3 Synthetic data CI
 
 ---
 # To Do
 
 - [x] Add Run3 Synthetic data CI
 - [x]  Check new [[Run3 Synthetic Data]]
-- [ ]  Wes's Thesis
-- [ ] Iterate on  [[Run2 HH4b AN]]
-- [ ] Debug truth v4j
+- [>>]  Wes's Thesis
+- [>>] Iterate on  [[Run2 HH4b AN]]
+- [>>] Debug truth v4j
 - [x] post homework 1
 - [x] Lab Tech positions
 
@@ -87,3 +88,14 @@ MCS townhall
 
 More CI debugging ... see above
 
+# Chat Aishik
+- high dimensional inference 
+- [[Universal Inference]]
+- 
+
+
+Home ... picked up H ... Angel over (moving back to LA)... 
+
+
+# Dinner at Cafe 33 
+- Good times ! 

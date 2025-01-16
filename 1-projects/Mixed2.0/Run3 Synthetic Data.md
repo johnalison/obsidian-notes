@@ -1,6 +1,6 @@
 
 # To Do
-- [ ] New cluster splitting templates
+- [x] New cluster splitting templates
 Feedback from Marina:
 - [ ] add the TrigObj collection
 - [x] Move pt cut to 35
@@ -23,6 +23,15 @@ v4:
 
 
 # Daily Logs
+
+[[14 January 2025 Tuesday]]
+- Making new splitting functions
+	- `python  jet_clustering/make_jet_splitting_PDFs.py output/synthetic_dataset_cluster/datasets_2022_EE.coffea  --years 2022_EE   --out jet_clustering/jet-splitting-PDFs-00-08-03`
+	- same for other eras
+- updated [[Splitting PDF Archive]]
+- Making synthetic datasets with new pdfs (v5)
+	- `source .ci-workflows/synthetic-dataset-make-dataset-all.sh`
+- on **cmslpc320**. ... **real    82m12.738s**
 
 [[10 January 2025 Friday]]
 - [x] Validate
