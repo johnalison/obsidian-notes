@@ -70,3 +70,5 @@ School by 9:30
 
 [[Write up Universal Inference Toy]]
 
+# Debugging the synthetic data CI
+- added out put 
