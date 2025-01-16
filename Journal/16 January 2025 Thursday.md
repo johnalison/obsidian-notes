@@ -63,3 +63,8 @@ School by 9:30
 
 
 # Chat with Sam
+- Will start looking into kubernetes
+
+# Faculty Meeting
+
+
