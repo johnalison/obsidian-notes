@@ -57,3 +57,9 @@ School by 9:30
 - Discussed General Transformations 
 - Determinism 
 
+# Long Chat AE
+- Thinking about big pictures
+- [ ] Plots in SB
+
+
+# Chat with Sam

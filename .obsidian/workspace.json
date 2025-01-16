@@ -63,8 +63,7 @@
               "title": "January 2025"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -137,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/15 January 2025 Wednesday.md",
+                "file": "Journal/16 January 2025 Thursday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +146,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 15 January 2025 Wednesday"
+              "title": "Backlinks for 16 January 2025 Thursday"
             }
           },
           {
@@ -156,12 +155,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/15 January 2025 Wednesday.md",
+                "file": "Journal/16 January 2025 Thursday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 15 January 2025 Wednesday"
+              "title": "Outgoing links from 16 January 2025 Thursday"
             }
           },
           {
@@ -183,10 +182,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/15 January 2025 Wednesday.md"
+                "file": "Journal/16 January 2025 Thursday.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 15 January 2025 Wednesday"
+              "title": "Outline of 16 January 2025 Thursday"
             }
           },
           {
@@ -218,10 +217,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f1f51623167b83db",
+  "active": "81e5c66ee41147f1",
   "lastOpenFiles": [
-    "0-inbox/Universal Inference.md",
     "Journal/15 January 2025 Wednesday.md",
+    "0-inbox/Universal Inference.md",
     "Journal/January 2025.md",
     "Journal/16 January 2025 Thursday.md",
     "Journal/14 January 2025 Tuesday.md",
