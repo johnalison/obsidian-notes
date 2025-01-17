@@ -1,22 +1,22 @@
 
-|     |                         |     |
-| --- | ----------------------- | --- |
-| 9   | Teaching                |     |
-|     | Teaching                |     |
-| 10  | setup / Progress Report |     |
-|     | Progres Report          |     |
-| 11  |                         |     |
-|     | Daniel Shi              |     |
-| 12  | Hoops                   |     |
-|     | Hoops                   |     |
-| 1   | Hoops                   |     |
-|     | Hoops                   |     |
-| 2   | HH4b                    |     |
-|     |                         |     |
-| 3   | CMU CMS                 |     |
-|     |                         |     |
-| 4   |                         |     |
-|     |                         |     |
+|     |                            |                            |
+| --- | -------------------------- | -------------------------- |
+| 9   | Teaching                   |                            |
+|     | Teaching                   |                            |
+| 10  | setup / Progress Report    |                            |
+|     | ~~Progres Report~~         | Fix Run3 Synthetic data CI |
+| 11  | Fix Run3 Synthetic data CI |                            |
+|     | Daniel Shi                 |                            |
+| 12  | Hoops                      |                            |
+|     | Hoops                      |                            |
+| 1   | Hoops                      |                            |
+|     | Hoops                      |                            |
+| 2   | HH4b                       |                            |
+|     | Fix Run3 Synthetic data CI |                            |
+| 3   | CMU CMS                    |                            |
+|     | Fix Run3 Synthetic data CI |                            |
+| 4   |                            |                            |
+|     | Grad Social                |                            |
 
 **W:**
 **DW:**
@@ -71,3 +71,11 @@ Car battery dead...
 
 More debugging CI
 
+# CMU CMS
+- No one there
+
+More debugging CI
+
+Finances 2.3/2.3
+
+[[Write up Universal Inference Toy]]
