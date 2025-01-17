@@ -1,22 +1,22 @@
 
-|     | w/kids                |                                    |
-| --- | --------------------- | ---------------------------------- |
-| 9   | To school             |                                    |
-|     | FBC3                  |                                    |
-| 10  | Teaching              |                                    |
-|     | Teaching              |                                    |
-| 11  |                       |                                    |
-|     |                       |                                    |
-| 12  | Sam                   |                                    |
-|     | Faculty Meeting       |                                    |
-| 1   | Faculty Meeting       |                                    |
-|     | Chat Reinhard         |                                    |
-| 2   | Chat AE               |                                    |
-|     | ~~Office Hours~~      | Thinking about Universal Inference |
-| 3   | Office Hours          | Thinking about Universal Inference |
-|     | Synthetic Dataset CI  |                                    |
-| 4   |  Synthetic Dataset CI |                                    |
-|     |                       |                                    |
+|     | w/kids               |                                    |
+| --- | -------------------- | ---------------------------------- |
+| 9   | To school            |                                    |
+|     | FBC3                 |                                    |
+| 10  | Teaching             |                                    |
+|     | Teaching             |                                    |
+| 11  | Chat AE              |                                    |
+|     | Chat AE              |                                    |
+| 12  | Sam                  |                                    |
+|     | Faculty Meeting      |                                    |
+| 1   | Faculty Meeting      |                                    |
+|     | Chat Reinhard        |                                    |
+| 2   | Chat AE              |                                    |
+|     | ~~Office Hours~~     | Thinking about Universal Inference |
+| 3   | Office Hours         | Thinking about Universal Inference |
+|     | Synthetic Dataset CI |                                    |
+| 4   | Synthetic Dataset CI |                                    |
+|     |                      |                                    |
 
 **W:**
 **DW:**
@@ -59,7 +59,7 @@ School by 9:30
 
 # Long Chat AE
 - Thinking about big pictures
-- [ ] Plots in SB
+- [ ] Synthetic data Plots in SB 
 
 
 # Chat with Sam
@@ -72,3 +72,9 @@ School by 9:30
 
 # Debugging the synthetic data CI
 - added out put 
+- Calibrated jets are different ! 
+- [ ] Check input jets
+
+Home with kids
+
+Some [[Life and Fate]]
