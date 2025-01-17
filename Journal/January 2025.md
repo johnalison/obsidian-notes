@@ -15,7 +15,7 @@
 | 13 M | (Classes Start) (Tova) [[Diane Turnshek Letter]] / Chat Roy / **Hoops** / Cashba   | 6/2/2 |
 | 14 T | (Panel Discussion) New splitting pdfs / 2 more modules / snow == traffic           | 5/1/1 |
 | 15 W | Taught / Synthetic data v5 / Run3 Synth CI / **Hoops** / Aishik / **Cafe 33**      | 6/3/2 |
-| 16 H |                                                                                    |       |
+| 16 H | (H to work) Taught / Chat AE / Chat Sam / debug synthetic data / Reading           | 7/2/1 |
 | 17 F | (H half day)                                                                       |       |
 | 18 S | (H Birthday Party)                                                                 |       |
 | 19 S |                                                                                    |       |

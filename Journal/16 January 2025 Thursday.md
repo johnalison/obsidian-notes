@@ -1,43 +1,43 @@
 
-|     | w/kids               |                                    |
-| --- | -------------------- | ---------------------------------- |
-| 9   | To school            |                                    |
-|     | FBC3                 |                                    |
-| 10  | Teaching             |                                    |
-|     | Teaching             |                                    |
-| 11  | Chat AE              |                                    |
-|     | Chat AE              |                                    |
-| 12  | Sam                  |                                    |
-|     | Faculty Meeting      |                                    |
-| 1   | Faculty Meeting      |                                    |
-|     | Chat Reinhard        |                                    |
-| 2   | Chat AE              |                                    |
-|     | ~~Office Hours~~     | Thinking about Universal Inference |
-| 3   | Office Hours         | Thinking about Universal Inference |
-|     | Synthetic Dataset CI |                                    |
-| 4   | Synthetic Dataset CI |                                    |
-|     |                      |                                    |
+|     | w/kids                       |                                    |
+| --- | ---------------------------- | ---------------------------------- |
+| 9   | To school                    |                                    |
+|     | FBC3                         |                                    |
+| 10  | Teaching                     |                                    |
+|     | Teaching                     |                                    |
+| 11  | Chat AE                      |                                    |
+|     | Iterate on  [[Run2 HH4b AN]] |                                    |
+| 12  | Sam                          |                                    |
+|     | Faculty Meeting              |                                    |
+| 1   | Faculty Meeting              |                                    |
+|     | Chat Reinhard                |                                    |
+| 2   | Chat AE                      |                                    |
+|     | ~~Office Hours~~             | Thinking about Universal Inference |
+| 3   | Office Hours                 | Thinking about Universal Inference |
+|     | Synthetic Dataset CI         |                                    |
+| 4   | Synthetic Dataset CI         |                                    |
+|     |                              |                                    |
 
-**W:**
-**DW:**
-**OT:**
+**W:** 7 
+**DW:** 2
+**OT:** 1
 **ex** or **No ex**
 
 ---
 # The ONE thing: 
-- [ ] Iterate on  [[Run2 HH4b AN]]
+- [x] Iterate on  [[Run2 HH4b AN]]
 
 ---
 # To Do
 
 - [x] Outreach meeting poll
-- [ ]  Synthetic Dataset CI
-- [ ] Read [[Evolution of Silicon Sensor Technology in Particle Physics]] !!!
-- [ ] Call Liberty mutual re:tree down
-- [ ] Wes's Thesis
+- [>>]  Synthetic Dataset CI
+- [>>] Read [[Evolution of Silicon Sensor Technology in Particle Physics]] !!!
+- [>>] Call Liberty mutual re:tree down
+- [>>] Wes's Thesis
 - [x] Iterate on  [[Run2 HH4b AN]]
-- [ ] Debug truth v4j
-- [ ] Fix Run3 Synthetic data CI
+- [>>] Debug truth v4j
+- [>>] Fix Run3 Synthetic data CI
 
 ---
 
@@ -45,7 +45,7 @@
 
 Up at 6:50 
 
-M & T to school with H 
+M & T to school with H (Cyert delay, ECS cancelled )
 
 School by 9:30 
 
@@ -59,8 +59,7 @@ School by 9:30
 
 # Long Chat AE
 - Thinking about big pictures
-- [ ] Synthetic data Plots in SB 
-
+- [>>] Synthetic data Plots in SB 
 
 # Chat with Sam
 - Will start looking into kubernetes
@@ -72,8 +71,9 @@ School by 9:30
 
 # Debugging the synthetic data CI
 - added out put 
+- `python  analysis/debugRun3SyntheticDataCI.py output/synthetic_dataset_analyze_Run3//test_synthetic_datasets.coffea  analysis/test_synthetic_datasets.coffea `
 - Calibrated jets are different ! 
-- [ ] Check input jets
+- [>>] Check input jets
 
 Home with kids
 

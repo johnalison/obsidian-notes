@@ -91,7 +91,6 @@ More CI debugging ... see above
 # Chat Aishik
 - high dimensional inference 
 - [[Universal Inference]]
-- 
 
 
 Home ... picked up H ... Angel over (moving back to LA)... 
