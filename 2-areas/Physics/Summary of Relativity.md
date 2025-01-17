@@ -20,6 +20,8 @@ The "theoretical minimum" of relativity
 [[Physics]]
 [[Modern Essentials]]
 [[Relativity]]
+[[Teaching]]
+
 
 
 202407121153

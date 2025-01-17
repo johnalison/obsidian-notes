@@ -54,10 +54,10 @@ Car battery dead...
 
 
 # Debugging the synthetic data CI
-- [ ] Check input jets
+- [x] Check input jets
 - adding selJet and selJet_no_bRegCorr Kinematics
-- Input jets are different
-
-
+- Input jets are different ! 
+- Adding debuggining to the make-synthetic-datasets job
+- [ ] Need to read in yml files
 
 [[ProgressReport 17 January 2024]]
