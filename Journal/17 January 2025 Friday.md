@@ -56,5 +56,8 @@ Car battery dead...
 # Debugging the synthetic data CI
 - [ ] Check input jets
 - adding selJet and selJet_no_bRegCorr Kinematics
+- Input jets are different
+
+
 
 [[ProgressReport 17 January 2024]]
