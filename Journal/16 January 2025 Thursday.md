@@ -78,3 +78,5 @@ School by 9:30
 Home with kids
 
 Some [[Life and Fate]]
+Some [[The problems of philosophy]]
+Some [[Talent]]
