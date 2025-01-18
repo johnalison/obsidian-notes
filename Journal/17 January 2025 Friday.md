@@ -15,7 +15,7 @@
 |     | Fix Run3 Synthetic data CI |                            |
 | 3   | CMU CMS                    |                            |
 |     | Fix Run3 Synthetic data CI |                            |
-| 4   |                            |                            |
+| 4   | Met David                  |                            |
 |     | Grad Social                |                            |
 
 **W:**
@@ -61,6 +61,8 @@ Car battery dead...
 - Adding debuggining to the make-synthetic-datasets job
 - [ ] Need to read in yml files
 - `python  analysis/debugMakeSyntheticEventsRun3.py output/synthetic_dataset_make_dataset_Run3/picoaod_datasets_declustered_test_2023_BPix.yml analysis/picoaod_datasets_declustered_test_2023_BPix_CI.yml`
+- Problem is with Run3 jet calibration
+- 
 
 [[ProgressReport 17 January 2024]]
 
@@ -79,3 +81,8 @@ More debugging CI
 Finances 2.3/2.3
 
 [[Write up Universal Inference Toy]]
+
+# Chat David
+- Wants to do theory
+
+More CI debugging
