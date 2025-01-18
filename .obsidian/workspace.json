@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/17 January 2025 Friday.md",
+                "file": "Journal/18 January 2025 Saturday.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "17 January 2025 Friday"
+              "title": "18 January 2025 Saturday"
             }
           },
           {
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/17 January 2025 Friday.md",
+                "file": "Journal/18 January 2025 Saturday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 17 January 2025 Friday"
+              "title": "Backlinks for 18 January 2025 Saturday"
             }
           },
           {
@@ -169,12 +169,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/17 January 2025 Friday.md",
+                "file": "Journal/18 January 2025 Saturday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 17 January 2025 Friday"
+              "title": "Outgoing links from 18 January 2025 Saturday"
             }
           },
           {
@@ -196,10 +196,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/17 January 2025 Friday.md"
+                "file": "Journal/18 January 2025 Saturday.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 17 January 2025 Friday"
+              "title": "Outline of 18 January 2025 Saturday"
             }
           },
           {
@@ -233,8 +233,9 @@
   },
   "active": "81e5c66ee41147f1",
   "lastOpenFiles": [
-    "0-inbox/Write up Universal Inference Toy.md",
     "Journal/17 January 2025 Friday.md",
+    "Journal/18 January 2025 Saturday.md",
+    "0-inbox/Write up Universal Inference Toy.md",
     "00-Zettelkasten/Relativity as based on a meta-physical law.md",
     "0-inbox/Relativity.md",
     "2-areas/Physics/Summary of Relativity.md",
@@ -258,7 +259,6 @@
     "Journal/9 January 2025 Thursday.md",
     "Input/Papers/Why Most Published Research Findings Are False.md",
     "2-areas/Outreach/WhyShouldPhysicistsDoOutreach.md",
-    "00-Zettelkasten/Determining truth of assumptions makes philosophy  hard.md",
     "1-projects/Mixed2.0/#Run3 Synthetic Data.md#",
     "Journal/#January.md#",
     "Journal/2024/November",

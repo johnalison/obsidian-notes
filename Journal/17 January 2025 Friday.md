@@ -59,10 +59,10 @@ Car battery dead...
 - adding selJet and selJet_no_bRegCorr Kinematics
 - Input jets are different ! 
 - Adding debuggining to the make-synthetic-datasets job
-- [ ] Need to read in yml files
+- [x] Need to read in yml files
 - `python  analysis/debugMakeSyntheticEventsRun3.py output/synthetic_dataset_make_dataset_Run3/picoaod_datasets_declustered_test_2023_BPix.yml analysis/picoaod_datasets_declustered_test_2023_BPix_CI.yml`
 - Problem is with Run3 jet calibration
-- 
+
 
 [[ProgressReport 17 January 2024]]
 
@@ -86,3 +86,12 @@ Finances 2.3/2.3
 - Wants to do theory
 
 More CI debugging
+
+# Grad Social
+- Slice ... very good
+- Chat Markus and Manfred re:Plans for Physics 
+
+Home with M & T 
+
+Some [[Life and Fate]]
+Some [[The problems of philosophy]]
