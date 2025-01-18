@@ -18,10 +18,10 @@
 | 4   | Met David                  |                            |
 |     | Grad Social                |                            |
 
-**W:**
-**DW:**
-**OT:**
-**ex** or **No ex**
+**W:** 5 
+**DW:** 3
+**OT:** 2
+**ex** 
 
 ---
 # The ONE thing: 
@@ -90,6 +90,7 @@ More CI debugging
 # Grad Social
 - Slice ... very good
 - Chat Markus and Manfred re:Plans for Physics 
+- Chat Logan re:US 
 
 Home with M & T 
 

@@ -10,3 +10,5 @@ To Giant Eagle
 
 Some [[Life and Fate]]
 
+# More CI debugging 
+- checking the bjet and nonbjets separately 
