@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/Rich and Poor How things work.md",
+                "file": "Output/Wesley Terrill Annual Review 2024.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rich and Poor How things work"
+              "title": "Wesley Terrill Annual Review 2024"
             }
           },
           {
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/Rich and Poor How things work.md",
+                "file": "Output/Wesley Terrill Annual Review 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Rich and Poor How things work"
+              "title": "Backlinks for Wesley Terrill Annual Review 2024"
             }
           },
           {
@@ -169,12 +169,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/Rich and Poor How things work.md",
+                "file": "Output/Wesley Terrill Annual Review 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Rich and Poor How things work"
+              "title": "Outgoing links from Wesley Terrill Annual Review 2024"
             }
           },
           {
@@ -196,10 +196,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/Rich and Poor How things work.md"
+                "file": "Output/Wesley Terrill Annual Review 2024.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Rich and Poor How things work"
+              "title": "Outline of Wesley Terrill Annual Review 2024"
             }
           },
           {
@@ -233,32 +233,32 @@
   },
   "active": "81e5c66ee41147f1",
   "lastOpenFiles": [
-    "Journal/18 January 2025 Saturday.md",
-    "0-inbox/Rich and Poor How things work.md",
+    "Output/Thoughts about working in collaborations.md",
+    "0-inbox/Untitled.md",
+    "00-Zettelkasten/Teaching.md",
+    "00-Zettelkasten/ZettelKasten Index.md",
+    "Journal/Spring 2025.md",
+    "Output/Sindhu Murthy Annual Review 2024.md",
+    "00-Zettelkasten/Relativity.md",
+    "0-inbox/ProgressReport 17 January 2024.md",
+    "00-Zettelkasten/Marginal Value Sets Prices Not Total Value.md",
+    "Input/Blogs/Rich and Poor How things work.md",
+    "Input/Videos/Quantum Phases of Matter Series.md",
+    "Input/Meetings/CMU HGC Mac Meeting 14 January 2024.md",
+    "0-inbox/Building Fermilab.md",
+    "0-inbox/Ann Arbor Trip 2025.md",
+    "0-inbox/Aishik Ghosh visit.md",
+    "Journal/19 January 2025 Sunday.md",
+    "1-projects/Teaching/Modern Essentials.md",
     "Journal/January 2025.md",
     "Journal/17 January 2025 Friday.md",
+    "Journal/18 January 2025 Saturday.md",
     "Journal/16 January 2025 Thursday.md",
     "0-inbox/Write up Universal Inference Toy.md",
     "00-Zettelkasten/Relativity as based on a meta-physical law.md",
-    "0-inbox/Relativity.md",
     "2-areas/Physics/Summary of Relativity.md",
-    "0-inbox/Teaching.md",
     "00-Zettelkasten/Relativity is Triangles with a minus sign.md",
-    "00-Zettelkasten/ZettelKasten Index.md",
-    "0-inbox/ProgressReport 17 January 2024.md",
     "Journal/3 January 2025 Friday.md",
-    "Journal/15 January 2025 Wednesday.md",
-    "Journal/14 January 2025 Tuesday.md",
-    "Journal/13 January 2025 Monday.md",
-    "Journal/12 January 2025 Sunday.md",
-    "Journal/11 January 2025 Saturday.md",
-    "Journal/10 January 2025 Friday.md",
-    "0-inbox/Untitled.md",
-    "0-inbox/Universal Inference.md",
-    "1-projects/Mixed2.0/Run3 Synthetic Data.md",
-    "0-inbox/CMU HGC Mac Meeting 14 January 2024.md",
-    "Journal/9 January 2025 Thursday.md",
-    "Input/Papers/Why Most Published Research Findings Are False.md",
     "1-projects/Mixed2.0/#Run3 Synthetic Data.md#",
     "Journal/#January.md#",
     "Journal/2024/November",

@@ -20,14 +20,14 @@
 | 18 S | (H Birthday Party)                                                                 |       |
 | 19 S |                                                                                    |       |
 | 20 M | (No classes)                                                                       |       |
-| 21 T |                                                                                    |       |
-| 22 W | (MAC Meeting) (Presentation in Hbb)                                                |       |
-| 23 H |                                                                                    |       |
-| 24 F | (Field Trip)                                                                       |       |
+| 21 T | (Fast)                                                                             |       |
+| 22 W | (Fast) (MAC Meeting) (Presentation in Hbb)                                         |       |
+| 23 H | (Fast)                                                                             |       |
+| 24 F | (Fast) (Field Trip)                                                                |       |
 | 25 S |                                                                                    |       |
 | 26 S |                                                                                    |       |
 | 27 M | (No Cyert)                                                                         |       |
 | 28 T |                                                                                    |       |
 | 29 W |                                                                                    |       |
-| 30 H |                                                                                    |       |
+| 30 H | (Poker)                                                                            |       |
 | 31 F |                                                                                    |       |

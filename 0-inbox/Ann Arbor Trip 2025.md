@@ -5,6 +5,8 @@ Will get Uber.
 Flight: Booked Ann Arbor Flight
 - 456.97USD
 
+Hotel: 
+- room reservation for you at the Michigan League the night of Monday March 10.
 
 # Follow-ups
 

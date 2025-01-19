@@ -7,6 +7,7 @@ https://www.youtube.com/watch?v=-_9Jf75exnc&list=PLrNpJOaBSWSCrLUO_tuKa5l5YJl0JN
 3) BCS theory super cond
 
 
+#Consume 
 
 
 

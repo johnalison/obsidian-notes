@@ -11,6 +11,9 @@ Index:
 [[Success-And-Failure-As-Imposters]]
 [[PCA and Autoencoder]]
 
+# Physics
+
+[[Relativity]]
 
 # Particle Physics
 
@@ -119,6 +122,9 @@ Index:
 [[Governments as monopolies]]
 [[Libertarianism follows from common sense morality]]
 
+# Free Markets
+
+[[Marginal Value Sets Prices Not Total Value]]
 # Free Will
 [[Free-Will-Lens-As-Mental-Model]]
 [[How-to-define-good-action-if-no-free-will]]
@@ -131,7 +137,7 @@ Index:
 [[Having children as education]]
 [[Education is mostly signaling]]
 [[Educations position in society is robust against technological advances]]
-
+[[Teaching]]
 
 # Meditation
 [[Potential of Insight]]
