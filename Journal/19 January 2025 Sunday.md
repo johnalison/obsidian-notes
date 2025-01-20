@@ -13,3 +13,5 @@ Some [[Talent]]
 
 started publishing on substack!!!
 https://substack.com/@johnalison
+
+Lots of [[Life and Fate]]
