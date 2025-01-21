@@ -16,18 +16,18 @@
 | 14 T | (Panel Discussion) New splitting pdfs / 2 more modules / snow == traffic           | 5/1/1 |
 | 15 W | Taught / Synthetic data v5 / Run3 Synth CI / **Hoops** / Aishik / **Cafe 33**      | 6/3/2 |
 | 16 H | (H to work) Taught / Chat AE / Chat Sam / debug synthetic data / Reading           | 7/2/1 |
-| 17 F | (H half day)                                                                       |       |
-| 18 S | (H Birthday Party)                                                                 |       |
-| 19 S |                                                                                    |       |
-| 20 M | (No classes)                                                                       |       |
-| 21 T | (Fast)                                                                             |       |
-| 22 W | (Fast) (MAC Meeting) (Presentation in Hbb)                                         |       |
-| 23 H | (Fast)                                                                             |       |
-| 24 F | (Fast) (Field Trip)                                                                |       |
+| 17 F | (H half day) Taught / **Hoops** / Finances 2.3 / Grad Social                       | 5/3/2 |
+| 18 S | (H Birthday Party) Reading / CI debugging / **H Party**                            |       |
+| 19 S | **Sick!** /  solo data / Lots of reading and recovery / Start substack !           |       |
+| 20 M | (No classes) MLK / Reading / More recovery                                         | -/-/- |
+| 21 T |                                                                                    |       |
+| 22 W | (MAC Meeting) (Presentation in Hbb)                                                |       |
+| 23 H |                                                                                    |       |
+| 24 F | (Field Trip)                                                                       |       |
 | 25 S |                                                                                    |       |
 | 26 S |                                                                                    |       |
-| 27 M | (No Cyert)                                                                         |       |
-| 28 T |                                                                                    |       |
-| 29 W |                                                                                    |       |
-| 30 H | (Poker)                                                                            |       |
+| 27 M | (Fast) (No Cyert)                                                                  |       |
+| 28 T | (Fast)                                                                             |       |
+| 29 W | (Fast)                                                                             |       |
+| 30 H | (Fast) (Poker)                                                                     |       |
 | 31 F |                                                                                    |       |

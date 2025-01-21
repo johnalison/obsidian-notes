@@ -16,3 +16,7 @@ Some [[Life and Fate]]
 
 [[Rich and Poor How things work]]
 
+# H Party
+* 7 boys over, they were wild !
+- Some chats with Justin
+

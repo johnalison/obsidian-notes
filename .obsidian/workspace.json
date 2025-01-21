@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/21 January 2025 Tuesday.md",
+                "file": "Journal/20 January 2025 Monday.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "21 January 2025 Tuesday"
+              "title": "20 January 2025 Monday"
             }
           },
           {
@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/17 January 2025 Friday.md",
+                "file": "Journal/21 January 2025 Tuesday.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "17 January 2025 Friday"
+              "title": "21 January 2025 Tuesday"
             }
           },
           {
@@ -77,7 +77,8 @@
               "title": "Relativity is Triangles with a minus sign"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -96,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "DOE",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -129,8 +130,7 @@
               "title": "Files"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -231,15 +231,26 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "81e5c66ee41147f1",
+  "active": "f1f51623167b83db",
   "lastOpenFiles": [
+    "2-areas/CMU/DOE Grant Numbers.md",
+    "Journal/21 January 2025 Tuesday.md",
+    "Journal/2024/August/5 August 2024 Monday.md",
+    "Journal/17 January 2025 Friday.md",
+    "Journal/January 2025.md",
+    "Journal/20 January 2025 Monday.md",
+    "Journal/19 January 2025 Sunday.md",
+    "Journal/18 January 2025 Saturday.md",
+    "Journal/16 January 2025 Thursday.md",
+    "Journal/15 January 2025 Wednesday.md",
+    "Journal/14 January 2025 Tuesday.md",
+    "Journal/13 January 2025 Monday.md",
+    "Journal/12 January 2025 Sunday.md",
+    "Journal/11 January 2025 Saturday.md",
     "00-Zettelkasten/You have nothing without Reliability.md",
     "00-Zettelkasten/Reliability-beats-Fancy-Skills.md",
     "00-Zettelkasten/Wisdom-index.md",
     "00-Zettelkasten/ZettelKasten Index.md",
-    "Journal/20 January 2025 Monday.md",
-    "Journal/21 January 2025 Tuesday.md",
-    "Journal/19 January 2025 Sunday.md",
     "00-Zettelkasten/It helps to write stuff down.md",
     "00-Zettelkasten/Importance Political Authority.md",
     "00-Zettelkasten/How to Succeed at Stoic Test Challenge.md",
@@ -248,17 +259,6 @@
     "00-Zettelkasten/Government's bad incentives.md",
     "00-Zettelkasten/Giving-them-a-job-they-can-do.md",
     "00-Zettelkasten/Dont-focus-on-things-you-dont-like.md",
-    "00-Zettelkasten/Be-better-through-emulation.md",
-    "00-Zettelkasten/AI-and-creating-our-own-Gods.md",
-    "00-Zettelkasten/Action-Now.md",
-    "00-Zettelkasten/Action-not-knowledge.md",
-    "Output/Wesley Terrill Annual Review 2024.md",
-    "Output/Thoughts about working in collaborations.md",
-    "0-inbox/Untitled.md",
-    "00-Zettelkasten/Teaching.md",
-    "Journal/Spring 2025.md",
-    "Output/Sindhu Murthy Annual Review 2024.md",
-    "00-Zettelkasten/Relativity.md",
     "1-projects/Mixed2.0/#Run3 Synthetic Data.md#",
     "Journal/#January.md#",
     "Journal/2024/November",

@@ -30,15 +30,14 @@
 ---
 # To Do
 
-- [ ] Progress Report
+- [>>] Progress Report
 - [ ] Debug truth v4j
-- [ ] Fix Run3 Synthetic data CI
-- [ ]  Synthetic data Plots in SB 
-- [ ] Synthetic Dataset CI
+- [>>] Fix Run3 Synthetic data CI
+- [ ] Synthetic data Plots in SB 
 - [ ] Read [[Evolution of Silicon Sensor Technology in Particle Physics]] !!!
 - [ ] Call Liberty mutual re:tree down
 - [ ] Wes's Thesis
-- [ ] Finances
+- [x] Finances
 
 ---
 
@@ -78,7 +77,7 @@ More debugging CI
 
 More debugging CI
 
-Finances 2.3/2.3
+# Finances 2.3/2.3
 
 [[Write up Universal Inference Toy]]
 

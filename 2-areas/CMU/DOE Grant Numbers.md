@@ -1,7 +1,7 @@
 
 HGC Upgrade:
-46289.1.1990573
-
+46289.1.1990573 
+46289.2.1990967 ( new as of 1/25)
 
 DOE HEP 2023-2026 award for the energy frontier:  
 57434.2.1070149   (on-campus)  
