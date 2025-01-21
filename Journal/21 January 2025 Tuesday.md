@@ -51,7 +51,21 @@ Up at 8
 - Cooling unit down, looking into renting some
 - Application materials 
 - SoS: 
-e
+
 
 New oracle strong for MAC charges 46289.2.1990967 [[>>]] [[DOE Grant Numbers]]
 
+Doing Mails
+
+# Synthetic data CI Run3
+- moving on!
+- removing debugging output
+- raising the threshold on the cutlfow comparision to 0.01 
+
+[[Manfred Letter Spring 2024]]
+- Pinged Matteo and Valentina 
+
+# AE Slides
+- s4: What does SvB look like ?
+- s5: should fix plot scripts 
+- 
