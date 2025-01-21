@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-Zettelkasten/You have nothing without Reliability.md",
+                "file": "Journal/21 January 2025 Tuesday.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "You have nothing without Reliability"
+              "title": "21 January 2025 Tuesday"
             }
           },
           {
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-Zettelkasten/You have nothing without Reliability.md",
+                "file": "Journal/21 January 2025 Tuesday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for You have nothing without Reliability"
+              "title": "Backlinks for 21 January 2025 Tuesday"
             }
           },
           {
@@ -169,12 +169,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00-Zettelkasten/You have nothing without Reliability.md",
+                "file": "Journal/21 January 2025 Tuesday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from You have nothing without Reliability"
+              "title": "Outgoing links from 21 January 2025 Tuesday"
             }
           },
           {
@@ -196,10 +196,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-Zettelkasten/You have nothing without Reliability.md"
+                "file": "Journal/21 January 2025 Tuesday.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of You have nothing without Reliability"
+              "title": "Outline of 21 January 2025 Tuesday"
             }
           },
           {
@@ -233,6 +233,7 @@
   },
   "active": "81e5c66ee41147f1",
   "lastOpenFiles": [
+    "00-Zettelkasten/You have nothing without Reliability.md",
     "00-Zettelkasten/Reliability-beats-Fancy-Skills.md",
     "00-Zettelkasten/Wisdom-index.md",
     "00-Zettelkasten/ZettelKasten Index.md",
@@ -258,7 +259,6 @@
     "Journal/Spring 2025.md",
     "Output/Sindhu Murthy Annual Review 2024.md",
     "00-Zettelkasten/Relativity.md",
-    "0-inbox/ProgressReport 17 January 2024.md",
     "1-projects/Mixed2.0/#Run3 Synthetic Data.md#",
     "Journal/#January.md#",
     "Journal/2024/November",
