@@ -59,7 +59,7 @@ Get new carrying trays
 # Links: 
 [[HGC]]
 [[CMU HGC Mac Meeting 1 August 2024]]
-
+[[CMU MAC Meeting]]
 
 
 202408081059

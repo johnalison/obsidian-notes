@@ -28,6 +28,7 @@ Bottom line: There is little or no evidence for this in society even if we assum
 
 # Follow-ups
 
+[[Summary of The Case Against Education by Bryan Caplan]]
 
 # Links: 
 

@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/January 2025.md",
+                "file": "Journal/21 January 2025 Tuesday.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "January 2025"
+              "title": "21 January 2025 Tuesday"
             }
           },
           {
@@ -69,15 +69,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-Zettelkasten/Relativity is Triangles with a minus sign.md",
+                "file": "Journal/21 January 2025 Tuesday.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Relativity is Triangles with a minus sign"
+              "title": "21 January 2025 Tuesday"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -96,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "file:case",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -149,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/21 January 2025 Tuesday.md",
+                "file": "0-inbox/Manfred Letter Spring 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +160,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 21 January 2025 Tuesday"
+              "title": "Backlinks for Manfred Letter Spring 2024"
             }
           },
           {
@@ -168,12 +169,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/21 January 2025 Tuesday.md",
+                "file": "0-inbox/Manfred Letter Spring 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 21 January 2025 Tuesday"
+              "title": "Outgoing links from Manfred Letter Spring 2024"
             }
           },
           {
@@ -195,10 +196,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/21 January 2025 Tuesday.md"
+                "file": "0-inbox/Manfred Letter Spring 2024.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 21 January 2025 Tuesday"
+              "title": "Outline of Manfred Letter Spring 2024"
             }
           },
           {
@@ -230,34 +231,34 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "81e5c66ee41147f1",
+  "active": "f1f51623167b83db",
   "lastOpenFiles": [
-    "Journal/20 January 2025 Monday.md",
-    "0-inbox/Manfred Letter Spring 2024.md",
-    "00-Zettelkasten/Relativity is Triangles with a minus sign.md",
     "Journal/21 January 2025 Tuesday.md",
-    "2-areas/CMU/DOE Grant Numbers.md",
-    "Journal/2024/August/5 August 2024 Monday.md",
-    "Journal/17 January 2025 Friday.md",
+    "0-inbox/Manfred Letter Spring 2024.md",
+    "Output/Summary of The Case Against Education by Bryan Caplan.md",
+    "Input/Books/Case Against Education.md",
     "Journal/January 2025.md",
-    "Journal/19 January 2025 Sunday.md",
-    "Journal/18 January 2025 Saturday.md",
-    "Journal/16 January 2025 Thursday.md",
-    "Journal/15 January 2025 Wednesday.md",
+    "00-Zettelkasten/Education is mostly signaling.md",
+    "00-Zettelkasten/Relativity is Triangles with a minus sign.md",
+    "0-inbox/Write up Universal Inference Toy.md",
+    "0-inbox/Hbb Reclustering Project.md",
+    "0-inbox/UndergradProjects.md",
+    "1-projects/Teaching/Modern Essentials.md",
+    "Journal/2024/December/5 December 2024 Thursday.md",
+    "Input/Books/Books.md",
+    "0-inbox/CMU HGC MAC Meeting 21 January 2025.md",
     "Journal/14 January 2025 Tuesday.md",
-    "Journal/13 January 2025 Monday.md",
-    "Journal/12 January 2025 Sunday.md",
-    "Journal/11 January 2025 Saturday.md",
-    "00-Zettelkasten/You have nothing without Reliability.md",
-    "00-Zettelkasten/Reliability-beats-Fancy-Skills.md",
-    "00-Zettelkasten/Wisdom-index.md",
-    "00-Zettelkasten/ZettelKasten Index.md",
-    "00-Zettelkasten/It helps to write stuff down.md",
-    "00-Zettelkasten/Importance Political Authority.md",
-    "00-Zettelkasten/How to Succeed at Stoic Test Challenge.md",
-    "00-Zettelkasten/How to be Reliable.md",
-    "00-Zettelkasten/Hobbes' flawed game-theoretic argument for government.md",
-    "00-Zettelkasten/Government's bad incentives.md",
+    "0-inbox/CMU MAC Meeting.md",
+    "Input/Meetings/July/CMU HGC Mac Meeting 18 July 2024.md",
+    "Input/Meetings/July/CMU HGC MAC Meeting 25 July 2024.md",
+    "Input/Meetings/August/CMU HGC Mac Meeting 1 August 2024.md",
+    "Input/Meetings/August/CMU HGC Mac Meeting 8 August 2024.md",
+    "Input/Meetings/August/CMU HGC Mac Meeting 15 August 2024.md",
+    "Input/Meetings/August/CMU HGC Mac Meeting 22 August 2024.md",
+    "Input/Meetings/August/CMU HGC Mac Meeting 27 August 2024.md",
+    "Input/Meetings/September/CMU HGC Mac Meeting 3 September 2024.md",
+    "Input/Meetings/September/CMU HGC Mac Meeting 10 September 2024.md",
+    "Input/Meetings/September/CMU HGC Mac Meeting 17 September 2024.md",
     "1-projects/Mixed2.0/#Run3 Synthetic Data.md#",
     "Journal/#January.md#",
     "Journal/2024/November",

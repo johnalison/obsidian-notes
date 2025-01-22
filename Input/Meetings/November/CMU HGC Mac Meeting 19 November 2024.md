@@ -54,6 +54,6 @@
 
 # Links: 
 [[CMU HGC Mac Meeting 12 November 2024]]
-
+[[CMU MAC Meeting]]
 
 202411191155

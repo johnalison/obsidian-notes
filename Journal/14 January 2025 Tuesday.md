@@ -57,8 +57,7 @@ New splitting PDFs for
 # [[Thoughts about working in collaborations]]
 
 
-# MAC meeting Tuesdays 
-- [[CMU HGC Mac Meeting 14 January 2024]]
+# [[CMU HGC Mac Meeting 14 January 2024]]
 
 
 Did panel discussion 

@@ -20,8 +20,8 @@
 | 18 S | (H Birthday Party) Reading / CI debugging / **H Party**                            |       |
 | 19 S | **Sick!** /  solo data / Lots of reading and recovery / Start substack !           |       |
 | 20 M | (No classes) MLK / Reading / More recovery                                         | -/-/- |
-| 21 T |                                                                                    |       |
-| 22 W | (MAC Meeting) (Presentation in Hbb)                                                |       |
+| 21 T | (No ECS)                                                                           |       |
+| 22 W | (No ECS) (MAC Meeting) (Presentation in Hbb)                                       |       |
 | 23 H |                                                                                    |       |
 | 24 F | (Field Trip)                                                                       |       |
 | 25 S |                                                                                    |       |

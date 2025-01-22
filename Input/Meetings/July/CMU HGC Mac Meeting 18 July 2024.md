@@ -38,6 +38,6 @@ Vacations, lots of people away
 
 ## Links: 
 [[HGC]]
-
+[[CMU MAC Meeting]]
 
 202407181107

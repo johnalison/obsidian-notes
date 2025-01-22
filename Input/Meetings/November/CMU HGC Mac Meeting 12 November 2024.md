@@ -43,6 +43,6 @@ Call with Mario
 
 # Links: 
 [[CMU HGC Mac Meeting 5 November 2024]]
-
+[[CMU MAC Meeting]]
 
 202411121201

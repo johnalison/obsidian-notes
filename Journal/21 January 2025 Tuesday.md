@@ -13,11 +13,11 @@
 |     | MAC               |     |
 | 1   | Home              |     |
 |     | Home              |     |
-| 2   |                   |     |
-|     |                   |     |
-| 3   |                   |     |
-|     |                   |     |
-| 4   |                   |     |
+| 2   | T Down            |     |
+|     | M Down            |     |
+| 3   | Mans              |     |
+|     | Mans              |     |
+| 4   | Mans              |     |
 |     |                   |     |
 
 **W:**
@@ -27,19 +27,23 @@
 
 ---
 # The ONE thing: 
-- [ ] Move forward on Synthetic data CI
+- [x] Move forward on Synthetic data CI
+- [x] Homework
+- [ ] Paulini Letter
 
 ---
 # To Do
 
-- [ ] Ping: Connor Mosebey <clmosebey@gmail.com> (re: campus visit)
+- [ ] ~~Ping: Connor Mosebey <clmosebey@gmail.com> (re: campus visit)~~
 - [ ] Paulini Letter
 - [ ] Progress Report
 - [x] Sindhu Annual Reivew
 - [x] Follow up on Lab Tech positions
-- [ ] Clean and push with tolerance:  Add Run3 Synthetic data CI
-- [ ] homework 1 Solutions 
-- [ ] Review AE slides: https://drive.google.com/open?id=1mg7wz_W0zMyIRkSKp4nm9cjp2OsQ4H4zq5xD_9GjXAI
+- [x] Clean and push with tolerance:  Add Run3 Synthetic data CI
+- [x] homework 1 Solutions 
+- [x] Review AE slides: https://drive.google.com/open?id=1mg7wz_W0zMyIRkSKp4nm9cjp2OsQ4H4zq5xD_9GjXAI
+- [x] Post Book Review
+- [ ] VARs
 
 ---
 
@@ -61,11 +65,21 @@ Doing Mails
 - moving on!
 - removing debugging output
 - raising the threshold on the cutlfow comparision to 0.01 
+- Pused
 
 [[Manfred Letter Spring 2024]]
 - Pinged Matteo and Valentina 
+- Valentina writing a separate letter
 
-# AE Slides
+# Chat AE Slides
 - s4: What does SvB look like ?
 - s5: should fix plot scripts 
-- 
+- [x] [[Hbb Reclustering Project]] 
+	([>>]) [[UndergradProjects]]
+
+
+[[CMU HGC MAC Meeting 21 January 2025]]
+
+[[Modern Essentials]]
+
+[[Summary of The Case Against Education by Bryan Caplan]]

@@ -65,7 +65,7 @@ Swain rejects :(
 - Prep talk for bbWW
 
 # Faculty Meeting
-- Jeff Ables: from CyLab.. seems competent 
+- Jeff Abels: from CyLab.. seems competent 
 
 # Chat with Sindhu
 - Long discussion of runTwoStageClosure

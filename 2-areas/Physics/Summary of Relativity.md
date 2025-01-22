@@ -6,7 +6,7 @@ The "theoretical minimum" of relativity
 	c) General transformations allow this possibility
 	d) Experiment !!!!
 
-2) Implies the invarant in t^2 - x^2
+2) Implies the invariant is t^2 - x^2
 3) This fixes the Lorentz transformations
 4) Which fixes the additional of velocities
 5) From this can figure out (with elastic collisions KE conserved) the definition of momentum such that it is conserved and reduces to mv with v - small

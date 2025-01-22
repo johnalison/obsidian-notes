@@ -51,7 +51,7 @@ Can we check (Q/A) to catch on baseplates?  Check with Ronyshong.
 ## Links: 
 [[CMU HGC Mac Meeting 18 July 2024]]
 [[HGC]]
-
+[[CMU MAC Meeting]]
 
 
 202407251103
