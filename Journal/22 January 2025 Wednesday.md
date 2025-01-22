@@ -31,9 +31,9 @@
 # To Do
 
 - [x] Buy Max the book 
-- [ ] VAR
+- [x] VAR
 - [ ] [[Modules Summary January 2025]]
-- [ ] Understand change in ZH statonly sensitivity 
+- [ ] Understand change in ZH stat only sensitivity 
 - [ ] Synthetic data Plots in SB 
 - [ ] Read [[Evolution of Silicon Sensor Technology in Particle Physics]] !!!
 - [ ] Call Liberty mutual re:tree down
@@ -63,3 +63,11 @@ Fix ratios in ROOT histograms
 
 
 [[CAM Variance January 2024]]
+
+
+# Hoops 
+- Aux gym
+- Played well... Need to make some more lefts 
+
+# Met Tony
+- [ ] Send Mail
