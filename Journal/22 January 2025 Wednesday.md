@@ -38,3 +38,14 @@
 ---
 
 # Log
+
+To Campus
+
+# Taught 
+- Spacetime diagrams
+- Sign of the Interval
+
+# Hbb Meeting
+- AE talk 
+
+[[Fix ratios in ROOT histograms]]
