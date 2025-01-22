@@ -13,8 +13,8 @@
 |     | Hoops    |     |
 | 2   | Anthony  |     |
 |     | VARs     |     |
-| 3   | VARs     |     |
-|     |          |     |
+| 3   | Berman   |     |
+|     | Summary  |     |
 | 4   |          |     |
 |     |          |     |
 
@@ -25,14 +25,16 @@
 
 ---
 # The ONE thing: 
-- [ ] VAR 
+- [x] VAR 
+- [x] Modules Summary
+- [ ] Manfred Letter
 
 ---
 # To Do
 
 - [x] Buy Max the book 
 - [x] VAR
-- [ ] [[Modules Summary January 2025]]
+- [x] [[Modules Summary January 2025]]
 - [ ] Understand change in ZH stat only sensitivity 
 - [ ] Synthetic data Plots in SB 
 - [ ] Read [[Evolution of Silicon Sensor Technology in Particle Physics]] !!!
@@ -42,6 +44,7 @@
 - [ ] Write  [[ProgressReport 17 January 2024]]
 - [ ] Finish [[Manfred Letter Spring 2024]]
 - [x] Bug Abels re:Lab Coordinator
+- [ ] Get Undergrad up and running
 
 ---
 
@@ -79,3 +82,9 @@ Did VAR... see above
 - Acted on Lab Coordinator Role... In Sharons inbox
 
 [[Modules Summary January 2025]]
+
+# Chat Berman
+- [ ] Ping Sebastian 
+
+[[Manfred Letter Spring 2024]]
+
