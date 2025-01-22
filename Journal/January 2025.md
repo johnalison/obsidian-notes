@@ -30,4 +30,4 @@
 | 28 T | (Fast)                                                                             |       |
 | 29 W | (Fast)                                                                             |       |
 | 30 H | (Fast) (Poker)                                                                     |       |
-| 31 F |                                                                                    |       |
+| 31 F | (Chuyuan Annual Review)                                                            |       |

@@ -41,6 +41,7 @@
 - [ ] Debug truth v4j
 - [ ] Write  [[ProgressReport 17 January 2024]]
 - [ ] Finish [[Manfred Letter Spring 2024]]
+- [x] Bug Abels re:Lab Coordinator
 
 ---
 
@@ -71,3 +72,10 @@ Fix ratios in ROOT histograms
 
 # Met Tony
 - [ ] Send Mail
+
+Did VAR... see above
+
+# Chat Abels
+- Acted on Lab Coordinator Role... In Sharons inbox
+
+[[Modules Summary January 2025]]
