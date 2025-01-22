@@ -7,13 +7,13 @@
 |     | Hbb      |     |
 | 11  | MAC      |     |
 |     | MAC      |     |
-| 12  |          |     |
-|     |          |     |
-| 1   |          |     |
-|     |          |     |
+| 12  | Hoops    |     |
+|     | Hoops    |     |
+| 1   | Hoops    |     |
+|     | Hoops    |     |
 | 2   | Anthony  |     |
-|     |          |     |
-| 3   |          |     |
+|     | VARs     |     |
+| 3   | VARs     |     |
 |     |          |     |
 | 4   |          |     |
 |     |          |     |
@@ -25,15 +25,22 @@
 
 ---
 # The ONE thing: 
-- [ ] 
+- [ ] VAR 
 
 ---
 # To Do
 
-- [ ] Buy Max the book 
-- [ ] 
-- [ ] 
-- [ ] 
+- [x] Buy Max the book 
+- [ ] VAR
+- [ ] [[Modules Summary January 2025]]
+- [ ] Understand change in ZH statonly sensitivity 
+- [ ] Synthetic data Plots in SB 
+- [ ] Read [[Evolution of Silicon Sensor Technology in Particle Physics]] !!!
+- [ ] Call Liberty mutual re:tree down
+- [ ] Wes's Thesis
+- [ ] Debug truth v4j
+- [ ] Write  [[ProgressReport 17 January 2024]]
+- [ ] Finish [[Manfred Letter Spring 2024]]
 
 ---
 
@@ -46,6 +53,13 @@ To Campus
 - Sign of the Interval
 
 # Hbb Meeting
-- AE talk 
+- AE talk: went well. 
 
-[[Fix ratios in ROOT histograms]]
+Fix ratios in ROOT histograms
+- [[ROOTTricks]]
+
+
+# [[MAC meeting 22 January 2025]]
+
+
+[[CAM Variance January 2024]]

@@ -20,7 +20,7 @@
 | 18 S | (H Birthday Party) Reading / CI debugging / **H Party**                            |       |
 | 19 S | **Sick!** /  solo data / Lots of reading and recovery / Start substack !           |       |
 | 20 M | (No classes) MLK / Reading / More recovery                                         | -/-/- |
-| 21 T | (No ECS)                                                                           |       |
+| 21 T | (No ECS) Bail Run3 Syn. CI  / Manfred Letter / 1st book review substack            | 6/1/1 |
 | 22 W | (No ECS) (MAC Meeting) (Presentation in Hbb)                                       |       |
 | 23 H |                                                                                    |       |
 | 24 F | (Field Trip)                                                                       |       |

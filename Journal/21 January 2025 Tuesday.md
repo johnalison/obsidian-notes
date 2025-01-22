@@ -18,12 +18,12 @@
 | 3   | Mans              |     |
 |     | Mans              |     |
 | 4   | Mans              |     |
-|     |                   |     |
+|     | Paulini Letter    |     |
 
-**W:**
-**DW:**
-**OT:**
-**ex** or **No ex**
+**W:** 6
+**DW:**  1 
+**OT:** 1
+**No ex**
 
 ---
 # The ONE thing: 
@@ -35,15 +35,15 @@
 # To Do
 
 - [ ] ~~Ping: Connor Mosebey <clmosebey@gmail.com> (re: campus visit)~~
-- [ ] Paulini Letter
-- [ ] Progress Report
+- [>>] Paulini Letter
+- [>>] Progress Report
 - [x] Sindhu Annual Reivew
 - [x] Follow up on Lab Tech positions
 - [x] Clean and push with tolerance:  Add Run3 Synthetic data CI
 - [x] homework 1 Solutions 
 - [x] Review AE slides: https://drive.google.com/open?id=1mg7wz_W0zMyIRkSKp4nm9cjp2OsQ4H4zq5xD_9GjXAI
 - [x] Post Book Review
-- [ ] VARs
+- [>>] VARs
 
 ---
 
@@ -57,7 +57,7 @@ Up at 8
 - SoS: 
 
 
-New oracle strong for MAC charges 46289.2.1990967 [[>>]] [[DOE Grant Numbers]]
+New oracle strong for MAC charges 46289.2.1990967 [>>]  [[DOE Grant Numbers]]
 
 Doing Mails
 
@@ -83,3 +83,6 @@ Doing Mails
 [[Modern Essentials]]
 
 [[Summary of The Case Against Education by Bryan Caplan]]
+
+Some [[Life and Fate]]
+Finished [[Talent]]

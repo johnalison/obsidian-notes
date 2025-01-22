@@ -12,6 +12,7 @@ Some [[Life and Fate]]
 
 # More CI debugging 
 - checking the bjet and nonbjets separately 
+- MEGA debugging... problem is with jet calibration in Run3...
 
 
 [[Rich and Poor How things work]]

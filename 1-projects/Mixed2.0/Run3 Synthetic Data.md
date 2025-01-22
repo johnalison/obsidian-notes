@@ -24,6 +24,13 @@ v4:
 
 # Daily Logs
 
+[[15 January 2025 Wednesday]]
+- Making datasets file v5
+- making histograms..
+- v5 looking  good... Making presentations 
+- sent to marina
+
+
 [[14 January 2025 Tuesday]]
 - Making new splitting functions
 	- `python  jet_clustering/make_jet_splitting_PDFs.py output/synthetic_dataset_cluster/datasets_2022_EE.coffea  --years 2022_EE   --out jet_clustering/jet-splitting-PDFs-00-08-03`

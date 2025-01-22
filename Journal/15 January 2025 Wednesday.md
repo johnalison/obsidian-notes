@@ -52,10 +52,7 @@ M & T to school
 - coordinate transformations in classical physics
 
 # [[Run3 Synthetic Data]]
-- Making datasets file v5
-- making histograms..
-- v5 looking  good... Making presentations 
-- sent to marina
+- see Logs above
 
 # Run3 Synthetic Data in CI
 - got make script running.
@@ -67,6 +64,7 @@ M & T to school
 - add F=Ma or not ? ... not !
 
 Fancy screen shoot: option + shift + 5 = command + shift + 5
+    ([>>]  [[MACTricks]])
 
 Van has hole in tire ~~-$200~~ (only $40 !!!)
 
@@ -82,9 +80,11 @@ Van has hole in tire ~~-$200~~ (only $40 !!!)
 # Chat Sindhu 
 - Discussed p-values 
 
-MCS townhall 
+
+# MCS townhall 
 - not very useful
 - Curtis is "special advisor" on peer institutions comparables and MCS equipment
+
 
 More CI debugging ... see above
 

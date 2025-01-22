@@ -31,12 +31,12 @@
 # To Do
 
 - [>>] Progress Report
-- [ ] Debug truth v4j
+- [>>] Debug truth v4j
 - [>>] Fix Run3 Synthetic data CI
-- [ ] Synthetic data Plots in SB 
-- [ ] Read [[Evolution of Silicon Sensor Technology in Particle Physics]] !!!
-- [ ] Call Liberty mutual re:tree down
-- [ ] Wes's Thesis
+- [>>] Synthetic data Plots in SB 
+- [>>] Read [[Evolution of Silicon Sensor Technology in Particle Physics]] !!!
+- [>>] Call Liberty mutual re:tree down
+- [>>] Wes's Thesis
 - [x] Finances
 
 ---
