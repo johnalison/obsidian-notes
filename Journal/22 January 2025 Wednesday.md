@@ -41,7 +41,7 @@
 - [>>] Call Liberty mutual re:tree down
 - [>>] Wes's Thesis
 - [>>] Debug truth v4j
-- [>>] Write  [[ProgressReport 17 January 2024]]
+- [>>] Write  [[ProgressReport 17 January 2025]]
 - [>>] Finish [[Manfred Letter Spring 2024]]
 - [x] Bug Abels re:Lab Coordinator
 - [>>] Get Undergrad up and running

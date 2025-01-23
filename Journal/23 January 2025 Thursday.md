@@ -10,8 +10,8 @@
 | 12  | Chat w/AE                          |     |
 |     | Faculty                            |     |
 | 1   | Faculty                            |     |
-|     | [[ProgressReport 17 January 2024]] |     |
-| 2   | [[ProgressReport 17 January 2024]] |     |
+|     | [[ProgressReport 17 January 2025]] |     |
+| 2   | [[ProgressReport 17 January 2025]] |     |
 |     | Office Hours                       |     |
 | 3   | Office Hours                       |     |
 |     |                                    |     |
@@ -38,7 +38,7 @@
 - [ ] Call Liberty mutual re:tree down
 - [ ] Wes's Thesis
 - [ ] Debug truth v4j
-- [x] Write  [[ProgressReport 17 January 2024]]
+- [x] Write  [[ProgressReport 17 January 2025]]
 - [x] Finish [[Manfred Letter Spring 2024]]
 - [ ] Get Undergrad up and running
 - [ ] Apply to fall Osher 
@@ -68,18 +68,16 @@ Submitted Sams letters
 # Faculty Meeting
 - No plan until March
 
-
+Wrote [[ProgressReport 17 January 2025]]
 
 
 ---
 # Office Hours
 [[Modern Essentials]]
-- [ ] update TA office
-- [ ] Add Details of PATH
-- [ ] Review solutions 
+- [x] update TA office
+- [x] Add Details of PATH
+- [x] Review solutions 
 - Look for problems
-	- [ ] Muon collider ! Given Muon beam energy...  Fraction of c moving / Lifetime in lab frame / Angle of electron Lab from given angles in rest frame ? 
-	- [ ] Mouns at sea level.
-		- How many muons survive at sea level assuming no time dialation with time dialation
-	- 
+
+
 

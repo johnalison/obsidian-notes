@@ -37,3 +37,17 @@ Old Canvas: https://canvas.cmu.edu/courses/32799
 - DH 1112 9-9:50 MWF
 - SH 238 10-10:50 H
 
+# Problem Ideas
+(Should also ask chatGPT)
+
+### Relativity Kinemaitcs
+Muons at sea level.
+   How many muons survive at sea level assuming no time dialation with time dialation
+   In MPL we have an experiment which stops the muon as measures thier lifetime to be 2.1 µs. 
+   What fraction of the muons reach the ground ? 
+
+### Relativity Dynamics
+- Muon collider:  Given Muon beam energy...  Fraction of c moving / Lifetime in lab frame / Angle of electron Lab from given angles in rest frame ? 
+
+- Muons at sea level.
+   How many muons survive at sea level assuming no time dialation with time dialation
