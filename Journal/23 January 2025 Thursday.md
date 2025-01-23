@@ -1,22 +1,22 @@
 
-|     | setup        |     |
-| --- | ------------ | --- |
-| 9   | Letters !    |     |
-|     | FBC2         |     |
-| 10  | Teach        |     |
-|     | Teach        |     |
-| 11  | Stats        |     |
-|     | Stats        |     |
-| 12  |              |     |
-|     | Faculty      |     |
-| 1   | Faculty      |     |
-|     |              |     |
-| 2   |              |     |
-|     | Office Hours |     |
-| 3   | Office Hours |     |
-|     |              |     |
-| 4   | Rob Tour     |     |
-|     |              |     |
+|     | setup                              |     |
+| --- | ---------------------------------- | --- |
+| 9   | Letters !                          |     |
+|     | FBC2                               |     |
+| 10  | Teach                              |     |
+|     | Teach                              |     |
+| 11  | Stats                              |     |
+|     | Stats                              |     |
+| 12  | Chat w/AE                          |     |
+|     | Faculty                            |     |
+| 1   | Faculty                            |     |
+|     | [[ProgressReport 17 January 2024]] |     |
+| 2   | [[ProgressReport 17 January 2024]] |     |
+|     | Office Hours                       |     |
+| 3   | Office Hours                       |     |
+|     |                                    |     |
+| 4   | Rob Tour                           |     |
+|     |                                    |     |
 
 **W:**
 **DW:**
@@ -31,7 +31,6 @@
 # To Do
 
 - [x] Post Homework 2
-- [ ] Progress Report
 - [x] Andrez Comments
 - [ ] Understand change in ZH stat only sensitivity 
 - [ ] Synthetic data Plots in SB 
@@ -39,7 +38,7 @@
 - [ ] Call Liberty mutual re:tree down
 - [ ] Wes's Thesis
 - [ ] Debug truth v4j
-- [ ] Write  [[ProgressReport 17 January 2024]]
+- [x] Write  [[ProgressReport 17 January 2024]]
 - [x] Finish [[Manfred Letter Spring 2024]]
 - [ ] Get Undergrad up and running
 - [ ] Apply to fall Osher 
@@ -68,4 +67,17 @@ Submitted Sams letters
 
 # Faculty Meeting
 - No plan until March
+
+
+
+
+---
+# Office Hours
+- [ ] update TA office
+- [ ] Review solutions 
+- Look for problems
+	- [ ] Muon collider ! Given Muon beam energy...  Fraction of c moving / Lifetime in lab frame / Angle of electron Lab from given angles in rest frame ? 
+	- [ ] Mouns at sea level.
+		- How many muons survive at sea level assuming no time dialation with time dialation
+	- 
 
