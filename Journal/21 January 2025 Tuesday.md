@@ -64,8 +64,8 @@ Doing Mails
 # Synthetic data CI Run3
 - moving on!
 - removing debugging output
-- raising the threshold on the cutlfow comparision to 0.01 
-- Pused
+- raising the threshold on the cutlfow comparison to 0.01 
+- Pushed and Merged.
 
 [[Manfred Letter Spring 2024]]
 - Pinged Matteo and Valentina 
@@ -82,7 +82,7 @@ Doing Mails
 
 [[Modern Essentials]]
 
-[[Summary of The Case Against Education by Bryan Caplan]]
+Posted [[Summary of The Case Against Education by Bryan Caplan]]
 
 Some [[Life and Fate]]
 Finished [[Talent]]

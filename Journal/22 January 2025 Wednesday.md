@@ -1,33 +1,33 @@
 
-|     | setup    |     |
-| --- | -------- | --- |
-| 9   | Teaching |     |
-|     | Teaching |     |
-| 10  | Hbb      |     |
-|     | Hbb      |     |
-| 11  | MAC      |     |
-|     | MAC      |     |
-| 12  | Hoops    |     |
-|     | Hoops    |     |
-| 1   | Hoops    |     |
-|     | Hoops    |     |
-| 2   | Anthony  |     |
-|     | VARs     |     |
-| 3   | Berman   |     |
-|     | Summary  |     |
-| 4   |          |     |
-|     |          |     |
+|     | setup          |     |
+| --- | -------------- | --- |
+| 9   | Teaching       |     |
+|     | Teaching       |     |
+| 10  | Hbb            |     |
+|     | Hbb            |     |
+| 11  | MAC            |     |
+|     | MAC            |     |
+| 12  | Hoops          |     |
+|     | Hoops          |     |
+| 1   | Hoops          |     |
+|     | Hoops          |     |
+| 2   | Anthony        |     |
+|     | VARs           |     |
+| 3   | Berman         |     |
+|     | Summary        |     |
+| 4   | Manfred Letter |     |
+|     | Manfred Letter |     |
 
-**W:**
-**DW:**
-**OT:**
-**ex** or **No ex**
+**W:** 6 
+**DW:** 2
+**OT:** 2
+**ex** 
 
 ---
 # The ONE thing: 
 - [x] VAR 
 - [x] Modules Summary
-- [ ] Manfred Letter
+- [x] Manfred Letter
 
 ---
 # To Do
@@ -73,8 +73,8 @@ Fix ratios in ROOT histograms
 - Aux gym
 - Played well... Need to make some more lefts 
 
-# Met Tony
-- [ ] Send Mail
+# Met Tony Boyle
+- [>>] Send Mail
 
 Did VAR... see above
 
@@ -86,5 +86,10 @@ Did VAR... see above
 # Chat Berman
 - [ ] Ping Sebastian 
 
-[[Manfred Letter Spring 2024]]
+Finished [[Manfred Letter Spring 2024]]
+
+Home with M & T 
+
+Some [[Life and Fate]]
+
 
