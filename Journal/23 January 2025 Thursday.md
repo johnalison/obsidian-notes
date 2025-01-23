@@ -71,7 +71,7 @@ Submitted Sams letters
 Wrote [[ProgressReport 17 January 2025]]
 
 
----
+
 # Office Hours
 [[Modern Essentials]]
 - [x] update TA office
@@ -80,4 +80,20 @@ Wrote [[ProgressReport 17 January 2025]]
 - Look for problems
 
 
+Met Rob 
+- Seems good. 
+- $150k annual
 
+# Chat Matteo
+- Lots of good candidates
+	- I think Should push for three
+- Will give me a paragraph 
+
+
+# Change in ZH sensitivity
+- Fit with the old SvB
+- For ZZ, ZH, and HH...
+	- [ ] Compute acceptance in SR
+	- [ ] Compute acceptance in VV-region
+	- [ ] compare S/B ratios in bins of SvB
+- Plots of the old SvB
