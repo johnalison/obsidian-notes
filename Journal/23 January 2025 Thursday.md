@@ -25,14 +25,14 @@
 
 ---
 # The ONE thing: 
-- [ ] 
+- [ ] Progress Report
 
 ---
 # To Do
 
-- [ ] Post Homework 2
+- [x] Post Homework 2
 - [ ] Progress Report
-- [ ] ANdrez Comments
+- [x] Andrez Comments
 - [ ] Understand change in ZH stat only sensitivity 
 - [ ] Synthetic data Plots in SB 
 - [ ] Read [[Evolution of Silicon Sensor Technology in Particle Physics]] !!!
@@ -42,6 +42,7 @@
 - [ ] Write  [[ProgressReport 17 January 2024]]
 - [x] Finish [[Manfred Letter Spring 2024]]
 - [ ] Get Undergrad up and running
+- [ ] Apply to fall Osher 
 
 ---
 
@@ -64,4 +65,7 @@ Submitted Sams letters
 
 # Stats Chat
 - How to calculate pvalues with SvB 
+
+# Faculty Meeting
+- No plan until March
 

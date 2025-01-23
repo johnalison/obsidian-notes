@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/23 January 2025 Thursday.md",
+                "file": "Input/Books/Books.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "23 January 2025 Thursday"
+              "title": "Books"
             }
           }
         ],
@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "file:books",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/23 January 2025 Thursday.md",
+                "file": "Input/Books/Books.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 23 January 2025 Thursday"
+              "title": "Backlinks for Books"
             }
           },
           {
@@ -155,12 +155,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/23 January 2025 Thursday.md",
+                "file": "Input/Books/Books.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 23 January 2025 Thursday"
+              "title": "Outgoing links from Books"
             }
           },
           {
@@ -182,10 +182,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/23 January 2025 Thursday.md"
+                "file": "Input/Books/Books.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 23 January 2025 Thursday"
+              "title": "Outline of Books"
             }
           },
           {
@@ -219,8 +219,13 @@
   },
   "active": "c1eaeb5ed73ed65c",
   "lastOpenFiles": [
-    "Journal/22 January 2025 Wednesday.md",
+    "Input/Books/Progressive Myths.md",
+    "00-Zettelkasten/Left-wing political myths currently much more dangerous than corresponding right-wing myths.md",
+    "Input/Books/Books.md",
+    "0-inbox/ProgressReport 17 January 2024.md",
     "Journal/23 January 2025 Thursday.md",
+    "Journal/24 January 2025 Friday.md",
+    "Journal/22 January 2025 Wednesday.md",
     "Journal/January 2025.md",
     "Output/Recommendation  Letters/Sam Hobbeheydar Rec Letter.md",
     "0-inbox/Manfred Letter Spring 2024.md",
@@ -240,11 +245,6 @@
     "Output/CAM/CAM Variance August 2024.md",
     "Output/CAM/CAM Variance September 2024.md",
     "Output/CAM/CAM Variance October 2024.md",
-    "Output/CAM/CAM Variance November 2024.md",
-    "3-resources/MAC/MACTricks.md",
-    "Journal/14 January 2025 Tuesday.md",
-    "3-resources/computing/ROOT.md",
-    "0-inbox/Fix ratios in ROOT histograms.md",
     "1-projects/Mixed2.0/#Run3 Synthetic Data.md#",
     "Journal/#January.md#",
     "Journal/2024/November",

@@ -1,9 +1,13 @@
 
 Meditation
 Started teaching, looking forward to it
-
+Substack
 
 Pushing on synthetic data
+v4 iteration
+
+
+
 # Follow-ups
 
 

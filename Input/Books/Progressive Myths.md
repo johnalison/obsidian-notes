@@ -26,7 +26,7 @@ Gives a lot of examples of [[Political Myths]]
 [[Left-wing political myths currently much more dangerous than corresponding right-wing myths]]
 
 
-In long-run left is the bigger threat. (Right, specifically Trump, poses a near term threat to demacracy) education
+In the long-run the left is the bigger threat. (The Right, specifically Trump, poses a near term threat to democracy)
 
 The capital gains tax rate is low b/c it is a kind of double tax. The owners of a company (the stock holders) are tax based on thier profits at the corporate tax rate and then taxed again when the profit is passed to the owners at the capital gains rate.
 
