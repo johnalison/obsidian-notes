@@ -9,6 +9,10 @@ https://docs.google.com/spreadsheets/d/1htHTPUizPK_M7IS8KjQnDFON9FB6NSXc3cb-GmC0
 
 
 Old Canvas: https://canvas.cmu.edu/courses/32799
+
+# Path
+-  Sundays-Thursdays 7pm-9pm in WEH 7316
+
 ## To Do
 - [x] Syllabus 
 - [x] Book Calendar 

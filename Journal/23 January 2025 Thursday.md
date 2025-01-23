@@ -73,7 +73,9 @@ Submitted Sams letters
 
 ---
 # Office Hours
+[[Modern Essentials]]
 - [ ] update TA office
+- [ ] Add Details of PATH
 - [ ] Review solutions 
 - Look for problems
 	- [ ] Muon collider ! Given Muon beam energy...  Fraction of c moving / Lifetime in lab frame / Angle of electron Lab from given angles in rest frame ? 
