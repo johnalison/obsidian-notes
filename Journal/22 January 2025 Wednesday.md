@@ -35,16 +35,16 @@
 - [x] Buy Max the book 
 - [x] VAR
 - [x] [[Modules Summary January 2025]]
-- [ ] Understand change in ZH stat only sensitivity 
-- [ ] Synthetic data Plots in SB 
-- [ ] Read [[Evolution of Silicon Sensor Technology in Particle Physics]] !!!
-- [ ] Call Liberty mutual re:tree down
-- [ ] Wes's Thesis
-- [ ] Debug truth v4j
-- [ ] Write  [[ProgressReport 17 January 2024]]
-- [ ] Finish [[Manfred Letter Spring 2024]]
+- [>>] Understand change in ZH stat only sensitivity 
+- [>>] Synthetic data Plots in SB 
+- [>>] Read [[Evolution of Silicon Sensor Technology in Particle Physics]] !!!
+- [>>] Call Liberty mutual re:tree down
+- [>>] Wes's Thesis
+- [>>] Debug truth v4j
+- [>>] Write  [[ProgressReport 17 January 2024]]
+- [>>] Finish [[Manfred Letter Spring 2024]]
 - [x] Bug Abels re:Lab Coordinator
-- [ ] Get Undergrad up and running
+- [>>] Get Undergrad up and running
 
 ---
 

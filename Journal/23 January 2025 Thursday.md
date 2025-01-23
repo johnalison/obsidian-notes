@@ -57,4 +57,11 @@ Submitted Sams letters
 [[Sam Hobbeheydar Rec Letter]]
 
 # FBC2
-- 
+- More evidence that Reclustering might be the way to go
+
+# Taught 
+- Lorentz Transformations
+
+# Stats Chat
+- How to calculate pvalues with SvB 
+
