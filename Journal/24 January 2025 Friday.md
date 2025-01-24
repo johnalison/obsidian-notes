@@ -53,5 +53,6 @@ Work by 8:30 ... H with me today (No school b/c of sewer line)
 
 
 # [[Change in ZH sensitivity]]
-- Adding the old SvB in parallel
-
+- Added the old SvB_MA to be made in parallel
+- running histAll `source .ci-workflows/analysis-testAll-job.sh`
+- 
