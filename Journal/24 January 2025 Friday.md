@@ -55,4 +55,5 @@ Work by 8:30 ... H with me today (No school b/c of sewer line)
 # [[Change in ZH sensitivity]]
 - Added the old SvB_MA to be made in parallel
 - running histAll `source .ci-workflows/analysis-testAll-job.sh`
-- 
+- converted (After adding SvB_MA_preUL* to the list of histograms to convert)
+	- `python stats_analysis/convert_hist_to_json.py --input output/analysis_testAll_job/histAll.coffea`
