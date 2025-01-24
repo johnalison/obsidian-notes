@@ -32,7 +32,7 @@
 
 - [x] Post Homework 2
 - [x] Andrez Comments
-- [ ] Understand change in ZH stat only sensitivity 
+- [>>] Understand change in ZH stat only sensitivity 
 - [ ] Synthetic data Plots in SB 
 - [ ] Read [[Evolution of Silicon Sensor Technology in Particle Physics]] !!!
 - [ ] Call Liberty mutual re:tree down
@@ -89,13 +89,8 @@ Wrote [[ProgressReport 17 January 2025]]
 - Will give me a paragraph 
 
 
-# Change in ZH sensitivity
-- Fit with the old SvB
-- For ZZ, ZH, and HH...
-	- [ ] Compute acceptance in SR
-	- [ ] Compute acceptance in VV-region
-	- [ ] compare S/B ratios in bins of SvB
-- Plots of the old SvB
+# [[Change in ZH sensitivity]]
+
 
 AE sees gain in µ with new k-lambda SvB
 - [ ] Need to debug

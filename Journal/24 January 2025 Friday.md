@@ -7,8 +7,8 @@
 |     | Teaching          |     |
 | 10  |                   |     |
 |     |                   |     |
-| 11  | High-School Visit |     |
-|     | High-School Visit |     |
+| 11  |                   |     |
+|     | 
 | 12  | Hoops             |     |
 |     | Hoops             |     |
 | 1   | Hoops             |     |
@@ -27,12 +27,13 @@
 
 ---
 # The ONE thing: 
-- [ ] High-School Visit
+- [ ] ~~High-School Visit~~
+- [ ] Understand change in ZH stat only sensitivity 
 
 ---
 # To Do
 
-- [ ] High-School Visit
+- [ ] ~~High-School Visit~~
 - [ ]  Ping Sebastian 
 - [ ] Understand change in ZH stat only sensitivity 
 - [ ] 
@@ -46,4 +47,11 @@ Up at 6:50
 All ride to Cyert in the van
 
 Work by 8:30 ... H with me today (No school b/c of sewer line)
+
+# Taught
+- Homework and general discussion
+
+
+# [[Change in ZH sensitivity]]
+- Adding the old SvB in parallel
 
