@@ -57,3 +57,15 @@ Work by 8:30 ... H with me today (No school b/c of sewer line)
 - running histAll `source .ci-workflows/analysis-testAll-job.sh`
 - converted (After adding SvB_MA_preUL* to the list of histograms to convert)
 	- `python stats_analysis/convert_hist_to_json.py --input output/analysis_testAll_job/histAll.coffea`
+- [ ] Need to check the acceptance of ZH in SR wrt c++
+
+
+
+# Hoops
+- 5s good runs ... Good passing
+
+# 4b Chat
+- SvB gains from adding other signal k_l points looks real. 
+- Will check statonly... if promising compute systematics
+- In parallel CL, will refit FvT x 15 kfolds.
+

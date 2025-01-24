@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "dry air",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -130,8 +130,7 @@
               "title": "Files"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -234,11 +233,13 @@
   },
   "active": "c01c0e4b39446d3e",
   "lastOpenFiles": [
+    "1-projects/HGC/Dry Air for MMTS.md",
+    "0-inbox/HGC Transfer Tape BCR.md",
+    "Journal/24 January 2025 Friday.md",
     "0-inbox/Change in ZH sensitivity.md",
     "Journal/23 January 2025 Thursday.md",
     "Journal/January 2025.md",
     "Output/ProgressReports/ProgressReport 20 December 2024.md",
-    "Journal/24 January 2025 Friday.md",
     "Journal/22 January 2025 Wednesday.md",
     "Journal/21 January 2025 Tuesday.md",
     "Journal/20 January 2025 Monday.md",
@@ -259,8 +260,6 @@
     "Journal/2024/December/6 December 2024 Friday.md",
     "Untitled.canvas",
     "Output/ProgressReports/ProgressReport 3 January 2024.md",
-    "Output/ProgressReports/ProgressReport 30 August 2024.md",
-    "Output/ProgressReports/ProgressReport 16 September 2024.md",
     "1-projects/Mixed2.0/#Run3 Synthetic Data.md#",
     "Journal/#January.md#",
     "Journal/2024/November",
