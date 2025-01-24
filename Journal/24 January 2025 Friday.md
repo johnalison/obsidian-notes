@@ -59,8 +59,6 @@ Work by 8:30 ... H with me today (No school b/c of sewer line)
 	- `python stats_analysis/convert_hist_to_json.py --input output/analysis_testAll_job/histAll.coffea`
 - [ ] Need to check the acceptance of ZH in SR wrt c++
 
-
-
 # Hoops
 - 5s good runs ... Good passing
 
@@ -69,3 +67,8 @@ Work by 8:30 ... H with me today (No school b/c of sewer line)
 - Will check statonly... if promising compute systematics
 - In parallel CL, will refit FvT x 15 kfolds.
 
+
+
+# CMU CMS 
+- Kria works
+- 4top AN to converners 
