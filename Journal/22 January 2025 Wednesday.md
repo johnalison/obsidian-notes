@@ -59,7 +59,7 @@ To Campus
 # Hbb Meeting
 - AE talk: went well. 
 
-Fix ratios in ROOT histograms
+Fix ratios in ROOT histograms to AE 
 - [[ROOTTricks]]
 
 
@@ -84,7 +84,7 @@ Did VAR... see above
 [[Modules Summary January 2025]]
 
 # Chat Berman
-- [ ] Ping Sebastian 
+  - [>>] Ping Sebastian 
 
 Finished [[Manfred Letter Spring 2024]]
 

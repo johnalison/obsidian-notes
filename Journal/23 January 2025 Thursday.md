@@ -14,18 +14,18 @@
 | 2   | [[ProgressReport 17 January 2025]] |     |
 |     | Office Hours                       |     |
 | 3   | Office Hours                       |     |
-|     |                                    |     |
+|     | Start ZH debugging                 |     |
 | 4   | Rob Tour                           |     |
-|     |                                    |     |
+|     | Chat AE                            |     |
 
-**W:**
-**DW:**
-**OT:**
-**ex** or **No ex**
+**W:** 8 
+**DW:** 3
+**OT:**  1
+**No ex**
 
 ---
 # The ONE thing: 
-- [ ] Progress Report
+- [x] Progress Report
 
 ---
 # To Do
@@ -66,11 +66,10 @@ Submitted Sams letters
 - How to calculate pvalues with SvB 
 
 # Faculty Meeting
-- No plan until March
+- Chat with the dean: No plan until March
+- Think much of our problem is from the partitioning of the departments into MCS
 
 Wrote [[ProgressReport 17 January 2025]]
-
-
 
 # Office Hours
 [[Modern Essentials]]
@@ -80,7 +79,7 @@ Wrote [[ProgressReport 17 January 2025]]
 - Look for problems
 
 
-Met Rob 
+# Met Robert MacLachlan 
 - Seems good. 
 - $150k annual
 
@@ -97,3 +96,10 @@ Met Rob
 	- [ ] Compute acceptance in VV-region
 	- [ ] compare S/B ratios in bins of SvB
 - Plots of the old SvB
+
+AE sees gain in µ with new k-lambda SvB
+- [ ] Need to debug
+
+Home with kids.
+
+Some [[Life and Fate]]
