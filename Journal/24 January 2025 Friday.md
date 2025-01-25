@@ -1,24 +1,24 @@
 # ACTION: High-School Visit
 ---
 
-|     |                   |     |
-| --- | ----------------- | --- |
-| 9   | Teaching          |     |
-|     | Teaching          |     |
-| 10  |                   |     |
-|     |                   |     |
-| 11  |                   |     |
-|     | 
-| 12  | Hoops             |     |
-|     | Hoops             |     |
-| 1   | Hoops             |     |
-|     | Hoops             |     |
-| 2   | 4b                |     |
-|     |                   |     |
-| 3   | CMU CMS           |     |
-|     | CMU CMS           |     |
-| 4   | Andy Liu          |     |
-|     |                   |     |
+|     |                              |     |
+| --- | ---------------------------- | --- |
+| 9   | Teaching                     |     |
+|     | Teaching                     |     |
+| 10  | [[Change in ZH sensitivity]] |     |
+|     | [[Change in ZH sensitivity]] |     |
+| 11  | [[Change in ZH sensitivity]] |     |
+|     | [[Change in ZH sensitivity]] |     |
+| 12  | Hoops                        |     |
+|     | Hoops                        |     |
+| 1   | Hoops                        |     |
+|     | Hoops                        |     |
+| 2   | 4b                           |     |
+|     | [[Change in ZH sensitivity]] |     |
+| 3   | CMU CMS                      |     |
+|     | CMU CMS                      |     |
+| 4   | [[Change in ZH sensitivity]] |     |
+|     | [[Change in ZH sensitivity]] |     |
 
 **W:**
 **DW:**
@@ -61,9 +61,12 @@ Work by 8:30 ... H with me today (No school b/c of sewer line)
 - C++ total yields: bothZH4b in 
 	- ps: 61.91 (568,654 )
 	- ps_zh: 49.15 (439,017)
-- python 
-	- ps 35.85
-	- ps_zh: 28.48
+- python (ZH4b only)
+	- ps 35.85 + 20.5 
+	- ps_zh: 28.48  +  16.0 
+- [x] Run with ggZH4b
+- on **cmslpc312** 
+
 # Hoops
 - 5s good runs ... Good passing
 
@@ -72,8 +75,23 @@ Work by 8:30 ... H with me today (No school b/c of sewer line)
 - Will check statonly... if promising compute systematics
 - In parallel CL, will refit FvT x 15 kfolds.
 
-
+H to Library with Owen
 
 # CMU CMS 
 - Kria works
 - 4top AN to converners 
+
+More [[Change in ZH sensitivity]]
+
+Start [[ChrisBerman iSURF Letter ]]
+
+Pick up kids at Cyert 
+
+# Union Grill 
+- no H
+
+Home 
+
+Some [[Life and Fate]]
+Some [[The problems of philosophy]]
+Writting up [[Talent]]

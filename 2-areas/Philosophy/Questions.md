@@ -73,3 +73,6 @@
 - What happiness am I putting off that I could have right now?
 - Am I rigorous in training against false impressions?
 - Am I happy with my position at the banquet of life?
+
+
+- "What views do you hold religiously, almost irrationally?"

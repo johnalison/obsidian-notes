@@ -1,5 +1,7 @@
 # 2025
 
+- [[Talent]] (Tyler Cowen and Daniel Gross)
+
 - [[Knowledge, Reality, and Value]] (Micheal Heumer)
 
 - [[Dune]] (Frank Herbert)

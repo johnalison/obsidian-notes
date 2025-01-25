@@ -3,6 +3,7 @@ We need to use assumptions or intuitions to make any progress in philosophy, but
 
 # Follow-ups
 
+- Less true of morality [[We have strong and accurate moral judgements]]
 
 # Links: 
 
