@@ -11,7 +11,8 @@ To Giant Eagle
 Some [[Life and Fate]]
 Some [[The problems of philosophy]]
 
-- [ ] Finish [[ChrisBerman iSURF Letter]]
+- [x] Finish [[ChrisBerman iSURF Letter]]
 
+[[ARC HIG-24-017 Boosted VqqHbb]]
 
 Starting 

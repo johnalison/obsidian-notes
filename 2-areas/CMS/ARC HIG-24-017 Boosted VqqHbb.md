@@ -13,7 +13,23 @@ https://cms.cern.ch/iCMS/analysisadmin/get?analysis=HIG-24-017-paper-v1.pdf
 
 John's AN Replies
 https://docs.google.com/document/d/1R5wnoPqAJsDw1X_qFnveh07A6Hjva6rwKp_ROSp8Gco/edit?tab=t.0
-# Paper draft Review
+
+# Paper Draft Review v10
+
+General: 
+- Should compare sensitivity with the leptonic VH->bb modes somewhere in the paper!
+
+Abstract: 
+- "in 2016 2018"
+- μVH = 0.72 in paper vs 0.74 in latest AN (v13)
+- The quoted expected significances are pre-fit. Dont we usually quote post-fit expected ?
+
+Introduction:
+- l22: should also quote the observed (expected) VH significances here or better in l20. Should we also report the ATLAS VBF ggF results ?
+
+
+
+# Paper draft Review v1
 v1
 
 Hard 
