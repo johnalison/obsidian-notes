@@ -3,7 +3,7 @@ Look for the good in things, situations, and people. Cultivate an appreciation f
 
 ## Follow-ups
 [[The good is hard to find]]
-
+[[Become a talent scout in all aspects of your life.]]
 
 ## Links: 
 [[Tactics]]

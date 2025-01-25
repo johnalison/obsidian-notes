@@ -10,6 +10,8 @@
 
 [[Look-For-The-Good]]
 
+[[Should Exploit Our Strong Moral Intuitions in Decision Making]]
+
 # You are what you think
 
 [[LoneWolf-vs-Wolf-pack]]

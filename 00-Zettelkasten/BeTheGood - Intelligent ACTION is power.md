@@ -13,8 +13,7 @@
 
 [[Not-Done-becasue-Not-Tried]]
 
-
-
+[[Become a talent scout in all aspects of your life.]]
 
 
 
