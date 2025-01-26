@@ -240,7 +240,6 @@
     "Input/Books/Books.md",
     "00-Zettelkasten/Lack-of-free-will-as-a-hack-to-detach.md",
     "00-Zettelkasten/How-to-Detach.md",
-    "00-Zettelkasten/ZettelKasten Index.md",
     "0-inbox/AI Most Pressing Issue of our Time.md",
     "0-inbox/Nexus.md",
     "00-Zettelkasten/Computer As Source of Current Historical Revolution.md",
@@ -249,7 +248,9 @@
     "0-inbox/Talent.md",
     "0-inbox/Should Exploit Our Strong Moral Intuitions in Decision Making.md",
     "00-Zettelkasten/Look-For-The-Good.md",
-    "00-Zettelkasten/Wisdom-index.md"
+    "00-Zettelkasten/ZettelKasten Index.md",
+    "00-Zettelkasten/Wisdom-index.md",
+    "00-Zettelkasten/BeTheGood - Intelligent ACTION is power.md"
   ],
   "allowOntologySuggester": true,
   "ontologySuggesterParentTrigger": "::p",

@@ -12,7 +12,8 @@ Some [[Life and Fate]]
 Some [[The problems of philosophy]]
 
 - [x] Finish [[ChrisBerman iSURF Letter]]
-
-[[ARC HIG-24-017 Boosted VqqHbb]]
+- [x] Read paper draft v10 [[ARC HIG-24-017 Boosted VqqHbb]]
 
 Starting 
+
+Started [[Stubborn Attachments]]

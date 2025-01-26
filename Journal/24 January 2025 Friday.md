@@ -1,7 +1,7 @@
 # ACTION: High-School Visit
 ---
 
-|     |                              |     |
+|     | setup                        |     |
 | --- | ---------------------------- | --- |
 | 9   | Teaching                     |     |
 |     | Teaching                     |     |
@@ -20,10 +20,10 @@
 | 4   | [[Change in ZH sensitivity]] |     |
 |     | [[Change in ZH sensitivity]] |     |
 
-**W:**
-**DW:**
-**OT:**
-**ex** or **No ex**
+**W:** 6
+**DW:** 4
+**OT:** 3
+**ex** 
 
 ---
 # The ONE thing: 
@@ -36,7 +36,6 @@
 - [ ] ~~High-School Visit~~
 - [ ]  Ping Sebastian 
 - [ ] Understand change in ZH stat only sensitivity 
-- [ ] 
 
 ---
 
@@ -51,6 +50,7 @@ Work by 8:30 ... H with me today (No school b/c of sewer line)
 # Taught
 - Homework and general discussion
 
+Field Trip Cancelled ... It was from ECS high-school!
 
 # [[Change in ZH sensitivity]]
 - Added the old SvB_MA to be made in parallel
@@ -69,10 +69,11 @@ Work by 8:30 ... H with me today (No school b/c of sewer line)
 
 # Hoops
 - 5s good runs ... Good passing
+- Bunch of footballers there 
 
 # 4b Chat
-- SvB gains from adding other signal k_l points looks real. 
-- Will check statonly... if promising compute systematics
+- SvB gains from adding other signal k_l points looks real but small. 
+- Will check stat only... if promising compute systematics
 - In parallel CL, will refit FvT x 15 kfolds.
 
 H to Library with Owen
@@ -94,4 +95,4 @@ Home
 
 Some [[Life and Fate]]
 Some [[The problems of philosophy]]
-Writting up [[Talent]]
+Wrote up [[Talent]]

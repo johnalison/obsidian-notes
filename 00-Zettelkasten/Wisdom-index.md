@@ -19,8 +19,8 @@
 ## but with practice, you can change what you think.
 
 ### Mindfulness
-	[[Use ZettelKasting For Mindfulness]]
-	[[Kids-as-a-mindfulness-gauge]]
+- [[Use ZettelKasting For Mindfulness]]
+- [[Kids-as-a-mindfulness-gauge]]
 
 
 #  [[Perfection Not Required]]
@@ -43,21 +43,6 @@ effective self-improvement critical
 
 # [[BeTheGood - Intelligent ACTION is power]]
 
-* [[Action-not-knowledge]]
-	[[DeserveWhatYouWant]]
-	[[Action-Now]]
-	[[Be-better-through-emulation]]
-
-
-[[Go-first-go-positive]]
-
-[[Lessons-from-tit-for-tat-Game-Theory]]
-
-[[Pragmatism-over-idealism]]
-
-[[You-set-your-standards]]
-
-[[Not-Done-becasue-Not-Tried]]
 
 
 # [[AmorFati]]

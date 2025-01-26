@@ -1,7 +1,10 @@
  [[Action-not-knowledge]]
-- [[DeserveWhatYouWant]]
-- [[Action-Now]]
-- [[Be-better-through-emulation]]
+
+ [[DeserveWhatYouWant]]
+
+ [[Action-Now]]
+
+ [[Be-better-through-emulation]]
 
 [[Go-first-go-positive]]
 

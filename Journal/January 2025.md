@@ -23,7 +23,7 @@
 | 21 T | (No ECS) Bail Run3 Syn. CI  / Manfred Letter / 1st book review substack            | 6/1/1 |
 | 22 W | (No ECS) Solid Update in Hbb / US MAC / **Hoops** / Manfred Letter                 | 6/2/2 |
 | 23 H | Taught / Chat Dean / ProgressReport / Chat Rob MacLachian /                        | 8/3/1 |
-| 24 F | (Field Trip)                                                                       |       |
+| 24 F | H to work / Taught / Looking into ZH / **Hoops** / Union Grill / Reading           | 6/4/3 |
 | 25 S |                                                                                    |       |
 | 26 S |                                                                                    |       |
 | 27 M | (Fast) (No Cyert)                                                                  |       |
