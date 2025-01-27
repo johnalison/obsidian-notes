@@ -55,3 +55,10 @@ o, a = parser.parse_args()
 if not os.path.isdir(o.outputDir):
     os.mkdir(o.outputDir)
 ```  
+
+# Boilerplate
+
+from ROOT import gROOT  
+gROOT.SetBatch(True)  
+import ROOT  
+ROOT.gErrorIgnoreLevel = ROOT.kWarning
