@@ -24,8 +24,8 @@
 | 22 W | (No ECS) Solid Update in Hbb / US MAC / **Hoops** / Manfred Letter                 | 6/2/2 |
 | 23 H | Taught / Chat Dean / ProgressReport / Chat Rob MacLachian /                        | 8/3/1 |
 | 24 F | H to work / Taught / Looking into ZH / **Hoops** / Union Grill / Reading           | 6/4/3 |
-| 25 S |                                                                                    |       |
-| 26 S |                                                                                    |       |
+| 25 S | Reading / Berman Letter / [[ARC HIG-24-017 Boosted VqqHbb]]                        |       |
+| 26 S | Reading / **Gym/SR** / Send [[Manfred Letter Spring 2024]]                         |       |
 | 27 M | (Fast) (No Cyert)                                                                  |       |
 | 28 T | (Fast)                                                                             |       |
 | 29 W | (Fast)                                                                             |       |

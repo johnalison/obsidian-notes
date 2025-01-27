@@ -53,7 +53,7 @@
 To Campus
 
 # Taught 
-- Spacetime diagrams
+- Spacetime diagrams v1
 - Sign of the Interval
 
 # Hbb Meeting
@@ -78,7 +78,7 @@ Fix ratios in ROOT histograms to AE
 
 Did VAR... see above
 
-# Chat Abels
+# Chat Jeff Abels
 - Acted on Lab Coordinator Role... In Sharons inbox
 
 [[Modules Summary January 2025]]

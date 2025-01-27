@@ -14,6 +14,5 @@ Some [[The problems of philosophy]]
 - [x] Finish [[ChrisBerman iSURF Letter]]
 - [x] Read paper draft v10 [[ARC HIG-24-017 Boosted VqqHbb]]
 
-Starting 
 
 Started [[Stubborn Attachments]]

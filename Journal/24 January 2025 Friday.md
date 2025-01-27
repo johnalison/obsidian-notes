@@ -1,4 +1,4 @@
-# ACTION: High-School Visit
+
 ---
 
 |     | setup                        |     |
@@ -34,8 +34,8 @@
 # To Do
 
 - [ ] ~~High-School Visit~~
-- [ ]  Ping Sebastian 
-- [ ] Understand change in ZH stat only sensitivity 
+- [ ]  ~~Ping Sebastian ~~
+- [>>] Understand change in ZH stat only sensitivity 
 
 ---
 

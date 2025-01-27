@@ -57,7 +57,7 @@ Up at 8
 - SoS: 
 
 
-New oracle strong for MAC charges 46289.2.1990967 [>>]  [[DOE Grant Numbers]]
+New oracle string for MAC charges 46289.2.1990967 [>>]  [[DOE Grant Numbers]]
 
 Doing Mails
 

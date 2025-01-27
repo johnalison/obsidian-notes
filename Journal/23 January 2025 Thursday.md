@@ -36,12 +36,12 @@
 - [ ] Synthetic data Plots in SB 
 - [ ] Read [[Evolution of Silicon Sensor Technology in Particle Physics]] !!!
 - [ ] Call Liberty mutual re:tree down
-- [ ] Wes's Thesis
-- [ ] Debug truth v4j
+- [>>] Wes's Thesis
+- [>>] Debug truth v4j
 - [x] Write  [[ProgressReport 17 January 2025]]
 - [x] Finish [[Manfred Letter Spring 2024]]
-- [ ] Get Undergrad up and running
-- [ ] Apply to fall Osher 
+- [>>] Get Undergrad up and running
+- [>>] Apply to fall Osher 
 
 ---
 
@@ -93,7 +93,7 @@ Wrote [[ProgressReport 17 January 2025]]
 
 
 AE sees gain in µ with new k-lambda SvB
-- [ ] Need to debug
+-  ~~Need to debug~~ not applying FvT to background model
 
 Home with kids.
 
