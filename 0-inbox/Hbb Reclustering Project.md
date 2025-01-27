@@ -4,6 +4,10 @@ FSR Big impact / ISR not a big deal
 
 SvB and SvB_MA
 
+# Plan for undergrad
+- [ ] Give him signal files with paired b-jets and all unclustered jets.
+- [ ] Make mass resolution plots 
+- [ ] Try reclustering 
 
 
 
