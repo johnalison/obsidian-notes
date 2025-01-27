@@ -25,7 +25,7 @@
 
 ---
 # The ONE thing: 
-- [ ] 
+- [ ] ZH Sensitivity
 
 ---
 # To Do
@@ -45,3 +45,9 @@
 Up at 6:50 ... some Meds 
 
 Fast Day 1
+
+# Taught
+- Fun with Lorentz Transformations
+
+# [[Change in ZH sensitivity]]
+- Debug conversion to root

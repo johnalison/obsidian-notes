@@ -53,19 +53,7 @@ Work by 8:30 ... H with me today (No school b/c of sewer line)
 Field Trip Cancelled ... It was from ECS high-school!
 
 # [[Change in ZH sensitivity]]
-- Added the old SvB_MA to be made in parallel
-- running histAll `source .ci-workflows/analysis-testAll-job.sh`
-- converted (After adding SvB_MA_preUL* to the list of histograms to convert)
-	- `python stats_analysis/convert_hist_to_json.py --input output/analysis_testAll_job/histAll.coffea`
-- [ ] Need to check the acceptance of ZH in SR wrt c++
-- C++ total yields: bothZH4b in 
-	- ps: 61.91 (568,654 )
-	- ps_zh: 49.15 (439,017)
-- python (ZH4b only)
-	- ps 35.85 + 20.5 
-	- ps_zh: 28.48  +  16.0 
-- [x] Run with ggZH4b
-- on **cmslpc312** 
+- See logs above
 
 # Hoops
 - 5s good runs ... Good passing

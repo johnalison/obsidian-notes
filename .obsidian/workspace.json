@@ -130,8 +130,7 @@
               "title": "Files"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -234,12 +233,13 @@
   },
   "active": "c01c0e4b39446d3e",
   "lastOpenFiles": [
-    "Journal/26 January 2025 Sunday.md",
-    "Journal/January 2025.md",
-    "Journal/27 January 2025 Monday.md",
-    "Journal/25 January 2025 Saturday.md",
+    "1-projects/Mixed2.0/Change in ZH sensitivity.md",
     "Journal/24 January 2025 Friday.md",
     "Journal/23 January 2025 Thursday.md",
+    "Journal/27 January 2025 Monday.md",
+    "Journal/26 January 2025 Sunday.md",
+    "Journal/January 2025.md",
+    "Journal/25 January 2025 Saturday.md",
     "Journal/22 January 2025 Wednesday.md",
     "Output/CAM/Modules Summary January 2025.md",
     "Journal/21 January 2025 Tuesday.md",
@@ -259,7 +259,6 @@
     "Input/Meetings/MAC meeting 22 January 2025.md",
     "0-inbox/Hbb Reclustering Project.md",
     "0-inbox/Marginal Revolution University - Micro Economics.md",
-    "Input/Books/Talent.md",
     "Untitled.canvas",
     "1-projects/Mixed2.0/#Run3 Synthetic Data.md#",
     "Journal/#January.md#",
