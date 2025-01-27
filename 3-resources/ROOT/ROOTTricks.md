@@ -1,5 +1,15 @@
 [[ROOT]]
 
+# Boilerplate
+
+
+```python
+import ROOT  
+ROOT.gROOT.SetBatch(True)
+ROOT.gErrorIgnoreLevel = ROOT.kWarning
+ROOT.gStyle.SetOptStat(0)
+```
+
 # iPlot
 
 ```python
@@ -56,9 +66,3 @@ if not os.path.isdir(o.outputDir):
     os.mkdir(o.outputDir)
 ```  
 
-# Boilerplate
-
-from ROOT import gROOT  
-gROOT.SetBatch(True)  
-import ROOT  
-ROOT.gErrorIgnoreLevel = ROOT.kWarning

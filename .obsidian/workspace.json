@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-resources/ROOT/ROOTTricks.md",
+                "file": "2-areas/coffea4bs/4b code base.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ROOTTricks"
+              "title": "4b code base"
             }
           }
         ],
@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:ROOT",
+                "query": "file:4b",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-resources/ROOT/ROOTTricks.md",
+                "file": "2-areas/coffea4bs/4b code base.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for ROOTTricks"
+              "title": "Backlinks for 4b code base"
             }
           },
           {
@@ -169,12 +169,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-resources/ROOT/ROOTTricks.md",
+                "file": "2-areas/coffea4bs/4b code base.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from ROOTTricks"
+              "title": "Outgoing links from 4b code base"
             }
           },
           {
@@ -196,10 +196,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-resources/ROOT/ROOTTricks.md"
+                "file": "2-areas/coffea4bs/4b code base.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of ROOTTricks"
+              "title": "Outline of 4b code base"
             }
           },
           {
@@ -233,7 +233,12 @@
   },
   "active": "c01c0e4b39446d3e",
   "lastOpenFiles": [
+    "1-projects/4b Resonant/4b Resonant Search.md",
+    "2-areas/Physics/S-factors-for-HH-Analyses.md",
     "Journal/27 January 2025 Monday.md",
+    "Output/CAM/HGC Transfer Tape BCR.md",
+    "1-projects/HH4b/Run2 HH4b AN.md",
+    "3-resources/ROOT/ROOTTricks.md",
     "1-projects/Mixed2.0/Change in ZH sensitivity.md",
     "Journal/24 January 2025 Friday.md",
     "Journal/23 January 2025 Thursday.md",
@@ -254,11 +259,6 @@
     "00-Zettelkasten/ZettelKasten Index.md",
     "00-Zettelkasten/Should Exploit Our Strong Moral Intuitions in Decision Making.md",
     "00-Zettelkasten/We have strong and accurate moral judgements.md",
-    "2-areas/CMS/ARC HIG-24-017 Boosted VqqHbb.md",
-    "Output/Recommendation  Letters/ChrisBerman iSURF Letter.md",
-    "Input/Meetings/MAC meeting 22 January 2025.md",
-    "0-inbox/Hbb Reclustering Project.md",
-    "0-inbox/Marginal Revolution University - Micro Economics.md",
     "Untitled.canvas",
     "1-projects/Mixed2.0/#Run3 Synthetic Data.md#",
     "Journal/#January.md#",

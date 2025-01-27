@@ -2,11 +2,12 @@ Official version: https://cms.cern.ch/iCMS/jsp/db_notes/noteInfo.jsp?cmsnoteid=C
 Twiki: https://twiki.cern.ch/twiki/bin/view/CMSPublic/Run2HH4b
 
 # To do
-- [ ] L3 comments v2
+- [x] L3 comments v2
 - [ ] Need new background model
 - [x] Whats wrong with mixed data fits ?
 	- [x] Repeate Closure with old SvB
-- [ ] What is up with PS FSR ?
+- [x] What is up with PS FSR ?
+	- [[Hbb Reclustering Project]]
 
 Towards v4
 - [ ] Update nominal background for k-folding

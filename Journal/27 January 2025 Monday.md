@@ -36,7 +36,7 @@
 - [ ] Apply to fall Osher 
 - [ ]  Wes's Thesis
 - [ ] Debug truth v4j
-- [ ] Understand change in ZH stat only sensitivity 
+- [x] Understand change in ZH stat only sensitivity 
 
 ---
 
@@ -51,3 +51,9 @@ Fast Day 1
 
 # [[Change in ZH sensitivity]]
 - Debug conversion to root
+- ROOT files look same as coffee ... problem in combine script ! 
+- AE finds problem! Stat only limit same as 22-011 ... case closed !
+
+[[Run2 HH4b AN]]
+
+Chat with AE re:Next steps
