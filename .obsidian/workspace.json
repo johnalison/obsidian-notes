@@ -69,16 +69,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/24 January 2025 Friday.md",
+                "file": "0-inbox/Manfred Letter Spring 2024.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "24 January 2025 Friday"
+              "title": "Manfred Letter Spring 2024"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/January 2025.md",
+                "file": "0-inbox/Manfred Letter Spring 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for January 2025"
+              "title": "Backlinks for Manfred Letter Spring 2024"
             }
           },
           {
@@ -170,12 +170,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/January 2025.md",
+                "file": "0-inbox/Manfred Letter Spring 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from January 2025"
+              "title": "Outgoing links from Manfred Letter Spring 2024"
             }
           },
           {
@@ -197,10 +197,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/January 2025.md"
+                "file": "0-inbox/Manfred Letter Spring 2024.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of January 2025"
+              "title": "Outline of Manfred Letter Spring 2024"
             }
           },
           {
@@ -232,10 +232,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a53bfe1b69be06bc",
+  "active": "c01c0e4b39446d3e",
   "lastOpenFiles": [
-    "Journal/24 January 2025 Friday.md",
     "Journal/26 January 2025 Sunday.md",
+    "1-projects/Teaching/Modern Essentials.md",
+    "Journal/24 January 2025 Friday.md",
     "Journal/January 2025.md",
     "Output/CAM/Modules Summary January 2025.md",
     "Journal/25 January 2025 Saturday.md",
@@ -259,7 +260,6 @@
     "00-Zettelkasten/Become a talent scout in all aspects of your life..md",
     "0-inbox/HH at future colliders.md",
     "Output/CAM/HGC Transfer Tape BCR.md",
-    "0-inbox/Existence Is Evidence of Immortality.md",
     "Untitled.canvas",
     "1-projects/Mixed2.0/#Run3 Synthetic Data.md#",
     "Journal/#January.md#",

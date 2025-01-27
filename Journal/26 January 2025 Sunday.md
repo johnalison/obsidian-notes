@@ -13,4 +13,9 @@ Some [[Life and Fate]]
 
 Some [[Stubborn Attachments]]
 
+Some [[The problems of philosophy]]
+
+[[Modern Essentials]]
+
+[[Manfred Letter Spring 2024]]
 
