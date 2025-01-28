@@ -1,22 +1,22 @@
 
-|     | setup           |     |
-| --- | --------------- | --- |
-| 9   | to school       |     |
-|     | Wes             |     |
-| 10  | Debug truth v4j |     |
-|     | Debug truth v4j |     |
-| 11  | Debug truth v4j |     |
-|     | MAC             |     |
-| 12  | MAC             |     |
-|     |                 |     |
-| 1   | home            |     |
-|     |                 |     |
-| 2   |                 |     |
-|     |                 |     |
-| 3   |                 |     |
-|     |                 |     |
-| 4   |                 |     |
-|     |                 |     |
+|     | setup                 |     |
+| --- | --------------------- | --- |
+| 9   | to school             |     |
+|     | Wes                   |     |
+| 10  | Debug truth v4j       |     |
+|     | Debug truth v4j       |     |
+| 11  | Debug truth v4j       |     |
+|     | MAC                   |     |
+| 12  | MAC                   |     |
+|     | [[Modern Essentials]] |     |
+| 1   | home                  |     |
+|     | Debug truth v4j       |     |
+| 2   | w/T                   |     |
+|     | wM                    |     |
+| 3   | mans                  |     |
+|     | mans                  |     |
+| 4   | mans                  |     |
+|     |                       |     |
 
 **W:**
 **DW:**
@@ -33,10 +33,10 @@
 - [ ] Synthetic data Plots in SB 
 - [ ] Read [[Evolution of Silicon Sensor Technology in Particle Physics]] !!!
 - [ ] Call Liberty mutual re:tree down
-- [ ] Post Homework #1 solutions
+- [x] Post Homework #1 solutions
 - [ ] Apply to fall Osher
 - [ ] Debug truth v4j
-- [ ] Update plotting to include ggZH4b
+- [x] Update plotting to include ggZH4b
 - [ ]  Wes's Thesis
 - [x] Review Wes' postdoc application
 
@@ -93,3 +93,6 @@ https://cmsr-shipment.web.cern.ch/list_of_shippings?search=CMU&sort=date_start&o
 [>>]   [[HGC Links]]
 
 # [[HGCManagementMeeting 28 January 2025]]
+
+Updated plotting to take a list of processes. 
+- [x] Simplify ttbar config
