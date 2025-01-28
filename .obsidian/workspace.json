@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/27 January 2025 Monday.md",
+                "file": "Journal/21 January 2025 Tuesday.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "27 January 2025 Monday"
+              "title": "21 January 2025 Tuesday"
             }
           },
           {
@@ -164,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/27 January 2025 Monday.md",
+                "file": "Journal/21 January 2025 Tuesday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +174,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 27 January 2025 Monday"
+              "title": "Backlinks for 21 January 2025 Tuesday"
             }
           },
           {
@@ -183,12 +183,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/27 January 2025 Monday.md",
+                "file": "Journal/21 January 2025 Tuesday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 27 January 2025 Monday"
+              "title": "Outgoing links from 21 January 2025 Tuesday"
             }
           },
           {
@@ -210,10 +210,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/27 January 2025 Monday.md"
+                "file": "Journal/21 January 2025 Tuesday.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 27 January 2025 Monday"
+              "title": "Outline of 21 January 2025 Tuesday"
             }
           },
           {
@@ -247,8 +247,9 @@
   },
   "active": "c01c0e4b39446d3e",
   "lastOpenFiles": [
-    "0-inbox/Hbb Reclustering Project.md",
+    "Journal/28 January 2025 Tuesday.md",
     "Journal/27 January 2025 Monday.md",
+    "0-inbox/Hbb Reclustering Project.md",
     "1-projects/Teaching/Modern Essentials.md",
     "Journal/Goals.md",
     "Journal/Future Log.md",
@@ -272,7 +273,6 @@
     "Journal/19 January 2025 Sunday.md",
     "Journal/18 January 2025 Saturday.md",
     "0-inbox/Manfred Letter Spring 2024.md",
-    "00-Zettelkasten/BeTheGood - Intelligent ACTION is power.md",
     "Untitled.canvas",
     "1-projects/Mixed2.0/#Run3 Synthetic Data.md#",
     "Journal/#January.md#",

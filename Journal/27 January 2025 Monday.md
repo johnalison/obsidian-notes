@@ -84,3 +84,7 @@ What to do next?
 - Writing out other jets down to 15 GeV
 - make an example reading script
 - sent mail to Tony 
+
+Some [[Life and Fate]]
+Some [[The problems of philosophy]]
+Some [[Stubborn Attachments]]
