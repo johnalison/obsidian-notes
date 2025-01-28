@@ -33,7 +33,7 @@
 
 
 - [ ] Buy Herwig the book 
-- [ ] Get Undergrad up and running
+- [x] Get Undergrad up and running
 - [ ] Apply to fall Osher 
 - [ ] Wes's Thesis
 - [ ] Debug truth v4j
@@ -80,5 +80,7 @@ What to do next?
 
 # [[Hbb Reclustering Project]]
 - Writting out a python file 
-- `python runner.py -t -o test_HH4b.coffea -d GluGluToHHTo4B_cHHH1 -p analysis/processors/processor_HH4b.py -y UL18  -op output/analysis_test_job -m metadata/datasets_HH4b.yml `
-
+- `python runner.py -t -o test_HH4b.coffea -d GluGluToHHTo4B_cHHH1 -p analysis/processors/processor_HH4b.py -y UL18  -op output/analysis_test_job -m metadata/datasets_HH4b.yml`
+- Writing out other jets down to 15 GeV
+- make an example reading script
+- sent mail to Tony 
