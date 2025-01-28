@@ -78,7 +78,7 @@ Doing Mails
 	([>>]) [[UndergradProjects]]
 
 
-[[CMU HGC MAC Meeting 21 January 2025]]
+# [[CMU HGC MAC Meeting 21 January 2025]]
 
 [[Modern Essentials]]
 
