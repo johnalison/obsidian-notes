@@ -38,6 +38,7 @@
 - [ ] Debug truth v4j
 - [ ] Update plotting to include ggZH4b
 - [ ]  Wes's Thesis
+- [x] Review Wes' postdoc application
 
 ---
 
@@ -56,13 +57,16 @@ To Campus
 # Chat with Wes
 - Chat with Zoltan: how many 3-4 / when ?
 - Due Feb 6th / 
-- [ ] Review statement
+- [x] Review statement
 - SoS : peter rederived binning 
 - Thesis defense in mid-April
-- [[Comments on Wes' Research Statement]]
+- [[Comments on Wes' Postdoc Application]]
 
 Requested to be on [[ARC TOP-24-006 3 top production]]
 
+Read Wes' research statement
 
 # Debug truth v4j
-- 
+- Running the signal 
+- `python runner.py  -o signal.coffea -d ZZ4b ZH4b ggZH4b GluGluToHHTo4B_cHHH1 -p analysis/processors/processor_HH4b.py -y UL18  -op output/analysis_test_job -m metadata/datasets_HH4b.yml`
+- truth 4b there for ZZ and ZH....checking ZH
