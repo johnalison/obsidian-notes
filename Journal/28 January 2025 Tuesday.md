@@ -72,8 +72,22 @@ Read Wes' research statement
 - truth 4b there for ZZ and ZH....checking ZH
 - Found that with out a cut on status Im getting more than 4 bjets
 - Only the HH4b has the status... need to rerun on nano
+- ` python runner.py -t  -o signal.coffea -d ZZ4b ZH4b ggZH4b GluGluToHHTo4B_cHHH1  -p analysis/processors/processor_HH4b.py -y UL18  -op output/analysis_test_job -m metadata/datasets_HH4b.yml -c analysis/metadata/HH4b_nano.yml `
+- Running on **cmslpc339**
 
 [[CMU HGC MAC Meeting 28 January 2025]]
 
 [[CAM Turnaround Report]]
-- [ ] Ping Barney re:hexaboards
+- [x] Ping Barney re:hexaboards
+
+Chat Chase re:[[Modern Essentials]]
+
+# Berman gets the iSURF !!
+
+Home w/Kids
+
+More debug truth v4j.... 
+
+Shipping DB
+https://cmsr-shipment.web.cern.ch/list_of_shippings?search=CMU&sort=date_start&order=&loc=all_loc&opt=to_me&st=received
+[>>]   [[HGC Links]]
