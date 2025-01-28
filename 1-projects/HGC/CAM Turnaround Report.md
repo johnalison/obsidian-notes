@@ -1,4 +1,9 @@
 
+# 2025
+
+January:
+https://docs.google.com/spreadsheets/d/1xKAJivTT7h8V_19VESxchGj72AXIC5QdW3N6lRbtnqQ/edit?gid=685846546#gid=685846546
+
 
 # 2024
 

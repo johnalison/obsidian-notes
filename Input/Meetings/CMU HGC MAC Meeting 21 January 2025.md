@@ -1,4 +1,6 @@
-# News 
+# News
+- [ ] Ping sharon 
+
 
 # Action Items
 - [ ] Free style comments for failed tests

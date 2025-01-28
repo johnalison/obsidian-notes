@@ -70,3 +70,10 @@ Read Wes' research statement
 - Running the signal 
 - `python runner.py  -o signal.coffea -d ZZ4b ZH4b ggZH4b GluGluToHHTo4B_cHHH1 -p analysis/processors/processor_HH4b.py -y UL18  -op output/analysis_test_job -m metadata/datasets_HH4b.yml`
 - truth 4b there for ZZ and ZH....checking ZH
+- Found that with out a cut on status Im getting more than 4 bjets
+- Only the HH4b has the status... need to rerun on nano
+
+[[CMU HGC MAC Meeting 28 January 2025]]
+
+[[CAM Turnaround Report]]
+- [ ] Ping Barney re:hexaboards
