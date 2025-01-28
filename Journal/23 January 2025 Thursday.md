@@ -33,9 +33,9 @@
 - [x] Post Homework 2
 - [x] Andrez Comments
 - [>>] Understand change in ZH stat only sensitivity 
-- [ ] Synthetic data Plots in SB 
-- [ ] Read [[Evolution of Silicon Sensor Technology in Particle Physics]] !!!
-- [ ] Call Liberty mutual re:tree down
+- [>>] Synthetic data Plots in SB 
+- [>>] Read [[Evolution of Silicon Sensor Technology in Particle Physics]] !!!
+- [>>] Call Liberty mutual re:tree down
 - [>>] Wes's Thesis
 - [>>] Debug truth v4j
 - [x] Write  [[ProgressReport 17 January 2025]]

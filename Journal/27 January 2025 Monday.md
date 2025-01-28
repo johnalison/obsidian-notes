@@ -18,10 +18,10 @@
 | 4   | [[Hbb Reclustering Project]] |     |
 |     | [[Hbb Reclustering Project]] |     |
 
-**W:**
-**DW:**
-**OT:**
-**ex** or **No ex**
+**W:** 6 
+**DW:**  4 
+**OT:** 4
+**No ex**
 
 ---
 # The ONE thing: 
@@ -32,13 +32,13 @@
 # To Do
 
 
-- [ ] Buy Herwig the book 
+- [x] Buy Herwig the book 
 - [x] Get Undergrad up and running
-- [ ] Apply to fall Osher 
+- [>>] Apply to fall Osher 
 - [ ] Wes's Thesis
-- [ ] Debug truth v4j
+- [>>] Debug truth v4j
 - [x] Understand change in ZH stat only sensitivity 
-- [ ] Update plotting to include ggZH4b
+- [>>] Update plotting to include ggZH4b
 
 ---
 
@@ -52,9 +52,8 @@ Fast Day 1
 - Fun with Lorentz Transformations
 
 # [[Change in ZH sensitivity]]
-- Debug conversion to root
-- ROOT files look same as coffee ... problem in combine script ! 
-- AE finds problem! Stat only limit same as 22-011 ... case closed !
+- see logs above
+- SOLVED !!!
 
 [[Run2 HH4b AN]]
 
@@ -84,6 +83,8 @@ What to do next?
 - Writing out other jets down to 15 GeV
 - make an example reading script
 - sent mail to Tony 
+
+# BCR Implemented ! 
 
 Some [[Life and Fate]]
 Some [[The problems of philosophy]]

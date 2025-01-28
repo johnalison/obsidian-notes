@@ -26,7 +26,7 @@
 | 24 F | H to work / Taught / Looking into ZH / **Hoops** / Union Grill / Reading           | 6/4/3 |
 | 25 S | Reading / Berman Letter / [[ARC HIG-24-017 Boosted VqqHbb]]                        |       |
 | 26 S | Reading / **Gym/SR** / Send [[Manfred Letter Spring 2024]]                         |       |
-| 27 M | (Fast) (No Cyert)                                                                  |       |
+| 27 M | (Fast) (No Cyert) Taught / ZH sensitivity solved / Home / Reclustering / BCR!      | 6/4/4 |
 | 28 T | (Fast)                                                                             |       |
 | 29 W | (Fast)                                                                             |       |
 | 30 H | (Fast) (Poker)                                                                     |       |

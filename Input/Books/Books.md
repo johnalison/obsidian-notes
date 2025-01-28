@@ -1,5 +1,13 @@
 # 2025
 
+- [[Stubborn Attachments]] (Tyler Cowen)
+
+- [[The problems of philosophy]] (Bertrand Russel)
+
+- [[Life and Fate]] (Vassily Grossman)
+
+---
+
 - [[Talent]] (Tyler Cowen and Daniel Gross)
 
 - [[Knowledge, Reality, and Value]] (Micheal Heumer)

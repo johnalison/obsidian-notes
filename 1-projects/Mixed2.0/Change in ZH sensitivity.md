@@ -1,3 +1,6 @@
+
+# SOLVED: where not including gg->ZH
+
 # Plan
 - For ZZ, ZH, and HH...
 	- [ ] Compute acceptance in SR
@@ -8,6 +11,14 @@
 
 
 # Logs
+
+
+[[27 January 2025 Monday]]
+- Debug conversion to root
+- ROOT files look same as coffee ... problem in combine script ! 
+- AE finds problem! Stat only limit same as 22-011 ... case closed !
+- SOLVED !!!
+
 
 [[24 January 2025 Friday]]
 - Added the old SvB_MA to be made in parallel

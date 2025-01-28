@@ -67,8 +67,8 @@ Field Trip Cancelled ... It was from ECS high-school!
 H to Library with Owen
 
 # CMU CMS 
-- Kria works
-- 4top AN to converners 
+- Kria works!
+- 4top AN to conveners 
 
 More [[Change in ZH sensitivity]]
 
