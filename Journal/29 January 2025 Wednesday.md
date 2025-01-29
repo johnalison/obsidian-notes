@@ -72,3 +72,15 @@ Updating plotting with simpler ttbar config.
 - Intro and structure... needs some physics and references
 
 Mail from Mans re:June Directors Review.
+
+# bbWW Chat
+- Aniket to give slides next meeting
+- 
+
+Chat AE and AK
+
+Home with M & T 
+
+# RIP Tom LeCompte 
+
+Another 1900 for the tree ... 1300 goes to Connor
