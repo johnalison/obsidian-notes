@@ -31,7 +31,7 @@
 # To Do
 
 - [ ] Post HW 3 (Due 14th)
-- [ ] Sam Letter 
+- [x] Sam Letter 
 - [ ]  Wes's Thesis
 - [ ] Buy High Voltage Power Supplies
 - [ ]  Synthetic data Plots in SB 
@@ -40,7 +40,7 @@
 - [ ]  Apply to fall Osher
 - [ ] Debug truth v4j
 - [ ] Edit Wes' docs
-- [ ] Simplify ttbar config
+- [x] Simplify ttbar config
 
 ---
 
@@ -57,3 +57,10 @@ M & T To school
 
 Setup wes' applictions
 - Waiting on Green light from him
+
+# Chat Sam
+- Went over plan for SURF
+- Submitted his last letter
+
+Updating plotting with simpler ttbar config. 
+
