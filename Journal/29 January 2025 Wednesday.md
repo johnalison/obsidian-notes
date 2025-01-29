@@ -39,7 +39,7 @@
 - [ ] Call Liberty mutual re:tree down
 - [ ]  Apply to fall Osher
 - [ ] Debug truth v4j
-- [ ] Edit Wes' docs
+- [x] Edit Wes' docs
 - [x] Simplify ttbar config
 
 ---
@@ -68,3 +68,7 @@ Updating plotting with simpler ttbar config.
 - 5s good runs. 
 - Decent passing ... missed a lot
 
+# Working Wes' Application
+- Intro and structure... needs some physics and references
+
+Mail from Mans re:June Directors Review.
