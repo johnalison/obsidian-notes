@@ -1,22 +1,22 @@
 
-|     |          |     |
-| --- | -------- | --- |
-| 9   | Teaching |     |
-|     | Teaching |     |
-| 10  | setup    |     |
-|     | plotting |     |
-| 11  | Sam      |     |
-|     |          |     |
-| 12  | Hoops    |     |
-|     | Hoops    |     |
-| 1   | Hoops    |     |
-|     | Hoop     |     |
-| 2   |          |     |
-|     |          |     |
-| 3   |          |     |
-|     |          |     |
-| 4   | bbWW     |     |
-|     | bbWW     |     |
+|     |                  |     |
+| --- | ---------------- | --- |
+| 9   | Teaching         |     |
+|     | Teaching         |     |
+| 10  | setup            |     |
+|     | plotting         |     |
+| 11  | Sam              |     |
+|     | plotting         |     |
+| 12  | Hoops            |     |
+|     | Hoops            |     |
+| 1   | Hoops            |     |
+|     | Hoop             |     |
+| 2   | Wes' application |     |
+|     | Wes' application |     |
+| 3   | Wes' application |     |
+|     |                  |     |
+| 4   | bbWW             |     |
+|     | bbWW             |     |
 
 **W:**
 **DW:**
@@ -63,4 +63,8 @@ Setup wes' applictions
 - Submitted his last letter
 
 Updating plotting with simpler ttbar config. 
+
+# Hoops 
+- 5s good runs. 
+- Decent passing ... missed a lot
 
