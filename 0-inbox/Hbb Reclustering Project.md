@@ -10,6 +10,15 @@ SvB and SvB_MA
 - [ ] Try reclustering 
 
 
+# Logs 
+
+[[27 January 2025 Monday]]
+- Writing out a python file 
+- `python runner.py -t -o test_HH4b.coffea -d GluGluToHHTo4B_cHHH1 -p analysis/processors/processor_HH4b.py -y UL18  -op output/analysis_test_job -m metadata/datasets_HH4b.yml`
+- Writing out other jets down to 15 GeV
+- make an example reading script
+- sent mail to Tony 
+
 # 1st Mail 
 
 Hi Tony

@@ -27,7 +27,7 @@
 | 25 S | Reading / Berman Letter / [[ARC HIG-24-017 Boosted VqqHbb]]                        |       |
 | 26 S | Reading / **Gym/SR** / Send [[Manfred Letter Spring 2024]]                         |       |
 | 27 M | (Fast) (No Cyert) Taught / ZH sensitivity solved / Home / Reclustering / BCR!      | 6/4/4 |
-| 28 T | (Fast)                                                                             |       |
+| 28 T | (Fast) pass L3 review / New ARC 3-top / Wes application/ iSURF/                    | 6/2/2 |
 | 29 W | (Fast)                                                                             |       |
 | 30 H | (Fast) (Poker)                                                                     |       |
 | 31 F | (Chuyuan Annual Review)                                                            |       |

@@ -16,12 +16,12 @@
 | 3   | mans                  |     |
 |     | mans                  |     |
 | 4   | mans                  |     |
-|     |                       |     |
+|     | plots                 |     |
 
-**W:**
-**DW:**
-**OT:**
-**ex** or **No ex**
+**W:** 6 
+**DW:** 2
+**OT:** 2
+ **No ex**
 
 ---
 # The ONE thing: 
@@ -30,14 +30,14 @@
 ---
 # To Do
 
-- [ ] Synthetic data Plots in SB 
-- [ ] Read [[Evolution of Silicon Sensor Technology in Particle Physics]] !!!
-- [ ] Call Liberty mutual re:tree down
+- [>>] Synthetic data Plots in SB 
+- [>>] Read [[Evolution of Silicon Sensor Technology in Particle Physics]] !!!
+- [>>] Call Liberty mutual re:tree down
 - [x] Post Homework #1 solutions
-- [ ] Apply to fall Osher
-- [ ] Debug truth v4j
+- [>>] Apply to fall Osher
+- [>>] Debug truth v4j
 - [x] Update plotting to include ggZH4b
-- [ ]  Wes's Thesis
+- [>>]  Wes's Thesis
 - [x] Review Wes' postdoc application
 
 ---
@@ -46,7 +46,7 @@
 
 Up at 7:30 
 
-Moved to L2 Review for Run2 HH->4b !
+# Moved to L2 Review for Run2 HH->4b !
 
 Fast Day 2
 
@@ -75,7 +75,7 @@ Read Wes' research statement
 - ` python runner.py -t  -o signal.coffea -d ZZ4b ZH4b ggZH4b GluGluToHHTo4B_cHHH1  -p analysis/processors/processor_HH4b.py -y UL18  -op output/analysis_test_job -m metadata/datasets_HH4b.yml -c analysis/metadata/HH4b_nano.yml `
 - Running on **cmslpc339**
 
-[[CMU HGC MAC Meeting 28 January 2025]]
+# [[CMU HGC MAC Meeting 28 January 2025]]
 
 [[CAM Turnaround Report]]
 - [x] Ping Barney re:hexaboards
@@ -96,3 +96,7 @@ https://cmsr-shipment.web.cern.ch/list_of_shippings?search=CMU&sort=date_start&o
 
 Updated plotting to take a list of processes. 
 - [ ] Simplify ttbar config
+- failed b/c I use list of lists...
+
+Some [[The problems of philosophy]]
+Some [[Life and Fate]]
