@@ -95,7 +95,7 @@ https://cmsr-shipment.web.cern.ch/list_of_shippings?search=CMU&sort=date_start&o
 # [[HGCManagementMeeting 28 January 2025]]
 
 Updated plotting to take a list of processes. 
-- [ ] Simplify ttbar config
+- [>>] Simplify ttbar config
 - failed b/c I use list of lists...
 
 Some [[The problems of philosophy]]

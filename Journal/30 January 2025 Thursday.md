@@ -10,8 +10,8 @@
 | 12  | Gym               |     |
 |     | Gym               |     |
 | 1   | Gym               |     |
-|     |                   |     |
-| 2   |                   |     |
+|     | Applications      |     |
+| 2   | Wes Thesis        |     |
 |     | Office Hours      |     |
 | 3   | Office Hours      |     |
 |     |                   |     |
@@ -32,8 +32,14 @@
 
 - [ ] Wes Application
 - [ ] Write [[Wesley Terrill Letter Spring 25]]
-- [ ] Look at Prospective Applications
-- [ ] 
+- [x] Look at Prospective Applications
+- [ ] Wes's Thesis
+- [ ] Buy High Voltage Power Supplies
+- [ ]  Synthetic data Plots in SB 
+- [ ] Read [[Evolution of Silicon Sensor Technology in Particle Physics]] !!!
+- [ ] Call Liberty mutual re:tree down
+- [ ]  Apply to fall Osher
+- [ ] Debug truth v4j
 
 ---
 
@@ -46,4 +52,23 @@ Fast Day 4!
 [[Wesley Terrill Letter Spring 25]]
 
 # FBC
-- [ ] Train 
+- [ ] Closure on the Synthetic datasets
+- Discussion re:nJets and ttbar
+
+# Taught
+- Paradoxes... Understand twin paradox much better this year
+
+# Stats Chat
+- Discussion about how to properly compute the null
+
+# Gym/Steamroom
+- core / press / back squat / pull-ups
+- 10' at Tmax = 120
+
+Browsed prospectives 
+
+
+
+---
+# Office Hours
+ - [ ] Post HW 3 (Due 14th)

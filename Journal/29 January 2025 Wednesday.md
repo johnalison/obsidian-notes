@@ -18,10 +18,10 @@
 | 4   | bbWW             |     |
 |     | bbWW             |     |
 
-**W:**
-**DW:**
-**OT:**
-**ex** or **No ex**
+**W:** 6 
+**DW:** 3 
+**OT:** 2 
+**ex** 
 
 ---
 # The ONE thing: 
@@ -30,7 +30,7 @@
 ---
 # To Do
 
-- [ ] Post HW 3 (Due 14th)
+- [>>] Post HW 3 (Due 14th)
 - [x] Sam Letter 
 - [ ] Wes's Thesis
 - [ ] Buy High Voltage Power Supplies
