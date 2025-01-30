@@ -7,9 +7,9 @@
 |     | Teaching          |     |
 | 11  | Stats Chat        |     |
 |     | Stats Chat        |     |
-| 12  |                   |     |
-|     |                   |     |
-| 1   |                   |     |
+| 12  | Gym               |     |
+|     | Gym               |     |
+| 1   | Gym               |     |
 |     |                   |     |
 | 2   |                   |     |
 |     | Office Hours      |     |
