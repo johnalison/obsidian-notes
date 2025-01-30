@@ -1,22 +1,22 @@
 
-|     |                   |     |
-| --- | ----------------- | --- |
-| 9   | HH4b              |     |
-|     | HH4b              |     |
-| 10  | Teaching          |     |
-|     | Teaching          |     |
-| 11  | Stats Chat        |     |
-|     | Stats Chat        |     |
-| 12  | Gym               |     |
-|     | Gym               |     |
-| 1   | Gym               |     |
-|     | Applications      |     |
-| 2   | Wes Thesis        |     |
-|     | Office Hours      |     |
-| 3   | Office Hours      |     |
-|     |                   |     |
-| 4   | Chat Prospectives |     |
-|     |                   |     |
+|     |                        |     |
+| --- | ---------------------- | --- |
+| 9   | HH4b                   |     |
+|     | HH4b                   |     |
+| 10  | Teaching               |     |
+|     | Teaching               |     |
+| 11  | Stats Chat             |     |
+|     | Stats Chat             |     |
+| 12  | Gym                    |     |
+|     | Gym                    |     |
+| 1   | Gym                    |     |
+|     | Applications           |     |
+| 2   | Wes Thesis             |     |
+|     | Office Hours           |     |
+| 3   | Office Hours           |     |
+|     |                        |     |
+| 4   | Chat Prospectives      |     |
+|     | Leave Early ... POKER! |     |
 
 **W:**
 **DW:**
@@ -67,8 +67,6 @@ Fast Day 4!
 
 Browsed prospectives 
 
-
-
----
 # Office Hours
- - [ ] Post HW 3 (Due 14th)
+ - [x] Post HW 3 (Due 14th)
+- 
