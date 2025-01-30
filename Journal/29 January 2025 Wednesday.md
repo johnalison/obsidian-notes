@@ -32,7 +32,7 @@
 
 - [ ] Post HW 3 (Due 14th)
 - [x] Sam Letter 
-- [ ]  Wes's Thesis
+- [ ] Wes's Thesis
 - [ ] Buy High Voltage Power Supplies
 - [ ]  Synthetic data Plots in SB 
 - [ ] Read [[Evolution of Silicon Sensor Technology in Particle Physics]] !!!
@@ -84,3 +84,5 @@ Home with M & T
 # RIP Tom LeCompte 
 
 Another 1900 for the tree ... 1300 goes to Connor
+
+Some more work on Wes' statement
