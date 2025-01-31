@@ -5,14 +5,14 @@
 |     | Teaching              |     |
 | 10  | Chuyuan Annual Review |     |
 |     | Chuyuan Annual Review |     |
-| 11  |                       |     |
-|     |                       |     |
+| 11  | Chat AE               |     |
+|     | Wes Statement         |     |
 | 12  | Hoops                 |     |
 |     | Hoops                 |     |
 | 1   | Hoops                 |     |
 |     | Hoops                 |     |
 | 2   | CMU 4b                |     |
-|     |                       |     |
+|     | Reply to              |     |
 | 3   | CMU CMS               |     |
 |     |                       |     |
 | 4   | Chat Any Liu          |     |
@@ -25,7 +25,7 @@
 
 ---
 # The ONE thing: 
-- [ ] 
+- [ ] Wes Statement
 
 ---
 # To Do
@@ -51,3 +51,7 @@ setup
 - ended early
 
 [[Chuyuan Annual Review Spring 2025]]
+- [x] Mail CL re summary
+- [ ] CL annual review report
+
+
