@@ -14,7 +14,7 @@
 | 2   | CMU 4b                |     |
 |     | Reply to              |     |
 | 3   | CMU CMS               |     |
-|     |                       |     |
+|     | Chat AE / SM          |     |
 | 4   | Chat Any Liu          |     |
 |     |                       |     |
 
