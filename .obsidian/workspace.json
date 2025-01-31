@@ -69,16 +69,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/31 January 2025 Friday.md",
+                "file": "0-inbox/Chuyuan Annual Review Spring 2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "31 January 2025 Friday"
+              "title": "Chuyuan Annual Review Spring 2025"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/30 January 2025 Thursday.md",
+                "file": "0-inbox/Chuyuan Annual Review Spring 2025.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 30 January 2025 Thursday"
+              "title": "Backlinks for Chuyuan Annual Review Spring 2025"
             }
           },
           {
@@ -169,12 +169,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/30 January 2025 Thursday.md",
+                "file": "0-inbox/Chuyuan Annual Review Spring 2025.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 30 January 2025 Thursday"
+              "title": "Outgoing links from Chuyuan Annual Review Spring 2025"
             }
           },
           {
@@ -196,10 +196,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/30 January 2025 Thursday.md"
+                "file": "0-inbox/Chuyuan Annual Review Spring 2025.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 30 January 2025 Thursday"
+              "title": "Outline of Chuyuan Annual Review Spring 2025"
             }
           },
           {
@@ -231,13 +231,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3b7693b655fd09fa",
+  "active": "c01c0e4b39446d3e",
   "lastOpenFiles": [
     "Journal/31 January 2025 Friday.md",
+    "0-inbox/Chuyuan Annual Review Spring 2025.md",
     "Journal/30 January 2025 Thursday.md",
+    "Journal/January 2025.md",
     "Journal/29 January 2025 Wednesday.md",
     "1-projects/Mixed2.0/Change in ZH sensitivity.md",
-    "Journal/January 2025.md",
     "Journal/28 January 2025 Tuesday.md",
     "Journal/27 January 2025 Monday.md",
     "Journal/26 January 2025 Sunday.md",
@@ -258,7 +259,6 @@
     "Journal/14 January 2025 Tuesday.md",
     "Input/Meetings/MAC meeting 22 January 2025.md",
     "0-inbox/HGC Links.md",
-    "0-inbox/CMU HGC MAC Meeting 28 January 2025.md",
     "Untitled.canvas",
     "1-projects/Mixed2.0/#Run3 Synthetic Data.md#",
     "Journal/#January.md#",

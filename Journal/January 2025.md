@@ -29,5 +29,5 @@
 | 27 M | (Fast) (No Cyert) Taught / ZH sensitivity solved / Home / Reclustering / BCR!      | 6/4/4 |
 | 28 T | (Fast) pass L3 review / New ARC 3-top / Wes application/ iSURF/                    | 6/2/2 |
 | 29 W | (Fast) Taught / Wes Application/ **Hoops** / More application / RIP TLC            | 6/3/2 |
-| 30 H | (Fast) (Poker)                                                                     |       |
+| 30 H | (Fast) (Poker) Taught / **Gym/SR** / Admissions Chat / **Broke Fast** / Clays      | 6/3/1 |
 | 31 F | (Chuyuan Annual Review)                                                            |       |

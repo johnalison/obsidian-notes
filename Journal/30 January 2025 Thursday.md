@@ -18,10 +18,10 @@
 | 4   | Chat Prospectives      |     |
 |     | Leave Early ... POKER! |     |
 
-**W:**
-**DW:**
-**OT:**
-**ex** or **No ex**
+**W:** 6 
+**DW:** 3
+**OT:** 1
+**ex** 
 
 ---
 # The ONE thing: 

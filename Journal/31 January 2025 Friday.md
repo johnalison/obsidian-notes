@@ -43,3 +43,11 @@
 Up at 6:50 
 
 M & T School 
+
+setup 
+
+# Taught
+- Homework problems 
+- ended early
+
+[[Chuyuan Annual Review Spring 2025]]
