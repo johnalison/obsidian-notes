@@ -54,4 +54,8 @@ setup
 - [x] Mail CL re summary
 - [ ] CL annual review report
 
+Working Wes application
+
+# Hoops 
+- 5s good passing. Good takes. Good D. Missed some gimmies
 
