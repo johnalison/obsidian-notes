@@ -32,12 +32,13 @@
 
 - [ ] Do [[ProgressReport 31 January 2025]]
 - [ ] Closure Test with Run-2 Synthetic data
-- [ ] Ping Jeremey re:Statement of Work
+- [x] Ping Jeremey re:Statement of Work
 - [ ] Write [[Wesley Terrill Letter Spring 25]]
 - [ ] Close on Debug truth v4j
 - [x] Iterate on Wes' statement
 - [ ] Review January 
 - [ ] Setup February
+- [ ] Look at more HGC applications
 
 ---
 
@@ -70,4 +71,9 @@ Working Wes application
 
 # CMU CMS
 - Andrew: HGC work. Move to Kria. 
-- Peter: 
+- Long discussion of politics 
+
+What is it that we know about organizing society / government with 95% CL ?
+- This the government should do.
+- Everything else it should not. 
+
