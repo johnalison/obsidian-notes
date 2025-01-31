@@ -30,8 +30,8 @@
 ---
 # To Do
 
-- [ ] Wes Application
-- [ ] Write [[Wesley Terrill Letter Spring 25]]
+- [x] Wes Application
+- [>>] Write [[Wesley Terrill Letter Spring 25]]
 - [x] Look at Prospective Applications
 - [ ] Wes's Thesis
 - [ ] Buy High Voltage Power Supplies
@@ -39,7 +39,7 @@
 - [ ] Read [[Evolution of Silicon Sensor Technology in Particle Physics]] !!!
 - [ ] Call Liberty mutual re:tree down
 - [ ]  Apply to fall Osher
-- [ ] Debug truth v4j
+- [>>] Debug truth v4j
 
 ---
 
@@ -51,8 +51,8 @@ Fast Day 4!
 
 [[Wesley Terrill Letter Spring 25]]
 
-# FBC
-- [ ] Closure on the Synthetic datasets
+# FBC2
+- [>>] Closure on the Synthetic datasets
 - Discussion re:nJets and ttbar
 
 # Taught
@@ -69,4 +69,19 @@ Browsed prospectives
 
 # Office Hours
  - [x] Post HW 3 (Due 14th)
-- 
+
+Need to wait to get SOW to buy the power supplies
+
+# Chat re:Admissions
+- Will admit 6 
+
+Home w/M & T 
+
+# Broke Fast... so good
+
+# To Clays
+- No poker. only me Clay and Steve
+- Gem game: good / Word association card game (not bad)
+
+Some [[Life and Fate]]
+

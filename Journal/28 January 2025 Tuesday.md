@@ -55,7 +55,7 @@ Bought Herwig Gift
 To Campus
 
 # Chat with Wes
-- Chat with Zoltan: how many 3-4 / when ?
+- Chat with Zoltan:
 - Due Feb 6th / 
 - [x] Review statement
 - SoS : peter rederived binning 
