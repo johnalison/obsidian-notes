@@ -35,7 +35,10 @@
 - [ ] Ping Jeremey re:Statement of Work
 - [ ] Write [[Wesley Terrill Letter Spring 25]]
 - [ ] Close on Debug truth v4j
-- [ ] 
+- [x] Iterate on Wes' statement
+- [ ] Review January 
+- [ ] Setup February
+
 ---
 
 # Log
@@ -59,3 +62,12 @@ Working Wes application
 # Hoops 
 - 5s good passing. Good takes. Good D. Missed some gimmies
 
+# 4b Chat
+- CL some nice SvB Studies ... Working on new backgrund fit
+- AE: Still dont understand klambda fits
+- JA: will make 15x synthetic data and try to run the closure
+- Will get instructions on friend trees from AE and fitting FvT from CL
+
+# CMU CMS
+- Andrew: HGC work. Move to Kria. 
+- Peter: 
