@@ -55,16 +55,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/ProgressReport 31 January 2025.md",
+                "file": "Journal/1 February 2025 Saturday.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ProgressReport 31 January 2025"
+              "title": "1 February 2025 Saturday"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -137,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/Wesley Terrill Letter Spring 25.md",
+                "file": "Input/Books/Books.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +146,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Wesley Terrill Letter Spring 25"
+              "title": "Backlinks for Books"
             }
           },
           {
@@ -156,12 +155,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/Wesley Terrill Letter Spring 25.md",
+                "file": "Input/Books/Books.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Wesley Terrill Letter Spring 25"
+              "title": "Outgoing links from Books"
             }
           },
           {
@@ -183,10 +182,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/Wesley Terrill Letter Spring 25.md"
+                "file": "Input/Books/Books.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Wesley Terrill Letter Spring 25"
+              "title": "Outline of Books"
             }
           },
           {
@@ -218,12 +217,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0ea810e27438cc13",
+  "active": "3b7693b655fd09fa",
   "lastOpenFiles": [
-    "Output/Recommendation  Letters/Wesley Terrill Letter Spring 22.md",
-    "0-inbox/Wesley Terrill Letter Spring 25.md",
     "Journal/1 February 2025 Saturday.md",
     "0-inbox/Are Men and Women Different?.md",
+    "0-inbox/ProgressReport 31 January 2025.md",
+    "0-inbox/Wesley Terrill Letter Spring 25.md",
+    "Output/Recommendation  Letters/Wesley Terrill Letter Spring 22.md",
     "Journal/January 2025.md",
     "Input/Books/Books.md",
     "Journal/31 January 2025 Friday.md",
@@ -245,7 +245,6 @@
     "Journal/January 2025/16 January 2025 Thursday.md",
     "Journal/January 2025/15 January 2025 Wednesday.md",
     "Journal/January 2025/14 January 2025 Tuesday.md",
-    "Journal/January 2025/13 January 2025 Monday.md",
     "Journal/January 2025",
     "Journal/#February 2025.md#",
     "Untitled.canvas",
