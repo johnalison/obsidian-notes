@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Input/Books/Books.md",
+                "file": "Journal/1 February 2025 Saturday.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Books"
+              "title": "1 February 2025 Saturday"
             }
           },
           {
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Input/Books/Books.md",
+                "file": "Journal/1 February 2025 Saturday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Books"
+              "title": "Backlinks for 1 February 2025 Saturday"
             }
           },
           {
@@ -155,12 +155,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Input/Books/Books.md",
+                "file": "Journal/1 February 2025 Saturday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Books"
+              "title": "Outgoing links from 1 February 2025 Saturday"
             }
           },
           {
@@ -182,10 +182,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Input/Books/Books.md"
+                "file": "Journal/1 February 2025 Saturday.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Books"
+              "title": "Outline of 1 February 2025 Saturday"
             }
           },
           {
@@ -219,13 +219,14 @@
   },
   "active": "3b7693b655fd09fa",
   "lastOpenFiles": [
+    "Input/Books/Nexus.md",
+    "Input/Books/Books.md",
     "Journal/1 February 2025 Saturday.md",
     "0-inbox/Are Men and Women Different?.md",
     "0-inbox/ProgressReport 31 January 2025.md",
     "0-inbox/Wesley Terrill Letter Spring 25.md",
     "Output/Recommendation  Letters/Wesley Terrill Letter Spring 22.md",
     "Journal/January 2025.md",
-    "Input/Books/Books.md",
     "Journal/31 January 2025 Friday.md",
     "Journal/January 2025/31 January 2025 Friday.md",
     "Journal/January 2025/30 January 2025 Thursday.md",
@@ -244,7 +245,6 @@
     "Journal/January 2025/17 January 2025 Friday.md",
     "Journal/January 2025/16 January 2025 Thursday.md",
     "Journal/January 2025/15 January 2025 Wednesday.md",
-    "Journal/January 2025/14 January 2025 Tuesday.md",
     "Journal/January 2025",
     "Journal/#February 2025.md#",
     "Untitled.canvas",

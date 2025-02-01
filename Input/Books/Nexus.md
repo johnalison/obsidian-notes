@@ -7,7 +7,7 @@ Yuval Noah Harari
 
 ## Prologue
 
--)  The lesson to the apprentice -- and to humanity -- is clear: never summon powers you cannot control
+- Never summon powers you cannot control
 
 -) The tendency to create powerful things with unintended consequesnces started not with the invention of the steam engine or AI but with the invention of religion
 
