@@ -65,8 +65,8 @@ Against Libertarinism:
 - https://vitalik.eth.limo/general/2025/01/05/dacc2.html
 
 
-Wes' thesis => 
-[[Evolution of Silicon Sensor Technology in Particle Physics]]
+[[Wesley Terrill Thesis]] ==>
+	[[Evolution of Silicon Sensor Technology in Particle Physics]]
 
 Home with kids
 

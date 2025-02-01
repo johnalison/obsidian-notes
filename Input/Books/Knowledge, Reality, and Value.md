@@ -1,4 +1,4 @@
-Great!  Entertaining and Educational. Reminds me of [[Everything and More]]
+Great!  Entertaining and Educational. The tone reminds me of [[Everything and More]]
 Very good general introduction to Philosophy. 
 
 Focuses on the implications of the "common sense" intuitions of the first-person self. 
