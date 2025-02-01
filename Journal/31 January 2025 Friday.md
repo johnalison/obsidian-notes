@@ -1,27 +1,27 @@
 
-|     |                       |     |
-| --- | --------------------- | --- |
-| 9   | Teaching              |     |
-|     | Teaching              |     |
-| 10  | Chuyuan Annual Review |     |
-|     | Chuyuan Annual Review |     |
-| 11  | Chat AE               |     |
-|     | Wes Statement         |     |
-| 12  | Hoops                 |     |
-|     | Hoops                 |     |
-| 1   | Hoops                 |     |
-|     | Hoops                 |     |
-| 2   | CMU 4b                |     |
-|     | Reply to              |     |
-| 3   | CMU CMS               |     |
-|     | Chat AE / SM          |     |
-| 4   | Chat Any Liu          |     |
-|     |                       |     |
+|     |                                         |     |
+| --- | --------------------------------------- | --- |
+| 9   | Teaching                                |     |
+|     | Teaching                                |     |
+| 10  | Chuyuan Annual Review                   |     |
+|     | Chuyuan Annual Review                   |     |
+| 11  | Chat AE                                 |     |
+|     | Wes Statement                           |     |
+| 12  | Hoops                                   |     |
+|     | Hoops                                   |     |
+| 1   | Hoops                                   |     |
+|     | Hoops                                   |     |
+| 2   | CMU 4b                                  |     |
+|     | Reply to Evan                           |     |
+| 3   | CMU CMS                                 |     |
+|     | Chat AE / SM                            |     |
+| 4   | Chat Any Liu                            |     |
+|     | Some [[ProgressReport 31 January 2025]] |     |
 
-**W:**
-**DW:**
-**OT:**
-**ex** or **No ex**
+**W:** 6
+**DW:** 2
+**OT:** 0
+**ex** 
 
 ---
 # The ONE thing: 
@@ -33,11 +33,11 @@
 - [x] Do [[ProgressReport 31 January 2025]]
 - [ ] Closure Test with Run-2 Synthetic data
 - [x] Ping Jeremey re:Statement of Work
-- [ ] Write [[Wesley Terrill Letter Spring 25]]
+- [>>] Write [[Wesley Terrill Letter Spring 25]]
 - [ ] Close on Debug truth v4j
 - [x] Iterate on Wes' statement
-- [ ] Review January 
-- [ ] Setup February
+- [>>] Review January 
+- [>>] Setup February
 - [ ] Look at more HGC applications
 
 ---
@@ -56,7 +56,7 @@ setup
 
 [[Chuyuan Annual Review Spring 2025]]
 - [x] Mail CL re summary
-- [ ] CL annual review report
+- [>>]  CL annual review report
 
 Working Wes application
 
@@ -79,4 +79,9 @@ What is it that we know about organizing society/government with overwhelming co
 
 Home with M&T
 
+More wes application
+
 Did [[ProgressReport 31 January 2025]]
+
+Some [[Life and Fate]]
+Some [[The problems of philosophy]]

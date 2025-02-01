@@ -3,9 +3,9 @@
 - [x] 13th Classes start 
 
 # Februrary
-- [ ] Aishik Ghosh visit (Feb 5th)
-- [ ] 17th no cyert
-- [ ] 28th Career day at ECS
+- [x] Aishik Ghosh visit (Feb 5th)
+- [x] 17th no cyert
+- [x] 28th Career day at ECS
 
 # March 
 - [ ] 3rd Spring Break 

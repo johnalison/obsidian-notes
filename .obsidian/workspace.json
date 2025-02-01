@@ -22,17 +22,45 @@
             }
           },
           {
+            "id": "643168335d63ddc0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Journal/1 January 2025 Wednesday.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1 January 2025 Wednesday"
+            }
+          },
+          {
             "id": "a53bfe1b69be06bc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/January 2025.md",
+                "file": "Journal/Future Log.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "January 2025"
+              "title": "Future Log"
+            }
+          },
+          {
+            "id": "0ea810e27438cc13",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Journal/1 February 2025 Saturday.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1 February 2025 Saturday"
             }
           },
           {
@@ -48,22 +76,9 @@
               "icon": "lucide-file",
               "title": "ProgressReport 31 January 2025"
             }
-          },
-          {
-            "id": "0ea810e27438cc13",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0-inbox/ProgressReport 31 January 2025.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ProgressReport 31 January 2025"
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -136,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/Wesley Terrill Letter Spring 25.md",
+                "file": "Journal/1 January 2025 Wednesday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +161,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Wesley Terrill Letter Spring 25"
+              "title": "Backlinks for 1 January 2025 Wednesday"
             }
           },
           {
@@ -155,12 +170,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/Wesley Terrill Letter Spring 25.md",
+                "file": "Journal/1 January 2025 Wednesday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Wesley Terrill Letter Spring 25"
+              "title": "Outgoing links from 1 January 2025 Wednesday"
             }
           },
           {
@@ -182,10 +197,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/Wesley Terrill Letter Spring 25.md"
+                "file": "Journal/1 January 2025 Wednesday.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Wesley Terrill Letter Spring 25"
+              "title": "Outline of 1 January 2025 Wednesday"
             }
           },
           {
@@ -217,16 +232,22 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3b7693b655fd09fa",
+  "active": "643168335d63ddc0",
   "lastOpenFiles": [
     "Journal/31 January 2025 Friday.md",
+    "Journal/1 February 2025 Saturday.md",
+    "Journal/Future Log.md",
+    "Journal/February 2025.md",
+    "Journal/3 February 2025 Monday.md",
+    "Journal/#February 2025.md#",
+    "Journal/BulletJournalProtocol.md",
+    "Journal/January 2025.md",
+    "0-inbox/ProgressReport 31 January 2025.md",
+    "0-inbox/Wesley Terrill Letter Spring 25.md",
     "Journal/30 January 2025 Thursday.md",
     "Input/Meetings/MAC meeting 22 January 2025.md",
     "Journal/29 January 2025 Wednesday.md",
-    "Journal/January 2025.md",
-    "0-inbox/ProgressReport 31 January 2025.md",
     "0-inbox/Wesley Terrill Thesis.md",
-    "0-inbox/Wesley Terrill Letter Spring 25.md",
     "Journal/ToDo.md",
     "0-inbox/StartupSpending.md",
     "0-inbox/Snakemake tutorial.md",
@@ -240,11 +261,6 @@
     "Input/Meetings/HGCManagementMeeting 28 January 2025.md",
     "1-projects/HGC/HGC Links.md",
     "2-areas/CMU/Comments on Wes' Postdoc Application.md",
-    "Input/Meetings/CMU HGC MAC Meeting 28 January 2025.md",
-    "Input/Meetings/Chuyuan Annual Review Spring 2025.md",
-    "2-areas/CMS/ARC TOP-24-006 3 top production.md",
-    "0-inbox/Ann Arbor Trip 2025.md",
-    "1-projects/Mixed2.0/Change in ZH sensitivity.md",
     "Untitled.canvas",
     "1-projects/Mixed2.0/#Run3 Synthetic Data.md#",
     "Journal/#January.md#",
@@ -255,7 +271,6 @@
     "Journal/2024/August",
     "Journal/2024",
     "Journal/2024/December",
-    "3-resources/crypto",
     "attachments/ModuleAssemblyPersonel.png",
     "attachments/Pasted image 20240826220009.png",
     "attachments/Pasted image 20240826215955.png",
