@@ -43,7 +43,7 @@
 
 # Log
 
-up at 6:50
+Up at 6:50
 - Start meditating at 6:30 ?
 
 M & T to school
@@ -75,11 +75,10 @@ Van has hole in tire ~~-$200~~ (only $40 !!!)
 
 # Chat CL
 - JCM different
-- will ping people for annual review
+- Will ping people for annual review
 
 # Chat Sindhu 
 - Discussed p-values 
-
 
 # MCS townhall 
 - not very useful

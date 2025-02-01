@@ -65,7 +65,7 @@ Pinged Rachel re:Aishik Ghosh
 
 # Faculty Meeting 
 - Jeff back, seems good
-- 22 pass / 5 pass
+- Orals: 22 pass / 5 fail
 - [x] Iterate with Aniket
 
 # Systems/Goals [[Spring 2025]]

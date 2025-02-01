@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/8 January 2025 Wednesday.md",
+                "file": "Journal/22 January 2025 Wednesday.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "8 January 2025 Wednesday"
+              "title": "22 January 2025 Wednesday"
             }
           },
           {
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/8 January 2025 Wednesday.md",
+                "file": "Journal/22 January 2025 Wednesday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 8 January 2025 Wednesday"
+              "title": "Backlinks for 22 January 2025 Wednesday"
             }
           },
           {
@@ -170,12 +170,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/8 January 2025 Wednesday.md",
+                "file": "Journal/22 January 2025 Wednesday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 8 January 2025 Wednesday"
+              "title": "Outgoing links from 22 January 2025 Wednesday"
             }
           },
           {
@@ -197,10 +197,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/8 January 2025 Wednesday.md"
+                "file": "Journal/22 January 2025 Wednesday.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 8 January 2025 Wednesday"
+              "title": "Outline of 22 January 2025 Wednesday"
             }
           },
           {
@@ -234,6 +234,20 @@
   },
   "active": "643168335d63ddc0",
   "lastOpenFiles": [
+    "Journal/21 January 2025 Tuesday.md",
+    "Journal/20 January 2025 Monday.md",
+    "Journal/19 January 2025 Sunday.md",
+    "Journal/18 January 2025 Saturday.md",
+    "Journal/17 January 2025 Friday.md",
+    "Journal/16 January 2025 Thursday.md",
+    "Journal/15 January 2025 Wednesday.md",
+    "Journal/14 January 2025 Tuesday.md",
+    "Journal/13 January 2025 Monday.md",
+    "Journal/12 January 2025 Sunday.md",
+    "Journal/11 January 2025 Saturday.md",
+    "Journal/10 January 2025 Friday.md",
+    "Journal/9 January 2025 Thursday.md",
+    "Journal/8 January 2025 Wednesday.md",
     "Journal/7 January 2025 Tuesday.md",
     "Journal/6 January 2025 Monday.md",
     "Journal/5 January 2025 Sunday.md",
@@ -247,20 +261,6 @@
     "Journal/February 2025.md",
     "Journal/3 February 2025 Monday.md",
     "Journal/#February 2025.md#",
-    "Journal/BulletJournalProtocol.md",
-    "Journal/January 2025.md",
-    "0-inbox/ProgressReport 31 January 2025.md",
-    "0-inbox/Wesley Terrill Letter Spring 25.md",
-    "Journal/30 January 2025 Thursday.md",
-    "Input/Meetings/MAC meeting 22 January 2025.md",
-    "Journal/29 January 2025 Wednesday.md",
-    "0-inbox/Wesley Terrill Thesis.md",
-    "Journal/ToDo.md",
-    "0-inbox/StartupSpending.md",
-    "0-inbox/Snakemake tutorial.md",
-    "1-projects/HH4b/Run3 HH4b Cutflow Challenge.md",
-    "0-inbox/Run2 X->HY->4b.md",
-    "2-areas/Philosophy/Outstanding Questions.md",
     "Untitled.canvas",
     "1-projects/Mixed2.0/#Run3 Synthetic Data.md#",
     "Journal/#January.md#",

@@ -67,7 +67,7 @@ Ankle really hurting
 - [x] Send crypto links
 	[[CryptoLinks]]
 	[[CryptoBottomLine]]
-- Another background fit in th eSR
+- Another background fit in the SR
 
 
 More Adding Run3CI.. see above
