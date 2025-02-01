@@ -33,7 +33,7 @@
 [>>] Read ADA text
 - [x] VARs
 - [x] Mail re:OSHER 3
-([[Todo]]) [<<] Workstudy Lab hand
+([[ToDo]]) [<<] Workstudy Lab hand
 [>>]  Work [[Run2 HH4b AN]]
 	  [>>] Mixed data summary plots
  [>>] Read HGC TDR

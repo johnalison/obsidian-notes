@@ -25,12 +25,12 @@
 
 ---
 # The ONE thing: 
-- [ ] Wes Statement
+- [x] Wes Statement
 
 ---
 # To Do
 
-- [ ] Do [[ProgressReport 31 January 2025]]
+- [x] Do [[ProgressReport 31 January 2025]]
 - [ ] Closure Test with Run-2 Synthetic data
 - [x] Ping Jeremey re:Statement of Work
 - [ ] Write [[Wesley Terrill Letter Spring 25]]
@@ -73,7 +73,10 @@ Working Wes application
 - Andrew: HGC work. Move to Kria. 
 - Long discussion of politics 
 
-What is it that we know about organizing society / government with 95% CL ?
-- This the government should do.
+What is it that we know about organizing society/government with overwhelming confidence ?
+- These are the things that government can do
 - Everything else it should not. 
 
+Home with M&T
+
+Did [[ProgressReport 31 January 2025]]
