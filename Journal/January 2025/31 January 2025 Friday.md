@@ -54,7 +54,7 @@ setup
 - Homework problems 
 - ended early
 
-[[Chuyuan Annual Review Spring 2025]]
+# [[Chuyuan Annual Review Spring 2025]]
 - [x] Mail CL re summary
 - [>>]  CL annual review report
 

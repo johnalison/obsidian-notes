@@ -56,7 +56,7 @@ Fast Day 4!
 - Discussion re:nJets and ttbar
 
 # Taught
-- Paradoxes... Understand twin paradox much better this year
+- Paradoxes... Understand twin paradox much better this year!
 
 # Stats Chat
 - Discussion about how to properly compute the null
