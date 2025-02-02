@@ -25,3 +25,6 @@ Reviewed January
 
 Working [[Wesley Terrill Letter Spring 25]]
 
+Finished [[The problems of philosophy]]
+
+Started [[Fly By Night Physics]]
