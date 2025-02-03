@@ -4,8 +4,8 @@
 
 - [x] Review January 
 - [x] Setup February
-- [ ] CL annual review report
-- [ ] Write [[Wesley Terrill Letter Spring 25]]
+- [>>] CL annual review report
+- [>>] Write [[Wesley Terrill Letter Spring 25]]
 
 
 ---

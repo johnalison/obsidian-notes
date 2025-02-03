@@ -31,14 +31,14 @@
 # To Do
 
 - [x] Do [[ProgressReport 31 January 2025]]
-- [ ] Closure Test with Run-2 Synthetic data
+- [>>] Closure Test with Run-2 Synthetic data
 - [x] Ping Jeremey re:Statement of Work
 - [>>] Write [[Wesley Terrill Letter Spring 25]]
-- [ ] Close on Debug truth v4j
+- [>>] Close on Debug truth v4j
 - [x] Iterate on Wes' statement
 - [>>] Review January 
 - [>>] Setup February
-- [ ] Look at more HGC applications
+- [>>] Look at more HGC applications
 
 ---
 

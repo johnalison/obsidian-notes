@@ -1,23 +1,23 @@
 # ACTION:  Aishik Ghosh visit (Feb 5th)
 
-|     |           |     |
-| --- | --------- | --- |
-| 9   | Teaching  |     |
-|     | Teaching  |     |
-| 10  |           |     |
-|     |           |     |
-| 11  |           |     |
-|     |           |     |
-| 12  | Hoops     |     |
-|     | Hoops     |     |
-| 1   | Hoops     |     |
-|     | Hoops     |     |
-| 2   |           |     |
-|     | Sindhu    |     |
-| 3   |           |     |
-|     | Colloq    |     |
-| 4   | Colloq    |     |
-|     | Reception |     |
+|     | setup                     |     |
+| --- | ------------------------- | --- |
+| 9   | Teaching                  |     |
+|     | Teaching                  |     |
+| 10  | Friend Trees for FvT Fits |     |
+|     | Friend Trees for FvT Fits |     |
+| 11  | Friend Trees for FvT Fits |     |
+|     | Friend Trees for FvT Fits |     |
+| 12  | Hoops                     |     |
+|     | Hoops                     |     |
+| 1   | Hoops                     |     |
+|     | Hoops                     |     |
+| 2   | CMU CMS                   |     |
+|     | CMU CMS                   |     |
+| 3   |                           |     |
+|     | Colloq                    |     |
+| 4   | Colloq                    |     |
+|     | Reception                 |     |
 
 **W:**
 **DW:**
@@ -32,7 +32,7 @@
 # To Do
 
 - [ ]  Send mails re:Aishik Ghosh visit
-- [ ] Wes Letter
+- [ ] Write [[Wesley Terrill Letter Spring 25]]
 - [ ] Sam proposal
 - [ ] Wes's Thesis
 - [ ] Buy High Voltage Power Supplies
@@ -40,9 +40,18 @@
 - [ ] Read [[Evolution of Silicon Sensor Technology in Particle Physics]] !!!
 - [ ] Call Liberty mutual re:tree down
 - [ ]  Apply to fall Osher
-- [ ]  Friend Trees for FvT Fits
-- [ ] Verrify Stats chat time
-
+- [ ] Closure Test with Run-2 Synthetic data
+	- [ ]  Friend Trees for FvT Fits
+- [x] Verify Stats chat time
+- [ ] Close on Debug truth v4j
+- [ ] Look at more HGC applications
+- [ ] CL annual review report
+- [x] Move on Ornella
 ---
 
 # Log
+
+
+# Taught 
+- Muons at the surface of the earth
+- Doppler effect
