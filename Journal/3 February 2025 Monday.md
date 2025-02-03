@@ -31,7 +31,7 @@
 ---
 # To Do
 
-- [ ]  Send mails re:Aishik Ghosh visit
+- [x]  Send mails re:Aishik Ghosh visit
 - [ ] Write [[Wesley Terrill Letter Spring 25]]
 - [ ] Sam proposal
 - [ ] Wes's Thesis
@@ -41,7 +41,7 @@
 - [ ] Call Liberty mutual re:tree down
 - [ ]  Apply to fall Osher
 - [ ] Closure Test with Run-2 Synthetic data
-	- [ ]  Friend Trees for FvT Fits
+	- [x]  Friend Trees for FvT Fits
 - [x] Verify Stats chat time
 - [x] Close on Debug truth v4j
 - [x] Try Gaussian Kernal m4j again
@@ -72,7 +72,7 @@ Merging cut on status for genParticles.
 - `python runner.py -m metadata/datasets_HH4b.yml -c analysis/metadata/HH4b_classifier_inputs.yml -d synthetic_data -y UL16_preVFP UL16_postVFP UL17 UL18 -op output/ -o classifier_synthetic_data.coffea`
 - Had to set `top_reconstruction_override: fast`
 - Looks good... rerunning with output to `root://cmseos.fnal.gov//store/user/jda102/XX4b/2024_v1/`
-- Need to make inputs for the other data as well
+- Need to make inputs for the other data as well... Turns out I dont... CL has them already
 
 # Hoops
 - 5s good runs... Lots of wins
