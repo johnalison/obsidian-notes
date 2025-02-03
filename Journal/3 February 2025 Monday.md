@@ -82,4 +82,8 @@ Working Chuyuans Annual Review
 
 # Monday Meeting
 - AE: Practice Talk for CMS meeting
+
+# Colloq 
+- Membrane potential mediates the cellular response to mechanical pressure
+- Markus Basan
 - 
