@@ -43,7 +43,7 @@
 - [ ] Closure Test with Run-2 Synthetic data
 	- [ ]  Friend Trees for FvT Fits
 - [x] Verify Stats chat time
-- [ ] Close on Debug truth v4j
+- [x] Close on Debug truth v4j
 - [ ] Try Gaussian Kernal m4j again
 - [ ] Look at more HGC applications
 - [ ] CL annual review report
@@ -56,3 +56,12 @@
 # Taught 
 - Muons at the surface of the earth
 - Doppler effect
+
+Merging cut on status for genParticles.
+- Maybe this is why the gaussian kernal failed before... trying
+
+# Josh Arrives !!!
+
+# Testing the Gaussian Kernel 
+- Edit the processor by hand `self.gaussKernalMean = 600`
+- ` python runner.py  -o signal_m600.coffea -d ZZ4b ZH4b ggZH4b GluGluToHHTo4B_cHHH1 -p analysis/processors/processor_HH4b.py -y UL18  -op output/analysis_test_job -m metadata/datasets_HH4b.yml`
