@@ -56,7 +56,7 @@ To Campus
 
 # Chat with Wes
 - Chat with Zoltan:
-- Due Feb 6th / 
+- Due Feb 6th 
 - [x] Review statement
 - SoS : peter rederived binning 
 - Thesis defense in mid-April

@@ -18,3 +18,6 @@ H to basketball
 - Some [[Stubborn Attachments]]
 
 To Parents
+- More [[Stubborn Attachments]]
+
+Finished [[Stubborn Attachments]]

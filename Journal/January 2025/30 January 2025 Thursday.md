@@ -33,12 +33,12 @@
 - [x] Wes Application
 - [>>] Write [[Wesley Terrill Letter Spring 25]]
 - [x] Look at Prospective Applications
-- [ ] Wes's Thesis
-- [ ] Buy High Voltage Power Supplies
-- [ ]  Synthetic data Plots in SB 
-- [ ] Read [[Evolution of Silicon Sensor Technology in Particle Physics]] !!!
-- [ ] Call Liberty mutual re:tree down
-- [ ]  Apply to fall Osher
+- [>>] Wes's Thesis
+- [>>] Buy High Voltage Power Supplies
+- [>>] Synthetic data Plots in SB 
+- [>>] Read [[Evolution of Silicon Sensor Technology in Particle Physics]] !!!
+- [>>] Call Liberty mutual re:tree down
+- [>>]  Apply to fall Osher
 - [>>] Debug truth v4j
 
 ---
