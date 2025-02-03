@@ -72,4 +72,14 @@ Merging cut on status for genParticles.
 - `python runner.py -m metadata/datasets_HH4b.yml -c analysis/metadata/HH4b_classifier_inputs.yml -d synthetic_data -y UL16_preVFP UL16_postVFP UL17 UL18 -op output/ -o classifier_synthetic_data.coffea`
 - Had to set `top_reconstruction_override: fast`
 - Looks good... rerunning with output to `root://cmseos.fnal.gov//store/user/jda102/XX4b/2024_v1/`
+- Need to make inputs for the other data as well
+
+# Hoops
+- 5s good runs... Lots of wins
+
+Working Chuyuans Annual Review
+- [[Chuyuan Annual Review Spring 2025]]
+
+# Monday Meeting
+- AE: Practice Talk for CMS meeting
 - 

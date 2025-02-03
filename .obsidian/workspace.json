@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/3 February 2025 Monday.md",
+                "file": "Input/Meetings/Chuyuan Annual Review Spring 2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3 February 2025 Monday"
+              "title": "Chuyuan Annual Review Spring 2025"
             }
           },
           {
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/3 February 2025 Monday.md",
+                "file": "Input/Meetings/Chuyuan Annual Review Spring 2025.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 3 February 2025 Monday"
+              "title": "Backlinks for Chuyuan Annual Review Spring 2025"
             }
           },
           {
@@ -140,12 +140,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/3 February 2025 Monday.md",
+                "file": "Input/Meetings/Chuyuan Annual Review Spring 2025.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 3 February 2025 Monday"
+              "title": "Outgoing links from Chuyuan Annual Review Spring 2025"
             }
           },
           {
@@ -167,10 +167,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/3 February 2025 Monday.md"
+                "file": "Input/Meetings/Chuyuan Annual Review Spring 2025.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 3 February 2025 Monday"
+              "title": "Outline of Chuyuan Annual Review Spring 2025"
             }
           },
           {
@@ -204,22 +204,24 @@
   },
   "active": "a53bfe1b69be06bc",
   "lastOpenFiles": [
-    "Journal/February 2025.md",
+    "Output/Wesley Terrill Annual Review 2024.md",
+    "Input/Meetings/Chuyuan Annual Review Spring 2025.md",
     "Journal/3 February 2025 Monday.md",
+    "Journal/January 2025/31 January 2025 Friday.md",
+    "Journal/January 2025/28 January 2025 Tuesday.md",
+    "Journal/January 2025/27 January 2025 Monday.md",
+    "Journal/February 2025.md",
     "1-projects/Mixed2.0/Jet DeClustering.md",
     "Journal/January 2025/7 January 2025 Tuesday.md",
     "Journal/January 2025/6 January 2025 Monday.md",
     "Journal/January 2025/14 January 2025 Tuesday.md",
     "Journal/January 2025/21 January 2025 Tuesday.md",
     "Journal/2024/December/11 December 2024 Wednesday.md",
-    "Journal/January 2025/28 January 2025 Tuesday.md",
     "Journal/January 2025/29 January 2025 Wednesday.md",
     "Journal/2 February 2025 Sunday.md",
     "Journal/1 February 2025 Saturday.md",
     "0-inbox/Wesley Terrill Letter Spring 25.md",
-    "Journal/January 2025/31 January 2025 Friday.md",
     "Journal/January 2025/30 January 2025 Thursday.md",
-    "Journal/January 2025/27 January 2025 Monday.md",
     "Journal/January 2025/26 January 2025 Sunday.md",
     "Journal/January 2025/25 January 2025 Saturday.md",
     "Journal/January 2025.md",
@@ -228,8 +230,6 @@
     "0-inbox/Are Men and Women Different?.md",
     "0-inbox/ProgressReport 31 January 2025.md",
     "Output/Recommendation  Letters/Wesley Terrill Letter Spring 22.md",
-    "Journal/31 January 2025 Friday.md",
-    "Journal/January 2025/24 January 2025 Friday.md",
     "Journal/January 2025",
     "Journal/#February 2025.md#",
     "Untitled.canvas",
