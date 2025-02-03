@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/3 February 2025 Monday.md",
+                "file": "0-inbox/Wesley Terrill Letter Spring 25.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3 February 2025 Monday"
+              "title": "Wesley Terrill Letter Spring 25"
             }
           },
           {
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/3 February 2025 Monday.md",
+                "file": "0-inbox/Wesley Terrill Letter Spring 25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 3 February 2025 Monday"
+              "title": "Backlinks for Wesley Terrill Letter Spring 25"
             }
           },
           {
@@ -140,12 +140,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/3 February 2025 Monday.md",
+                "file": "0-inbox/Wesley Terrill Letter Spring 25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 3 February 2025 Monday"
+              "title": "Outgoing links from Wesley Terrill Letter Spring 25"
             }
           },
           {
@@ -167,10 +167,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/3 February 2025 Monday.md"
+                "file": "0-inbox/Wesley Terrill Letter Spring 25.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 3 February 2025 Monday"
+              "title": "Outline of Wesley Terrill Letter Spring 25"
             }
           },
           {
@@ -204,9 +204,9 @@
   },
   "active": "a53bfe1b69be06bc",
   "lastOpenFiles": [
+    "Journal/3 February 2025 Monday.md",
     "Input/Meetings/Chuyuan Annual Review Spring 2025.md",
     "Output/Wesley Terrill Annual Review 2024.md",
-    "Journal/3 February 2025 Monday.md",
     "Journal/January 2025/31 January 2025 Friday.md",
     "Journal/January 2025/28 January 2025 Tuesday.md",
     "Journal/January 2025/27 January 2025 Monday.md",
