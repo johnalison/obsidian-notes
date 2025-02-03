@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:",
+                "query": "gauss",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -101,8 +101,7 @@
               "title": "Files"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -205,15 +204,16 @@
   },
   "active": "a53bfe1b69be06bc",
   "lastOpenFiles": [
+    "Journal/2024/December/11 December 2024 Wednesday.md",
+    "Journal/January 2025/28 January 2025 Tuesday.md",
+    "Journal/January 2025/29 January 2025 Wednesday.md",
+    "Journal/3 February 2025 Monday.md",
     "Journal/February 2025.md",
     "Journal/2 February 2025 Sunday.md",
     "Journal/1 February 2025 Saturday.md",
-    "Journal/3 February 2025 Monday.md",
     "0-inbox/Wesley Terrill Letter Spring 25.md",
     "Journal/January 2025/31 January 2025 Friday.md",
     "Journal/January 2025/30 January 2025 Thursday.md",
-    "Journal/January 2025/29 January 2025 Wednesday.md",
-    "Journal/January 2025/28 January 2025 Tuesday.md",
     "Journal/January 2025/27 January 2025 Monday.md",
     "Journal/January 2025/26 January 2025 Sunday.md",
     "Journal/January 2025/25 January 2025 Saturday.md",
@@ -230,7 +230,6 @@
     "Journal/January 2025/21 January 2025 Tuesday.md",
     "Journal/January 2025/20 January 2025 Monday.md",
     "Journal/January 2025/19 January 2025 Sunday.md",
-    "Journal/January 2025/18 January 2025 Saturday.md",
     "Journal/January 2025",
     "Journal/#February 2025.md#",
     "Untitled.canvas",

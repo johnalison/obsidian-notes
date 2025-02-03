@@ -4,7 +4,7 @@
 | --- | ------------------------- | --- |
 | 9   | Teaching                  |     |
 |     | Teaching                  |     |
-| 10  | Friend Trees for FvT Fits |     |
+| 10  | Close on Debug truth v4j  |     |
 |     | Friend Trees for FvT Fits |     |
 | 11  | Friend Trees for FvT Fits |     |
 |     | Friend Trees for FvT Fits |     |
@@ -44,6 +44,7 @@
 	- [ ]  Friend Trees for FvT Fits
 - [x] Verify Stats chat time
 - [ ] Close on Debug truth v4j
+- [ ] Try Gaussian Kernal m4j again
 - [ ] Look at more HGC applications
 - [ ] CL annual review report
 - [x] Move on Ornella
