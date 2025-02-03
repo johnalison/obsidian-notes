@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Input/Meetings/Chuyuan Annual Review Spring 2025.md",
+                "file": "Journal/3 February 2025 Monday.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chuyuan Annual Review Spring 2025"
+              "title": "3 February 2025 Monday"
             }
           },
           {
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Input/Meetings/Chuyuan Annual Review Spring 2025.md",
+                "file": "Journal/3 February 2025 Monday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Chuyuan Annual Review Spring 2025"
+              "title": "Backlinks for 3 February 2025 Monday"
             }
           },
           {
@@ -140,12 +140,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Input/Meetings/Chuyuan Annual Review Spring 2025.md",
+                "file": "Journal/3 February 2025 Monday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Chuyuan Annual Review Spring 2025"
+              "title": "Outgoing links from 3 February 2025 Monday"
             }
           },
           {
@@ -167,10 +167,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Input/Meetings/Chuyuan Annual Review Spring 2025.md"
+                "file": "Journal/3 February 2025 Monday.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Chuyuan Annual Review Spring 2025"
+              "title": "Outline of 3 February 2025 Monday"
             }
           },
           {
@@ -204,8 +204,8 @@
   },
   "active": "a53bfe1b69be06bc",
   "lastOpenFiles": [
-    "Output/Wesley Terrill Annual Review 2024.md",
     "Input/Meetings/Chuyuan Annual Review Spring 2025.md",
+    "Output/Wesley Terrill Annual Review 2024.md",
     "Journal/3 February 2025 Monday.md",
     "Journal/January 2025/31 January 2025 Friday.md",
     "Journal/January 2025/28 January 2025 Tuesday.md",

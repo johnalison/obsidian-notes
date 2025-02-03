@@ -46,7 +46,7 @@
 - [x] Close on Debug truth v4j
 - [x] Try Gaussian Kernal m4j again
 - [ ] Look at more HGC applications
-- [ ] CL annual review report
+- [x] CL annual review report
 - [x] Move on Ornella
 ---
 
