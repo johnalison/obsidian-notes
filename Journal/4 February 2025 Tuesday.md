@@ -75,6 +75,16 @@ Package arrived with a bunch of fittings
 	User credential is not valid!
 - Works if I dont give the `-voms cms` 
 - CL says above error only b/c Im outside the container
-- container taking a while...
-- 
-`
+- container taking a while... I didnt hit enter !!
+- proxy all good inside the container.
+
+
+
+Some [[Wesley Terrill Letter Spring 25]]
+
+
+# Mans Meeting
+- Need monthly counts of how many modules we produce
+- [ ] Clarify plan with Joe / Suzzane 
+- Progress Review: DOE wants annual progress reviews. 
+- W-F April 23-25 DR / June 2-6 
