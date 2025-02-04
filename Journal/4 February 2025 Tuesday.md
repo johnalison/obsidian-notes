@@ -33,7 +33,8 @@
 - [ ] Jeremy Mail
 - [ ]  FvT Fits
 - [ ] post exam
-- [ ] 
+- [ ] Pay UPMC $500
+- [ ] Make Reservation
 
 ---
 
@@ -41,4 +42,11 @@
 
 Slept in. 
 
-Add Lynn to 
+Add Lynn to Parking for the rest of the year
+
+To campus
+
+# Chat w/Wes
+- Visited P5
+
+# Stat Chat

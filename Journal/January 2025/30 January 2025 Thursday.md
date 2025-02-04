@@ -70,7 +70,7 @@ Browsed prospectives
 # Office Hours
  - [x] Post HW 3 (Due 14th)
 
-Need to wait to get SOW to buy the power supplies
+Need to wait to get (Statement of Work = SOW) to buy the power supplies
 
 # Chat re:Admissions
 - Will admit 6 
