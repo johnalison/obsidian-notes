@@ -25,16 +25,18 @@
 
 ---
 # The ONE thing: 
-- [ ] 
+- [ ] Closure Test with Run-2 Synthetic data
 
 ---
 # To Do
 
-- [ ] Jeremy Mail
-- [ ]  FvT Fits
+- [x] Jeremy Mail
 - [ ] post exam
 - [ ] Pay UPMC $500
 - [ ] Make Reservation
+- [ ] Closure Test with Run-2 Synthetic data
+	- [ ] FvT Fits
+- [ ] Write [[Wesley Terrill Letter Spring 25]]
 
 ---
 
@@ -50,3 +52,9 @@ To campus
 - Visited P5
 
 # Stat Chat
+- Discussed the uncertainty on the predicted normalization
+
+# Outreach Meeting
+
+
+[[CMU HGC MAC Meeting 4 February 2025]]

@@ -19,10 +19,10 @@
 | 4   | Colloq                    |     |
 |     | Reception                 |     |
 
-**W:**
-**DW:**
-**OT:**
-**ex** or **No ex**
+**W:** 6 
+**DW:** 3
+**OT:** 1
+**ex** 
 
 ---
 # The ONE thing: 
@@ -40,7 +40,7 @@
 - [ ] Read [[Evolution of Silicon Sensor Technology in Particle Physics]] !!!
 - [ ] Call Liberty mutual re:tree down
 - [ ]  Apply to fall Osher
-- [ ] Closure Test with Run-2 Synthetic data
+- [>>] Closure Test with Run-2 Synthetic data
 	- [x]  Friend Trees for FvT Fits
 - [x] Verify Stats chat time
 - [x] Close on Debug truth v4j
@@ -87,4 +87,11 @@ Working Chuyuans Annual Review
 - Membrane potential mediates the cellular response to mechanical pressure
 - Markus Basan
 - bailed ... 
+
+Chat Riccardo 
+
+Home 
+
+Some [[Life and Fate]]
+Some [[Fly By Night Physics]]
 
