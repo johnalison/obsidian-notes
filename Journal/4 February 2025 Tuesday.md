@@ -31,9 +31,9 @@
 # To Do
 
 - [x] Jeremy Mail
-- [ ] post exam
+- [x] post exam
 - [ ] Pay UPMC $500
-- [ ] Make Reservation
+- [x] Make Reservation
 - [ ] Closure Test with Run-2 Synthetic data
 	- [ ] FvT Fits
 - [ ] Write [[Wesley Terrill Letter Spring 25]]

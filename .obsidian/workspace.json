@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/CMU HGC MAC Meeting 4 February 2025.md",
+                "file": "Journal/4 February 2025 Tuesday.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CMU HGC MAC Meeting 4 February 2025"
+              "title": "4 February 2025 Tuesday"
             }
           },
           {
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/CMU HGC MAC Meeting 4 February 2025.md",
+                "file": "Journal/4 February 2025 Tuesday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for CMU HGC MAC Meeting 4 February 2025"
+              "title": "Backlinks for 4 February 2025 Tuesday"
             }
           },
           {
@@ -169,12 +169,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/CMU HGC MAC Meeting 4 February 2025.md",
+                "file": "Journal/4 February 2025 Tuesday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from CMU HGC MAC Meeting 4 February 2025"
+              "title": "Outgoing links from 4 February 2025 Tuesday"
             }
           },
           {
@@ -196,10 +196,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/CMU HGC MAC Meeting 4 February 2025.md"
+                "file": "Journal/4 February 2025 Tuesday.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of CMU HGC MAC Meeting 4 February 2025"
+              "title": "Outline of 4 February 2025 Tuesday"
             }
           },
           {
@@ -233,8 +233,8 @@
   },
   "active": "15a71a9cf7de87f4",
   "lastOpenFiles": [
-    "Input/Meetings/CMU HGC MAC Meeting 28 January 2025.md",
     "0-inbox/CMU HGC MAC Meeting 4 February 2025.md",
+    "Input/Meetings/CMU HGC MAC Meeting 28 January 2025.md",
     "Journal/January 2025/28 January 2025 Tuesday.md",
     "Journal/4 February 2025 Tuesday.md",
     "Journal/February 2025.md",
