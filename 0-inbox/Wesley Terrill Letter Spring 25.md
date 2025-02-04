@@ -1,17 +1,16 @@
 Dear Colleagues  
 
-I am writing to strongly support Wesley Terrill's application for the Lederman fellow. I have rarely encountered someone as independent and determined as Wes. He has forged his own path in both analysis and hardware projects—something that is exceptionally rare for a graduate student. His ability to identify compelling research directions, design and execute technically challenging analyses, and contribute meaningfully to hardware development demonstrates a level of initiative and intellectual depth that makes him an outstanding candidate for this position. He has an ambitious plan for developing a high school teacher training program, which is well-aligned with the goal of the Lederman fellowship.  
+I am writing to strongly support Wesley Terrill's application for the Lederman fellow. I have rarely encountered someone as independent and determined as Wes. He has forged his own path in both analysis and hardware projects—something that is exceptionally rare for a graduate student. He has the ability to identify compelling research directions, design and execute technically challenging analyses, and contribute meaningfully to hardware development.  This demonstrates a level of initiative and intellectual depth that makes him an outstanding candidate for this position. He has an ambitious plan for developing a high school teacher training program, which is well-aligned with the goal of the Lederman fellowship.  
 
 ### **Innovative Approach to Analysis**
 
 
-Wes is deeply interested in searching for dark matter.
-- When he approached me about working in my group, we were not doing ; we had a cluster of anlayses related to the search for HH->4b. 
-- I agreed to take Wes on with a qualification task related to b-tagging, figuring I would, with time, persuade him to join ongoing 4b effort. 
-- We did B-jet trigger, but 
-- Instead he convinced me to branch out into searches for dark matter.
+Wes is deeply interested in searching for dark matter. When he approached me about working in my group, we were not doing involved in dark matter searches; we had a cluster of anlayses related to the search for HH->4b. I agreed to take Wes on with a qualification task related to b-tagging, figuring I would, with time, persuade him to join ongoing 4b effort.  Wes completed the b-tagging project for his qualification, but Instead he convinced me to branch out into searches for dark matter.
 
-When he first proposed investigating compressed spectra, my initial reaction was skepticism—I believed that meaningful sensitivity gains beyond the legacy Run-2 limits would only come with High-Luminosity LHC data. However, he was persistent, arguing that while the analysis would be extremely challenging, the fact that it hadn’t been done yet made it a unique opportunity. He made a compelling case that such a search was both important and broadly applicable beyond the specific compressed dark matter scenario. He further demonstrated that soft leptons could be used to suppress the dominant Z→ννZ \to \nu\nuZ→νν monojet background, making the search more viable than I had initially anticipated.
+He first proposed looking for dark matter models with compressed spectra, my initial reaction was skepticism — I had not been following this are of the field closely but assumed that meaningful sensitivity gains beyond the legacy Run-2 limits would only come with High-Luminosity LHC data. He pointed out that because the analysis, with the extremely small splittings he was interested in, was so difficult there actually weren't any meaningful Run-2 limits. My second reaction was that he had succeeded in constucting a clever dodge to avoid the previous limits, but that the niche without wider 
+
+
+He made a compelling case that such a search was both important and broadly applicable beyond the specific compressed dark matter scenario. He further demonstrated that soft leptons could be used to suppress the dominant Z→ννZ \to \nu\nuZ→νν monojet background, making the search more viable than I had initially anticipated.
 
 His analysis work is exceptionally demanding, effectively three analyses in one. He tackled the difficulties associated with low-pTp_TpT​ fakes, pileup contamination, and the estimation of backgrounds using novel scale factor techniques derived from photon conversions. After we began the project, he once again convinced me of its worth, demonstrating not only his technical skill but also his ability to push forward an ambitious physics program despite the inherent difficulties.
 
