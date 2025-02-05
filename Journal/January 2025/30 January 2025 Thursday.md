@@ -79,6 +79,7 @@ Home w/M & T
 
 # Broke Fast... so good
 
+
 # To Clays
 - No poker. only me Clay and Steve
 - Gem game: good / Word association card game (not bad)

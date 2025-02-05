@@ -32,7 +32,7 @@
 
 - [x] Mails re Seminar
 - [ ] Print Exams
-- [ ] 
+- [ ] CL annual review report
 - [ ] 
 
 ---
@@ -47,5 +47,14 @@ M & T to school
 - Can derive the velocity parameter η using Wick rotation t = iT
 
 # bbWW
+- https://indico.cern.ch/event/1499914/
 - Discussion of plan
-- 
+- Great talk by Aniket ! 
+
+# Hbb
+- [ ] Look at slides
+- [ ] https://indico.cern.ch/event/1495520/#b-598162-higgs-to-bb
+
+# [[MAC meeting 5 February 2025]]
+
+# Mac Meeting
