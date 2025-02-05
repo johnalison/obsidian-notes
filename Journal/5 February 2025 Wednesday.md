@@ -43,3 +43,9 @@ Up at 6:30 .. meds
 
 M & T to school
 
+# Taught 
+- Can derive the velocity parameter η using Wick rotation t = iT
+
+# bbWW
+- Discussion of plan
+- 
