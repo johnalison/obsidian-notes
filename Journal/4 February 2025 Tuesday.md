@@ -1,27 +1,27 @@
 
-|     |            |     |
-| --- | ---------- | --- |
-| 9   |            |     |
-|     | Wes        |     |
-| 10  | Stats Chat |     |
-|     | Stats Chat |     |
-| 11  | Outreach   |     |
-|     | HGC        |     |
-| 12  | HGC        |     |
-|     |            |     |
-| 1   |            |     |
-|     |            |     |
-| 2   |            |     |
-|     |            |     |
-| 3   | mans       |     |
-|     | mans       |     |
-| 4   | mans       |     |
-|     |            |     |
+|     |                                      |     |
+| --- | ------------------------------------ | --- |
+| 9   | To Campus                            |     |
+|     | Wes                                  |     |
+| 10  | Stats Chat                           |     |
+|     | Stats Chat                           |     |
+| 11  | Outreach                             |     |
+|     | HGC                                  |     |
+| 12  | HGC                                  |     |
+|     | FvT Fits                             |     |
+| 1   | FvT Fits                             |     |
+|     | FvT Fits                             |     |
+| 2   | [[Wesley Terrill Letter Spring 25]]  |     |
+|     | [[Wesley Terrill Letter Spring 25]]  |     |
+| 3   | mans                                 |     |
+|     | mans                                 |     |
+| 4   | mans                                 |     |
+|     |  [[Wesley Terrill Letter Spring 25]] |     |
 
-**W:**
-**DW:**
-**OT:**
-**ex** or **No ex**
+**W:** 7 
+**DW:** 3
+**OT:** 1
+**No ex**
 
 ---
 # The ONE thing: 
@@ -85,7 +85,7 @@ Some [[Wesley Terrill Letter Spring 25]]
 
 # Mans Meeting
 - Need monthly counts of how many modules we produce
-- [ ] Clarify plan with Joe / Suzzane 
+- [x] Clarify plan with Joe / Suzzane 
 - Progress Review: DOE wants annual progress reviews. 
 - W-F April 23-25 DR / June 2-6 
 
