@@ -56,5 +56,15 @@ M & T to school
 - [ ] https://indico.cern.ch/event/1495520/#b-598162-higgs-to-bb
 
 # [[MAC meeting 5 February 2025]]
+- [ ] Review slides
 
-# Mac Meeting
+# Hoops
+- Couldnt make a shot ! Good passes
+
+MAC meeting still going... 3 hrs!
+
+# Ornella Accepts !
+
+[[CAM Turnaround Report]]
+
+
