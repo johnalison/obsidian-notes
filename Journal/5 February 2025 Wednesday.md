@@ -73,4 +73,5 @@ Chat AE:
 - Had chat with reAna ... need to plan next steps
 
 # Aishik Ghosh  Seminar
+- 10e4 NN
 - 
