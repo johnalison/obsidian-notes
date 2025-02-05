@@ -1,12 +1,14 @@
 # 2025
 
-- [[Stubborn Attachments]] (Tyler Cowen)
+- [[Fly By Night Physics]] (Anthony Zee)
 
-- [[The problems of philosophy]] (Bertrand Russel)
+- [[Stubborn Attachments]] (Tyler Cowen)
 
 - [[Life and Fate]] (Vassily Grossman)
 
 ---
+
+- [[The problems of philosophy]] (Bertrand Russel)
 
 - [[Talent]] (Tyler Cowen and Daniel Gross)
 

@@ -88,3 +88,13 @@ Some [[Wesley Terrill Letter Spring 25]]
 - [ ] Clarify plan with Joe / Suzzane 
 - Progress Review: DOE wants annual progress reviews. 
 - W-F April 23-25 DR / June 2-6 
+
+Home
+
+Picked up H 
+
+Some [[Life and Fate]]
+
+Writing up [[The problems of philosophy]]
+
+
