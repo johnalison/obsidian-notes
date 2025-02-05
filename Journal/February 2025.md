@@ -3,7 +3,7 @@
 | 1  S | Reading / Review Jan / Setup Feb / Start [[Fly By Night Physics]]            |       |
 | 2  S | Reading / **Gym/SR** / H to basketball / Cafe 61c / parents                  |       |
 | 3  M | Taught / **Josh!!** / Fix Gauss Kernel / **Hoops** / AE talk / Bailed Colloq | 6/3/1 |
-| 4  T |                                                                              |       |
+| 4  T | Work all day! / Outreach meeting / Start FvT Fits / Wrote up problems        | 7/3/1 |
 | 5  W | (Aishik Ghosh visit)                                                         |       |
 | 6  H |                                                                              |       |
 | 7  F | (Lab Tour) (T Birthday!)                                                     |       |

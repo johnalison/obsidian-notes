@@ -65,7 +65,7 @@ Working Wes application
 
 # 4b Chat
 - CL some nice SvB Studies ... Working on new background fit
-- AE: Still dont understand klambda fits...NOW SOLVED!!!
+- AE: Still dont understand klambda fits...<font color=red> NOW SOLVED!!! </font>
 - JA: will make 15x synthetic data and try to run the closure
 - Will get instructions on friend trees from AE and fitting FvT from CL
 
@@ -73,9 +73,11 @@ Working Wes application
 - Andrew: HGC work. Move to Kria. 
 - Long discussion of politics 
 
+
 What is it that we know about organizing society/government with overwhelming confidence ?
 - These are the things that government can do
 - Everything else it should not. 
+
 
 Home with M&T
 

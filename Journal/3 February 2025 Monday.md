@@ -32,7 +32,7 @@
 # To Do
 
 - [x]  Send mails re:Aishik Ghosh visit
-- [ ] Write [[Wesley Terrill Letter Spring 25]]
+- [>>] Write [[Wesley Terrill Letter Spring 25]]
 - [ ] Sam proposal
 - [ ] Wes's Thesis
 - [ ] Buy High Voltage Power Supplies

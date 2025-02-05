@@ -32,11 +32,11 @@
 
 - [x] Jeremy Mail
 - [x] post exam
-- [ ] Pay UPMC $500
+- [ ] Pay UPMC $500 ? 
 - [x] Make Reservation
 - [ ] Closure Test with Run-2 Synthetic data
 	- [ ] FvT Fits
-- [ ] Write [[Wesley Terrill Letter Spring 25]]
+- [>>] Write [[Wesley Terrill Letter Spring 25]]
 
 ---
 

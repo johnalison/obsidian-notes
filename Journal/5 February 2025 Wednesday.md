@@ -11,8 +11,8 @@
 |     | Hoops                |     |
 | 1   | Hoops                |     |
 |     | Hoops                |     |
-| 2   |                      |     |
-|     |                      |     |
+| 2   | Chat AE              |     |
+|     | setup                |     |
 | 3   | Aishik Ghosh Seminar |     |
 |     | Aishik Ghosh Seminar |     |
 | 4   | Aishik Ghosh Chat    |     |
@@ -25,7 +25,7 @@
 
 ---
 # The ONE thing: 
-- [ ] 
+- [ ] Aishik Ghosh 
 
 ---
 # To Do
@@ -33,8 +33,8 @@
 - [x] Mails re Seminar
 - [ ] Print Exams
 - [ ] CL annual review report
-- [ ] 
-
+- [ ] Write [[Wesley Terrill Letter Spring 25]]
+- [x] Ping James Picard
 ---
 
 # Log
@@ -45,6 +45,7 @@ M & T to school
 
 # Taught 
 - Can derive the velocity parameter η using Wick rotation t = iT
+- T^2 + x^1 = const
 
 # bbWW
 - https://indico.cern.ch/event/1499914/
@@ -67,4 +68,9 @@ MAC meeting still going... 3 hrs!
 
 [[CAM Turnaround Report]]
 
+Chat AE: 
+- Limits not 5.5 SM with correct normalization!
+- Had chat with reAna ... need to plan next steps
 
+# Aishik Ghosh  Seminar
+- 
