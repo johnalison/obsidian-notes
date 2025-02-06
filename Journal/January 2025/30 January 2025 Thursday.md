@@ -11,7 +11,7 @@
 |     | Gym                    |     |
 | 1   | Gym                    |     |
 |     | Applications           |     |
-| 2   | Wes Thesis             |     |
+| 2   | Wes Application        |     |
 |     | Office Hours           |     |
 | 3   | Office Hours           |     |
 |     |                        |     |

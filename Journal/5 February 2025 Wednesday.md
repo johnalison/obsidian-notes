@@ -18,10 +18,10 @@
 | 4   | Aishik Ghosh Chat    |     |
 |     | Aishik Ghosh Chat    |     |
 
-**W:**
-**DW:**
-**OT:**
-**ex** or **No ex**
+**W:** 6
+**DW:** 3
+**OT:** 2
+**ex** 
 
 ---
 # The ONE thing: 
@@ -31,9 +31,9 @@
 # To Do
 
 - [x] Mails re Seminar
-- [ ] Print Exams
-- [ ] CL annual review report
-- [ ] Write [[Wesley Terrill Letter Spring 25]]
+- [>>] Print Exams
+- [>>] CL annual review report
+- [>>] Write [[Wesley Terrill Letter Spring 25]]
 - [x] Ping James Picard
 ---
 
@@ -53,11 +53,11 @@ M & T to school
 - Great talk by Aniket ! 
 
 # Hbb
-- [ ] Look at slides
-- [ ] https://indico.cern.ch/event/1495520/#b-598162-higgs-to-bb
+- [>>] Look at slides
+-  https://indico.cern.ch/event/1495520/#b-598162-higgs-to-bb
 
 # [[MAC meeting 5 February 2025]]
-- [ ] Review slides
+- [>>] Review slides
 
 # Hoops
 - Couldnt make a shot ! Good passes
@@ -74,4 +74,15 @@ Chat AE:
 
 # Aishik Ghosh  Seminar
 - 10e4 NN
-- 
+
+
+# Chat Aishik
+
+
+Home w/M & T 
+
+Bathe them...
+
+
+# Dinner at Eleven
+- Me Aishik Pritam and Valentina

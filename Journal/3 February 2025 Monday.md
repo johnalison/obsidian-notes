@@ -6,7 +6,7 @@
 |     | Teaching                  |     |
 | 10  | Close on Debug truth v4j  |     |
 |     | Close on Debug truth v4j  |     |
-| 11  | Gauss works               |     |
+| 11  | Gauss Kernel works        |     |
 |     | Friend Trees for FvT Fits |     |
 | 12  | Hoops                     |     |
 |     | Hoops                     |     |
@@ -34,9 +34,9 @@
 - [x]  Send mails re:Aishik Ghosh visit
 - [>>] Write [[Wesley Terrill Letter Spring 25]]
 - [ ] Sam proposal
-- [ ] Wes's Thesis
+- [>>] Wes's Thesis [>>] (([[ToDo]]))
 - [ ] Buy High Voltage Power Supplies
-- [ ]  Synthetic data Plots in SB 
+- [>>]  Synthetic data Plots in SB  [>>] (([[ToDo]]))
 - [ ] Read [[Evolution of Silicon Sensor Technology in Particle Physics]] !!!
 - [ ] Call Liberty mutual re:tree down
 - [ ]  Apply to fall Osher
@@ -73,6 +73,7 @@ Merging cut on status for genParticles.
 - Had to set `top_reconstruction_override: fast`
 - Looks good... rerunning with output to `root://cmseos.fnal.gov//store/user/jda102/XX4b/2024_v1/`
 - Need to make inputs for the other data as well... Turns out I dont... CL has them already
+- [ ] Fit JCM to synthetic data
 
 # Hoops
 - 5s good runs... Lots of wins

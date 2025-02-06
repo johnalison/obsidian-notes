@@ -18,6 +18,8 @@ These should be on Daily's page  !
 	- (https://docs.google.com/presentation/d/199aYQflGoUMljCr9y1N1ZCFsWsVY691YCQbrD5suh8A/edit#slide=id.g2d6c67b2c4d_0_49)
 - [x] mixed data c++ vs python
 - [ ] Read [[Run2 X->HY->4b]]
+- [ ] Wes's Thesis
+- [ ]  Synthetic data Plots in SB 
 # Not Important + Due Soon
 DON'T DO
 
