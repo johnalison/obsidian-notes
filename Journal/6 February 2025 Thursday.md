@@ -39,6 +39,7 @@
 - [ ] Review slides
 	- [ ] Hbb
 	- [ ] MAC
+- [x] Follow up with James Picard
 
 ---
 
