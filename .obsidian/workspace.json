@@ -63,8 +63,7 @@
               "title": "CAM Turnaround Report"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -136,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/MAC meeting 5 February 2025.md",
+                "file": "Journal/6 February 2025 Thursday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +145,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for MAC meeting 5 February 2025"
+              "title": "Backlinks for 6 February 2025 Thursday"
             }
           },
           {
@@ -155,12 +154,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/MAC meeting 5 February 2025.md",
+                "file": "Journal/6 February 2025 Thursday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from MAC meeting 5 February 2025"
+              "title": "Outgoing links from 6 February 2025 Thursday"
             }
           },
           {
@@ -182,10 +181,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/MAC meeting 5 February 2025.md"
+                "file": "Journal/6 February 2025 Thursday.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of MAC meeting 5 February 2025"
+              "title": "Outline of 6 February 2025 Thursday"
             }
           },
           {
@@ -217,8 +216,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "15a71a9cf7de87f4",
+  "active": "a53bfe1b69be06bc",
   "lastOpenFiles": [
+    "0-inbox/MAC meeting 5 February 2025.md",
     "Journal/5 February 2025 Wednesday.md",
     "Journal/6 February 2025 Thursday.md",
     "0-inbox/Wesley Terrill Letter Spring 25.md",
@@ -234,7 +234,6 @@
     "Output/Recommendation  Letters/Wesley Terrill Letter Spring 22.md",
     "Journal/2024/October/24 October 2024 Thursday.md",
     "Journal/2024/October/15 October 2024 Tuesday.md",
-    "0-inbox/MAC meeting 5 February 2025.md",
     "Input/Meetings/CMU HGC MAC Meeting 28 January 2025.md",
     "Journal/January 2025/29 January 2025 Wednesday.md",
     "Input/Meetings/MAC meeting 22 January 2025.md",

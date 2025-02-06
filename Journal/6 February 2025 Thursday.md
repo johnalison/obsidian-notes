@@ -14,9 +14,9 @@
 | 2   | Print Exams                         |     |
 |     | Office Hours                        |     |
 | 3   | Office Hours                        |     |
-|     |                                     |     |
-| 4   |                                     |     |
-|     |                                     |     |
+|     | Jim Pacard                          |     |
+| 4   | Jim Parcard                         |     |
+|     | Chat AE / CL Annual Review          |     |
 
 **W:**
 **DW:**
@@ -33,7 +33,7 @@
 
 - [x] Finish [[Wesley Terrill Letter Spring 25]]
 - [x] Print Exams
-- [ ] CL annual review report
+- [x] CL annual review report
 - [ ] Closure Test with Run-2 Synthetic data
 	- [ ] FvT Fits
 - [ ] Review slides
@@ -41,6 +41,7 @@
 	- [ ] MAC
 - [x] Follow up with James Picard
 - [ ] Reinbursement for Dinner
+- [ ] FBI Followup
 
 ---
 
@@ -73,3 +74,21 @@ Finished [[Wesley Terrill Letter Spring 25]]
 
 
 Printed exams... Key is to print a copy then scan them to make more.
+
+
+# Office Hours
+- Start going through MAC Meeting
+- Chase
+
+# Met Jim Picard 
+- Seems good. 
+- [ ] Ad out for Jim
+- Claims the Robotics Institute is moving away from actually building robots 
+- 60k
+
+Chat MP re:Jim... go ahead
+
+# Correct the bias in the full dimensional space
+- Measure bias with Synthetic vs Background assume applies to Data vs Background
+- Assumes Double ratio holds instead of ratio
+- 
