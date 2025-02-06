@@ -1,6 +1,6 @@
 Dear Colleagues  
 
-I am writing to **strongly support Wesley Terrill's application for the Lederman Fellowship**. I have rarely encountered  a student as independent and determined as Wes. He has forged his own path in both analysis and hardware projects—something exceptionally rare for a graduate student. He possesses the ability to identify compelling research directions, design and execute technically challenging analyses, and contribute meaningfully to hardware development.  His level of initiative and intellectual depth makes him an outstanding candidate for this position. His ambitious plans to develop a high school teacher training program aligns well with the goals of the Lederman Fellowship.
+I am writing to strongly support Wesley Terrill's application for the Lederman Fellowship. I have rarely encountered  a student as independent and determined as Wes. He has forged his own path in both analysis and hardware projects—something exceptionally rare for a graduate student. He possesses the ability to identify compelling research directions, design and execute technically challenging analyses, and contribute meaningfully to hardware development.  His level of initiative and intellectual depth makes him an outstanding candidate for this position. His ambitious plans to develop a high school teacher training program aligns well with the goals of the Lederman Fellowship.
 
 
 ### **Innovative Approach to Analysis**
@@ -8,9 +8,9 @@ I am writing to **strongly support Wesley Terrill's application for the Lederman
 Wes is deeply interested in searching for dark matter. When he first approached me about joining my group, we were not actively involved in dark matter searches; our focus was a group of closely related HH->4b analyses.  I agreed to take Wes on with a qualification task related to b-tagging, assuming that, in time, I could persuade him to join our ongoing 4b effort.   Specifically, he was tasked with developing software to monitor the CMS b-jet trigger,  modifying existing code to analyze new b-tagging algorithms introduced in LHC Run 3. Additionally, he developed an algorithm that increased the b-jet purity of the monitored jets by effectively performing a real-time top-quark analysis. His contributions were highly valued by the CMS b-tagging group.
 
 
-After completing the b-tagging project, I again tried to convince him to join the 4b effort. Instead, **he ended up convincing me to branch out into dark matter searches.** He proposed searching for dark matter models with compressed spectra. I was skeptical—I had not been following this area closely but assumed that meaningful sensitivity gains beyond the legacy Run-2 limits would only come with High-Luminosity LHC data.  However, he pointed out that because the analysis -- with the extremely small mass splittings he was interested in -- was so difficult, no meaningful Run-2 limits existed.
+After completing the b-tagging project, I again tried to convince him to join the 4b effort. Instead, he ended up convincing me to branch out into dark matter searches. He proposed searching for dark matter models with compressed spectra. I was skeptical—I had not been following this area closely but assumed that meaningful sensitivity gains beyond the legacy Run-2 limits would only come with High-Luminosity LHC data.  However, he pointed out that because the analysis -- with the extremely small mass splittings he was interested in -- was so difficult, no meaningful Run-2 limits existed.
 
-My next concern was that this would be too narrowly focused—a clever way to avoid existing limits but not broadly relevant. Once again, he proved me wrong. He made a compelling case that nearly degenerate spectra are a **general feature of many new physics models**, not just niche dark matter scenarios. He further demonstrated that requiring soft leptons (if one could properly control the efficiency and fake backgrounds) would **effectively eliminate the dominant Z→νν monojet background**, making the search more viable than I had initially thought.
+My next concern was that this would be too narrowly focused—a clever way to avoid existing limits but not broadly relevant. Once again, he proved me wrong. He made a compelling case that nearly degenerate spectra are a general feature of many new physics models, not just niche dark matter scenarios. He further demonstrated that requiring soft leptons (if one could properly control the efficiency and fake backgrounds) would effectively eliminate the dominant Z→νν monojet background, making the search more viable than I had initially thought.
 
 
 Now recognizing the potential, I agreed to support Wes in this dark matter search but cautioned him that he would not have the usual postdoc or senior grad student support typical for my group members. Undeterred, he **sought out and joined a team in the CMS SUSY group**, working closely with Christian Herwig (then at Fermilab, now at Michigan) on the electron channel, while Peter Meiring (then at Zurich, now at CMU) focused on the muon channel.
@@ -23,21 +23,21 @@ This analysis is **incredibly difficult**. Wes’s thesis effectively comprises 
 - **New calibration techniques for displaced electron reconstruction based on photon conversions in the detector material**
 - **Precision measurements of low-pT​ fake backgrounds, accounting for correlations between nearby leptons**
 
- In the end, Wes successfully **controlled the efficiency and background rates down to 1 GeV**, pushing CMS sensitivity to novel dark matter mass scales—the **first limits beyond those from LEP**. His analysis is currently advancing through the CMS approval process, with Wes scheduled to present the final approval talk this month. The non-displaced channels have already been approved as part of a PhD thesis.
+ In the end, Wes successfully controlled the efficiency and background rates down to 1 GeV, pushing CMS sensitivity to novel dark matter mass scales—the first limits beyond those from LEP. His analysis is currently advancing through the CMS approval process, with Wes scheduled to present the final approval talk this month. The non-displaced channels have already been approved as part of a PhD thesis.
 
 
 ### **Contributions to HGCAL Hardware Development**
 
-Beyond his impressive analysis work, Wes was eager to contribute to hardware development, specifically the CMS High-Granularity Calorimeter (HGCAL). Given that CMU has a Module Assembly Center, this was a natural fit. However, Wes also wanted to be based at CERN. We discussed Wes first focusing on hardware for a few years at CMU and then moving to CERN, but in the end he **found a way to do both**.
+Beyond his impressive analysis work, Wes was eager to contribute to hardware development, specifically the CMS High-Granularity Calorimeter (HGCAL). Given that CMU has a Module Assembly Center, this was a natural fit. However, Wes also wanted to be based at CERN. We discussed Wes first focusing on hardware for a few years at CMU and then moving to CERN, but in the end he found a way to do both.
 
-He **proactively reached out to Eva Sicking** and secured a position in the CERN silicon lab. There, he took on a **key role in the HGC silicon group**, characterizing irradiated modules and working with the latest testing hardware and protocols before they were deployed at the MACs. He essentially became our **"man in Havana,"** ensuring that our testing methodologies stayed aligned with the latest advancements.
+He proactively reached out to Eva Sicking and secured a position in the CERN silicon lab. There, he took on a key role in the HGC silicon group, characterizing irradiated modules and working with the latest testing hardware and protocols before they were deployed at the MACs. He essentially became our "man in Havana," ensuring that our testing methodologies stayed aligned with the latest advancements.
 
 His work on HGCAL included:
 - **Light injection and cryogenic testing**
 - **Laser-based sensor characterization**
 - **Developing and validating new testing protocols for silicon sensors**
 
-Wes consistently demonstrated the same technical depth and problem-solving ability in hardware as he did in his analysis work. His expertise in both **detector instrumentation and data analysis** makes him uniquely positioned to bridge the gap between hardware and physics—a skillset that is increasingly valuable in experimental particle physics.
+Wes consistently demonstrated the same technical depth and problem-solving ability in hardware as he did in his analysis work. His expertise in both detector instrumentation and data analysis makes him uniquely positioned to bridge the gap between hardware and physics—a skillset that is increasingly valuable in experimental particle physics.
 
 
 ### **Conclusion**

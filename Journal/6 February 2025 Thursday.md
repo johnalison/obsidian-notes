@@ -25,13 +25,14 @@
 
 ---
 # The ONE thing: 
-- [ ] Finish [[Wesley Terrill Letter Spring 25]]
+- [x] Finish [[Wesley Terrill Letter Spring 25]]
+- [x] Exams
 
 ---
 # To Do
 
-- [ ] Finish [[Wesley Terrill Letter Spring 25]]
-- [ ] Print Exams
+- [x] Finish [[Wesley Terrill Letter Spring 25]]
+- [x] Print Exams
 - [ ] CL annual review report
 - [ ] Closure Test with Run-2 Synthetic data
 	- [ ] FvT Fits
@@ -49,7 +50,8 @@ Up at 6:50
 M&T to school 
 
 # FBC2
-
+- Synthetic datasets still look bad in CR
+- Discussed Marinas USCMS talk on Friday
 
 # Taught
 - Start dynamics. Setup problem
@@ -61,3 +63,11 @@ Measure bias in full phase space vs 1D projection ?
 Working [[Wesley Terrill Letter Spring 25]]
 
 # Faculty Meeting
+- TA awards: Why not give all three awards
+- Diane reappointed but much discussion
+
+
+Finished [[Wesley Terrill Letter Spring 25]]
+
+
+Printed exams... Key is to print a copy then scan them to make more.
