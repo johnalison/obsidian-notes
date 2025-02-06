@@ -40,6 +40,7 @@
 	- [ ] Hbb
 	- [ ] MAC
 - [x] Follow up with James Picard
+- [ ] Reinbursement for Dinner
 
 ---
 
