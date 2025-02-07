@@ -74,10 +74,7 @@ Working Wes application
 - Long discussion of politics 
 
 
-What is it that we know about organizing society/government with overwhelming confidence ?
-- These are the things that government can do
-- Everything else it should not. 
-
+[[What do we know about organizing society or government with overwhelming confidence]]
 
 Home with M&T
 

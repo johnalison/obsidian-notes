@@ -25,14 +25,14 @@
 
 ---
 # The ONE thing: 
-- [ ] Closure Test with Run-2 Synthetic data
+- [ ] [[Synthetic Data Closure]]]
 
 ---
 # To Do
 
 - [x] Jeremy Mail
 - [x] post exam
-- [ ] Pay UPMC $500 ? 
+- [>>] Pay UPMC $500 ? 
 - [x] Make Reservation
 - [>>] Closure Test with Run-2 Synthetic data
 	- [>>] FvT Fits
@@ -63,21 +63,8 @@ To campus
 Package arrived with a bunch of fittings
 
 
-# Closure Test on Synthetic Data
-- Following CL instructions here: https://gitlab.cern.ch/cms-cmu/coffea4bees/-/tree/master/python/classifier#falconrogue
-- on rogue01
-	- `falcon`
-	- `> ssh rogue01`
-- Seeing Error with grid cert (Tried to use my userkeys and remake them... same)
-	- `> voms-proxy-init -voms cms -rfc --valid 168:0
-	Enter GRID pass phrase for this identity:
-	Certificate validation error: Signature of a CRL corresponding to this certificates CA is invalid
-	User credential is not valid!
-- Works if I dont give the `-voms cms` 
-- CL says above error only b/c Im outside the container
-- container taking a while... I didnt hit enter !!
-- proxy all good inside the container.
-
+# [[Synthetic Data Closure]]
+- See dialy's above
 
 
 Some [[Wesley Terrill Letter Spring 25]]

@@ -20,6 +20,7 @@ These should be on Daily's page  !
 - [ ] Read [[Run2 X->HY->4b]]
 - [ ] Wes's Thesis
 - [ ]  Synthetic data Plots in SB 
+- [ ] Read [[Evolution of Silicon Sensor Technology in Particle Physics]] !!!
 # Not Important + Due Soon
 DON'T DO
 

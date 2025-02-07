@@ -18,10 +18,10 @@
 | 4   | Jim Parcard                         |     |
 |     | Chat AE / CL Annual Review          |     |
 
-**W:**
-**DW:**
-**OT:**
-**ex** or **No ex**
+**W:** 8 
+**DW:** 3 
+**OT:** 1
+**No ex**
 
 ---
 # The ONE thing: 
@@ -34,15 +34,14 @@
 - [x] Finish [[Wesley Terrill Letter Spring 25]]
 - [x] Print Exams
 - [x] CL annual review report
-- [ ] Closure Test with Run-2 Synthetic data
-	- [ ] FvT Fits
-- [ ] Review slides
-	- [ ] Hbb
-	- [ ] MAC
+- [ >>]  [[Synthetic Data Closure]]
+- [>>] Review slides
+	- [>>] Hbb
+	- [>>] MAC
 - [x] Follow up with James Picard
-- [ ] Reinbursement for Dinner
-- [ ] FBI Followup
-- [ ] Understand money for crates
+- [>>] Reinbursement for Dinner
+- [>>] FBI Followup
+- [>>] Understand money for crates
 
 ---
 
@@ -55,14 +54,15 @@ M&T to school
 
 # FBC2
 - Synthetic datasets still look bad in CR
-- Discussed Marinas USCMS talk on Friday
+- Discussed Marina's USCMS talk on Friday
+- (JA thinks: ... Vivek will not be happy)
 
 # Taught
-- Start dynamics. Setup problem
+- Start dynamics. Setup collision problem
 
 # Lepton Chat
 
-Measure bias in full phase space vs 1D projection ?
+Thinking about ... [[Correct background bias in full dimensional space]]
 
 Working [[Wesley Terrill Letter Spring 25]]
 
@@ -83,13 +83,14 @@ Printed exams... Key is to print a copy then scan them to make more.
 
 # Met Jim Picard 
 - Seems good. 
-- [ ] Ad out for Jim
+- [>>] Ad out for Jim
 - Claims the Robotics Institute is moving away from actually building robots 
 - 60k
 
 Chat MP re:Jim... go ahead
 
-# Correct the bias in the full dimensional space
-- Measure bias with Synthetic vs Background assume applies to Data vs Background
-- Assumes Double ratio holds instead of ratio
-- 
+More [[Correct background bias in full dimensional space]]
+
+Home with M & T
+
+Finished [[Life and Fate]]

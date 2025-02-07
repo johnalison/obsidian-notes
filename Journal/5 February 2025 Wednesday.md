@@ -44,8 +44,7 @@ Up at 6:30 .. meds
 M & T to school
 
 # Taught 
-- Can derive the velocity parameter η using Wick rotation t = iT
-- T^2 + x^1 = const
+- [[Can derive the velocity parameter using Wick rotation]]
 
 # bbWW
 - https://indico.cern.ch/event/1499914/
@@ -69,12 +68,14 @@ MAC meeting still going... 3 hrs!
 [[CAM Turnaround Report]]
 
 Chat AE: 
-- Limits not 5.5 SM with correct normalization!
+- Limits  5.5 SM with correct normalization!
 - Had chat with reAna ... need to plan next steps
 
 # Aishik Ghosh  Seminar
-- 10e4 NN
-
+- 10e4 NN !
+- Model effect of systematic uncertianties in the full phase space using NN
+- Shows improvement of high-D over 1D... Not clear how much improvement there would be eg: over 2D. 
+- [[Correct background bias in full dimensional space]]
 
 # Chat Aishik
 
@@ -83,6 +84,6 @@ Home w/M & T
 
 Bathe them...
 
-
 # Dinner at Eleven
 - Me Aishik Pritam and Valentina
+- Decent convo
