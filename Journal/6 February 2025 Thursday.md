@@ -42,6 +42,7 @@
 - [x] Follow up with James Picard
 - [ ] Reinbursement for Dinner
 - [ ] FBI Followup
+- [ ] Understand money for crates
 
 ---
 
