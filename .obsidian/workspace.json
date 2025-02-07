@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/February 2025.md",
+                "file": "Journal/7 February 2025 Friday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for February 2025"
+              "title": "Backlinks for 7 February 2025 Friday"
             }
           },
           {
@@ -170,12 +170,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/February 2025.md",
+                "file": "Journal/7 February 2025 Friday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from February 2025"
+              "title": "Outgoing links from 7 February 2025 Friday"
             }
           },
           {
@@ -197,10 +197,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/February 2025.md"
+                "file": "Journal/7 February 2025 Friday.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of February 2025"
+              "title": "Outline of 7 February 2025 Friday"
             }
           },
           {
@@ -232,8 +232,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3b7693b655fd09fa",
+  "active": "a05090e9376fd9d7",
   "lastOpenFiles": [
+    "Journal/February 2025.md",
     "Journal/7 February 2025 Friday.md",
     "Output/Recommendation  Letters/Wesley Terrill Letter Spring 25.md",
     "Input/Books/The problems of philosophy.md",
@@ -248,7 +249,6 @@
     "2-areas/Outreach/Apply To Osher Fall 2025.md",
     "Output/Aishik Ghosh visit.md",
     "Journal/6 February 2025 Thursday.md",
-    "Journal/February 2025.md",
     "Journal/January 2025.md",
     "0-inbox/Correct background bias in full dimensional space.md",
     "Journal/5 February 2025 Wednesday.md",

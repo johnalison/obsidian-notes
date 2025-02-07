@@ -71,3 +71,6 @@ Got a ton of L2 comments
 
 # [[Synthetic Data Closure]]
 - [ ] Fit JCM to synthetic data
+
+
+Did high-school field trip
