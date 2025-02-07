@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/7 February 2025 Friday.md",
+                "file": "0-inbox/Hbb Reclustering Project.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7 February 2025 Friday"
+              "title": "Hbb Reclustering Project"
             }
           },
           {
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/7 February 2025 Friday.md",
+                "file": "0-inbox/Hbb Reclustering Project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 7 February 2025 Friday"
+              "title": "Backlinks for Hbb Reclustering Project"
             }
           },
           {
@@ -170,12 +170,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/7 February 2025 Friday.md",
+                "file": "0-inbox/Hbb Reclustering Project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 7 February 2025 Friday"
+              "title": "Outgoing links from Hbb Reclustering Project"
             }
           },
           {
@@ -197,10 +197,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/7 February 2025 Friday.md"
+                "file": "0-inbox/Hbb Reclustering Project.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 7 February 2025 Friday"
+              "title": "Outline of Hbb Reclustering Project"
             }
           },
           {
@@ -234,8 +234,10 @@
   },
   "active": "a05090e9376fd9d7",
   "lastOpenFiles": [
-    "Journal/February 2025.md",
     "Journal/7 February 2025 Friday.md",
+    "0-inbox/Lab Techs Spring 2025.md",
+    "1-projects/HGC/Lab Techs Fall 2024.md",
+    "Journal/February 2025.md",
     "Output/Recommendation  Letters/Wesley Terrill Letter Spring 25.md",
     "Input/Books/The problems of philosophy.md",
     "Input/Blogs/Snakemake tutorial.md",
@@ -258,8 +260,6 @@
     "0-inbox/Synthetic Data Closure.md",
     "Journal/14 April 2025 Monday.md",
     "Journal/ToDo.md",
-    "Journal/2 February 2025 Sunday.md",
-    "Journal/1 February 2025 Saturday.md",
     "Journal/January 2025",
     "Journal/#February 2025.md#",
     "Untitled.canvas",

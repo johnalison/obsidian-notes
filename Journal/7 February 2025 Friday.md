@@ -31,22 +31,22 @@
 # To Do
 
 - [ ] L2 Comments 
-- [ ] Move on Machinist Ad for Jim
+- [x] Move on Machinist Ad for Jim
 - [x]  Sam proposal
 - [x]  Mail MP re:Money for cases
 - [ ] Chat Mans re SOW
 - [ ] Look at more HGC applications
 - [ ] Call Liberty mutual re:tree down
-- [ ] [[Synthetic Data Closure]]
+- [ ] Do  [[Synthetic Data Closure]]
 - [ ]  Pay UPMC $500 ? 
 - [ ]  Review slides
 	- [ ] Hbb
 	- [ ] MAC
-- [ ] Reinbursement for Dinner
+- [x] Reinbursement for Dinner
 - [ ] FBI Followup
 - [ ] Grade Exams
 - [x] ECS Reply
-
+- [x] MacBeth
 
 ---
 
@@ -73,4 +73,24 @@ Got a ton of L2 comments
 - [ ] Fit JCM to synthetic data
 
 
-Did high-school field trip
+# Did high-school field trip
+- Physics is Philosophy 
+- QM revolution
+
+# Hoops
+- Good runs. Good wins. Played footballers
+- 8' at Tmax = 122
+
+Got MacBeth books
+
+Chat with Jeff about new job description
+
+# 4b Chat 
+
+
+# CMU CMS
+
+
+[[Lab Techs Spring 2025]]
+
+[[Hbb Reclustering Project]]
