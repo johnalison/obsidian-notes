@@ -93,4 +93,11 @@ Chat with Jeff about new job description
 
 [[Lab Techs Spring 2025]]
 
-[[Hbb Reclustering Project]]
+# Chat with Tony 
+- [[Hbb Reclustering Project]]
+- Will look into dR will meet on thursdays at 1:30
+
+# Whiskey with Markus and Roy
+- Chat re: continuous spin
+
+[[Stubborn Attachments]]
