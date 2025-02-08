@@ -2,11 +2,11 @@
 
 - [[Fly By Night Physics]] (Anthony Zee)
 
-- [[Stubborn Attachments]] (Tyler Cowen)
-
-- [[Life and Fate]] (Vassily Grossman)
-
 ---
+
+- [[Life and Fate]] (Vasily Grossman)
+
+- [[Stubborn Attachments]] (Tyler Cowen)
 
 - [[The problems of philosophy]] (Bertrand Russel)
 

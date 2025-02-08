@@ -1,22 +1,22 @@
 
-|     | setup                |     |
-| --- | -------------------- | --- |
-| 9   | Teaching             |     |
-|     | Teaching             |     |
-| 10  |                      |     |
-|     | High-School Students |     |
-| 11  | High-School Students |     |
-|     |                      |     |
-| 12  | Hoops                |     |
-|     | Hoops                |     |
-| 1   | Hoops                |     |
-|     | Hoops                |     |
-| 2   | 4b                   |     |
-|     |                      |     |
-| 3   | CMU CMS              |     |
-|     |                      |     |
-| 4   |                      |     |
-|     |                      |     |
+|     | setup                  |     |
+| --- | ---------------------- | --- |
+| 9   | Teaching               |     |
+|     | Teaching               |     |
+| 10  | Chat AE                |     |
+|     | High-School Students   |     |
+| 11  | High-School Students   |     |
+|     | High-School Students   |     |
+| 12  | Hoops                  |     |
+|     | Hoops                  |     |
+| 1   | Hoops                  |     |
+|     | Hoops                  |     |
+| 2   | 4b                     |     |
+|     |                        |     |
+| 3   | CMU CMS                |     |
+|     | Working Lab Tech Ad    |     |
+| 4   | Chat Tony              |     |
+|     | Whiskey Roy and Markus |     |
 
 **W:**
 **DW:**
@@ -101,3 +101,5 @@ Chat with Jeff about new job description
 - Chat re: continuous spin
 
 [[Stubborn Attachments]]
+
+# Cake and Presents for T
