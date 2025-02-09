@@ -39,9 +39,9 @@
 - [ ] Call Liberty mutual re:tree down
 - [ ] Do  [[Synthetic Data Closure]]
 - [ ]  Pay UPMC $500 ? 
-- [ ]  Review slides
-	- [ ] Hbb
-	- [ ] MAC
+- [x]  Review slides
+	- [x] Hbb
+	- [x] MAC
 - [x] Reinbursement for Dinner
 - [ ] FBI Followup
 - [ ] Grade Exams

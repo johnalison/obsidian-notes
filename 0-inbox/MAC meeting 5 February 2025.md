@@ -12,10 +12,16 @@ https://indico.cern.ch/event/1509235/
 	- May: 8/day x 2 weeks = 80
 	- June 12/day x 2 weeks = 120 
 	- July 16/day x 2 weeks = 160
-- 
+
 
 # MMTS (Rong-Shyang)
  - 
+
+# Baseplates 
+- More questions than answers
+
+
+Final Order #8: Partials Hexaboard PUTs; LD-Semi, LD-Half, LD-Five and HD-Hal
 
 
 # Follow-ups
