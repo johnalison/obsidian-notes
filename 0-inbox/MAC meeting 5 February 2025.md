@@ -20,7 +20,6 @@ https://indico.cern.ch/event/1509235/
 # Baseplates 
 - More questions than answers
 
-
 Final Order #8: Partials Hexaboard PUTs; LD-Semi, LD-Half, LD-Five and HD-Hal
 
 

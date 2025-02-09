@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/7 February 2025 Friday.md",
+                "file": "00-Zettelkasten/Constraints on wealth redistribution..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7 February 2025 Friday"
+              "title": "Constraints on wealth redistribution."
             }
           },
           {
@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/MAC meeting 5 February 2025.md",
+                "file": "00-Zettelkasten/ZettelKasten Index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MAC meeting 5 February 2025"
+              "title": "ZettelKasten Index"
             }
           },
           {
@@ -83,15 +83,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Input/Books/Knowledge, Reality, and Value.md",
+                "file": "Input/Books/Stubborn Attachments.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Knowledge, Reality, and Value"
+              "title": "Stubborn Attachments"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -143,7 +144,8 @@
               "title": "Files"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -163,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/7 February 2025 Friday.md",
+                "file": "Input/Books/Stubborn Attachments.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +175,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 7 February 2025 Friday"
+              "title": "Backlinks for Stubborn Attachments"
             }
           },
           {
@@ -182,12 +184,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/7 February 2025 Friday.md",
+                "file": "Input/Books/Stubborn Attachments.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 7 February 2025 Friday"
+              "title": "Outgoing links from Stubborn Attachments"
             }
           },
           {
@@ -209,10 +211,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/7 February 2025 Friday.md"
+                "file": "Input/Books/Stubborn Attachments.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 7 February 2025 Friday"
+              "title": "Outline of Stubborn Attachments"
             }
           },
           {
@@ -244,34 +246,34 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a53bfe1b69be06bc",
+  "active": "ae9cdd5fe383e4a3",
   "lastOpenFiles": [
+    "00-Zettelkasten/Radial uncertainty of long-term consequences of our actions.md",
+    "Input/Books/Stubborn Attachments.md",
+    "00-Zettelkasten/ZettelKasten Index.md",
+    "00-Zettelkasten/Constraints on wealth redistribution..md",
+    "00-Zettelkasten/Faith needs to play a key role in ethics and political science.md",
+    "00-Zettelkasten/Sustainable Growth is a Moral Imperative.md",
+    "00-Zettelkasten/Intuitively wrong to discount future over long time frames.md",
+    "00-Zettelkasten/Humans have an innate bias for the present over the future.md",
+    "00-Zettelkasten/Long-term economic growth is biggest factor in lifting people out of poverty.md",
     "0-inbox/MAC meeting 5 February 2025.md",
+    "Input/Books/Books.md",
+    "Input/Books/Knowledge, Reality, and Value.md",
+    "0-inbox/Can derive the velocity parameter using Wick rotation.md",
+    "0-inbox/Building Fermilab.md",
+    "0-inbox/Ann Arbor Trip 2025.md",
+    "Journal/9 February 2025 Sunday.md",
+    "Journal/8 February 2025 Saturday.md",
+    "Journal/7 February 2025 Friday.md",
     "Journal/5 February 2025 Wednesday.md",
     "Journal/6 February 2025 Thursday.md",
-    "Journal/7 February 2025 Friday.md",
-    "Journal/8 February 2025 Saturday.md",
-    "Input/Books/Books.md",
     "Input/Books/Life and Fate.md",
-    "Input/Books/Stubborn Attachments.md",
     "0-inbox/Hbb Reclustering Project.md",
-    "0-inbox/Radial uncertainty of long-term consequences of our actions.md",
-    "0-inbox/Constraints on wealth redistribution..md",
-    "0-inbox/Faith needs to play a key role in ethics and political science.md",
     "2-areas/Philosophy/UnpopularImportantTruth.md",
-    "Input/Books/Knowledge, Reality, and Value.md",
-    "0-inbox/Intuitively wrong to discount future over long time frames.md",
-    "0-inbox/Long-term economic growth is biggest factor in lifting people out of poverty.md",
-    "0-inbox/Humans innate bias for the present over the future.md",
-    "0-inbox/Sustainable Growth is a Moral Imperative.md",
     "2-areas/Philosophy/Libertarianism Limits.md",
     "Output/Recommendation  Letters/Wesley Terrill Letter Spring 25.md",
     "0-inbox/Lab Techs Spring 2025.md",
-    "1-projects/HGC/Lab Techs Fall 2024.md",
-    "Journal/February 2025.md",
-    "Input/Books/The problems of philosophy.md",
-    "Input/Blogs/Snakemake tutorial.md",
-    "00-Zettelkasten/ZettelKasten Index.md",
     "Journal/January 2025",
     "Journal/#February 2025.md#",
     "Untitled.canvas",
