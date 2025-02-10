@@ -1,22 +1,22 @@
 
-|     | setup                      |     |
-| --- | -------------------------- | --- |
-| 9   | Teaching                   |     |
-|     | Teaching                   |     |
-| 10  | [[Synthetic Data Closure]] |     |
-|     | [[Synthetic Data Closure]] |     |
-| 11  | [[Synthetic Data Closure]] |     |
-|     | Get exams                  |     |
-| 12  | Hoops                      |     |
-|     | Hoops                      |     |
-| 1   | Hoops                      |     |
-|     | Hoops                      |     |
-| 2   | Home                       |     |
-|     |                            |     |
-| 3   |                            |     |
-|     |                            |     |
-| 4   |                            |     |
-|     |                            |     |
+|     | setup                               |     |
+| --- | ----------------------------------- | --- |
+| 9   | Teaching                            |     |
+|     | Teaching                            |     |
+| 10  | [[Synthetic Data Closure]]          |     |
+|     | [[Synthetic Data Closure]]          |     |
+| 11  | [[Synthetic Data Closure]]          |     |
+|     | Get exams                           |     |
+| 12  | Hoops                               |     |
+|     | Hoops                               |     |
+| 1   | Hoops                               |     |
+|     | Hoops                               |     |
+| 2   | Home                                |     |
+|     | Push JCM weights                    |     |
+| 3   | FBI / Insurance / Fermilab Training |     |
+|     | email                               |     |
+| 4   | Meat Sauce                          |     |
+|     | w/T                                 |     |
 
 **W:**
 **DW:**
