@@ -91,8 +91,7 @@
               "title": "9 February 2025 Sunday"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -164,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/February 2025.md",
+                "file": "Journal/10 February 2025 Monday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +173,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for February 2025"
+              "title": "Backlinks for 10 February 2025 Monday"
             }
           },
           {
@@ -183,12 +182,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/February 2025.md",
+                "file": "Journal/10 February 2025 Monday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from February 2025"
+              "title": "Outgoing links from 10 February 2025 Monday"
             }
           },
           {
@@ -210,10 +209,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/February 2025.md"
+                "file": "Journal/10 February 2025 Monday.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of February 2025"
+              "title": "Outline of 10 February 2025 Monday"
             }
           },
           {
@@ -245,11 +244,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3b7693b655fd09fa",
+  "active": "a53bfe1b69be06bc",
   "lastOpenFiles": [
+    "Journal/February 2025.md",
     "Journal/10 February 2025 Monday.md",
     "0-inbox/Synthetic Data Closure.md",
-    "Journal/February 2025.md",
     "Journal/9 February 2025 Sunday.md",
     "Journal/8 February 2025 Saturday.md",
     "Journal/7 February 2025 Friday.md",
