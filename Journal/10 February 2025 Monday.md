@@ -30,7 +30,7 @@
 ---
 # To Do
 
-- [ ] Pick up exams
+- [x] Pick up exams
 - [ ] Grade exams
 - [ ] FBI Followup
 - [ ] L2 Comments 
@@ -59,3 +59,14 @@ M to school
 
 
 Working [[Synthetic Data Closure]]
+
+Picked up exams...Started grading
+
+# Hoops / Steamroom
+- Good runs 4s and then 5s. 
+- Weak jump call
+- 10' Tmax = 124
+
+Home for T
+
+
