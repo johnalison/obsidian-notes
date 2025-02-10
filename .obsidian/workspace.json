@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/7 February 2025 Friday.md",
+                "file": "Journal/9 February 2025 Sunday.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7 February 2025 Friday"
+              "title": "9 February 2025 Sunday"
             }
           },
           {
@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -164,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/7 February 2025 Friday.md",
+                "file": "Journal/February 2025.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +174,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 7 February 2025 Friday"
+              "title": "Backlinks for February 2025"
             }
           },
           {
@@ -183,12 +183,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/7 February 2025 Friday.md",
+                "file": "Journal/February 2025.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 7 February 2025 Friday"
+              "title": "Outgoing links from February 2025"
             }
           },
           {
@@ -210,10 +210,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/7 February 2025 Friday.md"
+                "file": "Journal/February 2025.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 7 February 2025 Friday"
+              "title": "Outline of February 2025"
             }
           },
           {
@@ -245,10 +245,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a05090e9376fd9d7",
+  "active": "3b7693b655fd09fa",
   "lastOpenFiles": [
-    "Journal/February 2025.md",
     "Journal/10 February 2025 Monday.md",
+    "0-inbox/Synthetic Data Closure.md",
+    "Journal/February 2025.md",
+    "Journal/9 February 2025 Sunday.md",
+    "Journal/8 February 2025 Saturday.md",
     "Journal/7 February 2025 Friday.md",
     "Journal/6 February 2025 Thursday.md",
     "Journal/5 February 2025 Wednesday.md",
@@ -259,7 +262,6 @@
     "Journal/1 February 2025 Saturday.md",
     "Input/Books/Books.md",
     "00-Zettelkasten/Constraints on wealth redistribution..md",
-    "Journal/9 February 2025 Sunday.md",
     "Output/Summary of Stubborn Attachments by Tyler Cowen.md",
     "2-areas/Physics/Summary of Relativity.md",
     "Output/Summary of The Case Against Education by Bryan Caplan.md",
@@ -271,8 +273,6 @@
     "00-Zettelkasten/Intuitively wrong to discount future over long time frames.md",
     "00-Zettelkasten/Long-term economic growth is biggest factor in lifting people out of poverty.md",
     "0-inbox/MAC meeting 5 February 2025.md",
-    "Input/Books/Knowledge, Reality, and Value.md",
-    "0-inbox/Can derive the velocity parameter using Wick rotation.md",
     "Journal/January 2025",
     "Journal/#February 2025.md#",
     "Untitled.canvas",

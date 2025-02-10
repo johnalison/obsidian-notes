@@ -38,7 +38,7 @@
 - [ ] Look at more HGC applications
 - [ ] Call Liberty mutual re:tree down
 - [>>] Do  [[Synthetic Data Closure]]
-- [ ]  Pay UPMC $500 ? 
+- [>>]  Pay UPMC $500 ? 
 - [x]  Review slides
 	- [x] Hbb
 	- [x] MAC

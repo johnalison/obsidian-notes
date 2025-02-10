@@ -1,22 +1,22 @@
 
-|     |          |     |
-| --- | -------- | --- |
-| 9   | Teaching |     |
-|     | Teaching |     |
-| 10  |          |     |
-|     |          |     |
-| 11  |          |     |
-|     |          |     |
-| 12  | Hoops    |     |
-|     | Hoops    |     |
-| 1   | Hoops    |     |
-|     | Hoops    |     |
-| 2   | Home     |     |
-|     |          |     |
-| 3   |          |     |
-|     |          |     |
-| 4   |          |     |
-|     |          |     |
+|     | setup                      |     |
+| --- | -------------------------- | --- |
+| 9   | Teaching                   |     |
+|     | Teaching                   |     |
+| 10  | [[Synthetic Data Closure]] |     |
+|     | [[Synthetic Data Closure]] |     |
+| 11  | [[Synthetic Data Closure]] |     |
+|     | Get exams                  |     |
+| 12  | Hoops                      |     |
+|     | Hoops                      |     |
+| 1   | Hoops                      |     |
+|     | Hoops                      |     |
+| 2   | Home                       |     |
+|     |                            |     |
+| 3   |                            |     |
+|     |                            |     |
+| 4   |                            |     |
+|     |                            |     |
 
 **W:**
 **DW:**
@@ -35,6 +35,7 @@
 - [ ] FBI Followup
 - [ ] L2 Comments 
 - [ ]  Do  [[Synthetic Data Closure]]
+- [ ] Call eye doctor re: $500.
 
 ---
 
@@ -48,3 +49,8 @@ M to school
 
 # [[Synthetic Data Closure]]
 - [ ] Fit JCM to synthetic data
+- Making synthetic data histograms:
+- `time python runner.py -o synthetic_data_RunII_seedXXX.coffea -d synthetic_data  -p analysis/processors/processor_HH4b.py -y UL17 UL18 UL16_preVFP UL16_postVFP -op ${OUTPUT_DIR} -c analysis/metadata/HH4b_run_fastTopReco.yml -m metadata/datasets_HH4b_fourTag.yml`
+
+# Taught 
+- Relativistic Momentum 
