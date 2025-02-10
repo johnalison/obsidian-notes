@@ -59,7 +59,7 @@ M & T to school
 - [>>] Review slides
 
 # Hoops
-- Couldnt make a shot ! Good passes
+- Couldn't make a shot ! Good passes
 
 MAC meeting still going... 3 hrs!
 
@@ -68,12 +68,12 @@ MAC meeting still going... 3 hrs!
 [[CAM Turnaround Report]]
 
 Chat AE: 
-- Limits  5.5 SM with correct normalization!
+- Limits  5.5× SM with correct normalization!
 - Had chat with reAna ... need to plan next steps
 
 # Aishik Ghosh  Seminar
 - 10e4 NN !
-- Model effect of systematic uncertianties in the full phase space using NN
+- Model effect of systematic uncertainties in the full phase space using NN
 - Shows improvement of high-D over 1D... Not clear how much improvement there would be eg: over 2D. 
 - [[Correct background bias in full dimensional space]]
 

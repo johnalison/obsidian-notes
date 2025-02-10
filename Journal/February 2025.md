@@ -6,7 +6,7 @@
 | 4  T | Work all day! / Outreach meeting / Start FvT Fits / Wrote up problems           | 7/3/1 |
 | 5  W | (Aishik Ghosh visit) Taught / Aniket Talk / **Hoops** / Ornella / Dinner Eleven | 6/3/2 |
 | 6  H | Finish Wes Letter / Diane T discussion / Jim Picard / Finish [[Life and Fate]]  | 8/3/1 |
-| 7  F | (Lab Tour) (T Birthday!)                                                        |       |
+| 7  F | (HS Field Trip) (T Birthday!) Exam 1/ **Hoops** /                               | 6/3/0 |
 | 8  S |                                                                                 |       |
 | 9  S |                                                                                 |       |
 | 10 M |                                                                                 |       |

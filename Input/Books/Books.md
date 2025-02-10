@@ -2,6 +2,10 @@
 
 - [[Fly By Night Physics]] (Anthony Zee)
 
+- [[MacBeth]]
+
+- [[I See Satan Fall Like Lightning]]
+
 ---
 
 - [[Life and Fate]] (Vasily Grossman)

@@ -12,16 +12,16 @@
 | 1   | Hoops                  |     |
 |     | Hoops                  |     |
 | 2   | 4b                     |     |
-|     |                        |     |
+|     | Ables re:another Ad    |     |
 | 3   | CMU CMS                |     |
 |     | Working Lab Tech Ad    |     |
 | 4   | Chat Tony              |     |
 |     | Whiskey Roy and Markus |     |
 
-**W:**
-**DW:**
-**OT:**
-**ex** or **No ex**
+**W:** 6 
+**DW:** 3
+**OT:** 0
+**ex** 
 
 ---
 # The ONE thing: 
@@ -30,21 +30,21 @@
 ---
 # To Do
 
-- [ ] L2 Comments 
+- [>>] L2 Comments 
 - [x] Move on Machinist Ad for Jim
 - [x]  Sam proposal
 - [x]  Mail MP re:Money for cases
 - [ ] Chat Mans re SOW
 - [ ] Look at more HGC applications
 - [ ] Call Liberty mutual re:tree down
-- [ ] Do  [[Synthetic Data Closure]]
+- [>>] Do  [[Synthetic Data Closure]]
 - [ ]  Pay UPMC $500 ? 
 - [x]  Review slides
 	- [x] Hbb
 	- [x] MAC
 - [x] Reinbursement for Dinner
-- [ ] FBI Followup
-- [ ] Grade Exams
+- [>>] FBI Followup
+- [>>] Grade Exams
 - [x] ECS Reply
 - [x] MacBeth
 
@@ -70,7 +70,7 @@ Got a ton of L2 comments
 
 
 # [[Synthetic Data Closure]]
-- [ ] Fit JCM to synthetic data
+- [>>] Fit JCM to synthetic data
 
 
 # Did high-school field trip

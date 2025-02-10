@@ -64,7 +64,7 @@ Package arrived with a bunch of fittings
 
 
 # [[Synthetic Data Closure]]
-- See dialy's above
+- See daily's above
 
 
 Some [[Wesley Terrill Letter Spring 25]]

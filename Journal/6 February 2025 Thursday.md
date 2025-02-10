@@ -39,7 +39,7 @@
 	- [>>] Hbb
 	- [>>] MAC
 - [x] Follow up with James Picard
-- [>>] Reinbursement for Dinner
+- [>>] Reimbursement for Dinner
 - [>>] FBI Followup
 - [>>] Understand money for crates
 
@@ -67,8 +67,8 @@ Thinking about ... [[Correct background bias in full dimensional space]]
 Working [[Wesley Terrill Letter Spring 25]]
 
 # Faculty Meeting
-- TA awards: Why not give all three awards
-- Diane reappointed but much discussion
+- TA awards: Why not give all three awards ?
+- Diane reappointed but much discussion...
 
 
 Finished [[Wesley Terrill Letter Spring 25]]
@@ -85,7 +85,7 @@ Printed exams... Key is to print a copy then scan them to make more.
 - Seems good. 
 - [>>] Ad out for Jim
 - Claims the Robotics Institute is moving away from actually building robots 
-- 60k
+- Wants ~60k
 
 Chat MP re:Jim... go ahead
 

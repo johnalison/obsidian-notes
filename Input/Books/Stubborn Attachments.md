@@ -35,7 +35,7 @@ In general, we can get better politics by getting the future right.
 
 
 # Follow-ups
-
+[[Summary of Stubborn Attachments by Tyler Cowen]]
 
 # Links: 
 [[Libertarianism Limits]]
