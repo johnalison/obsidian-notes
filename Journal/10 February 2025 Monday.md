@@ -35,8 +35,8 @@
 - [x] FBI Followup
 - [ ] L2 Comments 
 - [ ]  Do  [[Synthetic Data Closure]]
-- [ ] Call eye doctor re: $500.
-- [ ] FNAL Trainging
+- [x] Call eye doctor re: $500.
+- [x] FNAL Trainging
 
 ---
 
@@ -80,7 +80,10 @@ More [[Synthetic Data Closure]]
 * 1 877 371 5422 (ex 4) DHS 
 * Turns out I did get the FBI letter.
 
-Obsess over substance, not status. What endures is what matters.
+Did Fermilab training
 
+Called re:Eye doctor insurance
 
-The hardest truth about happiness is that it's a choice.
+"Obsess over substance, not status. What endures is what matters."
+
+"The hardest truth about happiness is that it's a choice."
