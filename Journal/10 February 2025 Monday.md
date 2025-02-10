@@ -51,7 +51,8 @@ M to school
 - [ ] Fit JCM to synthetic data
 - Making synthetic data histograms:
 - `time python runner.py -o synthetic_data_RunII_seedXXX.coffea -d synthetic_data  -p analysis/processors/processor_HH4b.py -y UL17 UL18 UL16_preVFP UL16_postVFP -op ${OUTPUT_DIR} -c analysis/metadata/HH4b_run_fastTopReco.yml -m metadata/datasets_HH4b_fourTag.yml`
-- 
+- Fitting JCM
+- `python analysis/make_weights.py -o testJCM_Coffea_SyntheticData -c passPreSel -r SB --combine_input_file -i output/histAll.coffea output/synthetic_dataset_analyze_all/synthetic_data_RunII_seedXXX.coffea --data4bName syn_v0 -m plots/metadata/plotsJCMSyntheticData.yml`
 
 # Taught 
 - Relativistic Momentum 
