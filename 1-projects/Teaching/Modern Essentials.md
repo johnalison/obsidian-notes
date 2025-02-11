@@ -7,6 +7,9 @@ https://canvas.cmu.edu/courses/45541
 https://docs.google.com/spreadsheets/d/1htHTPUizPK_M7IS8KjQnDFON9FB6NSXc3cb-GmC0mxk/edit?gid=0#gid=0
 
 
+# Exam Grades
+https://docs.google.com/spreadsheets/d/1Fzyf5X8tl74k320pSklrHRDvUuKEqriylWgnjZTjHn4/edit?gid=0#gid=0
+
 Old Canvas: https://canvas.cmu.edu/courses/32799
 
 # Path
