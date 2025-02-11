@@ -64,3 +64,9 @@ AE Talk in CAT General Meeting during CMS week:
 
 
 # [[CMU HGC MAC Meeting 11 February 2025]]
+
+
+Chat Roy 
+
+More grading 
+
