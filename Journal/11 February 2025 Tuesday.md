@@ -59,4 +59,8 @@ AE Talk in CAT General Meeting during CMS week:
 
 
 # [[Synthetic Data Closure]]
-- 
+- `apptainer exec -B .:/srv --nv --pwd /srv docker://chuyuanliu/heptools:ml bash --init-file /entrypoint.sh`
+- Running the fit... seeing errors... sent mail to CL
+
+
+# [[CMU HGC MAC Meeting 11 February 2025]]
