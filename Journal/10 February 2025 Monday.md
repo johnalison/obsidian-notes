@@ -18,10 +18,10 @@
 | 4   | Meat Sauce                          |     |
 |     | w/T                                 |     |
 
-**W:**
-**DW:**
-**OT:**
-**ex** or **No ex**
+**W:** 5 
+**DW:** 1
+**OT:** 1
+**ex** 
 
 ---
 # The ONE thing: 
@@ -31,10 +31,10 @@
 # To Do
 
 - [x] Pick up exams
-- [ ] Grade exams
+- [>>] Grade exams
 - [x] FBI Followup
-- [ ] L2 Comments 
-- [ ]  Do  [[Synthetic Data Closure]]
+- [>>] L2 Comments 
+- [>>]  Do  [[Synthetic Data Closure]]
 - [x] Call eye doctor re: $500.
 - [x] FNAL Trainging
 
@@ -49,7 +49,7 @@ M to school
 
 
 # [[Synthetic Data Closure]]
-- [ ] Fit JCM to synthetic data
+- [x] Fit JCM to synthetic data
 - Making synthetic data histograms:
 - `time python runner.py -o synthetic_data_RunII_seedXXX.coffea -d synthetic_data  -p analysis/processors/processor_HH4b.py -y UL17 UL18 UL16_preVFP UL16_postVFP -op ${OUTPUT_DIR} -c analysis/metadata/HH4b_run_fastTopReco.yml -m metadata/datasets_HH4b_fourTag.yml`
 - Fitting JCM
@@ -57,7 +57,7 @@ M to school
 - committed and pushed changes
 
 # Taught 
-- Relativistic Momentum 
+- Relativistic Momentum: looking for c(m, b) basicailly the only thing it can be subject to depending only on the current state of the particle. ie: being local in space (not dependent on propoerties of other particle) and time (not dependent on the future state of the particle)
 
 
 Working [[Synthetic Data Closure]]
@@ -78,7 +78,7 @@ More [[Synthetic Data Closure]]
 - 10/24/2024
 - TCN **2377093190**
 * 1 877 371 5422 (ex 4) DHS 
-* Turns out I did get the FBI letter.
+* Turns out I did get the FBI letter... emailed CMU a copy
 
 Did Fermilab training
 

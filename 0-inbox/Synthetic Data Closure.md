@@ -1,4 +1,51 @@
 
+# Fitting Instructions from CL
+
+Here are the steps to set up environment and run the synthetic training on rogue01/02
+(require MR445)
+
+The following only need to be done once:
+- setup the apptainer tmp/cache dir and install grid certificate:
+    following the [step 1&2](https://gitlab.cern.ch/cms-cmu/coffea4bees/-/tree/master/python/classifier#falconrogue)
+
+Then for each run:
+- start a container following the  [step 3](https://gitlab.cern.ch/cms-cmu/coffea4bees/-/tree/master/python/classifier#falconrogue)
+  (the line: source ./classifier/install.sh is optional if you don't directly use the pyml.py cli)
+
+For synthetic dataset training:
+- modify the lines marked as TODO in the following files:
+
+classifier/config/workflows/synthetic/train.yml:
+      [**L29 the path to JCM weights for each synthetic data**](https://gitlab.cern.ch/cms-cmu/coffea4bees/-/blob/master/python/classifier/config/workflows/synthetic/train.yml#L29)
+        the python format can be used to specify the synthetic seed e.g. if the weights are stored in the following yml files:
+          JCM/synthetic_seed0/jetCombinatoricModel_SB.yml@@JCM_weights
+          JCM/synthetic_seed1/jetCombinatoricModel_SB.yml@@JCM_weights
+       then the following can be used:
+         JCM/synthetic_seed{synthetic}/jetCombinatoricModel_SB.yml@@JCM_weights
+       where the {synthetic} will be replaced by the string from the dict passed through -template e.g. in  [L12 of run.sh](https://gitlab.cern.ch/cms-cmu/coffea4bees/-/blob/master/python/classifier/config/workflows/synthetic/run.sh#L12) t the user and synthetic are passed
+     **[L50 the base path to store the models and metadata](https://gitlab.cern.ch/cms-cmu/coffea4bees/-/blob/master/python/classifier/config/workflows/synthetic/train.yml#L50)**
+
+classifier/config/workflows/synthetic/evaluate.yml
+   **[L24 the path to load model](https://gitlab.cern.ch/cms-cmu/coffea4bees/-/blob/master/python/classifier/config/workflows/synthetic/evaluate.yml#L24)**
+        this should be the same as L50 of train.yml but adding a result.json to the end
+    **[L37 the base path to store the evaluated friend trees](https://gitlab.cern.ch/cms-cmu/coffea4bees/-/blob/master/python/classifier/config/workflows/synthetic/evaluate.yml#L37)**
+
+The train.yml will train on 3b data, 4b synthetic, 3b+4b ttbar
+The evaluate.yml will evaluate 3b+4b data (since 3b and 4b data are stored in the same root file)
+
+- run the following:
+  bash classifier/config/workflows/synthetic/run.sh $LPCUSER
+ 
+  where the $LPCUSER is the lpc username, in order to store on eos.
+
+  if you get
+  OSError: [Errno 98] Address already in use
+  try other ports for monitor e.g.
+  bash classifier/config/workflows/synthetic/run.sh $LPCUSER 10100
+  this is because someone is using the default port 10200 (e.g. I am running on the same node)
+
+Let me know if you have any question
+
 
 
 # Logs

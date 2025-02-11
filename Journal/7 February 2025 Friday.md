@@ -15,7 +15,7 @@
 |     | Ables re:another Ad    |     |
 | 3   | CMU CMS                |     |
 |     | Working Lab Tech Ad    |     |
-| 4   | Chat Tony              |     |
+| 4   | Chat Tony Boyle        |     |
 |     | Whiskey Roy and Markus |     |
 
 **W:** 6 
@@ -34,9 +34,9 @@
 - [x] Move on Machinist Ad for Jim
 - [x]  Sam proposal
 - [x]  Mail MP re:Money for cases
-- [ ] Chat Mans re SOW
-- [ ] Look at more HGC applications
-- [ ] Call Liberty mutual re:tree down
+- [>>] Chat Mans re SOW
+- [>>] Look at more HGC applications
+- [>>] Call Liberty mutual re:tree down
 - [>>] Do  [[Synthetic Data Closure]]
 - [>>]  Pay UPMC $500 ? 
 - [x]  Review slides
@@ -58,7 +58,7 @@ Up at 7
 
 M and T to school
 
-Got a ton of L2 comments
+Got a tons of L2 comments
 
 # Teaching 
 - Exam #1 
@@ -86,10 +86,12 @@ Got MacBeth books
 Chat with Jeff about new job description
 
 # 4b Chat 
-
+- AE working comments 
+- CL: fitting new background method
+- SM: not much
 
 # CMU CMS
-
+- 6th floor (Confusion over 7316)
 
 [[Lab Techs Spring 2025]]
 

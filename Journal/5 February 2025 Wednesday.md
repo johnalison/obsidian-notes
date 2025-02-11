@@ -72,7 +72,7 @@ Chat AE:
 - Had chat with reAna ... need to plan next steps
 
 # Aishik Ghosh  Seminar
-- 10e4 NN !
+- 10e4 NNs !
 - Model effect of systematic uncertainties in the full phase space using NN
 - Shows improvement of high-D over 1D... Not clear how much improvement there would be eg: over 2D. 
 - [[Correct background bias in full dimensional space]]
