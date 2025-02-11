@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/10 February 2025 Monday.md",
+                "file": "Journal/11 February 2025 Tuesday.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10 February 2025 Monday"
+              "title": "11 February 2025 Tuesday"
             }
           },
           {
@@ -163,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/10 February 2025 Monday.md",
+                "file": "Journal/11 February 2025 Tuesday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 10 February 2025 Monday"
+              "title": "Backlinks for 11 February 2025 Tuesday"
             }
           },
           {
@@ -182,12 +182,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/10 February 2025 Monday.md",
+                "file": "Journal/11 February 2025 Tuesday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 10 February 2025 Monday"
+              "title": "Outgoing links from 11 February 2025 Tuesday"
             }
           },
           {
@@ -209,10 +209,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/10 February 2025 Monday.md"
+                "file": "Journal/11 February 2025 Tuesday.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 10 February 2025 Monday"
+              "title": "Outline of 11 February 2025 Tuesday"
             }
           },
           {
@@ -246,8 +246,9 @@
   },
   "active": "a53bfe1b69be06bc",
   "lastOpenFiles": [
-    "Journal/February 2025.md",
     "Journal/10 February 2025 Monday.md",
+    "Journal/11 February 2025 Tuesday.md",
+    "Journal/February 2025.md",
     "0-inbox/Synthetic Data Closure.md",
     "Journal/9 February 2025 Sunday.md",
     "Journal/8 February 2025 Saturday.md",
@@ -271,7 +272,6 @@
     "00-Zettelkasten/Sustainable Growth is a Moral Imperative.md",
     "00-Zettelkasten/Intuitively wrong to discount future over long time frames.md",
     "00-Zettelkasten/Long-term economic growth is biggest factor in lifting people out of poverty.md",
-    "0-inbox/MAC meeting 5 February 2025.md",
     "Journal/January 2025",
     "Journal/#February 2025.md#",
     "Untitled.canvas",
