@@ -8,8 +8,8 @@
 | 11  | [[Synthetic Data Closure]] |     |
 |     | MAC Meeting                |     |
 | 12  | MAC Meeting                |     |
-|     |                            |     |
-| 1   |                            |     |
+|     | Chat Roy                   |     |
+| 1   | L2 comments                |     |
 |     |                            |     |
 | 2   |                            |     |
 |     |                            |     |

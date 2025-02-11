@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/CMU HGC MAC Meeting 11 February 2025.md",
+                "file": "Journal/11 February 2025 Tuesday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for CMU HGC MAC Meeting 11 February 2025"
+              "title": "Backlinks for 11 February 2025 Tuesday"
             }
           },
           {
@@ -156,12 +156,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/CMU HGC MAC Meeting 11 February 2025.md",
+                "file": "Journal/11 February 2025 Tuesday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from CMU HGC MAC Meeting 11 February 2025"
+              "title": "Outgoing links from 11 February 2025 Tuesday"
             }
           },
           {
@@ -183,10 +183,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/CMU HGC MAC Meeting 11 February 2025.md"
+                "file": "Journal/11 February 2025 Tuesday.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of CMU HGC MAC Meeting 11 February 2025"
+              "title": "Outline of 11 February 2025 Tuesday"
             }
           },
           {
@@ -218,10 +218,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "15a71a9cf7de87f4",
+  "active": "4650ed2978183546",
   "lastOpenFiles": [
-    "Input/Meetings/CMU HGC MAC Meeting 4 February 2025.md",
     "0-inbox/CMU HGC MAC Meeting 11 February 2025.md",
+    "Input/Meetings/CMU HGC MAC Meeting 4 February 2025.md",
     "Journal/11 February 2025 Tuesday.md",
     "Journal/4 February 2025 Tuesday.md",
     "0-inbox/Synthetic Data Closure.md",
