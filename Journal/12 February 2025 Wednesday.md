@@ -69,7 +69,8 @@ Did some grading
 - Now need to run with FvT weights : example in `HH4b_example_FvT.yml`
 - Made `HH4b_synthetic_closure.yml`
 - `source synthetic-dataset-closure.sh`
-- 
+- Looks like a miss match between files names in json and file paths on eos... pinged CL
+
 # Chat AE re:L3 comments
 
 # Hoops
@@ -82,3 +83,7 @@ Finish Entering grades
 
 # bbWW
 - Will start moving to new coffea version and to run3
+
+# Thinking about the rho corrections
+- Need rho pdfs 
+- 
