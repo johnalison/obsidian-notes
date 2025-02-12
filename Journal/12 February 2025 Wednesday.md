@@ -61,3 +61,11 @@ Did some grading
 - Trying to train again.. CL fixed the container
 - Setup singularity ... reinstalled (good sign)
 - `> singularity exec -B .:/srv --nv --pwd /srv docker://chuyuanliu/heptools:ml bash --init-file /entrypoint.sh`
+- Now training runs great! 
+
+# Chat AE re:L3 comments
+
+# Hoops
+- Highland ... Good runs 
+- Played well but lost too many
+
