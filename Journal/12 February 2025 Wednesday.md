@@ -66,8 +66,10 @@ Did some grading
 - Now training runs great! 
 	- `bash classifier/config/workflows/synthetic/run.sh jda102`
 - Done **0:05:28****.****570593**
-- Now need to run with FvT weights : example in 
-
+- Now need to run with FvT weights : example in `HH4b_example_FvT.yml`
+- Made `HH4b_synthetic_closure.yml`
+- `source synthetic-dataset-closure.sh`
+- 
 # Chat AE re:L3 comments
 
 # Hoops
