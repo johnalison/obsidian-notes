@@ -11,10 +11,10 @@
 |     | Hoops                      |     |
 | 1   | Hopos                      |     |
 |     | Hoops                      |     |
-| 2   |                            |     |
-|     |                            |     |
-| 3   |                            |     |
-|     |                            |     |
+| 2   | Roy                        |     |
+|     | Roy                        |     |
+| 3   | Exam 1 / HW4               |     |
+|     | [[Synthetic Data Closure]] |     |
 | 4   | bbWW                       |     |
 |     | bbWW                       |     |
 
@@ -31,10 +31,12 @@
 # To Do
 
 - [x] Ping Ables re:ad
-- [ ] Post homework #4 
+- [x] Post homework #4 
 - [ ] Read for [[ARC TOP-24-006 3 top production]]
 - [ ] L2 Comments
 - [ ]   [[Synthetic Data Closure]]
+- [x] Finish Grading Exam #1
+
 
 ---
 
@@ -62,10 +64,17 @@ Did some grading
 - Setup singularity ... reinstalled (good sign)
 - `> singularity exec -B .:/srv --nv --pwd /srv docker://chuyuanliu/heptools:ml bash --init-file /entrypoint.sh`
 - Now training runs great! 
+	- `bash classifier/config/workflows/synthetic/run.sh jda102`
+- Done **0:05:28****.****570593**
+- Now need to run with FvT weights : example in 
 
 # Chat AE re:L3 comments
 
 # Hoops
 - Highland ... Good runs 
 - Played well but lost too many
+
+Chat Roy.
+
+Finish Entering grades
 
