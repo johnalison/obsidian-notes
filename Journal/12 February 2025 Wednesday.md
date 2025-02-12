@@ -60,4 +60,4 @@ Did some grading
 # [[Synthetic Data Closure]]
 - Trying to train again.. CL fixed the container
 - Setup singularity ... reinstalled (good sign)
-- 
+- `> singularity exec -B .:/srv --nv --pwd /srv docker://chuyuanliu/heptools:ml bash --init-file /entrypoint.sh`
