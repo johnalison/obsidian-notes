@@ -10,7 +10,7 @@
 | 8  S | Wrote up [[Stubborn Attachments]] and [[Life and Fate]] / **Kettle Bells** / MacBeth |       |
 | 9  S | T sick / Reading / **Gym** / Posted Summary of [[Stubborn Attachments]]              |       |
 | 10 M | Taught / [[Synthetic Data Closure]] / **Hoops/SR** / Home T sick / Meat Sauce        | 5/1/1 |
-| 11 T |                                                                                      |       |
+| 11 T | AE in CMS week/ Grade Exams / Home / L2 questions / Hair cuts / Reading              | 6/3/1 |
 | 12 W |                                                                                      |       |
 | 13 H |                                                                                      |       |
 | 14 F |                                                                                      |       |

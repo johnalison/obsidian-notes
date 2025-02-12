@@ -1,7 +1,7 @@
 
 |     | setup                      |     |
 | --- | -------------------------- | --- |
-| 9   |                            |     |
+| 9   | setup                      |     |
 |     | Wes                        |     |
 | 10  | [[Synthetic Data Closure]] |     |
 |     | [[Synthetic Data Closure]] |     |
@@ -10,18 +10,18 @@
 | 12  | MAC Meeting                |     |
 |     | Chat Roy                   |     |
 | 1   | L2 comments                |     |
-|     |                            |     |
-| 2   |                            |     |
-|     |                            |     |
-| 3   | Mans Meeting               |     |
-|     | Mans Meeting               |     |
-| 4   | Mans Meeting               |     |
-|     |                            |     |
+|     | Home                       |     |
+| 2   | T Down                     |     |
+|     | M Down                     |     |
+| 3   | L2 comments                |     |
+|     | L2 comments                |     |
+| 4   | L2 comments                |     |
+|     | Pick up H                  |     |
 
-**W:**
-**DW:**
-**OT:**
-**ex** or **No ex**
+**W:** 6 
+**DW:** 3
+**OT:** 1
+**No ex**
 
 ---
 # The ONE thing: 
@@ -32,10 +32,10 @@
 
 - [ ] Chat Mans re SOW
 - [ ]  [[Synthetic Data Closure]]
-- [ ] Look at more HGC applications (Ping Allison again?)
+- [x] Look at more HGC applications (Ping Allison again?)
 - [ ] Call Liberty mutual re:tree down
-- [ ] Grade Exams
-- [ ] L2 Comments
+- [x] Grade Exams
+- [>>] L2 Comments
 
 ---
 
@@ -63,6 +63,7 @@ AE Talk in CAT General Meeting during CMS week:
 - Running the fit... seeing errors... sent mail to CL
 
 # Ornella Starts !
+
 # [[CMU HGC MAC Meeting 11 February 2025]]
 
 

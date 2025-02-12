@@ -1,22 +1,22 @@
 
-|     |     |     |
-| --- | --- | --- |
-| 9   |     |     |
-|     |     |     |
-| 10  |     |     |
-|     |     |     |
-| 11  |     |     |
-|     |     |     |
-| 12  |     |     |
-|     |     |     |
-| 1   |     |     |
-|     |     |     |
-| 2   |     |     |
-|     |     |     |
-| 3   |     |     |
-|     |     |     |
-| 4   |     |     |
-|     |     |     |
+|     |                            |     |
+| --- | -------------------------- | --- |
+| 9   | Teaching                   |     |
+|     | Teaching                   |     |
+| 10  | Grades                     |     |
+|     | [[Synthetic Data Closure]] |     |
+| 11  | [[Synthetic Data Closure]] |     |
+|     | [[Synthetic Data Closure]] |     |
+| 12  | Hoops                      |     |
+|     | Hoops                      |     |
+| 1   | Hopos                      |     |
+|     | Hoops                      |     |
+| 2   |                            |     |
+|     |                            |     |
+| 3   |                            |     |
+|     |                            |     |
+| 4   | bbWW                       |     |
+|     | bbWW                       |     |
 
 **W:**
 **DW:**
@@ -25,15 +25,16 @@
 
 ---
 # The ONE thing: 
-- [ ] 
+- [ ] [[Synthetic Data Closure]]
 
 ---
 # To Do
 
-- [ ] Ping Ables re:ad
-- [ ] 
-- [ ] 
-- [ ] 
+- [x] Ping Ables re:ad
+- [ ] Post homework #4 
+- [ ] Read for [[ARC TOP-24-006 3 top production]]
+- [ ] L2 Comments
+- [ ]   [[Synthetic Data Closure]]
 
 ---
 
@@ -50,3 +51,13 @@ Good idea last night (while in bed):
 - mass of the jets is not an invariant ! Depends on the jet pt 
 - Should recompute the mass after transform back and have the pt
 - Need new pt jet 
+
+# Taught
+- Relativistic Energy! 
+
+Did some grading
+
+# [[Synthetic Data Closure]]
+- Trying to train again.. CL fixed the container
+- Setup singularity ... reinstalled (good sign)
+- 
