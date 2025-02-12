@@ -62,7 +62,7 @@ AE Talk in CAT General Meeting during CMS week:
 - `apptainer exec -B .:/srv --nv --pwd /srv docker://chuyuanliu/heptools:ml bash --init-file /entrypoint.sh`
 - Running the fit... seeing errors... sent mail to CL
 
-
+# Ornella Starts !
 # [[CMU HGC MAC Meeting 11 February 2025]]
 
 
@@ -77,3 +77,11 @@ Finished Grading
 Home
 
 More L2 questions [[Run2 HH4b AN]]
+
+Kids to get hair cuts. 
+
+Some [[MacBeth]]
+
+Some [[Fly By Night Physics]]
+
+Request for Pitt thesis committee 

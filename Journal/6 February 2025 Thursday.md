@@ -59,9 +59,9 @@ M&T to school
 
 # Taught
 - Start dynamics. Setup collision problem
-- Dual descriptions: inside vs boundries... will focus here on the boundries
-- QM provides a deep reason for there to be classically conserved quantitites
-- looking for c(m, b) basicailly the only thing it can be subject to depending only on the current state of the particle. ie: being local in space (not dependent on propoerties of other particle) and time (not dependent on the future state of the particle)
+- Dual descriptions: inside vs boundaries... will focus here on the boundaries
+- QM provides a deep reason for there to be classically conserved quantities
+- looking for c(m, b) basically the only thing it can be subject to depending only on the current state of the particle. ie: being local in space (not dependent on properties of other particle) and time (not dependent on the future state of the particle)
 
 
 # Lepton Chat
