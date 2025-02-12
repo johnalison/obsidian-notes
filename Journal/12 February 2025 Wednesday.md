@@ -70,6 +70,9 @@ Did some grading
 - Made `HH4b_synthetic_closure.yml`
 - `source synthetic-dataset-closure.sh`
 - Looks like a miss match between files names in json and file paths on eos... pinged CL
+- Was giving the wrong input datasets file now updated.
+- OK working now running on **cmslpc317**
+- 
 
 # Chat AE re:L3 comments
 
@@ -86,4 +89,5 @@ Finish Entering grades
 
 # Thinking about the rho corrections
 - Need rho pdfs 
-- 
+- Can update the mass in `def decluster_combined_jets` in `declustering.py`
+- [ ] Need to make pdfs
