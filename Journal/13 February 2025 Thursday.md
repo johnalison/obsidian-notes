@@ -53,4 +53,27 @@ M&T to school in light rain
 
 # [[Synthetic Data Closure]]
 - Retrying on **cmslpc317** with only the data
-- 
+
+# Taught 
+- Mass - Energy relation from inelastic collisions  
+- Irony of physics: Either + Mass now Mass emergent but mass of fundamental particles need ether 
+
+
+# Stats Chat
+- Discuss journal 
+
+# Gym / Steamroom
+- core / front raises / shruggs / lounges 
+- 10' at Tmax = 124 
+
+# [[Modern Essentials]]
+- Extra credit ideas: 
+	- QM: delta function molecules and solids
+	- Units/Estimation problems
+	- 
+
+Chat Reinhard 
+
+[[CAM Variance February 2025]]
+
+
