@@ -47,6 +47,9 @@ The activities contributing to the cumulative SV is due to upstream delay of inp
 
 
 # 402.04.04.02 CE - Module Factories
+
+## Cumulative
+
 - -339k
 	- -140
 		- -80: Delivery of production module teststands
@@ -64,6 +67,19 @@ There is a cumulative schedule variance of -$339k in the cost account
 - -20k for purchase of shipping cases
 
 This is a result of delays in the thermal unit design and delivery of testing electronics. The current estimate is that the testing electronics will be shipped in a few weeks to CMU, TTU and UCSB in time for the MAC ramp-up. A decision on the shipping crates has been made an purchases have started.  The procurement of the final tooling is well under way and much of this value should be earned next  month.  The test infrastructure will also be ordered shortly, once the statement of work is available at CMU. 
+
+## Current
+
+- -145k
+	- -85k 402.44.501412 CE-Silicon Modules Factory FNAL M&S MIE-C  procurement of the final module factory tooling
+	- - 60k 402.44.201392 Silicon Module Teststands MIE UNIV M&S: procurement of infrastruture needed for the final module teststands 
+
+There is a current schedule variance of -$145k in the cost account 
+402.04.04.02 CE - Module Factories  The variance has two pieces:
+- - 85k for procurement and oversight of the final module factory tooling
+- -60k procurement of infrastructure needed for the final module test stands 
+
+
 
 # Follow-ups
 

@@ -25,13 +25,14 @@
 
 ---
 # The ONE thing: 
-- [ ] 
+- [x] VAR
+- [ ] [[Synthetic Data Closure]]
 
 ---
 # To Do
 
-- [ ] VARs
-- [ ] Buy Cases to ship send to UCSB 
+- [x] VARs
+- [x] Buy Cases to ship send to UCSB 
 - [x] Ping Roberts on Buying Crates
 - [ ] Valentina / Matteo Round table
 - [ ]  Chat Mans re SOW
@@ -75,5 +76,11 @@ M&T to school in light rain
 Chat Reinhard 
 
 [[CAM Variance February 2025]]
+- found money for shipping creates
 
 
+# Office Hours
+- lots of people
+- Need idea for extra credit. 
+
+Finished VARs
