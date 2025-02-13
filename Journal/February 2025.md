@@ -11,9 +11,9 @@
 | 9  S | T sick / Reading / **Gym** / Posted Summary of [[Stubborn Attachments]]              |       |
 | 10 M | Taught / [[Synthetic Data Closure]] / **Hoops/SR** / Home T sick / Meat Sauce        | 5/1/1 |
 | 11 T | AE in CMS week/ Grade Exams / Home / L2 questions / Hair cuts / Reading              | 6/3/1 |
-| 12 W |                                                                                      |       |
+| 12 W | Idea for Better jet masses / Taught / Ran FvT Fits / **Hoops** / Plot grades         | 6/3/2 |
 | 13 H |                                                                                      |       |
-| 14 F |                                                                                      |       |
+| 14 F | (Social Host)                                                                        |       |
 | 15 S |                                                                                      |       |
 | 16 S |                                                                                      |       |
 | 17 M | (No Cyert)                                                                           |       |

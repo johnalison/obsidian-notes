@@ -1,5 +1,5 @@
 
-|     |                            |     |
+|     | setup                      |     |
 | --- | -------------------------- | --- |
 | 9   | Teaching                   |     |
 |     | Teaching                   |     |
@@ -18,10 +18,10 @@
 | 4   | bbWW                       |     |
 |     | bbWW                       |     |
 
-**W:**
-**DW:**
-**OT:**
-**ex** or **No ex**
+**W:** 6
+**DW:** 3
+**OT:** 2
+**ex** 
 
 ---
 # The ONE thing: 
@@ -32,9 +32,9 @@
 
 - [x] Ping Ables re:ad
 - [x] Post homework #4 
-- [ ] Read for [[ARC TOP-24-006 3 top production]]
-- [ ] L2 Comments
-- [ ]   [[Synthetic Data Closure]]
+- [>>] Read for [[ARC TOP-24-006 3 top production]]
+- [>>] L2 Comments
+- [>>]   [[Synthetic Data Closure]]
 - [x] Finish Grading Exam #1
 
 
@@ -72,9 +72,11 @@ Did some grading
 - Looks like a miss match between files names in json and file paths on eos... pinged CL
 - Was giving the wrong input datasets file now updated.
 - OK working now running on **cmslpc317**
-- 
+- Crashed... .Should run the data/TTbar Separately ....
+
 
 # Chat AE re:L3 comments
+
 
 # Hoops
 - Highland ... Good runs 
@@ -91,3 +93,9 @@ Finish Entering grades
 - Need rho pdfs 
 - Can update the mass in `def decluster_combined_jets` in `declustering.py`
 - [ ] Need to make pdfs
+
+Home 
+
+Some [[MacBeth]]
+Some [[Fly By Night Physics]]
+

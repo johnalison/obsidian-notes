@@ -46,7 +46,7 @@
 - [>>] FBI Followup
 - [>>] Grade Exams
 - [x] ECS Reply
-- [x] MacBeth
+- [x] Get MacBeth Books
 
 ---
 
@@ -74,7 +74,7 @@ Got a tons of L2 comments
 
 
 # Did high-school field trip
-- Physics is Philosophy 
+- Physics is Philosophy !
 - QM revolution
 
 # Hoops
@@ -97,7 +97,7 @@ Chat with Jeff about new job description
 
 # Chat with Tony 
 - [[Hbb Reclustering Project]]
-- Will look into dR will meet on thursdays at 1:30
+- Will look into dR will meet on Thursdays at 1:30
 
 # Whiskey with Markus and Roy
 - Chat re: continuous spin

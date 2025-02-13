@@ -30,10 +30,10 @@
 ---
 # To Do
 
-- [ ] Chat Mans re SOW
-- [ ]  [[Synthetic Data Closure]]
+- [>>] Chat Mans re SOW
+- [>>]  [[Synthetic Data Closure]]
 - [x] Look at more HGC applications (Ping Allison again?)
-- [ ] Call Liberty mutual re:tree down
+- [>>] Call Liberty mutual re:tree down
 - [x] Grade Exams
 - [>>] L2 Comments
 
@@ -51,9 +51,10 @@ setup
 - HGCAL: Marchello and Eva. Updating the paper aim 2 weeks. 
 - Wes will present summary of studies at HGCAL week
 - SoS: fits are still running. Should try removing systematics 
+- Told him to think more about what analysis he would do for other applications
 
 
-AE Talk in CAT General Meeting during CMS week:
+# AE Talk in CAT General Meeting during CMS week:
 - https://indico.cern.ch/event/1511085/
 - Q: Can we decouple the reAna cluster from the computing backend.
 
@@ -64,14 +65,14 @@ AE Talk in CAT General Meeting during CMS week:
 
 # Ornella Starts !
 
+
 # [[CMU HGC MAC Meeting 11 February 2025]]
 
 
 Chat Roy 
 
 More grading 
-
-[[Modern Essentials]]
+- [[Modern Essentials]]
 
 Finished Grading
 
