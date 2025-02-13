@@ -47,3 +47,10 @@
 Up at 7. .. Meds
 
 M&T to school in light rain
+
+# FBC2
+
+
+# [[Synthetic Data Closure]]
+- Retrying on **cmslpc317** with only the data
+- 
