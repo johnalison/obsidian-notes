@@ -61,6 +61,19 @@ M & T to school
 	- Download ttbar files locally, scp to LPC, merge
 	- `python analysis/tools/merge_coffea_files.py -o output/hist__TT/histAll_TTbar.coffea -f output/hist__TT/hist__TTTo*coffea`
 - Made pltos comparing background synthetic data... FvT way off!
+- [ ] Make FvT files for synthetic data
 
 Lots of [[Synthetic Data Closure]]
 
+# Hoops 
+- 3s at Highmark 
+- Good play. Great passing and finishing!
+
+# 4b Chat 
+- AE to make the signal distribution flat,  finishing L2 comments
+- JA: needs to debug Synthteitc data phase space
+- CL: finisihing background fits
+- SM: putting slides together
+
+Think about how ttbar mismodelling affects total background fit. 
+- What is the relationship to DvT ? 
