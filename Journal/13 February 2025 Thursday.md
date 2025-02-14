@@ -54,6 +54,8 @@ M&T to school in light rain
 
 # [[Synthetic Data Closure]]
 - Retrying on **cmslpc317** with only the data
+- data works!
+- [ ] Debug synthetic data ... Is it needed ?
 
 # Taught 
 - Mass - Energy relation from inelastic collisions  
@@ -84,3 +86,8 @@ Chat Reinhard
 - Need idea for extra credit. 
 
 Finished VARs
+
+Some [[Synthetic Data Closure]]
+
+Home 
+
