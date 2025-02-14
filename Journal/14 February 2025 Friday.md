@@ -5,8 +5,8 @@
 |     | Teach                      |     |
 | 10  | setup                      |     |
 |     | [[Synthetic Data Closure]] |     |
-| 11  | Progress Report            |     |
-|     | Progress Report            |     |
+| 11  | [[Synthetic Data Closure]] |     |
+|     | [[Synthetic Data Closure]] |     |
 | 12  | Hoops                      |     |
 |     | Hoops                      |     |
 | 1   | Hoops                      |     |
@@ -38,6 +38,7 @@
 - [ ] Read for [[ARC TOP-24-006 3 top production]]
 - [ ] L2 Comments
 - [ ] Progress Reports
+- [ ] Add overflow to last bin
 ---
 
 # Log
@@ -59,3 +60,7 @@ M & T to school
 - Chat AE: can wget the files and merge.
 	- Download ttbar files locally, scp to LPC, merge
 	- `python analysis/tools/merge_coffea_files.py -o output/hist__TT/histAll_TTbar.coffea -f output/hist__TT/hist__TTTo*coffea`
+- Made pltos comparing background synthetic data... FvT way off!
+
+Lots of [[Synthetic Data Closure]]
+
