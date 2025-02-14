@@ -16,12 +16,12 @@
 | 3   | Office Hours |     |
 |     | VARs         |     |
 | 4   | VARs         |     |
-|     |              |     |
+|     | chat AE      |     |
 
-**W:**
-**DW:**
-**OT:**
-**ex** or **No ex**
+**W:** 6 
+**DW:** 4
+**OT:** 1
+**ex** 
 
 ---
 # The ONE thing: 
@@ -34,12 +34,12 @@
 - [x] VARs
 - [x] Buy Cases to ship send to UCSB 
 - [x] Ping Roberts on Buying Crates
-- [ ] Valentina / Matteo Round table
+- [>>] Valentina / Matteo Round table
 - [ ]  Chat Mans re SOW
-- [ ]  [[Synthetic Data Closure]]
+- [>>]  [[Synthetic Data Closure]]
 - [ ] Call Liberty mutual re:tree down
-- [ ] Read for [[ARC TOP-24-006 3 top production]]
-- [ ] L2 Comments
+- [>>] Read for [[ARC TOP-24-006 3 top production]]
+- [>>] L2 Comments
 
 ---
 
@@ -55,7 +55,7 @@ M&T to school in light rain
 # [[Synthetic Data Closure]]
 - Retrying on **cmslpc317** with only the data
 - data works!
-- [ ] Debug synthetic data ... Is it needed ?
+- [>>] Debug synthetic data ... Is it needed ?
 
 # Taught 
 - Mass - Energy relation from inelastic collisions  
@@ -73,9 +73,11 @@ M&T to school in light rain
 - Extra credit ideas: 
 	- QM: delta function molecules and solids
 	- Units/Estimation problems
-	- 
+	- SR ideas
 
 Chat Reinhard 
+
+# Chat Tony
 
 [[CAM Variance February 2025]]
 - found money for shipping creates
@@ -91,3 +93,4 @@ Some [[Synthetic Data Closure]]
 
 Home 
 
+Finished [[MacBeth]]

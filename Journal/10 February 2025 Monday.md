@@ -81,9 +81,9 @@ Called re:Eye doctor insurance
 
 Got H and M in car
 
-"Obsess over substance, not status. What endures is what matters."
+*"Obsess over substance, not status. What endures is what matters."*
 
-"The hardest truth about happiness is that it's a choice."
+*"The hardest truth about happiness is that it's a choice."*
 
 Some [[MacBeth]]
 Some [[Fly By Night Physics]]

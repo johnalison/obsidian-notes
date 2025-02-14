@@ -12,7 +12,7 @@
 | 10 M | Taught / [[Synthetic Data Closure]] / **Hoops/SR** / Home T sick / Meat Sauce        | 5/1/1 |
 | 11 T | AE in CMS week/ Grade Exams / Home / L2 questions / Hair cuts / Reading              | 6/3/1 |
 | 12 W | Idea for Better jet masses / Taught / Ran FvT Fits / **Hoops** / Plot grades         | 6/3/2 |
-| 13 H |                                                                                      |       |
+| 13 H | Taught / **Gym/SR** / Did Vars / Office Hours                                        | 6/4/1 |
 | 14 F | (Social Host)                                                                        |       |
 | 15 S |                                                                                      |       |
 | 16 S |                                                                                      |       |

@@ -89,10 +89,11 @@ Finish Entering grades
 # bbWW
 - Will start moving to new coffea version and to run3
 
-# Thinking about the rho corrections
+# [[Jet DeClustering]]
+Thinking about the rho corrections
 - Need rho pdfs 
 - Can update the mass in `def decluster_combined_jets` in `declustering.py`
-- [ ] Need to make pdfs
+- [>>] Need to make pdfs
 
 Home 
 

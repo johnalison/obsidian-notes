@@ -45,7 +45,6 @@ Up at 7.
 
 setup
 
-
 # Chat Wes
 - Submitted application. 
 - HGCAL: Marchello and Eva. Updating the paper aim 2 weeks. 
@@ -60,8 +59,7 @@ setup
 
 
 # [[Synthetic Data Closure]]
-- `apptainer exec -B .:/srv --nv --pwd /srv docker://chuyuanliu/heptools:ml bash --init-file /entrypoint.sh`
-- Running the fit... seeing errors... sent mail to CL
+- see daily's above
 
 # Ornella Starts !
 

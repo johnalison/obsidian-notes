@@ -1,22 +1,22 @@
 
-|     |                 |     |
-| --- | --------------- | --- |
-| 9   | Teach           |     |
-|     | Teach           |     |
-| 10  | Progress Report |     |
-|     | Progress Report |     |
-| 11  |                 |     |
-|     |                 |     |
-| 12  | Hoops           |     |
-|     | Hoops           |     |
-| 1   | Hoops           |     |
-|     | Hoops           |     |
-| 2   | 4b              |     |
-|     |                 |     |
-| 3   | CMU CMS         |     |
-|     |                 |     |
-| 4   |                 |     |
-|     | Social Host     |     |
+|     | setup                      |     |
+| --- | -------------------------- | --- |
+| 9   | Teach                      |     |
+|     | Teach                      |     |
+| 10  | setup                      |     |
+|     | [[Synthetic Data Closure]] |     |
+| 11  | Progress Report            |     |
+|     | Progress Report            |     |
+| 12  | Hoops                      |     |
+|     | Hoops                      |     |
+| 1   | Hoops                      |     |
+|     | Hoops                      |     |
+| 2   | 4b                         |     |
+|     |                            |     |
+| 3   | CMU CMS                    |     |
+|     |                            |     |
+| 4   |                            |     |
+|     | Social Host                |     |
 
 **W:**
 **DW:**
@@ -32,9 +32,12 @@
 
 - [ ] Applications for Hy
 - [ ] Ping Abels 
-- [ ] 
-- [ ] 
-
+- [ ] Update synthetic data with rho corrections
+	- [ ] Make pdfs
+- [ ] [[Synthetic Data Closure]]
+- [ ] Read for [[ARC TOP-24-006 3 top production]]
+- [ ] L2 Comments
+- [ ] Progress Reports
 ---
 
 # Log
@@ -45,3 +48,12 @@ Up at 6:50
 M & T to school 
 
 [[Modern Essentials]]
+
+# Taught
+- Went over exams and homework
+
+# [[Synthetic Data Closure]]
+- Data finished in **152m35.996s**
+- [ ] Debug synthetic data ... Is it needed ?
+- Running ttbar ... bailed. 
+- Chat AE: can wget the files and merge.

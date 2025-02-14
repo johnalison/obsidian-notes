@@ -50,6 +50,11 @@ Let me know if you have any question
 
 # Logs
 
+[[11 February 2025 Tuesday]]
+- `apptainer exec -B .:/srv --nv --pwd /srv docker://chuyuanliu/heptools:ml bash --init-file /entrypoint.sh`
+- Running the fit... seeing errors... sent mail to CL
+
+
 [[10 February 2025 Monday]]
 - [x] Fit JCM to synthetic data
 - Making synthetic data histograms:
