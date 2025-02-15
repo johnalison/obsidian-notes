@@ -27,6 +27,8 @@ Disabled triggerswieghts cutflow to pass CI
 - re-training with PSData
 - Testing on **cmslpc336**
 	- `source .ci-workflows/synthetic-dataset-closure.sh `
+- Still see high FvT values
+- Running the evaluation on the synthetic data 
 
 Did REU comments
 
@@ -45,3 +47,4 @@ Some [[ProgressReport 14 February 2025]]
 # Did Finances 2.2/2.1
 
 Some [[MacBeth]]
+Some [[Fly By Night Physics]]
