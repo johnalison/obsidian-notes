@@ -20,7 +20,7 @@ I've started thinking about some good undergraduate projects: Universal Inferenc
 
 # Links: 
 [[Progress Reports]]
-[[ProgressReport 3 January 2024]]
+[[ProgressReport 3 January 2025]]
 
 
 202501171047

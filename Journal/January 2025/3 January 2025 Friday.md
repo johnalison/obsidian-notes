@@ -12,7 +12,7 @@
 | 1   | Gym                               |     |
 |     | Gym                               |     |
 | 2   | Gym                               |     |
-|     | [[ProgressReport 3 January 2024]] |     |
+|     | [[ProgressReport 3 January 2025]] |     |
 | 3   | Some Quantum Matter               |     |
 |     | [[CAM Training]]                  |     |
 | 4   | [[CAM Training]]                  |     |
@@ -67,7 +67,7 @@ Booked Ann Arbor Flight
 [[Quantum Phases of Matter Series]]
 - Finished Quantum Matter Lecture 2
 
-[[ProgressReport 3 January 2024]]
+[[ProgressReport 3 January 2025]]
 
 # Hoops 
 - Good slow start ... 3s , 4s 80% speed

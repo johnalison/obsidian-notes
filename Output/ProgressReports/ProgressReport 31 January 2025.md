@@ -3,7 +3,7 @@
 
 My personal habits have been all good. I have started to ramp back up on lifting, but need to start working more kettle bells.  The diet has been in check and just finished another easy four-day fast. I have been playing some great basketball and have had lots of fun hanging out with Clay and Steve, will try to put more work in with them. 
 
-I have realized that my biggest priority to should be the placement of my people. At some level I knew this before, but in these past weeks I have really internalized it. Ive been putting a lot of work into Wes' postdoc application. Its really coming along; there is more work needed, but we will get there. I also put a decent amount of time into Manfred's letter, which is along the same lines. 
+I have realized that my biggest priority should be the placement of my people. At some level I knew this before, but in these past weeks I have really internalized it. Ive been putting a lot of work into Wes' postdoc application. Its really coming along; there is more work needed, but we will get there. I also put a decent amount of time into Manfred's letter, which is along the same lines. 
 
 Chuyuan did his annual review.  It went very smooth, apparently there doesn't need to be someone outside of HEP on the these committee. This will make it go very smooth. He needs to get his thesis going and then starting thinking about what he wants to do afterwards.
 
@@ -20,7 +20,7 @@ HGC is ramping up. We are starting to make modules regularly. Josh will start ne
 
 
 # Links: 
-
+[[Progress Reports]]
 
 
 202501311714

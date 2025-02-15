@@ -31,14 +31,14 @@
 # To Do
 
 - [ ] Applications for Hy
-- [ ] Ping Abels 
+- [x] Ping Abels 
 - [ ] Update synthetic data with rho corrections
 	- [ ] Make pdfs
 - [ ] [[Synthetic Data Closure]]
 - [ ] Read for [[ARC TOP-24-006 3 top production]]
 - [ ] L2 Comments
-- [ ] Progress Reports
-- [ ] Add overflow to last bin
+- [ ] Finish [[ProgressReport 14 February 2025]]
+- [x] Add overflow to last bin
 ---
 
 # Log
@@ -75,5 +75,11 @@ Lots of [[Synthetic Data Closure]]
 - CL: finisihing background fits
 - SM: putting slides together
 
-Think about how ttbar mismodelling affects total background fit. 
+Think about how ttbar mis-modelling affects total background fit. 
 - What is the relationship to DvT ? 
+
+# Added option to plot overflow
+- pushed
+
+[[ProgressReport 14 February 2025]]
+
