@@ -13,9 +13,9 @@
 |     | Hoops                      |     |
 | 2   | 4b                         |     |
 |     | 4b                         |     |
-| 3   | CMU CMS                    |     |
-|     |                            |     |
-| 4   |                            |     |
+| 3   | Chat AE                    |     |
+|     | Adding plot overflow       |     |
+| 4   | Adding plot overflow       |     |
 |     | Social Host                |     |
 
 **W:**
@@ -30,14 +30,14 @@
 ---
 # To Do
 
-- [ ] Applications for Hy
+- [>>] Applications for Hy
 - [x] Ping Abels 
 - [ ] Update synthetic data with rho corrections
 	- [ ] Make pdfs
 - [ ] [[Synthetic Data Closure]]
 - [ ] Read for [[ARC TOP-24-006 3 top production]]
 - [ ] L2 Comments
-- [ ] Finish [[ProgressReport 14 February 2025]]
+- [>>] Finish [[ProgressReport 14 February 2025]]
 - [x] Add overflow to last bin
 ---
 
@@ -83,3 +83,4 @@ Think about how ttbar mis-modelling affects total background fit.
 
 [[ProgressReport 14 February 2025]]
 
+Grad Social... Picked up M & T ... took them to social
