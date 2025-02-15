@@ -25,6 +25,8 @@ Disabled triggerswieghts cutflow to pass CI
 - Is the TTBar PS data being loaded ?... No it was not
 - Pinged Chuyuan
 - re-training with PSData
+- Testing on **cmslpc336**
+	- `source .ci-workflows/synthetic-dataset-closure.sh `
 
 Did REU comments
 
@@ -42,3 +44,4 @@ Some [[ProgressReport 14 February 2025]]
 
 # Did Finances 2.2/2.1
 
+Some [[MacBeth]]
