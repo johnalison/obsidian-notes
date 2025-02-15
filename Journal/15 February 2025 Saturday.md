@@ -6,7 +6,7 @@
 - [x] Fix overflow CI
 - [x] Comment on REU program 
 - [ ] Make synthetic data files
-- [ ] Finish [[ProgressReport 14 February 2025]]
+- [x] Finish [[ProgressReport 14 February 2025]]
 
 ---
 
@@ -39,4 +39,6 @@ To Heat check for coffee, rite aid for creamer
 More [[Synthetic Data Closure]]
 
 Some [[ProgressReport 14 February 2025]]
+
+# Did Finances 2.2/2.1
 
