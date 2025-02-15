@@ -23,3 +23,5 @@ Disabled triggerswieghts cutflow to pass CI
 - `voms-proxy-init --rfc --voms cms -valid 192:00`
 - Added synthetic to datasets being evaluated
 - Is the TTBar PS data being loaded ?
+- Pinged Chuyuan
+
