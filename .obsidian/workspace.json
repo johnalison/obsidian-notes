@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/14 February 2025 Friday.md",
+                "file": "Journal/15 February 2025 Saturday.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "14 February 2025 Friday"
+              "title": "15 February 2025 Saturday"
             }
           },
           {
@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/15 February 2025 Saturday.md",
+                "file": "Journal/14 February 2025 Friday.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "15 February 2025 Saturday"
+              "title": "14 February 2025 Friday"
             }
           },
           {
@@ -63,8 +63,7 @@
               "title": "14 February 2025 Friday"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -218,12 +217,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "15a71a9cf7de87f4",
+  "active": "a53bfe1b69be06bc",
   "lastOpenFiles": [
-    "0-inbox/ProgressReport 14 February 2025.md",
-    "Journal/February 2025.md",
+    "Journal/16 February 2025 Sunday.md",
     "Journal/14 February 2025 Friday.md",
     "Journal/15 February 2025 Saturday.md",
+    "0-inbox/ProgressReport 14 February 2025.md",
+    "Journal/February 2025.md",
     "Journal/13 February 2025 Thursday.md",
     "Journal/12 February 2025 Wednesday.md",
     "Journal/January 2025/31 January 2025 Friday.md",
@@ -245,7 +245,6 @@
     "Output/CAM/CAM Variance.md",
     "Journal/6 February 2025 Thursday.md",
     "0-inbox/Conservation of Relativistic Momentum.md",
-    "0-inbox/Synthetic Data Closure.md",
     "Journal/January 2025",
     "Journal/#February 2025.md#",
     "Untitled.canvas",

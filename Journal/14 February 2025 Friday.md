@@ -18,9 +18,9 @@
 | 4   | Adding plot overflow       |     |
 |     | Social Host                |     |
 
-**W:**
-**DW:**
-**OT:**
+**W:** 6 
+**DW:** 2
+**OT:** -
 **ex** or **No ex**
 
 ---
@@ -55,13 +55,13 @@ M & T to school
 
 # [[Synthetic Data Closure]]
 - Data finished in **152m35.996s**
-- [ ] Debug synthetic data ... Is it needed ?
+- [x] Debug synthetic data ... Is it needed ?
 - Running ttbar ... bailed. 
 - Chat AE: can wget the files and merge.
 	- Download ttbar files locally, scp to LPC, merge
 	- `python analysis/tools/merge_coffea_files.py -o output/hist__TT/histAll_TTbar.coffea -f output/hist__TT/hist__TTTo*coffea`
 - Made pltos comparing background synthetic data... FvT way off!
-- [ ] Make FvT files for synthetic data
+- [x] Make FvT files for synthetic data
 
 Lots of [[Synthetic Data Closure]]
 
@@ -84,3 +84,6 @@ Think about how ttbar mis-modelling affects total background fit.
 [[ProgressReport 14 February 2025]]
 
 Grad Social... Picked up M & T ... took them to social
+
+To Owens for Fondue 
+- Good times
