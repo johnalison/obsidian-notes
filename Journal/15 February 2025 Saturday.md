@@ -28,7 +28,10 @@ Disabled triggerswieghts cutflow to pass CI
 - Testing on **cmslpc336**
 	- `source .ci-workflows/synthetic-dataset-closure.sh `
 - Still see high FvT values
-- Running the evaluation on the synthetic data 
+- Running the evaluation on the synthetic data ... works
+- Added cut for passFvT5 and 50
+- running the data with the FvT cuts
+- running on  **cmslpc336**
 
 Did REU comments
 
@@ -49,3 +52,4 @@ Some [[ProgressReport 14 February 2025]]
 Some [[MacBeth]]
 Some [[Fly By Night Physics]]
 
+More [[Synthetic Data Closure]]
