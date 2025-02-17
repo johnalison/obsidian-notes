@@ -13,8 +13,8 @@
 | 11 T | AE in CMS week/ Grade Exams / Home / L2 questions / Hair cuts / Reading              | 6/3/1 |
 | 12 W | Idea for Better jet masses / Taught / Ran FvT Fits / **Hoops** / Plot grades         | 6/3/2 |
 | 13 H | Taught / **Gym/SR** / Did Vars / Office Hours                                        | 6/4/1 |
-| 14 F | (Social Host)                                                                        |       |
-| 15 S |                                                                                      |       |
+| 14 F | (Social Host) Taught / [[Synthetic Data Closure]] / **Hoops** / social / owens       | 6/2/- |
+| 15 S | [[Synthetic Data Closure]] / Reading / Progress Report / **Finances 2.2/2.1**        |       |
 | 16 S |                                                                                      |       |
 | 17 M | (No Cyert)                                                                           |       |
 | 18 T |                                                                                      |       |

@@ -57,8 +57,7 @@ M&T to school in light rain
 
 # Taught 
 - Mass - Energy relation from inelastic collisions  
-- Irony of physics: Either + Mass now Mass emergent but mass of fundamental particles need ether 
-
+- [[Idea of the ether comes goes comes]]
 
 # Stats Chat
 - Discuss journal 
@@ -68,18 +67,15 @@ M&T to school in light rain
 - 10' at Tmax = 124 
 
 # [[Modern Essentials]]
-- Extra credit ideas: 
-	- QM: delta function molecules and solids
-	- Units/Estimation problems
-	- SR ideas: in chatGPT
+
 
 Chat Reinhard 
 
-# Chat Tony
+# Chat [[Tony Boyle]]
+- see daily's above
 
 [[CAM Variance February 2025]]
 - found money for shipping creates !
-
 
 # Office Hours
 - lots of people

@@ -5,7 +5,7 @@
 
 - [x] Fix overflow CI
 - [x] Comment on REU program 
-- [ ] Make synthetic data files
+- [x] Make synthetic data histograms
 - [x] Finish [[ProgressReport 14 February 2025]]
 
 ---
@@ -16,7 +16,7 @@ Up at 8:30
 
 Snow 
 
-Disabled triggerswieghts cutflow to pass CI
+Disabled triggers wieghts cutflow to pass CI
 
 # [[Synthetic Data Closure]]
 - `singularity exec -B .:/srv --nv --pwd /srv docker://chuyuanliu/heptools:ml bash --init-file /entrypoint.sh`

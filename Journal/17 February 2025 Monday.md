@@ -1,5 +1,5 @@
 
-|     |          |     |
+|     | setup    |     |
 | --- | -------- | --- |
 | 9   | Teaching |     |
 |     | Teaching |     |
@@ -25,7 +25,7 @@
 
 ---
 # The ONE thing: 
-- [ ] 
+- [ ] L2 Comments
 
 ---
 # To Do
@@ -34,6 +34,10 @@
 - [ ]  Reorder [[Jet DeClustering]] daily's
 - [ ] Chat Mans re SOW
 - [ ] Call Liberty mutual re:tree down
+- [ ]  Update synthetic data with rho corrections
+- [ ]  [[Synthetic Data Closure]]
+- [ ] Read for [[ARC TOP-24-006 3 top production]]
+- [ ] L2 Comments
 
 ---
 
@@ -42,3 +46,5 @@
 Up at 7
 
 No ECS... No Cyert... Still have to teach
+
+Walk to campus

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/13 February 2025 Thursday.md",
+                "file": "Journal/15 February 2025 Saturday.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "13 February 2025 Thursday"
+              "title": "15 February 2025 Saturday"
             }
           },
           {
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/13 February 2025 Thursday.md",
+                "file": "Journal/15 February 2025 Saturday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 13 February 2025 Thursday"
+              "title": "Backlinks for 15 February 2025 Saturday"
             }
           },
           {
@@ -155,12 +155,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/13 February 2025 Thursday.md",
+                "file": "Journal/15 February 2025 Saturday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 13 February 2025 Thursday"
+              "title": "Outgoing links from 15 February 2025 Saturday"
             }
           },
           {
@@ -182,10 +182,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/13 February 2025 Thursday.md"
+                "file": "Journal/15 February 2025 Saturday.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 13 February 2025 Thursday"
+              "title": "Outline of 15 February 2025 Saturday"
             }
           },
           {
@@ -219,10 +219,15 @@
   },
   "active": "a53bfe1b69be06bc",
   "lastOpenFiles": [
-    "Journal/14 February 2025 Friday.md",
     "Journal/February 2025.md",
-    "Journal/13 February 2025 Thursday.md",
+    "Journal/15 February 2025 Saturday.md",
+    "Journal/14 February 2025 Friday.md",
     "Journal/17 February 2025 Monday.md",
+    "2-areas/CMS/ARC TOP-24-006 3 top production.md",
+    "Journal/13 February 2025 Thursday.md",
+    "0-inbox/Tony Boyle.md",
+    "0-inbox/Idea of the ether comes goes comes.md",
+    "1-projects/Teaching/Modern Essentials.md",
     "Journal/12 February 2025 Wednesday.md",
     "Journal/2024/November/12 November 2024 Tuesday.md",
     "Journal/2024/November/5 November 2024 Tuesday.md",
@@ -240,11 +245,6 @@
     "Journal/January 2025/7 January 2025 Tuesday.md",
     "Journal/January 2025/14 January 2025 Tuesday.md",
     "Journal/January 2025/21 January 2025 Tuesday.md",
-    "Journal/January 2025/28 January 2025 Tuesday.md",
-    "Journal/4 February 2025 Tuesday.md",
-    "Journal/11 February 2025 Tuesday.md",
-    "1-projects/Mixed2.0/Jet DeClustering.md",
-    "0-inbox/Mass of jets is not invariant.md",
     "Journal/January 2025",
     "Journal/#February 2025.md#",
     "Untitled.canvas",

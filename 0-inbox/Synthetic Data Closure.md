@@ -51,6 +51,16 @@ Let me know if you have any question
 # Logs
 
 
+[[14 February 2025 Friday]]
+- Data finished in **152m35.996s**
+- [x] Debug synthetic data ... Is it needed ?
+- Running ttbar ... bailed. 
+- Chat AE: can wget the files and merge.
+	- Download ttbar files locally, scp to LPC, merge
+	- `python analysis/tools/merge_coffea_files.py -o output/hist__TT/histAll_TTbar.coffea -f output/hist__TT/hist__TTTo*coffea`
+- Made plots comparing background synthetic data... FvT way off!
+- [x] Make FvT files for synthetic data
+
 [[13 February 2025 Thursday]]
 - Retrying on **cmslpc317** with only the data
 - data works!
