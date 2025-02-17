@@ -67,7 +67,7 @@ Walk to campus
 - Remaking rhoX templates with better ranges
 - Adding the updated mass... testing with
 	- `python -m unittest jet_clustering.tests.test_clustering.clusteringTestCase.test_synthetic_datasets_bbjjets`
-- Adding logic to update the mass for only "single jets"
+- Adding logic to update the mass for only "single jets"... seems to be working !
 
 Idea for [[Hbb Reclustering Project]]
 - Run clustering on signal and look for 1b1j splittings. 
