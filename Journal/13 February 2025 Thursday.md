@@ -35,9 +35,9 @@
 - [x] Buy Cases to ship send to UCSB 
 - [x] Ping Roberts on Buying Crates
 - [>>] Valentina / Matteo Round table
-- [ ]  Chat Mans re SOW
+- [>>]  Chat Mans re SOW
 - [>>]  [[Synthetic Data Closure]]
-- [ ] Call Liberty mutual re:tree down
+- [>>] Call Liberty mutual re:tree down
 - [>>] Read for [[ARC TOP-24-006 3 top production]]
 - [>>] L2 Comments
 
@@ -53,9 +53,7 @@ M&T to school in light rain
 
 
 # [[Synthetic Data Closure]]
-- Retrying on **cmslpc317** with only the data
-- data works!
-- [>>] Debug synthetic data ... Is it needed ?
+- See daily's
 
 # Taught 
 - Mass - Energy relation from inelastic collisions  
@@ -73,14 +71,14 @@ M&T to school in light rain
 - Extra credit ideas: 
 	- QM: delta function molecules and solids
 	- Units/Estimation problems
-	- SR ideas
+	- SR ideas: in chatGPT
 
 Chat Reinhard 
 
 # Chat Tony
 
 [[CAM Variance February 2025]]
-- found money for shipping creates
+- found money for shipping creates !
 
 
 # Office Hours

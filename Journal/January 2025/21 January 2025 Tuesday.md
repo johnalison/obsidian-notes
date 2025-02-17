@@ -51,10 +51,8 @@
 
 Up at 8 
 
-# Chat w/Wes
-- Cooling unit down, looking into renting some
-- Application materials 
-- SoS: 
+# Chat [[Wesley Terrill]]
+- See daily's above
 
 
 New oracle string for MAC charges 46289.2.1990967 [>>]  [[DOE Grant Numbers]]

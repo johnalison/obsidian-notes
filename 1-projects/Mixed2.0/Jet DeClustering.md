@@ -9,7 +9,8 @@ Getting the new mixing going
 
 # To Do
 - [ ] Quantify variation among synthetic datasets
-- [ ] Try Run-2 synthetic data with lower pt Cut
+- [ ] Implement jet mass corrections for final jet pt 
+- [x] Try Run-2 synthetic data with lower pt Cut
 - [ ] Compare mixed to synthetic to threeTag
 - [ ] Run-3
 	- [x] Clustering Test job Running 
@@ -35,7 +36,7 @@ Getting the new mixing going
 * Run on boosted ? [Sub-jet code](https://github.com/rkansal47/HHbbVV/blob/main/src/HHbbVV/processors/TaggerInference.py#L63-L66)
 * (Not the way to go... [[Recursive Splitting Types]]) 
 * [[Group Splittings Based on Multiplicity]]
-
+* [[Mass of jets is not invariant]]
 
 
 
@@ -86,6 +87,14 @@ Getting the new mixing going
 
 
 # Daily Logs
+
+[[12 February 2025 Wednesday]]
+Thinking about the rho corrections
+- Need rho pdfs 
+- Can update the mass in `def decluster_combined_jets` in `declustering.py`
+- [>>] Need to make pdfs
+
+---
 
 
 [[3 June 2024]]

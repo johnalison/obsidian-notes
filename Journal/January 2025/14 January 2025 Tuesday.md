@@ -43,10 +43,8 @@
 
 Up at 7 
 
-# Chat With Wes
-- Slow start with HGC
-- SoS
-- Thesis
+# Chat With [[Wesley Terrill]]
+- See daily's above
 
 Watched HEPAP video of Lia... not great
 

@@ -49,10 +49,7 @@ M & T disasters in the morning.... Need to go to bed earlier
 M & T to school 
 
 # [[Jet DeClustering]]
-Good idea last night (while in bed): 
-- mass of the jets is not an invariant ! Depends on the jet pt 
-- Should recompute the mass after transform back and have the pt
-- Need new pt jet 
+Good idea last night (while in bed) ...  [[Mass of jets is not invariant]]
 
 # Taught
 - Relativistic Energy! 
@@ -60,26 +57,13 @@ Good idea last night (while in bed):
 Did some grading
 
 # [[Synthetic Data Closure]]
-- Trying to train again.. CL fixed the container
-- Setup singularity ... reinstalled (good sign)
-- `> singularity exec -B .:/srv --nv --pwd /srv docker://chuyuanliu/heptools:ml bash --init-file /entrypoint.sh`
-- Now training runs great! 
-	- `bash classifier/config/workflows/synthetic/run.sh jda102`
-- Done **0:05:28****.****570593**
-- Now need to run with FvT weights : example in `HH4b_example_FvT.yml`
-- Made `HH4b_synthetic_closure.yml`
-- `source synthetic-dataset-closure.sh`
-- Looks like a miss match between files names in json and file paths on eos... pinged CL
-- Was giving the wrong input datasets file now updated.
-- OK working now running on **cmslpc317**
-- Crashed... .Should run the data/TTbar Separately ....
-
+- See daily's above
 
 # Chat AE re:L3 comments
 
 
 # Hoops
-- Highland ... Good runs 
+- Highmark ... Good runs 
 - Played well but lost too many
 
 Chat Roy.
@@ -90,10 +74,8 @@ Finish Entering grades
 - Will start moving to new coffea version and to run3
 
 # [[Jet DeClustering]]
-Thinking about the rho corrections
-- Need rho pdfs 
-- Can update the mass in `def decluster_combined_jets` in `declustering.py`
-- [>>] Need to make pdfs
+- See daily's above
+- [>>] Reorder daily's
 
 Home 
 

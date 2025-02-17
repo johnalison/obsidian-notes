@@ -47,7 +47,7 @@ Voted ... No ID needed ... not worth the ROI !
 # [[Run3 Synthetic Data]]
 - See dailys above
 
-[[Chat w Wes 5 November 2024]]
+[[Chat w Wes 5 Novewmber 2024]]
 
 [[CMU HGC Mac Meeting 5 November 2024]]
 

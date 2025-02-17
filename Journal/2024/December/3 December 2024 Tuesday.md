@@ -64,6 +64,7 @@ To campus
 - [x] Review annual review slides
 - [x] Send mono-jet event display
 - Long chat with Wes about preparing his slides for the Annual Review
+- [[Wesley Terrill]]
 
 # [[Run3 Synthetic Data]]
 - see logs above

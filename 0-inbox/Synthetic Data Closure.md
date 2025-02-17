@@ -50,6 +50,27 @@ Let me know if you have any question
 
 # Logs
 
+
+[[13 February 2025 Thursday]]
+- Retrying on **cmslpc317** with only the data
+- data works!
+- [>>] Debug synthetic data ... Is it needed ?
+
+[[12 February 2025 Wednesday]]
+- Trying to train again.. CL fixed the container
+- Setup singularity ... reinstalled (good sign)
+- `> singularity exec -B .:/srv --nv --pwd /srv docker://chuyuanliu/heptools:ml bash --init-file /entrypoint.sh`
+- Now training runs great! 
+	- `bash classifier/config/workflows/synthetic/run.sh jda102`
+- Done **0:05:28****.****570593**
+- Now need to run with FvT weights : example in `HH4b_example_FvT.yml`
+- Made `HH4b_synthetic_closure.yml`
+- `source synthetic-dataset-closure.sh`
+- Looks like a miss match between files names in json and file paths on eos... pinged CL
+- Was giving the wrong input datasets file now updated.
+- OK working now running on **cmslpc317**
+- Crashed... .Should run the data/TTbar Separately ....
+
 [[11 February 2025 Tuesday]]
 - `apptainer exec -B .:/srv --nv --pwd /srv docker://chuyuanliu/heptools:ml bash --init-file /entrypoint.sh`
 - Running the fit... seeing errors... sent mail to CL

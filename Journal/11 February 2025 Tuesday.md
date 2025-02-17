@@ -45,12 +45,8 @@ Up at 7.
 
 setup
 
-# Chat Wes
-- Submitted application. 
-- HGCAL: Marchello and Eva. Updating the paper aim 2 weeks. 
-- Wes will present summary of studies at HGCAL week
-- SoS: fits are still running. Should try removing systematics 
-- Told him to think more about what analysis he would do for other applications
+# Chat [[Wesley Terrill]]
+- See Daily's above
 
 
 # AE Talk in CAT General Meeting during CMS week:

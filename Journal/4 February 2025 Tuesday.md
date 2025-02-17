@@ -48,7 +48,7 @@ Add Lynn to Parking for the rest of the year
 
 To campus
 
-# Chat w/Wes
+# Chat [[Wesley Terrill]]
 - Visited P5
 
 # Stat Chat
