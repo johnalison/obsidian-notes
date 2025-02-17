@@ -30,7 +30,7 @@
 ---
 # To Do
 
-- [ ] Post HW 4 solutions
+- [x] Post HW 4 solutions
 - [ ]  Reorder [[Jet DeClustering]] daily's
 - [ ] Chat Mans re SOW
 - [ ] Call Liberty mutual re:tree down
@@ -38,6 +38,7 @@
 - [ ]  [[Synthetic Data Closure]]
 - [ ] Read for [[ARC TOP-24-006 3 top production]]
 - [ ] L2 Comments
+- [ ] Sam Letter
 
 ---
 
@@ -61,3 +62,6 @@ Walk to campus
 
 Idea for [[Hbb Reclustering Project]]
 - Run clustering on signal and look for 1b1j splittings. 
+
+Idea for [[UndergradProjects]]
+- S-factors
