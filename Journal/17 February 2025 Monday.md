@@ -9,11 +9,11 @@
 |     | [[Jet DeClustering]] |     |
 | 12  | Multi-Higgs Meeting  |     |
 |     | Lunch w/Kids         |     |
-| 1   |                      |     |
+| 1   | w/Kids               |     |
 |     |                      |     |
-| 2   |                      |     |
-|     |                      |     |
-| 3   |                      |     |
+| 2   | T Down               |     |
+|     | M Down               |     |
+| 3   | M Down               |     |
 |     |                      |     |
 | 4   |                      |     |
 |     |                      |     |
@@ -60,6 +60,13 @@ Walk to campus
 -  re-Making the pdfs on **cmslpc345** 
 - Job ran out of memory... rerunning after killing stalled jobs and removing detailed histograms
 - Reordered daily logs
+- Adding rhoA and rhoB pdfs
+- Making pdfs 00-09-00: including rhoA and rhoB pdfs
+	- `python  jet_clustering/make_jet_splitting_PDFs.py output/synthetic_dataset_cluster/synthetic_datasets_Run2.coffea  --years RunII   --out jet_clustering/jet-splitting-PDFs-00-09-00`
+- Only do rho corrections for simple jets ? ... yes !
+- Remaking rhoX templates with better ranges
+- Adding the updated mass... testing with
+	- `python -m unittest jet_clustering.tests.test_clustering.clusteringTestCase.test_synthetic_datasets_bbjjets`
 
 
 Idea for [[Hbb Reclustering Project]]
@@ -67,6 +74,8 @@ Idea for [[Hbb Reclustering Project]]
 
 Idea for [[UndergradProjects]]
 - S-factors Maybe too easy...
+
+Home...
 
 # Multihiggs Meeting
 - [ ] Think about ttbar mismodelling
@@ -76,4 +85,6 @@ Idea for [[UndergradProjects]]
 - [ ] Look at HGCAL slides: 
 - https://indico.cern.ch/event/1464337/
 
+kids down...
 
+More [[Jet DeClustering]]
