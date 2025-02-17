@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "make_jet_splitting_PDFs.py",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -232,9 +232,11 @@
   },
   "active": "a53bfe1b69be06bc",
   "lastOpenFiles": [
-    "1-projects/Mixed2.0/Run3 Synthetic Data.md",
     "1-projects/Mixed2.0/Jet DeClustering.md",
+    "1-projects/Mixed2.0/Splitting PDF Archive.md",
     "Journal/17 February 2025 Monday.md",
+    "2-areas/Physics/S-factors-for-HH-Analyses.md",
+    "1-projects/Mixed2.0/Run3 Synthetic Data.md",
     "2-areas/CMS/ARC TOP-24-006 3 top production.md",
     "1-projects/Mixed2.0/#Jet DeClustering.md#",
     "0-inbox/UndergradProjects.md",
@@ -257,8 +259,6 @@
     "0-inbox/Tony Boyle.md",
     "1-projects/Teaching/Modern Essentials.md",
     "Journal/12 February 2025 Wednesday.md",
-    "Journal/2024/November/12 November 2024 Tuesday.md",
-    "Journal/2024/November/5 November 2024 Tuesday.md",
     "Journal/January 2025",
     "Journal/#February 2025.md#",
     "Untitled.canvas",

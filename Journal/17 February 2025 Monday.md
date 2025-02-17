@@ -68,6 +68,7 @@ Walk to campus
 - Adding the updated mass... testing with
 	- `python -m unittest jet_clustering.tests.test_clustering.clusteringTestCase.test_synthetic_datasets_bbjjets`
 - Adding logic to update the mass for only "single jets"... seems to be working !
+- finalizing jet-splitting-PDFs-00-09-00 with updated rho range.
 
 Idea for [[Hbb Reclustering Project]]
 - Run clustering on signal and look for 1b1j splittings. 
@@ -86,5 +87,12 @@ Home...
 - https://indico.cern.ch/event/1464337/
 
 kids down...
+
+More [[Jet DeClustering]]
+
+# Playing around with [[S-factors-for-HH-Analyses]]
+- `~/CMSWork/DiHiggs/sFactors.py`
+- `py sFactors.py`
+- Not clear this makes sense after all... the limit is not flat as a function of k_l
 
 More [[Jet DeClustering]]
