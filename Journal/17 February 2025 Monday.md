@@ -1,22 +1,22 @@
 
-|     | setup    |     |
-| --- | -------- | --- |
-| 9   | Teaching |     |
-|     | Teaching |     |
-| 10  |          |     |
-|     |          |     |
-| 11  |          |     |
-|     |          |     |
-| 12  |          |     |
-|     |          |     |
-| 1   |          |     |
-|     |          |     |
-| 2   |          |     |
-|     |          |     |
-| 3   |          |     |
-|     |          |     |
-| 4   |          |     |
-|     |          |     |
+|     | setup                |     |
+| --- | -------------------- | --- |
+| 9   | Teaching             |     |
+|     | Teaching             |     |
+| 10  | [[Jet DeClustering]] |     |
+|     | [[Jet DeClustering]] |     |
+| 11  |                      |     |
+|     |                      |     |
+| 12  |                      |     |
+|     |                      |     |
+| 1   |                      |     |
+|     |                      |     |
+| 2   |                      |     |
+|     |                      |     |
+| 3   |                      |     |
+|     |                      |     |
+| 4   |                      |     |
+|     |                      |     |
 
 **W:**
 **DW:**
@@ -48,3 +48,16 @@ Up at 7
 No ECS... No Cyert... Still have to teach
 
 Walk to campus
+
+# Taught
+- [[Idea of the ether comes goes comes]]
+- Mass intrinsic and have Ether -> kill ether -> most mass is a emergent property -> how to explain residual mass -> ether 
+- Chat with Chance re:research
+
+# [[Jet DeClustering]]
+- Added rhoA and B vs pt
+-  re-Making the pdfs on **cmslpc345** 
+
+
+Idea for [[Hbb Reclustering Project]]
+- Run clustering on signal and look for 1b1j splittings. 

@@ -15,7 +15,7 @@
 | 13 H | Taught / **Gym/SR** / Did Vars / Office Hours                                        | 6/4/1 |
 | 14 F | (Social Host) Taught / [[Synthetic Data Closure]] / **Hoops** / social / owens       | 6/2/- |
 | 15 S | [[Synthetic Data Closure]] / Reading / Progress Report / **Finances 2.2/2.1**        |       |
-| 16 S |                                                                                      |       |
+| 16 S | Reading / **Gym/SR** / H to Hoops / ran clustering                                   |       |
 | 17 M | (No Cyert)                                                                           |       |
 | 18 T |                                                                                      |       |
 | 19 W |                                                                                      |       |
