@@ -63,3 +63,6 @@ To Campus
 - Working on the HGC paper
 - Ave had twins ! 
 - Chatted to Cornell prof: 
+- Chatted re:Muon fakes looks like a problem at low ΔR
+
+
