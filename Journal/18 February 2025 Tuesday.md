@@ -99,6 +99,8 @@ more [[Synthetic Data Closure]]
 - [ ] fig 9 split by year
 - [ ] 1D mass projections of SR and SB
 - [ ] Add chuyuans studies in an appendix
+- [ ] Fig. 51 (hemisphere summary variables): for different jet bins
+- [ ] Add regions to fig 69 and 70
 
 
 
