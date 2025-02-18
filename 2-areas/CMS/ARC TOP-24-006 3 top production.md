@@ -13,6 +13,9 @@ https://indico.cern.ch/event/1508158/contributions/6346453/attachments/3008312/5
 SSDL/ML: 
 - Nb >= 1   Why not >=3 ? what does Nb look like?
 
+SL: 
+- does the ABCDnn use the XY regions ?
+
 Questions: 
 - How much 4top background is there?
 - How is this fit ?
