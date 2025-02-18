@@ -136,6 +136,9 @@ Let me know if you have any question
 - Looks good... rerunning with output to `root://cmseos.fnal.gov//store/user/jda102/XX4b/2024_v1/`
 - Need to make inputs for the other data as well... Turns out I dont... CL has them already
 - [>>] Fit JCM to synthetic data
+- Copy files to eos
+	- `xrdcp python/output/classifier_synthetic_data.coffea root://cmseos.fnal.gov//store/user/jda102/XX4b/2024_v1/`
+	- `xrdcp python/output/classifier_synthetic_data.json root://cmseos.fnal.gov//store/user/jda102/XX4b/2024_v1/`
 
 
 # Follow-ups
