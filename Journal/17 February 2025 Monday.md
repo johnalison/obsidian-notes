@@ -10,18 +10,18 @@
 | 12  | Multi-Higgs Meeting  |     |
 |     | Lunch w/Kids         |     |
 | 1   | w/Kids               |     |
-|     |                      |     |
+|     | --                   |     |
 | 2   | T Down               |     |
 |     | M Down               |     |
 | 3   | M Down               |     |
-|     |                      |     |
-| 4   |                      |     |
-|     |                      |     |
+|     | [[Jet DeClustering]] |     |
+| 4   | s-factors            |     |
+|     | [[Jet DeClustering]] |     |
 
 **W:**
 **DW:**
 **OT:**
-**ex** or **No ex**
+**No ex**
 
 ---
 # The ONE thing: 
@@ -34,7 +34,7 @@
 - [x]  Reorder [[Jet DeClustering]] daily's
 - [ ] Chat Mans re SOW
 - [ ] Call Liberty mutual re:tree down
-- [ ]  Update synthetic data with rho corrections
+- [x]  Update synthetic data with rho corrections
 - [ ]  [[Synthetic Data Closure]]
 - [ ] Read for [[ARC TOP-24-006 3 top production]]
 - [ ] L2 Comments
@@ -80,7 +80,7 @@ Idea for [[UndergradProjects]]
 
 Home...
 
-# Multihiggs Meeting
+# Multi-higgs Meeting
 - [ ] Think about ttbar mismodelling
 
 
