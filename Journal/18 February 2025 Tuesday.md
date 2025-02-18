@@ -97,6 +97,8 @@ more [[Synthetic Data Closure]]
 - [ ] fig5 plots for the other signal samples.
 	- Probably need a way of making 2-8 in new code
 - [ ] fig 9 split by year
+- [ ] 1D mass projections of SR and SB
+- [ ] Add chuyuans studies in an appendix
 
 
 
