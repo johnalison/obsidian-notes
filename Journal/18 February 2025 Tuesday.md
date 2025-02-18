@@ -38,6 +38,7 @@
 - [ ] Sam Letter
 - [ ] Think about ttbar mismodelling
 - [ ] HGCAL workshop slides 
+- [ ] Chat Jeff Ables re:CVs
 
 ---
 
@@ -84,7 +85,7 @@ To get the git hash
 # [[CMU HGC MAC Meeting 18 February 2025]]
 
 
-
+Chat
 
 
 
