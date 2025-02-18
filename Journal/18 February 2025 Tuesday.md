@@ -73,7 +73,7 @@ Up at 7 ... meds
 - Seems all good
 - Making closure plots
 	- `source .ci-workflows/synthetic-dataset-closure.sh`
-
+- Running on **cmslpc318** 
 
 
 To Campus 

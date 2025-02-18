@@ -20,6 +20,9 @@ Questions:
 - How much 4top background is there?
 - How is this fit ?
 - What is the Acc x efficiency ?
+
+Watched up to 36'
+
 # Follow-ups
 
 
