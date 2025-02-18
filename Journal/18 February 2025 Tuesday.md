@@ -12,7 +12,7 @@
 | 1   | L2 Comments                          |     |
 |     | L2 Comments                          |     |
 | 2   | L2 Comments                          |     |
-|     |                                      |     |
+|     | [[Synthetic Data Closure]]           |     |
 | 3   |                                      |     |
 |     |                                      |     |
 | 4   |                                      |     |
@@ -25,7 +25,7 @@
 
 ---
 # The ONE thing: 
-- [ ]  L2 Comments
+- [x]  L2 Comments
 
 ---
 # To Do
@@ -39,6 +39,8 @@
 - [ ] Think about ttbar mismodelling
 - [ ] HGCAL workshop slides 
 - [ ] Chat Jeff Ables re:CVs
+- [ ] Cornell Letter for Wes
+- [ ] Do  [[DOE Review Li Zepeng]]
 
 ---
 
@@ -68,6 +70,11 @@ Up at 7 ... meds
 - pushing ... merge failed... will just use local branch on falcon
 - Training:
 	- `bash classifier/config/workflows/synthetic/run.sh jda102`
+- Seems all good
+- Making closure plots
+	- `source .ci-workflows/synthetic-dataset-closure.sh`
+
+
 
 To Campus 
 
@@ -102,5 +109,9 @@ more [[Synthetic Data Closure]]
 - [ ] Fig. 51 (hemisphere summary variables): for different jet bins
 - [ ] Add regions to fig 69 and 70
 
+Chat with Ables  re:getting CVs from previous applications
 
+# Signed PGSS offer letter
+- Will teach Physics Core again!
 
+# Some [[ARC TOP-24-006 3 top production]]
