@@ -89,6 +89,12 @@ Getting the new mixing going
 
 # Daily Logs
 
+[[16 February 2025 Sunday]]
+- [>>] Implement the rho corrections and try again.
+- Making the pdfs on **cmslpc345**... **6664.398930549622**s = 2 hours
+- ` python runner.py  -o synthetic_datasets_Run2.coffea -d data  -p analysis/processors/processor_cluster_4b.py -y UL17 UL18 UL16_preVFP UL16_postVFP  -op output/synthetic_dataset_cluster -m metadata/datasets_HH4b.yml -c analysis/metadata/cluster_4b.yml`
+
+
 [[12 February 2025 Wednesday]]
 Thinking about the rho corrections
 - Need rho pdfs 

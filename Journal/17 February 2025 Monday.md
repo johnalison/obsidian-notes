@@ -18,9 +18,9 @@
 | 4   | s-factors            |     |
 |     | [[Jet DeClustering]] |     |
 
-**W:**
-**DW:**
-**OT:**
+**W:** 5
+**DW:** 2
+**OT:** 0 
 **No ex**
 
 ---
@@ -32,13 +32,13 @@
 
 - [x] Post HW 4 solutions
 - [x]  Reorder [[Jet DeClustering]] daily's
-- [ ] Chat Mans re SOW
-- [ ] Call Liberty mutual re:tree down
+- [>>] Chat Mans re SOW
+- [>>] Call Liberty mutual re:tree down
 - [x]  Update synthetic data with rho corrections
-- [ ]  [[Synthetic Data Closure]]
-- [ ] Read for [[ARC TOP-24-006 3 top production]]
-- [ ] L2 Comments
-- [ ] Sam Letter
+- [>>]  [[Synthetic Data Closure]]
+- [>>] Read for [[ARC TOP-24-006 3 top production]]
+- [>>] L2 Comments
+- [>>] Sam Letter
 
 ---
 
@@ -52,7 +52,6 @@ Walk to campus
 
 # Taught
 - [[Idea of the ether comes goes comes]]
-- Mass intrinsic and have Ether -> kill ether -> most mass is a emergent property -> how to explain residual mass -> ether 
 - Chat with Chance re:research
 
 # [[Jet DeClustering]]
@@ -71,6 +70,7 @@ Walk to campus
 - finalizing jet-splitting-PDFs-00-09-00 with updated rho range.
 - Doing declustering on **cmslpc312
 	- `source .ci-workflows/synthetic-dataset-make-dataset-all.sh `
+- Done .. in **57m22.355s** made "v2" RunII synthetic data
 
 Idea for [[Hbb Reclustering Project]]
 - Run clustering on signal and look for 1b1j splittings. 
@@ -81,11 +81,11 @@ Idea for [[UndergradProjects]]
 Home...
 
 # Multi-higgs Meeting
-- [ ] Think about ttbar mismodelling
+- [>>] Think about ttbar mismodelling
 
 
 # HGC Workshop
-- [ ] Look at HGCAL slides: 
+- [>>] Look at HGCAL slides: 
 - https://indico.cern.ch/event/1464337/
 
 kids down...
@@ -98,3 +98,7 @@ More [[Jet DeClustering]]
 - Not clear this makes sense after all... the limit is not flat as a function of k_l
 
 More [[Jet DeClustering]]
+
+Chess with H
+
+Some [[MacBeth]]

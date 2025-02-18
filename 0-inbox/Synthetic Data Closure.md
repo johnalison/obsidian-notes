@@ -51,6 +51,23 @@ Let me know if you have any question
 # Logs
 
 
+
+[[15 February 2025 Saturday]]
+- `singularity exec -B .:/srv --nv --pwd /srv docker://chuyuanliu/heptools:ml bash --init-file /entrypoint.sh`
+- `voms-proxy-init --rfc --voms cms -valid 192:00`
+- Added synthetic to datasets being evaluated
+- Is the TTBar PS data being loaded ?... No it was not
+- Pinged Chuyuan
+- re-training with PSData
+- Testing on **cmslpc336**
+	- `source .ci-workflows/synthetic-dataset-closure.sh `
+- Still see high FvT values
+- Running the evaluation on the synthetic data ... works
+- Added cut for passFvT5 and 50
+- running the data with the FvT cuts
+- running on  **cmslpc336**
+
+
 [[14 February 2025 Friday]]
 - Data finished in **152m35.996s**
 - [x] Debug synthetic data ... Is it needed ?
