@@ -53,6 +53,7 @@ Up at 7
 - Training on rogue01...Done
 - Making data hists ... on condor... running blind
 	- `python runner.py -o synthetic_data_closure_Run2_seed0_data_v2.coffea -d data -p analysis/processors/processor_HH4b.py -y UL17 UL18 UL16_preVFP UL16_postVFP -op output/synthetic_dataset_closure -c analysis/metadata/HH4b_synthetic_closure.yml -m metadata/datasets_HH4b.yml --condor`
+- Ran with the wrong version of the friend tree!
 - 
 
 
@@ -72,4 +73,12 @@ Submitted Wes' letter
 - 5s: Undefeated: me / chris / mike / alvin / ?? / DJ
 
 Some [[Synthetic Data Closure]]
+
+Chat [[Sindhu Murthy]]
+- Lots of DB work
+- Will look into m4j structure
+
+Chat Dylan
+- Interested in kubernettes project
+- Will get back to me re:credit or pay
 
