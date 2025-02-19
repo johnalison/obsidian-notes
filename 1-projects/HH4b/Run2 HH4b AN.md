@@ -11,6 +11,7 @@ Twiki: https://twiki.cern.ch/twiki/bin/view/CMSPublic/Run2HH4b
 - [ ] Add chuyuans studies in an appendix
 - [ ] Fig. 51 (hemisphere summary variables): for different jet bins
 - [ ] Add regions to fig 69 and 70
+- [ ] Add SvB for ZZ and ZH in the SR
 
 # To do
 - [x] L3 comments v2
