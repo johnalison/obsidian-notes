@@ -66,9 +66,7 @@ T to school,  M going to sick hours...
 
 More [[Synthetic Data Closure]]
 
-
 Submitted Wes' letter
-
 
 # Hoops 
 - 5s: Undefeated: me / chris / mike / alvin / ?? / DJ
