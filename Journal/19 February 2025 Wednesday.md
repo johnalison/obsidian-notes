@@ -54,7 +54,7 @@ Up at 7
 - Making data hists ... on condor... running blind
 	- `python runner.py -o synthetic_data_closure_Run2_seed0_data_v2.coffea -d data -p analysis/processors/processor_HH4b.py -y UL17 UL18 UL16_preVFP UL16_postVFP -op output/synthetic_dataset_closure -c analysis/metadata/HH4b_synthetic_closure.yml -m metadata/datasets_HH4b.yml --condor`
 - Ran with the wrong version of the friend tree!
-- 
+- Rerunning now on condor
 
 
 T to school,  M going to sick hours... 
