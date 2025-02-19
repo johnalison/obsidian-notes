@@ -74,7 +74,7 @@ Up at 7 ... meds
 - Making closure plots
 	- `source .ci-workflows/synthetic-dataset-closure.sh`
 - Running on **cmslpc318** 
-
+- Crashed ... rerunning
 
 To Campus 
 
