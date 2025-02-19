@@ -1,6 +1,17 @@
 Official version: https://cms.cern.ch/iCMS/jsp/db_notes/noteInfo.jsp?cmsnoteid=CMS%20AN-2024/089
 Twiki: https://twiki.cern.ch/twiki/bin/view/CMSPublic/Run2HH4b
 
+
+
+# Figure Updates from L2
+- [ ] fig5 plots for the other signal samples.
+	- Probably need a way of making 2-8 in new code
+- [ ] fig 9 split by year
+- [ ] 1D mass projections of SR and SB
+- [ ] Add chuyuans studies in an appendix
+- [ ] Fig. 51 (hemisphere summary variables): for different jet bins
+- [ ] Add regions to fig 69 and 70
+
 # To do
 - [x] L3 comments v2
 - [ ] Need new background model
@@ -12,7 +23,7 @@ Twiki: https://twiki.cern.ch/twiki/bin/view/CMSPublic/Run2HH4b
 Towards v4
 - [ ] Update nominal background for k-folding
 - [ ] cutflow hists
-- [ ] Try new SvB classifier for kλ
+- [x] Try new SvB classifier for kλ
 - [ ]  Redo plots with new JCM ?
 - [ ] Re do FvT fits with new code
 - [ ] ~~Try to Correct bias from ZZ region (?)~~

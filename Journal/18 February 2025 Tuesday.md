@@ -15,12 +15,12 @@
 |     | [[Synthetic Data Closure]]           |     |
 | 3   | [[ARC TOP-24-006 3 top production]]  |     |
 |     | [[ARC TOP-24-006 3 top production]]  |     |
-| 4   |                                      |     |
-|     |                                      |     |
+| 4   | Chat Abels                           |     |
+|     | Home                                 |     |
 
-**W:**
-**DW:**
-**OT:**
+**W:** 8 
+**DW:**. 4
+**OT:** 2
 **ex** or **No ex**
 
 ---
@@ -38,7 +38,7 @@
 - [ ] Sam Letter
 - [ ] Think about ttbar mismodelling
 - [ ] HGCAL workshop slides 
-- [ ] Chat Jeff Ables re:CVs
+- [x] Chat Jeff Ables re:CVs
 - [ ] Cornell Letter for Wes
 - [ ] Do  [[DOE Review Li Zepeng]]
 
@@ -81,7 +81,7 @@ To Campus
 # Chat w/ [[Wesley Terrill]]
 - Chat re:HGC at CMU
 - Working on the HGC paper
-- Ave had twins ! 
+- Ava had twins ! 
 - Chatted to Cornell prof: 
 - Chatted re:Muon fakes looks like a problem at low ΔR
 
@@ -100,7 +100,7 @@ Chat Chris Berman
 more [[Synthetic Data Closure]]
 
 
-# Working L2 comments
+# Working L2 comments [[Run2 HH4b AN]]
 - [ ] fig5 plots for the other signal samples.
 	- Probably need a way of making 2-8 in new code
 - [ ] fig 9 split by year

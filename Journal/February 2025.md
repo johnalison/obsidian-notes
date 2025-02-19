@@ -17,7 +17,7 @@
 | 15 S | [[Synthetic Data Closure]] / Reading / Progress Report / **Finances 2.2/2.1**        |       |
 | 16 S | Reading / **Gym/SR** / H to Hoops / ran clustering                                   |       |
 | 17 M | (No Cyert) Taught / Lots of [[Jet DeClustering]] / Home / s-factors                  | 5/2/0 |
-| 18 T |                                                                                      |       |
+| 18 T | Lots of [[Synthetic Data Closure]] / Working L2 comments / PGSS / Start ARC          | 8/4/2 |
 | 19 W |                                                                                      |       |
 | 20 H |                                                                                      |       |
 | 21 F |                                                                                      |       |

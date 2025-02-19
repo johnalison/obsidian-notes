@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/18 February 2025 Tuesday.md",
+                "file": "Journal/19 February 2025 Wednesday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 18 February 2025 Tuesday"
+              "title": "Backlinks for 19 February 2025 Wednesday"
             }
           },
           {
@@ -169,12 +169,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/18 February 2025 Tuesday.md",
+                "file": "Journal/19 February 2025 Wednesday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 18 February 2025 Tuesday"
+              "title": "Outgoing links from 19 February 2025 Wednesday"
             }
           },
           {
@@ -196,10 +196,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/18 February 2025 Tuesday.md"
+                "file": "Journal/19 February 2025 Wednesday.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 18 February 2025 Tuesday"
+              "title": "Outline of 19 February 2025 Wednesday"
             }
           },
           {
@@ -231,8 +231,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4650ed2978183546",
+  "active": "5dcf1492aa850b5a",
   "lastOpenFiles": [
+    "Journal/18 February 2025 Tuesday.md",
+    "Journal/February 2025.md",
+    "Journal/19 February 2025 Wednesday.md",
+    "1-projects/HH4b/Run2 HH4b AN.md",
     "Journal/17 February 2025 Monday.md",
     "0-inbox/UndergradProjects.md",
     "1-projects/HH4b/Hbb Reclustering Project.md",
@@ -241,14 +245,11 @@
     "Journal/14 February 2025 Friday.md",
     "Journal/13 February 2025 Thursday.md",
     "00-Zettelkasten/Idea of the ether comes goes comes.md",
-    "Journal/19 February 2025 Wednesday.md",
     "Input/Meetings/CMU HGC MAC Meeting 11 February 2025.md",
     "Journal/12 February 2025 Wednesday.md",
-    "Journal/18 February 2025 Tuesday.md",
     "2-areas/CMS/ARC TOP-24-006 3 top production.md",
     "0-inbox/Synthetic Data Closure.md",
     "0-inbox/CMU HGC MAC Meeting 18 February 2025.md",
-    "Journal/February 2025.md",
     "2-areas/Mentoring/Wesley Terrill.md",
     "Input/Meetings/CMU HGC MAC Meeting 4 February 2025.md",
     "Input/Meetings/CMU HGC MAC Meeting 28 January 2025.md",
@@ -258,7 +259,6 @@
     "1-projects/Mixed2.0/Run3 Synthetic Data.md",
     "2-areas/Mentoring/Tony Boyle.md",
     "0-inbox/StartupSpending.md",
-    "0-inbox/Run2 X->HY->4b.md",
     "1-projects/Mixed2.0/#Jet DeClustering.md#",
     "Journal/January 2025",
     "Journal/#February 2025.md#",
