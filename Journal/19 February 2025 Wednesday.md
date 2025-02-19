@@ -25,7 +25,8 @@
 
 ---
 # The ONE thing: 
-- [ ] [[Synthetic Data Closure]]
+- [x] [[Synthetic Data Closure]]
+- [ ] L2 Comments
 
 ---
 # To Do
@@ -50,8 +51,10 @@ Up at 7
 	- `python runner.py -m metadata/datasets_HH4b.yml -c analysis/metadata/HH4b_classifier_inputs.yml -d synthetic_data -y UL16_preVFP UL16_postVFP UL17 UL18 -op output/ -o classifier_synthetic_data_v3.coffea`
 - Copy output to eos **classifier_synthetic_data_v3**
 - Training on rogue01...Done
-- Making data hists 
-	- `python runner.py -o synthetic_data_closure_Run2_seed0_data_v2.coffea -d data -p analysis/processors/processor_HH4b.py -y UL17 UL18 UL16_preVFP UL16_postVFP -op output/synthetic_dataset_closure -c analysis/metadata/HH4b_synthetic_closure.yml -m metadata/datasets_HH4b.yml`
+- Making data hists ... on condor... running blind
+	- `python runner.py -o synthetic_data_closure_Run2_seed0_data_v2.coffea -d data -p analysis/processors/processor_HH4b.py -y UL17 UL18 UL16_preVFP UL16_postVFP -op output/synthetic_dataset_closure -c analysis/metadata/HH4b_synthetic_closure.yml -m metadata/datasets_HH4b.yml --condor`
+- 
+
 
 T to school,  M going to sick hours... 
 
@@ -69,3 +72,6 @@ Submitted Wes' letter
 
 # Hoops 
 - 5s: Undefeated: me / chris / mike / alvin / ?? / DJ
+
+Some [[Synthetic Data Closure]]
+
