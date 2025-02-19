@@ -73,7 +73,7 @@ Walk to campus
 - Done .. in **57m22.355s** made "v2" RunII synthetic data
 
 Idea for [[Hbb Reclustering Project]]
-- Run clustering on signal and look for 1b1j splittings. 
+- [<<] Run clustering on signal and look for 1b1j splittings. 
 
 Idea for [[UndergradProjects]]
 - S-factors Maybe too easy...

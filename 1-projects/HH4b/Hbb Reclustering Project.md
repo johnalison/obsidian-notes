@@ -4,6 +4,8 @@ FSR Big impact / ISR not a big deal
 
 SvB and SvB_MA
 
+- Run clustering code on signal and look for 1b1j splittings. 
+
 # Plan for undergrad (Tony Boyle)
 - [x] Give him signal files with paired b-jets and all unclustered jets.
 - [ ] Make mass resolution plots 

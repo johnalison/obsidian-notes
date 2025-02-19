@@ -16,7 +16,7 @@ Up at 8:30
 
 Snow 
 
-Disabled triggers wieghts cutflow to pass CI
+Disabled trigger weights cutflow to pass CI
 
 # [[Synthetic Data Closure]]
 - lots of good work, see daily's
