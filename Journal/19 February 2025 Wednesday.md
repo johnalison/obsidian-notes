@@ -33,7 +33,7 @@
 - [ ]  Valentina / Matteo Round table
 - [ ] [[Synthetic Data Closure]]
 - [ ] L2 Comments
-- [ ] 
+- [x]  Cornell Letter for Wes
 
 ---
 
@@ -50,7 +50,6 @@ Up at 7
 	- `python runner.py -m metadata/datasets_HH4b.yml -c analysis/metadata/HH4b_classifier_inputs.yml -d synthetic_data -y UL16_preVFP UL16_postVFP UL17 UL18 -op output/ -o classifier_synthetic_data_v3.coffea`
 - Copy output to eos **classifier_synthetic_data_v3**
 - Training on rogue01
-- 
 
 T to school,  M going to sick hours... 
 
@@ -61,3 +60,6 @@ T to school,  M going to sick hours...
 
 
 More [[Synthetic Data Closure]]
+
+
+Submitted Wes' letter

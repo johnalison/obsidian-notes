@@ -39,7 +39,7 @@
 - [ ] Think about ttbar mismodelling
 - [ ] HGCAL workshop slides 
 - [x] Chat Jeff Ables re:CVs
-- [ ] Cornell Letter for Wes
+- [>>] Cornell Letter for Wes
 - [ ] Do  [[DOE Review Li Zepeng]]
 
 ---
