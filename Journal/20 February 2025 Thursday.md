@@ -51,5 +51,11 @@ M & T to school
 # FB2C
 - Not much 
 
+# Taught 
+- Examples: Compton scattering and discovery of new particles
 
+
+# Stats Chat
+- gamma/gamma-tilde lood good
+- 
 

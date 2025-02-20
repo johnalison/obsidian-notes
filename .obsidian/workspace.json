@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/15 February 2025 Saturday.md",
+                "file": "Journal/17 February 2025 Monday.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "15 February 2025 Saturday"
+              "title": "17 February 2025 Monday"
             }
           },
           {
@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/20 February 2025 Thursday.md",
+                "file": "Journal/17 February 2025 Monday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 20 February 2025 Thursday"
+              "title": "Backlinks for 17 February 2025 Monday"
             }
           },
           {
@@ -169,12 +169,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/20 February 2025 Thursday.md",
+                "file": "Journal/17 February 2025 Monday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 20 February 2025 Thursday"
+              "title": "Outgoing links from 17 February 2025 Monday"
             }
           },
           {
@@ -196,10 +196,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/20 February 2025 Thursday.md"
+                "file": "Journal/17 February 2025 Monday.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 20 February 2025 Thursday"
+              "title": "Outline of 17 February 2025 Monday"
             }
           },
           {
@@ -231,12 +231,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5dcf1492aa850b5a",
+  "active": "4650ed2978183546",
   "lastOpenFiles": [
+    "Journal/16 February 2025 Sunday.md",
     "Journal/15 February 2025 Saturday.md",
+    "Journal/20 February 2025 Thursday.md",
     "Journal/14 February 2025 Friday.md",
     "Journal/February 2025.md",
-    "Journal/20 February 2025 Thursday.md",
     "Journal/13 February 2025 Thursday.md",
     "Journal/18 February 2025 Tuesday.md",
     "Journal/19 February 2025 Wednesday.md",
@@ -244,7 +245,6 @@
     "Journal/17 February 2025 Monday.md",
     "0-inbox/UndergradProjects.md",
     "1-projects/HH4b/Hbb Reclustering Project.md",
-    "Journal/16 February 2025 Sunday.md",
     "00-Zettelkasten/Idea of the ether comes goes comes.md",
     "Input/Meetings/CMU HGC MAC Meeting 11 February 2025.md",
     "Journal/12 February 2025 Wednesday.md",
