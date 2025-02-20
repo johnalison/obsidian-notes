@@ -32,10 +32,10 @@
 
 - [ ]  Chat Mans re SOW
 - [ ] Call Liberty mutual re:tree down
-- [ ] [[Synthetic Data Closure]]
+- [>>] do [[Synthetic Data Closure]]
 - [ ] Read for [[ARC TOP-24-006 3 top production]]
-- [ ]  L2 Comments
-- [ ] Sam Letter
+- [>>]  L2 Comments
+- [>>] Sam Letter
 - [ ] Think about ttbar mismodelling
 - [ ] HGCAL workshop slides 
 - [x] Chat Jeff Ables re:CVs
@@ -101,13 +101,7 @@ more [[Synthetic Data Closure]]
 
 
 # Working L2 comments [[Run2 HH4b AN]]
-- [ ] fig5 plots for the other signal samples.
-	- Probably need a way of making 2-8 in new code
-- [ ] fig 9 split by year
-- [ ] 1D mass projections of SR and SB
-- [ ] Add chuyuans studies in an appendix
-- [ ] Fig. 51 (hemisphere summary variables): for different jet bins
-- [ ] Add regions to fig 69 and 70
+- Update list of figures needed ... see above
 
 Chat with Ables  re:getting CVs from previous applications
 

@@ -18,10 +18,10 @@
 | 4   | bbWW                       |     |
 |     |                            |     |
 
-**W:**
-**DW:**
-**OT:**
-**ex** or **No ex**
+**W:** 6 
+**DW:** 3
+**OT:** 3
+**ex** 
 
 ---
 # The ONE thing: 
@@ -32,8 +32,8 @@
 # To Do
 
 - [ ]  Valentina / Matteo Round table
-- [ ] [[Synthetic Data Closure]]
-- [ ] L2 Comments
+- [>>]  [[Synthetic Data Closure]]
+- [>>] L2 Comments
 - [x]  Cornell Letter for Wes
 
 ---

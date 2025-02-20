@@ -10,7 +10,9 @@ Getting the new mixing going
 
 # To Do
 - [ ] Quantify variation among synthetic datasets
-- [ ] Implement jet mass corrections for final jet pt 
+- [x] Implement jet mass corrections for final jet pt 
+- [ ] Use inverse rho corrections when making pdfs
+	- ie: recompute jet mass in px = p frame
 - [x] Try Run-2 synthetic data with lower pt Cut
 - [ ] Compare mixed to synthetic to threeTag
 - [ ] Run-3
@@ -88,6 +90,26 @@ Getting the new mixing going
 
 
 # Daily Logs
+
+[[17 February 2025 Monday]]
+- Added rhoA and B vs pt
+-  re-Making the pdfs on **cmslpc345** 
+- Job ran out of memory... rerunning after killing stalled jobs and removing detailed histograms
+- Reordered daily logs
+- Adding rhoA and rhoB pdfs
+- Making pdfs 00-09-00: including rhoA and rhoB pdfs
+	- `python  jet_clustering/make_jet_splitting_PDFs.py output/synthetic_dataset_cluster/synthetic_datasets_Run2.coffea  --years RunII   --out jet_clustering/jet-splitting-PDFs-00-09-00`
+- Only do rho corrections for simple jets ? ... yes !
+- Remaking rhoX templates with better ranges
+- Adding the updated mass... testing with
+	- `python -m unittest jet_clustering.tests.test_clustering.clusteringTestCase.test_synthetic_datasets_bbjjets`
+- Adding logic to update the mass for only "single jets"... seems to be working !
+- finalizing jet-splitting-PDFs-00-09-00 with updated rho range.
+- Doing declustering on **cmslpc312
+	- `source .ci-workflows/synthetic-dataset-make-dataset-all.sh `
+- Done .. in **57m22.355s** made "v2" RunII synthetic data
+
+
 
 [[16 February 2025 Sunday]]
 - [>>] Implement the rho corrections and try again.
