@@ -14,7 +14,7 @@
 | 2   | [[Synthetic Data Closure]] |     |
 |     | Office Hours               |     |
 | 3   | Office Hours               |     |
-|     | HEP Chat                   |     |
+|     |                            |     |
 | 4   | HEP Chat                   |     |
 |     |                            |     |
 
@@ -73,4 +73,5 @@ M & T to school
 - [ ] Check why canJet pt < 40 !
 
 # Office Hours
-- 
+- Some customers 
+
