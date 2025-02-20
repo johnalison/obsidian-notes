@@ -69,4 +69,8 @@ M & T to school
 - Will look into events where the lead or subl di-jet mass are low.
 
 # [[Synthetic Data Closure]]
+- Looking at plots... not clear why we have these bizzare weights...
+- [ ] Check why canJet pt < 40 !
+
+# Office Hours
 - 
