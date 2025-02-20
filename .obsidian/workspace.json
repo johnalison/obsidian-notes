@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/15 February 2025 Saturday.md",
+                "file": "Journal/20 February 2025 Thursday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 15 February 2025 Saturday"
+              "title": "Backlinks for 20 February 2025 Thursday"
             }
           },
           {
@@ -169,12 +169,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/15 February 2025 Saturday.md",
+                "file": "Journal/20 February 2025 Thursday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 15 February 2025 Saturday"
+              "title": "Outgoing links from 20 February 2025 Thursday"
             }
           },
           {
@@ -196,10 +196,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/15 February 2025 Saturday.md"
+                "file": "Journal/20 February 2025 Thursday.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 15 February 2025 Saturday"
+              "title": "Outline of 20 February 2025 Thursday"
             }
           },
           {
@@ -231,8 +231,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4650ed2978183546",
+  "active": "5dcf1492aa850b5a",
   "lastOpenFiles": [
+    "Journal/15 February 2025 Saturday.md",
     "Journal/14 February 2025 Friday.md",
     "Journal/February 2025.md",
     "Journal/20 February 2025 Thursday.md",
@@ -244,7 +245,6 @@
     "0-inbox/UndergradProjects.md",
     "1-projects/HH4b/Hbb Reclustering Project.md",
     "Journal/16 February 2025 Sunday.md",
-    "Journal/15 February 2025 Saturday.md",
     "00-Zettelkasten/Idea of the ether comes goes comes.md",
     "Input/Meetings/CMU HGC MAC Meeting 11 February 2025.md",
     "Journal/12 February 2025 Wednesday.md",

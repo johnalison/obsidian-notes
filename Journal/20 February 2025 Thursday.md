@@ -45,4 +45,11 @@ M & T to school
 
 # Modules Meeting at HGCal Week
 - https://indico.cern.ch/event/1512127/
-- [ ] 
+- [ ] Write up slides
+
+
+# FB2C
+- Not much 
+
+
+
