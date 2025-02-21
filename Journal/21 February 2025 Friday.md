@@ -64,7 +64,7 @@ M & T to school
 # [[Synthetic Data Closure]]
 - Falcon back... AE killed it before
 - Running fitting with v4 ... explicitly remove threeTag events from the synthetic dataset
-- Fit... running the data
+- Fit... running the data .. on condor
 
 
 # [[Jet DeClustering]]
@@ -97,3 +97,7 @@ More [[Run2 HH4b AN]]
 - New cmu/cms webpage: https://cms-cmu.docs.cern.ch/
 
 [[Modules Summary February 2025]]
+
+
+Chat AE re:Milei 
+
