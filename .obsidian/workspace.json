@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-projects/HH4b/Run2 HH4b AN.md",
+                "file": "Journal/21 February 2025 Friday.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Run2 HH4b AN"
+              "title": "21 February 2025 Friday"
             }
           },
           {
@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/Spring 2025.md",
+                "file": "1-projects/HH4b/Run2 HH4b AN.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Spring 2025"
+              "title": "Run2 HH4b AN"
             }
           },
           {
@@ -125,7 +125,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "makeplots",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -162,8 +162,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "30a04ba2c1bf765c",
@@ -179,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-projects/HH4b/Run2 HH4b AN.md",
+                "file": "Journal/21 February 2025 Friday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +188,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Run2 HH4b AN"
+              "title": "Backlinks for 21 February 2025 Friday"
             }
           },
           {
@@ -198,12 +197,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-projects/HH4b/Run2 HH4b AN.md",
+                "file": "Journal/21 February 2025 Friday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Run2 HH4b AN"
+              "title": "Outgoing links from 21 February 2025 Friday"
             }
           },
           {
@@ -225,10 +224,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-projects/HH4b/Run2 HH4b AN.md"
+                "file": "Journal/21 February 2025 Friday.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Run2 HH4b AN"
+              "title": "Outline of 21 February 2025 Friday"
             }
           },
           {
@@ -262,15 +261,15 @@
   },
   "active": "5dcf1492aa850b5a",
   "lastOpenFiles": [
+    "1-projects/HH4b/Run2 HH4b AN.md",
     "Journal/21 February 2025 Friday.md",
+    "Journal/Spring 2025.md",
     "Journal/20 February 2025 Thursday.md",
     "Journal/February 2025.md",
-    "Journal/Spring 2025.md",
     "Journal/9 February 2025 Sunday.md",
     "Journal/8 February 2025 Saturday.md",
     "Journal/7 February 2025 Friday.md",
     "1-projects/Mixed2.0/Jet DeClustering.md",
-    "1-projects/HH4b/Run2 HH4b AN.md",
     "0-inbox/Synthetic Data Closure.md",
     "Journal/January 2025/3 January 2025 Friday.md",
     "Journal/January 2025/10 January 2025 Friday.md",

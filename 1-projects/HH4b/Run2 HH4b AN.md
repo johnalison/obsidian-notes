@@ -7,10 +7,11 @@ Twiki: https://twiki.cern.ch/twiki/bin/view/CMSPublic/Run2HH4b
 - [ ] fig5 plots for the other signal samples.
 	- Probably need a way of making 2-8 in new code
 - [ ] fig 9 split by year
-- [ ] 1D mass projections of SR and SB
+- [x] 1D mass projections of SR and SB
 - [ ] Add chuyuans studies in an appendix
 - [ ] Fig. 51 (hemisphere summary variables): for different jet bins
 - [ ] Add regions to fig 69 and 70
+	- Need to update **makePlotsMixedVsDataVs3b.py**
 - [ ] Add SvB for ZZ and ZH in the SR
 
 # To do
@@ -28,10 +29,21 @@ Towards v4
 - [ ]  Redo plots with new JCM ?
 - [ ] Re do FvT fits with new code
 - [ ] ~~Try to Correct bias from ZZ region (?)~~
-- [ ] Add to AN
-	- [ ] Add κλ scan
+- [x] Add to AN
+	- [x] Add κλ scan
+
+# Scripts to make plots
 
 
+`python plots/makePlotsMixedVsDataVs3b.py --comb plots/ANv3/histAll_noFvT.coffea plots/ANv3/histMixedData.coffea  -m plots/metadata/plotMixedVsDataVs3b.yml --out plotsANv3/mixedVsDataVs3b`
+
+- `python analysis/makePlotsAN.py hists/ANv3/histAll.coffea --out hists/ANv3/plots
+
+-  `python -i analysis/makePlotsAN_noFvT.py hists/ANv3/histAll_noFvT.coffea --out hists/ANv3/plots_noFvT -m analysis/metadata/plotsAllNoFvT.yml `
+
+-  `python analysis/makePlotsMixedVsDataVs3b.py --comb hists/ANv3/histAll_noFvT.coffea hists/ANv3/histMixedData.coffea  -m analysis/metadata/plotMixedVsDataVs3b.yml --out hists/ANv3/mixedVsDataVs3b`
+
+- `python  analysis/makePlotsAN_noFvT_muQCD.py hists/ANv3/histAll_noFvT.coffea --out hists/ANv3/plots_noFvT_muQCD -m analysis/metadata/plotsAllNoFvT_muQCD.yml`
 # Daily Logs
 
 [[13 November 2024 Wednesday]]
