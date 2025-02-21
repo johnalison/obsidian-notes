@@ -14,9 +14,9 @@
 | 2   | [[Synthetic Data Closure]] |     |
 |     | Office Hours               |     |
 | 3   | Office Hours               |     |
-|     |                            |     |
+|     | [[Synthetic Data Closure]] |     |
 | 4   | HEP Chat                   |     |
-|     |                            |     |
+|     | HEP Chat                   |     |
 
 **W:**
 **DW:**
@@ -70,8 +70,18 @@ M & T to school
 
 # [[Synthetic Data Closure]]
 - Looking at plots... not clear why we have these bizzare weights...
-- [ ] Check why canJet pt < 40 !
+- [ ] Check why canJet pt < 40 ! .. bRegCor?
+- Think synthetic events are making the three tag selection when b-jet out of acceptance. 
+- Removing by hand
+- Remaking inputs
+	- `python runner.py -m metadata/datasets_HH4b.yml -c analysis/metadata/HH4b_classifier_inputs.yml -d synthetic_data -y UL16_preVFP UL16_postVFP UL17 UL18 -op output/ -o classifier_synthetic_data_v4.coffea`
 
 # Office Hours
 - Some customers 
 
+More [[Synthetic Data Closure]]
+
+# Hep Chat
+- Useless
+
+Home 
