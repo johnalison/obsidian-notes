@@ -77,6 +77,7 @@ M & T to school
 	- `python runner.py -m metadata/datasets_HH4b.yml -c analysis/metadata/HH4b_classifier_inputs.yml -d synthetic_data -y UL16_preVFP UL16_postVFP UL17 UL18 -op output/ -o classifier_synthetic_data_v4.coffea`
 - Can write out directly to eos!!
 	- `python runner.py -m metadata/datasets_HH4b.yml -c analysis/metadata/HH4b_classifier_inputs.yml -d synthetic_data -y UL16_preVFP UL16_postVFP UL17 UL18 -op root://cmseos.fnal.gov//store/user/jda102/XX4b/2024_v4/  -o classifier_synthetic_data_v4.coffea`
+- Error when using rogue container
 
 # Office Hours
 - Some customers 
