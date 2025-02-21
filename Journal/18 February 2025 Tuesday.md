@@ -33,14 +33,14 @@
 - [ ]  Chat Mans re SOW
 - [ ] Call Liberty mutual re:tree down
 - [>>] do [[Synthetic Data Closure]]
-- [ ] Read for [[ARC TOP-24-006 3 top production]]
+- [>>] Read for [[ARC TOP-24-006 3 top production]]
 - [>>]  L2 Comments
 - [>>] Sam Letter
 - [ ] Think about ttbar mismodelling
-- [ ] HGCAL workshop slides 
+- [>>] HGCAL workshop slides 
 - [x] Chat Jeff Ables re:CVs
 - [>>] Cornell Letter for Wes
-- [ ] Do  [[DOE Review Li Zepeng]]
+- [>>] Do  [[DOE Review Li Zepeng]]
 
 ---
 
@@ -56,7 +56,7 @@ Up at 7 ... meds
 	- `python  jet_clustering/compare_datasets.py  output/synthetic_dataset_analyze_all/synthetic_data_RunII_seedXXX.coffea   --out analysis/plots_synthetic_datasets_all_00-09-00 -m plots/metadata/plotsSyntheticVsData2.yml
 * making presentation
 	* `make jetclustering_slides_RunII TEXFILENAME=SyntheticDatasets-00-09-09 NEW_DIR=analysis\\/plots_synthetic_datasets_all_00-09-00`
-- New masses look much better ! ... Not much esle changed ?
+- New masses look much better ! ... Not much else changed ?
 - Remaking FvT inputs
 	- `python runner.py -m metadata/datasets_HH4b.yml -c analysis/metadata/HH4b_classifier_inputs.yml -d synthetic_data -y UL16_preVFP UL16_postVFP UL17 UL18 -op output/ -o classifier_synthetic_data_v2.coffea`
 - Copy output to eos
@@ -79,11 +79,7 @@ Up at 7 ... meds
 To Campus 
 
 # Chat w/ [[Wesley Terrill]]
-- Chat re:HGC at CMU
-- Working on the HGC paper
-- Ava had twins ! 
-- Chatted to Cornell prof: 
-- Chatted re:Muon fakes looks like a problem at low ΔR
+- See daily's above
 
 More [[Synthetic Data Closure]]
 

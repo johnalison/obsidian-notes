@@ -15,6 +15,14 @@
 
 # Weekly Meetings 
 
+[[18 February 2025 Tuesday]]
+- Chat re:HGC at CMU
+- Working on the HGC paper
+- Ava had twins ! 
+- Chatted to Cornell prof: 
+- Chatted re:Muon fakes looks like a problem at low ΔR
+
+
 [[11 February 2025 Tuesday]]
 - Submitted application. 
 - HGCAL: Marchello and Eva. Updating the paper aim 2 weeks. 

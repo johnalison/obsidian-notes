@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/18 February 2025 Tuesday.md",
+                "file": "Journal/20 February 2025 Thursday.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "18 February 2025 Tuesday"
+              "title": "20 February 2025 Thursday"
             }
           },
           {
@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/Synthetic Data Closure.md",
+                "file": "Journal/21 February 2025 Friday.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Synthetic Data Closure"
+              "title": "21 February 2025 Friday"
             }
           },
           {
@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -111,7 +111,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "singularity",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -148,7 +148,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "30a04ba2c1bf765c",
@@ -164,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/Synthetic Data Closure.md",
+                "file": "Journal/20 February 2025 Thursday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +175,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Synthetic Data Closure"
+              "title": "Backlinks for 20 February 2025 Thursday"
             }
           },
           {
@@ -183,12 +184,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/Synthetic Data Closure.md",
+                "file": "Journal/20 February 2025 Thursday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Synthetic Data Closure"
+              "title": "Outgoing links from 20 February 2025 Thursday"
             }
           },
           {
@@ -210,10 +211,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/Synthetic Data Closure.md"
+                "file": "Journal/20 February 2025 Thursday.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Synthetic Data Closure"
+              "title": "Outline of 20 February 2025 Thursday"
             }
           },
           {
@@ -245,14 +246,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4650ed2978183546",
+  "active": "5dcf1492aa850b5a",
   "lastOpenFiles": [
+    "Journal/19 February 2025 Wednesday.md",
+    "Journal/February 2025.md",
+    "Journal/21 February 2025 Friday.md",
     "Journal/18 February 2025 Tuesday.md",
+    "0-inbox/Synthetic Data Closure.md",
     "Journal/17 February 2025 Monday.md",
     "Journal/20 February 2025 Thursday.md",
-    "Journal/19 February 2025 Wednesday.md",
     "0-inbox/CMU HGC MAC Meeting 18 February 2025.md",
-    "Journal/February 2025.md",
     "1-projects/HH4b/Run2 HH4b AN.md",
     "00-Zettelkasten/Idea of the ether comes goes comes.md",
     "Journal/16 February 2025 Sunday.md",
@@ -264,7 +267,6 @@
     "Input/Meetings/CMU HGC MAC Meeting 11 February 2025.md",
     "Journal/12 February 2025 Wednesday.md",
     "2-areas/CMS/ARC TOP-24-006 3 top production.md",
-    "0-inbox/Synthetic Data Closure.md",
     "2-areas/Mentoring/Wesley Terrill.md",
     "Input/Meetings/CMU HGC MAC Meeting 4 February 2025.md",
     "Input/Meetings/CMU HGC MAC Meeting 28 January 2025.md",
@@ -272,7 +274,6 @@
     "0-inbox/git tricks.md",
     "0-inbox/Mass of jets is not invariant.md",
     "1-projects/Mixed2.0/Run3 Synthetic Data.md",
-    "2-areas/Mentoring/Tony Boyle.md",
     "1-projects/Mixed2.0/#Jet DeClustering.md#",
     "Journal/January 2025",
     "Journal/#February 2025.md#",
