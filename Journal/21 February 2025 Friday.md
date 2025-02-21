@@ -44,7 +44,7 @@
 - [ ] Setup [[Stats Chat Data-Driven SR]]
 - [ ] Letter for Byron
 - [ ] Setup for Chance
-- [ ] Modules Summary for Harry 
+- [x] Modules Summary for Harry 
 
 ---
 
@@ -64,6 +64,7 @@ M & T to school
 # [[Synthetic Data Closure]]
 - Falcon back... AE killed it before
 - Running fitting with v4 ... explicitly remove threeTag events from the synthetic dataset
+- Fit... running the data
 
 
 # [[Jet DeClustering]]
@@ -93,4 +94,6 @@ Waiting for condor jobs to finish...
 More [[Run2 HH4b AN]]
 
 # CMU CMS
-- https://cms-cmu.docs.cern.ch/
+- New cmu/cms webpage: https://cms-cmu.docs.cern.ch/
+
+[[Modules Summary February 2025]]
