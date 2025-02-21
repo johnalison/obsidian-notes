@@ -63,11 +63,8 @@ Working Wes application
 # Hoops 
 - 5s good passing. Good takes. Good D. Missed some gimmies
 
-# 4b Chat
-- CL some nice SvB Studies ... Working on new background fit
-- AE: Still dont understand klambda fits...<font color=red> NOW SOLVED!!! </font>
-- JA: will make 15x synthetic data and try to run the closure
-- Will get instructions on friend trees from AE and fitting FvT from CL
+# [[CMU 4b Chats]]
+- See daily's above
 
 # CMU CMS
 - Andrew: HGC work. Move to Kria. 

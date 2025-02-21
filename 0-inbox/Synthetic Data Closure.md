@@ -51,6 +51,52 @@ Let me know if you have any question
 # Logs
 
 
+[[19 February 2025 Wednesday]]
+- Rerunning On **cmslpc338**
+- FvT much better! Looking at lots of plots...
+- Still have anomalously  high values, think they are coming from synthetic data out of acceptance
+- [x] Remove synthetic data overrides
+- Remake friend trees
+	- `python runner.py -m metadata/datasets_HH4b.yml -c analysis/metadata/HH4b_classifier_inputs.yml -d synthetic_data -y UL16_preVFP UL16_postVFP UL17 UL18 -op output/ -o classifier_synthetic_data_v3.coffea`
+- Copy output to eos **classifier_synthetic_data_v3**
+- Training on rogue01...Done
+- Making data hists ... on condor... running blind
+	- `python runner.py -o synthetic_data_closure_Run2_seed0_data_v2.coffea -d data -p analysis/processors/processor_HH4b.py -y UL17 UL18 UL16_preVFP UL16_postVFP -op output/synthetic_dataset_closure -c analysis/metadata/HH4b_synthetic_closure.yml -m metadata/datasets_HH4b.yml --condor`
+- Ran with the wrong version of the friend tree!
+- Rerunning now on condor**cmslpc307**
+- Why are there 3b events with pt < 30 ? ... breg ?
+- Rerunning on **cmslpc323** with FvT regions
+
+
+[[18 February 2025 Tuesday]]
+- testing v2 
+- made hists 
+	- `source  .ci-workflows/synthetic-dataset-analyze-all.sh `
+- making plots
+	- `python  jet_clustering/compare_datasets.py  output/synthetic_dataset_analyze_all/synthetic_data_RunII_seedXXX.coffea   --out analysis/plots_synthetic_datasets_all_00-09-00 -m plots/metadata/plotsSyntheticVsData2.yml
+* making presentation
+	* `make jetclustering_slides_RunII TEXFILENAME=SyntheticDatasets-00-09-09 NEW_DIR=analysis\\/plots_synthetic_datasets_all_00-09-00`
+- New masses look much better ! ... Not much else changed ?
+- Remaking FvT inputs
+	- `python runner.py -m metadata/datasets_HH4b.yml -c analysis/metadata/HH4b_classifier_inputs.yml -d synthetic_data -y UL16_preVFP UL16_postVFP UL17 UL18 -op output/ -o classifier_synthetic_data_v2.coffea`
+- Copy output to eos
+	- `xrdcp python/output/classifier_synthetic_data_v2.json root://cmseos.fnal.gov//store/user/jda102/XX4b/2024_v2/`
+	- `xrdcp python/output/classifier_synthetic_data_v2.coffea root://cmseos.fnal.gov//store/user/jda102/XX4b/2024_v2/'
+- Fitting JCM
+	- ` python analysis/make_weights.py -o testJCM_Coffea_SyntheticData_v2 -c passPreSel -r SB --combine_input_file -i output/histAll.coffea output/synthetic_dataset_analyze_all/synthetic_data_RunII_seedXXX.coffea --data4bName syn_v0 -m plots/metadata/plotsJCMSyntheticData.yml`
+- Need to make synthetic data only
+	- `time python runner.py -o synthetic_data_only_RunII_seedXXX.coffea -d synthetic_data  -p analysis/processors/processor_HH4b.py -y UL17 UL18 UL16_preVFP UL16_postVFP -op output/synthetic_dataset_analyze_all/ -c analysis/metadata/HH4b_run_fastTopReco.yml -m metadata/datasets_HH4b_fourTag.yml`
+- Refit JCM... looks good
+- pushing ... merge failed... will just use local branch on falcon
+- Training:
+	- `bash classifier/config/workflows/synthetic/run.sh jda102`
+- Seems all good
+- Making closure plots
+	- `source .ci-workflows/synthetic-dataset-closure.sh`
+- Running on **cmslpc318** 
+- Crashed ... rerunning
+
+
 
 [[15 February 2025 Saturday]]
 - `singularity exec -B .:/srv --nv --pwd /srv docker://chuyuanliu/heptools:ml bash --init-file /entrypoint.sh`

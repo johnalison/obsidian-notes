@@ -12,6 +12,14 @@
 - Did teachers program (Outreach TA)
 
 
+# Logs
+
+[[19 February 2025 Wednesday]]
+- Lots of DB work
+- Will look into m4j structure
+
+
+
 ## Links: 
 
 [[Physics]]

@@ -59,10 +59,8 @@ Field Trip Cancelled ... It was from ECS high-school!
 - 5s good runs ... Good passing
 - Bunch of footballers there 
 
-# 4b Chat
-- SvB gains from adding other signal k_l points looks real but small. 
-- Will check stat only... if promising compute systematics
-- In parallel CL, will refit FvT x 15 kfolds.
+# [[CMU 4b Chats]]
+- See daily's above
 
 H to Library with Owen
 

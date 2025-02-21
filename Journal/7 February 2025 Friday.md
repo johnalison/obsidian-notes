@@ -85,10 +85,8 @@ Got MacBeth books
 
 Chat with Jeff about new job description
 
-# 4b Chat 
-- AE working comments 
-- CL: fitting new background method
-- SM: not much
+# [[CMU 4b Chats]]
+- See daily's above
 
 # CMU CMS
 - 6th floor (Confusion over 7316)

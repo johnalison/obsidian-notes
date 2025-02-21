@@ -62,11 +62,8 @@ Lots of [[Synthetic Data Closure]]
 - 3s at Highmark 
 - Good play. Great passing and finishing!
 
-# 4b Chat 
-- AE to make the signal distribution flat,  finishing L2 comments
-- JA: needs to debug Synthetic data phase space
-- CL: finishing background fits
-- SM: putting slides together
+# [[CMU 4b Chats]]
+- see daily's above
 
 Think about how ttbar mis-modelling affects total background fit. 
 - What is the relationship to DvT ? 
@@ -80,3 +77,4 @@ Grad Social... Picked up M & T ... took them to social
 
 # Owens for Fondue 
 - Good times
+

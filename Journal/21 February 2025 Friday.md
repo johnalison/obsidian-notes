@@ -5,8 +5,8 @@
 |     | Teaching                   |     |
 | 10  | Chat Chance                |     |
 |     | [[Synthetic Data Closure]] |     |
-| 11  |                            |     |
-|     |                            |     |
+| 11  | [[Synthetic Data Closure]] |     |
+|     | [[Synthetic Data Closure]] |     |
 | 12  | Hoops                      |     |
 |     | Hoops                      |     |
 | 1   | Hoops                      |     |
@@ -32,10 +32,16 @@
 
 - [ ]  HGCAL workshop slides 
 - [ ] Read for [[ARC TOP-24-006 3 top production]]
-- [ ] Bitch re:falcon
+- [x] Bitch re:falcon
 - [ ] Update [[Run3 Synthetic Data]], merge 
+	- [ ]  Make PDFs for Run3 
 - [ ] Do  [[DOE Review Li Zepeng]]
-
+- [x] Setup [[CMU 4b Chats]]
+- [ ] Do  [[Synthetic Data Closure]]
+- [ ] Sam Letter
+- [ ] L2 Comments
+- [ ] MAC Meeting slides
+- [ ] Setup [[Stats Chat Data-Driven SR]]
 
 ---
 
@@ -44,3 +50,30 @@
 Up at 7
 
 M & T to school 
+
+
+# Taught
+- Homework problems
+
+# Chat Chance
+- [ ] Get him set up with Boosted synthetic data
+
+# [[Synthetic Data Closure]]
+- Falcon back... AE killed it before
+- Running fitting with v4 ... explicitly remove threeTag events from the synthetic dataset
+
+
+# [[Jet DeClustering]]
+- [ ] Run3 pdfs with rho corrections
+- [ ] Correct for pt dependence (through rho) when making the initial pdfs
+- Running on **cmslpc347**
+- Making Run3 pdfs
+	- `python runner.py -o synthetic_datasets_Run3.coffea -d data  -p analysis/processors/processor_cluster_4b.py -y 2022_EE 2022_preEE 2023_BPix 2023_preBPix  -op output/synthetic_dataset_cluster  -m metadata/datasets_HH4b_Run3_fourTag_v3.yml -c analysis/metadata/cluster_4b_noTTSubtraction.yml --condor`
+
+--- 
+
+# Hoops
+
+
+# [[CMU 4b Chats]]
+- 
