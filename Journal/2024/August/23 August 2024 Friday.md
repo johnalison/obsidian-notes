@@ -67,7 +67,10 @@ https://cmu.fbs.io/Apps/FBS/Default.aspx?f=619
 
 Some Matteo letter
 
-# [[CMU 4b Chat 24 August 2024]]
+
+# [[CMU 4b Chats]]
+- See daily's above
+
 
 # [[CMU Round Table 24 August 2024]]
 

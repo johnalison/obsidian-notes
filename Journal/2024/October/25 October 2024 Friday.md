@@ -57,7 +57,8 @@ More classifier studies ... see above
 
 Start classifier slides
 
-# [[CMU 4b Chat 25 October 2024]]
+# [[CMU 4b Chats]]
+- see daily's above
 
 CMU CMS Meeting:
 

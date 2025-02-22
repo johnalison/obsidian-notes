@@ -57,7 +57,8 @@ Will be a nice pairing to the progress reports.. added to calendar
 - Played Great !!!
 - Great Runs 3s and 4s
 
-[[CMU 4b Chat 6 September 2024]]
+# [[CMU 4b Chats]]
+- See daily's above
 
 More JetDeclustering
 

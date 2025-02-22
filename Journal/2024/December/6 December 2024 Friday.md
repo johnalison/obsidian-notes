@@ -83,13 +83,8 @@ Start on [[Run-3 4b skims]]
 
 # Chat Ornella 
 
-# 4b Chat
-- AE:  will make friend trees
-- AE: updating the AN
-- AE: ZZ and ZH fits 
-- AE: mixed data instead of data for v4. 
-- JA: Add CL stuff
-- CL: More classifier FvT variations 
+# [[CMU 4b Chats]]
+- See daily's above
 
 
 - [x] Watch Math Talk

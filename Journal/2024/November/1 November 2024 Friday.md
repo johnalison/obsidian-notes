@@ -78,7 +78,8 @@ Review [[Fall 2024]]
 
 # Saw Zihao ! 
 
-# [[CMU 4b Chat 1 November  2024]]
+# [[CMU 4b Chats]]
+- See daily above
 
 Kids to get flu shots
 

@@ -23,7 +23,8 @@ Chat Chris about systematic uncertainties. Wants to write a paper about the syst
 
 # To campus with Marlo
 
-[[CMU 4b Chat 20 September 2024]]
+# [[CMU 4b Chats]]
+- See daily's above
 
 Home with M
 

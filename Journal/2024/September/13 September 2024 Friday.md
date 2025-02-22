@@ -61,8 +61,8 @@ M&T to school
 
 [[StatsChat-13-September-2024]]
 
-
-[[CMU 4b Chat 13 September 2024]]
+# [[CMU 4b Chats]]
+- See daily's above
 
 # CMS Round Table
 - Not much

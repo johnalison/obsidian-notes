@@ -63,8 +63,8 @@ Coffee with Sindhu and AE
 AT: website with encapsulation instructions
 AR: Date for shipping material:  Oct 16th Nov.
 
-
-[[CMU 4b Chat 27 September 2024]]
+# [[CMU 4b Chats]]
+- See daily's above
 
 # Social
 - Manfred not happy about new dean.  Says it will be announced on Tuesday

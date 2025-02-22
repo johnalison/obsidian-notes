@@ -83,7 +83,7 @@ M&T to school in snow
 
 Pinged Ornellas reference
 
-# CMU 4b Chat 22 November 2024
+# [[CMU 4b Chats]]
 - Debugging with CL
 - FOUND THE pseudoJet Bug !! Very subtle.. see above
 

@@ -83,12 +83,8 @@ More AN compilation fixing... see above
 # HEP Lunch 
 - Not much ...
 
-# 4b chat 
-- Lots of progress... no Sindhu
- [>>] Add ZZ/ZH studies to slides
-- [x] [[HH4b Run2 check consistency of years]]
-- CL good progress on classifier studies: 20 min with data and ttbar
-- AE has varible binning fits going
+# [[CMU 4b Chats]]
+- See daily above
 
 # CMU CMS
 - Not much 

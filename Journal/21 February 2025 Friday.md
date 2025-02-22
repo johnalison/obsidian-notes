@@ -37,11 +37,11 @@
 	- [>>]  Make PDFs for Run3 
 - [ ] Do  [[DOE Review Li Zepeng]]
 - [x] Setup [[CMU 4b Chats]]
-- [ ] Do  [[Synthetic Data Closure]]
+- [>>] Do  [[Synthetic Data Closure]]
 - [>>] SURF Letter for [[Sam Hobbeheydar Rec Letter]]
 - [ ] L2 Comments
 - [ ] Setup [[Stats Chat Data-Driven SR]]
-- [ ] Letter for Byron
+- [ ] Letter for [[Byron Daniels Rec Letter]]
 - [ ] Setup for Chance
 - [x] Modules Summary for Harry 
 

@@ -7,6 +7,8 @@ Feedback from Marina:
 - [ ] Jets with 3 medium b-jets
 
 
+v6: 
+- like v5 but now rho correction when declustering.
 
 v5: 
 - like v4, but with splitting functions that use the JEC calbiration
