@@ -7,6 +7,7 @@
 - [x] Update [[Run3 Synthetic Data]], merge 
 	- [x]  Make PDFs for Run3 
 - [ ] Make new [[Run3 Synthetic Data]]
+- [x] Ann Arbor Slides Draft
 
 
 ---
@@ -35,3 +36,5 @@ To Heat Check to check Jerseys... nothin'
 
 - Updating [[CMU 4b Chats]]
 - [ ] Set up [[CMU bbWW Chats]]
+
+Put together a draft of the Ann Arbor slides
