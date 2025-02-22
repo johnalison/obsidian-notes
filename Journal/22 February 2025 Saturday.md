@@ -19,8 +19,8 @@ Up at 8
 # [[Synthetic Data Closure]]
 - Fixed problem with empty histograms... rerunning v4 on condor
 - Still see large event weights. .. not clear whats happening.
-- [[Run3 Synthetic Data]] making v6 on **cmslpc350**
-	- `source .ci-workflows/synthetic-dataset-make-dataset-all.sh `
+- [[Run3 Synthetic Data]] 
+
 
 # [[Jet DeClustering]]
 - [x] Run3 pdfs with rho corrections
@@ -38,3 +38,9 @@ To Heat Check to check Jerseys... nothin'
 - [ ] Set up [[CMU bbWW Chats]]
 
 Put together a draft of the Ann Arbor slides
+
+# [[Run3 Synthetic Data]]
+-  making v6 on **cmslpc350**... Done
+	- `source .ci-workflows/synthetic-dataset-make-dataset-all.sh `
+- Now making plots... 
+	- `source .ci-workflows/synthetic-dataset-analyze-all.sh`
