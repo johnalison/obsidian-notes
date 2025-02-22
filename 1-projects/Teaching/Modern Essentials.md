@@ -54,6 +54,9 @@ Muons at sea level.
 - Muons at sea level.
    How many muons survive at sea level assuming no time dialation with time dialation
 
+# Quantum
+- Fly-By-Night atomic physics
+
 
 # Extra credit ideas: 
 - QM: delta function molecules and solids

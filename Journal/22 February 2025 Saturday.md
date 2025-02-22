@@ -47,3 +47,5 @@ Put together a draft of the Ann Arbor slides
 - Ran with the wrong pt threshold ... rerunning at 30 GeV!
 - [ ] Set threshold automatically
 - Masses look much better !
+
+Good Homework problem for [[Modern Essentials]]
