@@ -38,7 +38,7 @@
 - [ ] Do  [[DOE Review Li Zepeng]]
 - [x] Setup [[CMU 4b Chats]]
 - [ ] Do  [[Synthetic Data Closure]]
-- [ ] Sam Letter
+- [ ] SURF Letter for [[Sam Hobbeheydar Rec Letter]]
 - [ ] L2 Comments
 - [ ] Setup [[Stats Chat Data-Driven SR]]
 - [ ] Letter for Byron

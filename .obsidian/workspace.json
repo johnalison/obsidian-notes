@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/21 February 2025 Friday.md",
+                "file": "Output/Recommendation  Letters/Sam Hobbeheydar Rec Letter.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "21 February 2025 Friday"
+              "title": "Sam Hobbeheydar Rec Letter"
             }
           },
           {
@@ -125,7 +125,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "kuberne",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -162,8 +162,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "30a04ba2c1bf765c",
@@ -179,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/21 February 2025 Friday.md",
+                "file": "Output/Recommendation  Letters/Sam Hobbeheydar Rec Letter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +188,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 21 February 2025 Friday"
+              "title": "Backlinks for Sam Hobbeheydar Rec Letter"
             }
           },
           {
@@ -198,12 +197,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/21 February 2025 Friday.md",
+                "file": "Output/Recommendation  Letters/Sam Hobbeheydar Rec Letter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 21 February 2025 Friday"
+              "title": "Outgoing links from Sam Hobbeheydar Rec Letter"
             }
           },
           {
@@ -225,10 +224,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/21 February 2025 Friday.md"
+                "file": "Output/Recommendation  Letters/Sam Hobbeheydar Rec Letter.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 21 February 2025 Friday"
+              "title": "Outline of Sam Hobbeheydar Rec Letter"
             }
           },
           {
@@ -262,8 +261,11 @@
   },
   "active": "5dcf1492aa850b5a",
   "lastOpenFiles": [
-    "1-projects/HH4b/Run2 HH4b AN.md",
+    "Journal/2024/August/22 August 2024 Thursday.md",
+    "Output/Translations of Kubernetes Ad.md",
+    "Output/Recommendation  Letters/Sam Hobbeheydar Rec Letter.md",
     "Journal/21 February 2025 Friday.md",
+    "1-projects/HH4b/Run2 HH4b AN.md",
     "0-inbox/Modules Summary February 2025.md",
     "Journal/18 February 2025 Tuesday.md",
     "0-inbox/CMU HGC MAC Meeting 18 February 2025.md",
@@ -285,9 +287,6 @@
     "2-areas/Mentoring/Tony Boyle.md",
     "Journal/19 February 2025 Wednesday.md",
     "Journal/17 February 2025 Monday.md",
-    "0-inbox/UndergradProjects.md",
-    "Journal/16 February 2025 Sunday.md",
-    "Journal/15 February 2025 Saturday.md",
     "1-projects/Mixed2.0/#Jet DeClustering.md#",
     "Journal/January 2025",
     "Journal/#February 2025.md#",
