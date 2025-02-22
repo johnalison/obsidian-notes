@@ -33,12 +33,12 @@
 - [ ]  HGCAL workshop slides 
 - [ ] Read for [[ARC TOP-24-006 3 top production]]
 - [x] Bitch re:falcon
-- [ ] Update [[Run3 Synthetic Data]], merge 
-	- [ ]  Make PDFs for Run3 
+- [>>] Update [[Run3 Synthetic Data]], merge 
+	- [>>]  Make PDFs for Run3 
 - [ ] Do  [[DOE Review Li Zepeng]]
 - [x] Setup [[CMU 4b Chats]]
 - [ ] Do  [[Synthetic Data Closure]]
-- [ ] SURF Letter for [[Sam Hobbeheydar Rec Letter]]
+- [>>] SURF Letter for [[Sam Hobbeheydar Rec Letter]]
 - [ ] L2 Comments
 - [ ] Setup [[Stats Chat Data-Driven SR]]
 - [ ] Letter for Byron
@@ -65,11 +65,12 @@ M & T to school
 - Running fitting with v4 ... explicitly remove threeTag events from the synthetic dataset
 - Fit... running the data .. on condor
 	- `python runner.py -o synthetic_data_closure_Run2_seed0_data_v4.coffea -d data -p analysis/processors/processor_HH4b.py -y UL17 UL18 UL16_preVFP UL16_postVFP -op output/synthetic_dataset_closure -c analysis/metadata/HH4b_synthetic_closure.yml -m metadata/datasets_HH4b.yml --condor`
+- Output file is empty...think its because the histCuts arent there...
 
 
 # [[Jet DeClustering]]
-- [ ] Run3 pdfs with rho corrections
-- [ ] Correct for pt dependence (through rho) when making the initial pdfs
+- [>>] Run3 pdfs with rho corrections
+- [<<] Correct for pt dependence (through rho) when making the initial pdfs
 - Running on **cmslpc347**
 - Making Run3 pdfs... finished in 11068.29407286644s = 3hours
 	- `python runner.py -o synthetic_datasets_Run3.coffea -d data  -p analysis/processors/processor_cluster_4b.py -y 2022_EE 2022_preEE 2023_BPix 2023_preBPix  -op output/synthetic_dataset_cluster  -m metadata/datasets_HH4b_Run3_fourTag_v3.yml -c analysis/metadata/cluster_4b_noTTSubtraction.yml --condor`

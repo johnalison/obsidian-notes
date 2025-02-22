@@ -13,6 +13,7 @@ Getting the new mixing going
 - [x] Implement jet mass corrections for final jet pt 
 - [ ] Use inverse rho corrections when making pdfs
 	- ie: recompute jet mass in px = p frame
+	- correct for pt dependence (through rho) when making the initial pdfs
 - [x] Try Run-2 synthetic data with lower pt Cut
 - [ ] Compare mixed to synthetic to threeTag
 - [ ] Run-3
