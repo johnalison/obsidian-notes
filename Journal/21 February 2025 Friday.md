@@ -12,10 +12,10 @@
 | 1   | Hoops                      |     |
 |     | Quarterly Systems          |     |
 | 2   | 4b Chat                    |     |
-|     |                            |     |
+|     | [[Run2 HH4b AN]]           |     |
 | 3   | CMU CMS                    |     |
-|     |                            |     |
-| 4   |                            |     |
+|     | [[Synthetic Data Closure]] |     |
+| 4   | Chat AE                    |     |
 |     | Teddy Birthday Celebration |     |
 
 **W:**
@@ -40,7 +40,6 @@
 - [ ] Do  [[Synthetic Data Closure]]
 - [ ] Sam Letter
 - [ ] L2 Comments
-- [ ] MAC Meeting slides
 - [ ] Setup [[Stats Chat Data-Driven SR]]
 - [ ] Letter for Byron
 - [ ] Setup for Chance
@@ -65,6 +64,7 @@ M & T to school
 - Falcon back... AE killed it before
 - Running fitting with v4 ... explicitly remove threeTag events from the synthetic dataset
 - Fit... running the data .. on condor
+	- `python runner.py -o synthetic_data_closure_Run2_seed0_data_v4.coffea -d data -p analysis/processors/processor_HH4b.py -y UL17 UL18 UL16_preVFP UL16_postVFP -op output/synthetic_dataset_closure -c analysis/metadata/HH4b_synthetic_closure.yml -m metadata/datasets_HH4b.yml --condor`
 
 
 # [[Jet DeClustering]]
@@ -83,7 +83,8 @@ Waiting for condor jobs to finish...
 
 # Some [[Run2 HH4b AN]]
 - Make comparison of 1d projections of masses, added to Twiki
-- Need to update **makePlotsMixedVsDataVs3b.py** 
+- [x] Need to update **makePlotsMixedVsDataVs3b.py** 
+- Updated figures 69 and 70 with region names.
 
 # [[CMU 4b Chats]]
 - JA: working synthetic data and L2 plots
@@ -100,4 +101,8 @@ More [[Run2 HH4b AN]]
 
 
 Chat AE re:Milei 
+
+Home 
+
+More [[Run2 HH4b AN]]
 

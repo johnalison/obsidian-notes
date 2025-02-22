@@ -10,8 +10,7 @@ Twiki: https://twiki.cern.ch/twiki/bin/view/CMSPublic/Run2HH4b
 - [x] 1D mass projections of SR and SB
 - [ ] Add chuyuans studies in an appendix
 - [ ] Fig. 51 (hemisphere summary variables): for different jet bins
-- [ ] Add regions to fig 69 and 70
-	- Need to update **makePlotsMixedVsDataVs3b.py**
+- [x] Add regions to fig 69 and 70
 - [ ] Add SvB for ZZ and ZH in the SR
 
 # To do

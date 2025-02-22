@@ -125,7 +125,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "makeplots",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -162,7 +162,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "30a04ba2c1bf765c",
@@ -261,13 +262,13 @@
   },
   "active": "5dcf1492aa850b5a",
   "lastOpenFiles": [
+    "1-projects/HH4b/Run2 HH4b AN.md",
+    "Journal/21 February 2025 Friday.md",
     "0-inbox/Modules Summary February 2025.md",
     "Journal/18 February 2025 Tuesday.md",
     "0-inbox/CMU HGC MAC Meeting 18 February 2025.md",
     "Output/CAM/Modules Summary January 2025.md",
-    "Journal/21 February 2025 Friday.md",
     "0-inbox/Synthetic Data Closure.md",
-    "1-projects/HH4b/Run2 HH4b AN.md",
     "Journal/Spring 2025.md",
     "Journal/20 February 2025 Thursday.md",
     "Journal/February 2025.md",
