@@ -105,7 +105,8 @@
               "title": "Synthetic Data Closure"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -178,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/UndergradProjects.md",
+                "file": "Journal/22 February 2025 Saturday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +189,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for UndergradProjects"
+              "title": "Backlinks for 22 February 2025 Saturday"
             }
           },
           {
@@ -197,12 +198,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/UndergradProjects.md",
+                "file": "Journal/22 February 2025 Saturday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from UndergradProjects"
+              "title": "Outgoing links from 22 February 2025 Saturday"
             }
           },
           {
@@ -224,10 +225,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/UndergradProjects.md"
+                "file": "Journal/22 February 2025 Saturday.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of UndergradProjects"
+              "title": "Outline of 22 February 2025 Saturday"
             }
           },
           {
@@ -259,8 +260,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a53bfe1b69be06bc",
+  "active": "4650ed2978183546",
   "lastOpenFiles": [
+    "Journal/21 February 2025 Friday.md",
+    "0-inbox/UndergradProjects.md",
     "1-projects/HH4b/Synthetic Data Closure.md",
     "Output/CAM/Modules Summary February 2025.md",
     "0-inbox/Mass of jets is not invariant.md",
@@ -269,7 +272,6 @@
     "0-inbox/Existence Is Evidence of Immortality.md",
     "1-projects/HH4b/CMU 4b Chats.md",
     "Input/Meetings/CMU HGC MAC Meeting 18 February 2025.md",
-    "Journal/21 February 2025 Friday.md",
     "Journal/22 February 2025 Saturday.md",
     "1-projects/Mixed2.0/Jet DeClustering.md",
     "Journal/February 2025.md",
@@ -286,7 +288,6 @@
     "Journal/8 February 2025 Saturday.md",
     "Journal/7 February 2025 Friday.md",
     "Journal/January 2025/3 January 2025 Friday.md",
-    "Journal/January 2025/10 January 2025 Friday.md",
     "1-projects/Mixed2.0/#Jet DeClustering.md#",
     "Journal/January 2025",
     "Journal/#February 2025.md#",
