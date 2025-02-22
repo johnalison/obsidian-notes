@@ -3,7 +3,7 @@
 ---
 # To Do
 
-- [ ] SURF Letter for [[Sam Hobbeheydar Rec Letter]]
+- [x] SURF Letter for [[Sam Hobbeheydar Rec Letter]]
 - [x] Update [[Run3 Synthetic Data]], merge 
 	- [x]  Make PDFs for Run3 
 - [ ] 
