@@ -52,8 +52,9 @@ Another Mail to Nuno...
 # [[Jet DeClustering]]
 - See daily logs
 
+# Chat [[Wesley Terrill]]
+- See daily's above
 
-[[Chat w Wes 24 September 2024]]
 
 [[Chat w Sindhu 24 September 2024]]
 

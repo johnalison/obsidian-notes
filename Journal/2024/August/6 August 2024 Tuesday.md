@@ -52,6 +52,9 @@ Setup
 
 Trying to use templates for meetings
 
+# Chat [[Wesley Terrill]]
+- See daily's above
+
 [[Chat with Wes 6 August 2024]]
 
 Long chat with Alejandro:

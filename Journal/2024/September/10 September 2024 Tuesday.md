@@ -50,7 +50,8 @@ To School
 
 Reviewed Anikets DQM slides with him.
 
-[[Chat w Wes 10 September 2024]]
+# Chat [[Wesley Terrill]]
+- See daily's above
 
 # Start fast!
 

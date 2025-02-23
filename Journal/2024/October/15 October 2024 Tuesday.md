@@ -55,7 +55,8 @@ Chair not delivered.. cancelled.
 
 Visitor pass portal broken
 
-[[Chat w Wes 15 October 2024]]
+# Chat [[Wesley Terrill]]
+- See dailys above
 
 To Campus
 

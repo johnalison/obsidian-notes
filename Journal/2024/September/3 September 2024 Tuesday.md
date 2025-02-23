@@ -57,7 +57,9 @@ To School
 
 Idea for selected jet flag for [[Jet DeClustering]]
 
-[[Chat w Wes 3 September 2024]]
+# Chat [[Wesley Terrill]]
+- See daily's above
+
 
 Walk and chat with AGE
 

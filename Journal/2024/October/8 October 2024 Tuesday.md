@@ -49,7 +49,8 @@ Signed into the new portal... Can't get visitor pass working.
 
 work from home
 
-[[Chat w Wes 8 October 2024]]
+# Chat [[Wesley Terrill]]
+- see daily's above
 
 # [[Run-3 4b skims]]
 - See daily logs above

@@ -49,7 +49,8 @@ Reviewed September
 
 Dropped off splewge. 
 
-[[Chat w Wes 1 October 2024]]
+# Chat [[Wesley Terrill]]
+- see daily's above
 
 # [[Jet DeClustering]]
 - See Daily logs above

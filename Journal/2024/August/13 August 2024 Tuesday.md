@@ -42,7 +42,9 @@ Wrote up [[March 2022]]
 # [[Jet DeClustering]]
 - See daily log above
 
-[[Chat w Wes 14 August 2024]]
+# Chat [[Wesley Terrill]]
+- See daily's above
+
 
 To school
 

@@ -76,7 +76,7 @@ w/M
 
 To campus 
 
-[[Chat w Wes 19 November 2024]]
+# [[Wesley Terrill]]
 
 Do I want to prioritize HGC on Tuesdays ? 
 

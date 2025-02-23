@@ -50,7 +50,8 @@ Review [[MPL]]
 
 Back to take kids to the Dr
 
-[[Chat w Wes 27 August 2024]]
+# Chat [[Wesley Terrill]]
+- See daily's above
 
 # Drs Appointment
 - All good

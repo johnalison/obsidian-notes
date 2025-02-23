@@ -51,6 +51,9 @@ w/kids
 # ARC Meeting
 - Phil wants to use this for his tenure talk
 
+# Update [[Wesley Terrill]]
+- See daily's above
+
 [[Update from Wes 26 November 2024]]
 
 # Histograms to cutflow

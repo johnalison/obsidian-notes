@@ -47,7 +47,8 @@ w/kids
 
 To campus
 
-[[Chat w Wes 12 November 2024]]
+# Chat [[Wesley Terrill]]
+
 
 Chat Ira, Roy
 

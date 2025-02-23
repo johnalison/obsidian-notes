@@ -57,7 +57,8 @@ Got visitor pass working... https://pittsburgh.blinkay.app/summary
 
 To Campus
 
-# [[Chat w Wes 29 October 2024]]
+# Chat [[Wesley Terrill]]
+- see daily's above
 
 More Run3 clustering
 

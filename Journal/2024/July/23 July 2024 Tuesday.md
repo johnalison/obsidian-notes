@@ -38,7 +38,8 @@ ex:
 
 M and T to school
 
-[[Chat w Wes 23 July 2024]]
+# Chat [[Wesley Terrill]]
+- See daily's above
 
 Dont want to save presentations in git ! Too large (backups should be enough!)
 

@@ -55,7 +55,8 @@ Finished [[ProgressReport 16 September 2024]]
 - Core / pull-ups / front squat / press
 - 10' at Tmax = 124
 
-[[Chat w Wes 17 September 2024]]
+# Chat [[Wesley Terrill]]
+
 
 Trigger weights in python seems buggy.  Will debug wrt c++. 
 
