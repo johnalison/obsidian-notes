@@ -73,8 +73,8 @@ Updating plotting with simpler ttbar config.
 
 Mail from Mans re:June Directors Review.
 
-# bbWW Chat
-- Aniket to give slides next meeting
+# [[CMU bbWW]]
+- See daily's above
 
 
 Chat AE and AK

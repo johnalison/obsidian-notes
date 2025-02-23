@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/22 February 2025 Saturday.md",
+                "file": "Journal/January 2025/1 January 2025 Wednesday.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "22 February 2025 Saturday"
+              "title": "1 January 2025 Wednesday"
             }
           },
           {
@@ -105,8 +105,7 @@
               "title": "Synthetic Data Closure"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -179,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-projects/Teaching/Modern Essentials.md",
+                "file": "Journal/January 2025/1 January 2025 Wednesday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +188,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Modern Essentials"
+              "title": "Backlinks for 1 January 2025 Wednesday"
             }
           },
           {
@@ -198,12 +197,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-projects/Teaching/Modern Essentials.md",
+                "file": "Journal/January 2025/1 January 2025 Wednesday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Modern Essentials"
+              "title": "Outgoing links from 1 January 2025 Wednesday"
             }
           },
           {
@@ -225,10 +224,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-projects/Teaching/Modern Essentials.md"
+                "file": "Journal/January 2025/1 January 2025 Wednesday.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Modern Essentials"
+              "title": "Outline of 1 January 2025 Wednesday"
             }
           },
           {
@@ -260,34 +259,35 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5dcf1492aa850b5a",
+  "active": "a53bfe1b69be06bc",
   "lastOpenFiles": [
+    "Input/Meetings/December/MAC meeting 4 December 2024.md",
+    "Input/Meetings/December/MAC meeting 18 December 2024.md",
+    "Input/Meetings/December/Chat w Wes 3 December 2024.md",
+    "Input/Meetings/December/CMU HGC Mac Meeting 3 December 2024.md",
+    "Input/Meetings/December/CMU HGC Mac Meeting 17 December 2024.md",
+    "Input/Meetings/December/CMU HGC Mac Meeting 10 December 2024.md",
+    "Input/Meetings/December",
+    "Journal/January 2025/8 January 2025 Wednesday.md",
+    "Journal/January 2025/15 January 2025 Wednesday.md",
+    "Journal/January 2025/22 January 2025 Wednesday.md",
+    "Journal/January 2025/29 January 2025 Wednesday.md",
+    "Journal/5 February 2025 Wednesday.md",
+    "Journal/12 February 2025 Wednesday.md",
+    "0-inbox/CMU bbWW.md",
+    "Journal/19 February 2025 Wednesday.md",
+    "Journal/13 February 2025 Thursday.md",
+    "Journal/20 February 2025 Thursday.md",
     "Journal/22 February 2025 Saturday.md",
-    "1-projects/Mixed2.0/Run3 Synthetic Data.md",
+    "1-projects/Teaching/Modern Essentials.md",
+    "Journal/February 2025.md",
     "0-inbox/Ann Arbor Trip 2025.md",
+    "1-projects/Mixed2.0/Run3 Synthetic Data.md",
     "0-inbox/Building Fermilab.md",
     "0-inbox/AnalysesOverview.excalidraw.md",
     "Input/Meetings/October/StatsChat-24-October-2024.md",
     "Input/Meetings/October/StatsChat-17-October-2024.md",
     "Input/Meetings/October/StatsChat-9-October-2024.md",
-    "Input/Meetings/October/StatsChat-2-October-2024.md",
-    "Journal/2024/July/29 July 2024 Monday.md",
-    "1-projects/HH4b/CMU 4b Chats.md",
-    "Journal/2024/July/30 July 2024 Tuesday.md",
-    "Journal/2024/July/31 July 2024 Wednesday.md",
-    "Journal/2024/August/1 August 2024 Thursday.md",
-    "Journal/2024/August/2 August 2024 Friday.md",
-    "Journal/2024/August/9 August 2024 Friday.md",
-    "Journal/2024/August/16 August 2024 Friday.md",
-    "Journal/2024/August/23 August 2024 Friday.md",
-    "Input/Meetings/August/CMU 4b Chat 24 August 2024.md",
-    "Journal/2024/August/30 August 2024 Friday.md",
-    "Input/Meetings/August/CMU 4b Chat 30 August 2024.md",
-    "Journal/2024/September/6 September 2024 Friday.md",
-    "Input/Meetings/September/CMU 4b Chat 6 September 2024.md",
-    "Journal/2024/September/13 September 2024 Friday.md",
-    "Input/Meetings/September/CMU 4b Chat 13 September 2024.md",
-    "Journal/2024/September/20 September 2024 Friday.md",
     "1-projects/Mixed2.0/#Jet DeClustering.md#",
     "Journal/January 2025",
     "Journal/#February 2025.md#",
@@ -298,7 +298,6 @@
     "Journal/2024/October",
     "Journal/2024/September",
     "Journal/2024/July",
-    "Journal/2024/August",
     "attachments/ModuleAssemblyPersonel.png",
     "attachments/Pasted image 20240826220009.png",
     "attachments/Pasted image 20240826215955.png",

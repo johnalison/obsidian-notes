@@ -49,3 +49,8 @@ Put together a draft of the Ann Arbor slides
 - Masses look much better !
 
 Good Homework problem for [[Modern Essentials]]
+
+
+Some [[I See Satan Fall Like Lightning]]
+Some [[Fly By Night Physics]]
+Some [[MacBeth]]

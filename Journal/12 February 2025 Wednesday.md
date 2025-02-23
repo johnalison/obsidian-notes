@@ -70,8 +70,8 @@ Chat Roy.
 
 Finish Entering grades
 
-# bbWW
-- Will start moving to new coffea version and to run3
+# [[CMU bbWW]]
+- See daily above
 
 # [[Jet DeClustering]]
 - See daily's above
