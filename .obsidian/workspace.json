@@ -105,8 +105,7 @@
               "title": "Synthetic Data Closure"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -178,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/22 February 2025 Saturday.md",
+                "file": "Journal/23 February 2025 Sunday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +187,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 22 February 2025 Saturday"
+              "title": "Backlinks for 23 February 2025 Sunday"
             }
           },
           {
@@ -197,12 +196,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/22 February 2025 Saturday.md",
+                "file": "Journal/23 February 2025 Sunday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 22 February 2025 Saturday"
+              "title": "Outgoing links from 23 February 2025 Sunday"
             }
           },
           {
@@ -224,10 +223,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/22 February 2025 Saturday.md"
+                "file": "Journal/23 February 2025 Sunday.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 22 February 2025 Saturday"
+              "title": "Outline of 23 February 2025 Sunday"
             }
           },
           {
@@ -259,8 +258,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9e6ade5c41e12308",
+  "active": "fc934c5947b5dd10",
   "lastOpenFiles": [
+    "Journal/22 February 2025 Saturday.md",
     "Journal/23 February 2025 Sunday.md",
     "0-inbox/CMU bbWW.md",
     "1-projects/bbWW/HHbbWW.md",
@@ -286,7 +286,6 @@
     "Input/Meetings/August/CMUbbWW Meeting 29 August 2024.md",
     "Journal/2024/September/5 September 2024 Thursday.md",
     "Journal/2024/September/12 September 2024 Thursday.md",
-    "Input/Meetings/September/CMUbbWW 5 September 2024.md",
     "Input/Meetings/December",
     "1-projects/Mixed2.0/#Jet DeClustering.md#",
     "Journal/January 2025",
