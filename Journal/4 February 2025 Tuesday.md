@@ -51,8 +51,8 @@ To campus
 # Chat [[Wesley Terrill]]
 - Visited P5
 
-# Stat Chat
-- Discussed the uncertainty on the predicted normalization
+# [[Stats Data-Driven SR]]
+
 
 # Outreach Meeting
 

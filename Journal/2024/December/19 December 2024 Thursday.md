@@ -57,12 +57,8 @@ Fast Day 3
 # [[Run3 Synthetic Data]]
 - See daily's above
 
-# Stats chat
-- Soheun poster: 1hr, 
-- **DARMA** (Data-driven Algorithm for signal Region-based Model-Agnostic signals) ? ??
-- Should we vary the kernel during the ensembling ?
-	- Complicates interpretations
-- Use CLUE to show that smearing works 
+# [[Stats Data-Driven SR]]
+- see daily's 
 
 # Chat w/Chuyuan 
 - Will put together slides/comittee for annual review

@@ -55,9 +55,8 @@ M & T to school
 - Examples: Compton scattering and discovery of new particles
 
 
-# [[Stats Chat Data-Driven SR]]
-- gamma/gamma-tilde look good
-- Get other signal samples
+# [[Stats Data-Driven SR]]
+- see daily's above
 
 # Gym / Steam room 
 - core / Supers sets! 

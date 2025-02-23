@@ -69,8 +69,8 @@ Working PGSS notes
 Gave Lab tour to dan. 
   (Will meet him again tomorrow)
 
+# [[Stats Data-Driven SR]]
 
-[[Stats Chat 18 July 2024]]
 
 [[Chat Anika Bhawalkar 18July 2024]]
 

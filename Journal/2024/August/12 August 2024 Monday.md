@@ -51,7 +51,7 @@ Lynn over
 
 [[multiHiggs working meeting 12 August 2024]]
 
-[[StatsChat-12-August-2024]]
+# [[Stats Data-Driven SR]]
 
 [[SindhuChat 12 August 2024]]
 

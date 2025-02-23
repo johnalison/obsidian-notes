@@ -59,8 +59,8 @@ M&T to school in light rain
 - Mass - Energy relation from inelastic collisions  
 - [[Idea of the ether comes goes comes]]
 
-# Stats Chat
-- Discuss journal 
+# [[Stats Data-Driven SR]]
+- See dailys
 
 # Gym / Steamroom
 - core / front raises / shruggs / lounges 

@@ -57,9 +57,8 @@ Swain rejects :(
 # Working [[HGC Transfer Tape BCR]]
 
 
-# Stats chat
-- How to ensemble the latent space.
-- not much else...
+# [[Stats Data-Driven SR]]
+
 
 # [[CMU bbWW]]
 - Prep talk for bbWW

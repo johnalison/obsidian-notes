@@ -63,11 +63,10 @@ Ankle really hurting
 - that worked! ... merged! 
 - Need to add cutflow
 
-# Stats Chat
+# [[Stats Data-Driven SR]]
 - [x] Send crypto links
 	[[CryptoLinks]]
 	[[CryptoBottomLine]]
-- Another background fit in the SR
 
 
 More Adding Run3CI.. see above

@@ -50,9 +50,8 @@ Up at 7
 
 To campus
 
-# Stats Chat
-- Reviewed the Ada write up
-- Ensemblelling seems to work
+# [[Stats Data-Driven SR]]
+
 
 [[CMU HGC Mac Meeting 10 December 2024]]
 

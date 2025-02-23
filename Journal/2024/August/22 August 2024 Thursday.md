@@ -62,7 +62,8 @@ M & T to school
 Chat Rupert and Reinhard
 - Rupert getting harassed for riding in the dismount zone
 
-[[StatsChat-22-August-2024]]
+# [[Stats Data-Driven SR]]
+
 
 Chat Sindhu re: [[4b Resonant Search]]
 

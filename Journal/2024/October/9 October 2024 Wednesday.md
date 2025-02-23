@@ -56,7 +56,7 @@ Thinking about [[Low mass di-electrons]]
 	- [AE] script to check given commit. 
 
 
-[[StatsChat-9-October-2024]]
+# [[Stats Data-Driven SR]]
 - Wrote up [[Detector Unfolding Problem]]
 	- Pinged MK to check
 

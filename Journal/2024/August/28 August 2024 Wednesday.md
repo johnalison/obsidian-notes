@@ -47,7 +47,7 @@ w/M&T
 Iterated with Mary... **KIDS WILL GO TO SCHOOL TODAY!!!**
 Awesome feeling!
 
-[[StatsChat-28-August-2024]]
+# [[Stats Data-Driven SR]]
 
 # Mail to Sinead 
 - Heather speaks highly of the LHCP HH talk ! 

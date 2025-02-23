@@ -40,7 +40,7 @@
 - [>>] Do  [[Synthetic Data Closure]]
 - [>>] SURF Letter for [[Sam Hobbeheydar Rec Letter]]
 - [ ] L2 Comments
-- [ ] Setup [[Stats Chat Data-Driven SR]]
+- [x] Setup [[Stats Data-Driven SR]]
 - [ ] Letter for [[Byron Daniels Rec Letter]]
 - [ ] Setup for Chance
 - [x] Modules Summary for Harry 

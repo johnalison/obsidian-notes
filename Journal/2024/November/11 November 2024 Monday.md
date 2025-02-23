@@ -54,8 +54,8 @@ Pinged Andre re:visit
 
 [[Why hasn't economic progress lowered work hours more?]]
 
-# Stats Chat
-- Discussion of Profile background in the SR
+# [[Stats Data-Driven SR]]
+
 
 # Hoops
 - 3s and 4s... Good Runs

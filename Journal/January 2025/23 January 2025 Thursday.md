@@ -62,8 +62,7 @@ Submitted Sams letters
 # Taught 
 - Lorentz Transformations
 
-# Stats Chat
-- How to calculate pvalues with SvB 
+# [[Stats Data-Driven SR]]
 
 # Faculty Meeting
 - Chat with the dean: No plan until March

@@ -50,6 +50,7 @@ M&T to school...Barely missed the rain.
 - See daily logs above
 
 
+# [[Stats Data-Driven SR]]
 [[StatsChat-25-September-2024]]
 
 # Hoops

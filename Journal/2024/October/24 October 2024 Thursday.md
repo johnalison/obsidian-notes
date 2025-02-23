@@ -50,7 +50,8 @@ M&T to school
 # [[Classifier Studies]]
 - see daily logs above
 
-# [[StatsChat-24-October-2024]]
+# [[Stats Data-Driven SR]]
+
 
 # Gym 
 - core / row / lift / bench

@@ -58,8 +58,8 @@ Fast Day 4!
 # Taught
 - Paradoxes... Understand twin paradox much better this year!
 
-# Stats Chat
-- Discussion about how to properly compute the null
+# [[Stats Data-Driven SR]]
+
 
 # Gym/Steamroom
 - core / press / back squat / pull-ups

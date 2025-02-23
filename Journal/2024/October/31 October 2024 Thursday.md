@@ -57,9 +57,8 @@ Review: [[CMU Particle Physics Overview]]
 - Gave talk on [[Classifier Studies]]... Summary: doesnt matter much which SB to use
 
 
-# Stats Chat 
-- Not much 
-- Discussion of calibrating the background prediction. eg: an Nuisance parameters to the bkg. 
+# [[Stats Data-Driven SR]]
+ 
 
 # [[CMU bbWW]]
 - See daily's above
