@@ -51,7 +51,8 @@ Lots of debugging!
 
 [[CMU HGC Mac Meeting 1 August 2024]]
 
-[[CMUbbWW 1 August 2024]]
+# [[CMU bbWW]]
+
 
 # Gym/Steam Room
 - core / farmers carry 80s / cling / step-ups

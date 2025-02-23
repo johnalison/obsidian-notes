@@ -46,7 +46,8 @@ M&T to school
 # [[Jet DeClustering]]
 - See daily logs above
 
-[[CMUbbWW 12 September 2024]]
+# [[CMU bbWW]]
+- see daily's above
 
 [[Faculty Meeting 12 September 2024]]
 

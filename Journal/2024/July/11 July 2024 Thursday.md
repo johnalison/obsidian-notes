@@ -19,7 +19,8 @@ Should move my trello to the notes
 add
 [[HHbbWW]]
 
-[[CMUbbWW 11 July 2024]]
+# [[CMU bbWW]]
+
 
 [[Setting up Obsidian Git on iPAD]]
 

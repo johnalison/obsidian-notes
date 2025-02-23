@@ -55,7 +55,8 @@ How to [[Turn a MacBook into an UbuntuServer]]
 
 [[CMU HGC Mac Meeting 8 August 2024]]
 
-[[CMU bbWW 8 August 2024]]
+# [[CMU bbWW]]
+- See daily's
 
 # Hoops
 - 5s and 3s 

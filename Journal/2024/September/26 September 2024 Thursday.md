@@ -48,8 +48,7 @@ Can see Lab Tech Candidates in workday.
 
 Chat w/Matteo and new student re:setting up t3
 
-
-[[CMUbbWW 26 September 2024]]
+# [[CMU bbWW]]
 
 
 # Faculty Meeting

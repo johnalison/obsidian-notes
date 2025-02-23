@@ -48,8 +48,8 @@ M&T to school
 
 # Chat with Kyle
 
+# [[CMU bbWW]]
 
-[[CMUbbWW 19 September 2024]]
 
 # Faculty Meeting
 - Fenguie and Antonella: all 3s

@@ -61,8 +61,8 @@ Review: [[CMU Particle Physics Overview]]
 - Not much 
 - Discussion of calibrating the background prediction. eg: an Nuisance parameters to the bkg. 
 
-# bbWW
-- Not much.  Chi2 using mean of the signal distribution !
+# [[CMU bbWW]]
+- See daily's above
 
 
 # Faculty Meeting

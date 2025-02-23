@@ -61,7 +61,7 @@ Swain rejects :(
 - How to ensemble the latent space.
 - not much else...
 
-# bbWW
+# [[CMU bbWW]]
 - Prep talk for bbWW
 
 # Faculty Meeting

@@ -57,6 +57,9 @@ Pinged Zoltan re:preseries modules to FNAL
 
 [[Speech for Scotts going away party]]
 
+# [[CMU bbWW]]
+- See daily's
+
 [[CMUbbWW 15 August 2024]]
 
 Chat w/AE

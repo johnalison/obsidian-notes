@@ -65,6 +65,9 @@ Getting emacs going!
 [[CMU HGC MAC Meeting 25 July 2024]]
 
 
+# [[CMU bbWW]]
+- See dailys
+
 Chat with AE. Back in two weeks
 
 # Gym/Steamroom

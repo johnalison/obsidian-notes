@@ -35,7 +35,7 @@ Submitted Sams letter
 To Heat Check to check Jerseys... nothin'
 
 - [x] Update [[CMU 4b Chats]]
-- [ ] Set up [[CMU bbWW Chats]]
+- [>>] Set up [[CMU bbWW]]
 - [x] Clean up [[Wesley Terrill]]
 
 Put together a draft of the Ann Arbor slides

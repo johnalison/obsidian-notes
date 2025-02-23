@@ -9,6 +9,8 @@ Up at 8
 
 To Giant Eagle with M
 
+# [[CMU bbWW]]
+
 [[HHbbWW 24 July 2024]]
 
 [[Setup M3 Macbook]]

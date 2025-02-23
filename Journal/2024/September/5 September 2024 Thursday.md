@@ -51,7 +51,9 @@ Chat with Diana re:Lab tech ask from department
 
 Lots of mixed
 
-[[CMUbbWW 5 September 2024]]
+# [[CMU bbWW]]
+- see daily's above
+
 
 # Faculty Lunch
 - Pizza from driftwood
