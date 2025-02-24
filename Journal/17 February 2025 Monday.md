@@ -69,7 +69,7 @@ Home...
 - [>>] Think about ttbar mismodelling
 
 
-# HGC Workshop
+# [[HGC Workshop Feb 2025]]
 - [>>] Look at HGCAL slides: 
 - https://indico.cern.ch/event/1464337/
 

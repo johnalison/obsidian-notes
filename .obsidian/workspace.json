@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/24 February 2025 Monday.md",
+                "file": "Journal/21 February 2025 Friday.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "24 February 2025 Monday"
+              "title": "21 February 2025 Friday"
+            }
+          },
+          {
+            "id": "df165b2e227ee14b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-inbox/HGC Workshop Feb 2025.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "HGC Workshop Feb 2025"
             }
           },
           {
@@ -63,7 +77,8 @@
               "title": "Run2 HH4b AN"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -82,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:stat",
+                "query": "file:tod",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -115,8 +130,7 @@
               "title": "Files"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -136,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/24 February 2025 Monday.md",
+                "file": "0-inbox/HGC Workshop Feb 2025.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +160,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 24 February 2025 Monday"
+              "title": "Backlinks for HGC Workshop Feb 2025"
             }
           },
           {
@@ -155,12 +169,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/24 February 2025 Monday.md",
+                "file": "0-inbox/HGC Workshop Feb 2025.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 24 February 2025 Monday"
+              "title": "Outgoing links from HGC Workshop Feb 2025"
             }
           },
           {
@@ -182,10 +196,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/24 February 2025 Monday.md"
+                "file": "0-inbox/HGC Workshop Feb 2025.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 24 February 2025 Monday"
+              "title": "Outline of HGC Workshop Feb 2025"
             }
           },
           {
@@ -217,18 +231,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fc934c5947b5dd10",
+  "active": "df165b2e227ee14b",
   "lastOpenFiles": [
-    "Journal/February 2025.md",
-    "Journal/24 February 2025 Monday.md",
-    "1-projects/HH4b/Run2 HH4b AN.md",
-    "Journal/23 February 2025 Sunday.md",
-    "Journal/22 February 2025 Saturday.md",
     "Journal/21 February 2025 Friday.md",
     "Journal/20 February 2025 Thursday.md",
+    "0-inbox/HGC Workshop Feb 2025.md",
     "Journal/19 February 2025 Wednesday.md",
     "Journal/18 February 2025 Tuesday.md",
     "Journal/17 February 2025 Monday.md",
+    "Journal/24 February 2025 Monday.md",
+    "1-projects/HH4b/Run2 HH4b AN.md",
+    "Journal/ToDo.md",
+    "Journal/February 2025.md",
+    "Journal/23 February 2025 Sunday.md",
+    "Journal/22 February 2025 Saturday.md",
     "1-projects/Mixed2.0/Jet DeClustering.md",
     "Journal/16 February 2025 Sunday.md",
     "Journal/15 February 2025 Saturday.md",
@@ -243,8 +259,6 @@
     "Journal/2024/August/22 August 2024 Thursday.md",
     "Journal/Future Log.md",
     "0-inbox/Write up Universal Inference Toy.md",
-    "0-inbox/What do we know about organizing society or government with overwhelming confidence.md",
-    "0-inbox/Wesley Terrill Thesis.md",
     "Input/Meetings/December",
     "1-projects/Mixed2.0/#Jet DeClustering.md#",
     "Journal/January 2025",

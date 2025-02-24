@@ -8,7 +8,7 @@ Twiki: https://twiki.cern.ch/twiki/bin/view/CMSPublic/Run2HH4b
 	- Probably need a way of making 2-8 in new code
 - [ ] fig 9 split by year
 - [x] 1D mass projections of SR and SB
-- [ ] Add chuyuan's studies in an appendix
+- [x] Add chuyuan's studies in an appendix
 - [ ] Fig. 51 (hemisphere summary variables): for different jet bins
 - [x] Add regions to fig 69 and 70
 - [x] Add SvB for ZZ and ZH in the SR

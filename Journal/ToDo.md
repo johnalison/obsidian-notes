@@ -14,7 +14,7 @@ These should be on Daily's page  !
 - [ ] Apply for more bridges money
 - [ ] Workstudy Lab hand
 - [ ] [[Snakemake tutorial]] 
-- [ ] Add CL studies to AN 
+- [x] Add CL studies to AN 
 	- (https://docs.google.com/presentation/d/199aYQflGoUMljCr9y1N1ZCFsWsVY691YCQbrD5suh8A/edit#slide=id.g2d6c67b2c4d_0_49)
 - [x] mixed data c++ vs python
 - [ ] Read [[Run2 X->HY->4b]]
