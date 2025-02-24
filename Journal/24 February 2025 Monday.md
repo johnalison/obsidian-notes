@@ -71,3 +71,6 @@ Chat AE:
 - 5s good runs. Good finishing and passing
 
 More [[Run2 HH4b AN]]
+
+Writing up [[HGC Workshop Feb 2025]]
+- [ ] are we using pre-series sensors for ROC 3b modules ?

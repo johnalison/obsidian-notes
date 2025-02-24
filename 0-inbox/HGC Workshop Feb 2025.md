@@ -8,6 +8,17 @@ v3e with SEE resistant TOA IP block, design in work
 # Modules Meeting at HGCal Week
 - https://indico.cern.ch/event/1512127/
 
+### Production plan - module types and distribution of components
+ Proposal to have ROC 3C hexaboards available at MACs in March
+- April: 4/day x 2 weeks
+- May 8/day x 2 weeks
+- June 12/day 
+- July 16/day
+ROC 3B − Build with non-production (prototype) sensor
+
+### Engineering Report
+- Last tools fo CMU and TTU delivered ~now to UCSB
+- 
 
 # Follow-ups
 
