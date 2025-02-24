@@ -51,7 +51,6 @@ M&T to school...Barely missed the rain.
 
 
 # [[Stats Data-Driven SR]]
-[[StatsChat-25-September-2024]]
 
 # Hoops
 - Good runs and 4s/5s

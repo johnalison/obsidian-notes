@@ -1,5 +1,5 @@
 
-|     |                            |     |
+|     | setup                      |     |
 | --- | -------------------------- | --- |
 | 9   | Teaching                   |     |
 |     | Teaching                   |     |
@@ -18,10 +18,10 @@
 | 4   | Chat AE                    |     |
 |     | Teddy Birthday Celebration |     |
 
-**W:**
-**DW:**
-**OT:**
-**ex** or **No ex**
+**W:** 7 
+**DW:** 3
+**OT:** 2
+**ex** 
 
 ---
 # The ONE thing: 
@@ -53,7 +53,6 @@ Up at 7
 
 M & T to school 
 
-
 # Taught
 - Homework problems
 
@@ -65,7 +64,7 @@ M & T to school
 - Running fitting with v4 ... explicitly remove threeTag events from the synthetic dataset
 - Fit... running the data .. on condor
 	- `python runner.py -o synthetic_data_closure_Run2_seed0_data_v4.coffea -d data -p analysis/processors/processor_HH4b.py -y UL17 UL18 UL16_preVFP UL16_postVFP -op output/synthetic_dataset_closure -c analysis/metadata/HH4b_synthetic_closure.yml -m metadata/datasets_HH4b.yml --condor`
-- Output file is empty...think its because the histCuts arent there...
+- Output file is empty...think its because the histCuts arent there... yes...
 
 
 # [[Jet DeClustering]]
@@ -92,7 +91,6 @@ Waiting for condor jobs to finish...
 - AE: rebinning to get the signal flat / will look into redoing 2D plots
 - CL: making plots from classifier friend trees
 
-
 More [[Run2 HH4b AN]]
 
 # CMU CMS
@@ -100,13 +98,12 @@ More [[Run2 HH4b AN]]
 
 [[Modules Summary February 2025]]
 
-
 Chat AE re:Milei 
 
 Home 
 
 More [[Run2 HH4b AN]]
 
-Solid draft of Sams surf letter.
+Solid draft of Sam's surf letter.
 
 Playing around with new CMU webpage... Very nice.

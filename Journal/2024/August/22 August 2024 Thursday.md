@@ -1,23 +1,23 @@
 # Timeblock
 
-|     |                              |     |
-| --- | ---------------------------- | --- |
-| 9   | Jet Declustering             |     |
-|     | Jet Declustering             |     |
-| 10  | Jet Declustering             |     |
-|     | Jet Declustering             |     |
-| 11  | MAC Meeting                  |     |
-|     | MAC Meeting                  |     |
-| 12  | bbWW                         |     |
-|     | Faculty Meeting              |     |
-| 1   | Faculty Meeting              |     |
-|     | Chat Rupert / Reinhard       |     |
-| 2   | [[StatsChat-22-August-2024]] |     |
-|     | [[StatsChat-22-August-2024]] |     |
-| 3   | **Gym**                      |     |
-|     | **Gym**                      |     |
-| 4   | **Gym**                      |     |
-|     | Jet Declustering             |     |
+|     |                        |     |
+| --- | ---------------------- | --- |
+| 9   | Jet Declustering       |     |
+|     | Jet Declustering       |     |
+| 10  | Jet Declustering       |     |
+|     | Jet Declustering       |     |
+| 11  | MAC Meeting            |     |
+|     | MAC Meeting            |     |
+| 12  | bbWW                   |     |
+|     | Faculty Meeting        |     |
+| 1   | Faculty Meeting        |     |
+|     | Chat Rupert / Reinhard |     |
+| 2   | Stats Chat             |     |
+|     | Stats Chat             |     |
+| 3   | **Gym**                |     |
+|     | **Gym**                |     |
+| 4   | **Gym**                |     |
+|     | Jet Declustering       |     |
 
 **W:** 7 
 **DW:** 2  

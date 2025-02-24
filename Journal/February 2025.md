@@ -20,7 +20,7 @@
 | 18 T | Lots of [[Synthetic Data Closure]] / Working L2 comments / PGSS / Start ARC          | 8/4/2 |
 | 19 W | More [[Synthetic Data Closure]]/ Wes Lederman interview /Taught / **Hoops**          | 6/3/3 |
 | 20 H | Meetings / Taught / **Gym/SR** / office hours / HEP Chat                             | 7/3/1 |
-| 21 F |                                                                                      |       |
+| 21 F | Taught / [[Synthetic Data Closure]] / **Hoops** / New CMU webpage                    | 7/3/2 |
 | 22 S |                                                                                      |       |
 | 23 S |                                                                                      |       |
 | 24 M |                                                                                      |       |

@@ -22,20 +22,6 @@
             }
           },
           {
-            "id": "aa57c866a1a06b3f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Input/Meetings/Stats Data-Driven SR.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Stats Data-Driven SR"
-            }
-          },
-          {
             "id": "3b7693b655fd09fa",
             "type": "leaf",
             "state": {
@@ -47,20 +33,6 @@
               },
               "icon": "lucide-file",
               "title": "February 2025"
-            }
-          },
-          {
-            "id": "4650ed2978183546",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0-inbox/Ann Arbor Trip 2025.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ann Arbor Trip 2025"
             }
           },
           {
@@ -89,20 +61,6 @@
               },
               "icon": "lucide-file",
               "title": "Run2 HH4b AN"
-            }
-          },
-          {
-            "id": "cd756ff7158ac9d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-projects/HH4b/Synthetic Data Closure.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Synthetic Data Closure"
             }
           }
         ]
@@ -261,12 +219,25 @@
   },
   "active": "fc934c5947b5dd10",
   "lastOpenFiles": [
+    "Journal/21 February 2025 Friday.md",
+    "Journal/February 2025.md",
+    "Journal/23 February 2025 Sunday.md",
+    "1-projects/HH4b/Run2 HH4b AN.md",
+    "1-projects/HH4b/Synthetic Data Closure.md",
+    "0-inbox/Ann Arbor Trip 2025.md",
+    "Input/Meetings/Stats Data-Driven SR.md",
+    "0-inbox/StatsChat-25-September-2024.md",
+    "Journal/2024/September/25 September 2024 Wednesday.md",
+    "0-inbox/StatsChat-13-September-2024.md",
+    "Journal/2024/September/13 September 2024 Friday.md",
+    "0-inbox/StatsChat-22-August-2024.md",
+    "Journal/2024/August/22 August 2024 Thursday.md",
+    "Journal/Future Log.md",
     "0-inbox/Write up Universal Inference Toy.md",
     "0-inbox/What do we know about organizing society or government with overwhelming confidence.md",
     "0-inbox/Wesley Terrill Thesis.md",
     "0-inbox/UndergradProjects.md",
     "0-inbox/Tree Stump.md",
-    "Input/Meetings/Stats Data-Driven SR.md",
     "0-inbox/StartupSpending.md",
     "0-inbox/Run2 X->HY->4b.md",
     "0-inbox/Numba.md",
@@ -274,19 +245,6 @@
     "0-inbox/Lab Techs Spring 2025.md",
     "0-inbox/HH at future colliders.md",
     "0-inbox/HGC TDR.md",
-    "0-inbox/Existence Is Evidence of Immortality.md",
-    "0-inbox/Evolution of Silicon Sensor Technology in Particle Physics.md",
-    "Input/Meetings/CMU bbWW.md",
-    "0-inbox/Building Fermilab.md",
-    "0-inbox/Ann Arbor Trip 2025.md",
-    "0-inbox/AnalysesOverview.excalidraw.md",
-    "Journal/23 February 2025 Sunday.md",
-    "Journal/21 February 2025 Friday.md",
-    "Input/Meetings/December/ADA presentation Soheun Yi.md",
-    "Input/Meetings/July/SEARCH_FOR_BARYON-NUMBER-VIOLATING_PROCESSES_IN_Belle.md",
-    "Journal/2024/August/22 August 2024 Thursday.md",
-    "Journal/2024/July/10 July 2024 Wednesday.md",
-    "Input/Meetings/July/StatsChat-10-July-24.md",
     "Input/Meetings/December",
     "1-projects/Mixed2.0/#Jet DeClustering.md#",
     "Journal/January 2025",
