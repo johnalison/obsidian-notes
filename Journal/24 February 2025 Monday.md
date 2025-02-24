@@ -58,3 +58,6 @@ M & T to school
 - GR in a day... Did not discuss redshifts
 
 # [[Run2 HH4b AN]]
+- Added the ZZ and ZH SR plots (Took them from HIG-22-011)
+- Added Chuyuans updated classifier studies to appendix
+

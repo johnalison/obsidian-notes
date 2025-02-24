@@ -63,8 +63,7 @@
               "title": "Run2 HH4b AN"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -137,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-projects/HH4b/Run2 HH4b AN.md",
+                "file": "Journal/24 February 2025 Monday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +146,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Run2 HH4b AN"
+              "title": "Backlinks for 24 February 2025 Monday"
             }
           },
           {
@@ -156,12 +155,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-projects/HH4b/Run2 HH4b AN.md",
+                "file": "Journal/24 February 2025 Monday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Run2 HH4b AN"
+              "title": "Outgoing links from 24 February 2025 Monday"
             }
           },
           {
@@ -183,10 +182,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-projects/HH4b/Run2 HH4b AN.md"
+                "file": "Journal/24 February 2025 Monday.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Run2 HH4b AN"
+              "title": "Outline of 24 February 2025 Monday"
             }
           },
           {
@@ -218,8 +217,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fa3feb3a04af717f",
+  "active": "fc934c5947b5dd10",
   "lastOpenFiles": [
+    "1-projects/HH4b/Run2 HH4b AN.md",
     "Journal/24 February 2025 Monday.md",
     "Journal/23 February 2025 Sunday.md",
     "Journal/February 2025.md",
@@ -232,7 +232,6 @@
     "1-projects/Mixed2.0/Jet DeClustering.md",
     "Journal/16 February 2025 Sunday.md",
     "Journal/15 February 2025 Saturday.md",
-    "1-projects/HH4b/Run2 HH4b AN.md",
     "1-projects/HH4b/Synthetic Data Closure.md",
     "0-inbox/Ann Arbor Trip 2025.md",
     "Input/Meetings/Stats Data-Driven SR.md",
