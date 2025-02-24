@@ -1,22 +1,22 @@
 
-|     |       |     |
-| --- | ----- | --- |
-| 9   | Teach |     |
-|     | Teach |     |
-| 10  |       |     |
-|     |       |     |
-| 11  |       |     |
-|     |       |     |
-| 12  | Hoops |     |
-|     | Hoops |     |
-| 1   | Hoops |     |
-|     | Hoops |     |
-| 2   |       |     |
-|     |       |     |
-| 3   |       |     |
-|     |       |     |
-| 4   |       |     |
-|     |       |     |
+|     | setup            |     |
+| --- | ---------------- | --- |
+| 9   | Teach            |     |
+|     | Teach            |     |
+| 10  | [[Run2 HH4b AN]] |     |
+|     | [[Run2 HH4b AN]] |     |
+| 11  | [[Run2 HH4b AN]] |     |
+|     |                  |     |
+| 12  | Hoops            |     |
+|     | Hoops            |     |
+| 1   | Hoops            |     |
+|     | Hoops            |     |
+| 2   |                  |     |
+|     |                  |     |
+| 3   |                  |     |
+|     |                  |     |
+| 4   |                  |     |
+|     |                  |     |
 
 **W:**
 **DW:**
@@ -42,6 +42,8 @@
 - [ ]  Letter for [[Byron Daniels Rec Letter]]
 - [ ] Setup for Chance
 	- [ ] Get him set up with [[Boosted Synthetic Data]]
+- [ ] Set pt threshold automatically in Jet-declustering
+- [ ] Declustering slides
 
 ---
 
@@ -52,3 +54,7 @@ Up at 7
 
 M & T to school
 
+# Taught
+- GR in a day... Did not discuss redshifts
+
+# [[Run2 HH4b AN]]

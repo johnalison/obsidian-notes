@@ -30,7 +30,7 @@ Up at 8
 - MERGED!!!!
 - [ ] Try rejecting events that fail the kinematic thresholds from the output synthetic datasets ?
 
-Submitted Sams letter
+Submitted Sam's letter
 
 To Heat Check to check Jerseys... nothin'
 

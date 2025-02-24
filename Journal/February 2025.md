@@ -21,8 +21,8 @@
 | 19 W | More [[Synthetic Data Closure]]/ Wes Lederman interview /Taught / **Hoops**          | 6/3/3 |
 | 20 H | Meetings / Taught / **Gym/SR** / office hours / HEP Chat                             | 7/3/1 |
 | 21 F | Taught / [[Synthetic Data Closure]] / **Hoops** / New CMU webpage                    | 7/3/2 |
-| 22 S |                                                                                      |       |
-| 23 S |                                                                                      |       |
+| 22 S | Merged new pdfs / [[Run3 Synthetic Data]] / Notes work /  Reading                    |       |
+| 23 S | Finished [[MacBeth]] / **Gym SR** / Start [[For a new Liberty]] / Parents            |       |
 | 24 M |                                                                                      |       |
 | 25 T |                                                                                      |       |
 | 26 W |                                                                                      |       |

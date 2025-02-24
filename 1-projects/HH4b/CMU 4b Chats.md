@@ -1,4 +1,11 @@
 
+# Logs
+
+[[21 February 2025 Friday]]
+- JA: working synthetic data and L2 plots
+- AE: rebinning to get the signal flat / will look into redoing 2D plots
+- CL: making plots from classifier friend trees
+
 [[14 February 2025 Friday]]
 - AE to make the signal distribution flat,  finishing L2 comments
 - JA: needs to debug Synthetic data phase space

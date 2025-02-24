@@ -92,6 +92,15 @@ Getting the new mixing going
 
 # Daily Logs
 
+[[21 February 2025 Friday]]
+- [>>] Run3 pdfs with rho corrections
+- [<<] Correct for pt dependence (through rho) when making the initial pdfs
+- Running on **cmslpc347**
+- Making Run3 pdfs... finished in 11068.29407286644s = 3hours
+	- `python runner.py -o synthetic_datasets_Run3.coffea -d data  -p analysis/processors/processor_cluster_4b.py -y 2022_EE 2022_preEE 2023_BPix 2023_preBPix  -op output/synthetic_dataset_cluster  -m metadata/datasets_HH4b_Run3_fourTag_v3.yml -c analysis/metadata/cluster_4b_noTTSubtraction.yml --condor`
+
+
+
 [[17 February 2025 Monday]]
 - Added rhoA and B vs pt
 -  re-Making the pdfs on **cmslpc345** 

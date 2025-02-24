@@ -8,7 +8,7 @@ Twiki: https://twiki.cern.ch/twiki/bin/view/CMSPublic/Run2HH4b
 	- Probably need a way of making 2-8 in new code
 - [ ] fig 9 split by year
 - [x] 1D mass projections of SR and SB
-- [ ] Add chuyuans studies in an appendix
+- [ ] Add chuyuan's studies in an appendix
 - [ ] Fig. 51 (hemisphere summary variables): for different jet bins
 - [x] Add regions to fig 69 and 70
 - [ ] Add SvB for ZZ and ZH in the SR
@@ -44,6 +44,13 @@ Towards v4
 
 - `python  analysis/makePlotsAN_noFvT_muQCD.py hists/ANv3/histAll_noFvT.coffea --out hists/ANv3/plots_noFvT_muQCD -m analysis/metadata/plotsAllNoFvT_muQCD.yml`
 # Daily Logs
+
+[[21 February 2025 Friday]]
+- Make comparison of 1d projections of masses, added to Twiki
+- [x] Need to update **makePlotsMixedVsDataVs3b.py** 
+- Updated figures 69 and 70 with region names.
+
+
 
 [[13 November 2024 Wednesday]]
  [>>] HIstograms to cutflow
