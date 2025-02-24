@@ -44,6 +44,7 @@
 	- [ ] Get him set up with [[Boosted Synthetic Data]]
 - [ ] Set pt threshold automatically in Jet-declustering
 - [ ] Declustering slides
+- [ ] Exam #2
 
 ---
 
@@ -65,3 +66,8 @@ M & T to school
 
 Chat AE: 
 - Setup tight muon ID 
+
+# Hoops 
+- 5s good runs. Good finishing and passing
+
+More [[Run2 HH4b AN]]
