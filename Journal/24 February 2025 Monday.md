@@ -43,8 +43,8 @@
 - [ ] Setup for Chance
 	- [ ] Get him set up with [[Boosted Synthetic Data]]
 - [ ] Set pt threshold automatically in Jet-declustering
-- [ ] Declustering slides
-- [ ] Exam #2
+- [x] Declustering slides
+- [x] Exam #2
 
 ---
 
@@ -74,3 +74,12 @@ More [[Run2 HH4b AN]]
 
 # Writing up [[HGC Workshop Feb 2025]]
 - [ ] are we using pre-series sensors for ROC 3b modules ?
+
+
+
+# [[Jet DeClustering]]
+Synthetic dataset presentations with new pdfs
+- `python  jet_clustering/compare_datasets.py  output/synthetic_data_Run3_v6_new_seedXXX.coffea   --out analysis/plots_synthetic_datasets_all_00-09-00 -m plots/metadata/plotsSyntheticVsData2.yml --year Run3`
+- `make jetclustering_slides_Run3 TEXFILENAME=SyntheticDatasets-00-09-00 NEW_DIR=analysis\\/plots_synthetic_datasets_all_00-09-00`
+- `python  jet_clustering/compare_datasets.py  output/synthetic_dataset_analyze_all/synthetic_data_RunII_seedXXX.coffea    --out analysis/plots_synthetic_datasets_all_00-09-00 -m plots/metadata/plotsSyntheticVsData2.yml --year Run2`
+- `make jetclustering_slides_RunII TEXFILENAME=SyntheticDatasets-00-09-00 NEW_DIR=analysis\\/plots_synthetic_datasets_all_00-09-00`
