@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/23 February 2025 Sunday.md",
+                "file": "Journal/21 February 2025 Friday.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "23 February 2025 Sunday"
+              "title": "21 February 2025 Friday"
             }
           },
           {
@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-projects/Mixed2.0/Jet DeClustering.md",
+                "file": "Journal/24 February 2025 Monday.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Jet DeClustering"
+              "title": "24 February 2025 Monday"
             }
           },
           {
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/23 February 2025 Sunday.md",
+                "file": "Journal/21 February 2025 Friday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 23 February 2025 Sunday"
+              "title": "Backlinks for 21 February 2025 Friday"
             }
           },
           {
@@ -155,12 +155,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/23 February 2025 Sunday.md",
+                "file": "Journal/21 February 2025 Friday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 23 February 2025 Sunday"
+              "title": "Outgoing links from 21 February 2025 Friday"
             }
           },
           {
@@ -182,10 +182,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/23 February 2025 Sunday.md"
+                "file": "Journal/21 February 2025 Friday.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 23 February 2025 Sunday"
+              "title": "Outline of 21 February 2025 Friday"
             }
           },
           {
@@ -219,8 +219,16 @@
   },
   "active": "fc934c5947b5dd10",
   "lastOpenFiles": [
+    "Journal/24 February 2025 Monday.md",
     "Journal/21 February 2025 Friday.md",
+    "Journal/20 February 2025 Thursday.md",
+    "Journal/19 February 2025 Wednesday.md",
     "Journal/February 2025.md",
+    "Journal/18 February 2025 Tuesday.md",
+    "Journal/17 February 2025 Monday.md",
+    "1-projects/Mixed2.0/Jet DeClustering.md",
+    "Journal/16 February 2025 Sunday.md",
+    "Journal/15 February 2025 Saturday.md",
     "Journal/23 February 2025 Sunday.md",
     "1-projects/HH4b/Run2 HH4b AN.md",
     "1-projects/HH4b/Synthetic Data Closure.md",
@@ -237,14 +245,6 @@
     "0-inbox/What do we know about organizing society or government with overwhelming confidence.md",
     "0-inbox/Wesley Terrill Thesis.md",
     "0-inbox/UndergradProjects.md",
-    "0-inbox/Tree Stump.md",
-    "0-inbox/StartupSpending.md",
-    "0-inbox/Run2 X->HY->4b.md",
-    "0-inbox/Numba.md",
-    "0-inbox/Mass of jets is not invariant.md",
-    "0-inbox/Lab Techs Spring 2025.md",
-    "0-inbox/HH at future colliders.md",
-    "0-inbox/HGC TDR.md",
     "Input/Meetings/December",
     "1-projects/Mixed2.0/#Jet DeClustering.md#",
     "Journal/January 2025",

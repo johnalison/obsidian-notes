@@ -30,13 +30,13 @@
 ---
 # To Do
 
-- [ ]  Chat Mans re SOW
-- [ ] Call Liberty mutual re:tree down
+- [>>]  Chat Mans re SOW
+- [>>] Call Liberty mutual re:tree down
 - [>>] do [[Synthetic Data Closure]]
 - [>>] Read for [[ARC TOP-24-006 3 top production]]
 - [>>]  L2 Comments
 - [>>] Sam Letter
-- [ ] Think about ttbar mismodelling
+- [x] Think about ttbar mismodelling
 - [>>] HGCAL workshop slides 
 - [x] Chat Jeff Ables re:CVs
 - [>>] Cornell Letter for Wes

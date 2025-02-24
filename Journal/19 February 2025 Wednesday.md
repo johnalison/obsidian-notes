@@ -31,7 +31,7 @@
 ---
 # To Do
 
-- [ ]  Valentina / Matteo Round table
+- [xx]  ~~Valentina / Matteo Round table~~
 - [>>]  [[Synthetic Data Closure]]
 - [>>] L2 Comments
 - [x]  Cornell Letter for Wes
@@ -65,6 +65,7 @@ Some [[Synthetic Data Closure]]
 
 # Chat [[Sindhu Murthy]]
 - see daily's above
+- [>>] Organize [[Sindhu Murthy]]
 
 Chat Dylan
 - Interested in kubernettes project
