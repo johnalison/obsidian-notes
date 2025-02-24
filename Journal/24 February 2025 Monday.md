@@ -31,7 +31,7 @@
 # To Do
 
 - [x] Post HW4 solutions
-- [ ] HGC Workshop slides
+- [x] HGC Workshop slides
 - [ ] Understand event selection in FvT Training
 - [ ] Chat Mans re SOW
 - [ ] Call Liberty mutual re:tree down
@@ -72,5 +72,5 @@ Chat AE:
 
 More [[Run2 HH4b AN]]
 
-Writing up [[HGC Workshop Feb 2025]]
+# Writing up [[HGC Workshop Feb 2025]]
 - [ ] are we using pre-series sensors for ROC 3b modules ?

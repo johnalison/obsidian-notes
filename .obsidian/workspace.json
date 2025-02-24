@@ -77,8 +77,7 @@
               "title": "Run2 HH4b AN"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -150,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/HGC Workshop Feb 2025.md",
+                "file": "Journal/24 February 2025 Monday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +159,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for HGC Workshop Feb 2025"
+              "title": "Backlinks for 24 February 2025 Monday"
             }
           },
           {
@@ -169,12 +168,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/HGC Workshop Feb 2025.md",
+                "file": "Journal/24 February 2025 Monday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from HGC Workshop Feb 2025"
+              "title": "Outgoing links from 24 February 2025 Monday"
             }
           },
           {
@@ -196,10 +195,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/HGC Workshop Feb 2025.md"
+                "file": "Journal/24 February 2025 Monday.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of HGC Workshop Feb 2025"
+              "title": "Outline of 24 February 2025 Monday"
             }
           },
           {
@@ -231,10 +230,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "df165b2e227ee14b",
+  "active": "fc934c5947b5dd10",
   "lastOpenFiles": [
-    "Journal/February 2025.md",
     "0-inbox/HGC Workshop Feb 2025.md",
+    "Journal/February 2025.md",
     "Journal/24 February 2025 Monday.md",
     "Journal/21 February 2025 Friday.md",
     "Journal/20 February 2025 Thursday.md",

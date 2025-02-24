@@ -18,7 +18,7 @@ ROC 3B − Build with non-production (prototype) sensor
 
 ### Engineering Report
 - Last tools fo CMU and TTU delivered ~now to UCSB
-- 
+
 
 # Follow-ups
 
