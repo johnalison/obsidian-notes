@@ -56,7 +56,7 @@ w/kids
 
 [[Update from Wes 26 November 2024]]
 
-# Histograms to cutflow
+# [[Add Cutflow Histograms]] 
 - move truth function to `helpers/truth_tools`
 - `python runner.py -t -o test.coffea -d ZH4b ZZ4b GluGluToHHTo4B_cHHH1 -p analysis/processors/processor_HH4b.py -y UL18  -op $OUTPUT_DIR -m $DATASETS
 - added truth_v4b to event... adding histogram

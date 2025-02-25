@@ -57,7 +57,8 @@
 - Muons at the surface of the earth
 - Doppler effect
 
-Merging cut on status for genParticles.
+# Close on debug truth4b [[Add Cutflow Histograms]]
+- See daily's above
 - Maybe this is why the gaussian kernel failed before... YES! 
 
 # Josh Arrives !!!

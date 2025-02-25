@@ -8,7 +8,7 @@
 | 11  | [[Run2 HH4b AN]] |     |
 |     | MAC Meeting      |     |
 | 12  | MAC Meeting      |     |
-|     |                  |     |
+|     | Hamlet           |     |
 | 1   | Home             |     |
 |     | Home             |     |
 | 2   |                  |     |
@@ -62,9 +62,19 @@ to School
 
 # L2 comments [[Run2 HH4b AN]]
 - Updating the coments in md... much better than twiki!
-- 
+- [ ] Make efficiency plots with [[Add Cutflow Histograms]]
 
-
----
 
 # [[CMU HGC MAC Meeting 25 February 2025]]
+
+
+Got Hamlet books
+
+Home 
+
+M & T Down 
+
+
+[[CAM Turnaround Report]]
+
+[[HGCManagementMeeting 26 Februrary 2025]]
