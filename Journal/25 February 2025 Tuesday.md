@@ -64,7 +64,8 @@ to School
 # L2 comments [[Run2 HH4b AN]]
 - Updating the coments in md... much better than twiki!
 - [ ] Make efficiency plots with [[Add Cutflow Histograms]]
-- Need to add four tag to the cut flow hists
+- [x] Need to add four tag to the cut flow hists
+- [x] Update Weights
 
 # [[CMU HGC MAC Meeting 25 February 2025]]
 
