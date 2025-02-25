@@ -1,22 +1,22 @@
 
-|     | setup        |     |
-| --- | ------------ | --- |
-| 9   |              |     |
-|     | Wes          |     |
-| 10  |              |     |
-|     |              |     |
-| 11  |              |     |
-|     | MAC Meeting  |     |
-| 12  | MAC Meeting  |     |
-|     |              |     |
-| 1   |              |     |
-|     |              |     |
-| 2   |              |     |
-|     | Mans Meeting |     |
-| 3   | Mans Meeting |     |
-|     | Mans Meeting |     |
-| 4   | Mans Meeting |     |
-|     |              |     |
+|     | setup            |     |
+| --- | ---------------- | --- |
+| 9   | To Campus        |     |
+|     | Wes              |     |
+| 10  | [[Run2 HH4b AN]] |     |
+|     | [[Run2 HH4b AN]] |     |
+| 11  | [[Run2 HH4b AN]] |     |
+|     | MAC Meeting      |     |
+| 12  | MAC Meeting      |     |
+|     |                  |     |
+| 1   | Home             |     |
+|     | Home             |     |
+| 2   |                  |     |
+|     | Mans Meeting     |     |
+| 3   | Mans Meeting     |     |
+|     | Mans Meeting     |     |
+| 4   | Mans Meeting     |     |
+|     |                  |     |
 
 **W:**
 **DW:**
@@ -60,7 +60,9 @@ to School
 - HGCal week: no major comments
 
 
-
+# L2 comments [[Run2 HH4b AN]]
+- Updating the coments in md... much better than twiki!
+- 
 
 
 ---
