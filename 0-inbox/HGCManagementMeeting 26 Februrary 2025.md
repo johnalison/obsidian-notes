@@ -6,6 +6,7 @@ L158 ECM- Supervise assembly and testing of modules 1-80 at Site 2
 
 # Steve leading discussion
 
+- Looking at total float
 - 
 
 # Follow-ups

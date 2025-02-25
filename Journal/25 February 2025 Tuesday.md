@@ -36,6 +36,7 @@
 - [ ] Chat Mans re SOW
 - [ ] Work L2 Comments
 - [ ]  Letter for [[Byron Daniels Rec Letter]]
+- [x] Set pt threshold automatically in Jet-declustering
 
 ---
 
@@ -77,4 +78,6 @@ M & T Down
 
 [[CAM Turnaround Report]]
 
-[[HGCManagementMeeting 26 Februrary 2025]]
+# [[HGCManagementMeeting 26 Februrary 2025]]
+
+Added hook to change the b-jet pt threshold when declustering. 

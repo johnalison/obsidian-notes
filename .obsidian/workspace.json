@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-areas/Mentoring/Sindhu Murthy.md",
+                "file": "Journal/25 February 2025 Tuesday.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sindhu Murthy"
+              "title": "25 February 2025 Tuesday"
             }
           },
           {
@@ -69,16 +69,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/2024/July/15 July 2024 Monday.md",
+                "file": "Journal/24 February 2025 Monday.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "15 July 2024 Monday"
+              "title": "24 February 2025 Monday"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/HGCManagementMeeting 26 Februrary 2025.md",
+                "file": "0-inbox/Add Cutflow Histograms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for HGCManagementMeeting 26 Februrary 2025"
+              "title": "Backlinks for Add Cutflow Histograms"
             }
           },
           {
@@ -169,12 +169,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/HGCManagementMeeting 26 Februrary 2025.md",
+                "file": "0-inbox/Add Cutflow Histograms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from HGCManagementMeeting 26 Februrary 2025"
+              "title": "Outgoing links from Add Cutflow Histograms"
             }
           },
           {
@@ -196,10 +196,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/HGCManagementMeeting 26 Februrary 2025.md"
+                "file": "0-inbox/Add Cutflow Histograms.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of HGCManagementMeeting 26 Februrary 2025"
+              "title": "Outline of Add Cutflow Histograms"
             }
           },
           {
@@ -231,9 +231,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "71175b3b5b3ab2d2",
+  "active": "a5dea0b7a135c266",
   "lastOpenFiles": [
     "Journal/25 February 2025 Tuesday.md",
+    "Journal/24 February 2025 Monday.md",
+    "Journal/2024/July/15 July 2024 Monday.md",
+    "2-areas/Mentoring/Sindhu Murthy.md",
+    "0-inbox/Add Cutflow Histograms.md",
     "0-inbox/HGCManagementMeeting 26 Februrary 2025.md",
     "1-projects/HGC/CAM Turnaround Report.md",
     "0-inbox/CMU HGC MAC Meeting 25 February 2025.md",
@@ -241,7 +245,6 @@
     "Input/Meetings/CMU HGC MAC Meeting 18 February 2025.md",
     "Journal/18 February 2025 Tuesday.md",
     "Journal/3 February 2025 Monday.md",
-    "0-inbox/Add Cutflow Histograms.md",
     "Journal/2 February 2025 Sunday.md",
     "Journal/1 February 2025 Saturday.md",
     "Journal/January 2025/31 January 2025 Friday.md",
@@ -256,9 +259,6 @@
     "Journal/2024/November/26 November 2024 Tuesday.md",
     "Journal/2024/November/25 November 2024 Monday.md",
     "Journal/2024/November/27 November 2024 Wednesday.md",
-    "2-areas/coffea4bs/4b code base.md",
-    "Journal/2024/July/15 July 2024 Monday.md",
-    "Journal/January 2025/27 January 2025 Monday.md",
     "Input/Meetings/December",
     "1-projects/Mixed2.0/#Jet DeClustering.md#",
     "Journal/January 2025",
