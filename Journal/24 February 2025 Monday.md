@@ -42,7 +42,7 @@
 - [>>] Letter for [[Byron Daniels Rec Letter]]
 - [ ] Setup for Chance
 	- [ ] Get him set up with [[Boosted Synthetic Data]]
-- [ ] Set pt threshold automatically in Jet-declustering
+- [>>] Set pt threshold automatically in Jet-declustering
 - [x] Declustering slides
 - [x] Exam #2
 

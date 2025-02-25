@@ -64,6 +64,7 @@ to School
 # L2 comments [[Run2 HH4b AN]]
 - Updating the coments in md... much better than twiki!
 - [ ] Make efficiency plots with [[Add Cutflow Histograms]]
+	- `python runner.py   -o signal_HH4b_nano.coffea -d GluGluToHHTo4B_cHHH1  -p analysis/processors/processor_HH4b.py -y UL18  -op output/analysis_test_job -m metadata/datasets_HH4b.yml -c analysis/metadata/HH4b_nano.yml`
 - [x] Need to add four tag to the cut flow hists
 - [x] Update Weights
 
@@ -86,3 +87,5 @@ M & T Down
 Added hook to change the b-jet pt threshold when declustering. 
 
 More [[Run2 HH4b AN]] See above
+
+
