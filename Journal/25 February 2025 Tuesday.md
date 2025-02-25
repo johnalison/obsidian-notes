@@ -64,7 +64,7 @@ to School
 # L2 comments [[Run2 HH4b AN]]
 - Updating the coments in md... much better than twiki!
 - [ ] Make efficiency plots with [[Add Cutflow Histograms]]
-
+- Need to add four tag to the cut flow hists
 
 # [[CMU HGC MAC Meeting 25 February 2025]]
 
@@ -79,5 +79,9 @@ M & T Down
 [[CAM Turnaround Report]]
 
 # [[HGCManagementMeeting 26 Februrary 2025]]
+- Working....
+
 
 Added hook to change the b-jet pt threshold when declustering. 
+
+More [[Run2 HH4b AN]] See above

@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/Add Cutflow Histograms.md",
+                "file": "Journal/25 February 2025 Tuesday.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Add Cutflow Histograms"
+              "title": "25 February 2025 Tuesday"
             }
           },
           {
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/Add Cutflow Histograms.md",
+                "file": "Journal/25 February 2025 Tuesday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Add Cutflow Histograms"
+              "title": "Backlinks for 25 February 2025 Tuesday"
             }
           },
           {
@@ -169,12 +169,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/Add Cutflow Histograms.md",
+                "file": "Journal/25 February 2025 Tuesday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Add Cutflow Histograms"
+              "title": "Outgoing links from 25 February 2025 Tuesday"
             }
           },
           {
@@ -196,10 +196,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/Add Cutflow Histograms.md"
+                "file": "Journal/25 February 2025 Tuesday.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Add Cutflow Histograms"
+              "title": "Outline of 25 February 2025 Tuesday"
             }
           },
           {
@@ -233,11 +233,11 @@
   },
   "active": "a5dea0b7a135c266",
   "lastOpenFiles": [
+    "0-inbox/Add Cutflow Histograms.md",
     "Journal/25 February 2025 Tuesday.md",
     "Journal/24 February 2025 Monday.md",
     "Journal/2024/July/15 July 2024 Monday.md",
     "2-areas/Mentoring/Sindhu Murthy.md",
-    "0-inbox/Add Cutflow Histograms.md",
     "0-inbox/HGCManagementMeeting 26 Februrary 2025.md",
     "1-projects/HGC/CAM Turnaround Report.md",
     "0-inbox/CMU HGC MAC Meeting 25 February 2025.md",
