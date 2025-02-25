@@ -72,7 +72,7 @@ Chat Dylan
 - Will get back to me re:credit or pay
 
 # Some [[Run2 HH4b AN]] 
-- L2 questions
+- See Daily's
 
 Home
 

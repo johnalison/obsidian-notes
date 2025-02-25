@@ -50,6 +50,14 @@ Let me know if you have any question
 
 # Logs
 
+
+[[22 February 2025 Saturday]]
+- Fixed problem with empty histograms... rerunning v4 on condor
+- Still see large event weights. .. not clear whats happening.
+- [[Run3 Synthetic Data]] 
+
+
+
 [[21 February 2025 Friday]]
 - Falcon back... AE killed it before
 - Running fitting with v4 ... explicitly remove threeTag events from the synthetic dataset

@@ -4,6 +4,7 @@
 
 # Log
 
+
 # [[Synthetic Data Closure]]
 - Looks like the masses are the biggest difference 
 - Will try again after Implementing the rho corrections

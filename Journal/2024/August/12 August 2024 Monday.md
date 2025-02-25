@@ -53,7 +53,8 @@ Lynn over
 
 # [[Stats Data-Driven SR]]
 
-[[SindhuChat 12 August 2024]]
+# Chat [[Sindhu Murthy]]
+
 
 [[AniketChat 12 August 2024]]
 

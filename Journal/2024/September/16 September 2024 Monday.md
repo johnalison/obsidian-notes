@@ -55,7 +55,8 @@ Wrote up [[Seneca-Letters-from-a-Stoic]]
 
 Made wings
 
-[[Chat w Sindhu 16 September 2024]]
+
+# Chat [[Sindhu Murthy]]
 
 # [[Jet DeClustering]]
 - See daily logs

@@ -24,6 +24,7 @@ EXAMPLE toy 1D
 
 
 # Follow-ups
+[[Stats Data-Driven SR]]
 
 
 # Links: 

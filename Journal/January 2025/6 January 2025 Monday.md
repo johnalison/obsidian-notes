@@ -82,10 +82,8 @@ moved to [>>] ([[Run2 HH4b AN]])
 - core / 50' zone 2
 - 10' Tmax = 123
 
-# Chat Sindhu 
-- Did a lot of Database stuff
-- back on the double peak question
-- Chatted a bit about motivation in for the lab (104)
+# Chat [[Sindhu Murthy]]
+- See daily's above
 
 Home with M&T 
 

@@ -19,11 +19,8 @@ Some [[Fly By Night Physics]]
 
 Started [[For a new Liberty]]
 
-# Nietzsche's Genealogy of Morality Explained
-https://www.youtube.com/watch?v=M0w2eQ-FcEA&t=302s
-- The Main Goal of his philosophy: is to produce creative geniuses 
-- Actual creative genius obey master morality
-- 
+# [[Nietzsche's Genealogy of Morality Explained]]
+
 
 # Parents
 - Some [[For a new Liberty]]

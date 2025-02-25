@@ -58,7 +58,7 @@ M & T to school (M had to walk in snow! complained, but pushed through)
  [>>] Make presentations
  [>>] Reskim
 
-# Chat Sindhu
+# Chat [[Sindhu Murthy]]
 - Long chat 
 
 Skipped bbWW

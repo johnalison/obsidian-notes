@@ -59,7 +59,7 @@ Did some grading
 # [[Synthetic Data Closure]]
 - See daily's above
 
-# Chat AE re:L3 comments
+# Chat AE re:L2 comments
 
 
 # Hoops

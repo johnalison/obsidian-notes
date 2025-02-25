@@ -43,9 +43,9 @@ Up at 7... Meds
 
 M & T to school 
 
-# Modules Meeting at HGCal Week
+# Modules Meeting at  [[HGC Workshop Feb 2025]]
 - https://indico.cern.ch/event/1512127/
-- [>>] Write up slides
+- [>>] Write up slides...
 
 
 # FB2C
@@ -58,7 +58,7 @@ M & T to school
 # [[Stats Data-Driven SR]]
 - see daily's above
 
-# Gym / Steam room 
+# Gym / Steamroom 
 - core / Supers sets! 
 - close-grip bench - barbell rows / clings - dips / dumbbell incline bench - dead lifts
 - 10' at Tmax = 124

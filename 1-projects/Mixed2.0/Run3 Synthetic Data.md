@@ -26,6 +26,18 @@ v4:
 
 # Daily Logs
 
+
+[[22 February 2025 Saturday]]
+-  making v6 on **cmslpc350**... Done
+	- `source .ci-workflows/synthetic-dataset-make-dataset-all.sh `
+- Now making plots... 
+	- `source .ci-workflows/synthetic-dataset-analyze-all.sh`
+- Ran with the wrong pt threshold ... rerunning at 30 GeV!... Done... Making plots
+- [>>] Set threshold automatically
+- Masses look much better !
+- Sent to Marina 
+
+
 [[15 January 2025 Wednesday]]
 - Making datasets file v5
 - making histograms..

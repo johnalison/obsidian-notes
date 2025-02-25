@@ -50,6 +50,14 @@ Towards v4
 - [x] Need to update **makePlotsMixedVsDataVs3b.py** 
 - Updated figures 69 and 70 with region names.
 
+[[19 February 2025 Wednesday]]
+- Some L2 Questions
+
+[[18 February 2025 Tuesday]]
+- Update list of figures needed ... see above
+
+[[11 February 2025 Tuesday]]
+- Start L2 Questions
 
 
 [[13 November 2024 Wednesday]]

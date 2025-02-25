@@ -23,7 +23,7 @@
 | 21 F | Taught / [[Synthetic Data Closure]] / **Hoops** / New CMU webpage                    | 7/3/2 |
 | 22 S | Merged new pdfs / [[Run3 Synthetic Data]] / Notes work /  Reading                    |       |
 | 23 S | Finished [[MacBeth]] / **Gym SR** / Start [[For a new Liberty]] / Parents            |       |
-| 24 M |                                                                                      |       |
+| 24 M | Taught / L2 comments / **Hoops** / HGC slides / Exam 2 ready / Reading               | 6/4/3 |
 | 25 T |                                                                                      |       |
 | 26 W |                                                                                      |       |
 | 27 H | (Meet Rachel)                                                                        |       |

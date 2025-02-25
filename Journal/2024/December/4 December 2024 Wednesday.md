@@ -42,25 +42,8 @@ Up at 6:50
 
 M&T to school
 
-# Sindhu
-- [x] Chat re:slides for annual review
-- Discussion of next steps...
-- Near term plan:
-	- Extend mass rage to 200 - 1200 
-	- Separate closure tests in mixed data ZZ ZH and HH regions
-	- Do fit in unblinded ZZ SR
-	- Present background modeling in B2G
-- Longer-term / In parallel :
-	- Get signal samples picos
-	- Do fit in blinded HH SR
-	- Get limits vs mass
-	- Plot SvB in HH SR
-	- Determine if can gain with a SvB cut
-	- Present in B2G (Determine publication plan)
-[>>] ([[4b Resonant Search]])
-- Committee:  Matteo / Manfred / Hy / me 
-	- Kick-off Valentina
-
+# Chat [[Sindhu Murthy]]
+- See daily's above
 
 # Lipika
 - [[HGC Transfer Tape BCR]]

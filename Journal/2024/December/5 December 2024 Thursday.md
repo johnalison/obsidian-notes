@@ -66,8 +66,8 @@ Swain rejects :(
 # Faculty Meeting
 - Jeff Abels: from CyLab.. seems competent 
 
-# Chat with Sindhu
-- Long discussion of runTwoStageClosure
+# Chat with [[Sindhu Murthy]]
+- See daily's
 
 # MPL
 - [[Electron Spin Resonance]]

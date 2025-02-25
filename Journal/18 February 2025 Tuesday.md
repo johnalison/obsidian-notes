@@ -68,11 +68,11 @@ Chat Ornella and Josh re: cleaning shipping space
 
 Chat Chris Berman
 
-more [[Synthetic Data Closure]]
+More [[Synthetic Data Closure]]
 
 
 # Working L2 comments [[Run2 HH4b AN]]
-- Update list of figures needed ... see above
+- See dailys
 
 Chat with Ables  re:getting CVs from previous applications
 

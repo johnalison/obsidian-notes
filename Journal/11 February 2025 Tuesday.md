@@ -72,7 +72,8 @@ Finished Grading
 
 Home
 
-More L2 questions [[Run2 HH4b AN]]
+# L2 Questions [[Run2 HH4b AN]]
+- See Daily's above
 
 Kids to get hair cuts. 
 

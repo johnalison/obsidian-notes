@@ -67,6 +67,7 @@ EOS down on LPC... joined LPC computing mattermost channel
 
 More mixed... (see above)
 
+# Chat [[Sindhu Murthy]]
 [[Chat w Sindhu 5 August 2024]]
 
 [[ChatwAniket 5 August 2024]]

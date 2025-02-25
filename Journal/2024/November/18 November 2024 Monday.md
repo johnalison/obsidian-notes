@@ -90,8 +90,8 @@ More skimmer debugging
 - [x] ping about oral
 - Clear how to proceed
 
-# Chat with Sindhu 
-- debugging mixed inputs
+# Chat with [[Sindhu Murthy]]
+- See dialys' 
 
 
 To Pitt for colloq

@@ -49,6 +49,7 @@ Getting the new mixing going
 [[Script to check reclustered splittings]]
 [[Script to compare synthetic and nominal datasets]]
 
+[[Synthetic Data Closure]]
 
 # Performance
 
@@ -91,6 +92,15 @@ Getting the new mixing going
 
 
 # Daily Logs
+
+[[22 February 2025 Saturday]]
+- [x] Run3 pdfs with rho corrections
+	- `python  jet_clustering/make_jet_splitting_PDFs.py output/synthetic_dataset_cluster/synthetic_datasets_Run3.coffea  --years Run3   --out jet_clustering/jet-splitting-PDFs-00-09-00`
+- Updating the CI
+- Adding Snakemake config for Run3 synthetic datasets
+- MERGED!!!!
+- [ ] Try rejecting events that fail the kinematic thresholds from the output synthetic datasets ?
+
 
 [[21 February 2025 Friday]]
 - [>>] Run3 pdfs with rho corrections

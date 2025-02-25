@@ -8,34 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fc934c5947b5dd10",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Journal/24 February 2025 Monday.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "24 February 2025 Monday"
-            }
-          },
-          {
-            "id": "df165b2e227ee14b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0-inbox/HGC Workshop Feb 2025.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "HGC Workshop Feb 2025"
-            }
-          },
-          {
             "id": "3b7693b655fd09fa",
             "type": "leaf",
             "state": {
@@ -55,12 +27,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/24 February 2025 Monday.md",
+                "file": "Journal/25 February 2025 Tuesday.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "24 February 2025 Monday"
+              "title": "25 February 2025 Tuesday"
+            }
+          },
+          {
+            "id": "2af567565f49b402",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2-areas/Mentoring/Sindhu Murthy.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sindhu Murthy"
             }
           },
           {
@@ -69,15 +55,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-projects/HH4b/Run2 HH4b AN.md",
+                "file": "Journal/2024/July/15 July 2024 Monday.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Run2 HH4b AN"
+              "title": "15 July 2024 Monday"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -96,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:tod",
+                "query": "file:sindhu",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -149,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/24 February 2025 Monday.md",
+                "file": "Journal/25 February 2025 Tuesday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +146,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 24 February 2025 Monday"
+              "title": "Backlinks for 25 February 2025 Tuesday"
             }
           },
           {
@@ -168,12 +155,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/24 February 2025 Monday.md",
+                "file": "Journal/25 February 2025 Tuesday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 24 February 2025 Monday"
+              "title": "Outgoing links from 25 February 2025 Tuesday"
             }
           },
           {
@@ -195,10 +182,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/24 February 2025 Monday.md"
+                "file": "Journal/25 February 2025 Tuesday.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 24 February 2025 Monday"
+              "title": "Outline of 25 February 2025 Tuesday"
             }
           },
           {
@@ -230,34 +217,34 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fc934c5947b5dd10",
+  "active": "71175b3b5b3ab2d2",
   "lastOpenFiles": [
-    "0-inbox/HGC Workshop Feb 2025.md",
-    "Journal/24 February 2025 Monday.md",
-    "Journal/February 2025.md",
-    "Journal/21 February 2025 Friday.md",
-    "Journal/20 February 2025 Thursday.md",
-    "Journal/19 February 2025 Wednesday.md",
-    "Journal/18 February 2025 Tuesday.md",
-    "Journal/17 February 2025 Monday.md",
-    "1-projects/HH4b/Run2 HH4b AN.md",
-    "Journal/ToDo.md",
-    "Journal/23 February 2025 Sunday.md",
-    "Journal/22 February 2025 Saturday.md",
-    "1-projects/Mixed2.0/Jet DeClustering.md",
-    "Journal/16 February 2025 Sunday.md",
-    "Journal/15 February 2025 Saturday.md",
-    "1-projects/HH4b/Synthetic Data Closure.md",
-    "0-inbox/Ann Arbor Trip 2025.md",
-    "Input/Meetings/Stats Data-Driven SR.md",
-    "0-inbox/StatsChat-25-September-2024.md",
-    "Journal/2024/September/25 September 2024 Wednesday.md",
-    "0-inbox/StatsChat-13-September-2024.md",
-    "Journal/2024/September/13 September 2024 Friday.md",
-    "0-inbox/StatsChat-22-August-2024.md",
-    "Journal/2024/August/22 August 2024 Thursday.md",
-    "Journal/Future Log.md",
-    "0-inbox/Write up Universal Inference Toy.md",
+    "2-areas/Mentoring/Sindhu Murthy.md",
+    "Journal/25 February 2025 Tuesday.md",
+    "0-inbox/StartupSpending.md",
+    "2-areas/Mentoring/Wesley Terrill.md",
+    "Journal/2024/July/15 July 2024 Monday.md",
+    "Input/Meetings/July/SindhuChat 15 July 2024.md",
+    "Journal/2024/July/19 July 2024 Friday.md",
+    "Input/Meetings/July/Chat w Sindhu 19 July 2024.md",
+    "Journal/2024/July/22 July 2024 Monday.md",
+    "Journal/2024/July/29 July 2024 Monday.md",
+    "Journal/2024/August/5 August 2024 Monday.md",
+    "Input/Meetings/August/Chat w Sindhu 5 August 2024.md",
+    "Journal/2024/August/12 August 2024 Monday.md",
+    "Journal/2024/August/19 August 2024 Monday.md",
+    "Input/Meetings/August/SindhuChat 12 August 2024.md",
+    "Input/Meetings/August/SindhuChat 19 August 2024.md",
+    "Journal/2024/August/26 August 2024 Monday.md",
+    "Input/Meetings/August/Chat w Sindhu 26 August 2024.md",
+    "Journal/2024/September/2 September 2024 Monday.md",
+    "Journal/2024/September/9 September 2024 Monday.md",
+    "Input/Meetings/September/Chat w Sindhu 9 September 2024.md",
+    "Journal/2024/September/16 September 2024 Monday.md",
+    "Input/Meetings/September/Chat w Sindhu 16 September 2024.md",
+    "Journal/2024/September/30 September 2024 Monday.md",
+    "Input/Meetings/September/Chat w Sindhu 30 September 2024.md",
+    "Journal/2024/September/24 September 2024 Tuesday.md",
     "Input/Meetings/December",
     "1-projects/Mixed2.0/#Jet DeClustering.md#",
     "Journal/January 2025",

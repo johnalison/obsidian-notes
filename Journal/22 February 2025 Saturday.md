@@ -17,18 +17,11 @@
 Up at 8 
 
 # [[Synthetic Data Closure]]
-- Fixed problem with empty histograms... rerunning v4 on condor
-- Still see large event weights. .. not clear whats happening.
-- [[Run3 Synthetic Data]] 
+- See Daily's above
 
 
 # [[Jet DeClustering]]
-- [x] Run3 pdfs with rho corrections
-	- `python  jet_clustering/make_jet_splitting_PDFs.py output/synthetic_dataset_cluster/synthetic_datasets_Run3.coffea  --years Run3   --out jet_clustering/jet-splitting-PDFs-00-09-00`
-- Updating the CI
-- Adding Snakemake config for Run3 synthetic datasets
-- MERGED!!!!
-- [ ] Try rejecting events that fail the kinematic thresholds from the output synthetic datasets ?
+- See daily's above
 
 Submitted Sam's letter
 
@@ -41,14 +34,7 @@ To Heat Check to check Jerseys... nothin'
 Put together a draft of the Ann Arbor slides
 
 # [[Run3 Synthetic Data]]
--  making v6 on **cmslpc350**... Done
-	- `source .ci-workflows/synthetic-dataset-make-dataset-all.sh `
-- Now making plots... 
-	- `source .ci-workflows/synthetic-dataset-analyze-all.sh`
-- Ran with the wrong pt threshold ... rerunning at 30 GeV!... Done... Making plots
-- [ ] Set threshold automatically
-- Masses look much better !
-- Sent to Marina 
+-  See daily's above 
 
 
 Good Homework problem for [[Modern Essentials]]

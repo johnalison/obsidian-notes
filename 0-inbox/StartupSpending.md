@@ -9,6 +9,10 @@ Faculty FRAS - Start-up
 | July 2024      | 231,421 | 10,845   |
 | August 2024    | 213,150 |          |
 | September 2024 | 206,360 |          |
+| October 2024   |         |          |
+| November       |         |          |
+| December       |         |          |
+| January        | 179,641 |          |
 
 
 # Follow-ups

@@ -64,7 +64,8 @@ Checked out MPL rooms
 
 [[Electron Spin Resonance]]
 
-[[Chat w Sindhu 26 August 2024]]
+# Chat [[Sindhu Murthy]]
+
 
 [[Chat w Aniket 26 August 2024]]
 

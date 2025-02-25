@@ -71,9 +71,8 @@ Joe's slides [[HGC MAC P2UG Silicon Modules 5 Nov 2024]]
 
 More [[Run3 Synthetic Data]]
 
-# Sindhu Chat
-- Chat re:runTwoStageClosure
-- Still needs to make plots on v4j...
+# [[Sindhu Murthy]]  Chat
+- See daily's
 
 Watching Wes' talk
 

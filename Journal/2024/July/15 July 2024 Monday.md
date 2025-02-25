@@ -23,7 +23,8 @@ Gym/Steam room:
 
 [[ResetFNALServicesPWD]]
 
-[[SindhuChat 15 July 2024]]
+# Chat [[Sindhu Murthy]]
+- [[SindhuChat 15 July 2024]]
 
 [[AniketChat 15 July 2024]]
 
