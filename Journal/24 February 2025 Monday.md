@@ -39,7 +39,7 @@
 - [>>] Watch  [[ARC TOP-24-006 3 top production]]
 - [>>] Organize [[Sindhu Murthy]]
 - [ ] Do  [[DOE Review Li Zepeng]]
-- [>>] Letter for [[Byron Daniels Rec Letter]]
+- [>>] Letter for [[Byron Daniel Rec Letter]]
 - [ ] Setup for Chance
 	- [ ] Get him set up with [[Boosted Synthetic Data]]
 - [>>] Set pt threshold automatically in Jet-declustering

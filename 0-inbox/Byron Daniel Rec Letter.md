@@ -1,4 +1,8 @@
 
+Dear Colleagues
+
+I am happy to recommend Byron Daniel for the CMU Graduate Student Service Award. I first got to know Bryon in 2021 while running the High-School Physics Teachers program and have worked with him in the departments outreach committee for several years.
+
 Educational outreach beyond the university is critical to growing and diversifying the STEM workforce.
 
 Outreach targeting high-school teachers, instead of the students directly, promises a bigger return on invest- ment; getting high-school science teachers excited and fluent in state-of-the-art research and techniques will
@@ -8,6 +12,17 @@ The goal for the first stage is to hold an annual week-long summer program – i
 
 
 Earlier this summer (June 26th – 29th), I organized a pilot of the program. The event brought 15 Pittsburgh-area high-school physics teachers – from a broad mix of schools: both public and private, urban and suburban – to the CMU’s campus for a four-day workshop. The teachers toured labs, were shown demonstrations used in introductory CMU courses, and were given overviews of research in various physics sub-disciplines. We held discussion sessions on how we can help teachers to better motivate high-school students to pursue careers in STEM. We also gathered teacher input – from both informal discussion and written surveys – on how best to shape our program in coming years. Teachers participating in the program earned continuing education credits required by the state.
+
+
+# Letter from Rachel
+
+ [Graduate Student Service Award](https://www.cmu.edu/celebration-of-education/graduate-student-service/index.html), and they have extended the deadline to February 28th and encouraged more nominations.  Markus had a suggestion that I thought was very good - Byron Daniel has done a lot of service work of a formal and informal nature serving the department and beyond, and we're going to nominate him.
+
+  
+Byron worked with you on the teacher training program and other outreach (e.g., to public school contacts).  Would you be able to provide either a supporting quote or letter, or suggest some supporting material we can include with the nomination (e.g., material he developed for outreach programs)?  
+
+Unfortunately to meet this deadline we would like to have material by Weds night 2/26 so we can put it together and submit on Friday, but I hope some of this might be easy-ish to put together.
+
 
 
 # Follow-ups

@@ -35,7 +35,7 @@
 - [ ]  Understand event selection in FvT Training
 - [ ] Chat Mans re SOW
 - [ ] Work L2 Comments
-- [ ]  Letter for [[Byron Daniels Rec Letter]]
+- [ ]  Letter for [[Byron Daniel Rec Letter]]
 - [x] Set pt threshold automatically in Jet-declustering
 
 ---

@@ -41,7 +41,7 @@
 - [>>] SURF Letter for [[Sam Hobbeheydar Rec Letter]]
 - [>>] L2 Comments
 - [x] Setup [[Stats Data-Driven SR]]
-- [>>] Letter for [[Byron Daniels Rec Letter]]
+- [>>] Letter for [[Byron Daniel Rec Letter]]
 - [>>] Setup for Chance
 - [x] Modules Summary for Harry 
 
