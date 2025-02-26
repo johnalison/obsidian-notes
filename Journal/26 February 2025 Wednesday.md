@@ -61,6 +61,7 @@ Pinged Mans re SOW
 - [ ] AccXEff plots with [[Add Cutflow Histograms]]
 - [ ] Debug wrt cutflow
 - Need to remove outliers
+- Cleaning up cutflow interface
 
 # Chat re: Mans Statement of Work
 - will talk to Steve
