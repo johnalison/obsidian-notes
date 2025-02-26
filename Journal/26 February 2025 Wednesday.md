@@ -60,7 +60,7 @@ Pinged Mans re SOW
 # [[Run2 HH4b AN]]
 - [ ] AccXEff plots with [[Add Cutflow Histograms]]
 - [ ] Debug wrt cutflow
-
+- Need to remove outliers
 
 # Chat re: Mans Statement of Work
 - will talk to Steve

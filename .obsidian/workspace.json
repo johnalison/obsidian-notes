@@ -91,8 +91,7 @@
               "title": "Run2 HH4b AN"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -164,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/25 February 2025 Tuesday.md",
+                "file": "Journal/26 February 2025 Wednesday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +173,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 25 February 2025 Tuesday"
+              "title": "Backlinks for 26 February 2025 Wednesday"
             }
           },
           {
@@ -183,12 +182,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/25 February 2025 Tuesday.md",
+                "file": "Journal/26 February 2025 Wednesday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 25 February 2025 Tuesday"
+              "title": "Outgoing links from 26 February 2025 Wednesday"
             }
           },
           {
@@ -210,10 +209,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/25 February 2025 Tuesday.md"
+                "file": "Journal/26 February 2025 Wednesday.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 25 February 2025 Tuesday"
+              "title": "Outline of 26 February 2025 Wednesday"
             }
           },
           {
@@ -245,15 +244,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "71175b3b5b3ab2d2",
+  "active": "836b856b91095bd3",
   "lastOpenFiles": [
+    "Journal/25 February 2025 Tuesday.md",
     "Journal/24 February 2025 Monday.md",
     "Output/CAM/HGC Transfer Tape BCR.md",
     "Journal/26 February 2025 Wednesday.md",
     "1-projects/HH4b/Run2 HH4b AN.md",
     "2-areas/Personal/ToAddToCV.md",
     "1-projects/HGC/Dry Air for MMTS.md",
-    "Journal/25 February 2025 Tuesday.md",
     "Journal/February 2025.md",
     "Journal/23 February 2025 Sunday.md",
     "Journal/22 February 2025 Saturday.md",
