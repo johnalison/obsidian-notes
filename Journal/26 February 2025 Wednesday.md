@@ -82,3 +82,8 @@ Working [[Run2 HH4b AN]]
 # [[Run3 Synthetic Data]]
 - Marina's closure now looks good. 
 - Seems like she is getting the wrong scale for the synthetic jet pts.
+
+
+# Chat [[Sindhu Murthy]]
+
+Chat AE
