@@ -67,7 +67,7 @@ M & T to school
 - See daily's above
 
 # Hoops
-- 5s 2 games... tough losses 
+- 5s 2 at once games... tough losses 
 
 # Reviewed [[Spring 2025]]
 

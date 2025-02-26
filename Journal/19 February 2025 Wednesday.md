@@ -67,7 +67,7 @@ Some [[Synthetic Data Closure]]
 - see daily's above
 - [>>] Organize [[Sindhu Murthy]]
 
-Chat Dylan
+# Chat Dylan
 - Interested in kubernettes project
 - Will get back to me re:credit or pay
 
