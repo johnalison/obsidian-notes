@@ -70,12 +70,15 @@ ZZ/ZH -> 4b analysis out
 
   
 # Letter Writers
+- Jeremey Mans
 - Heather gray
 - Elliot Lipeles 
 - Joe / Mel / YKK
 - Jaco 
 - Nural 
 - Anadi / Zolta ? 
+
+
 - Dorigo 
 - Florencia 
 - Tao

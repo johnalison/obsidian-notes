@@ -39,7 +39,7 @@
 - [ ]  Understand event selection in FvT Training
 - [ ] Marinas Mail
 - [ ]  Read for [[ARC TOP-24-006 3 top production]]
-- [ ] Chat Mans re SOW
+- [x] Chat Mans re SOW
 ---
 
 # Log
@@ -62,4 +62,15 @@ Pinged Mans re SOW
 - [ ] Debug wrt cutflow
 
 
-# Statement of Work
+# Chat re: Mans Statement of Work
+- will talk to Steve
+- Maybe to some of the purchases through FNAL 
+- Will get back to me
+- Says he is happy with the impact CMU is making on HGC!
+
+# Lxplus logic with kinit
+- https://devices.docs.cern.ch/devices/mac/AboutKerberosAndSsh/#changes-for-centos8
+- created `/etc/krb5.conf
+- fixed !!
+
+Working [[Run2 HH4b AN]]
