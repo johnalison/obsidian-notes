@@ -11,7 +11,7 @@
 |     | Hamlet           |     |
 | 1   | Home             |     |
 |     | Home             |     |
-| 2   |                  |     |
+| 2   | [[Run2 HH4b AN]] |     |
 |     | Mans Meeting     |     |
 | 3   | Mans Meeting     |     |
 |     | Mans Meeting     |     |
@@ -46,6 +46,7 @@ Up at 7
 
 setup
 
+Some [[Fly By Night Physics]]
 Organized [[Sindhu Murthy]]
 
 to School
@@ -67,6 +68,10 @@ to School
 	- `python runner.py   -o signal_HH4b_nano.coffea -d GluGluToHHTo4B_cHHH1  -p analysis/processors/processor_HH4b.py -y UL18  -op output/analysis_test_job -m metadata/datasets_HH4b.yml -c analysis/metadata/HH4b_nano.yml`
 - [x] Need to add four tag to the cut flow hists
 - [x] Update Weights
+- Starting script to plot eff
+	- `python plots/makeAccxEff.py signal_HH4b_nano.coffea`
+- Weights off 
+- [ ] Debug wrt cutflow
 
 # [[CMU HGC MAC Meeting 25 February 2025]]
 
@@ -88,4 +93,4 @@ Added hook to change the b-jet pt threshold when declustering.
 
 More [[Run2 HH4b AN]] See above
 
-
+Some [[I See Satan Fall Like Lightning]]
