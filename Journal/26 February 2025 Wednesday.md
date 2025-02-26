@@ -1,22 +1,22 @@
 
-|     |          |     |
-| --- | -------- | --- |
-| 9   | Teaching |     |
-|     | Teaching |     |
-| 10  |          |     |
-|     |          |     |
-| 11  |          |     |
-|     |          |     |
-| 12  | Hoops    |     |
-|     | Hoops    |     |
-| 1   | Hoops    |     |
-|     | Hoops    |     |
-| 2   |          |     |
-|     | Sindhu   |     |
-| 3   |          |     |
-|     |          |     |
-| 4   | bbWW     |     |
-|     |          |     |
+|     |                  |     |
+| --- | ---------------- | --- |
+| 9   | Teaching         |     |
+|     | Teaching         |     |
+| 10  | [[Run2 HH4b AN]] |     |
+|     | [[Run2 HH4b AN]] |     |
+| 11  | [[Run2 HH4b AN]] |     |
+|     | [[Run2 HH4b AN]] |     |
+| 12  | Hoops            |     |
+|     | Hoops            |     |
+| 1   | Hoops            |     |
+|     | Hoops            |     |
+| 2   | [[Run2 HH4b AN]] |     |
+|     | Sindhu           |     |
+| 3   |                  |     |
+|     |                  |     |
+| 4   | bbWW             |     |
+|     |                  |     |
 
 **W:**
 **DW:**
@@ -37,7 +37,7 @@
 	- [ ] Get him set up with [[Boosted Synthetic Data]]
 - [ ] Work L2 Comments
 - [ ]  Understand event selection in FvT Training
-- [ ] Marinas Mail
+- [x] Marinas Mail
 - [ ]  Read for [[ARC TOP-24-006 3 top production]]
 - [x] Chat Mans re SOW
 ---
@@ -75,3 +75,10 @@ Pinged Mans re SOW
 - fixed !!
 
 Working [[Run2 HH4b AN]]
+
+# Hoops 
+- good runs 6s and 5s
+
+# [[Run3 Synthetic Data]]
+- Marina's closure now looks good. 
+- Seems like she is getting the wrong scale for the synthetic jet pts.
