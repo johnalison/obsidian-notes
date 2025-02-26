@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/24 February 2025 Monday.md",
+                "file": "Output/CAM/HGC Transfer Tape BCR.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "24 February 2025 Monday"
+              "title": "HGC Transfer Tape BCR"
             }
           },
           {
@@ -111,7 +111,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "dryer",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -144,8 +144,7 @@
               "title": "Files"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -165,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/24 February 2025 Monday.md",
+                "file": "Output/CAM/HGC Transfer Tape BCR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +174,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 24 February 2025 Monday"
+              "title": "Backlinks for HGC Transfer Tape BCR"
             }
           },
           {
@@ -184,12 +183,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/24 February 2025 Monday.md",
+                "file": "Output/CAM/HGC Transfer Tape BCR.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 24 February 2025 Monday"
+              "title": "Outgoing links from HGC Transfer Tape BCR"
             }
           },
           {
@@ -211,10 +210,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/24 February 2025 Monday.md"
+                "file": "Output/CAM/HGC Transfer Tape BCR.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 24 February 2025 Monday"
+              "title": "Outline of HGC Transfer Tape BCR"
             }
           },
           {
@@ -248,18 +247,19 @@
   },
   "active": "71175b3b5b3ab2d2",
   "lastOpenFiles": [
+    "1-projects/HGC/Dry Air for MMTS.md",
+    "Journal/26 February 2025 Wednesday.md",
+    "Journal/25 February 2025 Tuesday.md",
+    "Journal/February 2025.md",
+    "Journal/24 February 2025 Monday.md",
     "Journal/23 February 2025 Sunday.md",
     "Journal/22 February 2025 Saturday.md",
     "Journal/21 February 2025 Friday.md",
     "Journal/20 February 2025 Thursday.md",
     "Journal/19 February 2025 Wednesday.md",
-    "Journal/February 2025.md",
-    "Journal/26 February 2025 Wednesday.md",
     "Output/Recommendation  Letters/Diane Turnshek Letter.md",
-    "Journal/25 February 2025 Tuesday.md",
     "0-inbox/HGCManagementMeeting 26 Februrary 2025.md",
     "0-inbox/Byron Daniel Rec Letter.md",
-    "Journal/24 February 2025 Monday.md",
     "0-inbox/Add Cutflow Histograms.md",
     "1-projects/HH4b/Run2 HH4b AN.md",
     "0-inbox/HGC Workshop Feb 2025.md",
@@ -273,7 +273,6 @@
     "Journal/2 February 2025 Sunday.md",
     "Journal/1 February 2025 Saturday.md",
     "Journal/January 2025/31 January 2025 Friday.md",
-    "Journal/January 2025/30 January 2025 Thursday.md",
     "Input/Meetings/December",
     "1-projects/Mixed2.0/#Jet DeClustering.md#",
     "Journal/January 2025",

@@ -18,10 +18,10 @@
 | 4   | Mans Meeting     |     |
 |     |                  |     |
 
-**W:**
-**DW:**
-**OT:**
-**ex** or **No ex**
+**W:** 6 
+**DW:** 2
+**OT:** 2
+**No ex**
 
 ---
 # The ONE thing: 
@@ -31,11 +31,11 @@
 # To Do
 
 - [x] Organize [[Sindhu Murthy]]
-- [ ] Read for [[ARC TOP-24-006 3 top production]]
-- [ ]  Understand event selection in FvT Training
-- [ ] Chat Mans re SOW
-- [ ] Work L2 Comments
-- [ ]  Letter for [[Byron Daniel Rec Letter]]
+- [>>] Read for [[ARC TOP-24-006 3 top production]]
+- [>>]  Understand event selection in FvT Training
+- [>>] Chat Mans re SOW
+- [>>] Work L2 Comments
+- [>>]  Letter for [[Byron Daniel Rec Letter]]
 - [x] Set pt threshold automatically in Jet-declustering
 
 ---
@@ -64,14 +64,14 @@ to School
 
 # L2 comments [[Run2 HH4b AN]]
 - Updating the coments in md... much better than twiki!
-- [ ] Make efficiency plots with [[Add Cutflow Histograms]]
+- [>>] Make efficiency plots with [[Add Cutflow Histograms]]
 	- `python runner.py   -o signal_HH4b_nano.coffea -d GluGluToHHTo4B_cHHH1  -p analysis/processors/processor_HH4b.py -y UL18  -op output/analysis_test_job -m metadata/datasets_HH4b.yml -c analysis/metadata/HH4b_nano.yml`
 - [x] Need to add four tag to the cut flow hists
 - [x] Update Weights
 - Starting script to plot eff
 	- `python plots/makeAccxEff.py signal_HH4b_nano.coffea`
 - Weights off 
-- [ ] Debug wrt cutflow
+- [>>] Debug wrt cutflow
 
 # [[CMU HGC MAC Meeting 25 February 2025]]
 
@@ -83,7 +83,9 @@ Home
 M & T Down 
 
 
-[[CAM Turnaround Report]]
+[[CAM Turnaround Report]] 
+- ... false alarm 
+- That was the previous month... already filled it out
 
 # [[HGCManagementMeeting 26 Februrary 2025]]
 - Working....

@@ -38,10 +38,10 @@
 - [>>] Work L2 Comments
 - [>>] Watch  [[ARC TOP-24-006 3 top production]]
 - [>>] Organize [[Sindhu Murthy]]
-- [ ] Do  [[DOE Review Li Zepeng]]
+- [>>] Do  [[DOE Review Li Zepeng]]
 - [>>] Letter for [[Byron Daniel Rec Letter]]
-- [ ] Setup for Chance
-	- [ ] Get him set up with [[Boosted Synthetic Data]]
+- [>>] Setup for Chance
+	- [>>] Get him set up with [[Boosted Synthetic Data]]
 - [>>] Set pt threshold automatically in Jet-declustering
 - [x] Declustering slides
 - [x] Exam #2
@@ -58,7 +58,8 @@ M & T to school
 # Taught
 - GR in a day... Did not discuss redshifts
 
-# L2 comments on [[Run2 HH4b AN]]
+#  [[Run2 HH4b AN]]
+- Working L2 comments
 - Added the ZZ and ZH SR plots (Took them from HIG-22-011)
 - Added Chuyuans updated classifier studies to appendix
 

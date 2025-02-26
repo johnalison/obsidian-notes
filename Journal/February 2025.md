@@ -24,7 +24,7 @@
 | 22 S | Merged new pdfs / [[Run3 Synthetic Data]] / Notes work /  Reading                    |       |
 | 23 S | Finished [[MacBeth]] / **Gym SR** / Start [[For a new Liberty]] / Parents            |       |
 | 24 M | Taught / L2 comments / **Hoops** / HGC slides / Exam 2 ready / Reading               | 6/4/3 |
-| 25 T |                                                                                      |       |
+| 25 T | Chat Wes / L2 Comments / Kids down / Marathon Mans meeting /                         | 6/2/2 |
 | 26 W |                                                                                      |       |
 | 27 H | (Meet Rachel)                                                                        |       |
 | 28 F | (ECS Carrer day)                                                                     |       |

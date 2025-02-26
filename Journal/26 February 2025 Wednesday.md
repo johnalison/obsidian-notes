@@ -31,10 +31,15 @@
 # To Do
 
 - [ ] Do [[Byron Daniel Rec Letter]]
-- [ ] 
-- [ ] 
-- [ ] 
-
+- [ ] Print exam 2
+- [ ]  Do  [[DOE Review Li Zepeng]]
+- [ ] Setup for Chance
+	- [ ] Get him set up with [[Boosted Synthetic Data]]
+- [ ] Work L2 Comments
+- [ ]  Understand event selection in FvT Training
+- [ ] Marinas Mail
+- [ ]  Read for [[ARC TOP-24-006 3 top production]]
+- [ ] Chat Mans re SOW
 ---
 
 # Log
@@ -44,3 +49,17 @@ Up at 7
 M &T to school
 
 - [ ] Dylan work with Sindhu ?
+
+
+# Taught
+- An unsettling story
+
+Pinged Mans re SOW
+
+
+# [[Run2 HH4b AN]]
+- [ ] AccXEff plots with [[Add Cutflow Histograms]]
+- [ ] Debug wrt cutflow
+
+
+# Statement of Work
