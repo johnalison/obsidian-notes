@@ -1,17 +1,36 @@
 
+**Dear Colleagues,**
+
+I am happy to recommend **Byron Daniel** for the CMU Graduate Student Service Award. I first got to know Byron in 2021 while running the High-School Physics Teachers Program and have worked with him on the department’s outreach committee for several years.
+
+Educational outreach beyond the university is critical to growing and diversifying the STEM workforce. Targeting high-school teachers—rather than students directly—promises a bigger return on investment; getting high-school science teachers excited about, and fluent in, state-of-the-art research and techniques can have a significant impact on how they present material to their students. The Physics Department supports these outreach efforts with a dedicated TA position. Byron, who is passionate about outreach, was selected by the department as the physics outreach TA in 2021.
+
+In this capacity, Byron helped me run the teachers program in 2021. The program is an annual week-long summer event that brings high-school teachers to CMU’s campus. The teachers toured labs, viewed demonstrations used in introductory CMU courses, and received overviews of research in various physics sub-disciplines. We held discussion sessions on how to motivate high-school students to pursue STEM careers, and we gathered teacher input—both through informal discussions and written surveys—on how best to shape future programs. Teachers who participated earned continuing education credits required by the state.
+
+Byron was critical to the program’s success. He handled most of the logistics, including communicating with the teachers, managing the paperwork associated with continuing education credits, and ensuring that the CMU professors who agreed to speak actually showed up—a challenging task during the summer! Byron also arranged informal lunches (often the highlight of the program), brought in other CMU graduate students to join these sessions, and facilitated discussions that led to concrete improvements for subsequent years.
+
+In short, Byron’s dedication to STEM outreach, his ability to seamlessly manage program logistics, and his collaborative spirit make him an outstanding candidate for the CMU Graduate Student Service Award. He is committed to enhancing the educational experiences of both high-school teachers and students and I have no doubt he will continue to be a tremendous asset to our community. 
+
+Sincerely,  
+[Your Name]  
+[Title / Department / Contact Information]
+
+
+----
+
 Dear Colleagues
 
 I am happy to recommend Byron Daniel for the CMU Graduate Student Service Award. I first got to know Bryon in 2021 while running the High-School Physics Teachers program and have worked with him in the departments outreach committee for several years.
 
-Educational outreach beyond the university is critical to growing and diversifying the STEM workforce.
+Educational outreach beyond the university is critical to growing and diversifying the STEM workforce. Outreach targeting high-school teachers, instead of the students directly, promises a bigger return on investment; getting high-school science teachers excited and fluent in state-of-the-art research and techniques will have knock-on effects in the ways they present the material to their students. The physics department supports the departments outreach efforts with a dedicated TA position. Byron is passionate about outreach and was selected by the department as the physics outreach TA in 2021.
 
-Outreach targeting high-school teachers, instead of the students directly, promises a bigger return on invest- ment; getting high-school science teachers excited and fluent in state-of-the-art research and techniques will
+In this capacity, Byron he helped me run the teachers program in 2021.  The teachers program is an annual week-long summer program that brings together high-school teachers to CMU’s campus.  The teachers toured labs, were shown demonstrations used in introductory CMU courses, and were given overviews of research in various physics sub-disciplines. We held discussion sessions on how we can help teachers to better motivate high-school students to pursue careers in STEM. We also gathered teacher input – from both informal discussion and written surveys – on how best to shape our program in coming years. Teachers participating in the program earned continuing education credits required by the state. 
+
+Byron was critical for the success of the program. He dealt with most of the logistics, including communicating with the teachers, handling paperwork associated with continuing education credits, and ensuring that the CMU professors who agreed to talk to the teachers actually showed up -- not an easy task during the summer ! Byron arranged informal lunches, typically the most important part of the program. He arranged for other CMU grad students to join and facilitated discussions that lead to concrete improvements in the program. 
 
 
-The goal for the first stage is to hold an annual week-long summer program – in conjunction with the opening week of PGSS – that brings together high-school teachers to CMU’s campus. The program will educate teachers about data science and machine learning, provide resources and takeaways they can use in class, and highlight career opportunities for students trained in data science. Various topics, with hands-on activities, will be covered that will allow the teachers to connect data science to real-world applications. Teams of teachers and CMU students and faculty will work together to design lecture content and create activities for high-school classrooms. We will start by focusing on: a week of data science content for computer science students, a week of content for STEM students, an activity analyzing the CMS open data — building off the PGGS team project discused above. In subsequent years, we will design a new data science course for high-school students and develop machine learning activities for biology, chemistry, and physics classes. At the end of the week, the teachers will present their materials to the group and make them available to everyone to use in their classrooms. This will create a library of demonstrations available to all teachers. The program will also create a professional network of Pittsburgh-area STEM teachers and Carnegie Mellon faculty who can act as resources and collaborators for future projects.
 
 
-Earlier this summer (June 26th – 29th), I organized a pilot of the program. The event brought 15 Pittsburgh-area high-school physics teachers – from a broad mix of schools: both public and private, urban and suburban – to the CMU’s campus for a four-day workshop. The teachers toured labs, were shown demonstrations used in introductory CMU courses, and were given overviews of research in various physics sub-disciplines. We held discussion sessions on how we can help teachers to better motivate high-school students to pursue careers in STEM. We also gathered teacher input – from both informal discussion and written surveys – on how best to shape our program in coming years. Teachers participating in the program earned continuing education credits required by the state.
 
 
 # Letter from Rachel

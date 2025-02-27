@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/26 February 2025 Wednesday.md",
+                "file": "0-inbox/Byron Daniel Rec Letter.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "26 February 2025 Wednesday"
+              "title": "Byron Daniel Rec Letter"
             }
           },
           {
@@ -163,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/26 February 2025 Wednesday.md",
+                "file": "0-inbox/Byron Daniel Rec Letter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 26 February 2025 Wednesday"
+              "title": "Backlinks for Byron Daniel Rec Letter"
             }
           },
           {
@@ -182,12 +182,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/26 February 2025 Wednesday.md",
+                "file": "0-inbox/Byron Daniel Rec Letter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 26 February 2025 Wednesday"
+              "title": "Outgoing links from Byron Daniel Rec Letter"
             }
           },
           {
@@ -209,10 +209,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/26 February 2025 Wednesday.md"
+                "file": "0-inbox/Byron Daniel Rec Letter.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 26 February 2025 Wednesday"
+              "title": "Outline of Byron Daniel Rec Letter"
             }
           },
           {
@@ -246,10 +246,10 @@
   },
   "active": "836b856b91095bd3",
   "lastOpenFiles": [
+    "Journal/26 February 2025 Wednesday.md",
     "Journal/25 February 2025 Tuesday.md",
     "Journal/24 February 2025 Monday.md",
     "Output/CAM/HGC Transfer Tape BCR.md",
-    "Journal/26 February 2025 Wednesday.md",
     "1-projects/HH4b/Run2 HH4b AN.md",
     "2-areas/Personal/ToAddToCV.md",
     "1-projects/HGC/Dry Air for MMTS.md",
