@@ -31,7 +31,7 @@ To Heat Check to check Jerseys... nothin'
 - [>>] Set up [[CMU bbWW]]
 - [x] Clean up [[Wesley Terrill]]
 
-Put together a draft of the Ann Arbor slides
+Put together a draft of the [[Ann Arbor Trip 2025]]  slides
 
 # [[Run3 Synthetic Data]]
 -  See daily's above 

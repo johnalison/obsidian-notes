@@ -25,7 +25,7 @@
 | 23 S | Finished [[MacBeth]] / **Gym SR** / Start [[For a new Liberty]] / Parents            |       |
 | 24 M | Taught / L2 comments / **Hoops** / HGC slides / Exam 2 ready / Reading               | 6/4/3 |
 | 25 T | Chat Wes / L2 Comments / Kids down / Marathon Mans meeting /                         | 6/2/2 |
-| 26 W |                                                                                      |       |
+| 26 W | Chat Mans / AccxEff plot / **Hoops** / Chats / Some reading                          | 6/4/3 |
 | 27 H | (Meet Rachel)                                                                        |       |
 | 28 F | (ECS Carrer day)                                                                     |       |
 

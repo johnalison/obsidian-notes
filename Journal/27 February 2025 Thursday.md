@@ -14,7 +14,7 @@
 | 2   | [[Run2 HH4b AN]] |     |
 |     | Office Hours     |     |
 | 3   | Office Hours     |     |
-|     | HEP Chat         |     |
+|     | 
 | 4   | Rachel           |     |
 |     | Rachel           |     |
 
@@ -31,9 +31,13 @@
 # To Do
 
 - [x] Herwig Abstract 
-- [ ] Referral for Elise
+- [x] Referral for Elise
+- [x] Referral for Fernando
 - [ ] Print Exam 
+	- [x] Upload to disablities
 - [ ] Work L2 Comments
+- [ ] Merge changes
+- [ ] [[Institutional Review HL-LHC Projections HIG-25-002]]
 
 ---
 
@@ -82,3 +86,4 @@ Chat [[Tony Boyle]]
 
 
 # Office Hours
+- Chance work in the lab this summer. 

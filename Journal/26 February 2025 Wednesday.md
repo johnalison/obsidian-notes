@@ -1,5 +1,5 @@
 
-|     |                             |     |
+|     | setup                       |     |
 | --- | --------------------------- | --- |
 | 9   | Teaching                    |     |
 |     | Teaching                    |     |
@@ -18,9 +18,9 @@
 | 4   | bbWW                        |     |
 |     | [[Byron Daniel Rec Letter]] |     |
 
-**W:**
-**DW:**
-**OT:**
+**W:** 6
+**DW:** 4
+**OT:** 3
 **ex** or **No ex**
 
 ---
@@ -55,7 +55,7 @@ M &T to school
 # Taught
 - An unsettling story
 
-Pinged Mans re SOW
+Pinged Mans re:SOW
 
 
 # [[Run2 HH4b AN]]

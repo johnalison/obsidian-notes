@@ -63,14 +63,14 @@ to School
 
 
 # L2 comments [[Run2 HH4b AN]]
-- Updating the coments in md... much better than twiki!
+- Updating the coments in markdown ... much better than twiki!
 - [>>] Make efficiency plots with [[Add Cutflow Histograms]]
 	- `python runner.py   -o signal_HH4b_nano.coffea -d GluGluToHHTo4B_cHHH1  -p analysis/processors/processor_HH4b.py -y UL18  -op output/analysis_test_job -m metadata/datasets_HH4b.yml -c analysis/metadata/HH4b_nano.yml`
 - [x] Need to add four tag to the cut flow hists
 - [x] Update Weights
 - Starting script to plot eff
 	- `python plots/makeAccxEff.py signal_HH4b_nano.coffea`
-- Weights off 
+- Weights off ... problem was with trigger weights.
 - [>>] Debug wrt cutflow
 
 # [[CMU HGC MAC Meeting 25 February 2025]]
