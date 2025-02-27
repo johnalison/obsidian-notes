@@ -1,22 +1,22 @@
 
-|     |                  |     |
-| --- | ---------------- | --- |
-| 9   | Teaching         |     |
-|     | Teaching         |     |
-| 10  | [[Run2 HH4b AN]] |     |
-|     | [[Run2 HH4b AN]] |     |
-| 11  | [[Run2 HH4b AN]] |     |
-|     | [[Run2 HH4b AN]] |     |
-| 12  | Hoops            |     |
-|     | Hoops            |     |
-| 1   | Hoops            |     |
-|     | Hoops            |     |
-| 2   | [[Run2 HH4b AN]] |     |
-|     | Sindhu           |     |
-| 3   |                  |     |
-|     |                  |     |
-| 4   | bbWW             |     |
-|     |                  |     |
+|     |                             |     |
+| --- | --------------------------- | --- |
+| 9   | Teaching                    |     |
+|     | Teaching                    |     |
+| 10  | [[Run2 HH4b AN]]            |     |
+|     | [[Run2 HH4b AN]]            |     |
+| 11  | [[Run2 HH4b AN]]            |     |
+|     | [[Run2 HH4b AN]]            |     |
+| 12  | Hoops                       |     |
+|     | Hoops                       |     |
+| 1   | Hoops                       |     |
+|     | Hoops                       |     |
+| 2   | [[Run2 HH4b AN]]            |     |
+|     | Sindhu                      |     |
+| 3   | Chat AE                     |     |
+|     | [[Run2 HH4b AN]]            |     |
+| 4   | bbWW                        |     |
+|     | [[Byron Daniel Rec Letter]] |     |
 
 **W:**
 **DW:**
@@ -31,16 +31,16 @@
 # To Do
 
 - [x] Do [[Byron Daniel Rec Letter]]
-- [ ] Print exam 2
+- [>>] Print exam 2
 - [ ]  Do  [[DOE Review Li Zepeng]]
 - [ ] Setup for Chance
 	- [ ] Get him set up with [[Boosted Synthetic Data]]
-- [ ] Work L2 Comments
+- [>>] Work L2 Comments
 - [ ]  Understand event selection in FvT Training
 - [x] Marinas Mail
 - [ ]  Read for [[ARC TOP-24-006 3 top production]]
 - [x] Chat Mans re SOW
-- [ ] Send Abstract and Title to Herwig
+- [>>] Send Abstract and Title to Herwig
 ---
 
 # Log

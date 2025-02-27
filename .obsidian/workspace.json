@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/Ann Arbor Trip 2025.md",
+                "file": "Journal/21 February 2025 Friday.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ann Arbor Trip 2025"
+              "title": "21 February 2025 Friday"
             }
           },
           {
@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/26 February 2025 Wednesday.md",
+                "file": "Journal/Future Log.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "26 February 2025 Wednesday"
+              "title": "Future Log"
             }
           },
           {
@@ -91,7 +91,8 @@
               "title": "Run2 HH4b AN"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +111,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "printcut",
+                "query": "file:fut",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -163,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/Ann Arbor Trip 2025.md",
+                "file": "Journal/Future Log.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +174,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Ann Arbor Trip 2025"
+              "title": "Backlinks for Future Log"
             }
           },
           {
@@ -182,12 +183,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/Ann Arbor Trip 2025.md",
+                "file": "Journal/Future Log.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Ann Arbor Trip 2025"
+              "title": "Outgoing links from Future Log"
             }
           },
           {
@@ -209,10 +210,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/Ann Arbor Trip 2025.md"
+                "file": "Journal/Future Log.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Ann Arbor Trip 2025"
+              "title": "Outline of Future Log"
             }
           },
           {
@@ -244,12 +245,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "836b856b91095bd3",
+  "active": "71175b3b5b3ab2d2",
   "lastOpenFiles": [
+    "Journal/27 February 2025 Thursday.md",
+    "Journal/21 February 2025 Friday.md",
+    "Journal/20 February 2025 Thursday.md",
+    "Journal/26 February 2025 Wednesday.md",
     "Journal/February 2025.md",
     "0-inbox/Ann Arbor Trip 2025.md",
-    "Journal/27 February 2025 Thursday.md",
-    "Journal/26 February 2025 Wednesday.md",
     "Journal/25 February 2025 Tuesday.md",
     "0-inbox/Byron Daniel Rec Letter.md",
     "Journal/24 February 2025 Monday.md",
@@ -259,8 +262,6 @@
     "1-projects/HGC/Dry Air for MMTS.md",
     "Journal/23 February 2025 Sunday.md",
     "Journal/22 February 2025 Saturday.md",
-    "Journal/21 February 2025 Friday.md",
-    "Journal/20 February 2025 Thursday.md",
     "Journal/19 February 2025 Wednesday.md",
     "Output/Recommendation  Letters/Diane Turnshek Letter.md",
     "0-inbox/HGCManagementMeeting 26 Februrary 2025.md",
