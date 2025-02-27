@@ -14,9 +14,9 @@
 | 2   | [[Run2 HH4b AN]] |     |
 |     | Office Hours     |     |
 | 3   | Office Hours     |     |
-|     | 
+|     |                  |     |
 | 4   | Rachel           |     |
-|     | Rachel           |     |
+|     |                  |     |
 
 **W:**
 **DW:**
@@ -90,12 +90,12 @@ SvB Now Flat !!!
 - Chance work in the lab this summer. 
 - print exams
 
-# For Rachel
-- MCS AI & Science Initiative
-- Technical Staff for department or college 
-- Life is good. 
+# Chat with Rachel
+- Will push MCS AI & Science Initiative to dean
+- Also Technical Staff for department or college 
+- Told her that Life is good. 
 - Fermilab is a mess
-- Spring off next year?
+- Spring off next year? ... probably yes
 - 2+ 1 students graduating
 - Lot of outreach activities
 
