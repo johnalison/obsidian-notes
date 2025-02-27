@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:fut",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -246,8 +246,9 @@
   },
   "active": "836b856b91095bd3",
   "lastOpenFiles": [
-    "0-inbox/Institutional Review HL-LHC Projections HIG-25-002.md",
+    "0-inbox/Ad for Lab tech.md",
     "Journal/27 February 2025 Thursday.md",
+    "0-inbox/Institutional Review HL-LHC Projections HIG-25-002.md",
     "Journal/26 February 2025 Wednesday.md",
     "Journal/February 2025.md",
     "Journal/21 February 2025 Friday.md",
@@ -271,7 +272,6 @@
     "Journal/2024/July/15 July 2024 Monday.md",
     "2-areas/Mentoring/Sindhu Murthy.md",
     "1-projects/HGC/CAM Turnaround Report.md",
-    "0-inbox/CMU HGC MAC Meeting 25 February 2025.md",
     "Input/Meetings/December",
     "1-projects/Mixed2.0/#Jet DeClustering.md#",
     "Journal/January 2025",

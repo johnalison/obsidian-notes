@@ -33,7 +33,7 @@
 - [x] Herwig Abstract 
 - [x] Referral for Elise
 - [x] Referral for Fernando
-- [ ] Print Exam 
+- [x] Print Exam 
 	- [x] Upload to disablities
 - [ ] Work L2 Comments
 - [ ] Merge changes
@@ -77,13 +77,25 @@ SvB Now Flat !!!
 - Each read 130 applications
 - [>>] Visiting weekend March 14-15th
 - Ping Gillian re:HGC Lab
+	- [[Ad for Lab tech]] 
 - Signed Marlo up for Thursdays
 
 
-Chat [[Tony Boyle]]
+# Chat [[Tony Boyle]]
 - Will make ΔR of sub-leading jet in sub-leading dijet vs other jets
 - Separately for all sub-leading jets and those with low subleading dijet mass.
 
 
 # Office Hours
 - Chance work in the lab this summer. 
+- print exams
+
+# For Rachel
+- MCS AI & Science Initiative
+- Technical Staff for department or college 
+- Life is good. 
+- Fermilab is a mess
+- Spring off next year?
+- 2+ 1 students graduating
+- Lot of outreach activities
+
