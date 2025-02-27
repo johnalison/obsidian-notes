@@ -40,6 +40,7 @@
 - [x] Marinas Mail
 - [ ]  Read for [[ARC TOP-24-006 3 top production]]
 - [x] Chat Mans re SOW
+- [ ] Send Abstract and Title to Herwig
 ---
 
 # Log
