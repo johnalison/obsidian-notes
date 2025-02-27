@@ -1,22 +1,22 @@
 
-|     |                  |     |
-| --- | ---------------- | --- |
-| 9   | FBC2             |     |
-|     | FBC2             |     |
-| 10  | Teaching         |     |
-|     | Teaching         |     |
-| 11  | Gym              |     |
-|     | Gym              |     |
-| 12  | Gym              |     |
-|     | Faculty          |     |
-| 1   | Faculty          |     |
-|     | Tony             |     |
-| 2   | [[Run2 HH4b AN]] |     |
-|     | Office Hours     |     |
-| 3   | Office Hours     |     |
-|     |                  |     |
-| 4   | Rachel           |     |
-|     |                  |     |
+|     |                   |     |
+| --- | ----------------- | --- |
+| 9   | FBC2              |     |
+|     | FBC2              |     |
+| 10  | Teaching          |     |
+|     | Teaching          |     |
+| 11  | Gym               |     |
+|     | Gym               |     |
+| 12  | Gym               |     |
+|     | Faculty           |     |
+| 1   | Faculty           |     |
+|     | Tony              |     |
+| 2   | [[Run2 HH4b AN]]  |     |
+|     | Office Hours      |     |
+| 3   | Office Hours      |     |
+|     | Print exam / Prep |     |
+| 4   | Rachel            |     |
+|     | merge code        |     |
 
 **W:**
 **DW:**
@@ -76,7 +76,7 @@ SvB Now Flat !!!
 - Idea use LLMs to score the applications
 - Each read 130 applications
 - [>>] Visiting weekend March 14-15th
-- Ping Gillian re:HGC Lab
+- [x] Ping Gillian re:HGC Lab
 	- [[Ad for Lab tech]] 
 - Signed Marlo up for Thursdays
 
@@ -99,3 +99,4 @@ SvB Now Flat !!!
 - 2+ 1 students graduating
 - Lot of outreach activities
 
+Working on merging changes.
