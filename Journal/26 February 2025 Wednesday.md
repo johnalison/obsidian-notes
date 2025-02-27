@@ -60,9 +60,15 @@ Pinged Mans re SOW
 
 # [[Run2 HH4b AN]]
 - [ ] AccXEff plots with [[Add Cutflow Histograms]]
-- [ ] Debug wrt cutflow
+- [x] Debug wrt cutflow
 - Need to remove outliers
 - Cleaning up cutflow interface
+- Lots of progress...
+- Need two files at once
+- [x] histAll doesnt have cutflow_hists properly merged
+- [x] single signal files from reAna dont have trigger weights applied.
+- Added option to read in two files (needed for trigger weights)
+- Added SF to correct relative norm between the files. 
 
 # Chat re: Mans Statement of Work
 - will talk to Steve
