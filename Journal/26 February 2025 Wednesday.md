@@ -30,7 +30,7 @@
 ---
 # To Do
 
-- [ ] Do [[Byron Daniel Rec Letter]]
+- [x] Do [[Byron Daniel Rec Letter]]
 - [ ] Print exam 2
 - [ ]  Do  [[DOE Review Li Zepeng]]
 - [ ] Setup for Chance
@@ -92,3 +92,11 @@ Working [[Run2 HH4b AN]]
 - re:SvB binning
 
 More [[Run2 HH4b AN]]
+
+
+Home with kids
+
+Finished [[Byron Daniel Rec Letter]]
+
+Some [[For a new Liberty]]
+Some [[Fly By Night Physics]]
