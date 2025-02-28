@@ -2,9 +2,10 @@
 No writing 
 Lots of good work 
 Lifting good
-BBall good
+Habits all in check. Need more meditation
 
-
+4b side. Steady progress
+Fix to the synthetic data. 
 
 Ive been working on the closure test with the Run2 synthetic dataset, making the Run 3 synthetic dataset, and answering the L2 comments.
 
@@ -16,11 +17,14 @@ Ive been working on the closure test with the Run2 synthetic dataset, making the
 
   - Id like to send a reply to the L2s soon. We should talk about when it makes the most sense to.
 
+bbWW plan is to move to new coffea and Run3
+
 
 # Follow-ups
 
 
 # Links: 
+[[Progress Reports]]
 
 
 

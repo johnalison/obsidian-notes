@@ -57,8 +57,7 @@ M & T to school
 - Exam 2 
 - 13 students
 
-# Example Events for Marina
-- [ ]  Print out first 100 events in 2022_preEE Data and Synthetic data
+
 
 
 # [[ProgressReport 28 February 2025]]
@@ -66,11 +65,15 @@ M & T to school
 
 # [[Run3 Synthetic Data]]
 - making output files for Marina
+- [x]  Print out first 100 events in 2022_preEE Data and Synthetic data
+- `python analysis/debugRun3SyntheticData.py output/synthetic_dataset_analyze_all/synthetic_data_Run3_v6_debug_seedXXX.coffea`
 
 # [[Run2 HH4b AN]]
 - [ ] truth HH plots before and after genWeight cleaning
 - Now have 2018 AccXEff plot looking good!
 - [ ] Run nano on other  years
+- UL17 crashes
+
 # Chat Aiken 
  - Gave tour... Will get back to me
 

@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/28 February 2025 Friday.md",
+                "file": "0-inbox/ProgressReport 28 February 2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "28 February 2025 Friday"
+              "title": "ProgressReport 28 February 2025"
+            }
+          },
+          {
+            "id": "6815f89f80d8a836",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Output/ProgressReports/ProgressReport 14 February 2025.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ProgressReport 14 February 2025"
             }
           },
           {
@@ -91,7 +105,8 @@
               "title": "Run2 HH4b AN"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -163,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/28 February 2025 Friday.md",
+                "file": "Output/ProgressReports/ProgressReport 14 February 2025.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +188,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 28 February 2025 Friday"
+              "title": "Backlinks for ProgressReport 14 February 2025"
             }
           },
           {
@@ -182,12 +197,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/28 February 2025 Friday.md",
+                "file": "Output/ProgressReports/ProgressReport 14 February 2025.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 28 February 2025 Friday"
+              "title": "Outgoing links from ProgressReport 14 February 2025"
             }
           },
           {
@@ -209,10 +224,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/28 February 2025 Friday.md"
+                "file": "Output/ProgressReports/ProgressReport 14 February 2025.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 28 February 2025 Friday"
+              "title": "Outline of ProgressReport 14 February 2025"
             }
           },
           {
@@ -244,12 +259,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "836b856b91095bd3",
+  "active": "6815f89f80d8a836",
   "lastOpenFiles": [
-    "1-projects/HGC/CAM Turnaround Report.md",
-    "Journal/28 February 2025 Friday.md",
-    "Journal/27 February 2025 Thursday.md",
     "0-inbox/ProgressReport 28 February 2025.md",
+    "Output/ProgressReports/ProgressReport 14 February 2025.md",
+    "Output/ProgressReports/Progress Reports.md",
+    "Journal/21 February 2025 Friday.md",
+    "Journal/14 February 2025 Friday.md",
+    "Journal/28 February 2025 Friday.md",
+    "1-projects/HGC/CAM Turnaround Report.md",
+    "Journal/27 February 2025 Thursday.md",
     "Journal/Future Log.md",
     "Journal/February 2025.md",
     "Journal/26 February 2025 Wednesday.md",
@@ -257,7 +276,6 @@
     "Journal/24 February 2025 Monday.md",
     "Journal/23 February 2025 Sunday.md",
     "Journal/22 February 2025 Saturday.md",
-    "Journal/21 February 2025 Friday.md",
     "Journal/18 February 2025 Tuesday.md",
     "0-inbox/Ad for Lab tech.md",
     "0-inbox/Institutional Review HL-LHC Projections HIG-25-002.md",
@@ -269,9 +287,6 @@
     "2-areas/Personal/ToAddToCV.md",
     "1-projects/HGC/Dry Air for MMTS.md",
     "Journal/19 February 2025 Wednesday.md",
-    "Output/Recommendation  Letters/Diane Turnshek Letter.md",
-    "0-inbox/HGCManagementMeeting 26 Februrary 2025.md",
-    "0-inbox/Add Cutflow Histograms.md",
     "Input/Meetings/December",
     "1-projects/Mixed2.0/#Jet DeClustering.md#",
     "Journal/January 2025",
