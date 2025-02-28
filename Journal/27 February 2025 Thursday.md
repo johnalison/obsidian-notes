@@ -36,7 +36,7 @@
 - [x] Print Exam 
 	- [x] Upload to disablities
 - [ ] Work L2 Comments
-- [ ] Merge changes
+- [x] Merge changes
 - [ ] [[Institutional Review HL-LHC Projections HIG-25-002]]
 
 ---
@@ -100,3 +100,12 @@ SvB Now Flat !!!
 - Lot of outreach activities
 
 Working on merging changes.
+
+Home with M & T 
+
+Some [[Fly By Night Physics]]
+Some [[I See Satan Fall Like Lightning]]
+
+Late night code clean up. 
+
+# Will get off in Spring 26 !
