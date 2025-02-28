@@ -44,7 +44,7 @@
 - [ ] Setup March
 - [ ] Do [[Institutional Review HL-LHC Projections HIG-25-002]]
 - [ ] Buy Pool pass
-- [ ] - [ ] Fill [[CAM Turnaround Report]] by March 6th
+- [ ]  Fill [[CAM Turnaround Report]] by March 6th
 ---
 
 # Log
@@ -63,5 +63,12 @@ M & T to school
 
 # [[ProgressReport 28 February 2025]]
 
-- [ ] Fill [[CAM Turnaround Report]] by March 6th
+
+# [[Run3 Synthetic Data]]
+- making output files for Marina
+
+# [[Run2 HH4b AN]]
+- [ ] truth HH plots before and after genWeight cleaning
+
+
 
