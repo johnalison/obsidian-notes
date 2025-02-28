@@ -19,7 +19,9 @@ Ive been working on the closure test with the Run2 synthetic dataset, making the
 
 bbWW plan is to move to new coffea and Run3
 
+Wesgot leaderman interview
 
+HGC 
 # Follow-ups
 
 
