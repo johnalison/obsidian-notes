@@ -69,6 +69,10 @@ M & T to school
 
 # [[Run2 HH4b AN]]
 - [ ] truth HH plots before and after genWeight cleaning
+- Now have 2018 AccXEff plot looking good!
+- [ ] Run nano on other  years
+# Chat Aiken 
+ - Gave tour... Will get back to me
 
 
 
