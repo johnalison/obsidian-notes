@@ -32,13 +32,13 @@
 
 - [x] Do [[Byron Daniel Rec Letter]]
 - [>>] Print exam 2
-- [ ]  Do  [[DOE Review Li Zepeng]]
+- [>>]  Do  [[DOE Review Li Zepeng]]
 - [ ] Setup for Chance
 	- [ ] Get him set up with [[Boosted Synthetic Data]]
 - [>>] Work L2 Comments
-- [ ]  Understand event selection in FvT Training
+- [>>]  Understand event selection in FvT Training
 - [x] Marinas Mail
-- [ ]  Read for [[ARC TOP-24-006 3 top production]]
+- [>>]  Read for [[ARC TOP-24-006 3 top production]]
 - [x] Chat Mans re SOW
 - [>>] Send Abstract and Title to Herwig
 ---
@@ -49,7 +49,7 @@ Up at 7
 
 M &T to school
 
-- [ ] Dylan work with Sindhu ?
+- [>>] Dylan work with Sindhu ?
 
 
 # Taught
@@ -59,15 +59,15 @@ Pinged Mans re:SOW
 
 
 # [[Run2 HH4b AN]]
-- [ ] AccXEff plots with [[Add Cutflow Histograms]]
+- [>>] AccXEff plots with [[Add Cutflow Histograms]]
 - [x] Debug wrt cutflow
 - Need to remove outliers
 - Cleaning up cutflow interface
 - Lots of progress...
-- Need two files at once
+- Need two files at once, one with no skimming / one with the trigger weights
 - [x] histAll doesnt have cutflow_hists properly merged
 - [x] single signal files from reAna dont have trigger weights applied.
-- Added option to read in two files (needed for trigger weights)
+- Added option to read in two files 
 - Added SF to correct relative norm between the files. 
 
 # Chat re: Mans Statement of Work
@@ -75,6 +75,8 @@ Pinged Mans re:SOW
 - Maybe to some of the purchases through FNAL 
 - Will get back to me
 - Says he is happy with the impact CMU is making on HGC!
+- Suggestions for dry-air: 
+	- https://www.aircompressorsdirect.com/Tsunami-21999-1105/p106054.html?gad_source=1
 
 # Lxplus logic with kinit
 - https://devices.docs.cern.ch/devices/mac/AboutKerberosAndSsh/#changes-for-centos8
@@ -94,6 +96,11 @@ Working [[Run2 HH4b AN]]
 # Chat [[Sindhu Murthy]]
 - As presentation re:double peak structure... 
 - Will iterate
+
+# Chat [[CMU bbWW]]
+- AE: has nano recipe from Frikri ... only goes down to 15 GeV... iterating. 
+- AK: setting up new coffea framework 
+- Plan to meet with coffeea experts to discuss framework setup
 
 # Chat AE
 - re:SvB binning

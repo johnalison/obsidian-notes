@@ -19,7 +19,7 @@ Some [[Fly By Night Physics]]
 
 Started [[For a new Liberty]]
 
-# [[Nietzsche's Genealogy of Morality Explained]]
+# Watching [[Nietzsche's Genealogy of Morality Explained]]
 
 
 # Parents

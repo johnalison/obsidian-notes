@@ -6,7 +6,8 @@ The critique was a good companion, I will continue to do this with his other pla
 
 Not sure how much I learned from MacBeth, seems like a lot of this was groundbreaking at the time but is now just baked in to our world view. 
 
-
+Themes: 
+- Free will
 
 
 # Follow-ups

@@ -1,5 +1,5 @@
 
-|     |                   |     |
+|     | setup             |     |
 | --- | ----------------- | --- |
 | 9   | FBC2              |     |
 |     | FBC2              |     |
@@ -18,10 +18,10 @@
 | 4   | Rachel            |     |
 |     | merge code        |     |
 
-**W:**
-**DW:**
-**OT:**
-**ex** or **No ex**
+**W:** 7 
+**DW:** 1
+**OT:** 0 
+**ex** 
 
 ---
 # The ONE thing: 
@@ -37,7 +37,7 @@
 	- [x] Upload to disablities
 - [ ] Work L2 Comments
 - [x] Merge changes
-- [ ] [[Institutional Review HL-LHC Projections HIG-25-002]]
+- [>>] Do [[Institutional Review HL-LHC Projections HIG-25-002]]
 
 ---
 
@@ -52,7 +52,7 @@ Got creamer
 
 
 # FBC2
-- [ ]  Print out first 100 events in 2022_preEE Data and Synthetic data
+- [>>]  Print out first 100 events in 2022_preEE Data and Synthetic data
 
 Abstract for Herwig:  [[Ann Arbor Trip 2025]]
 
@@ -63,7 +63,7 @@ Abstract for Herwig:  [[Ann Arbor Trip 2025]]
 # [[Add Cutflow Histograms]]
 - [x] Problem with Trig SF not being applied
 	- Reported to AE
-- [ ] AccXEff plots with [[Add Cutflow Histograms]]
+- [>>] close AccXEff plots with [[Add Cutflow Histograms]]
 
 SvB Now Flat !!!
 
@@ -73,12 +73,13 @@ SvB Now Flat !!!
 - 10' at Tmax = 1122
 
 # Faculty Meeting
-- Idea use LLMs to score the applications
 - Each read 130 applications
+- JA: Idea use LLMs to score the applications
 - [>>] Visiting weekend March 14-15th
 - [x] Ping Gillian re:HGC Lab
 	- [[Ad for Lab tech]] 
-- Signed Marlo up for Thursdays
+- Signed Marlo up for Basketball on Thursdays
+- Are we being too passive ?
 
 
 # Chat [[Tony Boyle]]

@@ -99,8 +99,8 @@ Getting the new mixing going
 - Updating the CI
 - Adding Snakemake config for Run3 synthetic datasets
 - MERGED!!!!
-- [ ] Try rejecting events that fail the kinematic thresholds from the output synthetic datasets ?
-
+- [xx] Try rejecting events that fail the kinematic thresholds from the output synthetic datasets ?
+	  - Better to keep them and know they are below threshold
 
 [[21 February 2025 Friday]]
 - [>>] Run3 pdfs with rho corrections

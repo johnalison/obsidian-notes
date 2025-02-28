@@ -13,6 +13,7 @@
 - [ ] 10th Herwig seminar
 - [ ] 15-15th visiting week
 - [ ] 23 Sara Shook
+- [ ] 24th Thesis committee Riu Xue 2pm
 
 
 # April 

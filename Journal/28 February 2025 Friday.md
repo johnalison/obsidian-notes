@@ -1,0 +1,63 @@
+
+|     | setup             |     |
+| --- | ----------------- | --- |
+| 9   | Teach             |     |
+|     | Teach             |     |
+| 10  | Events for Marina |     |
+|     | Events for Marina |     |
+| 11  | Chat Aiken        |     |
+|     |                   |     |
+| 12  |                   |     |
+|     |                   |     |
+| 1   | Go Home           |     |
+|     | Go To ECS         |     |
+| 2   | Career Day        |     |
+|     | Career Day        |     |
+| 3   | Back to campus    |     |
+|     |                   |     |
+| 4   |                   |     |
+|     | Social            |     |
+
+**W:**
+**DW:**
+**OT:**
+**ex** or **No ex**
+
+---
+# The ONE thing: 
+- [ ] Example Events for Marina
+
+---
+# To Do
+
+- [x] 4b virtual updates
+- [x] Pay steph
+- [x] Dylan Email
+	- [x] Dylan work with Sindhu ?
+- [ ] Example Events for Marina
+- [ ] Do [[ProgressReport 28 February 2025]]
+- [ ]  Understand event selection in FvT Training
+- [ ]  Read for [[ARC TOP-24-006 3 top production]]
+- [ ] Do  [[DOE Review Li Zepeng]]
+- [ ] Close on AccXEff plots with [[Add Cutflow Histograms]]
+- [ ] Review Feb
+- [ ] Setup March
+- [ ] Do [[Institutional Review HL-LHC Projections HIG-25-002]]
+- [ ] Buy Pool pass
+---
+
+# Log
+
+Up at 7 
+
+M & T to school 
+
+# Teaching
+- Exam 2 
+- 13 students
+
+# Example Events for Marina
+- [ ]  Print out first 100 events in 2022_preEE Data and Synthetic data
+
+
+# [[ProgressReport 28 February 2025]]

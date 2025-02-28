@@ -57,7 +57,7 @@ to School
 - Back March 26th, 
 - Fermilab Meeting:  April 2
 	- https://docs.google.com/document/d/10KNcLF-F7PD2wZR3dEfFnkRD7JQJJlcC0PSzivImAdM/edit?tab=t.0
-- Applied to Cornell / Also TTU and Irvine 
+- Applied to Cornell / Also will to TTU and Irvine 
 - SoS: smoothing the limits
 - HGCal week: no major comments
 
