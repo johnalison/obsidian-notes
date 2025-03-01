@@ -16,9 +16,15 @@
 - [ ]  Understand event selection in FvT Training
 - [ ]  Read for [[ARC TOP-24-006 3 top production]]
 - [ ] Do  [[DOE Review Li Zepeng]]
-- [ ] Close on AccXEff plots with [[Add Cutflow Histograms]]
+- [x] Close on AccXEff plots with [[Add Cutflow Histograms]]
 - [ ] Do [[Institutional Review HL-LHC Projections HIG-25-002]]
 - [ ]  Fill [[CAM Turnaround Report]] by March 6th
 - [ ] truth HH plots before and after genWeight cleaning
 
 Pinged Dylan King
+
+Some [[Fly By Night Physics]]
+Some [[For a new Liberty]]
+Some [[I See Satan Fall Like Lightning]]
+
+Finishing on makeAccXEff 
