@@ -33,8 +33,8 @@
 - [x] Do [[Byron Daniel Rec Letter]]
 - [>>] Print exam 2
 - [>>]  Do  [[DOE Review Li Zepeng]]
-- [ ] Setup for Chance
-	- [ ] Get him set up with [[Boosted Synthetic Data]]
+- [>>] Setup for Chance
+	- [>>] Get him set up with [[Boosted Synthetic Data]]
 - [>>] Work L2 Comments
 - [>>]  Understand event selection in FvT Training
 - [x] Marinas Mail
@@ -51,7 +51,6 @@ M &T to school
 
 - [>>] Dylan work with Sindhu ?
 
-
 # Taught
 - An unsettling story
 
@@ -59,16 +58,7 @@ Pinged Mans re:SOW
 
 
 # [[Run2 HH4b AN]]
-- [>>] AccXEff plots with [[Add Cutflow Histograms]]
-- [x] Debug wrt cutflow
-- Need to remove outliers
-- Cleaning up cutflow interface
-- Lots of progress...
-- Need two files at once, one with no skimming / one with the trigger weights
-- [x] histAll doesnt have cutflow_hists properly merged
-- [x] single signal files from reAna dont have trigger weights applied.
-- Added option to read in two files 
-- Added SF to correct relative norm between the files. 
+- See daily's above
 
 # Chat re: Mans Statement of Work
 - will talk to Steve
@@ -89,24 +79,18 @@ Working [[Run2 HH4b AN]]
 - good runs 6s and 5s
 
 # [[Run3 Synthetic Data]]
-- Marina's closure now looks good. 
-- Seems like she is getting the wrong scale for the synthetic jet pts.
-
+- See Daily's
 
 # Chat [[Sindhu Murthy]]
-- As presentation re:double peak structure... 
-- Will iterate
+- See above
 
 # Chat [[CMU bbWW]]
-- AE: has nano recipe from Frikri ... only goes down to 15 GeV... iterating. 
-- AK: setting up new coffea framework 
-- Plan to meet with coffeea experts to discuss framework setup
+- See above
 
 # Chat AE
 - re:SvB binning
 
 More [[Run2 HH4b AN]]
-
 
 Home with kids
 

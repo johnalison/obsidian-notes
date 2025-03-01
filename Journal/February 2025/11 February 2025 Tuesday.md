@@ -65,8 +65,7 @@ setup
 
 Chat Roy 
 
-More grading 
-- [[Modern Essentials]]
+More grading  [[Modern Essentials]]
 
 Finished Grading
 

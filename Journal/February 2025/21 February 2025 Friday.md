@@ -56,8 +56,8 @@ M & T to school
 # Taught
 - Homework problems
 
-# Chat Chance
-- [>>] Get him set up with [[Boosted Synthetic Data]]
+# Chat [[Chance Lavoie]]
+- See dialy's above
 
 # [[Synthetic Data Closure]]
 - See daily's above
@@ -82,7 +82,7 @@ Waiting for condor jobs to finish...
 More [[Run2 HH4b AN]]
 
 # CMU CMS
-- New cmu/cms webpage: https://cms-cmu.docs.cern.ch/
+- New [[CMU CMS Webpage]] 
 
 [[Modules Summary February 2025]]
 

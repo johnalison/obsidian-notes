@@ -46,7 +46,7 @@ M & T to school
 # Taught 
 - [[Can derive the velocity parameter using Wick rotation]]
 
-# bbWW
+# CMS bbWW
 - https://indico.cern.ch/event/1499914/
 - Discussion of plan
 - Great talk by Aniket ! 

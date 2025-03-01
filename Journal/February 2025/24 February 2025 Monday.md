@@ -34,7 +34,7 @@
 - [x] HGC Workshop slides
 - [>>] Understand event selection in FvT Training
 - [>>] Chat Mans re SOW
-- [ ] Call Liberty mutual re:tree down
+- [>>] Call Liberty mutual re:tree down
 - [>>] Work L2 Comments
 - [>>] Watch  [[ARC TOP-24-006 3 top production]]
 - [>>] Organize [[Sindhu Murthy]]
@@ -59,9 +59,7 @@ M & T to school
 - GR in a day... Did not discuss redshifts
 
 #  [[Run2 HH4b AN]]
-- Working L2 comments
-- Added the ZZ and ZH SR plots (Took them from HIG-22-011)
-- Added Chuyuans updated classifier studies to appendix
+- See daily's above
 
 
 Chat AE: 
@@ -77,11 +75,7 @@ More [[Run2 HH4b AN]] see above
 
 
 # [[Jet DeClustering]]
-Synthetic dataset presentations with new pdfs
-- `python  jet_clustering/compare_datasets.py  output/synthetic_data_Run3_v6_new_seedXXX.coffea   --out analysis/plots_synthetic_datasets_all_00-09-00 -m plots/metadata/plotsSyntheticVsData2.yml --year Run3`
-- `make jetclustering_slides_Run3 TEXFILENAME=SyntheticDatasets-00-09-00 NEW_DIR=analysis\\/plots_synthetic_datasets_all_00-09-00`
-- `python  jet_clustering/compare_datasets.py  output/synthetic_dataset_analyze_all/synthetic_data_RunII_seedXXX.coffea    --out analysis/plots_synthetic_datasets_all_00-09-00 -m plots/metadata/plotsSyntheticVsData2.yml --year Run2`
-- `make jetclustering_slides_RunII TEXFILENAME=SyntheticDatasets-00-09-00 NEW_DIR=analysis\\/plots_synthetic_datasets_all_00-09-00`
+- See dialy's above
 
 
 # Working Exam #2 

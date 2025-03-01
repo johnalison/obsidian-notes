@@ -15,7 +15,16 @@
 
 # Weekly Meetings 
 
-[[18 February 2025 Tuesday]]
+## [[25 February 2025 Tuesday]]
+- Back March 26th, 
+- Fermilab Meeting:  April 2
+	- https://docs.google.com/document/d/10KNcLF-F7PD2wZR3dEfFnkRD7JQJJlcC0PSzivImAdM/edit?tab=t.0
+- Applied to Cornell / Also will to TTU and Irvine 
+- SoS: smoothing the limits
+- HGCal week: no major comments
+
+
+## [[18 February 2025 Tuesday]]
 - Chat re:HGC at CMU
 - Working on the HGC paper
 - Ava had twins ! 
@@ -23,17 +32,17 @@
 - Chatted re:Muon fakes looks like a problem at low ΔR
 
 
-[[11 February 2025 Tuesday]]
+## [[11 February 2025 Tuesday]]
 - Submitted application. 
 - HGCAL: Marchello and Eva. Updating the paper aim 2 weeks. 
 - Wes will present summary of studies at HGCAL week
 - SoS: fits are still running. Should try removing systematics 
 - Told him to think more about what analysis he would do for other applications
 
-[[5 February 2025 Wednesday]]
+## [[5 February 2025 Wednesday]]
 - Visited P5
 
-[[28 January 2025 Tuesday]]
+## [[28 January 2025 Tuesday]]
 - Chat with Zoltan:
 - Due Feb 6th 
 - [x] Review statement
@@ -42,17 +51,17 @@
 - [[Comments on Wes' Postdoc Application]]
 
 
-[[21 January 2025 Tuesday]]
+## [[21 January 2025 Tuesday]]
 - Cooling unit down, looking into renting some
 - Application materials 
 - SoS: 
 
-[[14 January 2025 Tuesday]]
+## [[14 January 2025 Tuesday]]
 -  Slow start with HGC
 - SoS
 - Thesis
 
- [[3 December 2024 Tuesday]]
+ ## [[3 December 2024 Tuesday]]
 - Herwig out at CERN
 - Slides for Annual Review
 -  EXO workshop in London
@@ -62,7 +71,7 @@
 - [x] Send mono-jet event display
 - Long chat with Wes about preparing his slides for the Annual Review
 
-[[26 November 2024 Tuesday]]
+## [[26 November 2024 Tuesday]]
 - SUSY-SOS Analysis:  
 	- I was able to produce some preliminary fits with the full reweighting procedure (BR + mll). I am waiting on a few fits that I resubmitted to htcondor. But the limits look pretty good (except where any mass points are missing).
 	- We wanted to give an update presentation to the conveners on all material answering the last questions and the J/psi reweighting but it has been pushed back to next week because of some conflict on their end.  Hopefully some approval on the J/psi veto will be given such that the final binning can be derived for everything (including the mll reweighting).
@@ -78,7 +87,7 @@ Thesis:
 - I am also done writing the first full draft of the document. I currently have some placeholder figures for things like CR/SR plots where I would like to eventually replace them with the final post-fit versions. Similar status for the interpretations as well.
 
 
-[[19 November 2024 Tuesday]]
+## [[19 November 2024 Tuesday]]
 -  SoS
 	- reweighting.
 	- ARC questions answered
@@ -87,19 +96,19 @@ Thesis:
 - EXO workshop
 - Annual Review
 
-[[12 November 2024 Tuesday]]
+## [[12 November 2024 Tuesday]]
 - on shift
 - working on thesis
 - working on branching ration weights
 - SOS approval: have CCLE / Jpsi veto
 
-[[5 November 2024 Tuesday]]
+## [[5 November 2024 Tuesday]]
 - Sos question on what to do with the Jphi 
 - Si more power outlets
 - 1060 nm 
 - hc - 1240 evnm / 1060 nm 
 
-[[29 October 2024 Tuesday]]
+## [[29 October 2024 Tuesday]]
 - Sos 
 	- Excess only in displaced muons thought to be from J/Psi
 	- Will give a talk at the EXO talk 
@@ -107,7 +116,7 @@ Thesis:
 	- Will ask Eva,  needs to do it still. 
 
 
-[[15 October 2024 Tuesday]]
+## [[15 October 2024 Tuesday]]
  HGC Paper
 -  VCI 2025: Vienna Conference on Instrumentation, 17-21 Feb 2025, Vienna (Austria)
  SoS 
@@ -120,7 +129,7 @@ Thesis:
 - Annual review 
 
 
-[[8 October 2024 Tuesday]]
+## [[8 October 2024 Tuesday]]
 -  HGC Paper
 	- Scope: IV / noise / light injection irradiated models HD - full and LD partial 
 	- Working on the HGC paper
@@ -137,13 +146,13 @@ Thesis:
 	- some work on paper
 	- committee 
 
-[[1 October 2024 Tuesday]]
+## [[1 October 2024 Tuesday]]
  SOS
 - electron fits now understood. 
 - Muons 
 
 
-[[24 September 2024 Tuesday]]
+## [[24 September 2024 Tuesday]]
 - Sos
 	- Fits/Debugging . Will add epsilon numbers 
 	- Looks like problem is solved by adding an epsilon 
@@ -152,7 +161,7 @@ Thesis:
 - Thesis
 	- Last person and set a date.
 
-[[17 September 2024 Tuesday]]
+## [[17 September 2024 Tuesday]]
 - Confusing why we are seeing 4 sigma observed significance 
 - EXO meeting: 
 	- chat re: low pt electron searches
@@ -160,13 +169,13 @@ Thesis:
 	- Updated limits. 
 	- Observed significant is inconsistent with limit plots and with post-fit data distributions. 
 
-[[10 September 2024 Tuesday]]
+## [[10 September 2024 Tuesday]]
 - SOS
 	 - Plots with decorrelated muon SF
 	- Confusing why we are seeing 4 sigma observed significance
 
 
-[[3 September 2024 Tuesday]]
+## [[3 September 2024 Tuesday]]
  - HGC
 	- power outage caused problems in the LAB
 		- Lots of time, but no major damage 
@@ -180,7 +189,7 @@ Thesis:
 https://docs.google.com/presentation/d/1JoeXqy3sCKjc87Mn0L_Ct01V9FAICfcKkwYqWOMQR3k/edit#slide=id.g29c6f707e4e_0_2588
 
 
-[[27 August 2024 Tuesday]]
+## [[27 August 2024 Tuesday]]
 -  HGC 
 	- Measurements of irradiated LD partials... so far OK
 	- Cleaning analysis code 
@@ -192,7 +201,7 @@ https://docs.google.com/presentation/d/1JoeXqy3sCKjc87Mn0L_Ct01V9FAICfcKkwYqWOMQ
 	- Coming along
 
 
-[[14 August 2024 Wednesday]]
+## [[14 August 2024 Wednesday]]
 -  HGC
 	- Lots of work in the lab this week.
 - SOS
@@ -201,7 +210,7 @@ https://docs.google.com/presentation/d/1JoeXqy3sCKjc87Mn0L_Ct01V9FAICfcKkwYqWOMQ
 -  Thesis
 	- Some progress. 
 
-[[6 August 2024 Tuesday]]
+## [[6 August 2024 Tuesday]]
 - Back from grandmothers funeral
 - Took some shifts
 - Started thesis drafting
@@ -212,7 +221,7 @@ https://docs.google.com/presentation/d/1JoeXqy3sCKjc87Mn0L_Ct01V9FAICfcKkwYqWOMQ
 - Thesis 
 	- Started thesis drafting
 
-[[23 July 2024 Tuesday]]
+## [[23 July 2024 Tuesday]]
 - Long time no speak. 
 -  SOS
 	- ARC review / Approval process 

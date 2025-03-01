@@ -51,7 +51,6 @@
 
 # Manami
 - exporting funcitons 
-- 
 
 # Jessica 
 

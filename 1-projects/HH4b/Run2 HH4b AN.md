@@ -46,28 +46,59 @@ Towards v4
 
 # Daily Logs
 
-[[21 February 2025 Friday]]
+
+## [[26 February 2025 Wednesday]]
+- [>>] AccXEff plots with [[Add Cutflow Histograms]]
+- [x] Debug wrt cutflow
+- Need to remove outliers
+- Cleaning up cutflow interface
+- Lots of progress...
+- Need two files at once, one with no skimming / one with the trigger weights
+- [x] histAll doesnt have cutflow_hists properly merged
+- [x] single signal files from reAna dont have trigger weights applied.
+- Added option to read in two files 
+- Added SF to correct relative norm between the files. 
+
+
+## [[25 February 2025 Tuesday]]
+- Updating the coments in markdown ... much better than twiki!
+- [>>] Make efficiency plots with [[Add Cutflow Histograms]]
+	- `python runner.py   -o signal_HH4b_nano.coffea -d GluGluToHHTo4B_cHHH1  -p analysis/processors/processor_HH4b.py -y UL18  -op output/analysis_test_job -m metadata/datasets_HH4b.yml -c analysis/metadata/HH4b_nano.yml`
+- [x] Need to add four tag to the cut flow hists
+- [x] Update Weights
+- Starting script to plot eff
+	- `python plots/makeAccxEff.py signal_HH4b_nano.coffea`
+- Weights off ... problem was with trigger weights.
+- [>>] Debug wrt cutflow
+
+
+## [[24 February 2025 Monday]]
+- Working L2 comments
+- Added the ZZ and ZH SR plots (Took them from HIG-22-011)
+- Added Chuyuans updated classifier studies to appendix
+
+## [[21 February 2025 Friday]]
 - Make comparison of 1d projections of masses, added to Twiki
 - [x] Need to update **makePlotsMixedVsDataVs3b.py** 
 - Updated figures 69 and 70 with region names.
 
-[[19 February 2025 Wednesday]]
+## [[19 February 2025 Wednesday]]
 - Some L2 Questions
 
-[[18 February 2025 Tuesday]]
+## [[18 February 2025 Tuesday]]
 - Update list of figures needed ... see above
 
-[[11 February 2025 Tuesday]]
+## [[11 February 2025 Tuesday]]
 - Start L2 Questions
 
 
-[[13 November 2024 Wednesday]]
+## [[13 November 2024 Wednesday]]
  [>>] HIstograms to cutflow
 - [x] colors
  [>>] ggHbb 3b w/o and w JCM
 
 
-[[14 November 2024 Thursday]]
+## [[14 November 2024 Thursday]]
 Looking into ggHbb
 - `python runner.py -p analysis/processors/processor_HH4b.py -y UL18 -d ttHbb ggHbb -c analysis/metadata/HH4b_rareBkgs.yml -o test_ttHbb_ggHbb.coffea -op hists/`
 - too slow... changed top reco to fast and now only running ggHbb
@@ -79,7 +110,7 @@ Looking into ggHbb
  [>>] Update AN and twiki
 
 
-[[15 November 2024 Friday]]
+## [[15 November 2024 Friday]]
 - [x] Update AN and twiki with ggHbb
 - script to make plots from histAll.coffea
 - `python analysis/makePlotsAN.py hists/ANv3/histAll.coffea --out hists/ANv3/plots`
@@ -89,7 +120,7 @@ Looking into ggHbb
  [>>] Why is canJet Phi 0-pi ?
 
 
-[[16 November 2024 Saturday]]
+## [[16 November 2024 Saturday]]
 - Making noFvT plots on 340
 - Make noFvT hists 
 	- `python runner.py -d data TTToHadronic TTToSemiLeptonic TTTo2L2Nu ZZ4b ZH4b GluGluToHHTo4B_cHHH1 -c analysis/metadata/HH4b_noFvT.yml   -p analysis/processors/processor_HH4b.py  -y UL17 UL18 UL16_preVFP UL16_postVFP -o histAll_noFvT.coffea -op hists/`
@@ -107,7 +138,7 @@ Looking into ggHbb
 - `python  analysis/makePlotsAN_noFvT_muQCD.py hists/ANv3/histAll_noFvT.coffea --out hists/ANv3/plots_noFvT_muQCD -m analysis/metadata/plotsAllNoFvT_muQCD.yml`
 
 
-[[20 November 2024 Wednesday]]
+## [[20 November 2024 Wednesday]]
 - Working the mixed data summary plots
 - Running on **cmslpc336**
 - `source  .ci-workflows/analysis-mixed-all.sh`
@@ -121,7 +152,7 @@ Looking into ggHbb
  [>>] Debug `data_3b_for_mixed` cutflow
 -  Added debugging output to outfile... Rerunning CI...
 
-[[21 November 2024 Thursday]]
+## [[21 November 2024 Thursday]]
 - Got mixed ave and v0 plots running.
 - Stats ratio error wrong!
 - updated error in the ratio plots
@@ -132,23 +163,23 @@ Looking into ggHbb
 - updated the mixed data summary plots
 
 
-[[22 November 2024 Friday]]
+## [[22 November 2024 Friday]]
 - updating plots with error bands
 - [[4b code base]]
 
 
-[[23 November 2024 Saturday]]
+## [[23 November 2024 Saturday]]
 - Updated runTwoStageClosure to use new colors
 
 
-[[9 December 2024 Monday]]
+## [[9 December 2024 Monday]]
 - Chat AE: he will push today
 - Working Appendix with CL results
 - Finished the comments
 - [XX] Send
 - AE found problem with the fits... will wait to send
 
-[[13 December 2024 Friday]]
+## [[13 December 2024 Friday]]
 - Updating the responses. 
 - [x] New v3 versions
 - [x] Send email to L3s

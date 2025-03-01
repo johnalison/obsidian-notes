@@ -35,7 +35,7 @@
 - [x] Referral for Fernando
 - [x] Print Exam 
 	- [x] Upload to disablities
-- [ ] Work L2 Comments
+- [>>] Work L2 Comments
 - [x] Merge changes
 - [>>] Do [[Institutional Review HL-LHC Projections HIG-25-002]]
 
@@ -61,9 +61,7 @@ Abstract for Herwig:  [[Ann Arbor Trip 2025]]
 - Discovery of the electrons
 
 # [[Add Cutflow Histograms]]
-- [x] Problem with Trig SF not being applied
-	- Reported to AE
-- [>>] close AccXEff plots with [[Add Cutflow Histograms]]
+- See above
 
 SvB Now Flat !!!
 
@@ -83,9 +81,7 @@ SvB Now Flat !!!
 
 
 # Chat [[Tony Boyle]]
-- Will make ΔR of sub-leading jet in sub-leading dijet vs other jets
-- Separately for all sub-leading jets and those with low subleading dijet mass.
-
+- See above
 
 # Office Hours
 - Chance work in the lab this summer. 

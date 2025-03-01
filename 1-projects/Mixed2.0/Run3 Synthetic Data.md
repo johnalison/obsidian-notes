@@ -27,7 +27,16 @@ v4:
 # Daily Logs
 
 
-[[22 February 2025 Saturday]]
+## [[Journal/28 February 2025 Friday|28 February 2025 Friday]]
+- making output files for Marina
+- [x]  Print out first 100 events in 2022_preEE Data and Synthetic data
+- `python analysis/debugRun3SyntheticData.py output/synthetic_dataset_analyze_all/synthetic_data_Run3_v6_debug_seedXXX.coffea`
+
+## [[26 February 2025 Wednesday]]
+- Marina's closure now looks good. 
+- Seems like she is getting the wrong scale for the synthetic jet pts.
+
+## [[22 February 2025 Saturday]]
 -  making v6 on **cmslpc350**... Done
 	- `source .ci-workflows/synthetic-dataset-make-dataset-all.sh `
 - Now making plots... 
@@ -38,14 +47,14 @@ v4:
 - Sent to Marina 
 
 
-[[15 January 2025 Wednesday]]
+## [[15 January 2025 Wednesday]]
 - Making datasets file v5
 - making histograms..
 - v5 looking  good... Making presentations 
 - sent to marina
 
 
-[[14 January 2025 Tuesday]]
+## [[14 January 2025 Tuesday]]
 - Making new splitting functions
 	- `python  jet_clustering/make_jet_splitting_PDFs.py output/synthetic_dataset_cluster/datasets_2022_EE.coffea  --years 2022_EE   --out jet_clustering/jet-splitting-PDFs-00-08-03`
 	- same for other eras
@@ -54,7 +63,7 @@ v4:
 	- `source .ci-workflows/synthetic-dataset-make-dataset-all.sh`
 - on **cmslpc320**. ... **real    82m12.738s**
 
-[[10 January 2025 Friday]]
+## [[10 January 2025 Friday]]
 - [x] Validate
 - [x] Send to Marina
 - Looks like previous analayze job ran out of memory...
@@ -78,7 +87,7 @@ v4:
 - Reduced the chunksize to 5k and works without errors! 
 
 
-[[9 January 2025 Thursday]]
+## [[9 January 2025 Thursday]]
 - AE pushed fix for JECRs 
 - pulled...fixed printout
 - resumbitting on **cmslpc331**
@@ -87,7 +96,7 @@ v4:
 - Making hists... errror when processing synthetic data with new JECRs
 - fixed... running
 
-[[8 January 2025 Wednesday]]
+## [[8 January 2025 Wednesday]]
 - Merged
 - Running on **cmslpc339**
 - 30 GeV threshold
@@ -99,12 +108,12 @@ v4:
 - Running ... not on tmux !!... killed ... re running
 - Fails b/c of BPix JEC crash.. Pinged AE
 
-[[3 January 2025 Friday]]
+## [[3 January 2025 Friday]]
 - Iterated with marina 
 - 25% differneces in yields 
 - [>>] Cut flow challenge
 
-[[19 December 2024 Thursday]]
+## [[19 December 2024 Thursday]]
 - changed the b-fail flat to 30 GeV
 - Still have condor errors
 	- update to master
@@ -123,7 +132,7 @@ v4:
 - Analyzing "v4"... running on **cmslpc345**
 
 
-[[18 December 2024 Wednesday]]
+## [[18 December 2024 Wednesday]]
 - Local job finished in **30945.83396744728** = 515m = 8 hrs !
 - Adding synthethic dataset files to `datasets_HH4b_Run3_fourTag_v3`
 - Processing new synthetic data
@@ -137,7 +146,7 @@ v4:
 - [>>] new clustering templates
 
 
-[[17 December 2024 Tuesday]]
+## [[17 December 2024 Tuesday]]
 - on **cmslpc327**
 - Making v3 synthetic datasets
 - `source  .ci-workflows/synthetic-dataset-make-dataset-all.sh`
@@ -145,7 +154,7 @@ v4:
 - condor fails... doing locallly ... taking a looong time... 
 
 
-[[11 December 2024 Wednesday]]
+## [[11 December 2024 Wednesday]]
 - [x] Fix CI
 - Debugging CI
 - Multijet cutflow OK .... but the histograms are off !?!
@@ -153,7 +162,7 @@ v4:
 - If tagCode is buggy, the plots can be wrong, but the cutflow OK
 
 
-[[10 December 2024 Tuesday]]
+## [[10 December 2024 Tuesday]]
 - Running on new synthetic data
  [>>] Fix CI
  ([[Jet DeClustering]]) [<<] Try Run-2 synthetic data with lower pt Cut
@@ -163,7 +172,7 @@ v4:
  - Looks pretty good.... sending to Marina
 
 
-[[9 December 2024 Monday]]
+## [[9 December 2024 Monday]]
 - Looks like the synthetic datasets finished OK.
 - Processing them now...
 	`python runner.py -o synthetic_data_Run3_seedXXX.coffea -d synthetic_data data -p analysis/processors/processor_HH4b.py -y 2022_preEE 2022_EE 2023_preBPix 2023_BPix -op hists -c analysis/metadata/HH4b_run_fastTopReco.yml -m metadata/datasets_HH4b_Run3_fourTag.yml`
@@ -173,26 +182,26 @@ v4:
 - Rerunning Run3 synthetic data with lower pt threshold on **cmslpc320**... finished **8492.214286327362** = 141 min
 
 
-[[7 December 2024 Saturday]]
+## [[7 December 2024 Saturday]]
 - Streamlining RunII and Run3 selection code
 - Updating Run3 selection
 
 
-[[3 December 2024 Tuesday]]
+## [[3 December 2024 Tuesday]]
 - Running on Run3 synthetic data
  [>>] Check cutflow
  [>>] Plots comparing 3-tag 
 - Running on Run2 on **cmslpc350**
 
 
-[[7 November 2024 Thursday]]
+## [[7 November 2024 Thursday]]
 - Ideas for improvements... Do TTSubtraction add ttbar ps data
 - Try to improve selected jet multiplicity
  [>>] Compare mixed to synthetic to threeTag
 
 
 
-[[6 November 2024 Wednesday]]
+## [[6 November 2024 Wednesday]]
 - [x] new input pdfs
 - [x] re:synthetic datasets
 - [[Cluster Run 3 data]]
@@ -208,7 +217,7 @@ v4:
 - Made plot comparing splitting type multiplicities 
 
 
-[[5 November 2024 Tuesday]]
+## [[5 November 2024 Tuesday]]
 - [x] recluster with new selection.. running see below
  [>>] new input pdfs
  [>>] re:synthetic datasets
@@ -218,7 +227,7 @@ v4:
 - [x] Update CERN/box slides and send mail
 
 
-[[1 November 2024 Friday]]
+## [[1 November 2024 Friday]]
 - [>>] Fix missing bRegCorr variables
 - Made plots data vs synthetic in Run3
 	`python  jet_clustering/compare_datasets.py  hists/synthetic_data_Run3_seedXXX.coffea   --out analysis/plots_synthetic_datasets_all_00-08-00-Run3 -m analysis/metadata/plotsSyntheticVsData2.yml`
@@ -226,7 +235,7 @@ v4:
 - Sent mail to FBC2 group
 
 
-[[31 October 2024 Thursday]]
+## [[31 October 2024 Thursday]]
 - Clean files from failed jobs
 - Turning off jetVetoMaps
 - Added synthetic datasets to yaml files
@@ -236,14 +245,14 @@ v4:
 - First look at Plots ... sensible, but there are obvious problems. 
 
 
-[[30 October 2024 Wednesday]]
+## [[30 October 2024 Wednesday]]
 - Trying with 3 workers ... Jobs failing b/c of memory 
 - Try with 4 workers 10_000 chunksize ... looks like this is working... need to try condor
 - Trying to run on condor submitting from **cmslpc313**
 - Needed to add jet_clustering to transfered files... running... failed...
 - Trying with chunk size 5_000, recopied voms-proxy... WORKED !!!... **175m51.908s**
 
-[[15 October 2024 Tuesday]]
+## [[15 October 2024 Tuesday]]
 - Fixes for Run3 clustering test jobs
 - Starting Run3 [[Jet DeClustering]]
 - Failed b/c tag ... also probably ran out of memory

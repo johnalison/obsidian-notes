@@ -25,7 +25,7 @@
 
 ---
 # The ONE thing: 
-- [ ] [[Synthetic Data Closure]]]
+- [ ] [[Synthetic Data Closure]]
 
 ---
 # To Do
@@ -55,7 +55,7 @@ To campus
 
 
 # Outreach Meeting
-
+- Not much ... Fields trips
 
 # [[CMU HGC MAC Meeting 4 February 2025]]
 

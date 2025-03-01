@@ -1,50 +1,55 @@
+# Logs
 
+## [[26 February 2025 Wednesday]]
+- AE: has nano recipe from Frikri ... only goes down to 15 GeV... iterating. 
+- AK: setting up new coffea framework 
+- Plan to meet with coffeea experts to discuss framework setup
 
-[[5 December 2024 Thursday]]
-- Prep talk for bbWW
-
-[[12 February 2025 Wednesday]]
+## [[12 February 2025 Wednesday]]
 - Will start moving to new coffea version and to run3
 
-[[29 January 2025 Wednesday]]
+## [[29 January 2025 Wednesday]]
 - Aniket to give slides next meeting
 
-[[31 October 2024 Thursday]]
+## [[5 December 2024 Thursday]]
+- Prep talk for bbWW
+
+## [[31 October 2024 Thursday]]
 - Not much.  Chi2 using mean of the signal distribution !
 
-[[26 September 2024 Thursday]]
+## [[26 September 2024 Thursday]]
 - AE: Running jobs
 - AK: will debug w-mass constraint by trying to fit by hand... Sam will help
 - SD: running on lxplus
 
-[[19 September 2024 Thursday]]
+## [[19 September 2024 Thursday]]
  Aniket
 - Will add unit test to do the neutrino reweighting
  Alejandro
 - Calibration results for all years
 
-[[12 September 2024 Thursday]]
+## [[12 September 2024 Thursday]]
 - Aniket: Processor too slow... b/c running all systematics. Will turn off. 
 - ttbar Chi2 now looks good.
 - Not much else...
 
-[[5 September 2024 Thursday]]
+## [[5 September 2024 Thursday]]
 - Aniket: getting the new processor going
 - AGE:  discussion of working with ETH 
 - Not much else
 
-[[29 August 2024 Thursday]]
+## [[29 August 2024 Thursday]]
 - Aniket still sees weird chi2 problems
 - Needs to define the W*->qq  vs W->qq using the truth information 
 
-[[22 August 2024 Thursday]]
+## [[22 August 2024 Thursday]]
  Aniket
 - Chi2 scale off will remake (likely bug)
 - Will start making comprehensive slides
 - Discussion of various chi2 terms
 
 
-[[15 August 2024 Thursday]]
+## [[15 August 2024 Thursday]]
  Aniket
 - Bug in w-mass constraint 
 - Will make X_HH and X_tt 
@@ -61,7 +66,7 @@
 - Will present to JERC in two weeks and ask about need for JER
 
 
-[[8 August 2024 Thursday]]
+## [[8 August 2024 Thursday]]
  Aniket
 - Good plots
 - mTop looks buggy, signal at ttbar are too close.
@@ -74,13 +79,13 @@
  Sena
 - progress on code
 
-[[1 August 2024 Thursday]]
+## [[1 August 2024 Thursday]]
 - Only aniket
 - Making good progress! 
 
 
 
-[[25 July 2024 Thursday]]
+## [[25 July 2024 Thursday]]
 - https://indico.cern.ch/event/1432491/
 
 - Can sign up on:
@@ -105,7 +110,7 @@
 	- Making progress on plotting
 
 
-[[11 July 2024 Thursday]]
+## [[11 July 2024 Thursday]]
 - Comparing the top 3 qvsq jets
 - Looking into the leading p_t. Can probably require only the leading to be 
 

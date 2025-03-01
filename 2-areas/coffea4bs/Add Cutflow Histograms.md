@@ -3,12 +3,18 @@
 # Logs
 
 
-[[3 February 2025 Monday]]
+## [[27 February 2025 Thursday]]
+- [x] Problem with Trig SF not being applied
+	- Reported to AE
+- [>>] close AccXEff plots with [[Add Cutflow Histograms]]
+
+
+## [[3 February 2025 Monday]]
 - Merging cut on status for genParticles.
 - Maybe this is why the gaussian kernel failed before... YES! 
 
 
-[[28 January 2025 Tuesday]]
+## [[28 January 2025 Tuesday]]
 - Running the signal 
 - `python runner.py  -o signal.coffea -d ZZ4b ZH4b ggZH4b GluGluToHHTo4B_cHHH1 -p analysis/processors/processor_HH4b.py -y UL18  -op output/analysis_test_job -m metadata/datasets_HH4b.yml`
 - truth 4b there for ZZ and ZH....checking ZH
@@ -18,7 +24,7 @@
 - Running on **cmslpc339**
 
 
-[[26 November 2024 Tuesday]]
+## [[26 November 2024 Tuesday]]
 - move truth function to `helpers/truth_tools`
 - `python runner.py -t -o test.coffea -d ZH4b ZZ4b GluGluToHHTo4B_cHHH1 -p analysis/processors/processor_HH4b.py -y UL18  -op $OUTPUT_DIR -m $DATASETS
 - added truth_v4b to event... adding histogram

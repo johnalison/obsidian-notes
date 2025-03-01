@@ -48,17 +48,19 @@ Let me know if you have any question
 
 
 
+
+
 # Logs
 
 
-[[22 February 2025 Saturday]]
+## [[22 February 2025 Saturday]]
 - Fixed problem with empty histograms... rerunning v4 on condor
 - Still see large event weights. .. not clear whats happening.
 - [[Run3 Synthetic Data]] 
 
 
 
-[[21 February 2025 Friday]]
+## [[21 February 2025 Friday]]
 - Falcon back... AE killed it before
 - Running fitting with v4 ... explicitly remove threeTag events from the synthetic dataset
 - Fit... running the data .. on condor
@@ -67,7 +69,7 @@ Let me know if you have any question
 
 
 
-[[20 February 2025 Thursday]]
+## [[20 February 2025 Thursday]]
 - Looking at plots... not clear why we have these bizzare weights...
 - [x] Check why canJet pt < 40 ! .. bRegCor?
 - Think synthetic events are making the three tag selection when b-jet out of acceptance. 
@@ -80,7 +82,7 @@ Let me know if you have any question
 
 
 
-[[19 February 2025 Wednesday]]
+## [[19 February 2025 Wednesday]]
 - Rerunning On **cmslpc338**
 - FvT much better! Looking at lots of plots...
 - Still have anomalously  high values, think they are coming from synthetic data out of acceptance
@@ -97,7 +99,7 @@ Let me know if you have any question
 - Rerunning on **cmslpc323** with FvT regions
 
 
-[[18 February 2025 Tuesday]]
+## [[18 February 2025 Tuesday]]
 - testing v2 
 - made hists 
 	- `source  .ci-workflows/synthetic-dataset-analyze-all.sh `
@@ -127,7 +129,7 @@ Let me know if you have any question
 
 
 
-[[15 February 2025 Saturday]]
+## [[15 February 2025 Saturday]]
 - `singularity exec -B .:/srv --nv --pwd /srv docker://chuyuanliu/heptools:ml bash --init-file /entrypoint.sh`
 - `voms-proxy-init --rfc --voms cms -valid 192:00`
 - Added synthetic to datasets being evaluated
@@ -143,7 +145,7 @@ Let me know if you have any question
 - running on  **cmslpc336**
 
 
-[[14 February 2025 Friday]]
+## [[14 February 2025 Friday]]
 - Data finished in **152m35.996s**
 - [x] Debug synthetic data ... Is it needed ?
 - Running ttbar ... bailed. 
@@ -153,12 +155,12 @@ Let me know if you have any question
 - Made plots comparing background synthetic data... FvT way off!
 - [x] Make FvT files for synthetic data
 
-[[13 February 2025 Thursday]]
+## [[13 February 2025 Thursday]]
 - Retrying on **cmslpc317** with only the data
 - data works!
 - [>>] Debug synthetic data ... Is it needed ?
 
-[[12 February 2025 Wednesday]]
+## [[12 February 2025 Wednesday]]
 - Trying to train again.. CL fixed the container
 - Setup singularity ... reinstalled (good sign)
 - `> singularity exec -B .:/srv --nv --pwd /srv docker://chuyuanliu/heptools:ml bash --init-file /entrypoint.sh`
@@ -173,12 +175,12 @@ Let me know if you have any question
 - OK working now running on **cmslpc317**
 - Crashed... .Should run the data/TTbar Separately ....
 
-[[11 February 2025 Tuesday]]
+## [[11 February 2025 Tuesday]]
 - `apptainer exec -B .:/srv --nv --pwd /srv docker://chuyuanliu/heptools:ml bash --init-file /entrypoint.sh`
 - Running the fit... seeing errors... sent mail to CL
 
 
-[[10 February 2025 Monday]]
+## [[10 February 2025 Monday]]
 - [x] Fit JCM to synthetic data
 - Making synthetic data histograms:
 - `time python runner.py -o synthetic_data_RunII_seedXXX.coffea -d synthetic_data  -p analysis/processors/processor_HH4b.py -y UL17 UL18 UL16_preVFP UL16_postVFP -op ${OUTPUT_DIR} -c analysis/metadata/HH4b_run_fastTopReco.yml -m metadata/datasets_HH4b_fourTag.yml`
@@ -188,7 +190,7 @@ Let me know if you have any question
 
 
 
-[[4 February 2025 Tuesday]]
+## [[4 February 2025 Tuesday]]
  Following CL instructions here: https://gitlab.cern.ch/cms-cmu/coffea4bees/-/tree/master/python/classifier#falconrogue
 - on rogue01
 	- `falcon`
@@ -204,7 +206,7 @@ Let me know if you have any question
 - proxy all good inside the container.
 
 
-[[3 February 2025 Monday]]
+## [[3 February 2025 Monday]]
 - [[Jet DeClustering]]
 - `python runner.py -m metadata/datasets_HH4b.yml -c analysis/metadata/HH4b_classifier_inputs.yml -d synthetic_data -y UL16_preVFP UL16_postVFP UL17 UL18 -op output/ -o classifier_synthetic_data.coffea`
 - Had to set `top_reconstruction_override: fast`

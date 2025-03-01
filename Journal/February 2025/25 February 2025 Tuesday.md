@@ -54,24 +54,11 @@ to School
 [[StartupSpending]]
 
 # Chat [[Wesley Terrill]]
-- Back March 26th, 
-- Fermilab Meeting:  April 2
-	- https://docs.google.com/document/d/10KNcLF-F7PD2wZR3dEfFnkRD7JQJJlcC0PSzivImAdM/edit?tab=t.0
-- Applied to Cornell / Also will to TTU and Irvine 
-- SoS: smoothing the limits
-- HGCal week: no major comments
+- See daily's above
 
 
 # L2 comments [[Run2 HH4b AN]]
-- Updating the coments in markdown ... much better than twiki!
-- [>>] Make efficiency plots with [[Add Cutflow Histograms]]
-	- `python runner.py   -o signal_HH4b_nano.coffea -d GluGluToHHTo4B_cHHH1  -p analysis/processors/processor_HH4b.py -y UL18  -op output/analysis_test_job -m metadata/datasets_HH4b.yml -c analysis/metadata/HH4b_nano.yml`
-- [x] Need to add four tag to the cut flow hists
-- [x] Update Weights
-- Starting script to plot eff
-	- `python plots/makeAccxEff.py signal_HH4b_nano.coffea`
-- Weights off ... problem was with trigger weights.
-- [>>] Debug wrt cutflow
+- See daily's above
 
 # [[CMU HGC MAC Meeting 25 February 2025]]
 

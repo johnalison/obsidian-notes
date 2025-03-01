@@ -9,7 +9,11 @@ If an opinion contrary to your own makes you angry, that is a sign that you are 
 “There is only one success – to be able to spend your life in your own way.”
 — Christopher Morley
 
+*"Obsess over substance, not status. What endures is what matters."*  
+-- Shane Parish
 
+*"The hardest truth about happiness is that it's a choice."*
+-- Shane Parish
 # Follow-ups
 
 

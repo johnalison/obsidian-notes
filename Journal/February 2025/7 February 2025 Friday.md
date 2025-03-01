@@ -93,9 +93,8 @@ Chat with Jeff about new job description
 
 [[Lab Techs Spring 2025]]
 
-# Chat with Tony 
-- [[Hbb Reclustering Project]]
-- Will look into dR will meet on Thursdays at 1:30
+# Chat with [[Tony Boyle]]
+- See daily's above
 
 # Whiskey with Markus and Roy
 - Chat re: continuous spin
