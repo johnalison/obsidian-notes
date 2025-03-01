@@ -19,7 +19,7 @@
 - [x] Close on AccXEff plots with [[Add Cutflow Histograms]]
 - [ ] Do [[Institutional Review HL-LHC Projections HIG-25-002]]
 - [ ]  Fill [[CAM Turnaround Report]] by March 6th
-- [ ] truth HH plots before and after genWeight cleaning
+- [x] truth HH plots before and after genWeight cleaning
 
 Pinged Dylan King
 
@@ -28,3 +28,5 @@ Some [[For a new Liberty]]
 Some [[I See Satan Fall Like Lightning]]
 
 Finishing on makeAccXEff 
+
+Did plots with and without genWeight cleaning
