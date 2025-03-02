@@ -5,7 +5,7 @@
 
 - [x] Review Feb
 - [ ] Do [[Institutional Review HL-LHC Projections HIG-25-002]]
-- [ ]  Understand event selection in FvT Training
+- [x] Understand event selection in FvT Training
 
 
 # Review Feb:
@@ -13,7 +13,6 @@
 - [ ] Setup for Chance
 	- [ ] Get him set up with [[Boosted Synthetic Data]]
 - [ ] Work L2 Comments
-- [ ]  Understand event selection in FvT Training
 - [ ]  Read for [[ARC TOP-24-006 3 top production]]
 - [ ] Do  [[DOE Review Li Zepeng]]
 - [x] Close on AccXEff plots with [[Add Cutflow Histograms]]
@@ -30,3 +29,8 @@ Some [[I See Satan Fall Like Lightning]]
 Finishing on makeAccXEff 
 
 Did plots with and without genWeight cleaning
+
+More reading.
+
+# Giant Eagle
+

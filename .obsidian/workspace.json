@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/1 March 2025 Saturday.md",
+                "file": "0-inbox/Institutional Review HL-LHC Projections HIG-25-002.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1 March 2025 Saturday"
+              "title": "Institutional Review HL-LHC Projections HIG-25-002"
             }
           },
           {
@@ -77,7 +77,8 @@
               "title": "February 2025"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -231,11 +232,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6815f89f80d8a836",
+  "active": "3b7693b655fd09fa",
   "lastOpenFiles": [
+    "0-inbox/Institutional Review HL-LHC Projections HIG-25-002.md",
+    "Journal/1 March 2025 Saturday.md",
     "0-inbox/ProgressReport 28 February 2025.md",
     "Journal/February 2025/28 February 2025 Friday.md",
-    "Journal/1 March 2025 Saturday.md",
     "Journal/February 2025/27 February 2025 Thursday.md",
     "Journal/February 2025/26 February 2025 Wednesday.md",
     "Journal/February 2025/25 February 2025 Tuesday.md",
@@ -258,7 +260,6 @@
     "Journal/February 2025/15 February 2025 Saturday.md",
     "Journal/February 2025/14 February 2025 Friday.md",
     "Journal/February 2025/13 February 2025 Thursday.md",
-    "Journal/February 2025/12 February 2025 Wednesday.md",
     "Input/Meetings/February",
     "Input/Meetings/January",
     "Input/Meetings/2024/December",
