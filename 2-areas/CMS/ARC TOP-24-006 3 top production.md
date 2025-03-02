@@ -15,11 +15,15 @@ SSDL/ML:
 
 SL: 
 - does the ABCDnn use the XY regions ?
+- ~10%
+
 
 Questions: 
-- How much 4top background is there?
-- How is this fit ?
-- What is the Acc x efficiency ?
+- [x] How much 4top background is there?
+- [x] How is this fit ?
+- [ ] What is the Acc x efficiency ?
+- [ ] Which uncertainties are the most important: Stat vs syst? leading sys?
+
 
 Watched up to 36'
 
