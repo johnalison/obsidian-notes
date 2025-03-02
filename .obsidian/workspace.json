@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-areas/CMS/ARC TOP-24-006 3 top production.md",
+                "file": "Journal/2 March 2025 Sunday.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ARC TOP-24-006 3 top production"
+              "title": "2 March 2025 Sunday"
             }
           },
           {
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-areas/CMS/ARC TOP-24-006 3 top production.md",
+                "file": "Journal/2 March 2025 Sunday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for ARC TOP-24-006 3 top production"
+              "title": "Backlinks for 2 March 2025 Sunday"
             }
           },
           {
@@ -169,12 +169,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-areas/CMS/ARC TOP-24-006 3 top production.md",
+                "file": "Journal/2 March 2025 Sunday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from ARC TOP-24-006 3 top production"
+              "title": "Outgoing links from 2 March 2025 Sunday"
             }
           },
           {
@@ -196,10 +196,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-areas/CMS/ARC TOP-24-006 3 top production.md"
+                "file": "Journal/2 March 2025 Sunday.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of ARC TOP-24-006 3 top production"
+              "title": "Outline of 2 March 2025 Sunday"
             }
           },
           {
@@ -233,6 +233,7 @@
   },
   "active": "3b7693b655fd09fa",
   "lastOpenFiles": [
+    "2-areas/CMS/ARC TOP-24-006 3 top production.md",
     "Journal/2 March 2025 Sunday.md",
     "Journal/1 March 2025 Saturday.md",
     "0-inbox/DOE Review Li Zepeng.md",
@@ -258,7 +259,6 @@
     "2-areas/Mentoring/Sindhu Murthy.md",
     "Journal/February 2025/17 February 2025 Monday.md",
     "Journal/February 2025/16 February 2025 Sunday.md",
-    "Journal/February 2025/15 February 2025 Saturday.md",
     "Input/Meetings/February",
     "Input/Meetings/January",
     "Input/Meetings/2024/December",
