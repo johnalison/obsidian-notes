@@ -9,9 +9,11 @@ https://indico.cern.ch/event/1508158/contributions/6346453/attachments/3008312/5
 - BSM can give 3tops: 
 - Production involves b in the initial state
 - Single Lepton / Same sign and Multi-lepton
+- Forward jets ? 
 
 SSDL/ML: 
 - Nb >= 1   Why not >=3 ? what does Nb look like?
+- 90% of the sensitivity 
 
 SL: 
 - does the ABCDnn use the XY regions ?
