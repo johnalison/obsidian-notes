@@ -6,6 +6,8 @@ Feedback from Marina:
 - [x] Move pt cut to 35
 - [ ] Jets with 3 medium b-jets
 
+v7: 
+- like v6 but only apply the b-reg corrections once
 
 v6: 
 - like v5 but now rho correction when declustering.
