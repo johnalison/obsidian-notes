@@ -16,4 +16,5 @@ Some [[I See Satan Fall Like Lightning]]
 - squat - pullups / side raises - step-ups / dips - stiff-leg deadlifts
 - 12' at Tmax = 120
 
+More [[Fly By Night Physics]]
 

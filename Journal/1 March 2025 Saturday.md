@@ -4,20 +4,19 @@
 # Log
 
 - [x] Review Feb
-- [ ] Do [[Institutional Review HL-LHC Projections HIG-25-002]]
+- [>>] Do [[Institutional Review HL-LHC Projections HIG-25-002]]
 - [x] Understand event selection in FvT Training
 
 
 # Review Feb:
 - [ ] Call Liberty mutual re:tree down
-- [ ] Setup for Chance
-	- [ ] Get him set up with [[Boosted Synthetic Data]]
-- [ ] Work L2 Comments
-- [ ]  Read for [[ARC TOP-24-006 3 top production]]
-- [ ] Do  [[DOE Review Li Zepeng]]
+- [>>] Setup for Chance
+	- [>>] Get him set up with [[Boosted Synthetic Data]]
+- [>>] Work L2 Comments
+- [>>]  Read for [[ARC TOP-24-006 3 top production]]
+- [>>] Do  [[DOE Review Li Zepeng]]
 - [x] Close on AccXEff plots with [[Add Cutflow Histograms]]
-- [ ] Do [[Institutional Review HL-LHC Projections HIG-25-002]]
-- [ ]  Fill [[CAM Turnaround Report]] by March 6th
+- [>>]  Fill [[CAM Turnaround Report]] by March 6th
 - [x] truth HH plots before and after genWeight cleaning
 
 Pinged Dylan King
