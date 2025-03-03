@@ -47,3 +47,8 @@ Up at 7 ... slow morning
 M & T to school 
 
 Work by 9
+
+
+# [[Run2 HH4b AN]]
+- Cehck with AE re:template uncertianties 
+- 
