@@ -1,5 +1,9 @@
 https://cms.cern.ch/iCMS/analysisadmin/cadi?ancode=TOP-24-006
 
+# AN v5
+
+- L 726: Why not 3 or more ? to kill ttbar
+- Would be good to quote the the signal Acc x efficiency for the SL selection, for the different signals. 
 
 # Paper Draft
 v0
