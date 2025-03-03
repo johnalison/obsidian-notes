@@ -1,6 +1,14 @@
 https://cms.cern.ch/iCMS/analysisadmin/cadi?ancode=TOP-24-006
 
 
+# Paper Draft
+v0
+L2 why not mention 3t + b as well?
+L9: Why would observation of 3T confirm the observatino of 4T ?
+
+not ready for prime time!
+
+
 # Pre-Approval Talk
 https://indico.cern.ch/event/1508158/contributions/6346453/attachments/3008312/5305223/GMT20250204-130915_Recording_1920x1080.mp4
 
@@ -27,7 +35,7 @@ Questions:
 - [ ] Which uncertainties are the most important: Stat vs syst? leading sys?
 
 
-Watched up to 36'
+
 
 # Follow-ups
 

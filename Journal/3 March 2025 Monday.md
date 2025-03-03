@@ -14,7 +14,7 @@
 | 2   | [[Run3 Synthetic Data]]                                |     |
 |     | [[Run3 Synthetic Data]]                                |     |
 | 3   | [[Run3 Synthetic Data]]                                |     |
-|     | Statusing                                              |     |
+|     | [[ARC TOP-24-006 3 top production]]                    |     |
 | 4   |                                                        |     |
 |     |                                                        |     |
 
@@ -77,3 +77,7 @@ Read [[Institutional Review HL-LHC Projections HIG-25-002]]
 
 
 Did FNAL training
+
+Reviewing: [[ARC TOP-24-006 3 top production]]
+- Started paper draft v0... clearly not ready
+- Looking at AN v5
