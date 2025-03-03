@@ -3,7 +3,7 @@
 | --- | ------------------------------------------------------ | --- |
 | 9   | setup                                                  |     |
 |     | [[Run2 HH4b AN]]                                       |     |
-| 10  |                                                        |     |
+| 10  | [[Run2 HH4b AN]]                                       |     |
 |     | [[Institutional Review HL-LHC Projections HIG-25-002]] |     |
 | 11  |                                                        |     |
 |     |                                                        |     |
@@ -33,7 +33,7 @@
 - [ ] Setup for Chance
 	- [ ] Get him set up with [[Boosted Synthetic Data]]
 - [ ] give Make up lecture
-- [ ] Work L2 Comments
+- [x] Work L2 Comments
 - [ ] Do [[Institutional Review HL-LHC Projections HIG-25-002]]
 - [ ]  Read for [[ARC TOP-24-006 3 top production]]
 - [ ] Do  [[DOE Review Li Zepeng]]
@@ -50,5 +50,6 @@ Work by 9
 
 
 # [[Run2 HH4b AN]]
-- Cehck with AE re:template uncertianties 
-- 
+- [x] Check with AE re:template uncertainties 
+- AE sees limits get worse with flat binning.... debugging
+- Just hemisphere plots lefts to do
