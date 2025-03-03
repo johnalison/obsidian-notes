@@ -5,8 +5,8 @@
 |     | [[Run2 HH4b AN]]                                       |     |
 | 10  | [[Run2 HH4b AN]]                                       |     |
 |     | [[Institutional Review HL-LHC Projections HIG-25-002]] |     |
-| 11  |                                                        |     |
-|     |                                                        |     |
+| 11  | [[Institutional Review HL-LHC Projections HIG-25-002]] |     |
+|     | [[Institutional Review HL-LHC Projections HIG-25-002]] |     |
 | 12  | Hoops                                                  |     |
 |     | Hoops                                                  |     |
 | 1   | Hoops                                                  |     |
@@ -53,3 +53,8 @@ Work by 9
 - [x] Check with AE re:template uncertainties 
 - AE sees limits get worse with flat binning.... debugging
 - Just hemisphere plots lefts to do
+
+Look over black body radiation. 
+
+Read [[Institutional Review HL-LHC Projections HIG-25-002]]
+- [ ] Write up comments
