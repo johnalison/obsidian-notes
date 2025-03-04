@@ -37,7 +37,7 @@
 - [x] Do [[Institutional Review HL-LHC Projections HIG-25-002]]
 - [ ]  Read for [[ARC TOP-24-006 3 top production]]
 - [ ] Do  [[DOE Review Li Zepeng]]
-- [ ] Fill [[CAM Turnaround Report]] by March 6th
+- [>>] Fill [[CAM Turnaround Report]] by March 6th
 - [x] FNAL training
 ---
 
@@ -58,7 +58,7 @@ Work by 9
 Look over black body radiation. 
 
 Read [[Institutional Review HL-LHC Projections HIG-25-002]]
-- [ ] Write up comments
+- [x] Write up comments
 
 # Hoops / Steamroom
 - 3s and 4s 
