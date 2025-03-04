@@ -32,13 +32,13 @@
 # To Do
 
 - [x] Fill [[CAM Turnaround Report]] by March 6th
-- [ ] Think about migrating hemisphere mixing to python ? 
+- [x] Think about migrating hemisphere mixing to python ? 
 - [ ] Read for [[ARC TOP-24-006 3 top production]]
 - [ ] Do  [[DOE Review Li Zepeng]] (**Due Date:** 03/19/2025)
 - [ ] Give make up lecture
 - [ ] Setup for Chance
 	- [ ] Get him set up with [[Boosted Synthetic Data]]
-- [ ] Think about new pdfs
+- [x] Think about new pdfs
 - [ ] Merge Master
 ---
 
@@ -73,10 +73,22 @@ To Campus
 
 Thinking about new PDFs
 - compute rho 
-- boost to p_x frame
+- boost to pz0 frame
 - If ak4, reassign mass using new pT and original rho 
 - Use new mass for pdf
 - Decluster: mass in p_x -> boost -> new mass based on rho
+
+
+# Lunch Ali-baba 
+- Alejandro and Peter
+
+Merged master
+
+
+# [[Jet DeClustering]]
+- Updating pdfs on **cmslpc341**
+- testing
+	`python -m unittest jet_clustering.tests.test_clustering.clusteringTestCase.test_declustering_bbjjets`
 
 --- 
 # [[HGCManagementMeeting 4 March 2025]]
