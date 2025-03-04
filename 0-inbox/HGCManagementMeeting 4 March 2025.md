@@ -6,7 +6,7 @@ https://docs.google.com/spreadsheets/d/1x2T8XBT7KlkrZQSe6N11ma8kYnd12xEX3ZnBwEVq
 
 
 Need expect finish 
-l199-122, 125:  module teststand 
+l119-122, 125:  module teststand 
 
 
 Advance L134: 10% -> 40%
