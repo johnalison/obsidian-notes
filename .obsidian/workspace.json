@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-projects/Mixed2.0/Jet DeClustering.md",
+                "file": "Journal/3 March 2025 Monday.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Jet DeClustering"
+              "title": "3 March 2025 Monday"
             }
           },
           {
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-projects/Mixed2.0/Jet DeClustering.md",
+                "file": "Journal/3 March 2025 Monday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Jet DeClustering"
+              "title": "Backlinks for 3 March 2025 Monday"
             }
           },
           {
@@ -170,12 +170,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-projects/Mixed2.0/Jet DeClustering.md",
+                "file": "Journal/3 March 2025 Monday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Jet DeClustering"
+              "title": "Outgoing links from 3 March 2025 Monday"
             }
           },
           {
@@ -197,10 +197,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-projects/Mixed2.0/Jet DeClustering.md"
+                "file": "Journal/3 March 2025 Monday.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Jet DeClustering"
+              "title": "Outline of 3 March 2025 Monday"
             }
           },
           {
@@ -234,6 +234,7 @@
   },
   "active": "788570795c09327b",
   "lastOpenFiles": [
+    "1-projects/Mixed2.0/Jet DeClustering.md",
     "Journal/February 2025/22 February 2025 Saturday.md",
     "1-projects/Mixed2.0/Run3 Synthetic Data.md",
     "Journal/February 2025/14 February 2025 Friday.md",
@@ -259,7 +260,6 @@
     "1-projects/HH4b/Run2 HH4b AN.md",
     "0-inbox/CMU CMS Webpage.md",
     "0-inbox/Chance Lavoie.md",
-    "Journal/February 2025/20 February 2025 Thursday.md",
     "Input/Meetings/February",
     "Input/Meetings/January",
     "Input/Meetings/2024/December",
