@@ -73,7 +73,8 @@ Read [[Institutional Review HL-LHC Projections HIG-25-002]]
 - Testing
 	- `time python runner.py -t -o synthetic_data_Run3_v6_debug_seedXXX.coffea -d synthetic_data data -p analysis/processors/processor_HH4b.py -y 2022_preEE   -op output/synthetic_dataset_analyze_all -c analysis/metadata/HH4b_run_fastTopReco.yml -m metadata/datasets_HH4b_Run3_fourTag_v6.yml `
  - Fix looks good
- - make v7 synthetic datasets on **cmslpc321**
+ - make v7 synthetic datasets on **cmslpc321**.. done
+ - Running on v7 to make plots
 
 
 Did FNAL training
@@ -81,3 +82,7 @@ Did FNAL training
 Reviewing: [[ARC TOP-24-006 3 top production]]
 - Started paper draft v0... clearly not ready
 - Looking at AN v5
+
+Pick up M & T.
+
+To Noodle Head

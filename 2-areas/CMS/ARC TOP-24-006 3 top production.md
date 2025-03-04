@@ -5,6 +5,10 @@ https://cms.cern.ch/iCMS/analysisadmin/cadi?ancode=TOP-24-006
 - L 726: Why not 3 or more ? to kill ttbar
 - Would be good to quote the the signal Acc x efficiency for the SL selection, for the different signals. 
 
+Questions: 
+- "Validation of the data and Monte Carlo agreement for the DNN discriminator score is done in a completely orthogonal phase space to the signal extraction region." What the the score look like the validation region vs the extraction region ?
+
+Read up to section 5.2 p38
 # Paper Draft
 v0
 L2 why not mention 3t + b as well?
