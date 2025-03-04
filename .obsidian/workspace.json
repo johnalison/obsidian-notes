@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Input/Meetings/HGC Workshop Feb 2025.md",
+                "file": "Journal/4 March 2025 Tuesday.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HGC Workshop Feb 2025"
+              "title": "4 March 2025 Tuesday"
             }
           },
           {
@@ -63,8 +63,7 @@
               "title": "HGCManagementMeeting 4 March 2025"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -136,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/HGCManagementMeeting 4 March 2025.md",
+                "file": "Journal/4 March 2025 Tuesday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +145,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for HGCManagementMeeting 4 March 2025"
+              "title": "Backlinks for 4 March 2025 Tuesday"
             }
           },
           {
@@ -155,12 +154,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/HGCManagementMeeting 4 March 2025.md",
+                "file": "Journal/4 March 2025 Tuesday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from HGCManagementMeeting 4 March 2025"
+              "title": "Outgoing links from 4 March 2025 Tuesday"
             }
           },
           {
@@ -182,10 +181,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/HGCManagementMeeting 4 March 2025.md"
+                "file": "Journal/4 March 2025 Tuesday.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of HGCManagementMeeting 4 March 2025"
+              "title": "Outline of 4 March 2025 Tuesday"
             }
           },
           {
@@ -217,11 +216,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fa3feb3a04af717f",
+  "active": "6815f89f80d8a836",
   "lastOpenFiles": [
+    "Input/Meetings/HGC Workshop Feb 2025.md",
+    "0-inbox/HGCManagementMeeting 4 March 2025.md",
     "Journal/4 March 2025 Tuesday.md",
     "Journal/February 2025/28 February 2025 Friday.md",
-    "Input/Meetings/HGC Workshop Feb 2025.md",
     "Journal/February 2025/20 February 2025 Thursday.md",
     "0-inbox/UndergradProjects.md",
     "0-inbox/Migrate hemisphere mixing to python.md",
@@ -229,7 +229,6 @@
     "Input/Meetings/February/CMU HGC MAC Meeting 25 February 2025.md",
     "Journal/March 2025.md",
     "2-areas/coffea4bs/Add Cutflow Histograms.md",
-    "0-inbox/HGCManagementMeeting 4 March 2025.md",
     "1-projects/HGC/CAM Turnaround Report.md",
     "Journal/February 2025/25 February 2025 Tuesday.md",
     "Input/Meetings/HGCManagementMeeting 25 Februrary 2025.md",
