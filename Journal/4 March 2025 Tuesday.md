@@ -75,3 +75,6 @@ Migrate hemisphere mixing to python (Undergrad project ?)
 
 # [[CMU HGC MAC Meeting 4 March 2025]]
 [[CMU HGC MAC Meeting 25 February 2025]]
+
+
+# [[HGCManagementMeeting 4 March 2025]]

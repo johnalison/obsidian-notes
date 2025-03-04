@@ -74,7 +74,7 @@ M & T Down
 - ... false alarm 
 - That was the previous month... already filled it out
 
-# [[HGCManagementMeeting 26 Februrary 2025]]
+# [[HGCManagementMeeting 25 Februrary 2025]]
 - Working....
 
 
