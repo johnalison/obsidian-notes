@@ -77,7 +77,7 @@ Read [[Institutional Review HL-LHC Projections HIG-25-002]]
  - make v7 synthetic datasets on **cmslpc321**.. done
  - Running on v7 to make plots
  - Looks OK ... not super great
- - Making new pdfs
+ - Making new pdfs .. on **cmslpc339**
 	 - ` python runner.py -o synthetic_datasets_Run3_fixCalib.coffea -d data  -p analysis/processors/processor_cluster_4b.py -y 2022_EE 2022_preEE 2023_BPix 2023_preBPix  -op output/synthetic_dataset_cluster  -m metadata/datasets_HH4b_Run3_fourTag_v3.yml -c analysis/metadata/cluster_4b_noTTSubtraction.yml --condor`
  - Making 00-09-01 [>>]  [[Splitting PDF Archive]]
 	 - `python  jet_clustering/make_jet_splitting_PDFs.py output/synthetic_dataset_cluster/synthetic_datasets_Run3_fixCalib.coffea  --years Run3   --out jet_clustering/jet-splitting-PDFs-00-09-01`
