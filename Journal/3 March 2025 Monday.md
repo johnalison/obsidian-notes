@@ -15,28 +15,28 @@
 |     | [[Run3 Synthetic Data]]                                |     |
 | 3   | [[Run3 Synthetic Data]]                                |     |
 |     | [[ARC TOP-24-006 3 top production]]                    |     |
-| 4   |                                                        |     |
-|     |                                                        |     |
+| 4   | [[ARC TOP-24-006 3 top production]]                    |     |
+|     | [[ARC TOP-24-006 3 top production]]                    |     |
 
-**W:**
-**DW:**
-**OT:**
-**ex** or **No ex**
+**W:** 6 
+**DW:** 5
+**OT:** 1
+**ex** 
 
 ---
 # The ONE thing: 
-- [ ] [[Run2 HH4b AN]]
+- [x] [[Run2 HH4b AN]]
 
 ---
 # To Do
 
-- [ ] Setup for Chance
-	- [ ] Get him set up with [[Boosted Synthetic Data]]
-- [ ] Give make up lecture
+- [>>] Setup for Chance
+	- [>>] Get him set up with [[Boosted Synthetic Data]]
+- [>>] Give make up lecture
 - [x] Work L2 Comments
 - [x] Do [[Institutional Review HL-LHC Projections HIG-25-002]]
-- [ ]  Read for [[ARC TOP-24-006 3 top production]]
-- [ ] Do  [[DOE Review Li Zepeng]]
+- [>>]  Read for [[ARC TOP-24-006 3 top production]]
+- [>>] Do  [[DOE Review Li Zepeng]]
 - [>>] Fill [[CAM Turnaround Report]] by March 6th
 - [x] FNAL training
 ---

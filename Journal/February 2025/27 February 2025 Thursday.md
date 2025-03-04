@@ -76,7 +76,7 @@ SvB Now Flat !!!
 - [>>] Visiting weekend March 14-15th
 - [x] Ping Gillian re:HGC Lab
 	- [[Ad for Lab tech]] 
-- Signed Marlo up for Basketball on Thursdays
+- (Signed Marlo up for Basketball on Thursdays
 - Are we being too passive ?
 
 
@@ -93,7 +93,7 @@ SvB Now Flat !!!
 - Told her that Life is good. 
 - Fermilab is a mess
 - Spring off next year? ... probably yes
-- 2+ 1 students graduating
+- 2 + 1 students graduating
 - Lot of outreach activities
 
 Working on merging changes.

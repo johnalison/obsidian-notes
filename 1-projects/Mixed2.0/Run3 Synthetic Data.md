@@ -6,6 +6,10 @@ Feedback from Marina:
 - [x] Move pt cut to 35
 - [ ] Jets with 3 medium b-jets
 
+
+v8: 
+- like v7 but with 00-09-01 pdfs (using new jet calibration) [[Splitting PDF Archive]]
+
 v7: 
 - like v6 but only apply the b-reg corrections once
 

@@ -13,7 +13,7 @@
 - [>>] Setup for Chance
 	- [>>] Get him set up with [[Boosted Synthetic Data]]
 - [>>] Work L2 Comments
-- [>>]  Read for [[ARC TOP-24-006 3 top production]]
+- [>>] Read for [[ARC TOP-24-006 3 top production]]
 - [>>] Do  [[DOE Review Li Zepeng]]
 - [x] Close on AccXEff plots with [[Add Cutflow Histograms]]
 - [>>]  Fill [[CAM Turnaround Report]] by March 6th
