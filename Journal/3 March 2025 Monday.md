@@ -68,7 +68,7 @@ Read [[Institutional Review HL-LHC Projections HIG-25-002]]
 - Marina points out that we are applying the b-regression twice....
 - [x] Fix code
 - [x] Verify pts in event Marina sent
-- [ ] Remake PDFs
+- [x] Remake PDFs
 - Remake mixed cccccbctiudrnvkjrldfclhvrlnghhvrvdtftbhrfncd
 - data
 - Testing
@@ -79,6 +79,9 @@ Read [[Institutional Review HL-LHC Projections HIG-25-002]]
  - Looks OK ... not super great
  - Making new pdfs
 	 - ` python runner.py -o synthetic_datasets_Run3_fixCalib.coffea -d data  -p analysis/processors/processor_cluster_4b.py -y 2022_EE 2022_preEE 2023_BPix 2023_preBPix  -op output/synthetic_dataset_cluster  -m metadata/datasets_HH4b_Run3_fourTag_v3.yml -c analysis/metadata/cluster_4b_noTTSubtraction.yml --condor`
+ - Making 00-09-01 [>>]  [[Splitting PDF Archive]]
+	 - `python  jet_clustering/make_jet_splitting_PDFs.py output/synthetic_dataset_cluster/synthetic_datasets_Run3_fixCalib.coffea  --years Run3   --out jet_clustering/jet-splitting-PDFs-00-09-01`
+ - Making Run3 v8 synthetic data using 00-09-01
 
 
 Did FNAL training
@@ -89,6 +92,8 @@ Reviewing: [[ARC TOP-24-006 3 top production]]
 
 Pick up M & T.
 
-To Noodle Head
+# Noodle Head
 
 More [[Run3 Synthetic Data]]
+
+Some [[For a new Liberty]]
