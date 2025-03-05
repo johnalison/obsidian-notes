@@ -1,6 +1,6 @@
 
-- Universal Inference 
-- Boosted JetDeclustering
+- [[Universal Inference]]
+- [[Boosted Synthetic Data]]
 - [[Hbb Reclustering Project]]
 - [[Migrate hemisphere mixing to python]]
 

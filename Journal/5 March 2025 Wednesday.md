@@ -72,3 +72,15 @@ Need FNAL Access
 # Gave Make up Lecture
 - [x] Post Lecture
 - [x] Post Homework
+
+Planning [[Boosted Synthetic Data]]
+- Start signal
+- skim nano
+	- Start with four-vectors to Chance... Can talk to [[Tony Boyle]]
+	- [ ] Can we recover soft-drop mass from leading two subjets ?
+- script to plot mass in coffea code
+
+# Review Module Testing meeting
+- https://indico.cern.ch/event/1519574/
+
+Chat MP
