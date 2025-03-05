@@ -30,7 +30,7 @@
 ---
 # To Do
 
-- [ ] merge master
+- [x] merge master
 - [x] Add comments in the code
 - [ ] Read for [[ARC TOP-24-006 3 top production]]
 - [ ] Give make up lecture
