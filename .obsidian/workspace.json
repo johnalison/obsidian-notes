@@ -82,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "HGC week",
+                "query": "compare_data",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -218,8 +218,9 @@
   },
   "active": "6815f89f80d8a836",
   "lastOpenFiles": [
-    "Journal/4 March 2025 Tuesday.md",
+    "1-projects/Mixed2.0/Jet DeClustering.md",
     "Journal/5 March 2025 Wednesday.md",
+    "Journal/4 March 2025 Tuesday.md",
     "2-areas/CMS/ARC TOP-24-006 3 top production.md",
     "Journal/March 2025.md",
     "2-areas/coffea4bs/Add Cutflow Histograms.md",
@@ -242,7 +243,6 @@
     "Input/Meetings/HGCManagementMeeting 25 Februrary 2025.md",
     "1-projects/Mixed2.0/Run3 Synthetic Data.md",
     "Journal/February 2025/14 February 2025 Friday.md",
-    "1-projects/Mixed2.0/Jet DeClustering.md",
     "Journal/February 2025/22 February 2025 Saturday.md",
     "Input/Meetings/February",
     "Input/Meetings/January",
