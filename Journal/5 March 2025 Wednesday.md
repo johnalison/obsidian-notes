@@ -4,8 +4,8 @@
 | 9   | [[Jet DeClustering]]                         |     |
 |     | Merge code                                   |     |
 | 10  | bbWW                                         |     |
-|     | Higgs bb                                     |     |
-| 11  |                                              |     |
+|     | bbWW                                         |     |
+| 11  | merging                                      |     |
 |     |                                              |     |
 | 12  | Hoops                                        |     |
 |     | Hoops                                        |     |
@@ -34,6 +34,7 @@
 - [x] Add comments in the code
 - [ ] Read for [[ARC TOP-24-006 3 top production]]
 - [ ] Give make up lecture
+- [ ] Femilab Access
 
 ---
 
@@ -60,3 +61,9 @@ Merging master
 
 [[ARC TOP-24-006 3 top production]]
 
+# Hoops
+- 4s and 5s 
+
+Need FNAL Access
+- Dee Hahn as Fermilab Point of Contact.
+- location WH 11X
