@@ -6,6 +6,9 @@ Feedback from Marina:
 - [x] Move pt cut to 35
 - [ ] Jets with 3 medium b-jets
 
+v9: 
+- like v8 but now with the 00-09-02 pdfs (using the rotated masses for the ak4 jets pdfs)
+
 
 v8: 
 - like v7 but with 00-09-01 pdfs (using new jet calibration) [[Splitting PDF Archive]]

@@ -52,7 +52,7 @@ Work by 9
 
 # [[Run2 HH4b AN]]
 - [x] Check with AE re:template uncertainties 
-- AE sees limits get worse with flat binning.... debugging
+- AE sees limits get worse with flat binning.... debugging... <font color=red> Fixed </font>
 - Just hemisphere plots lefts to do
 
 Look over black body radiation. 

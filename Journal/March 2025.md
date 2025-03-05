@@ -3,7 +3,7 @@
 | 1  S | Reading / Review Feb / Finish makeAccxEff plots / Giant Eagle             |       |
 | 2  S | Reading / Watch ARC pre-approval / **Gym/SR** / Reading                   |       |
 | 3  M | (SP) Review / **Hoops/SR** / Fix Run3 Calib / Start ARC / **Noodle Head** | 6/5/1 |
-| 4  T | (RI)                                                                      |       |
+| 4  T | (RI) [[Run3 Synthetic Data]] v8 / Lunch AE and Peter / Statusing          | 7/3/1 |
 | 5  W | (NG)                                                                      |       |
 | 6  H | (BR)                                                                      |       |
 | 7  F | EAK) (No Cyert)                                                           |       |
