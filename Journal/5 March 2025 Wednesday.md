@@ -31,7 +31,7 @@
 # To Do
 
 - [ ] merge master
-- [ ] Add comments in the code
+- [x] Add comments in the code
 - [ ] Read for [[ARC TOP-24-006 3 top production]]
 - [ ] Give make up lecture
 
@@ -47,4 +47,16 @@ Work by 9
 
 # [[Jet DeClustering]]
 - on **cmslpc304**
-- Makiing hists for v9 
+- Making hists for v9 
+- Basically no change wrt v8
+
+
+Merging master
+
+
+# HHbbWW
+
+
+
+[[ARC TOP-24-006 3 top production]]
+
