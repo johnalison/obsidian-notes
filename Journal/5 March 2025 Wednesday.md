@@ -6,15 +6,15 @@
 | 10  | bbWW                                         |     |
 |     | bbWW                                         |     |
 | 11  | merging                                      |     |
-|     |                                              |     |
+|     | videos                                       |     |
 | 12  | Hoops                                        |     |
 |     | Hoops                                        |     |
 | 1   | Hoops                                        |     |
 |     | Hoops                                        |     |
-| 2   |                                              |     |
-|     |                                              |     |
-| 3   | Give make up lecture                         |     |
+| 2   | Give make up lecture                         |     |
 |     | Give make up lecture                         |     |
+| 3   | Give make up lecture                         |     |
+|     |                                              |     |
 | 4   | Read for [[ARC TOP-24-006 3 top production]] |     |
 |     | Read for [[ARC TOP-24-006 3 top production]] |     |
 
@@ -25,7 +25,8 @@
 
 ---
 # The ONE thing: 
-- [ ] 
+- [x] Merge code
+- [ ] Makeup Lecture
 
 ---
 # To Do
@@ -33,8 +34,8 @@
 - [x] merge master
 - [x] Add comments in the code
 - [ ] Read for [[ARC TOP-24-006 3 top production]]
-- [ ] Give make up lecture
-- [ ] Femilab Access
+- [x] Give make up lecture
+- [ ] Fermilab Access
 
 ---
 
@@ -67,3 +68,7 @@ Merging master
 Need FNAL Access
 - Dee Hahn as Fermilab Point of Contact.
 - location WH 11X
+
+# Gave Make up Lecture
+- [x] Post Lecture
+- [x] Post Homework
