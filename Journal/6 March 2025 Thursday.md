@@ -92,5 +92,7 @@ https://cms-nanoaod-integration.web.cern.ch/autoDoc/
 More [[Boosted Synthetic Data]]
 
 
-Playing with ChatGPT 4.5
-https://chatgpt.com/share/67ca07cf-c244-8000-9849-351c50521fe1
+# Playing with ChatGPT 4.5
+- https://chatgpt.com/share/67ca07cf-c244-8000-9849-351c50521fe1
+- /Users/johnda/CMSWork/hh4b/StatToy
+- 
