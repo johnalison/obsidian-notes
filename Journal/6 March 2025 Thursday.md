@@ -62,3 +62,8 @@ M&T to school
 - Toy mixed dataset, 
 - histogram
 - fluctuate weights compare RMS to sqrt(N)
+
+
+# FBC2
+- Make Run3 CR cut and make a print of event/run numbers
+- 
