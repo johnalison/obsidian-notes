@@ -37,6 +37,7 @@
 	- [ ] Get him set up with [[Boosted Synthetic Data]]
 - [ ]  Read for [[ARC TOP-24-006 3 top production]]
 - [ ] Hemisphere plots 
+- [ ] Push AN 
 ---
 
 # Log
@@ -50,7 +51,7 @@ M&T to school
 - Setup on rogue
 - Nanos failing on rucio... Nano not avilible on LPC, needed to add MIT
 	- [[dasgoclient]]
-- 
+- NanoAOD content https://cms-nanoaod-integration.web.cern.ch/autoDoc/
 
 # Review [[Run2 HH4b AN]]
 - need hemiplots and new data
@@ -66,4 +67,7 @@ M&T to school
 
 # FBC2
 - Make Run3 CR cut and make a print of event/run numbers
-- 
+
+
+Chat AE re:boosted
+https://cms-nanoaod-integration.web.cern.ch/autoDoc/
