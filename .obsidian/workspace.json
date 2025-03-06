@@ -22,17 +22,31 @@
             }
           },
           {
-            "id": "e3795ccd692bd66b",
+            "id": "df7c35963996d711",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-areas/CMS/dasgoclient.md",
+                "file": "1-projects/Mixed2.0/Boosted Synthetic Data.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "dasgoclient"
+              "title": "Boosted Synthetic Data"
+            }
+          },
+          {
+            "id": "7c3c3f51c8b5d404",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-projects/HH4b/Hbb Reclustering Project.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hbb Reclustering Project"
             }
           },
           {
@@ -82,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "das ",
+                "query": " ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -218,13 +232,15 @@
   },
   "active": "6815f89f80d8a836",
   "lastOpenFiles": [
-    "2-areas/CMS/dasgoclient.md",
+    "1-projects/Mixed2.0/Boosted Synthetic Data.md",
     "Journal/6 March 2025 Thursday.md",
+    "1-projects/HH4b/Hbb Reclustering Project.md",
+    "2-areas/Mentoring/Tony Boyle.md",
+    "2-areas/CMS/dasgoclient.md",
     "2-areas/CMS/CMSSWNotes.md",
     "1-projects/HH4b/Run2 HH4b AN.md",
     "Journal/March 2025.md",
     "Journal/5 March 2025 Wednesday.md",
-    "1-projects/Mixed2.0/Boosted Synthetic Data.md",
     "Journal/4 March 2025 Tuesday.md",
     "Journal/3 March 2025 Monday.md",
     "Journal/2 March 2025 Sunday.md",
@@ -242,8 +258,6 @@
     "0-inbox/Run2 X->HY->4b.md",
     "Output/ProgressReports/ProgressReport 28 February 2025.md",
     "0-inbox/Nietzsche's Genealogy of Morality Explained.md",
-    "0-inbox/Migrate hemisphere mixing to python.md",
-    "0-inbox/Mass of jets is not invariant.md",
     "Input/Meetings/February",
     "Input/Meetings/January",
     "Input/Meetings/2024/December",

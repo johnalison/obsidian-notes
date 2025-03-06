@@ -33,10 +33,11 @@
 - [x] Follow up on Institutional review
 - [x] Another Look at L2 comments
 - [ ] Fermilab Access
-- [ ] Setup for Chance
-	- [ ] Get him set up with [[Boosted Synthetic Data]]
+- [x] Setup for Chance
+	- [x] Get him set up with [[Boosted Synthetic Data]]
 - [ ]  Read for [[ARC TOP-24-006 3 top production]]
 - [ ] Hemisphere plots 
+- [ ] CutFlow for Marina
 - [ ] Push AN 
 ---
 
@@ -54,6 +55,13 @@ M&T to school
 - NanoAOD content https://cms-nanoaod-integration.web.cern.ch/autoDoc/
 - Testing with
 	- `python runner.py -t  -o signal_HH4b_nano.coffea -d GluGluToHHTo4B_cHHH1  -p analysis/processors/processor_boosted_HH4b.py -y UL18  -op output/analysis_test_job -m metadata/datasets_HH4b.yml -c analysis/metadata/HH4b_nano.yml`
+- Added function to write boosted output 
+- Running on all UL18
+	- ` python runner.py  -o signal_BoostedHH4b_nano.coffea -d GluGluToHHTo4B_cHHH1  -p analysis/processors/processor_boosted_HH4b.py -y UL18  -op output/analysis_test_job -m metadata/datasets_HH4b.yml -c analysis/metadata/HH4b_nano.yml`
+- Example script for reading the output
+	- `python analysis/readBoostedSyntheticEvents.py output/analysis_test_job/signal_BoostedHH4b_nano.coffea`
+- Sent mail to Chance
+
 
 # Review [[Run2 HH4b AN]]
 - need hemiplots and new data
