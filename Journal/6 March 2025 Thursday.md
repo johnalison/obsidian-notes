@@ -1,22 +1,22 @@
 
-|     | setup |     |
-| --- | ----- | --- |
-| 9   |       |     |
-|     |       |     |
-| 10  | FBC2  |     |
-|     | FBC2  |     |
-| 11  |       |     |
-|     |       |     |
-| 12  |       |     |
-|     |       |     |
-| 1   |       |     |
-|     |       |     |
-| 2   |       |     |
-|     |       |     |
-| 3   |       |     |
-|     |       |     |
-| 4   |       |     |
-|     |       |     |
+|     | setup                      |     |
+| --- | -------------------------- | --- |
+| 9   | [[Run2 HH4b AN]]           |     |
+|     |                            |     |
+| 10  | FBC2                       |     |
+|     | FBC2                       |     |
+| 11  | [[Boosted Synthetic Data]] |     |
+|     | [[Boosted Synthetic Data]] |     |
+| 12  | Gym                        |     |
+|     | Gym                        |     |
+| 1   | Gym                        |     |
+|     | [[Boosted Synthetic Data]] |     |
+| 2   | [[Boosted Synthetic Data]] |     |
+|     | Bootstrapping w/chatGPT    |     |
+| 3   | Bootstrapping w/chatGPT    |     |
+|     | Bootstrapping w/chatGPT    |     |
+| 4   | Send comments              |     |
+|     |                            |     |
 
 **W:**
 **DW:**
@@ -25,7 +25,8 @@
 
 ---
 # The ONE thing: 
-- [ ] Setup  [[Boosted Synthetic Data]]
+- [x] Setup  [[Boosted Synthetic Data]]
+- [ ] Close on [[Run2 HH4b AN]]
 
 ---
 # To Do
@@ -37,8 +38,8 @@
 	- [x] Get him set up with [[Boosted Synthetic Data]]
 - [ ]  Read for [[ARC TOP-24-006 3 top production]]
 - [ ] Hemisphere plots 
-- [ ] CutFlow for Marina
-- [ ] Push AN 
+- [ ] CutFlow for Marina Make Run3 CR cut and make a print of event/run numbers
+- [ ] Close on AN
 ---
 
 # Log
@@ -74,11 +75,12 @@ M&T to school
 - histogram
 - fluctuate weights compare RMS to sqrt(N)
 - Try gpt research
-- 
+- - https://chatgpt.com/share/67ca07cf-c244-8000-9849-351c50521fe1
+- /Users/johnda/CMSWork/hh4b/StatToy
 
 
 # FBC2
-- [ ] Make Run3 CR cut and make a print of event/run numbers
+- [<<] Make Run3 CR cut and make a print of event/run numbers
 
 
 Chat AE re:boosted
@@ -92,7 +94,8 @@ https://cms-nanoaod-integration.web.cern.ch/autoDoc/
 More [[Boosted Synthetic Data]]
 
 
-# Playing with ChatGPT 4.5
-- https://chatgpt.com/share/67ca07cf-c244-8000-9849-351c50521fe1
-- /Users/johnda/CMSWork/hh4b/StatToy
-- 
+# Bootstrapping with ChatGPT 4.5
+- See above
+
+Sent Comments on [[Institutional Review HL-LHC Projections HIG-25-002]]
+
