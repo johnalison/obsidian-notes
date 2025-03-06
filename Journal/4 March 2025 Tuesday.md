@@ -36,8 +36,8 @@
 - [>>] Read for [[ARC TOP-24-006 3 top production]]
 - [ ] Do  [[DOE Review Li Zepeng]] (**Due Date:** 03/19/2025)
 - [>>] Give make up lecture
-- [ ] Setup for Chance
-	- [ ] Get him set up with [[Boosted Synthetic Data]]
+- [>>] Setup for Chance
+	- [>>] Get him set up with [[Boosted Synthetic Data]]
 - [x] Think about new pdfs
 - [>>] Merge Master
 ---
@@ -60,7 +60,7 @@ To Campus
 # Chat [[Wesley Terrill]]
 - Run-3 Training : see difference wrt Run-2
 - Setback on the limits: bug
-	- 3hr for 
+	- 3hr for single mass point!
 - Debugging ROOT plots
 - HGCAL paper: implemented systematics
 	- Lina Diehl (CERN Fellow filling in for Eva)
@@ -97,7 +97,6 @@ Merged master... need to update Run3 cutflows
 - `python  jet_clustering/make_jet_splitting_PDFs.py output/synthetic_dataset_cluster/synthetic_datasets_Run3_wRotatedMass.coffea  --years Run3   --out jet_clustering/jet-splitting-PDFs-00-09-02
 - Making v9 with  00-09-02 PDFs on **cmslpc341**
 
-`
 
 # [[HGCManagementMeeting 4 March 2025]]
 

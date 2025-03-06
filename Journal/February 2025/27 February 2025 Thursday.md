@@ -76,7 +76,7 @@ SvB Now Flat !!!
 - [>>] Visiting weekend March 14-15th
 - [x] Ping Gillian re:HGC Lab
 	- [[Ad for Lab tech]] 
-- (Signed Marlo up for Basketball on Thursdays
+- (Signed Marlo up for Basketball on Thursdays)
 - Are we being too passive ?
 
 

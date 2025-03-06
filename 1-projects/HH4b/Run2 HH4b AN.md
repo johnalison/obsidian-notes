@@ -4,12 +4,13 @@ Twiki: https://twiki.cern.ch/twiki/bin/view/CMSPublic/Run2HH4b
 
 
 # Figure Updates from L2
-- [ ] fig5 plots for the other signal samples.
+- [x] fig5 plots for the other signal samples.
 	- Probably need a way of making 2-8 in new code
-- [ ] fig 9 split by year
+- [x] fig 9 split by year
 - [x] 1D mass projections of SR and SB
 - [x] Add chuyuan's studies in an appendix
 - [ ] Fig. 51 (hemisphere summary variables): for different jet bins
+- [ ] Fig 53: NN vs other hemisphere in the event
 - [x] Add regions to fig 69 and 70
 - [x] Add SvB for ZZ and ZH in the SR
 

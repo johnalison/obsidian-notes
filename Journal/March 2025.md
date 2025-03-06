@@ -4,7 +4,7 @@
 | 2  S | Reading / Watch ARC pre-approval / **Gym/SR** / Reading                   |       |
 | 3  M | (SP) Review / **Hoops/SR** / Fix Run3 Calib / Start ARC / **Noodle Head** | 6/5/1 |
 | 4  T | (RI) [[Run3 Synthetic Data]] v8 / Lunch AE and Peter / Statusing          | 7/3/1 |
-| 5  W | (NG)                                                                      |       |
+| 5  W | (NG) slow day / **Hoops** / Makeup lecture / Chat Olivito                 | 5/2/2 |
 | 6  H | (BR)                                                                      |       |
 | 7  F | EAK) (No Cyert)                                                           |       |
 | 8  S |                                                                           |       |

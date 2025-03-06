@@ -69,8 +69,7 @@ Read [[Institutional Review HL-LHC Projections HIG-25-002]]
 - [x] Fix code
 - [x] Verify pts in event Marina sent
 - [x] Remake PDFs
-- Remake mixed cccccbctiudrnvkjrldfclhvrlnghhvrvdtftbhrfncd
-- data
+- Remake mixed data
 - Testing
 	- `time python runner.py -t -o synthetic_data_Run3_v6_debug_seedXXX.coffea -d synthetic_data data -p analysis/processors/processor_HH4b.py -y 2022_preEE   -op output/synthetic_dataset_analyze_all -c analysis/metadata/HH4b_run_fastTopReco.yml -m metadata/datasets_HH4b_Run3_fourTag_v6.yml `
  - Fix looks good
