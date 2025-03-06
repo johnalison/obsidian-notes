@@ -52,6 +52,8 @@ M&T to school
 - Nanos failing on rucio... Nano not avilible on LPC, needed to add MIT
 	- [[dasgoclient]]
 - NanoAOD content https://cms-nanoaod-integration.web.cern.ch/autoDoc/
+- Testing with
+	- `python runner.py -t  -o signal_HH4b_nano.coffea -d GluGluToHHTo4B_cHHH1  -p analysis/processors/processor_boosted_HH4b.py -y UL18  -op output/analysis_test_job -m metadata/datasets_HH4b.yml -c analysis/metadata/HH4b_nano.yml`
 
 # Review [[Run2 HH4b AN]]
 - need hemiplots and new data
@@ -63,11 +65,20 @@ M&T to school
 - Toy mixed dataset, 
 - histogram
 - fluctuate weights compare RMS to sqrt(N)
+- Try gpt research
+- 
 
 
 # FBC2
-- Make Run3 CR cut and make a print of event/run numbers
+- [ ] Make Run3 CR cut and make a print of event/run numbers
 
 
 Chat AE re:boosted
 https://cms-nanoaod-integration.web.cern.ch/autoDoc/
+
+# Gym/Steamroom
+- Core / 3 Supersets
+- close-grip bench - Dead lifts / incline dumbbell - rows / lunges - front raises
+- 10' at Tmax = 124
+
+More [[Boosted Synthetic Data]]
