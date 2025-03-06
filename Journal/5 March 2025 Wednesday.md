@@ -84,3 +84,12 @@ Planning [[Boosted Synthetic Data]]
 - https://indico.cern.ch/event/1519574/
 
 Chat MP
+
+Notes
+
+Home with the kids.
+
+Some [[I See Satan Fall Like Lightning]]
+Some [[Fly By Night Physics]]
+
+# Chat Olivito

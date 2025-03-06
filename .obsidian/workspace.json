@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/March 2025.md",
+                "file": "Journal/February 2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "March 2025"
+              "title": "February 2025"
             }
           },
           {
@@ -219,6 +219,9 @@
   },
   "active": "6815f89f80d8a836",
   "lastOpenFiles": [
+    "Journal/February 2025.md",
+    "Journal/March 2025.md",
+    "Journal/5 March 2025 Wednesday.md",
     "0-inbox/UndergradProjects.md",
     "2-areas/CMS/ARC TOP-24-006 3 top production.md",
     "0-inbox/Universal Inference.md",
@@ -234,7 +237,6 @@
     "0-inbox/HH at future colliders.md",
     "0-inbox/HGC TDR.md",
     "0-inbox/Evolution of Silicon Sensor Technology in Particle Physics.md",
-    "Journal/5 March 2025 Wednesday.md",
     "Input/Meetings/HGCManagementMeeting 4 March 2025.md",
     "0-inbox/Existence Is Evidence of Immortality.md",
     "2-areas/Mentoring/Dylan Kang.md",
@@ -243,8 +245,6 @@
     "2-areas/Mentoring/Chance Lavoie.md",
     "1-projects/Mixed2.0/Boosted Synthetic Data.md",
     "0-inbox/Ann Arbor Trip 2025.md",
-    "0-inbox/AnalysesOverview.excalidraw.md",
-    "1-projects/Mixed2.0/Jet DeClustering.md",
     "Input/Meetings/February",
     "Input/Meetings/January",
     "Input/Meetings/2024/December",
