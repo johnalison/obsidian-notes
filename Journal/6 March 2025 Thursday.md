@@ -90,3 +90,7 @@ https://cms-nanoaod-integration.web.cern.ch/autoDoc/
 - 10' at Tmax = 124
 
 More [[Boosted Synthetic Data]]
+
+
+Playing with ChatGPT 4.5
+https://chatgpt.com/share/67ca07cf-c244-8000-9849-351c50521fe1
