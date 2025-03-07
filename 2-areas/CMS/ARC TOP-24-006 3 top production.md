@@ -8,7 +8,20 @@ https://cms.cern.ch/iCMS/analysisadmin/cadi?ancode=TOP-24-006
 Questions: 
 - "Validation of the data and Monte Carlo agreement for the DNN discriminator score is done in a completely orthogonal phase space to the signal extraction region." What the the score look like the validation region vs the extraction region ?
 
-Read up to section 5.2 p38
+SS and ML:
+- 769. 3 or more leptons, the event is vetoed if all three leptons have the same charge
+	- Do you use these events to check the charge mis-id?
+	
+- Would be good to have total RunII histograms, split by year is nice to have, but also good to see the modeling with higher stats.
+- L840: "If good agreement is found in the ttZ control region, we can demonstrate that the BDT used for signal extraction isn’t over-trained and/or displaying odd behaviors."
+	- Can give a plot comparing the background BDT distributions in the ttZ to the SR ? How similar are they ? Do the most sensitive BDT bins in the SR have reasonably statistics in the ttZ CR ?
+
+Skipping: 6.1- 
+
+
+
+
+
 # Paper Draft
 v0
 L2 why not mention 3t + b as well?
