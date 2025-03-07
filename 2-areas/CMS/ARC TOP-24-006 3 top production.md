@@ -1,5 +1,24 @@
 https://cms.cern.ch/iCMS/analysisadmin/cadi?ancode=TOP-24-006
 
+Dear Authors, 
+
+  Here is a first round of ARC comments focusing on SS and ML analysis on ANv5.
+
+ - Its nice to see all the distributions split by era, however I think its also worth having the combined Run2 distributions to be able to judge the modeling with higher statistics.
+- Are the same BDT inputs used for the ML and SS events ?
+-  L840: "If good agreement is found in the ttZ control region, we can demonstrate that the BDT used for signal extraction isn’t over-trained and/or displaying odd behaviors."
+	- From comparing Figures 27 and 28, it seems like there are far fewer statistics in the ttZ CR in the relevant BDT bins than in the SR (>0.6). How does the observed modeling of the ttZ CR validate the BDT in the most sensitive SR bins  ?  
+	
+- Figure 27: Can you make a combined plot for all years, and compute teh χ2 / DoF ?
+- Figure 28: 
+	- How was the binning determined ?  
+	- Would be good to unblind below 0.5 in the SR to check the background modeling.  (Should be OK to unblind given the small S/B.)
+	- Again for the hT in the last row, can you compute a χ2/Dof for combined plot ?
+Section 7: 
+- In the begining of section can you provide a summary of the the big picture to guide the reader.  Eg: How does the total systematic uncertainty compare with the statistical uncertainty ? Which systematics uncertainties dominate the total ? 
+
+john
+
 # AN v5
 
 - L 726: Why not 3 or more ? to kill ttbar
