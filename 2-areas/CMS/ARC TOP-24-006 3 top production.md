@@ -8,13 +8,27 @@ https://cms.cern.ch/iCMS/analysisadmin/cadi?ancode=TOP-24-006
 Questions: 
 - "Validation of the data and Monte Carlo agreement for the DNN discriminator score is done in a completely orthogonal phase space to the signal extraction region." What the the score look like the validation region vs the extraction region ?
 
+
 SS and ML:
 - 769. 3 or more leptons, the event is vetoed if all three leptons have the same charge
-	- Do you use these events to check the charge mis-id?
+	- Do you use these events to check the fakes / charge mis-id?
 	
 - Would be good to have total RunII histograms, split by year is nice to have, but also good to see the modeling with higher stats.
 - L840: "If good agreement is found in the ttZ control region, we can demonstrate that the BDT used for signal extraction isn’t over-trained and/or displaying odd behaviors."
 	- Can give a plot comparing the background BDT distributions in the ttZ to the SR ? How similar are they ? Do the most sensitive BDT bins in the SR have reasonably statistics in the ttZ CR ?
+		- Seems like there are far few stats in the ttZ CR in the releavent BDT bins than in the SR. How can the modelling be used to extrapolate to the SR ? 
+- 4top BDT to train four top as the signal and all samples (including the three top signal and other backgrounds) as the background.
+- After the 4top control reigon is defined, all events in the 4top CR are removed and the second, 3top is trainied with 3top as the signal and the other samples (excluding 4top) as the background
+- Are the same BDT inputs used for the ML and SS events ?
+- Figure 27: Can you make a combined plot for all years, and compute teh χ2 / Dof ?
+- Figure 28: 
+	- How was the binning determined ?  
+	- Would be good to unblind below 0.5 in the SR to check the background modeling. 
+	- Again for the hT in the last row, can you compute a χ2/Dof for combined plot ?
+Sections 7: 
+- In the begining of section can you provide a summary of the the big picture.  Eg: how does the total systematic uncertianty compare to the statistical uncertianty ? Which systematics uncertianties dominate the total ? 
+
+
 
 Skipping: 6.1- 
 
