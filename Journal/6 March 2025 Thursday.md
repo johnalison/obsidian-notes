@@ -1,22 +1,22 @@
 
-|     | setup                      |     |
-| --- | -------------------------- | --- |
-| 9   | [[Run2 HH4b AN]]           |     |
-|     |                            |     |
-| 10  | FBC2                       |     |
-|     | FBC2                       |     |
-| 11  | [[Boosted Synthetic Data]] |     |
-|     | [[Boosted Synthetic Data]] |     |
-| 12  | Gym                        |     |
-|     | Gym                        |     |
-| 1   | Gym                        |     |
-|     | [[Boosted Synthetic Data]] |     |
-| 2   | [[Boosted Synthetic Data]] |     |
-|     | Bootstrapping w/chatGPT    |     |
-| 3   | Bootstrapping w/chatGPT    |     |
-|     | Bootstrapping w/chatGPT    |     |
-| 4   | Send comments              |     |
-|     |                            |     |
+|     | setup                                                              |     |
+| --- | ------------------------------------------------------------------ | --- |
+| 9   | [[Run2 HH4b AN]]                                                   |     |
+|     | Thinking re:Boostrapping                                           |     |
+| 10  | FBC2                                                               |     |
+|     | FBC2                                                               |     |
+| 11  | [[Boosted Synthetic Data]]                                         |     |
+|     | [[Boosted Synthetic Data]]                                         |     |
+| 12  | Gym                                                                |     |
+|     | Gym                                                                |     |
+| 1   | Gym                                                                |     |
+|     | [[Boosted Synthetic Data]]                                         |     |
+| 2   | [[Boosted Synthetic Data]]                                         |     |
+|     | Bootstrapping w/chatGPT                                            |     |
+| 3   | Bootstrapping w/chatGPT                                            |     |
+|     | Bootstrapping w/chatGPT                                            |     |
+| 4   | Comments on [[Institutional Review HL-LHC Projections HIG-25-002]] |     |
+|     | show AE yaml plotting                                              |     |
 
 **W:**
 **DW:**
@@ -39,7 +39,8 @@
 - [ ]  Read for [[ARC TOP-24-006 3 top production]]
 - [ ] Hemisphere plots 
 - [ ] CutFlow for Marina Make Run3 CR cut and make a print of event/run numbers
-- [ ] Close on AN
+- [x] Close on AN
+- [ ] Mail to L2s re:[[Run2 HH4b AN]]
 ---
 
 # Log
@@ -64,8 +65,9 @@ M&T to school
 - Sent mail to Chance
 
 
-# Review [[Run2 HH4b AN]]
+#  [[Run2 HH4b AN]]
 - need hemiplots and new data
+- Finished L2 comments... AE will push to website
 
 # Thinking about bootstrapping to get statistical uncertainties on a histogram
 - Toy data weights one.
@@ -98,4 +100,6 @@ More [[Boosted Synthetic Data]]
 - See above
 
 Sent Comments on [[Institutional Review HL-LHC Projections HIG-25-002]]
+
+More [[Run2 HH4b AN]]
 

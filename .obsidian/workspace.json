@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": " ",
+                "query": " yaml",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -232,8 +232,10 @@
   },
   "active": "6815f89f80d8a836",
   "lastOpenFiles": [
-    "Journal/March 2025.md",
+    "Journal/2024/November/28 November 2024 Thursday.md",
+    "Journal/2024/November/27 November 2024 Wednesday.md",
     "Journal/6 March 2025 Thursday.md",
+    "Journal/March 2025.md",
     "1-projects/Mixed2.0/Boosted Synthetic Data.md",
     "1-projects/HH4b/Hbb Reclustering Project.md",
     "2-areas/Mentoring/Tony Boyle.md",
@@ -256,8 +258,6 @@
     "0-inbox/Tool List.md",
     "0-inbox/StartupSpending.md",
     "0-inbox/Run2 X->HY->4b.md",
-    "Output/ProgressReports/ProgressReport 28 February 2025.md",
-    "0-inbox/Nietzsche's Genealogy of Morality Explained.md",
     "Input/Meetings/February",
     "Input/Meetings/January",
     "Input/Meetings/2024/December",
