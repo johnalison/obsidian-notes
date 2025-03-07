@@ -34,7 +34,7 @@
 - [x] Fill [[CAM Turnaround Report]] by March 6th
 - [x] Think about migrating hemisphere mixing to python ? 
 - [>>] Read for [[ARC TOP-24-006 3 top production]]
-- [ ] Do  [[DOE Review Li Zepeng]] (**Due Date:** 03/19/2025)
+- [>>] Do  [[DOE Review Li Zepeng]] (**Due Date:** 03/19/2025)
 - [>>] Give make up lecture
 - [>>] Setup for Chance
 	- [>>] Get him set up with [[Boosted Synthetic Data]]
@@ -58,7 +58,7 @@ To Campus
  [[Migrate hemisphere mixing to python]] [>>] ([[UndergradProjects]])
 
 # Chat [[Wesley Terrill]]
-- Run-3 Training : see difference wrt Run-2
+- Run-3 low-pt electron Training : see difference wrt Run-2
 - Setback on the limits: bug
 	- 3hr for single mass point!
 - Debugging ROOT plots

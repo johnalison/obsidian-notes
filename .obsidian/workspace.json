@@ -13,40 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/6 March 2025 Thursday.md",
+                "file": "Journal/7 March 2025 Friday.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "6 March 2025 Thursday"
-            }
-          },
-          {
-            "id": "df7c35963996d711",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-projects/Mixed2.0/Boosted Synthetic Data.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Boosted Synthetic Data"
-            }
-          },
-          {
-            "id": "7c3c3f51c8b5d404",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-projects/HH4b/Hbb Reclustering Project.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Hbb Reclustering Project"
+              "title": "7 March 2025 Friday"
             }
           },
           {
@@ -61,6 +33,20 @@
               },
               "icon": "lucide-file",
               "title": "March 2025"
+            }
+          },
+          {
+            "id": "7c3c3f51c8b5d404",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Journal/7 March 2025 Friday.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "7 March 2025 Friday"
             }
           },
           {
@@ -96,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": " yaml",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -129,7 +115,8 @@
               "title": "Files"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -149,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/6 March 2025 Thursday.md",
+                "file": "Journal/7 March 2025 Friday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +146,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 6 March 2025 Thursday"
+              "title": "Backlinks for 7 March 2025 Friday"
             }
           },
           {
@@ -168,12 +155,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/6 March 2025 Thursday.md",
+                "file": "Journal/7 March 2025 Friday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 6 March 2025 Thursday"
+              "title": "Outgoing links from 7 March 2025 Friday"
             }
           },
           {
@@ -195,10 +182,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/6 March 2025 Thursday.md"
+                "file": "Journal/7 March 2025 Friday.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 6 March 2025 Thursday"
+              "title": "Outline of 7 March 2025 Friday"
             }
           },
           {
@@ -232,32 +219,32 @@
   },
   "active": "6815f89f80d8a836",
   "lastOpenFiles": [
-    "Journal/2024/November/28 November 2024 Thursday.md",
-    "Journal/2024/November/27 November 2024 Wednesday.md",
     "Journal/6 March 2025 Thursday.md",
-    "Journal/March 2025.md",
-    "1-projects/Mixed2.0/Boosted Synthetic Data.md",
-    "1-projects/HH4b/Hbb Reclustering Project.md",
-    "2-areas/Mentoring/Tony Boyle.md",
-    "2-areas/CMS/dasgoclient.md",
-    "2-areas/CMS/CMSSWNotes.md",
-    "1-projects/HH4b/Run2 HH4b AN.md",
+    "Journal/7 March 2025 Friday.md",
+    "Journal/Future Log.md",
+    "0-inbox/FNAL Site Access.md",
     "Journal/5 March 2025 Wednesday.md",
+    "Journal/February 2025/27 February 2025 Thursday.md",
+    "Journal/March 2025.md",
+    "1-projects/HH4b/Run2 HH4b AN.md",
     "Journal/4 March 2025 Tuesday.md",
     "Journal/3 March 2025 Monday.md",
     "Journal/2 March 2025 Sunday.md",
     "Journal/1 March 2025 Saturday.md",
     "Journal/February 2025/28 February 2025 Friday.md",
-    "Journal/February 2025/27 February 2025 Thursday.md",
+    "1-projects/HH4b/Hbb Reclustering Project.md",
+    "Journal/January 2025/28 January 2025 Tuesday.md",
+    "Journal/2024/November/28 November 2024 Thursday.md",
+    "Journal/2024/November/27 November 2024 Wednesday.md",
+    "1-projects/Mixed2.0/Boosted Synthetic Data.md",
+    "2-areas/Mentoring/Tony Boyle.md",
+    "2-areas/CMS/dasgoclient.md",
+    "2-areas/CMS/CMSSWNotes.md",
     "0-inbox/Institutional Review HL-LHC Projections HIG-25-002.md",
     "Journal/February 2025.md",
     "0-inbox/UndergradProjects.md",
     "2-areas/CMS/ARC TOP-24-006 3 top production.md",
     "0-inbox/Universal Inference.md",
-    "0-inbox/Tree Stump.md",
-    "0-inbox/Tool List.md",
-    "0-inbox/StartupSpending.md",
-    "0-inbox/Run2 X->HY->4b.md",
     "Input/Meetings/February",
     "Input/Meetings/January",
     "Input/Meetings/2024/December",

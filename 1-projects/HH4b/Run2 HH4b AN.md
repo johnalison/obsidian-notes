@@ -24,7 +24,7 @@ Twiki: https://twiki.cern.ch/twiki/bin/view/CMSPublic/Run2HH4b
 
 Towards v4
 - [ ] Update nominal background for k-folding
-- [ ] cutflow hists
+- [x] cutflow hists
 - [x] Try new SvB classifier for kλ
 - [ ]  Redo plots with new JCM ?
 - [ ] Re do FvT fits with new code
@@ -46,6 +46,12 @@ Towards v4
 - `python  analysis/makePlotsAN_noFvT_muQCD.py hists/ANv3/histAll_noFvT.coffea --out hists/ANv3/plots_noFvT_muQCD -m analysis/metadata/plotsAllNoFvT_muQCD.yml`
 
 # Daily Logs
+
+
+## [[3 March 2025 Monday]]
+- [x] Check with AE re:template uncertainties 
+- AE sees limits get worse with flat binning.... debugging... <font color=red> Fixed </font>
+- Just hemisphere plots lefts to do
 
 ## [[Journal/28 February 2025 Friday|28 February 2025 Friday]]
 

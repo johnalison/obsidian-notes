@@ -18,10 +18,10 @@
 | 4   | Comments on [[Institutional Review HL-LHC Projections HIG-25-002]] |     |
 |     | show AE yaml plotting                                              |     |
 
-**W:**
-**DW:**
-**OT:**
-**ex** or **No ex**
+**W:** 7 
+**DW:** 4
+**OT:** 2
+**ex** 
 
 ---
 # The ONE thing: 
@@ -33,14 +33,14 @@
 
 - [x] Follow up on Institutional review
 - [x] Another Look at L2 comments
-- [ ] Fermilab Access
+- [>>] Fermilab Access
 - [x] Setup for Chance
 	- [x] Get him set up with [[Boosted Synthetic Data]]
-- [ ]  Read for [[ARC TOP-24-006 3 top production]]
-- [ ] Hemisphere plots 
-- [ ] CutFlow for Marina Make Run3 CR cut and make a print of event/run numbers
+- [>>]  Read for [[ARC TOP-24-006 3 top production]]
+- [>>] Hemisphere plots 
+- [>>] CutFlow for Marina Make Run3 CR cut and make a print of event/run numbers
 - [x] Close on AN
-- [ ] Mail to L2s re:[[Run2 HH4b AN]]
+- [>>] Mail to L2s re:[[Run2 HH4b AN]]
 ---
 
 # Log
@@ -51,7 +51,6 @@ M&T to school
 
 # Setting up [[Boosted Synthetic Data]]
 - filter boosted fourvectors
-- Setup on rogue
 - Nanos failing on rucio... Nano not avilible on LPC, needed to add MIT
 	- [[dasgoclient]]
 - NanoAOD content https://cms-nanoaod-integration.web.cern.ch/autoDoc/
@@ -84,7 +83,6 @@ M&T to school
 # FBC2
 - [<<] Make Run3 CR cut and make a print of event/run numbers
 
-
 Chat AE re:boosted
 https://cms-nanoaod-integration.web.cern.ch/autoDoc/
 
@@ -102,4 +100,13 @@ More [[Boosted Synthetic Data]]
 Sent Comments on [[Institutional Review HL-LHC Projections HIG-25-002]]
 
 More [[Run2 HH4b AN]]
+
+Home
+
+Draft mail to L2s
+
+Some [[For a new Liberty]]
+
+Great AI Discussion:
+https://www.youtube.com/watch?v=H1ztOoADp7M&t=118s
 

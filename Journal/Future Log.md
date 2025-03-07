@@ -17,13 +17,13 @@
 
 
 # April 
-
+- [ ] 23-25 To Fermilab 
 
 # May 
 
 
 # June
-
+- [ ] Review 3rd-6th in FNAL
 
 
 

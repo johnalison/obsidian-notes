@@ -59,14 +59,12 @@ Merging master
 # HHbbWW
 - Not much ... lots of nubies
 
-
 # Hoops
 - 4s and 5s 
 - Weak Steamroom 
 
-Need FNAL Access
-- Dee Hahn as Fermilab Point of Contact.
-- location WH 11X
+Need [[FNAL Site Access]]
+
 
 # Gave Make up Lecture
 - [x] Post Lecture
