@@ -82,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "eero",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -218,8 +218,10 @@
   },
   "active": "6815f89f80d8a836",
   "lastOpenFiles": [
-    "0-inbox/CMU CMS Webpage.md",
+    "3-resources/computing/eero reset protocol.md",
+    "Journal/2024/November/14 November 2024 Thursday.md",
     "Journal/7 March 2025 Friday.md",
+    "0-inbox/CMU CMS Webpage.md",
     "2-areas/CMS/ARC TOP-24-006 3 top production.md",
     "0-inbox/FNAL Site Access.md",
     "Input/Books/Books.md",
@@ -242,8 +244,6 @@
     "1-projects/Mixed2.0/Boosted Synthetic Data.md",
     "2-areas/Mentoring/Tony Boyle.md",
     "2-areas/CMS/dasgoclient.md",
-    "2-areas/CMS/CMSSWNotes.md",
-    "0-inbox/Institutional Review HL-LHC Projections HIG-25-002.md",
     "Input/Meetings/February",
     "Input/Meetings/January",
     "Input/Meetings/2024/December",

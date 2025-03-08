@@ -40,3 +40,9 @@ Wrote up comments for [[ARC TOP-24-006 3 top production]]
 Start ToAdd in [[CMU CMS Webpage]]
 
 Some [[For a new Liberty]]
+
+Some Boostrapping Statistical 
+- split dataset creation and study
+
+Got 1/2 off of my xfinity! 
+- Had to run the [[eero reset protocol]]
