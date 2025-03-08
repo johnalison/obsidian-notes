@@ -7,7 +7,7 @@ Home with the Kids
 - [x] FNAL Site Access
 - [ ] Do  [[DOE Review Li Zepeng]] (**Due Date:** 03/19/2025)
 - [x] Close on [[Run2 HH4b AN]]
-- [ ] Read for [[ARC TOP-24-006 3 top production]]
+- [x] Read for [[ARC TOP-24-006 3 top production]]
 - [ ] Hemisphere plots 
 - [ ] CutFlow for Marina Make Run3 CR cut and make a print of event/run numbers
 ---
@@ -35,4 +35,6 @@ Sent AN v6 and L2 comments
 Reading [[Fly By Night Physics]]
 Some [[I See Satan Fall Like Lightning]]
 
-[[ARC TOP-24-006 3 top production]]
+Wrote up comments for [[ARC TOP-24-006 3 top production]]
+
+Start ToAdd in [[CMU CMS Webpage]]
