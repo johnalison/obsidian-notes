@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/7 March 2025 Friday.md",
+                "file": "Journal/8 March 2025 Saturday.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7 March 2025 Friday"
+              "title": "8 March 2025 Saturday"
             }
           },
           {
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/7 March 2025 Friday.md",
+                "file": "Journal/8 March 2025 Saturday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 7 March 2025 Friday"
+              "title": "Backlinks for 8 March 2025 Saturday"
             }
           },
           {
@@ -154,12 +154,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/7 March 2025 Friday.md",
+                "file": "Journal/8 March 2025 Saturday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 7 March 2025 Friday"
+              "title": "Outgoing links from 8 March 2025 Saturday"
             }
           },
           {
@@ -181,10 +181,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/7 March 2025 Friday.md"
+                "file": "Journal/8 March 2025 Saturday.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 7 March 2025 Friday"
+              "title": "Outline of 8 March 2025 Saturday"
             }
           },
           {
@@ -218,9 +218,10 @@
   },
   "active": "6815f89f80d8a836",
   "lastOpenFiles": [
+    "Journal/7 March 2025 Friday.md",
+    "Journal/8 March 2025 Saturday.md",
     "3-resources/computing/eero reset protocol.md",
     "Journal/2024/November/14 November 2024 Thursday.md",
-    "Journal/7 March 2025 Friday.md",
     "0-inbox/CMU CMS Webpage.md",
     "2-areas/CMS/ARC TOP-24-006 3 top production.md",
     "0-inbox/FNAL Site Access.md",
@@ -243,7 +244,6 @@
     "Journal/2024/November/27 November 2024 Wednesday.md",
     "1-projects/Mixed2.0/Boosted Synthetic Data.md",
     "2-areas/Mentoring/Tony Boyle.md",
-    "2-areas/CMS/dasgoclient.md",
     "Input/Meetings/February",
     "Input/Meetings/January",
     "Input/Meetings/2024/December",

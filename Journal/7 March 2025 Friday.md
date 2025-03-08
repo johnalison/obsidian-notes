@@ -46,3 +46,6 @@ Some Boostrapping Statistical
 
 Got 1/2 off of my xfinity! 
 - Had to run the [[eero reset protocol]]
+
+More late night bootstrapping
+- [ ] Write it up
