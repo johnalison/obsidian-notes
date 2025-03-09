@@ -7,6 +7,27 @@
 	- [ ] Can we recover soft-drop mass from leading two subjets ?
 - script to plot mass in coffea code
 
+# N-subjettiness
+
+**τ1,τ2,τ3,τ4**: These variables measure how well a jet can be described by 1, 2, 3, or 4 subjets, respectively. Lower values indicate a better fit to the corresponding number of subjets.
+
+- **τ21= frac{\tau_2}{\tau_1}**
+    Measures how much more the jet looks like a 2-prong structure compared to a 1-prong structure.
+    
+- **τ32=\frac{\tau_3}{\tau_2}**
+    Measures how much more the jet resembles a 3-prong structure compared to a 2-prong structure.
+    
+
+### Interpretation:
+
+- **2-prong jets** (e.g., boosted W/Z bosons or Higgs to bb) usually have:
+    
+    - **Low τ21\tau_{21}τ21​**: because adding a second subjet significantly improves the description.
+    - **High τ32\tau_{32}τ32​**: since a third subjet adds little benefit.
+- **3-prong jets** (e.g., boosted top quarks) generally show:
+    
+    - **Low τ32\tau_{32}τ32​**: because adding a third subjet significantly improves jet description.
+    - Moderate-to-higher τ21\tau_{21}τ21​, since going from one subjet to two subjets is helpful, but the clearer signal is at three subjets.
 
 # 1st Mail
 

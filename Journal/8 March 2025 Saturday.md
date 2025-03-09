@@ -13,3 +13,7 @@ Some [[Fly By Night Physics]]
 
 Some [[I See Satan Fall Like Lightning]]
 
+[[Chance Lavoie]] back to me quick. 
+- Will look at msoftdrop 
+- tau21 and tau32
+- [[Boosted Synthetic Data]]

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/8 March 2025 Saturday.md",
+                "file": "1-projects/Mixed2.0/Boosted Synthetic Data.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "8 March 2025 Saturday"
+              "title": "Boosted Synthetic Data"
             }
           },
           {
@@ -115,7 +115,8 @@
               "title": "Files"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -135,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/8 March 2025 Saturday.md",
+                "file": "1-projects/Mixed2.0/Boosted Synthetic Data.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +146,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 8 March 2025 Saturday"
+              "title": "Backlinks for Boosted Synthetic Data"
             }
           },
           {
@@ -154,12 +155,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/8 March 2025 Saturday.md",
+                "file": "1-projects/Mixed2.0/Boosted Synthetic Data.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 8 March 2025 Saturday"
+              "title": "Outgoing links from Boosted Synthetic Data"
             }
           },
           {
@@ -181,10 +182,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/8 March 2025 Saturday.md"
+                "file": "1-projects/Mixed2.0/Boosted Synthetic Data.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 8 March 2025 Saturday"
+              "title": "Outline of Boosted Synthetic Data"
             }
           },
           {
@@ -218,8 +219,8 @@
   },
   "active": "6815f89f80d8a836",
   "lastOpenFiles": [
-    "Journal/7 March 2025 Friday.md",
     "Journal/8 March 2025 Saturday.md",
+    "Journal/7 March 2025 Friday.md",
     "3-resources/computing/eero reset protocol.md",
     "Journal/2024/November/14 November 2024 Thursday.md",
     "0-inbox/CMU CMS Webpage.md",
