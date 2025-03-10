@@ -27,6 +27,13 @@ Up at 9 (Spring Ahead)
 
 Got another set of L2 comments from Meng
 
+Some [[I See Satan Fall Like Lightning]]
+
+# Gym / Steamroom
+- core / 3 supersets
+- squats - pull-ups / clean - dips / front raises - stiff legged dead-lifts
+- 10' at Tmax = 123
+
 
 
 
