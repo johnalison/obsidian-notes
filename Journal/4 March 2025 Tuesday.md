@@ -47,10 +47,7 @@
 Up at 7
 
 # [[Run3 Synthetic Data]]
-- Testing v8 
-- Making histograms on **cmslpc334**
-- plots look good
-- Sent to marina
+- See above
 
 To Campus
 
@@ -58,15 +55,7 @@ To Campus
  [[Migrate hemisphere mixing to python]] [>>] ([[UndergradProjects]])
 
 # Chat [[Wesley Terrill]]
-- Run-3 low-pt electron Training : see difference wrt Run-2
-- Setback on the limits: bug
-	- 3hr for single mass point!
-- Debugging ROOT plots
-- HGCAL paper: implemented systematics
-	- Lina Diehl (CERN Fellow filling in for Eva)
-	- Pedro Silva 
-- Training and onboarding for Si-Lab
-- Chatting re:preparing seminar slides
+- See slides above
 
 # [[CMU HGC MAC Meeting 4 March 2025]]
 
@@ -86,17 +75,7 @@ Merged master... need to update Run3 cutflows
 
 
 # [[Jet DeClustering]]
-- Updating pdfs on **cmslpc341**
-- testing
-	`python -m unittest jet_clustering.tests.test_clustering.clusteringTestCase.test_declustering_bbjjets`
-- Working through logic to get rotations right
-- [>>] Add comments in the code
-- Making pdfs
-	- `python runner.py -o synthetic_datasets_Run3_wRotatedMass.coffea -d data  -p analysis/processors/processor_cluster_4b.py -y 2022_EE 2022_preEE 2023_BPix 2023_preBPix  -op output/synthetic_dataset_cluster  -m metadata/datasets_HH4b_Run3_fourTag_v3.yml -c analysis/metadata/cluster_4b_noTTSubtraction.yml --condor `
-- Making 00-09-02 PDFs [[Splitting PDF Archive]]
-- `python  jet_clustering/make_jet_splitting_PDFs.py output/synthetic_dataset_cluster/synthetic_datasets_Run3_wRotatedMass.coffea  --years Run3   --out jet_clustering/jet-splitting-PDFs-00-09-02
-- Making v9 with  00-09-02 PDFs on **cmslpc341**
-
+- see daily's above
 
 # [[HGCManagementMeeting 4 March 2025]]
 

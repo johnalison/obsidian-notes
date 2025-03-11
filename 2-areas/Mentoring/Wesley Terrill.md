@@ -15,6 +15,18 @@
 
 # Weekly Meetings 
 
+## [[4 March 2025 Tuesday]]
+- Run-3 low-pt electron Training : see difference wrt Run-2
+- Setback on the limits: bug
+	- 3hr for single mass point!
+- Debugging ROOT plots
+- HGCAL paper: implemented systematics
+	- Lina Diehl (CERN Fellow filling in for Eva)
+	- Pedro Silva 
+- Training and onboarding for Si-Lab
+- Chatting re:preparing seminar slides
+
+
 ## [[25 February 2025 Tuesday]]
 - Back March 26th, 
 - Fermilab Meeting:  April 2

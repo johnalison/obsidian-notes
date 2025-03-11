@@ -6,12 +6,12 @@ Visiting Michigan
 
 To airport 
 
-To Detrioit 
+# To Detrioit 
 - Some [[For a new Liberty]]
 
 Chat Herwig
 
-Chat 
+# Chats AM
 - Michael Schubnell
 - James Wells
 - Jianming Qian
@@ -20,6 +20,19 @@ Chat
 # Lunch 
 - Students
 
-Chats
+# Chats PM
+- Dan Amedeo 
+- Junjie
 
+# Seminar
+- Went OK 
+
+Drinks Herwig + Scott Haselschwardt
+
+# Dinner Herwig:
+- Chat AI
+- HL-LHC
+- What is worth doing
+
+Hotel
 

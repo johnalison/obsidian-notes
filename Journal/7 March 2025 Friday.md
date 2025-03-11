@@ -5,11 +5,11 @@ Home with the Kids
 # To Do
 
 - [x] FNAL Site Access
-- [ ] Do  [[DOE Review Li Zepeng]] (**Due Date:** 03/19/2025)
+- [>>] Do  [[DOE Review Li Zepeng]] (**Due Date:** 03/19/2025)
 - [x] Close on [[Run2 HH4b AN]]
 - [x] Read for [[ARC TOP-24-006 3 top production]]
-- [ ] Hemisphere plots 
-- [ ] CutFlow for Marina Make Run3 CR cut and make a print of event/run numbers
+- [>>] Hemisphere plots 
+- [>>] CutFlow for Marina Make Run3 CR cut and make a print of event/run numbers
 ---
 
 # Log
@@ -41,11 +41,11 @@ Start ToAdd in [[CMU CMS Webpage]]
 
 Some [[For a new Liberty]]
 
-Some Boostrapping Statistical 
+[[Bootstrapping Synthetic Data Stat Uncertainties]]
 - split dataset creation and study
 
 Got 1/2 off of my xfinity! 
 - Had to run the [[eero reset protocol]]
 
 More late night bootstrapping
-- [ ] Write it up
+- [>>] Write it up

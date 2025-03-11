@@ -6,6 +6,10 @@ Flight: Booked Ann Arbor Flight
 - 456.97USD
 
 Uber to Airport: 45.99
+Uber to Ann Arbor: 51.99
+
+Uber to Airport: 61.92
+Uber Home: 
 
 Hotel: 
 - room reservation for you at the Michigan League the night of Monday March 10.

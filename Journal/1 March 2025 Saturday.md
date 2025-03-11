@@ -9,7 +9,7 @@
 
 
 # Review Feb:
-- [ ] Call Liberty mutual re:tree down
+- [>>] Call Liberty mutual re:tree down
 - [>>] Setup for Chance
 	- [>>] Get him set up with [[Boosted Synthetic Data]]
 - [>>] Work L2 Comments

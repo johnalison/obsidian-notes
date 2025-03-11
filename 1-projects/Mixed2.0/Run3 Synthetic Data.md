@@ -35,6 +35,11 @@ v4:
 
 # Daily Logs
 
+## [[4 March 2025 Tuesday]]
+-  Testing v8 
+- Making histograms on **cmslpc334**
+- plots look good
+- Sent to marina
 
 ## [[3 March 2025 Monday]]
 - Marina points out that we are applying the b-regression twice....

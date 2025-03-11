@@ -93,6 +93,19 @@ Getting the new mixing going
 
 # Daily Logs
 
+## [[4 March 2025 Tuesday]]
+- Updating pdfs on **cmslpc341**
+- testing
+	`python -m unittest jet_clustering.tests.test_clustering.clusteringTestCase.test_declustering_bbjjets`
+- Working through logic to get rotations right
+- [>>] Add comments in the code
+- Making pdfs
+	- `python runner.py -o synthetic_datasets_Run3_wRotatedMass.coffea -d data  -p analysis/processors/processor_cluster_4b.py -y 2022_EE 2022_preEE 2023_BPix 2023_preBPix  -op output/synthetic_dataset_cluster  -m metadata/datasets_HH4b_Run3_fourTag_v3.yml -c analysis/metadata/cluster_4b_noTTSubtraction.yml --condor `
+- Making 00-09-02 PDFs [[Splitting PDF Archive]]
+- `python  jet_clustering/make_jet_splitting_PDFs.py output/synthetic_dataset_cluster/synthetic_datasets_Run3_wRotatedMass.coffea  --years Run3   --out jet_clustering/jet-splitting-PDFs-00-09-02
+- Making v9 with  00-09-02 PDFs on **cmslpc341**
+
+
 ## [[24 February 2025 Monday]]
 Synthetic dataset presentations with new pdfs
 - `python  jet_clustering/compare_datasets.py  output/synthetic_data_Run3_v6_new_seedXXX.coffea   --out analysis/plots_synthetic_datasets_all_00-09-00 -m plots/metadata/plotsSyntheticVsData2.yml --year Run3`
