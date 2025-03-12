@@ -24,7 +24,7 @@
 | 22 S |                                                                           |         |
 | 23 S | (Sara Shook)                                                              |         |
 | 24 M | (Thesis Committee)                                                        |         |
-| 25 T |                                                                           |         |
+| 25 T | (Field Trip)                                                              |         |
 | 26 W |                                                                           |         |
 | 27 H |                                                                           |         |
 | 28 F |                                                                           |         |

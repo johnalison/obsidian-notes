@@ -35,7 +35,7 @@
 - [ ] L2 Comments
 - [x] Ping Diane for Photoelectric effect demo
 - [x] Get exams
-- [ ] Follow up sindhu re:Dylan 
+- [x] Follow up sindhu re:Dylan 
 - [ ] Skim data for boosted events (no trigger)
 - [ ] CutFlow for Marina Make Run3 CR cut and make a print of event/run numbers
 - [ ]  Do  [[DOE Review Li Zepeng]] (**Due Date:** 03/19/2025)
@@ -75,26 +75,12 @@ Looks like the [[Boosted Synthetic Data]] is actually going to be harder than I 
 - [ ] Synch Lepton Definition
 - [ ] Synch Higgs Candidate Selection
 
+# Hoops / Steamroom
+- Lots of Loses 5s 
+- 8' at Tmax = 124
 
-- Loose electrons are defined as:
-	- pT > 15 GeV, |eta|<=2.5, el.pfRelIso03_all < 0.15, satisfying el.mvaIso_WP90 and
-	- if abs(el.eta) < 1.479:
-	- abs(dz) <= 0.1
-	- abs(dxy) <= 0.05
-- else:
+# Outreach Meeting
+- Introductions
 
-- abs(dz) <= 0.2
-- abs(dxy) <= 0.1
-
-Loose muons are defined as:
-
-- pT > 10 GeV, |eta| <= 2.4,  mu.pfRelIso04_all < 0.15, satisfying the mu.looseId and
-- if abs(el.eta) < 1.479:
-
-- abs(dz) <= 0.1
-- abs(dxy) <= 0.05
-
-- else:
-
-- abs(dz) <= 0.2
-- abs(dxy) <= 0.1
+--- 
+# Sindhu 
