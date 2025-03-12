@@ -13,6 +13,7 @@ In Ann Arbor
 - [ ] Write up bootstraping study
 - [ ]  Call Liberty mutual re:tree down
 - [ ] Skim data for boosted events (no trigger)
+- [ ] Follow up sindhu re:Dylan 
 ---
 
 # Log
@@ -40,3 +41,7 @@ Uber to Airport
 Email and Working notes
 
 [[Two John Alisons]]
+
+# Home !!!
+
+Writing up  [[I See Satan Fall Like Lightning]]

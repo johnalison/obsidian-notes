@@ -1,10 +1,16 @@
 # 2025
 
+
+- [[Size]] Vacil Smil
+
 - [[Fly By Night Physics]] (Anthony Zee)
 
-- [[I See Satan Fall Like Lightning]]
+- [[For a new Liberty]] 
+
 
 ---
+
+- [[I See Satan Fall Like Lightning]] (Rene Girard)
 
 - [[MacBeth]] (William Shakespeare and commentaries)
 
