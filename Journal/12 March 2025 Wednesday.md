@@ -76,10 +76,9 @@ Looks like the [[Boosted Synthetic Data]] is actually going to be harder than I 
 - [ ] Synch Higgs Candidate Selection
 - Synched Electrons
 - Synched Muons:
-
-
-   - Testing with 
+- Testing with 
 	   - `time python runner.py -t -o synthetic_data_Run3_2022_preEE.coffea -d data -p analysis/processors/processor_HH4b.py -y 2022_preEE   -op output/synthetic_dataset_analyze_all -c analysis/metadata/HH4b_run_fastTopReco.yml -m metadata/datasets_HH4b_Run3_fourTag_v6.yml`
+   - 
 
 # Hoops / Steamroom
 - Lots of Loses 5s 
