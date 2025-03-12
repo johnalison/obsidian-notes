@@ -94,4 +94,9 @@ Looks like the [[Boosted Synthetic Data]] is actually going to be harder than I 
 More Run3 cutflow (see above)
 
 
+# bbWW
+- Coffea25 code runing 10x faster than before
+- will ping FNAL re:code structuring
+- will ping Fikri re:Run3 samples
+
 
