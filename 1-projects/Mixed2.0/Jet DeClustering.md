@@ -93,6 +93,11 @@ Getting the new mixing going
 
 # Daily Logs
 
+## [[5 March 2025 Wednesday]]
+- on **cmslpc304**
+- Making hists for v9 
+- Basically no change wrt v8... kind of odd
+
 ## [[4 March 2025 Tuesday]]
 - Updating pdfs on **cmslpc341**
 - testing

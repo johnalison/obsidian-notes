@@ -48,9 +48,7 @@ Ride with SMH to cyert
 Work by 9
 
 # [[Jet DeClustering]]
-- on **cmslpc304**
-- Making hists for v9 
-- Basically no change wrt v8... kind of odd
+- see above
 
 
 Merging master

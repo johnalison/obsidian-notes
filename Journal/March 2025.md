@@ -11,14 +11,14 @@
 | 9  S | [[Boosted Synthetic Data]] / To Library / **Gym/SR** / Pack               |         |
 | 10 M | (Ann Arbor) Flight / Visit UM profs / Chats / Seminar / Drinks & Dinner   | All Day |
 | 11 T | (Ann Arbor) Chat Bing / Chat Herwig LDMX / Lunch / Airport                |         |
-| 12 W | 
+| 12 W |                                                                           |         |
 | 13 H |                                                                           |         |
 | 14 F | (Visiting Day)                                                            |         |
 | 15 S |                                                                           |         |
 | 16 S |                                                                           |         |
 | 17 M |                                                                           |         |
 | 18 T |                                                                           |         |
-| 19 W |                                                                           |         |
+| 19 W | (Hbb Talk)                                                                |         |
 | 20 H |                                                                           |         |
 | 21 F |                                                                           |         |
 | 22 S |                                                                           |         |
