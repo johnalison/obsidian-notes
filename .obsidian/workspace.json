@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/March 2025.md",
+                "file": "Journal/12 March 2025 Wednesday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for March 2025"
+              "title": "Backlinks for 12 March 2025 Wednesday"
             }
           },
           {
@@ -155,12 +155,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/March 2025.md",
+                "file": "Journal/12 March 2025 Wednesday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from March 2025"
+              "title": "Outgoing links from 12 March 2025 Wednesday"
             }
           },
           {
@@ -182,10 +182,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/March 2025.md"
+                "file": "Journal/12 March 2025 Wednesday.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of March 2025"
+              "title": "Outline of 12 March 2025 Wednesday"
             }
           },
           {
@@ -217,8 +217,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a53f9b6c8db0175d",
+  "active": "7c3c3f51c8b5d404",
   "lastOpenFiles": [
+    "Journal/March 2025.md",
     "Journal/12 March 2025 Wednesday.md",
     "Journal/11 March 2025 Tuesday.md",
     "0-inbox/Ann Arbor Trip 2025.md",
@@ -229,7 +230,6 @@
     "Journal/6 March 2025 Thursday.md",
     "Journal/5 March 2025 Wednesday.md",
     "Journal/4 March 2025 Tuesday.md",
-    "Journal/March 2025.md",
     "Input/Books/Books.md",
     "0-inbox/I See Satan Fall Like Lightning.md",
     "0-inbox/Bootstrapping Synthetic Data Stat Uncertainties.md",
