@@ -14,14 +14,15 @@
 | 2   | outreach                  |     |
 |     | outreach                  |     |
 | 3   | CutFlow                   |     |
-|     | CutFloe                   |     |
+|     | CutFlow                   |     |
 | 4   | bbWW                      |     |
-|     | make up exam              |     |
+|     | Mel Colloq / make up exam |     |
+| 5   | Mel Colloq                |     |
 
-**W:**
-**DW:**
-**OT:**
-**ex** or **No ex**
+**W:**  7
+**DW:** 2
+**OT:** 1
+**ex** 
 
 ---
 # The ONE thing: 
@@ -37,10 +38,10 @@
 - [x] Get exams
 - [x] Follow up sindhu re:Dylan 
 - [ ] Skim data for boosted events (no trigger)
-- [ ] CutFlow for Marina Make Run3 CR cut and make a print of event/run numbers
-- [ ]  Do  [[DOE Review Li Zepeng]] (**Due Date:** 03/19/2025)
-- [ ] Grade Exams
-- [ ] Grad Student visit
+- [>>] CutFlow for Marina Make Run3 CR cut and make a print of event/run numbers
+- [>>]  Do  [[DOE Review Li Zepeng]] (**Due Date:** 03/19/2025)
+- [>>] Grade Exams
+- [x] Grad Student visit
 ---
 
 # Log
@@ -102,3 +103,8 @@ More Run3 cutflow (see above)
 
 # The Top Quark (30 Years Later)
 - Mel Shochet
+
+
+Home w/M & T 
+
+Some Run-3 selection

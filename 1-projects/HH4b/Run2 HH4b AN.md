@@ -47,6 +47,10 @@ Towards v4
 
 # Daily Logs
 
+## [[6 March 2025 Thursday]]
+-  need hemiplots and new data
+- Finished L2 comments... AE will push to website
+
 
 ## [[3 March 2025 Monday]]
 - [x] Check with AE re:template uncertainties 

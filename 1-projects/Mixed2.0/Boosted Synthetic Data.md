@@ -7,6 +7,22 @@
 	- [ ] Can we recover soft-drop mass from leading two subjets ?
 - script to plot mass in coffea code
 
+# Log
+
+## [[6 March 2025 Thursday]]
+- filter boosted fourvectors
+- Nanos failing on rucio... Nano not avilible on LPC, needed to add MIT
+	- [[dasgoclient]]
+- NanoAOD content https://cms-nanoaod-integration.web.cern.ch/autoDoc/
+- Testing with
+	- `python runner.py -t  -o signal_HH4b_nano.coffea -d GluGluToHHTo4B_cHHH1  -p analysis/processors/processor_boosted_HH4b.py -y UL18  -op output/analysis_test_job -m metadata/datasets_HH4b.yml -c analysis/metadata/HH4b_nano.yml`
+- Added function to write boosted output 
+- Running on all UL18
+	- ` python runner.py  -o signal_BoostedHH4b_nano.coffea -d GluGluToHHTo4B_cHHH1  -p analysis/processors/processor_boosted_HH4b.py -y UL18  -op output/analysis_test_job -m metadata/datasets_HH4b.yml -c analysis/metadata/HH4b_nano.yml`
+- Example script for reading the output
+	- `python analysis/readBoostedSyntheticEvents.py output/analysis_test_job/signal_BoostedHH4b_nano.coffea`
+- Sent mail to Chance
+
 # N-subjettiness
 
 **τ1,τ2,τ3,τ4**: These variables measure how well a jet can be described by 1, 2, 3, or 4 subjets, respectively. Lower values indicate a better fit to the corresponding number of subjets.
