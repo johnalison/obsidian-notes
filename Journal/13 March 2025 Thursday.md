@@ -52,3 +52,4 @@ Graded Exams
 # [[Stats Data-Driven SR]]
 - [ ] Get more signal samples
 
+Finished Grades
