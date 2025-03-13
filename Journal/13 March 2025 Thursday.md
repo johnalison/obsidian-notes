@@ -25,7 +25,8 @@
 
 ---
 # The ONE thing: 
-- [ ] Grade Exams
+- [x] Grade Exams
+- [ ] CutFlow 
 
 ---
 # To Do
@@ -59,9 +60,17 @@ Finished Grades
 - Spend Extra money!
 - Sent "MidTerm Grades"
 - How to do we advertise ?
+- Dont know if we are running a deficit or not. 
 
 
-Hello Gabe, 
+# Chat with [[Tony Boyle]]
+- Will make dR_min plot
+- Needs to add four-vectors not masses!
 
-  Your Midterm grade for Physics III is: B
+
+
+
+
+
+
 
