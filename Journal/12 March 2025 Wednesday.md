@@ -74,7 +74,7 @@ Looks like the [[Boosted Synthetic Data]] is actually going to be harder than I 
 	- Code: https://gitlab.cern.ch/mkolosov/hh4b_run3/-/blob/run2/python/producers/hh4bTreeProducer.py?ref_type=heads
 	- Config: https://gitlab.cern.ch/mkolosov/hh4b_run3/-/blob/run2/run/configs/2021/main/run3_2021_0L_PNet_MinDiag_Jets_4j35_2bj30_dHHjw30.yaml?ref_type=heads
 - [x] Synch Lepton Definition
-- [ ] Synch Higgs Candidate Selection
+- [>>] Synch Higgs Candidate Selection
 - Synched Electrons
 - Synched Muons:
 - Testing with 
