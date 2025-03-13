@@ -7,7 +7,7 @@
 |     | Teaching        |     |
 | 11  | Stats Chat      |     |
 |     | Stats Chat      |     |
-| 12  |                 |     |
+| 12  | Finished Grades |     |
 |     | Physics Faculty |     |
 | 1   | Physics Faculty |     |
 |     | Tony Boyle      |     |
@@ -30,10 +30,10 @@
 ---
 # To Do
 
-- [ ] Grade Exams
+- [x] Grade Exams
 - [ ]  CutFlow for Marina Make Run3 CR cut and make a print of event/run numbers
 - [ ]  Do  [[DOE Review Li Zepeng]] (**Due Date:** 03/19/2025)
-- [ ] 
+- [ ] Update Elise status
 
 ---
 
@@ -53,3 +53,15 @@ Graded Exams
 - [ ] Get more signal samples
 
 Finished Grades
+- posted Grades
+
+# Faculty Meeting
+- Spend Extra money!
+- Sent "MidTerm Grades"
+- How to do we advertise ?
+
+
+Hello Gabe, 
+
+  Your Midterm grade for Physics III is: B
+
