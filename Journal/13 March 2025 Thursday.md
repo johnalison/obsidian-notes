@@ -44,3 +44,11 @@ Up at 7
 
 M & T to school
 
+Graded Exams 
+
+# Taught
+- Photo Electric effect + X-rays
+
+# [[Stats Data-Driven SR]]
+- [ ] Get more signal samples
+
