@@ -84,4 +84,7 @@ Chat MP
 # SoS ARC GreenLight !
 
 
-[[ProgressReport 14 March 2025]]
+Start outline for [[ProgressReport 14 March 2025]]
+
+Pushing Run-3 updates. 
+
