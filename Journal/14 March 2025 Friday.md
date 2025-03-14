@@ -42,7 +42,7 @@
 - [ ] Code to do combined regions
 - [ ]  Get commencement gear have until 21st 
 - [ ] Review Wes' approval slides
-- [ ] 
+- [ ] Understand Chuyuan's slides
 ---
 
 # Log
@@ -58,9 +58,9 @@ Tried to work demo... failed.
 Marina mail
 # Chat AE: He will do the boosted skims !
 
-# Chat: Christian Guinto-Brody
+# Prospective Chat: Christian Guinto-Brody
 
-# Chat: Ella Fisher
+# Prospective Chat: Ella Fisher
 
 
 # Hoops
@@ -68,3 +68,20 @@ Marina mail
 
 [[Wesley Terrill]] is giving approval talk
 - https://docs.google.com/presentation/d/1hbuxgVxv5VvY7FCci0u0AU5zKmRtdyT8o8K2KSQGueY/edit#slide=id.g2e33be170a5_0_42
+
+# Prospective Chat: Arvind Tawker 
+- Interested in Lab Tech position
+
+# Prospective Chat: Mengke Zhang 
+- 
+
+Fixed Cutflow for Marina 
+
+Chat MP
+- Matteo going rogue visiting Alan Stone
+- Got the SOW from FNAL ! 
+
+# SoS ARC GreenLight !
+
+
+[[ProgressReport 14 March 2025]]
