@@ -1,22 +1,22 @@
 
-|     |             |     |
-| --- | ----------- | --- |
-| 9   | Teach       |     |
-|     | Teach       |     |
-| 10  | setup       |     |
-|     | Chat AE     |     |
-| 11  |             |     |
-|     | Cristian    |     |
-| 12  | Prospective |     |
-|     | Hoops       |     |
-| 1   | Hoops       |     |
-|     | Hoops       |     |
-| 2   |             |     |
-|     | Prospective |     |
-| 3   | Prospective |     |
-|     |             |     |
-| 4   |             |     |
-|     |             |     |
+|     |                          |     |
+| --- | ------------------------ | --- |
+| 9   | Teach                    |     |
+|     | Teach                    |     |
+| 10  | setup                    |     |
+|     | Chat AE                  |     |
+| 11  |                          |     |
+|     | Prospective: Cristian    |     |
+| 12  | Prospective: Ella Fisher |     |
+|     | Hoops                    |     |
+| 1   | Hoops                    |     |
+|     | Hoops                    |     |
+| 2   |                          |     |
+|     | Prospective: Arvin       |     |
+| 3   | Prospective:             |     |
+|     |                          |     |
+| 4   |                          |     |
+|     |                          |     |
 
 **W:**
 **DW:**
@@ -57,6 +57,11 @@ Tried to work demo... failed.
 
 Marina mail
 # Chat AE: He will do the boosted skims !
+
+# Chat: Christian Guinto-Brody
+
+# Chat: Ella Fisher
+
 
 # Hoops
 - Good runs / good wins
