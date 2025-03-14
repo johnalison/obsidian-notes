@@ -1,22 +1,22 @@
 
-|     |       |     |
-| --- | ----- | --- |
-| 9   | Teach |     |
-|     | Teach |     |
-| 10  |       |     |
-|     |       |     |
-| 11  |       |     |
-|     |       |     |
-| 12  |       |     |
-|     |       |     |
-| 1   |       |     |
-|     |       |     |
-| 2   |       |     |
-|     |       |     |
-| 3   |       |     |
-|     |       |     |
-| 4   |       |     |
-|     |       |     |
+|     |             |     |
+| --- | ----------- | --- |
+| 9   | Teach       |     |
+|     | Teach       |     |
+| 10  | setup       |     |
+|     | Chat AE     |     |
+| 11  |             |     |
+|     | Cristian    |     |
+| 12  | Prospective |     |
+|     | Hoops       |     |
+| 1   | Hoops       |     |
+|     | Hoops       |     |
+| 2   |             |     |
+|     | Prospective |     |
+| 3   | Prospective |     |
+|     |             |     |
+| 4   |             |     |
+|     |             |     |
 
 **W:**
 **DW:**
@@ -25,7 +25,7 @@
 
 ---
 # The ONE thing: 
-- [ ] 
+- [ ] Do [[ProgressReport 14 March 2025]]
 
 ---
 # To Do
@@ -39,9 +39,10 @@
 - [x] Marina Mail
 - [ ] Skim data for truth events
 - [ ] Make sum/SB/SR plots presentation
-- [ ] Code to combined regions
+- [ ] Code to do combined regions
 - [ ]  Get commencement gear have until 21st 
-
+- [ ] Review Wes' approval slides
+- [ ] 
 ---
 
 # Log
@@ -54,5 +55,11 @@ Tried to work demo... failed.
 - Diane there with demo.  Works!!!
 - Went over exam and 
 
+Marina mail
 # Chat AE: He will do the boosted skims !
 
+# Hoops
+- Good runs / good wins
+
+[[Wesley Terrill]] is giving approval talk
+- https://docs.google.com/presentation/d/1hbuxgVxv5VvY7FCci0u0AU5zKmRtdyT8o8K2KSQGueY/edit#slide=id.g2e33be170a5_0_42

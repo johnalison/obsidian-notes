@@ -5,6 +5,8 @@
 ## Other
 - [ ] Thesis date
 
+Giving approval talk for SoS
+
 ## HGC
 
 
