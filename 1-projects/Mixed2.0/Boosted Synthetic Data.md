@@ -9,6 +9,12 @@
 
 # Log
 
+## [[8 March 2025 Saturday]]
+- Lots more progress.... Trying data
+- **cmslpc314**.. 
+- Running on data... Looks like triggers are not applied
+	- `python runner.py   -o data_boosted_nano.coffea -d data  -p analysis/processors/processor_boosted_HH4b.py -y UL18  -op output/analysis_test_job -m metadata/datasets_HH4b.yml -c analysis/metadata/HH4b_nano.yml `
+
 ## [[6 March 2025 Thursday]]
 - filter boosted fourvectors
 - Nanos failing on rucio... Nano not avilible on LPC, needed to add MIT

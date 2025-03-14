@@ -10,6 +10,7 @@ Thinking about bootstrapping to get statistical uncertainties on a histogram
 - - https://chatgpt.com/share/67ca07cf-c244-8000-9849-351c50521fe1
 - /Users/johnda/CMSWork/hh4b/StatToy
 
+- split dataset creation and study
 
 # Follow-ups
 

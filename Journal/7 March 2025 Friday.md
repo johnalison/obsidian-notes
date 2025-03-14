@@ -44,7 +44,7 @@ Some [[For a new Liberty]]
 [[Bootstrapping Synthetic Data Stat Uncertainties]]
 - split dataset creation and study
 
-Got 1/2 off of my xfinity! 
+# Got 1/2 off of my xfinity! 
 - Had to run the [[eero reset protocol]]
 
 More late night bootstrapping
