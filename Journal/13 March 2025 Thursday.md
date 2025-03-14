@@ -18,9 +18,9 @@
 | 4   | Hep Chat        |     |
 |     | Run3 CutFlow    |     |
 
-**W:**
-**DW:**
-**OT:**
+**W:** 9 
+**DW:** 2
+**OT:** 2
 **ex** or **No ex**
 
 ---
@@ -51,7 +51,7 @@ Graded Exams
 - Photo Electric effect + X-rays
 
 # [[Stats Data-Driven SR]]
-- [ ] Get more signal samples
+- [>>] Get more signal samples
 
 Finished Grades
 - posted Grades
@@ -82,10 +82,14 @@ Finished Grades
 - [x] mail re:Boltzmann function
 
 # HEP Chat
-- [ ] Get commencement gear have until 21st 
+- [>>] Get commencement gear have until 21st 
 
 
 More cutflow... See above
 
 Home
+
+More Implementing Run-3 Selection
+
+Some [[Fly By Night Physics]]
 

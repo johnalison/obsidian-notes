@@ -37,7 +37,7 @@
 - [x] Ping Diane for Photoelectric effect demo
 - [x] Get exams
 - [x] Follow up sindhu re:Dylan 
-- [ ] Skim data for boosted events (no trigger)
+- [>>] Skim data for boosted events (no trigger)
 - [>>] CutFlow for Marina Make Run3 CR cut and make a print of event/run numbers
 - [>>]  Do  [[DOE Review Li Zepeng]] (**Due Date:** 03/19/2025)
 - [>>] Grade Exams
@@ -60,14 +60,14 @@ Bought fancy erasers
 - Might work with Lauren Tompkins over the summer
 
 
-Reciepts for [[Ann Arbor Trip 2025]]
+Receipts for [[Ann Arbor Trip 2025]]
 
 Chat Able's  re:Ad and CVs from Allison Turner
 
 Looks like the [[Boosted Synthetic Data]] is actually going to be harder than I thought
 - Need to reclacluate m_regressed mass
 - Need to recalculate PNet scores
-- First try it with m-soft drop... Let Chance do it.
+- First try it with m-soft drop... Let Chance do it. ([>>]) [[Boosted Synthetic Data]]
 
 # Implementing Run3 selection
 - From Marina: 

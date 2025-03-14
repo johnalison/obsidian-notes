@@ -7,6 +7,11 @@
 	- [ ] Can we recover soft-drop mass from leading two subjets ?
 - script to plot mass in coffea code
 
+Looks like the [[Boosted Synthetic Data]] is actually going to be harder than I thought
+- Need to reclacluate m_regressed mass
+- Need to recalculate PNet scores
+- First try it with m-soft drop... Let Chance do it.
+
 # Log
 
 ## [[9 March 2025 Sunday]]
