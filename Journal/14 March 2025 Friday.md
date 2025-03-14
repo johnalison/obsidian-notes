@@ -31,10 +31,11 @@
 # To Do
 
 - [x] Post homework 6
-- [ ] 
-- [ ] 
-- [ ] 
-
+- [ ] Fermilab Training
+- [ ] Review Wes' slides
+- [ ] L2 Comments
+- [ ] Write  [[ProgressReport 14 March 2025]]
+- [ ] Skim data for boosted events (no trigger)
 ---
 
 # Log

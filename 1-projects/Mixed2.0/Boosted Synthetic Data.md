@@ -9,6 +9,15 @@
 
 # Log
 
+## [[9 March 2025 Sunday]]
+- Running UL18A on condor ... cmslpc317
+	`python runner.py   -o data_boosted_nano.coffea -d data  -p analysis/processors/processor_boosted_HH4b.py -y UL18 -e A  -op output/analysis_test_job -m metadata/datasets_HH4b.yml -c analysis/metadata/HH4b_nano.yml --condor`
+- ... Fails... Trying era C
+- Runs
+- Sub-Jet masses reconstruct the soft-jet masses well also in data!
+- [>>] Skim data (no Trigger)
+
+
 ## [[8 March 2025 Saturday]]
 - Lots more progress.... Trying data
 - **cmslpc314**.. 

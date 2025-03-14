@@ -18,7 +18,7 @@
 | 16 S |                                                                              |         |
 | 17 M |                                                                              |         |
 | 18 T |                                                                              |         |
-| 19 W | (Hbb Talk)                                                                   |         |
+| 19 W | (Wes Approval) (Hbb Talk)                                                    |         |
 | 20 H |                                                                              |         |
 | 21 F |                                                                              |         |
 | 22 S | (Chat Prospective)                                                           |         |

@@ -31,9 +31,9 @@
 ---
 # To Do
 
-- [ ] Review Wes' slides
+- [>>] Review Wes' slides
 - [x] Reinbursemet for [[Ann Arbor Trip 2025]]
-- [ ] L2 Comments
+- [>>] L2 Comments
 - [x] Ping Diane for Photoelectric effect demo
 - [x] Get exams
 - [x] Follow up sindhu re:Dylan 

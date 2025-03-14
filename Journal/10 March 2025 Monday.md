@@ -12,8 +12,8 @@ To airport
 Chat Herwig
 
 # Chats AM
-- Michael Schubnell
-- James Wells
+- Michael Schubnell: Desi
+- James Wells: Theorist (Gave a colloq at PITT PACC)
 - Jianming Qian
 - Herwig
 
@@ -32,7 +32,7 @@ Drinks Herwig + Scott Haselschwardt
 # Dinner Herwig:
 - Chat AI
 - HL-LHC
-- What is worth doing
+- What is worth doing ? 
 
 Hotel
 

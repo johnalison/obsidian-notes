@@ -6,7 +6,7 @@ In Ann Arbor
 - [ ] Schedule FNAL badging appointment
 - [x] Can ChatGPT write an paper draft from an AN
 - [XX] ~~Fill out grad student Grades~~
-- [ ] Fermilab Training
+- [>>] Fermilab Training
 - [>>]  Do  [[DOE Review Li Zepeng]] (**Due Date:** 03/19/2025)
 - [ ] Hemisphere plots 
 - [>>] CutFlow for Marina Make Run3 CR cut and make a print of event/run numbers
