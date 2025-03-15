@@ -43,6 +43,7 @@
 - [ ] Get commencement gear have until 21st 
 - [ ] Review Wes' approval slides
 - [ ] Understand Chuyuan's slides
+
 ---
 
 # Log
@@ -79,7 +80,10 @@ Marina mail
 
 # Prospective Chat: Mengke Zhang 
 
-Fixed Cutflow for Marina ... was only including one data Era
+# Fixed Cutflow for Marina 
+- Add was only including one data Era
+- [x] Add other eras
+- [x] Add other Pt corrections
 
 Chat MP
 - Matteo going rogue visiting Alan Stone
