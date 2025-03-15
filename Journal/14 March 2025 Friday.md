@@ -31,7 +31,7 @@
 # To Do
 
 - [x] Post homework 6
-- [ ] Fermilab Training
+- [x] Fermilab Training
 - [ ] Review Wes' Fermilab slides
 - [x] L2 Comments
 - [ ] Write  [[ProgressReport 14 March 2025]]

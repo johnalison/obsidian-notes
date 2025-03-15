@@ -1,5 +1,5 @@
 - [ ] Make sum/SB/SR plots presentation
-- [ ] Code to do combined regions
+- [x] Code to do combined regions
 - [ ] Skim data for truth events
 - [x] Write  [[ProgressReport 14 March 2025]]
 - [x] Finances
@@ -27,3 +27,10 @@ Some L2 comments
 - Solid first draft
 
 [[Drawing 2025-03-15 16.11.36.excalidraw]]
+
+Did FNAL training
+
+Playing around with combined regions
+
+Some [[Fly By Night Physics]]
+Some [[For a new Liberty]]

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/15 March 2025 Saturday.md",
+                "file": "1-projects/UndergradProjects.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "15 March 2025 Saturday"
+              "title": "UndergradProjects"
             }
           },
           {
@@ -89,8 +89,7 @@
               "title": "CMU HGC MAC Meeting 4 March 2025"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -163,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/Drawing 2025-03-15 16.11.36.excalidraw.md",
+                "file": "1-projects/UndergradProjects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +172,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Drawing 2025-03-15 16.11.36.excalidraw"
+              "title": "Backlinks for UndergradProjects"
             }
           },
           {
@@ -182,12 +181,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/Drawing 2025-03-15 16.11.36.excalidraw.md",
+                "file": "1-projects/UndergradProjects.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Drawing 2025-03-15 16.11.36.excalidraw"
+              "title": "Outgoing links from UndergradProjects"
             }
           },
           {
@@ -209,10 +208,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/Drawing 2025-03-15 16.11.36.excalidraw.md"
+                "file": "1-projects/UndergradProjects.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Drawing 2025-03-15 16.11.36.excalidraw"
+              "title": "Outline of UndergradProjects"
             }
           },
           {
@@ -244,38 +243,39 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8368ba9c90d37f9b",
+  "active": "fb125bbaf3e43087",
   "lastOpenFiles": [
-    "Journal/15 March 2025 Saturday.md",
+    "3-resources/Two John Alisons.md",
+    "0-inbox/Tree Stump.md",
+    "0-inbox/Tool List.md",
+    "0-inbox/StartupSpending.md",
+    "0-inbox/Run2 X->HY->4b.md",
+    "0-inbox/Numba.md",
+    "Input/Videos/Nietzsche's Genealogy of Morality Explained.md",
+    "2-areas/coffea4bs/Migrate hemisphere mixing to python.md",
+    "0-inbox/HH at future colliders.md",
+    "0-inbox/Mass of jets is not invariant.md",
+    "Input/Papers/Institutional Review HL-LHC Projections HIG-25-002.md",
+    "Input/Books/I See Satan Fall Like Lightning.md",
+    "0-inbox/HGC TDR.md",
+    "0-inbox/FNAL Site Access.md",
+    "0-inbox/Existence Is Evidence of Immortality.md",
+    "0-inbox/Evolution of Silicon Sensor Technology in Particle Physics.md",
     "0-inbox/Drawing 2025-03-15 16.11.36.excalidraw.md",
+    "Input/Meetings/CMU HGC MAC Meeting 11 March 2025.md",
+    "Input/Papers/Building Fermilab.md",
+    "0-inbox/CMU CMS Webpage.md",
+    "0-inbox/Bootstrapping Synthetic Data Stat Uncertainties.md",
+    "4-archive/Ann Arbor Trip 2025.md",
+    "Journal/15 March 2025 Saturday.md",
+    "Journal/14 March 2025 Friday.md",
     "attachments/Pasted Image 20250315161206_922.png",
     "attachments/Pasted Image 20250315161151_920.png",
     "3-resources/Obsidian/Images in Obsidian.md",
     "attachments/Pasted image 20250315160719.png",
     "attachments/Pasted image 20250315160647.png",
     "Journal/13 March 2025 Thursday.md",
-    "0-inbox/DOE Review Li Zepeng.md",
     "0-inbox/#DOE Review Li Zepeng.md#",
-    "Journal/March 2025.md",
-    "Output/ProgressReports/ProgressReport 28 February 2025.md",
-    "Output/ProgressReports/ProgressReport 14 March 2025.md",
-    "Journal/6 March 2025 Thursday.md",
-    "1-projects/HH4b/Run2 HH4b AN.md",
-    "Journal/February 2025/28 February 2025 Friday.md",
-    "1-projects/HH4b/CMU 4b Chats.md",
-    "Journal/5 March 2025 Wednesday.md",
-    "Journal/14 March 2025 Friday.md",
-    "Journal/3 March 2025 Monday.md",
-    "2-areas/Mentoring/Chance Lavoie.md",
-    "Journal/4 March 2025 Tuesday.md",
-    "Journal/February 2025.md",
-    "2-areas/Mentoring/Wesley Terrill.md",
-    "Journal/12 March 2025 Wednesday.md",
-    "1-projects/Mixed2.0/Boosted Synthetic Data.md",
-    "Journal/11 March 2025 Tuesday.md",
-    "Journal/10 March 2025 Monday.md",
-    "Journal/9 March 2025 Sunday.md",
-    "Journal/8 March 2025 Saturday.md",
     "Input/Meetings/February",
     "Input/Meetings/January",
     "Input/Meetings/2024/December",
