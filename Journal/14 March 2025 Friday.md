@@ -37,11 +37,11 @@
 - [ ] Write  [[ProgressReport 14 March 2025]]
 - [AE] Skim data for boosted events (no trigger)
 	- [x] Marina Mail
-- [ ] Skim data for truth events
-- [ ] Make sum/SB/SR plots presentation
-- [ ] Code to do combined regions
+- [>>] Skim data for truth events
+- [>>] Make sum/SB/SR plots presentation
+- [>>] Code to do combined regions
 - [x] Get commencement gear have until 21st 
-- [ ] Review Wes' approval slides
+- [x] Review Wes' approval slides
 - [ ] Understand Chuyuan's slides
 
 ---

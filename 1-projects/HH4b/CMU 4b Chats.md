@@ -1,6 +1,8 @@
 
 # Logs
 
+
+
 ## [[Journal/28 February 2025 Friday|28 February 2025 Friday]]
 - Virtual
 - JA: working on the closure test with the Run2 synthetic dataset, making the Run 3 synthetic dataset, and answering the L2 comments.
