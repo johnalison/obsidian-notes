@@ -33,14 +33,14 @@
 - [x] Post homework 6
 - [ ] Fermilab Training
 - [ ] Review Wes' Fermilab slides
-- [ ] L2 Comments
+- [x] L2 Comments
 - [ ] Write  [[ProgressReport 14 March 2025]]
 - [AE] Skim data for boosted events (no trigger)
 	- [x] Marina Mail
 - [ ] Skim data for truth events
 - [ ] Make sum/SB/SR plots presentation
 - [ ] Code to do combined regions
-- [ ] Get commencement gear have until 21st 
+- [x] Get commencement gear have until 21st 
 - [ ] Review Wes' approval slides
 - [ ] Understand Chuyuan's slides
 
@@ -84,6 +84,7 @@ Marina mail
 - Add was only including one data Era
 - [x] Add other eras
 - [x] Add other Pt corrections
+- sent
 
 Chat MP
 - Matteo going rogue visiting Alan Stone
@@ -101,3 +102,9 @@ Starting working L2 Comments
 Home
 
 Merged code
+
+More Marina Update ... see above
+
+Ordered Regalia 
+
+Finished first pass L2 comments... Got more from Emanuelle 
