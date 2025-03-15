@@ -3,18 +3,13 @@ Gave a seminar at the University of Michigan. It was very nice to talk to Bing a
 
 On the 4b side we have been making more steady progress. We have released another iteration of the AN and responded to Emmanuelle's comments. AE will give a talk in Hbb explaining the improved limit due to removing the anomalous events. We have another round of L2 comments to reply to, that should be quick.
 
-I've beed doing a lot of debugging of the synthetic data with Marina. I fixed a calibration problem on my side and have implemented the Run-3 HH selection and CR definition, hopefully this will allow us to start comparing apples-to-apples.  An undergrad Chance (in my Physics 3) is starting to work on making 
+I've beed doing a lot of debugging of the synthetic data with Marina. I fixed a calibration problem on my side and have implemented the Run-3 HH selection and CR definition, hopefully this will allow us to start comparing apples-to-apples.  An undergrad, Chance who is in my Physics 3, is starting to work on making the boosted synthetic data sets. He is making progress quickly. 
 
+In SoS, we got the green light from the ARC and Wes will give the approval talk next week.
 
-SoS: 
-- have the ARC green light. Wes to give the approval talk next week
+In bbWW, Aniket has code running in coffea25 and is waiting for a recipe to make ntuples with lower jet pt in the Run-3 samples.
 
-bbWW: 
-- code running in coffea25/ Waiting to make run 3 samples
-
-HGC:
-- progress slow.. waiting on new tooling
-- Now have the SOW from FNAL ... shoudl be able to buy parts in ~2weeks.
+The past two weeks have been slow for HGC. We are waiting for new tooling. However we now have the statement of work from FNAL for the multi-module teststand, so we should be able to start buying parts in ~2 weeks. 
 
 # Follow-ups
 

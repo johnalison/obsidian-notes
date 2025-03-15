@@ -17,7 +17,7 @@
 | 15 S |                                                                              |         |
 | 16 S |                                                                              |         |
 | 17 M |                                                                              |         |
-| 18 T |                                                                              |         |
+| 18 T | (Penguins Game)                                                              |         |
 | 19 W | (Wes Approval) (Hbb Talk) (MAC Meeting)                                      |         |
 | 20 H |                                                                              |         |
 | 21 F |                                                                              |         |
