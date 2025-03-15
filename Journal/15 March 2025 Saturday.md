@@ -17,5 +17,13 @@ Finished [[ProgressReport 14 March 2025]]
 
 # Did Finances 1.9/1.8
 
+
 # Starting  [[DOE Review Li Zepeng]] 
-# DOE Review 
+- Read it 
+- [ ] Drafting report
+
+Some L2 comments
+- [ ] ROC plots for various signal points
+- Solid first draft
+
+[[Drawing 2025-03-15 16.11.36.excalidraw]]

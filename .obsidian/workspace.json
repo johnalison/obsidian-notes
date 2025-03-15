@@ -13,12 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/13 March 2025 Thursday.md",
+                "file": "Journal/15 March 2025 Saturday.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "13 March 2025 Thursday"
+              "title": "15 March 2025 Saturday"
+            }
+          },
+          {
+            "id": "8368ba9c90d37f9b",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "0-inbox/Drawing 2025-03-15 16.11.36.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-03-15 16.11.36.excalidraw"
             }
           },
           {
@@ -78,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "file:obsid",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -151,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/DOE Review Li Zepeng.md",
+                "file": "0-inbox/Drawing 2025-03-15 16.11.36.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +173,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for DOE Review Li Zepeng"
+              "title": "Backlinks for Drawing 2025-03-15 16.11.36.excalidraw"
             }
           },
           {
@@ -170,12 +182,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/DOE Review Li Zepeng.md",
+                "file": "0-inbox/Drawing 2025-03-15 16.11.36.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from DOE Review Li Zepeng"
+              "title": "Outgoing links from Drawing 2025-03-15 16.11.36.excalidraw"
             }
           },
           {
@@ -197,10 +209,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/DOE Review Li Zepeng.md"
+                "file": "0-inbox/Drawing 2025-03-15 16.11.36.excalidraw.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of DOE Review Li Zepeng"
+              "title": "Outline of Drawing 2025-03-15 16.11.36.excalidraw"
             }
           },
           {
@@ -232,11 +244,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7c3c3f51c8b5d404",
+  "active": "8368ba9c90d37f9b",
   "lastOpenFiles": [
-    "0-inbox/#DOE Review Li Zepeng.md#",
     "Journal/15 March 2025 Saturday.md",
+    "0-inbox/Drawing 2025-03-15 16.11.36.excalidraw.md",
+    "attachments/Pasted Image 20250315161206_922.png",
+    "attachments/Pasted Image 20250315161151_920.png",
+    "3-resources/Obsidian/Images in Obsidian.md",
+    "attachments/Pasted image 20250315160719.png",
+    "attachments/Pasted image 20250315160647.png",
     "Journal/13 March 2025 Thursday.md",
+    "0-inbox/DOE Review Li Zepeng.md",
+    "0-inbox/#DOE Review Li Zepeng.md#",
     "Journal/March 2025.md",
     "Output/ProgressReports/ProgressReport 28 February 2025.md",
     "Output/ProgressReports/ProgressReport 14 March 2025.md",
@@ -257,9 +276,6 @@
     "Journal/10 March 2025 Monday.md",
     "Journal/9 March 2025 Sunday.md",
     "Journal/8 March 2025 Saturday.md",
-    "Journal/7 March 2025 Friday.md",
-    "0-inbox/Bootstrapping Synthetic Data Stat Uncertainties.md",
-    "0-inbox/Ann Arbor Trip 2025.md",
     "Input/Meetings/February",
     "Input/Meetings/January",
     "Input/Meetings/2024/December",
@@ -269,7 +285,6 @@
     "Input/Meetings/2024/August",
     "Input/Meetings/2024/July",
     "Input/Meetings/2024",
-    "Journal/February 2025",
     "Untitled.canvas",
     "attachments/ModuleAssemblyPersonel.png",
     "attachments/Pasted image 20240826220009.png",
@@ -278,10 +293,6 @@
     "attachments/HGC TDR Si Sensor Table.png",
     "Untitled 1.canvas",
     "Untitled 2.canvas",
-    "attachments/HGC TDR Summary Table.png",
-    "attachments/HGC Dose.png",
-    "attachments/HGC Personnel per MAC.png",
-    "attachments/CMS Test.png",
-    "attachments/Pasted image 20240730120049.png"
+    "attachments/HGC TDR Summary Table.png"
   ]
 }
