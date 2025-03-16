@@ -51,13 +51,20 @@ The Data Management Plan is suitable. There is not much detail about how data wi
 - Is the proposed research aligned with the published program priorities identified or incorporated by reference in Section I of this FOA?
 - Does the proposed plan to recruit and retain students and early-stage investigators provide sufficient mentorship?
 
-Making front-end electronics smarter a logical and feasible goal. I don't think the case has been made that ML is right way to achieve this goal, but it is worth trying. 
+Making front-end electronics smarter is a logical and feasible goal. The proposal did not make the case that ML is right way to achieve this goal. 
 
-Again, I would not say that ML ticks is innovative these days. I think the idea of deploying these in existing or near-term prototypes is unique. 
+Again, I would not say that using ML is particularly innovative these days. I think the idea of deploying these in existing or near-term prototypes is unique. 
 
 Making the front-end electronics smarter will improve our understanding of important science.
-In most cases the proposal does not quantify how much will be gained. 
+In most cases the proposal does not quantify how much will be gained, but the science goals are clearly important.
 
+The methods are adequately developed, but not particularly well justified. 
+
+Potential problems are considered and mitigation plans are discussed. 
+
+The proposed research is well-aligned with program priorities.
+
+Sufficient mentorship is foreseen. The group is relatively large and experienced. 
 
 #### 3. Competency of Applicant’s Personnel and Adequacy of Proposed Resources
 - How well qualified is the research team to carry out the proposed research?
@@ -65,22 +72,39 @@ In most cases the proposal does not quantify how much will be gained.
 - Are the research environment and facilities adequate for performing the research?
 - Does the proposed work take advantage of unique facilities and capabilities?
 
-PI Li has played a key role in applying ML techniques to both EXO-200 and nEXO.
+The team is qualified and well-suited for the proposed work. The investigators have  expertise in ML applications to nuclear physics (nEXO, KamLAND-Zen, JUNO), silicon sensor technologies (AC-LGADs), FPGA-based hardware development, and electronics integration.  PI Li has played a key role in applying ML techniques to both EXO-200 and nEXO.
+
+
+The lead institution is University of Hawaii at Manoa. They are proposing to perform the majority of the work. 
+
+The team has access to multiple specialized testbeds and detector prototypes (NuDot at UD, LXe TPC at Stanford, KamLAND2-Zen), advanced FPGA platforms (Virtex Ultrascale+, RFSoC boards, Versal AI Engine), and collaboration with experienced partners (Nalu Scientific, national laboratories). The infrastructure and collaborative environment provided by participating institutions appear robust and suitable for achieving the proposed research objectives.
+
+
+
 #### 4. Reasonableness and Appropriateness of the Proposed Budget 
 - Are the proposed budget and staffing levels adequate to carry out the proposed research?
 - Is the budget reasonable and appropriate for the scope?
 - If consultant costs are included, are the overall consultant costs are in line with the EPSCoR mission and how will the skills, expertise or capabilities provided by the consultant will be transferred in a sustainable manner to the applicant institution?
 
+This is an two year project with ambitious goals. Fun
+
+They planning to hire three postdocs and five GSRs and hire out electronics engeneer over a two-year period and are requesting ~1.5 M / year. The salaries seem appropriate. 
+
+There is significant request for equipment namely "A simulator and readout board to simulate 4D tracking detector signal for ML-based readout system development in Year 1" for  $205,000.
+
 
 
 #### 5.Synergism Among the PIs in a Program and the Programmatic Focus of a Multi-PI Effort 
 - How does the application exhibit a coherent focus on one energy-related research area bringing together multiple researchers?
-- What aspects of the management plan will support coordination of multiple investigators working on a common theme including performance milestones and a timetable for achieving project goals and deliverables?_
+- What aspects of the management plan will support coordination of multiple investigators working on a common theme including performance milestones and a timetable for achieving project goals and deliverables?
+
+The proposal addresses a wide range of different, loosely related physics-topic. However the proposed is tied together through the research tasks—shared ML algorithms, hardware frameworks, and validation methods.
+
+The management plan does not discuss coordination of multiple investigators. Not sure its needed given the diverse tasks suggested. 
 
 #### 6. The Likelihood of Success of the Implementation Grant
   
--  How well does the application couple with opportunities within the jurisdiction(s) to develop
-- - lize the scientific and technological resources that reside in the research universities and the jurisdiction’s industrial or economic resources?
+-  How well does the application couple with opportunities within the jurisdiction(s) to develop and utilize the scientific and technological resources that reside in the research universities and the jurisdiction’s industrial or economic resources?
 - How does the application adequately present the opportunities for enhanced academic research and development competitiveness and if appropriate, industrial or economic competitiveness, for the jurisdiction, including plans for the acquisition of sustained non- EPSCoR support?
 - What plans does the applicant have to make (or has the applicant made) competitive faculty hires and retained outstanding faculty within the scope of the implementation award? Does the applicant have a plan to attract (or has the applicant hired) outstanding graduate students and post docs?
 - What plans do the applicant have to develop (or have they developed) as part of the implementation grant unique infrastructure capabilities that are critical to the advancement of science or technology? Alternatively, are they planning to or making unique contributions to DOE oriented capabilities (e.g., building or developing unique capabilities for a DOE experiment or facility)?
