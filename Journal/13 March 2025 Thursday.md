@@ -33,7 +33,7 @@
 
 - [x] Grade Exams
 - [x]  CutFlow for Marina Make Run3 CR cut and make a print of event/run numbers
-- [ ]  Do  [[DOE Review Li Zepeng]] (**Due Date:** 03/19/2025)
+- [>>]  Do  [[DOE Review Li Zepeng]] (**Due Date:** 03/19/2025)
 - [x] Update Elise status
 
 ---

@@ -111,14 +111,18 @@ The management plan does not discuss coordination of multiple investigators. Not
 - What plans do the applicant have to (or are the grantees on track to) achieve a sustainable leadership position in their discipline(s)?
 - What plans do the applicant have to (or are the grantees effectively) leveraging DOE funding and capabilities with local and regional resources? Are there commitments from the applicant’s jurisdiction, institution or from private sources to assist in this leveraging?_
 
+The application leverages and couples scientific and technological resources within the EPSCoR jurisdictions (Hawaii and Delaware) by directly engaging the region’s leading R1 universities (UHM and UD) and partnering with local high-tech industry (Nalu Scientific in Hawaii).
+
+There is a plan to attract and hire 3 postdocs and 5 graduate student.  The explicit integration of workforce development programs, curriculum enhancements, and industry collaboration will help with growth of local scientific and technological resources.
+
 # Overall Summary of the Proposal
 An overall score is requested to accompany the summary section.
 
-Strongly encourage funding (5 or 6);
+Overall I would encourage funding (3 or 4).  Making the front end smarter is a good idea. The case was not strongly made in the proposal how much this change will drive the science or that ML is the right way to do it, but this type of work should be pursued.  
 
-Encourage funding (3 or 4); or
+The group is integrated with important and well-aligned experiments and a track record of success doing the type of work proposed. The plan is ambitious, in some cases probably overly so, but I think it should be funded.
 
-Discourage funding (1 or 2)
+
 
 # Follow-ups
 

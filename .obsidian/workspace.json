@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/DOE Review Li Zepeng.md",
+                "file": "Journal/16 March 2025 Sunday.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DOE Review Li Zepeng"
+              "title": "16 March 2025 Sunday"
             }
           },
           {
@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/15 March 2025 Saturday.md",
+                "file": "Journal/13 March 2025 Thursday.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "15 March 2025 Saturday"
+              "title": "13 March 2025 Thursday"
             }
           },
           {
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/DOE Review Li Zepeng.md",
+                "file": "Journal/16 March 2025 Sunday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for DOE Review Li Zepeng"
+              "title": "Backlinks for 16 March 2025 Sunday"
             }
           },
           {
@@ -169,12 +169,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/DOE Review Li Zepeng.md",
+                "file": "Journal/16 March 2025 Sunday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from DOE Review Li Zepeng"
+              "title": "Outgoing links from 16 March 2025 Sunday"
             }
           },
           {
@@ -196,10 +196,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/DOE Review Li Zepeng.md"
+                "file": "Journal/16 March 2025 Sunday.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of DOE Review Li Zepeng"
+              "title": "Outline of 16 March 2025 Sunday"
             }
           },
           {
@@ -233,10 +233,13 @@
   },
   "active": "fb125bbaf3e43087",
   "lastOpenFiles": [
+    "Journal/13 March 2025 Thursday.md",
+    "Journal/9 March 2025 Sunday.md",
     "Journal/16 March 2025 Sunday.md",
-    "0-inbox/Drawing 2025-03-15 16.11.36.excalidraw.md",
-    "Journal/15 March 2025 Saturday.md",
     "Journal/14 March 2025 Friday.md",
+    "Journal/15 March 2025 Saturday.md",
+    "0-inbox/DOE Review Li Zepeng.md",
+    "0-inbox/Drawing 2025-03-15 16.11.36.excalidraw.md",
     "1-projects/UndergradProjects.md",
     "3-resources/Two John Alisons.md",
     "0-inbox/Tree Stump.md",
@@ -256,9 +259,6 @@
     "0-inbox/Evolution of Silicon Sensor Technology in Particle Physics.md",
     "Input/Meetings/CMU HGC MAC Meeting 11 March 2025.md",
     "Input/Papers/Building Fermilab.md",
-    "0-inbox/CMU CMS Webpage.md",
-    "0-inbox/Bootstrapping Synthetic Data Stat Uncertainties.md",
-    "4-archive/Ann Arbor Trip 2025.md",
     "attachments/Pasted Image 20250315161206_922.png",
     "attachments/Pasted Image 20250315161151_920.png",
     "attachments/Pasted image 20250315160719.png",
