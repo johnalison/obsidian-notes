@@ -34,3 +34,9 @@ Playing around with combined regions
 
 Some [[Fly By Night Physics]]
 Some [[For a new Liberty]]
+
+# Starting Truth Skimmer
+- Testing with
+	- `python runner.py -t -s -p skimmer/processor/skimmer_truth.py -c $OUTPUT_DIR/HH4b_truth.yml -y UL18 -d GluGluToHHTo4B_cHHH0 -op $OUTPUT_DIR -o picoaod_datasets_GluGluToHHTo4B_cHHH0_UL18.yml -m $OUTPUT_DIR/datasets_HH4b.yml`
+- [ ] Basic bjet selection
+- [ ] only keep needed variables

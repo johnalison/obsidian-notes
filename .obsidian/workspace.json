@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-projects/UndergradProjects.md",
+                "file": "Journal/15 March 2025 Saturday.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "UndergradProjects"
+              "title": "15 March 2025 Saturday"
             }
           },
           {
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-projects/UndergradProjects.md",
+                "file": "Journal/15 March 2025 Saturday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +172,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for UndergradProjects"
+              "title": "Backlinks for 15 March 2025 Saturday"
             }
           },
           {
@@ -181,12 +181,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-projects/UndergradProjects.md",
+                "file": "Journal/15 March 2025 Saturday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from UndergradProjects"
+              "title": "Outgoing links from 15 March 2025 Saturday"
             }
           },
           {
@@ -208,10 +208,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-projects/UndergradProjects.md"
+                "file": "Journal/15 March 2025 Saturday.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of UndergradProjects"
+              "title": "Outline of 15 March 2025 Saturday"
             }
           },
           {
@@ -245,6 +245,7 @@
   },
   "active": "fb125bbaf3e43087",
   "lastOpenFiles": [
+    "1-projects/UndergradProjects.md",
     "3-resources/Two John Alisons.md",
     "0-inbox/Tree Stump.md",
     "0-inbox/Tool List.md",
@@ -274,7 +275,6 @@
     "3-resources/Obsidian/Images in Obsidian.md",
     "attachments/Pasted image 20250315160719.png",
     "attachments/Pasted image 20250315160647.png",
-    "Journal/13 March 2025 Thursday.md",
     "0-inbox/#DOE Review Li Zepeng.md#",
     "Input/Meetings/February",
     "Input/Meetings/January",
