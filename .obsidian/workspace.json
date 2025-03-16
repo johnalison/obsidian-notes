@@ -13,24 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/15 March 2025 Saturday.md",
+                "file": "0-inbox/DOE Review Li Zepeng.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "15 March 2025 Saturday"
-            }
-          },
-          {
-            "id": "8368ba9c90d37f9b",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "0-inbox/Drawing 2025-03-15 16.11.36.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-03-15 16.11.36.excalidraw"
+              "title": "DOE Review Li Zepeng"
             }
           },
           {
@@ -67,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/14 March 2025 Friday.md",
+                "file": "Journal/15 March 2025 Saturday.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "14 March 2025 Friday"
+              "title": "15 March 2025 Saturday"
             }
           },
           {
@@ -162,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/15 March 2025 Saturday.md",
+                "file": "0-inbox/DOE Review Li Zepeng.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +160,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 15 March 2025 Saturday"
+              "title": "Backlinks for DOE Review Li Zepeng"
             }
           },
           {
@@ -181,12 +169,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/15 March 2025 Saturday.md",
+                "file": "0-inbox/DOE Review Li Zepeng.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 15 March 2025 Saturday"
+              "title": "Outgoing links from DOE Review Li Zepeng"
             }
           },
           {
@@ -208,10 +196,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/15 March 2025 Saturday.md"
+                "file": "0-inbox/DOE Review Li Zepeng.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 15 March 2025 Saturday"
+              "title": "Outline of DOE Review Li Zepeng"
             }
           },
           {
@@ -245,6 +233,10 @@
   },
   "active": "fb125bbaf3e43087",
   "lastOpenFiles": [
+    "Journal/16 March 2025 Sunday.md",
+    "0-inbox/Drawing 2025-03-15 16.11.36.excalidraw.md",
+    "Journal/15 March 2025 Saturday.md",
+    "Journal/14 March 2025 Friday.md",
     "1-projects/UndergradProjects.md",
     "3-resources/Two John Alisons.md",
     "0-inbox/Tree Stump.md",
@@ -262,17 +254,13 @@
     "0-inbox/FNAL Site Access.md",
     "0-inbox/Existence Is Evidence of Immortality.md",
     "0-inbox/Evolution of Silicon Sensor Technology in Particle Physics.md",
-    "0-inbox/Drawing 2025-03-15 16.11.36.excalidraw.md",
     "Input/Meetings/CMU HGC MAC Meeting 11 March 2025.md",
     "Input/Papers/Building Fermilab.md",
     "0-inbox/CMU CMS Webpage.md",
     "0-inbox/Bootstrapping Synthetic Data Stat Uncertainties.md",
     "4-archive/Ann Arbor Trip 2025.md",
-    "Journal/15 March 2025 Saturday.md",
-    "Journal/14 March 2025 Friday.md",
     "attachments/Pasted Image 20250315161206_922.png",
     "attachments/Pasted Image 20250315161151_920.png",
-    "3-resources/Obsidian/Images in Obsidian.md",
     "attachments/Pasted image 20250315160719.png",
     "attachments/Pasted image 20250315160647.png",
     "0-inbox/#DOE Review Li Zepeng.md#",
