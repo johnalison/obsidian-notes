@@ -63,7 +63,8 @@
               "title": "CMU HGC MAC Meeting 4 March 2025"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -82,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "HH4b_nan",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -135,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/17 March 2025 Monday.md",
+                "file": "Journal/March 2025.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +146,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 17 March 2025 Monday"
+              "title": "Backlinks for March 2025"
             }
           },
           {
@@ -154,12 +155,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/17 March 2025 Monday.md",
+                "file": "Journal/March 2025.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 17 March 2025 Monday"
+              "title": "Outgoing links from March 2025"
             }
           },
           {
@@ -181,10 +182,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/17 March 2025 Monday.md"
+                "file": "Journal/March 2025.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 17 March 2025 Monday"
+              "title": "Outline of March 2025"
             }
           },
           {
@@ -216,15 +217,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fb125bbaf3e43087",
+  "active": "a53f9b6c8db0175d",
   "lastOpenFiles": [
+    "Journal/17 March 2025 Monday.md",
+    "Journal/March 2025.md",
     "1-projects/HH4b/Run2 HH4b AN.md",
     "1-projects/HGC/HGC MAC BoEs.md",
-    "Journal/17 March 2025 Monday.md",
     "Input/Books/Books.md",
     "2-areas/coffea4bs/Add Cutflow Histograms.md",
     "Journal/15 March 2025 Saturday.md",
-    "Journal/March 2025.md",
     "Journal/16 March 2025 Sunday.md",
     "0-inbox/Test.excalidraw.md",
     "Journal/Drawing 2025-03-15 16.11.36.excalidraw.md",

@@ -18,7 +18,7 @@
 | 16 S | DOE Review / Reading /  **Gym/SR** / Nice and easy                           |         |
 | 17 M |                                                                              |         |
 | 18 T | (Penguins Game)                                                              |         |
-| 19 W | (Wes Approval) (Hbb Talk) (MAC Meeting)                                      |         |
+| 19 W | (Wes Approval) (Hbb Talk) (MAC Meeting) (Klus Viewing)                       |         |
 | 20 H |                                                                              |         |
 | 21 F |                                                                              |         |
 | 22 S | (Chat Prospective)                                                           |         |
