@@ -68,3 +68,11 @@ setup
 	- ΔR to 0.4 => 68%
 	- ΔR to 10 => 
 
+
+# Hoops 
+- 5s good runs
+
+# Chat with Nural and Manfred
+- Directors 
+- [ ] Read steves mail
+- [[HGC MAC BoEs]]
