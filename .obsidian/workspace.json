@@ -63,7 +63,8 @@
               "title": "CMU HGC MAC Meeting 4 March 2025"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -135,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-projects/HH4b/Run2 HH4b AN.md",
+                "file": "Journal/17 March 2025 Monday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +146,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Run2 HH4b AN"
+              "title": "Backlinks for 17 March 2025 Monday"
             }
           },
           {
@@ -154,12 +155,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-projects/HH4b/Run2 HH4b AN.md",
+                "file": "Journal/17 March 2025 Monday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Run2 HH4b AN"
+              "title": "Outgoing links from 17 March 2025 Monday"
             }
           },
           {
@@ -181,10 +182,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-projects/HH4b/Run2 HH4b AN.md"
+                "file": "Journal/17 March 2025 Monday.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Run2 HH4b AN"
+              "title": "Outline of 17 March 2025 Monday"
             }
           },
           {
@@ -216,11 +217,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fb125bbaf3e43087",
+  "active": "7c3c3f51c8b5d404",
   "lastOpenFiles": [
+    "1-projects/HH4b/Run2 HH4b AN.md",
     "Journal/17 March 2025 Monday.md",
     "Input/Books/Books.md",
-    "1-projects/HH4b/Run2 HH4b AN.md",
     "2-areas/coffea4bs/Add Cutflow Histograms.md",
     "Journal/15 March 2025 Saturday.md",
     "Journal/March 2025.md",
