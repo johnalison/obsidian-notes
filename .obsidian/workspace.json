@@ -36,31 +36,31 @@
             }
           },
           {
-            "id": "7c3c3f51c8b5d404",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0-inbox/DOE Review Li Zepeng.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "DOE Review Li Zepeng"
-            }
-          },
-          {
             "id": "87d6c324227ae5ae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/13 March 2025 Thursday.md",
+                "file": "Journal/16 March 2025 Sunday.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "13 March 2025 Thursday"
+              "title": "16 March 2025 Sunday"
+            }
+          },
+          {
+            "id": "7c3c3f51c8b5d404",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Input/Books/Books.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Books"
             }
           },
           {
@@ -77,7 +77,8 @@
               "title": "CMU HGC MAC Meeting 4 March 2025"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -96,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:obsid",
+                "query": "file:book",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -129,8 +130,7 @@
               "title": "Files"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -231,14 +231,23 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fb125bbaf3e43087",
+  "active": "87d6c324227ae5ae",
   "lastOpenFiles": [
-    "Journal/13 March 2025 Thursday.md",
-    "Journal/9 March 2025 Sunday.md",
+    "Journal/17 March 2025 Monday.md",
     "Journal/16 March 2025 Sunday.md",
-    "Journal/14 March 2025 Friday.md",
     "Journal/15 March 2025 Saturday.md",
-    "0-inbox/DOE Review Li Zepeng.md",
+    "Journal/March 2025.md",
+    "Journal/14 March 2025 Friday.md",
+    "Output/ProgressReports/ProgressReport 14 March 2025.md",
+    "Journal/13 March 2025 Thursday.md",
+    "Journal/12 March 2025 Wednesday.md",
+    "Journal/11 March 2025 Tuesday.md",
+    "Journal/10 March 2025 Monday.md",
+    "Journal/9 March 2025 Sunday.md",
+    "Journal/8 March 2025 Saturday.md",
+    "Input/Books/Books.md",
+    "Output/DOE Review Li Zepeng.md",
+    "Journal/7 March 2025 Friday.md",
     "0-inbox/Drawing 2025-03-15 16.11.36.excalidraw.md",
     "1-projects/UndergradProjects.md",
     "3-resources/Two John Alisons.md",
@@ -250,15 +259,6 @@
     "Input/Videos/Nietzsche's Genealogy of Morality Explained.md",
     "2-areas/coffea4bs/Migrate hemisphere mixing to python.md",
     "0-inbox/HH at future colliders.md",
-    "0-inbox/Mass of jets is not invariant.md",
-    "Input/Papers/Institutional Review HL-LHC Projections HIG-25-002.md",
-    "Input/Books/I See Satan Fall Like Lightning.md",
-    "0-inbox/HGC TDR.md",
-    "0-inbox/FNAL Site Access.md",
-    "0-inbox/Existence Is Evidence of Immortality.md",
-    "0-inbox/Evolution of Silicon Sensor Technology in Particle Physics.md",
-    "Input/Meetings/CMU HGC MAC Meeting 11 March 2025.md",
-    "Input/Papers/Building Fermilab.md",
     "attachments/Pasted Image 20250315161206_922.png",
     "attachments/Pasted Image 20250315161151_920.png",
     "attachments/Pasted image 20250315160719.png",

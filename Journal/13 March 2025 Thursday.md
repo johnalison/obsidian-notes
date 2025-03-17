@@ -59,7 +59,7 @@ Finished Grades
 # Faculty Meeting
 - Spend Extra money!
 - Sent "MidTerm Grades"
-- How to do we advertise ?
+- How to do we advertise to other majors ?
 - Dont know if we are running a deficit or not. 
 
 
@@ -67,7 +67,7 @@ Finished Grades
 - Will make dR_min plot
 - Needs to add four-vectors not masses!
 
-# Implementing Run3 Seleciton
+# Implementing Run3 Selection
 - Working cutflow ... got unit test working
 - Adding dhh min
 - [x] Synch Higgs Candidate Selection

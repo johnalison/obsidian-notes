@@ -3,15 +3,15 @@ In Ann Arbor
 ---
 # To Do
 
-- [ ] Schedule FNAL badging appointment
+- [>>] Schedule FNAL badging appointment
 - [x] Can ChatGPT write an paper draft from an AN
 - [XX] ~~Fill out grad student Grades~~
 - [>>] Fermilab Training
 - [>>]  Do  [[DOE Review Li Zepeng]] (**Due Date:** 03/19/2025)
-- [ ] Hemisphere plots 
+- [>>] Hemisphere plots 
 - [>>] CutFlow for Marina Make Run3 CR cut and make a print of event/run numbers
-- [ ] Write up bootstraping study
-- [ ]  Call Liberty mutual re:tree down
+- [>>] Write up bootstraping study
+- [>>]  Call Liberty mutual re:tree down
 - [>>] Skim data for boosted events (no trigger)
 - [>>] Follow up sindhu re:Dylan 
 ---

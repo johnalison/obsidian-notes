@@ -32,9 +32,10 @@
 
 - [x] Post homework 6
 - [x] Fermilab Training
-- [ ] Review Wes' Fermilab slides
+- [>>] Review Wes' Fermilab slides
 - [x] L2 Comments
-- [ ] Write  [[ProgressReport 14 March 2025]]
+- [x] Write  [[ProgressReport 14 March 2025]]
+	- <font color=red> On Saturday, on Saturday ... on Saturday </font>
 - [AE] Skim data for boosted events (no trigger)
 	- [x] Marina Mail
 - [>>] Skim data for truth events
@@ -42,7 +43,7 @@
 - [>>] Code to do combined regions
 - [x] Get commencement gear have until 21st 
 - [x] Review Wes' approval slides
-- [ ] Understand Chuyuan's slides
+- [>>] Understand Chuyuan's slides
 
 ---
 

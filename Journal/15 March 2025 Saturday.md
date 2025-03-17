@@ -1,6 +1,6 @@
-- [ ] Make sum/SB/SR plots presentation
+- [>>] Make sum/SB/SR plots presentation
 - [x] Code to do combined regions
-- [ ] Skim data for truth events
+- [>>] Skim data for truth events
 - [x] Write  [[ProgressReport 14 March 2025]]
 - [x] Finances
 
@@ -20,10 +20,10 @@ Finished [[ProgressReport 14 March 2025]]
 
 # Starting  [[DOE Review Li Zepeng]] 
 - Read it 
-- [ ] Drafting report
+- [>>] Drafting report
 
 Some L2 comments
-- [ ] ROC plots for various signal points
+- [>>] ROC plots for various signal points
 - Solid first draft
 
 [[Drawing 2025-03-15 16.11.36.excalidraw]]

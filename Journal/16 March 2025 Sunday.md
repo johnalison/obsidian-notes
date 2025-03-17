@@ -20,4 +20,8 @@ Some [[For a new Liberty]]
 
 # Externalities are solved with Technology, not coordination
 - https://www.maximum-progress.com/p/most-externalities-are-solved-with
-- 
+
+
+# How to understand things
+- https://nabeelqu.co/understanding
+- Intelligent people simply _aren’t willing to accept answers that they don’t understand_ — no matter how many other people try to convince them of it, or how many other people believe it, if they aren’t able to convince them selves of it, they won’t accept it.
