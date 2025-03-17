@@ -15,8 +15,8 @@
 |     | Nural                  |     |
 | 3   | Skim Truth for Soeheun |     |
 |     | Skim Truth for Soeheun |     |
-| 4   |                        |     |
-|     |                        |     |
+| 4   | Skim Truth for Soeheun |     |
+|     | Skim Truth for Soeheun |     |
 
 **W:**
 **DW:**
@@ -30,11 +30,11 @@
 ---
 # To Do
 
-- [ ]  Schedule FNAL badging appointment
+- [ ] Schedule FNAL badging appointment
 - [ ] Hemisphere plots 
 - [ ] Write up bootstraping study
-- [ ]  Call Liberty mutual re:tree down
-- [ ]  Review Wes' Fermilab slides
+- [ ] Call Liberty mutual re:tree down
+- [ ] Review Wes' Fermilab slides
 - [ ] Understand Chuyuan's slides
 - [ ] Make sum/SB/SR plots presentation
 - [ ] Skim data for truth events
@@ -81,4 +81,9 @@ setup
 
 More Acceptance plots.  .. see above
 
+
+# Truth Skimmer
+- `python runner.py   -s -p skimmer/processor/skimmer_truth.py -c skimmer/metadata/HH4b_truth.yml -y UL18 -d ZZ4b ZH4b -op output/TruthSkims -o picoaod_datasets_GluGluToHHTo4B_cHHH0_UL18.yml -m metadata/datasets_HH4b.yml --condor`
+- Submitted on **cmslpc315**
+- Saw an error with the nanny port... resubmitting... now see jobs in condor_q
 

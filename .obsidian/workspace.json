@@ -63,8 +63,7 @@
               "title": "CMU HGC MAC Meeting 4 March 2025"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -83,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "youtube ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -136,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/March 2025.md",
+                "file": "Journal/17 March 2025 Monday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +145,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for March 2025"
+              "title": "Backlinks for 17 March 2025 Monday"
             }
           },
           {
@@ -155,12 +154,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/March 2025.md",
+                "file": "Journal/17 March 2025 Monday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from March 2025"
+              "title": "Outgoing links from 17 March 2025 Monday"
             }
           },
           {
@@ -182,10 +181,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/March 2025.md"
+                "file": "Journal/17 March 2025 Monday.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of March 2025"
+              "title": "Outline of 17 March 2025 Monday"
             }
           },
           {
@@ -217,15 +216,22 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a53f9b6c8db0175d",
+  "active": "fb125bbaf3e43087",
   "lastOpenFiles": [
+    "Journal/15 March 2025 Saturday.md",
     "Journal/17 March 2025 Monday.md",
+    "1-projects/HGC/CMU HGC MAC Websites.md",
+    "Journal/2024/November/29 November 2024 Friday.md",
+    "Journal/2024/November/24 November 2024 Sunday.md",
+    "Journal/2024/October/19 October 2024 Saturday.md",
+    "Journal/2024/July/17 July 2024 Wednesday.md",
+    "Journal/2024/November/9 November 2024 Saturday.md",
+    "Journal/6 March 2025 Thursday.md",
     "Journal/March 2025.md",
     "1-projects/HH4b/Run2 HH4b AN.md",
     "1-projects/HGC/HGC MAC BoEs.md",
     "Input/Books/Books.md",
     "2-areas/coffea4bs/Add Cutflow Histograms.md",
-    "Journal/15 March 2025 Saturday.md",
     "Journal/16 March 2025 Sunday.md",
     "0-inbox/Test.excalidraw.md",
     "Journal/Drawing 2025-03-15 16.11.36.excalidraw.md",
@@ -238,13 +244,6 @@
     "Journal/8 March 2025 Saturday.md",
     "Journal/7 March 2025 Friday.md",
     "Output/ProgressReports/ProgressReport 14 March 2025.md",
-    "Output/DOE Review Li Zepeng.md",
-    "1-projects/UndergradProjects.md",
-    "3-resources/Two John Alisons.md",
-    "0-inbox/Tree Stump.md",
-    "0-inbox/Tool List.md",
-    "0-inbox/StartupSpending.md",
-    "0-inbox/Run2 X->HY->4b.md",
     "attachments/Pasted Image 20250315161206_922.png",
     "attachments/Pasted Image 20250315161151_920.png",
     "attachments/Pasted image 20250315160719.png",
