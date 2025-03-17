@@ -5,16 +5,16 @@
 |     | Teach                  |     |
 | 10  | Skim Truth for Soeheun |     |
 |     | Skim Truth for Soeheun |     |
-| 11  |                        |     |
-|     |                        |     |
+| 11  | accX Eff Plots         |     |
+|     | accX Eff Plots         |     |
 | 12  | Hoops                  |     |
 |     | Hoops                  |     |
 | 1   | Hoops                  |     |
 |     | Hoops                  |     |
 | 2   | Nural                  |     |
 |     | Nural                  |     |
-| 3   |                        |     |
-|     |                        |     |
+| 3   | Skim Truth for Soeheun |     |
+|     | Skim Truth for Soeheun |     |
 | 4   |                        |     |
 |     |                        |     |
 
@@ -38,9 +38,10 @@
 - [ ] Understand Chuyuan's slides
 - [ ] Make sum/SB/SR plots presentation
 - [ ] Skim data for truth events
-	- [ ]  Remove the GenParts
+	- [x]  Remove the GenParts
 - [ ] ROC plots for various signal points
-- [ ] Ping Abels
+- [x] Ping Abels
+- [x] Fix AccXEff plots
 
 ---
 
@@ -66,7 +67,8 @@ setup
 - `python plots/makeAccxEff.py output/analysis_test_job/signal_HH4b_nano_fixed.coffea hist_HH.coffea --output testAccNew`
 - Only half (46%) the events have four matching genJets
 	- ΔR to 0.4 => 68%
-	- ΔR to 10 => 
+	- ΔR to 10 => 99%
+- 
 
 
 # Hoops 
@@ -76,3 +78,7 @@ setup
 - Directors 
 - [ ] Read steves mail
 - [[HGC MAC BoEs]]
+
+More Acceptance plots.  .. see above
+
+
