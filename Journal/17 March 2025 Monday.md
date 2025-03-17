@@ -1,22 +1,22 @@
 
-|     | setup |     |
-| --- | ----- | --- |
-| 9   | Teach |     |
-|     | Teach |     |
-| 10  |       |     |
-|     |       |     |
-| 11  |       |     |
-|     |       |     |
-| 12  | Hoops |     |
-|     | Hoops |     |
-| 1   | Hoops |     |
-|     | Hoops |     |
-| 2   | Nural |     |
-|     | Nural |     |
-| 3   |       |     |
-|     |       |     |
-| 4   |       |     |
-|     |       |     |
+|     | setup                  |     |
+| --- | ---------------------- | --- |
+| 9   | Teach                  |     |
+|     | Teach                  |     |
+| 10  | Skim Truth for Soeheun |     |
+|     | Skim Truth for Soeheun |     |
+| 11  |                        |     |
+|     |                        |     |
+| 12  | Hoops                  |     |
+|     | Hoops                  |     |
+| 1   | Hoops                  |     |
+|     | Hoops                  |     |
+| 2   | Nural                  |     |
+|     | Nural                  |     |
+| 3   |                        |     |
+|     |                        |     |
+| 4   |                        |     |
+|     |                        |     |
 
 **W:**
 **DW:**
@@ -25,7 +25,7 @@
 
 ---
 # The ONE thing: 
-- [ ] 
+- [ ] Finish Truth Skimmer
 
 ---
 # To Do
@@ -38,6 +38,7 @@
 - [ ] Understand Chuyuan's slides
 - [ ] Make sum/SB/SR plots presentation
 - [ ] Skim data for truth events
+	- [ ]  Remove the GenParts
 - [ ] ROC plots for various signal points
 - [ ] Ping Abels
 
@@ -51,3 +52,8 @@ Up at 7
 M&T to school 
 
 setup
+
+# Taught 
+- Atomic models
+
+Remake m4j plots after removing Nones

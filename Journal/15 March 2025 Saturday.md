@@ -8,7 +8,7 @@
 
 # Log
 
- Up at 8
+Up at 8
 
 Reviewed Wes' Approval talk slides:
 	https://docs.google.com/presentation/d/1hbuxgVxv5VvY7FCci0u0AU5zKmRtdyT8o8K2KSQGueY/edit#slide=id.g2e33be170a5_0_12
@@ -22,7 +22,7 @@ Finished [[ProgressReport 14 March 2025]]
 - Read it 
 - [>>] Drafting report
 
-Some L2 comments
+# [[Run2 HH4b AN]]
 - [>>] ROC plots for various signal points
 - Solid first draft
 
@@ -43,6 +43,6 @@ Some [[For a new Liberty]]
 - [x] only keep needed variables
 - changing output broken when using the preselct ... mismatch between events and branches
 - Got it working !!!
-- [ ] Remove the GenParts
+- [>>] Remove the GenParts
 
 Lots of late night debugging 

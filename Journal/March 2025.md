@@ -14,8 +14,8 @@
 | 12 W | Taught / Implement Run3 selection / **Hoops/SR** / outreach / Top Quark Talk | 7/2/1   |
 | 13 H | Graded Exam2/ Taught / Faculty re$ / Implement Run3 / HEP Chat               | 9/2/2   |
 | 14 F | (Visiting Day) Taught Demo / Met Prospectives / **Hoops**/ More chats        | 7/1/0   |
-| 15 S |                                                                              |         |
-| 16 S |                                                                              |         |
+| 15 S | **Finances 1.9/1.8** / DOE Review / Reading / Start Truth Skimmer            |         |
+| 16 S | DOE Review / Reading /  **Gym/SR** / Nice and easy                           |         |
 | 17 M |                                                                              |         |
 | 18 T | (Penguins Game)                                                              |         |
 | 19 W | (Wes Approval) (Hbb Talk) (MAC Meeting)                                      |         |
