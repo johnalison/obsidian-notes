@@ -56,4 +56,8 @@ setup
 # Taught 
 - Atomic models
 
+# Run3 Cutflow debugging
+- added pt_raw to debug output 
+- remaking pkl file for Marina
+
 Remake m4j plots after removing Nones
