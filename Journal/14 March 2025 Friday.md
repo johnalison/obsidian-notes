@@ -18,9 +18,9 @@
 | 4   | Chat MC                  |     |
 |     | L2 Comments              |     |
 
-**W:**
-**DW:**
-**OT:**
+**W:** 7
+**DW:** 1  
+**OT:** 0 
 **ex** or **No ex**
 
 ---
@@ -32,12 +32,13 @@
 
 - [x] Post homework 6
 - [x] Fermilab Training
+	 - <font color=red> On Saturday, on Saturday ... on Saturday </font>
 - [>>] Review Wes' Fermilab slides
 - [x] L2 Comments
 - [x] Write  [[ProgressReport 14 March 2025]]
 	- <font color=red> On Saturday, on Saturday ... on Saturday </font>
 - [AE] Skim data for boosted events (no trigger)
-	- [x] Marina Mail
+- [x] Marina Mail
 - [>>] Skim data for truth events
 - [>>] Make sum/SB/SR plots presentation
 - [>>] Code to do combined regions
@@ -81,13 +82,15 @@ Marina mail
 
 # Prospective Chat: Mengke Zhang 
 
+
 # Fixed Cutflow for Marina 
 - Add was only including one data Era
 - [x] Add other eras
 - [x] Add other Pt corrections
 - sent
 
-Chat MP
+
+# Chat MP
 - Matteo going rogue visiting Alan Stone
 - Got the SOW from FNAL ! 
 

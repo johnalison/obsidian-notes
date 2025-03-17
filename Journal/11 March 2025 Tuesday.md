@@ -36,7 +36,7 @@ Chat with Herwig re:LDMX
   
 - Fermilab: I have a draft of the research seminar slides (missing a few plots that I was waiting on for results and interpretations as they are rapidly being updated). I am still working on the outreach talk (10min "outreach talk should not mimic a talk you would give in a public outreach event; instead, it is an opportunity for you to describe your outreach experiences, your outreach philosophy, and your ideas on how you might perform outreach as a Lederman Fellow." ).
 
-- Defense: I would like to send out a poll for a date in April. Do you think this is still a good timeline?
+- Defense: I would like to send out a poll for a date in April. 
 
 # [[CMU HGC MAC Meeting 11 March 2025]]
 

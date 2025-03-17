@@ -13,7 +13,7 @@
 | 11 T | (Ann Arbor) Chat Bing / Chat Herwig LDMX / Lunch / Airport                   | All Day |
 | 12 W | Taught / Implement Run3 selection / **Hoops/SR** / outreach / Top Quark Talk | 7/2/1   |
 | 13 H | Graded Exam2/ Taught / Faculty re$ / Implement Run3 / HEP Chat               | 9/2/2   |
-| 14 F | (Visiting Day)                                                               |         |
+| 14 F | (Visiting Day) Taught Demo / Met Prospectives / **Hoops**/ More chats        | 7/1/0   |
 | 15 S |                                                                              |         |
 | 16 S |                                                                              |         |
 | 17 M |                                                                              |         |

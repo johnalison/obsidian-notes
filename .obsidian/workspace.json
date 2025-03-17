@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/16 March 2025 Sunday.md",
+                "file": "Journal/17 March 2025 Monday.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "16 March 2025 Sunday"
+              "title": "17 March 2025 Monday"
             }
           },
           {
@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/16 March 2025 Sunday.md",
+                "file": "Journal/15 March 2025 Saturday.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "16 March 2025 Sunday"
+              "title": "15 March 2025 Saturday"
             }
           },
           {
@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:book",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/16 March 2025 Sunday.md",
+                "file": "Journal/15 March 2025 Saturday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 16 March 2025 Sunday"
+              "title": "Backlinks for 15 March 2025 Saturday"
             }
           },
           {
@@ -169,12 +169,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/16 March 2025 Sunday.md",
+                "file": "Journal/15 March 2025 Saturday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 16 March 2025 Sunday"
+              "title": "Outgoing links from 15 March 2025 Saturday"
             }
           },
           {
@@ -196,10 +196,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/16 March 2025 Sunday.md"
+                "file": "Journal/15 March 2025 Saturday.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 16 March 2025 Sunday"
+              "title": "Outline of 15 March 2025 Saturday"
             }
           },
           {
@@ -233,21 +233,21 @@
   },
   "active": "87d6c324227ae5ae",
   "lastOpenFiles": [
-    "Journal/17 March 2025 Monday.md",
-    "Journal/16 March 2025 Sunday.md",
-    "Journal/15 March 2025 Saturday.md",
-    "Journal/March 2025.md",
     "Journal/14 March 2025 Friday.md",
-    "Output/ProgressReports/ProgressReport 14 March 2025.md",
+    "Journal/March 2025.md",
+    "Journal/17 March 2025 Monday.md",
     "Journal/13 March 2025 Thursday.md",
     "Journal/12 March 2025 Wednesday.md",
+    "Journal/16 March 2025 Sunday.md",
     "Journal/11 March 2025 Tuesday.md",
     "Journal/10 March 2025 Monday.md",
     "Journal/9 March 2025 Sunday.md",
     "Journal/8 March 2025 Saturday.md",
+    "Journal/7 March 2025 Friday.md",
+    "Journal/15 March 2025 Saturday.md",
+    "Output/ProgressReports/ProgressReport 14 March 2025.md",
     "Input/Books/Books.md",
     "Output/DOE Review Li Zepeng.md",
-    "Journal/7 March 2025 Friday.md",
     "0-inbox/Drawing 2025-03-15 16.11.36.excalidraw.md",
     "1-projects/UndergradProjects.md",
     "3-resources/Two John Alisons.md",

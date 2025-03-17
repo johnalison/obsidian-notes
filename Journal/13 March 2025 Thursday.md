@@ -21,7 +21,7 @@
 **W:** 9 
 **DW:** 2
 **OT:** 2
-**ex** or **No ex**
+ **No ex**
 
 ---
 # The ONE thing: 

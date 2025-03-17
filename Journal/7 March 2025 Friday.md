@@ -29,7 +29,7 @@ Sent AN v6 and L2 comments
 - Requested
 
 # Check out perplexity
-- Signed up with proplexity pro
+- Signed up with perplexity pro
 
 
 Reading [[Fly By Night Physics]]

@@ -1,22 +1,22 @@
 
-|     |     |     |
-| --- | --- | --- |
-| 9   |     |     |
-|     |     |     |
-| 10  |     |     |
-|     |     |     |
-| 11  |     |     |
-|     |     |     |
-| 12  |     |     |
-|     |     |     |
-| 1   |     |     |
-|     |     |     |
-| 2   |     |     |
-|     |     |     |
-| 3   |     |     |
-|     |     |     |
-| 4   |     |     |
-|     |     |     |
+|     | setup |     |
+| --- | ----- | --- |
+| 9   | Teach |     |
+|     | Teach |     |
+| 10  |       |     |
+|     |       |     |
+| 11  |       |     |
+|     |       |     |
+| 12  | Hoops |     |
+|     | Hoops |     |
+| 1   | Hoops |     |
+|     | Hoops |     |
+| 2   | Nural |     |
+|     | Nural |     |
+| 3   |       |     |
+|     |       |     |
+| 4   |       |     |
+|     |       |     |
 
 **W:**
 **DW:**
@@ -39,7 +39,15 @@
 - [ ] Make sum/SB/SR plots presentation
 - [ ] Skim data for truth events
 - [ ] ROC plots for various signal points
+- [ ] Ping Abels
 
 ---
 
 # Log
+
+
+Up at 7 
+
+M&T to school 
+
+setup
