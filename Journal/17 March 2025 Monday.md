@@ -88,6 +88,7 @@ More Acceptance plots.  .. see above
 - Saw an error with the nanny port... resubmitting... now see jobs in condor_q
 - ...Finished.
 	- `root://cmseos.fnal.gov//store/user/jda102/XX4b/2024_v3/Z?4b_UL18/`
+- [https://cmu.box.com/s/z1awu1efhjd5xqfev9arcgoy1mq8s01y](https://cmu.box.com/s/z1awu1efhjd5xqfev9arcgoy1mq8s01y)
 
 Home with M&T
 
