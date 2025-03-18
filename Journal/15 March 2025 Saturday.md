@@ -27,6 +27,7 @@ Finished [[ProgressReport 14 March 2025]]
 - Solid first draft
 
 [[Drawing 2025-03-15 16.11.36.excalidraw]]
+	Maybe re-weight dR(close) vs dR(other) mass plane.
 
 Did FNAL training
 
@@ -35,7 +36,7 @@ Playing around with combined regions
 Some [[Fly By Night Physics]]
 Some [[For a new Liberty]]
 
-# Starting Truth Skimmer
+# Starting [[Truth Skimmer]] 
 - Testing with
 	- `sed -e "s#base_path.*#base_path: \/srv\/python\/output\/skimmer_test_job\/#" -e "s/\#max.*/maxchunks: 5/" -e "s/\#test.*/test_files: 1/" -e "s/2024_.*/tmp\//" skimmer/metadata/HH4b_truth.yml > $OUTPUT_DIR/HH4b_truth.yml`
 	- `python runner.py -t -s -p skimmer/processor/skimmer_truth.py -c $OUTPUT_DIR/HH4b_truth.yml -y UL18 -d GluGluToHHTo4B_cHHH0 -op $OUTPUT_DIR -o picoaod_datasets_GluGluToHHTo4B_cHHH0_UL18.yml -m $OUTPUT_DIR/datasets_HH4b.yml`

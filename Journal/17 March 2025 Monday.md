@@ -18,10 +18,10 @@
 | 4   | Skim Truth for Soeheun |     |
 |     | Skim Truth for Soeheun |     |
 
-**W:**
-**DW:**
-**OT:**
-**ex** or **No ex**
+**W:** 6 
+**DW:** 5
+**OT:** 2
+**ex** 
 
 ---
 # The ONE thing: 
@@ -30,16 +30,16 @@
 ---
 # To Do
 
-- [ ] Schedule FNAL badging appointment
-- [ ] Hemisphere plots 
-- [ ] Write up bootstraping study
+- [>>] Schedule FNAL badging appointment
+- [>>] Hemisphere plots 
+- [>>] Write up bootstraping study
 - [ ] Call Liberty mutual re:tree down
 - [ ] Review Wes' Fermilab slides
 - [ ] Understand Chuyuan's slides
-- [ ] Make sum/SB/SR plots presentation
+- [>>] Make sum/SB/SR plots presentation
 - [x] Skim data for truth events
 	- [x]  Remove the GenParts
-- [ ] ROC plots for various signal points
+- [>>] ROC plots for various signal points
 - [x] Ping Abels
 - [x] Fix AccXEff plots
 
@@ -61,14 +61,15 @@ setup
 - added pt_raw to debug output 
 - remade pkl file for Marina... sent 
 
-# New Acceptance plots
-- Remake m4j plots after removing fix for Nones
+
+# [[Run2 HH4b AN]] 
+- New Acceptance plots
+- Remake m4j plots after removing fix for Nones .. in matchBjets∝
 - `python runner.py   -o signal_HH4b_nano_fixed.coffea -d GluGluToHHTo4B_cHHH1  -p analysis/processors/processor_HH4b.py -y UL18 UL17 UL16_preVFP UL16_postVFP   -op output/analysis_test_job -m metadata/datasets_HH4b.yml -c analysis/metadata/HH4b_nano.yml`
 - `python plots/makeAccxEff.py output/analysis_test_job/signal_HH4b_nano_fixed.coffea hist_HH.coffea --output testAccNew`
 - Only half (46%) the events have four matching genJets
 	- ΔR to 0.4 => 68%
 	- ΔR to 10 => 99%
-- 
 
 
 # Hoops 
@@ -76,19 +77,19 @@ setup
 
 # Chat with Nural and Manfred
 - Directors 
-- [ ] Read steves mail
+- [>>] Read steves mail
 - [[HGC MAC BoEs]]
 
 More Acceptance plots.  .. see above
 
 
-# Truth Skimmer
+# [[Truth Skimmer]]
 - `python runner.py   -s -p skimmer/processor/skimmer_truth.py -c skimmer/metadata/HH4b_truth.yml -y UL18 -d ZZ4b ZH4b -op output/TruthSkims -o picoaod_datasets_GluGluToHHTo4B_cHHH0_UL18.yml -m metadata/datasets_HH4b.yml --condor`
 - Submitted on **cmslpc315**
 - Saw an error with the nanny port... resubmitting... now see jobs in condor_q
 - ...Finished.
 	- `root://cmseos.fnal.gov//store/user/jda102/XX4b/2024_v3/Z?4b_UL18/`
-- [https://cmu.box.com/s/z1awu1efhjd5xqfev9arcgoy1mq8s01y](https://cmu.box.com/s/z1awu1efhjd5xqfev9arcgoy1mq8s01y)
+- sent to Soehen [https://cmu.box.com/s/z1awu1efhjd5xqfev9arcgoy1mq8s01y](https://cmu.box.com/s/z1awu1efhjd5xqfev9arcgoy1mq8s01y)
 
 Home with M&T
 

@@ -56,7 +56,7 @@ Tried to work demo... failed.
 
 # Taught
 - Diane there with demo.  Works!!!
-- Went over exam and 
+- Went over exam and some problems
 
 Posted HW#6
 

@@ -24,7 +24,10 @@ ACR: (AR_dHM >= 30) & (AR_dHM < 55)
 
 # Logs
 
-[[7 January 2025 Tuesday]]
+
+
+
+## [[7 January 2025 Tuesday]]
 - output event list for florida
 	- `python debug_HHRun3.py`
 - Outputting our preSelection event list
@@ -36,7 +39,7 @@ ACR: (AR_dHM >= 30) & (AR_dHM < 55)
 - Some differences in jet and b-jet multiplicities
 
 
-[[6 January 2025 Monday]]
+## [[6 January 2025 Monday]]
 - Copied File from marina to 
 	`root://cmseos.fnal.gov//store/user/jda102/debugRun3HH/data_2022_postEE_0_tree.root`
 - Chat GPT to write uproot program
