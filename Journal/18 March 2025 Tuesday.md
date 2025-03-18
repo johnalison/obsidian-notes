@@ -79,11 +79,25 @@ Standard module assembly site 2 (CMU) produces, tests, and delivers about 4240 H
 	- Total cost $1,776k for CR Standard Module Assembly Site 2 ($207k uncertainty from 17.5% on Labor for techs)
 	- Dominated by labor 95% $188k
 	- FTES: 
-		- Senior Engineer + 4 techs (Jessica + Ornella + Jonas + Josh + `____`  + students)
+		- Senior Engineer + 4 techs (Jessica + Ornella + Jonas + Josh + `____`  + 2 students)
 - Schedule HGC week: https://indico.cern.ch/event/1464337/contributions/6165029/attachments/3015759/5320011/20250217_Intro_Overview.pdf
 	- Has modules finishing in Oct 2026
+- Workforce Preparation for the Module Assembly
+	- https://cms-docdb.cern.ch/cgi-bin/DocDB/RetrieveFile?docid=13032&filename=Workforce%20Preparation%20for%20the%20Module%20Assembly.pdf&version=21
+- Rates: (From Vars)
+	- 1-80: 
+		- Tech 1 (Jr ) : 28k (1-80)
+		- Tech 3(senior): 13k
+		- UG: 8k
+		- Engineer 20k
+	- 81-240
+		- Tech 1 (Jr ) : 28k (1-80): 56k
+		- Tech 3(senior): 26
+		- UG: 16
+		- Engineer: 40k 
+	- 5-8%
 
 
 ## [[CMU HGC MAC Meeting 18 March 2025]]
 
-
+More Estimate to complete... see above
