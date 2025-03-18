@@ -70,11 +70,8 @@ Package arrived with a bunch of fittings
 Some [[Wesley Terrill Letter Spring 25]]
 
 
-# Mans Meeting
-- Need monthly counts of how many modules we produce
-- [x] Clarify plan with Joe / Suzzane 
-- Progress Review: DOE wants annual progress reviews. 
-- W-F April 23-25 DR / June 2-6 
+# [[HGCManagementMeeting 4 February 2025]]
+
 
 Home
 

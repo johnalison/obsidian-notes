@@ -105,3 +105,10 @@ Standard module assembly site 2 (CMU) produces, tests, and delivers about 4240 H
 ## [[CMU HGC MAC Meeting 18 March 2025]]
 
 More Estimate to complete... see above
+
+Coffee with AE and SM
+
+[[HGCManagementMeeting 18 March 2025]]
+- pwd: 
+- Office of project assessment at FNAL 
+- Estimate to complete important 

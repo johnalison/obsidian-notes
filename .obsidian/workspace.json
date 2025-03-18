@@ -49,8 +49,7 @@
               "title": "HGC MAC BoEs"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-projects/HGC/HGC MAC BoEs.md",
+                "file": "Journal/18 March 2025 Tuesday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +131,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for HGC MAC BoEs"
+              "title": "Backlinks for 18 March 2025 Tuesday"
             }
           },
           {
@@ -141,12 +140,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-projects/HGC/HGC MAC BoEs.md",
+                "file": "Journal/18 March 2025 Tuesday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from HGC MAC BoEs"
+              "title": "Outgoing links from 18 March 2025 Tuesday"
             }
           },
           {
@@ -168,10 +167,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-projects/HGC/HGC MAC BoEs.md"
+                "file": "Journal/18 March 2025 Tuesday.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of HGC MAC BoEs"
+              "title": "Outline of 18 March 2025 Tuesday"
             }
           },
           {
@@ -203,8 +202,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7c3c3f51c8b5d404",
+  "active": "fb125bbaf3e43087",
   "lastOpenFiles": [
+    "0-inbox/HGCManagementMeeting 18 March 2025.md",
+    "Journal/February 2025/4 February 2025 Tuesday.md",
+    "0-inbox/HGCManagementMeeting 4 February 2025.md",
+    "Input/Meetings/January/HGCManagementMeeting 28 January 2025.md",
+    "Journal/January 2025/28 January 2025 Tuesday.md",
+    "Input/Meetings/February/CMU HGC MAC Meeting 4 February 2025.md",
     "Journal/18 March 2025 Tuesday.md",
     "1-projects/HGC/HGC MAC BoEs.md",
     "Journal/March 2025.md",
@@ -225,12 +230,6 @@
     "Journal/17 March 2025 Monday.md",
     "Journal/16 March 2025 Sunday.md",
     "Journal/Drawing 2025-03-15 16.11.36.excalidraw.md",
-    "Journal/14 March 2025 Friday.md",
-    "Journal/13 March 2025 Thursday.md",
-    "Journal/12 March 2025 Wednesday.md",
-    "2-areas/Mentoring/Wesley Terrill.md",
-    "Journal/10 March 2025 Monday.md",
-    "1-projects/HGC/CMU HGC MAC Websites.md",
     "attachments/Pasted Image 20250315161206_922.png",
     "attachments/Pasted Image 20250315161151_920.png",
     "attachments/Pasted image 20250315160719.png",
