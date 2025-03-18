@@ -25,7 +25,7 @@
 
 ---
 # The ONE thing: 
-- [ ] Finish Truth Skimmer
+- [x] Finish Truth Skimmer
 
 ---
 # To Do
@@ -37,7 +37,7 @@
 - [ ] Review Wes' Fermilab slides
 - [ ] Understand Chuyuan's slides
 - [ ] Make sum/SB/SR plots presentation
-- [ ] Skim data for truth events
+- [x] Skim data for truth events
 	- [x]  Remove the GenParts
 - [ ] ROC plots for various signal points
 - [x] Ping Abels
@@ -86,6 +86,8 @@ More Acceptance plots.  .. see above
 - `python runner.py   -s -p skimmer/processor/skimmer_truth.py -c skimmer/metadata/HH4b_truth.yml -y UL18 -d ZZ4b ZH4b -op output/TruthSkims -o picoaod_datasets_GluGluToHHTo4B_cHHH0_UL18.yml -m metadata/datasets_HH4b.yml --condor`
 - Submitted on **cmslpc315**
 - Saw an error with the nanny port... resubmitting... now see jobs in condor_q
+- ...Finished.
+	- `root://cmseos.fnal.gov//store/user/jda102/XX4b/2024_v3/Z?4b_UL18/`
 
 Home with M&T
 
