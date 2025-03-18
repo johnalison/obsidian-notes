@@ -7,7 +7,10 @@ The BoE area for [[Module assembly at CMU]] is at
 	- 7872: => 3936 for detector + 5% spares + 120 losses = 4240 each site
 - Production plan: 
 	- pre-production: 360 w/ 240 working modules ~5% total
-	- 
+	- assuming a pre-production labor inefficiency of 50% (longer duration to build modules)
+- Production plan:
+	-  Batches of 8%: each 30 days with 27 days of effort = 324 module / month
+	- Total of 11 8% blocks+ (3%  and 2% blocks on the ends)
 
 There you find the BoE we wrote for CD2/3 plus backup documentation such as for cleanroom consumables etc
 

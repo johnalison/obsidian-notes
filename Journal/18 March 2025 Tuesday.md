@@ -86,16 +86,20 @@ Standard module assembly site 2 (CMU) produces, tests, and delivers about 4240 H
 	- https://cms-docdb.cern.ch/cgi-bin/DocDB/RetrieveFile?docid=13032&filename=Workforce%20Preparation%20for%20the%20Module%20Assembly.pdf&version=21
 - Rates: (From Vars)
 	- 1-80: 
-		- Tech 1 (Jr ) : 28k (1-80)
+		- Tech 1 (Jr ) : 28k 
 		- Tech 3(senior): 13k
 		- UG: 8k
 		- Engineer 20k
 	- 81-240
 		- Tech 1 (Jr ) : 28k (1-80): 56k
-		- Tech 3(senior): 26
-		- UG: 16
+		- Tech 3(senior): 26k
+		- UG: 16k
 		- Engineer: 40k 
-	- 5-8%
+	- 8%-block; 
+		- Tech 1 (Jr ) : 41k
+		- Tech 3(senior): 19k
+		- UG: 12k
+		- Engineer: 28k
 
 
 ## [[CMU HGC MAC Meeting 18 March 2025]]
