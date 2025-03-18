@@ -63,8 +63,7 @@
               "title": "HGC MAC BoEs"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -136,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/15 March 2025 Saturday.md",
+                "file": "Journal/18 March 2025 Tuesday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +145,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 15 March 2025 Saturday"
+              "title": "Backlinks for 18 March 2025 Tuesday"
             }
           },
           {
@@ -155,12 +154,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/15 March 2025 Saturday.md",
+                "file": "Journal/18 March 2025 Tuesday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 15 March 2025 Saturday"
+              "title": "Outgoing links from 18 March 2025 Tuesday"
             }
           },
           {
@@ -182,10 +181,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/15 March 2025 Saturday.md"
+                "file": "Journal/18 March 2025 Tuesday.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 15 March 2025 Saturday"
+              "title": "Outline of 18 March 2025 Tuesday"
             }
           },
           {
@@ -217,13 +216,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e5f948c77bb573da",
+  "active": "fb125bbaf3e43087",
   "lastOpenFiles": [
-    "Journal/18 March 2025 Tuesday.md",
-    "Journal/17 March 2025 Monday.md",
     "Journal/March 2025.md",
-    "Journal/16 March 2025 Sunday.md",
+    "Journal/18 March 2025 Tuesday.md",
+    "0-inbox/Wesley Terrill Thesis.md",
     "Journal/15 March 2025 Saturday.md",
+    "Journal/17 March 2025 Monday.md",
+    "Journal/16 March 2025 Sunday.md",
     "Journal/Drawing 2025-03-15 16.11.36.excalidraw.md",
     "Journal/14 March 2025 Friday.md",
     "Journal/13 March 2025 Thursday.md",
@@ -244,7 +244,6 @@
     "2-areas/coffea4bs/Add Cutflow Histograms.md",
     "0-inbox/Test.excalidraw.md",
     "Journal/9 March 2025 Sunday.md",
-    "Journal/8 March 2025 Saturday.md",
     "attachments/Pasted Image 20250315161206_922.png",
     "attachments/Pasted Image 20250315161151_920.png",
     "attachments/Pasted image 20250315160719.png",

@@ -55,4 +55,6 @@ To school
 
 # Chat [[Wesley Terrill]]
 - Gave practice talk 
-- paper and PAS
+- Chat re:money talk. 
+- [[Wesley Terrill Thesis]]
+- [ ] Find rules for showing public results in job talks
