@@ -47,6 +47,21 @@ Up at 7:15
 - [ ] Watch recording
 - https://indico.cern.ch/event/1516012/#b-607009-session-session
 - What is the local significance ?
+- EXO-23-017 have been approved!
+- Given there’s still quite some work to be done on the PAS, we will go to Moriond QCD.
+
+
+# Taught 
+- Bohr model
+
+Setup
+
+# HGC Estimate to complete
+- 
+
+# Hbb
+- [ ] Mail re:Background Synthetic datasets
+- 
 
 --- 
 [[MAC meeting 19 March 2025]]
