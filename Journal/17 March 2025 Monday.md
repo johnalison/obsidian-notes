@@ -34,7 +34,7 @@
 - [>>] Hemisphere plots 
 - [>>] Write up bootstraping study
 - [ ] Call Liberty mutual re:tree down
-- [ ] Review Wes' Fermilab slides
+- [>>] Review Wes' Fermilab slides
 - [ ] Understand Chuyuan's slides
 - [>>] Make sum/SB/SR plots presentation
 - [x] Skim data for truth events
@@ -70,6 +70,7 @@ setup
 - Only half (46%) the events have four matching genJets
 	- ΔR to 0.4 => 68%
 	- ΔR to 10 => 99%
+- Fixes the weird mHH distribution that I say earlier !!!!
 
 
 # Hoops 
@@ -87,6 +88,7 @@ More Acceptance plots.  .. see above
 - `python runner.py   -s -p skimmer/processor/skimmer_truth.py -c skimmer/metadata/HH4b_truth.yml -y UL18 -d ZZ4b ZH4b -op output/TruthSkims -o picoaod_datasets_GluGluToHHTo4B_cHHH0_UL18.yml -m metadata/datasets_HH4b.yml --condor`
 - Submitted on **cmslpc315**
 - Saw an error with the nanny port... resubmitting... now see jobs in condor_q
+- Turns out it was a problem with AEs new container 
 - ...Finished.
 	- `root://cmseos.fnal.gov//store/user/jda102/XX4b/2024_v3/Z?4b_UL18/`
 - sent to Soehen [https://cmu.box.com/s/z1awu1efhjd5xqfev9arcgoy1mq8s01y](https://cmu.box.com/s/z1awu1efhjd5xqfev9arcgoy1mq8s01y)

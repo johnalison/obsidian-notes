@@ -25,15 +25,16 @@
 
 ---
 # The ONE thing: 
-- [ ] 
+- [ ] Work ETC for HGC
 
 ---
 # To Do
 
 - [ ] Request Frank-Hertz
-- [ ] 
-- [ ] 
-- [ ] 
+- [ ] 2D plot ratios
+- [ ] More signal samples for Soeheun 
+- [ ]  Review Wes' Fermilab slides
+- [ ] HGC Estimate to complete
 
 ---
 

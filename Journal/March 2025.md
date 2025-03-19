@@ -17,7 +17,7 @@
 | 15 S | **Finances 1.9/1.8** / DOE Review / Reading / Start Truth Skimmer            |         |
 | 16 S | DOE Review / Reading /  **Gym/SR** / Nice and easy                           |         |
 | 17 M | Taught / Cutflow debugging / **Hoops** / Chat Nural / Truth Skimmer          | 6/5/2   |
-| 18 T | (Penguins Game)                                                              |         |
+| 18 T | (Penguins Game) Working Estimate to Complete /                               | 7/3/3   |
 | 19 W | (Wes Approval) (Hbb Talk) (MAC Meeting) (Klus Viewing)                       |         |
 | 20 H |                                                                              |         |
 | 21 F |                                                                              |         |
