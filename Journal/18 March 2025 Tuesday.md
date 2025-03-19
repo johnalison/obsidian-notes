@@ -112,3 +112,12 @@ Coffee with AE and SM
 - pwd: 
 - Office of project assessment at FNAL 
 - Estimate to complete important 
+
+Home 
+
+Pick up H
+
+Bus To Pens game
+- Saw Brad
+- Pens lose 
+- Home with owen
