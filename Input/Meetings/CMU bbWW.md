@@ -1,5 +1,11 @@
 # Logs
 
+## [[12 March 2025 Wednesday]]
+- Coffea25 code runing 10x faster than before
+- will ping FNAL re:code structuring
+- will ping Fikri re:Run3 samples
+
+
 ## [[26 February 2025 Wednesday]]
 - AE: has nano recipe from Frikri ... only goes down to 15 GeV... iterating. 
 - AK: setting up new coffea framework 

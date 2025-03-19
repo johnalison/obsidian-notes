@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/18 March 2025 Tuesday.md",
+                "file": "Journal/13 March 2025 Thursday.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "18 March 2025 Tuesday"
+              "title": "13 March 2025 Thursday"
             }
           },
           {
@@ -33,6 +33,20 @@
               },
               "icon": "lucide-file",
               "title": "March 2025"
+            }
+          },
+          {
+            "id": "70ed710a2b2f28e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Journal/19 March 2025 Wednesday.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "19 March 2025 Wednesday"
             }
           },
           {
@@ -121,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/18 March 2025 Tuesday.md",
+                "file": "Journal/13 March 2025 Thursday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +145,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 18 March 2025 Tuesday"
+              "title": "Backlinks for 13 March 2025 Thursday"
             }
           },
           {
@@ -140,12 +154,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/18 March 2025 Tuesday.md",
+                "file": "Journal/13 March 2025 Thursday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 18 March 2025 Tuesday"
+              "title": "Outgoing links from 13 March 2025 Thursday"
             }
           },
           {
@@ -167,10 +181,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/18 March 2025 Tuesday.md"
+                "file": "Journal/13 March 2025 Thursday.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 18 March 2025 Tuesday"
+              "title": "Outline of 13 March 2025 Thursday"
             }
           },
           {
@@ -204,15 +218,18 @@
   },
   "active": "fb125bbaf3e43087",
   "lastOpenFiles": [
+    "Journal/12 March 2025 Wednesday.md",
+    "Journal/March 2025.md",
+    "Journal/19 March 2025 Wednesday.md",
+    "Journal/11 March 2025 Tuesday.md",
+    "Journal/18 March 2025 Tuesday.md",
     "0-inbox/HGCManagementMeeting 18 March 2025.md",
     "Journal/February 2025/4 February 2025 Tuesday.md",
     "0-inbox/HGCManagementMeeting 4 February 2025.md",
     "Input/Meetings/January/HGCManagementMeeting 28 January 2025.md",
     "Journal/January 2025/28 January 2025 Tuesday.md",
     "Input/Meetings/February/CMU HGC MAC Meeting 4 February 2025.md",
-    "Journal/18 March 2025 Tuesday.md",
     "1-projects/HGC/HGC MAC BoEs.md",
-    "Journal/March 2025.md",
     "Input/Meetings/HGC Workshop Feb 2025.md",
     "Journal/February 2025/20 February 2025 Thursday.md",
     "Journal/February 2025/19 February 2025 Wednesday.md",
@@ -221,15 +238,12 @@
     "Journal/2020/12 December 2020.md",
     "Journal/15 March 2025 Saturday.md",
     "0-inbox/CMU HGC MAC Meeting 18 March 2025.md",
-    "Journal/11 March 2025 Tuesday.md",
     "Input/Meetings/CMU HGC MAC Meeting 11 March 2025.md",
     "Journal/4 March 2025 Tuesday.md",
     "Input/Meetings/HGCManagementMeeting 4 March 2025.md",
     "Input/Meetings/HGCManagementMeeting 25 Februrary 2025.md",
     "0-inbox/Wesley Terrill Thesis.md",
     "Journal/17 March 2025 Monday.md",
-    "Journal/16 March 2025 Sunday.md",
-    "Journal/Drawing 2025-03-15 16.11.36.excalidraw.md",
     "attachments/Pasted Image 20250315161206_922.png",
     "attachments/Pasted Image 20250315161151_920.png",
     "attachments/Pasted image 20250315160719.png",

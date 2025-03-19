@@ -70,18 +70,7 @@ Looks like the [[Boosted Synthetic Data]] is actually going to be harder than I 
 - First try it with m-soft drop... Let Chance do it. ([>>]) [[Boosted Synthetic Data]]
 
 # [[Run3 HH4b Cutflow Challenge]]
-- Implementing Run3 selection
-- From Marina: 
-	- Code: https://gitlab.cern.ch/mkolosov/hh4b_run3/-/blob/run2/python/producers/hh4bTreeProducer.py?ref_type=heads
-	- Config: https://gitlab.cern.ch/mkolosov/hh4b_run3/-/blob/run2/run/configs/2021/main/run3_2021_0L_PNet_MinDiag_Jets_4j35_2bj30_dHHjw30.yaml?ref_type=heads
-- [x] Synch Lepton Definition
-- [>>] Synch Higgs Candidate Selection
-- Synched Electrons
-- Synched Muons:
-- Testing with 
-	   - `time python runner.py -t -o synthetic_data_Run3_2022_preEE.coffea -d data -p analysis/processors/processor_HH4b.py -y 2022_preEE   -op output/synthetic_dataset_analyze_all -c analysis/metadata/HH4b_run_fastTopReco.yml -m metadata/datasets_HH4b_Run3_fourTag_v6.yml`
-- Trying test case
-	- `python -m unittest analysis.tests.quadjet_test.quadJetTestCase`
+- See above
 
 # Hoops / Steamroom
 - Lots of Loses 5s 
@@ -95,11 +84,8 @@ Looks like the [[Boosted Synthetic Data]] is actually going to be harder than I 
 
 More Run3 cutflow (see above)
 
-# bbWW
-- Coffea25 code runing 10x faster than before
-- will ping FNAL re:code structuring
-- will ping Fikri re:Run3 samples
-
+# [[CMU bbWW]]
+- see above
 
 Make up exam
 
