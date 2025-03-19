@@ -57,7 +57,8 @@ Up at 7:15
 Setup
 
 # HGC Estimate to complete
-- 
+- Moved to google sheets:
+- https://docs.google.com/spreadsheets/d/12ihDV7ayNyCY-qErWg072wRIgj5y4M97oYKE2SUkcP4/edit?gid=1242185869#gid=1242185869
 
 # Hbb Meeting
 - [ ] Mail re:Background Synthetic datasets
@@ -71,5 +72,6 @@ Setup
 
 # [[MAC meeting 19 March 2025]]
 - [ ] Review slides
+- https://indico.cern.ch/event/1523208/
 
-
+More estimate to complete
