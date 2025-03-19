@@ -4,15 +4,15 @@
 | 9   | Teaching                    |     |
 |     | Teaching                    |     |
 | 10  | setup                       |     |
-|     |                             |     |
+|     | Estimate to Completion      |     |
 | 11  | Hbb                         |     |
 |     | Hbb                         |     |
 | 12  | MAC / Hoops                 |     |
 |     | MAC / Hoops                 |     |
 | 1   | Hoops                       |     |
 |     | Hoops                       |     |
-| 2   |                             |     |
-|     | chat sindhu                 |     |
+| 2   | MAC meeting                 |     |
+|     | MAC Meeting                 |     |
 | 3   |                             |     |
 |     |                             |     |
 | 4   | bbWW                        |     |
@@ -59,10 +59,17 @@ Setup
 # HGC Estimate to complete
 - 
 
-# Hbb
+# Hbb Meeting
 - [ ] Mail re:Background Synthetic datasets
-- 
+- Long discussion re: eventWeights
+- Apparently a known issue. see:
+- https://indico.cern.ch/event/922760/contributions/3885448/attachments/2048961/3433794/HH_powheg_anomalous_weights_2Giu2020.pdf
+- We are doing the right thing!
 
---- 
-[[MAC meeting 19 March 2025]]
+# Hoops
+- 5s/7s Played well.
+
+# [[MAC meeting 19 March 2025]]
 - [ ] Review slides
+
+
