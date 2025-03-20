@@ -7,9 +7,9 @@
 |     | Teach      |     |
 | 11  | Stats Chat |     |
 |     | Stats Chat |     |
-| 12  | Gym        |     |
-|     | Gym        |     |
-| 1   | Gym        |     |
+| 12  | ROC Curves |     |
+|     | ROC Curves |     |
+| 1   | ROC Curves |     |
 |     | Tony       |     |
 | 2   |            |     |
 |     | Office Hrs |     |
@@ -69,10 +69,23 @@ Mail to Ryan Simeon and Sridhara Dasu re: background modelling with synthetic da
 # Working Roc Plots
 - got one curve at a time.
 - Got multiple curves going
+- Need to plot from different files
+- [ ] Run to make phh plots (SR and HH region)
+- [ ] Curves for different k-lambdas
 
 # Chat [[Tony Boyle]]
 - Needs to reorgaize code to do event loop and other jet loop
 
 
+More Rocs ... See above
+
+# Chat AE
+- [ ] Mail Evan
+- Discussed updating plotting code
+- Boosted skims are done 
+- [ ] Ping Chance re:access
+
+
+# Office Hours
 
 
