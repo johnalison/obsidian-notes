@@ -12,7 +12,17 @@ Cummulative SV
 	- -39k
 		- Support
 
+There is a cumulative schedule variance of -$465k in the cost account 
+402.04.04.05 CE - Module Assembly at UCSB.  The variance has two pieces:
+1) -421k Assembly, testing and shipping of full-size equivalent odd-sized modules 1-16%
+2) - 37k for supporting production at other assembly site
 
+This variance is expected due to missing input parts: hexaboards and baseplates. 
+
+It is expected that UCSB will start the assembly of modules once parts will become available.
+The will start with 12 HD full 120um Ti.
+
+In the mean time, the ordering of the final assembly tooling is complete; the second batch of tools have been checked out and shipped to CMU and TTU.  UCSB has been continuing tests on the irradiated modules with Ti baseplate
 
 # 402.04.04.04 CE - Standard Module Assembly Site 2
 

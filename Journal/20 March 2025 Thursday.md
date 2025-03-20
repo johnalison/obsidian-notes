@@ -2,7 +2,7 @@
 |     | setup      |     |
 | --- | ---------- | --- |
 | 9   | VARs       |     |
-|     |            |     |
+|     | VARs       |     |
 | 10  | Teach      |     |
 |     | Teach      |     |
 | 11  | Stats Chat |     |
@@ -48,5 +48,7 @@ M & T to school
 
 # [[CAM Variance March 2025]]
 - pinged Jeff to get the current "burn rate" of the salaries
+- pinged MP re:Current Cost variance 80k charged by UCSB
+
 
 
