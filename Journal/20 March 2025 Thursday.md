@@ -66,6 +66,8 @@ More CAM variances
 Mail to Ryan Simeon and Sridhara Dasu re: background modelling with synthetic datasets.
 
 
-
+# Working Roc Plots
+- got one curve at a time.
+- 
 
 
