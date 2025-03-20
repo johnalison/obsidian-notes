@@ -68,6 +68,11 @@ Mail to Ryan Simeon and Sridhara Dasu re: background modelling with synthetic da
 
 # Working Roc Plots
 - got one curve at a time.
-- 
+- Got multiple curves going
+
+# Chat [[Tony Boyle]]
+- Needs to reorgaize code to do event loop and other jet loop
+
+
 
 
