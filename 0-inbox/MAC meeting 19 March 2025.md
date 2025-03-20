@@ -1,6 +1,6 @@
 https://indico.cern.ch/event/1523208/
 
-Aletheia: 
+Althaea: 
 - priority is v3c
 - Assembly tooling for partials with FNAL purchasing
 - US MACs provide a small quantity of CuW modules to cover imbalance of CuW>Ti in the detector
