@@ -24,6 +24,14 @@ The will start with 12 HD full 120um Ti.
 
 In the mean time, the ordering of the final assembly tooling is complete; the second batch of tools have been checked out and shipped to CMU and TTU.  UCSB has been continuing tests on the irradiated modules with Ti baseplate
 
+# Current
+Since funding from the FNAL subaward became only available at UCSB recently, the submitted accruals reflect a lump sum of several months of labor for module assembly at UCSB submitted to catch up with charges that could only now be charged to the relevant CA causing a current CV.
+
+## Cost Variance: 
+- -120k
+	- -373k : 
+
+
 # 402.04.04.04 CE - Standard Module Assembly Site 2
 
 Schedule VAriance 

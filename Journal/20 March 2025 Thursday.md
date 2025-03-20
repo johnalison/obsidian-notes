@@ -32,7 +32,8 @@
 
 - [ ] Make 2D ratio plots (3 figures on the canvas !)
 - [ ] ROC plots for various signal points
-- [ ] VARs
+- [x] VARs
+- [ ] Summary 
 - [ ] More Estimate to Complete
 - [ ] Watch SoS approval
 - [x] Mail re:Background Synthetic datasets
@@ -70,6 +71,7 @@ Mail to Ryan Simeon and Sridhara Dasu re: background modelling with synthetic da
 - got one curve at a time.
 - Got multiple curves going
 - Need to plot from different files
+- `python plots/makeRocPlot.py hists/histAll_20250304_a100c66.coffea hists/histAll_signals_cHHHX_20250304_a100c66.coffea --outputFolder roc_curves`
 - [ ] Run to make phh plots (SR and HH region)
 - [ ] Curves for different k-lambdas
 
@@ -87,5 +89,13 @@ More Rocs ... See above
 
 
 # Office Hours
+- No body
+
+# Rachel 
+- Will talk to Rebecca in Stats about 0.25 position + no startup
+
+Finished the VAR. 
+
+Writting up the Modules Meeting [[MAC meeting 19 March 2025]]
 
 
