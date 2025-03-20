@@ -80,7 +80,7 @@ Mail to Ryan Simeon and Sridhara Dasu re: background modelling with synthetic da
 More Rocs ... See above
 
 # Chat AE
-- [ ] Mail Evan
+- [x] Mail Evan
 - Discussed updating plotting code
 - Boosted skims are done 
 - [ ] Ping Chance re:access
