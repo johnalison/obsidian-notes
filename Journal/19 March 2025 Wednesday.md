@@ -13,9 +13,9 @@
 |     | Hoops                       |     |
 | 2   | MAC meeting                 |     |
 |     | MAC Meeting                 |     |
-| 3   |                             |     |
-|     |                             |     |
-| 4   | bbWW                        |     |
+| 3   | More Estimate to Complete   |     |
+|     | Chat w/Sanya Arora          |     |
+| 4   | Leave early for Klu viewing |     |
 |     | Leave early for Klu viewing |     |
 
 **W:**
@@ -35,6 +35,7 @@
 - [ ] More signal samples for Soeheun 
 - [ ]  Review Wes' Fermilab slides
 - [ ] HGC Estimate to complete
+- [ ] Vars
 
 ---
 
@@ -75,3 +76,10 @@ Setup
 - https://indico.cern.ch/event/1523208/
 
 More estimate to complete
+
+Chat Sanya Arora
+
+Home with  M & T.... Picked up H ... 
+
+# Bernie Klu Viewing
+- Saw lots of people McVay / 
