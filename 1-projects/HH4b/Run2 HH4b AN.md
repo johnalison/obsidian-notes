@@ -13,6 +13,8 @@ Twiki: https://twiki.cern.ch/twiki/bin/view/CMSPublic/Run2HH4b
 - [ ] Fig 53: NN vs other hemisphere in the event
 - [x] Add regions to fig 69 and 70
 - [x] Add SvB for ZZ and ZH in the SR
+- [ ] Add plots on ISR / FSR study
+- [ ] Roc plot p(HH) vs p(signal|HH)
 
 # To do
 - [x] L3 comments v2

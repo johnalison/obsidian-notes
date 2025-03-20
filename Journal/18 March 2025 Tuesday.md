@@ -35,7 +35,7 @@
 	- [x] Read steves mail
 - [AR] Did we arrange the pickup order
 - [x] More L2 Comments
-- [ ] ROC plots for various signal points
+- [>>] ROC plots for various signal points
 - [ ] Maybe synthetic data with re-weight dR(close) vs dR(other) mass plane ?
 - [ ] Schedule FNAL badging appointment
 - [ ] Hemisphere plots 
@@ -55,19 +55,19 @@ Up at 7;30
 To school
 
 # Chat [[Wesley Terrill]]
-- Gave practice talk 
-- Chat re:money talk. 
+- Gave practice talk for approval 
+- Chat re:money plot... He should make before/after version for FNAL talk
 - [[Wesley Terrill Thesis]]
 - [x] Find rules for showing public results in job talks: 
 - https://twiki.cern.ch/twiki/bin/view/CMS/PhysicsApprovals#Exceptions_to_standard_approval
 - https://twiki.cern.ch/twiki/bin/viewauth/CMS/CMSPubComm
 
 # [[Run2 HH4b AN]]
-- [ ] Add plots on ISR / FSR study
-- [ ] Roc plot p(HH) vs p(signal|HH)
+- [>>] Add plots on ISR / FSR study
+- [>>] Roc plot p(HH) vs p(signal|HH)
 
 
-# [[Control Account Status Report]]
+# [[HGC Estimate to complete Spring 2025]]
 - https://docs.google.com/document/d/1Zr5eGtIJggx2pvEH6K-42vE-SKYvYxTc/edit
 - From Steve's mail:
 	- 2) Are the resource-loaded schedule and the estimate-to-complete up-to-date, accurate and credible?

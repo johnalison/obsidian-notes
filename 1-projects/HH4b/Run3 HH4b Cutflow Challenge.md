@@ -25,6 +25,18 @@ ACR: (AR_dHM >= 30) & (AR_dHM < 55)
 # Logs
 
 
+## [[13 March 2025 Thursday]]
+- Implementing Run3 Selection
+- Working cutflow ... got unit test working
+- Adding dhh min
+- [x] Synch Higgs Candidate Selection
+- Making Cut flow for Marina:
+	- `python runner.py  -o synthetic_data_Run3_v8_debug_seedXXX.coffea -d data synthetic_data -p analysis/processors/processor_HH4b.py -y 2022_preEE   -op output/synthetic_dataset_analyze_all -c analysis/metadata/HH4b_run_fastTopReco.yml -m metadata/datasets_HH4b_Run3_fourTag_v8.yml`
+- Make output files for Marina
+	- `python analysis/debugRun3SyntheticData.py output/synthetic_dataset_analyze_all/synthetic_data_Run3_v8_debug_seedXXX.coffea`
+- Sent cutflow to Marina
+- Running plots for data vs synthetic 
+
 ## [[12 March 2025 Wednesday]]
 - Implementing Run3 selection
 - From Marina: 

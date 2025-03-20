@@ -18,10 +18,10 @@
 | 4   | Leave early for Klu viewing |     |
 |     | Leave early for Klu viewing |     |
 
-**W:**
-**DW:**
-**OT:**
-**ex** or **No ex**
+**W:** 5 
+**DW:** 1
+**OT:** 2
+**ex** 
 
 ---
 # The ONE thing: 
@@ -30,12 +30,12 @@
 ---
 # To Do
 
-- [ ] Request Frank-Hertz
-- [ ] 2D plot ratios
+- [x] Request Frank-Hertz
+- [>>] 2D plot ratios
 - [ ] More signal samples for Soeheun 
-- [ ]  Review Wes' Fermilab slides
-- [ ] HGC Estimate to complete
-- [ ] Vars
+- [ ] Review Wes' Fermilab slides
+- [>>] HGC Estimate to complete
+- [>>] Vars
 
 ---
 
@@ -45,7 +45,7 @@ Up at 7:15
 
 # SoS approval 
 - Wes gives talk 
-- [ ] Watch recording
+- [>>] Watch recording
 - https://indico.cern.ch/event/1516012/#b-607009-session-session
 - What is the local significance ?
 - EXO-23-017 have been approved!
@@ -57,12 +57,12 @@ Up at 7:15
 
 Setup
 
-# HGC Estimate to complete
+# [[HGC Estimate to complete Spring 2025]]
 - Moved to google sheets:
 - https://docs.google.com/spreadsheets/d/12ihDV7ayNyCY-qErWg072wRIgj5y4M97oYKE2SUkcP4/edit?gid=1242185869#gid=1242185869
 
 # Hbb Meeting
-- [ ] Mail re:Background Synthetic datasets
+- [>>] Mail re:Background Synthetic datasets
 - Long discussion re: eventWeights
 - Apparently a known issue. see:
 - https://indico.cern.ch/event/922760/contributions/3885448/attachments/2048961/3433794/HH_powheg_anomalous_weights_2Giu2020.pdf
@@ -72,14 +72,15 @@ Setup
 - 5s/7s Played well.
 
 # [[MAC meeting 19 March 2025]]
-- [ ] Review slides
+- [>>] Review slides
 - https://indico.cern.ch/event/1523208/
 
 More estimate to complete
 
-Chat Sanya Arora
+Chat Sanya Arora (Also got in to Berkeley and Princeton)
 
 Home with  M & T.... Picked up H ... 
 
 # Bernie Klu Viewing
-- Saw lots of people McVay / 
+- Saw lots of people McVay not looking good.
+- Jeff Klus kids graduating highschool!!!

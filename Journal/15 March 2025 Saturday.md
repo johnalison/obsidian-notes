@@ -28,7 +28,7 @@ Finished [[ProgressReport 14 March 2025]]
 
 [[Drawing 2025-03-15 16.11.36.excalidraw]]
 	Maybe re-weight dR(close) vs dR(other) mass plane?
-- [ ] Make 2D ratio plots (3 figures on the canvas !)
+- [>>] Make 2D ratio plots (3 figures on the canvas !)
 
 Did FNAL training
 

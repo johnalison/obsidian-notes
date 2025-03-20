@@ -2,6 +2,11 @@ Undergraduate working on [[Hbb Reclustering Project]]
 
 # Weekly Logs
 
+
+## [[13 March 2025 Thursday]]
+- Will make dR_min plot
+- Needs to add four-vectors not masses!
+
 ## [[27 February 2025 Thursday]]
 - Will make ΔR of sub-leading jet in sub-leading dijet vs other jets
 - Separately for all sub-leading jets and those with low subleading dijet mass.
