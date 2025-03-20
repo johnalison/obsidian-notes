@@ -35,7 +35,7 @@
 - [ ] VARs
 - [ ] More Estimate to Complete
 - [ ] Watch SoS approval
-- [ ] Mail re:Background Synthetic datasets
+- [x] Mail re:Background Synthetic datasets
 - [ ] Review MAC Meeting slides
 
 ---
@@ -63,5 +63,9 @@ M & T to school
 
 More CAM variances
 
-[[Jet DeClustering]]
+Mail to Ryan Simeon and Sridhara Dasu re: background modelling with synthetic datasets.
+
+
+
+
 
