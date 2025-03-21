@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/Spring 2025.md",
+                "file": "Journal/21 March 2025 Friday.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Spring 2025"
+              "title": "21 March 2025 Friday"
             }
           },
           {
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/Spring 2025.md",
+                "file": "Journal/21 March 2025 Friday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Spring 2025"
+              "title": "Backlinks for 21 March 2025 Friday"
             }
           },
           {
@@ -169,12 +169,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/Spring 2025.md",
+                "file": "Journal/21 March 2025 Friday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Spring 2025"
+              "title": "Outgoing links from 21 March 2025 Friday"
             }
           },
           {
@@ -196,10 +196,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/Spring 2025.md"
+                "file": "Journal/21 March 2025 Friday.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Spring 2025"
+              "title": "Outline of 21 March 2025 Friday"
             }
           },
           {
@@ -233,9 +233,9 @@
   },
   "active": "fc815f580673f57e",
   "lastOpenFiles": [
+    "Journal/Spring 2025.md",
     "Journal/21 March 2025 Friday.md",
     "1-projects/HGC/CAM Turnaround Report.md",
-    "Journal/Spring 2025.md",
     "Output/CAM/HGC Transfer Tape BCR.md",
     "2-areas/Personal/ToAddToCV.md",
     "Journal/March 2025.md",

@@ -71,7 +71,8 @@ Posted HW 7 and solution.
 - Running on condor
 	- `source scripts/analysis-testAll-job.sh `
 	- some ZZ4b file transfer failed
-	- [ ] resubmit
+	- [x] resubmit
+- Signal finished
 
 # Installing python3.10
 - `brew install python@3.10`
@@ -93,4 +94,14 @@ Iterating with Joe re: cleanroom budget
 
 More Roc plots
 
-Reviewing [[Spring 2025]]
+Did [[Spring 2025]] review
+
+[[HGC]]
+Tech Supervisor position posted !!!
+https://cmu.wd5.myworkdayjobs.com/CMU/job/Pittsburgh-PA/Technician-Supervisor---Mellon-College-of-Science---Physics-Department_2023015
+
+# Happy Hour with Riccardo and Valentina 
+
+Home with M & T
+
+More ROC plots...
