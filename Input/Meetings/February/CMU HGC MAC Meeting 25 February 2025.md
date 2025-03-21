@@ -11,7 +11,7 @@
 - [ ] Waiting on sensor trays and tools and hexaboard trays
 - [ ] miniGantry project with UG
 - [ ] Logan clean + humidity sensors
-- [ ] twizzers and humidifiers
+- [x] twizzers and humidifiers
 - [ ] Getting a cart
 - [ ] Mount the gantry e-stop button
 

@@ -18,7 +18,21 @@ UCSB Status:
 - Testing HD hexaboards
 - • We will resume module assembly for HD Full next
 - Will build a few "no tape" modules to validate FEA studies
-- 
+
+
+CMU Status: 
+-  Scaling up productivity and capacity
+- nstructions for configuring LV code at each MAC
+- Debugging loss of channel related to transfer tape application jig pin... 
+- Looking at improving humidity control
+- Assembling two modules per day for one week - done 
+- Preparing new tooling for four modules per day
+
+DB Status : 
+- Upload of protomodules and modules to CMSR
+- Database Updates: Track contents of a single shipped package
+- Generates a CSV file that can be uploaded to the CERN Shipment Tracking Tool.
+
 # Follow-ups
 
 

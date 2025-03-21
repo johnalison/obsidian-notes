@@ -1,22 +1,22 @@
 
-|     | setup      |     |
-| --- | ---------- | --- |
-| 9   | VARs       |     |
-|     | VARs       |     |
-| 10  | Teach      |     |
-|     | Teach      |     |
-| 11  | Stats Chat |     |
-|     | Stats Chat |     |
-| 12  | ROC Curves |     |
-|     | ROC Curves |     |
-| 1   | ROC Curves |     |
-|     | Tony       |     |
-| 2   |            |     |
-|     | Office Hrs |     |
-| 3   | Rachel     |     |
-|     |            |     |
-| 4   |            |     |
-|     |            |     |
+|     | setup          |     |
+| --- | -------------- | --- |
+| 9   | VARs           |     |
+|     | VARs           |     |
+| 10  | Teach          |     |
+|     | Teach          |     |
+| 11  | Stats Chat     |     |
+|     | Stats Chat     |     |
+| 12  | ROC Curves     |     |
+|     | ROC Curves     |     |
+| 1   | ROC Curves     |     |
+|     | Tony           |     |
+| 2   | ROC Curves     |     |
+|     | Office Hrs     |     |
+| 3   | Rachel         |     |
+|     | VARs / Rocs    |     |
+| 4   | Module Meeting |     |
+|     | Frank-Hertz    |     |
 
 **W:**
 **DW:**
@@ -33,11 +33,11 @@
 - [ ] Make 2D ratio plots (3 figures on the canvas !)
 - [ ] ROC plots for various signal points
 - [x] VARs
-- [ ] Summary 
+- [x] Modules Summary 
 - [ ] More Estimate to Complete
 - [ ] Watch SoS approval
 - [x] Mail re:Background Synthetic datasets
-- [ ] Review MAC Meeting slides
+- [x] Review MAC Meeting slides
 
 ---
 
@@ -98,4 +98,10 @@ Finished the VAR.
 
 Writting up the Modules Meeting [[MAC meeting 19 March 2025]]
 
+# Got the Frank-Hertz Experiment Going!
 
+Home 
+
+Finished [[MAC meeting 19 March 2025]] slides
+
+# Did [[Modules Summary March 2025]]
