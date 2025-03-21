@@ -17,9 +17,9 @@
 | 15 S | **Finances 1.9/1.8** / DOE Review / Reading / Start Truth Skimmer            |         |
 | 16 S | DOE Review / Reading /  **Gym/SR** / Nice and easy                           |         |
 | 17 M | Taught / Cutflow debugging / **Hoops** / Chat Nural / Truth Skimmer          | 6/5/2   |
-| 18 T | (Penguins Game) Working Estimate to Complete /                               | 7/3/3   |
+| 18 T | Working Estimate to Complete all day / **(Penguins Game) **                  | 7/3/3   |
 | 19 W | (Wes Approval) Taught (Hbb Talk) **Hoops** (MAC Meeting) (Klus Viewing)      | 5/1/2   |
-| 20 H |                                                                              |         |
+| 20 H | VARs / Taught / Skip Gym for ROC Plots! / Chat Rachel / Module Summary       | 8/4/2   |
 | 21 F |                                                                              |         |
 | 22 S | (Chat Prospective)                                                           |         |
 | 23 S | (Sara Shook)                                                                 |         |

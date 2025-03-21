@@ -83,12 +83,8 @@ Marina mail
 # Prospective Chat: Mengke Zhang 
 
 
-# Fixed Cutflow for Marina 
-- Add was only including one data Era
-- [x] Add other eras
-- [x] Add other Pt corrections
-- sent
-
+# [[Run3 HH4b Cutflow Challenge]]
+-  See above
 
 # Chat MP
 - Matteo going rogue visiting Alan Stone

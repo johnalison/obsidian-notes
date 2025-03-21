@@ -47,7 +47,7 @@ Up at 7:15
 - Wes gives talk 
 - [>>] Watch recording
 - https://indico.cern.ch/event/1516012/#b-607009-session-session
-- What is the local significance ?
+- What is the global significance ?
 - EXO-23-017 have been approved!
 - Given there’s still quite some work to be done on the PAS, we will go to Moriond QCD.
 

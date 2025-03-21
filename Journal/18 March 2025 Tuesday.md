@@ -36,11 +36,11 @@
 - [AR] Did we arrange the pickup order
 - [x] More L2 Comments
 - [>>] ROC plots for various signal points
-- [ ] Maybe synthetic data with re-weight dR(close) vs dR(other) mass plane ?
-- [ ] Schedule FNAL badging appointment
+- [>>] Maybe synthetic data with re-weight dR(close) vs dR(other) mass plane ?
+- [>>] Schedule FNAL badging appointment
 - [ ] Hemisphere plots 
 - [ ] Write up bootstraping study
-- [ ] Make sum/SB/SR plots presentation
+- [>>] Make sum/SB/SR plots presentation
 
 ---
 
@@ -108,10 +108,8 @@ More Estimate to complete... see above
 
 Coffee with AE and SM
 
-[[HGCManagementMeeting 18 March 2025]]
-- pwd: 
-- Office of project assessment at FNAL 
-- Estimate to complete important 
+# [[HGCManagementMeeting 18 March 2025]]
+
 
 Home 
 

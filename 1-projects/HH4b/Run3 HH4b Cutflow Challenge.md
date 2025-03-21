@@ -24,6 +24,12 @@ ACR: (AR_dHM >= 30) & (AR_dHM < 55)
 
 # Logs
 
+## [[14 March 2025 Friday]]
+-  Fixed Cutflow for Marina 
+- Add was only including one data Era
+- [x] Add other eras
+- [x] Add other Pt corrections
+- sent
 
 ## [[13 March 2025 Thursday]]
 - Implementing Run3 Selection

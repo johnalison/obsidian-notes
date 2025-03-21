@@ -18,24 +18,24 @@
 | 4   | Module Meeting |     |
 |     | Frank-Hertz    |     |
 
-**W:**
-**DW:**
-**OT:**
+**W:** 8 
+**DW:** 4
+**OT:** 2
 **ex** or **No ex**
 
 ---
 # The ONE thing: 
-- [ ] VARs
+- [x] VARs
 
 ---
 # To Do
 
-- [ ] Make 2D ratio plots (3 figures on the canvas !)
-- [ ] ROC plots for various signal points
+- [>>] Make 2D ratio plots (3 figures on the canvas !)
+- [>>] ROC plots for various signal points
 - [x] VARs
 - [x] Modules Summary 
-- [ ] More Estimate to Complete
-- [ ] Watch SoS approval
+- [>>] More Estimate to Complete
+- [>>] Watch SoS approval
 - [x] Mail re:Background Synthetic datasets
 - [x] Review MAC Meeting slides
 
@@ -49,6 +49,7 @@ M & T to school
 
 # [[CAM Variance March 2025]]
 - pinged Jeff to get the current "burn rate" of the salaries
+	- [[CMU HGC Current Burn Rate]]
 - pinged MP re:Current Cost variance 80k charged by UCSB
 - Submitted two 
 - Investigating a 80k charge at UCSB... pinged Lipika
@@ -73,7 +74,8 @@ Mail to Ryan Simeon and Sridhara Dasu re: background modelling with synthetic da
 - Need to plot from different files
 - `python plots/makeRocPlot.py hists/histAll_20250304_a100c66.coffea hists/histAll_signals_cHHHX_20250304_a100c66.coffea --outputFolder roc_curves`
 - [ ] Run to make phh plots (SR and HH region)
-- [ ] Curves for different k-lambdas
+- [x] Curves for different k-lambdas
+- Found spikes in kl = 2.45 sample
 
 # Chat [[Tony Boyle]]
 - Needs to reorgaize code to do event loop and other jet loop
@@ -85,7 +87,7 @@ More Rocs ... See above
 - [x] Mail Evan
 - Discussed updating plotting code
 - Boosted skims are done 
-- [ ] Ping Chance re:access
+- [x] Ping Chance re:access
 
 
 # Office Hours
@@ -105,3 +107,7 @@ Home
 Finished [[MAC meeting 19 March 2025]] slides
 
 # Did [[Modules Summary March 2025]]
+
+More ROC plots... 
+
+Some [[Fly By Night Physics]]
