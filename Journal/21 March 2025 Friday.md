@@ -5,17 +5,18 @@
 |     | Teaching   |     |
 | 10  | ROC Curves |     |
 |     | ROC Curves |     |
-| 11  |            |     |
-|     |            |     |
+| 11  | ROC Curves |     |
+|     | ROC Curves |     |
 | 12  | Hoops      |     |
 |     | Hoops      |     |
 | 1   | Hoops      |     |
 |     | Hoops      |     |
 | 2   | CMU 4b     |     |
-|     |            |     |
-| 3   | CMU CMS    |     |
-|     |            |     |
-| 4   |            |     |
+|     | ROC Curves |     |
+| 3   | ROC Curves |     |
+|     | ROC Curves |     |
+| 4   | ROC Curves |     |
+|     | Happy Hr   |     |
 |     |            |     |
 
 **W:**
@@ -64,8 +65,13 @@ Posted HW 7 and solution.
 - [x] Run to make phh plots (SR and HH region)
 - Added kl reweighting function
 - GOT kl-rw working!!!
-- Added new hists
+- Added new hists (phh and phh_hh)
 - Running all signals on **cmslpc322**
+- lots of errors... fixing
+- Running on condor
+	- `source scripts/analysis-testAll-job.sh `
+	- some ZZ4b file transfer failed
+	- [ ] resubmit
 
 # Installing python3.10
 - `brew install python@3.10`
@@ -83,3 +89,8 @@ More rocs. Got
 # Hoops
 - Highmark ... Good wins
 
+Iterating with Joe re: cleanroom budget 
+
+More Roc plots
+
+Reviewing [[Spring 2025]]
