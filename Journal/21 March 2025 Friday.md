@@ -60,7 +60,9 @@ Chat MP
 Posted HW 7 and solution. 
 
 # Working Roc Plots
--  Run to make phh plots (SR and HH region)
+- [ ] Run to make phh plots (SR and HH region)
+- Added kl reweighting function
+- CERN login down
 
 # Installing python3.10
 - `brew install python@3.10`
@@ -71,3 +73,6 @@ Posted HW 7 and solution.
 - `pip install --upgrade pip`
 - `pip install -r plots/plot_requirements.txt`
 
+ Got my local python version to match the container ! 
+
+More rocs.
