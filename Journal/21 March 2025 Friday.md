@@ -62,7 +62,7 @@ Posted HW 7 and solution.
 # Working Roc Plots
 - [ ] Run to make phh plots (SR and HH region)
 - Added kl reweighting function
-- CERN login down
+- GOT kl-rw working!!!
 
 # Installing python3.10
 - `brew install python@3.10`
@@ -75,4 +75,7 @@ Posted HW 7 and solution.
 
  Got my local python version to match the container ! 
 
-More rocs.
+More rocs. Got 
+
+# Hoops
+- Highmark ... Good wins
