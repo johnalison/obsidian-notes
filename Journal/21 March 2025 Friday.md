@@ -38,6 +38,7 @@
 - [ ] Make 2D ratio plots (3 figures on the canvas !)
 - [ ] ROC plots for various signal points
 - [ ] Watch SoS approval
+- [ ] Guy Berry Prep
 ---
 
 # Log
@@ -79,3 +80,4 @@ More rocs. Got
 
 # Hoops
 - Highmark ... Good wins
+
