@@ -61,9 +61,11 @@ Chat MP
 Posted HW 7 and solution. 
 
 # Working Roc Plots
-- [ ] Run to make phh plots (SR and HH region)
+- [x] Run to make phh plots (SR and HH region)
 - Added kl reweighting function
 - GOT kl-rw working!!!
+- Added new hists
+- Running all signals on **cmslpc322**
 
 # Installing python3.10
 - `brew install python@3.10`
