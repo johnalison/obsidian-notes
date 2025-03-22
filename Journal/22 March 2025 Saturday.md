@@ -1,6 +1,6 @@
 
 - [ ] Watch SoS approval
-- [ ] 
+- [ ] Mail re:Wes Practice Talk
 ---
 
 # Log

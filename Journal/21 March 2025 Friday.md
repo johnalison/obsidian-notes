@@ -101,9 +101,9 @@ More Roc plots
 
 Did [[Spring 2025]] review
 
-[[HGC]]
-Tech Supervisor position posted !!!
-https://cmu.wd5.myworkdayjobs.com/CMU/job/Pittsburgh-PA/Technician-Supervisor---Mellon-College-of-Science---Physics-Department_2023015
+# [[Lab Techs Spring 2025]]
+- Tech Supervisor position posted !!!
+- https://cmu.wd5.myworkdayjobs.com/CMU/job/Pittsburgh-PA/Technician-Supervisor---Mellon-College-of-Science---Physics-Department_2023015
 
 # Happy Hour with Riccardo and Valentina 
 
