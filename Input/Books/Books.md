@@ -5,7 +5,7 @@
 
 - [[Fly By Night Physics]] (Anthony Zee)
 
-- [[For a new Liberty]] 
+- [[For a new Liberty]] (Murray Rothbard)
 
 
 ---
