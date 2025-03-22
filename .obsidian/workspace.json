@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/22 March 2025 Saturday.md",
+                "file": "0-inbox/For a new Liberty.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "22 March 2025 Saturday"
+              "title": "For a new Liberty"
             }
           },
           {
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/22 March 2025 Saturday.md",
+                "file": "0-inbox/For a new Liberty.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 22 March 2025 Saturday"
+              "title": "Backlinks for For a new Liberty"
             }
           },
           {
@@ -168,12 +168,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/22 March 2025 Saturday.md",
+                "file": "0-inbox/For a new Liberty.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 22 March 2025 Saturday"
+              "title": "Outgoing links from For a new Liberty"
             }
           },
           {
@@ -195,10 +195,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/22 March 2025 Saturday.md"
+                "file": "0-inbox/For a new Liberty.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 22 March 2025 Saturday"
+              "title": "Outline of For a new Liberty"
             }
           },
           {
@@ -232,9 +232,10 @@
   },
   "active": "fc815f580673f57e",
   "lastOpenFiles": [
+    "Journal/22 March 2025 Saturday.md",
+    "0-inbox/For a new Liberty.md",
     "Journal/21 March 2025 Friday.md",
     "1-projects/HGC/Lab Techs Spring 2025.md",
-    "Journal/22 March 2025 Saturday.md",
     "Journal/20 March 2025 Thursday.md",
     "Journal/19 March 2025 Wednesday.md",
     "Journal/March 2025.md",
@@ -257,7 +258,6 @@
     "Output/CAM/CAM Variance February 2025.md",
     "0-inbox/CMU HGC MAC Meeting 18 March 2025.md",
     "Input/Meetings/CMU HGC MAC Meeting 11 March 2025.md",
-    "Journal/11 March 2025 Tuesday.md",
     "attachments/Pasted Image 20250315161206_922.png",
     "attachments/Pasted Image 20250315161151_920.png",
     "attachments/Pasted image 20250315160719.png",

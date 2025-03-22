@@ -10,3 +10,5 @@ Up at 8:30
 Chat Wei-Po
 
 Watching SoS approval 
+
+Finished [[For a new Liberty]]
