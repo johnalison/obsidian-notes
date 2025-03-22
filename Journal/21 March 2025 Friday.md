@@ -73,6 +73,10 @@ Posted HW 7 and solution.
 	- some ZZ4b file transfer failed
 	- [x] resubmit
 - Signal finished
+- Finally finished backgrounds too
+- p(HH) seems even better than p(S) !!!
+- mailed AE
+- [ ] push code
 
 # Installing python3.10
 - `brew install python@3.10`
