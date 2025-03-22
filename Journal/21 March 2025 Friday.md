@@ -37,7 +37,7 @@
 - [ ] Schedule FNAL badging appointment
 - [ ] Make sum/SB/SR plots presentation
 - [ ] Make 2D ratio plots (3 figures on the canvas !)
-- [ ] ROC plots for various signal points
+- [x] ROC plots for various signal points
 - [ ] Watch SoS approval
 - [ ] Guy Berry Prep
 ---
@@ -76,7 +76,8 @@ Posted HW 7 and solution.
 - Finally finished backgrounds too
 - p(HH) seems even better than p(S) !!!
 - mailed AE
-- [ ] push code
+- [x] push code
+- [ ] Add to AN
 
 # Installing python3.10
 - `brew install python@3.10`
