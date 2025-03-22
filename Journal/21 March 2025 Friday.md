@@ -33,12 +33,13 @@
 
 - [x] Post Homework #7
 - [ ] More Estimate to Complete
-- [ ]  Maybe synthetic data with re-weight dR(close) vs dR(other) mass plane ?
+- [ ] Maybe synthetic data with re-weight dR(close) vs dR(other) mass plane ?
 - [ ] Schedule FNAL badging appointment
 - [ ] Make sum/SB/SR plots presentation
 - [ ] Make 2D ratio plots (3 figures on the canvas !)
 - [x] ROC plots for various signal points
-- [ ] Watch SoS approval
+- [x] Watch SoS approval
+	  	- <font color=red> On Saturday, on Saturday ... on Saturday </font>
 - [ ] Guy Berry Prep
 ---
 
