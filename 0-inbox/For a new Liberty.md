@@ -17,9 +17,18 @@ Very good!
 
 [[Utilitarianism Often uses statism as a Means to an End]]
 
-p48
-  
 
+Taxes necessarily split the population into two: net recipients and net payers.
+
+[[The experiment of a written constitution to limit government has failed.]]
+
+The direct withholding of taxes started during WWII and was always meant to be temporary. 
+Tax compliance goes way down if it is not enforced directly by employers. 
+
+Judges and lawyers are required for the functioning of jury trials, neither should the jury. 
+
+
+p160
 
 # Follow-ups
 
