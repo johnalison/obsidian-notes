@@ -18,7 +18,7 @@ The key idea is that [[Sustainable Growth is a Moral Imperative]]
 
 [[Constraints on wealth redistribution.]]
 
-[[Radial uncertainty of long-term consequences of our actions]]
+[[Radical uncertainty of long-term consequences of our actions]]
 
 
 # This framework cuts across political lines. 

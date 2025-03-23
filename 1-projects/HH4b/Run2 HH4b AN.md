@@ -49,6 +49,11 @@ Towards v4
 
 # Daily Logs
 
+## [[15 March 2025 Saturday]]
+- [>>] ROC plots for various signal points
+- Solid first draft
+
+
 ## [[6 March 2025 Thursday]]
 -  need hemiplots and new data
 - Finished L2 comments... AE will push to website

@@ -175,4 +175,4 @@ Index:
 [[Radical skepticism not excluded but not supported]]
 
 
-[[Radial uncertainty of long-term consequences of our actions]]
+[[Radical uncertainty of long-term consequences of our actions]]

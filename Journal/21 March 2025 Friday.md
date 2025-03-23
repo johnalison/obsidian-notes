@@ -79,7 +79,7 @@ Posted HW 7 and solution.
 - mailed AE
 - [x] push code
 - [x] Add to AN
-
+	  	- <font color=red> On Saturday, on Saturday ... on Saturday </font>
 # Installing python3.10
 - `brew install python@3.10`
 

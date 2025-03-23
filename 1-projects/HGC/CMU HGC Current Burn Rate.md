@@ -12,7 +12,7 @@ Total Personnel Costs	 $ 24,563.67
 	
 F&A	 $ 12,822.23 
 	
-Total Mthy Personnel Burn Rate	 $ 37,385.90 
+Total Monthy Personnel Burn Rate	 $ 37,385.90 
 
 
 # Follow-ups
