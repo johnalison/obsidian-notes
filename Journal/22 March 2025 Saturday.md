@@ -46,3 +46,10 @@ Finished [[For a new Liberty]]
 	- Then explain you went to cern and worked in SI lab. and outline what you did there.
 	- Then go on to 32
 
+
+Some [[Fly By Night Physics]]
+
+Add Roc plots to the AN
+
+Start [[Hamlet]]
+

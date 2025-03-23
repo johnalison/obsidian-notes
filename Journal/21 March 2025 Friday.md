@@ -78,7 +78,7 @@ Posted HW 7 and solution.
 - p(HH) seems even better than p(S) !!!
 - mailed AE
 - [x] push code
-- [ ] Add to AN
+- [x] Add to AN
 
 # Installing python3.10
 - `brew install python@3.10`
