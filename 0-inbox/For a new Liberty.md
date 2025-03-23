@@ -27,8 +27,8 @@ Tax compliance goes way down if it is not enforced directly by employers.
 
 Judges and lawyers are required for the functioning of jury trials, neither should the jury. 
 
+[[Public schools foster inequality]]
 
-p160
 
 # Follow-ups
 
