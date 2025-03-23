@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/Public schools foster inequality.md",
+                "file": "0-inbox/For a new Liberty.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Public schools foster inequality"
+              "title": "For a new Liberty"
             }
           },
           {
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/Public schools foster inequality.md",
+                "file": "0-inbox/For a new Liberty.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Public schools foster inequality"
+              "title": "Backlinks for For a new Liberty"
             }
           },
           {
@@ -169,12 +169,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/Public schools foster inequality.md",
+                "file": "0-inbox/For a new Liberty.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Public schools foster inequality"
+              "title": "Outgoing links from For a new Liberty"
             }
           },
           {
@@ -196,10 +196,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/Public schools foster inequality.md"
+                "file": "0-inbox/For a new Liberty.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Public schools foster inequality"
+              "title": "Outline of For a new Liberty"
             }
           },
           {
@@ -233,8 +233,8 @@
   },
   "active": "fc815f580673f57e",
   "lastOpenFiles": [
-    "0-inbox/For a new Liberty.md",
     "0-inbox/Public schools foster inequality.md",
+    "0-inbox/For a new Liberty.md",
     "0-inbox/The experiment of a written constitution to limit government has failed..md",
     "Journal/March 2025.md",
     "Journal/23 March 2025 Sunday.md",

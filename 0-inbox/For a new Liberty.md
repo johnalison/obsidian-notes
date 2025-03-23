@@ -29,7 +29,7 @@ Judges and lawyers are required for the functioning of jury trials, neither shou
 
 [[Public schools foster inequality]]
 
-
+There is no profit or loss mechanism in government to induce efficiency or innovation. There is no mechanism for "successful" operations to grow in "unsuccessful" ones to die. 
 # Follow-ups
 
 
