@@ -78,9 +78,10 @@ Bug fix phh
 - Current Paradigm: "recipe for Life" Urey experiment "primodial soup"
 - Biosphere: was assumed to be the earths surface. Deep earth curst assummed to be sterile
 - 1977 Discovery of Black Smokers: Life with No solar dependence!
-- PCR assumes life DNA ? 
+- PCR assumes life DNA ?  <font color="red"> YES!  ... "Grand Challenge Question" </font>
 - kW/m^2  comes from above 1/10 W / m^2 comes from below
 - Hydrogen from radio-association of water
 - subsufrace life dominated life on earth for most of its histories
 - Moon looks just like earth. no other system with moon as big as the earths
-- 
+- Any good reading on this topic ?
+
