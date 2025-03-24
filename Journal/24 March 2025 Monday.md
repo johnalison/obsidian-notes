@@ -52,6 +52,14 @@ M & T to school ... tough slough
 Bug fix phh 
 - rerunning signal samples
 
-Solid work on Estimate to compete
-- draft section
+# Solid work on Estimate to compete
+- Understood Steve numbers
+- drafted section
 - pinged Nural
+
+# Hoops
+- 5s good runs / good wins
+
+# [[Rui Xue Thesis Committee]]
+- Two projects: ATLAS MC contact
+- Updating Virtual Surface in Geomodel 
