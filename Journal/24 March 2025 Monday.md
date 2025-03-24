@@ -35,7 +35,8 @@
 - [x] More Estimate to Complete
 - [ ] Guy Berry Prep
 - [ ] Call Liberty mutual re:tree down
-- [ ] Understand Chuyuan/Joy's slides
+- [ ] Understand Chuyuan's slides
+- [ ] Submit more offsets
 ---
 
 # Log
@@ -65,3 +66,21 @@ Bug fix phh
 - Updating Virtual Surface in Geomodel 
 - Are the s16 "M16" really uncorrelated ?
 - Sensitivity to mTop ?
+- All good
+
+# [[Truth Skimmer]]
+- re-sent link: https://cmu.app.box.com/folder/313225672031?s=k7gnuj2zaq52xe7507ev4tntqw8bprr8
+
+# Physics Colloq
+- Sol Gruner
+- Upending Assumptions About Life On Earth
+- Claim: we are in a paradimg shift about where life is and how it evolved
+- Current Paradigm: "recipe for Life" Urey experiment "primodial soup"
+- Biosphere: was assumed to be the earths surface. Deep earth curst assummed to be sterile
+- 1977 Discovery of Black Smokers: Life with No solar dependence!
+- PCR assumes life DNA ? 
+- kW/m^2  comes from above 1/10 W / m^2 comes from below
+- Hydrogen from radio-association of water
+- subsufrace life dominated life on earth for most of its histories
+- Moon looks just like earth. no other system with moon as big as the earths
+- 
