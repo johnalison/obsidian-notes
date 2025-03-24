@@ -73,7 +73,7 @@ Mail to Ryan Simeon and Sridhara Dasu re: background modelling with synthetic da
 - Got multiple curves going
 - Need to plot from different files
 - `python plots/makeRocPlot.py hists/histAll_20250304_a100c66.coffea hists/histAll_signals_cHHHX_20250304_a100c66.coffea --outputFolder roc_curves`
-- [ ] Run to make phh plots (SR and HH region)
+- [>>] Run to make phh plots (SR and HH region)
 - [x] Curves for different k-lambdas
 - Found spikes in kl = 2.45 sample
 

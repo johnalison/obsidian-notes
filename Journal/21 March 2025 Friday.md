@@ -17,12 +17,12 @@
 |     | ROC Curves |     |
 | 4   | ROC Curves |     |
 |     | Happy Hr   |     |
-|     |            |     |
+|     | Happy Hr   |     |
 
-**W:**
-**DW:**
-**OT:**
-**ex** or **No ex**
+**W:** 6 
+**DW:** 5
+**OT:** 4
+**ex** 
 
 ---
 # The ONE thing: 
@@ -32,7 +32,7 @@
 # To Do
 
 - [x] Post Homework #7
-- [ ] More Estimate to Complete
+- [>>] More Estimate to Complete
 - [ ] Maybe synthetic data with re-weight dR(close) vs dR(other) mass plane ?
 - [ ] Schedule FNAL badging appointment
 - [ ] Make sum/SB/SR plots presentation
@@ -40,7 +40,7 @@
 - [x] ROC plots for various signal points
 - [x] Watch SoS approval
 	  	- <font color=red> On Saturday, on Saturday ... on Saturday </font>
-- [ ] Guy Berry Prep
+- [>>] Guy Berry Prep
 ---
 
 # Log
@@ -80,18 +80,18 @@ Posted HW 7 and solution.
 - [x] push code
 - [x] Add to AN
 	  	- <font color=red> On Saturday, on Saturday ... on Saturday </font>
-# Installing python3.10
-- `brew install python@3.10`
 
-# Upgrading python venv
-- `python3.10 -m venv myPyPlotEnv310`
-- `source myPyPlotEnv310/bin/activate`
-- `pip install --upgrade pip`
-- `pip install -r plots/plot_requirements.txt`
+# Getting my local python version to match the container 
+- Installing python3.10
+	- `brew install python@3.10`
+- Upgrading python venv
+	- `python3.10 -m venv myPyPlotEnv310`
+	- `source myPyPlotEnv310/bin/activate`
+	- `pip install --upgrade pip`
+	- `pip install -r plots/plot_requirements.txt`
+-  Got my local python version to match the container ! 
 
- Got my local python version to match the container ! 
-
-More rocs. Got 
+More rocs. see above
 
 # Hoops
 - Highmark ... Good wins

@@ -10,7 +10,7 @@ Writing up [[For a new Liberty]]
 
 Some [[Fly By Night Physics]]
 
-More [[For a new Liberty]]
+More Writing [[For a new Liberty]]
 
 # Gym
 - 3 Supersets

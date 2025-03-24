@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/18 March 2025 Tuesday.md",
+                "file": "Journal/23 March 2025 Sunday.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "18 March 2025 Tuesday"
+              "title": "23 March 2025 Sunday"
             }
           },
           {
@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/24 March 2025 Monday.md",
+                "file": "1-projects/HGC/CAM Turnaround Report.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "24 March 2025 Monday"
+              "title": "CAM Turnaround Report"
             }
           },
           {
@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "file:turn",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -130,8 +130,7 @@
               "title": "Files"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -151,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/24 March 2025 Monday.md",
+                "file": "1-projects/HGC/CAM Turnaround Report.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +160,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 24 March 2025 Monday"
+              "title": "Backlinks for CAM Turnaround Report"
             }
           },
           {
@@ -170,12 +169,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/24 March 2025 Monday.md",
+                "file": "1-projects/HGC/CAM Turnaround Report.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 24 March 2025 Monday"
+              "title": "Outgoing links from CAM Turnaround Report"
             }
           },
           {
@@ -197,10 +196,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/24 March 2025 Monday.md"
+                "file": "1-projects/HGC/CAM Turnaround Report.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 24 March 2025 Monday"
+              "title": "Outline of CAM Turnaround Report"
             }
           },
           {
@@ -234,15 +233,20 @@
   },
   "active": "70ed710a2b2f28e9",
   "lastOpenFiles": [
+    "Journal/24 March 2025 Monday.md",
+    "Journal/23 March 2025 Sunday.md",
+    "Journal/March 2025.md",
+    "0-inbox/For a new Liberty.md",
+    "0-inbox/Democratic Party - Libertarianism beginnings and quick ends.md",
+    "Journal/22 March 2025 Saturday.md",
+    "Journal/21 March 2025 Friday.md",
+    "Journal/20 March 2025 Thursday.md",
+    "Journal/19 March 2025 Wednesday.md",
     "Journal/18 March 2025 Tuesday.md",
     "1-projects/Mixed2.0/Jet DeClustering.md",
-    "Journal/24 March 2025 Monday.md",
     "Journal/17 March 2025 Monday.md",
-    "Journal/March 2025.md",
-    "Journal/23 March 2025 Sunday.md",
     "Journal/16 March 2025 Sunday.md",
     "Journal/15 March 2025 Saturday.md",
-    "0-inbox/For a new Liberty.md",
     "0-inbox/Public schools foster inequality.md",
     "0-inbox/The experiment of a written constitution to limit government has failed..md",
     "0-inbox/Utilitarianism Often uses statism as a Means to an End.md",
@@ -251,15 +255,10 @@
     "0-inbox/For Utilitarianism Individual Liberty is Simply a Means to an End.md",
     "0-inbox/Socialist movement undermined libertarian strategy.md",
     "0-inbox/Socialism attempts to marry benefits of libertarianism with state power.md",
-    "0-inbox/Democratic Party - Libertarianism beginnings and quick ends.md",
     "0-inbox/Write up Universal Inference Toy.md",
     "0-inbox/What do we know about organizing society or government with overwhelming confidence.md",
     "0-inbox/Wesley Terrill Thesis.md",
     "0-inbox/Waiting for.md",
-    "0-inbox/Universal Inference.md",
-    "2-areas/coffea4bs/Truth Skimmer.md",
-    "0-inbox/Tree Stump.md",
-    "0-inbox/Tool List.md",
     "attachments/Pasted Image 20250315161206_922.png",
     "attachments/Pasted Image 20250315161151_920.png",
     "attachments/Pasted image 20250315160719.png",

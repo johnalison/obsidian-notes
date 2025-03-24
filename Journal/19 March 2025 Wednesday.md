@@ -33,7 +33,7 @@
 - [x] Request Frank-Hertz
 - [>>] 2D plot ratios
 - [ ] More signal samples for Soeheun 
-- [ ] Review Wes' Fermilab slides
+- [>>] Review Wes' Fermilab slides
 - [>>] HGC Estimate to complete
 - [>>] Vars
 
@@ -82,5 +82,5 @@ Chat Sanya Arora (Also got in to Berkeley and Princeton)
 Home with  M & T.... Picked up H ... 
 
 # Bernie Klu Viewing
-- Saw lots of people McVay not looking good.
+- Saw lots of people... McVay not looking good.
 - Jeff Klus kids graduating highschool!!!
