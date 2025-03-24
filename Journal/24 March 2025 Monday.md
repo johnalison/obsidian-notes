@@ -32,7 +32,7 @@
 
 - [ ] Hemisphere plots 
 - [ ] Write up bootstraping study
-- [ ] More Estimate to Complete
+- [x] More Estimate to Complete
 - [ ] Guy Berry Prep
 - [ ] Call Liberty mutual re:tree down
 - [ ] Understand Chuyuan's slides
@@ -51,3 +51,7 @@ M & T to school ... tough slough
 
 Bug fix phh 
 - rerunning signal samples
+
+Solid work on Estimate to compete
+- draft section
+- pinged Nural
