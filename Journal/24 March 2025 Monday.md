@@ -35,7 +35,7 @@
 - [x] More Estimate to Complete
 - [ ] Guy Berry Prep
 - [ ] Call Liberty mutual re:tree down
-- [ ] Understand Chuyuan's slides
+- [ ] Understand Chuyuan/Joy's slides
 ---
 
 # Log
@@ -63,3 +63,5 @@ Bug fix phh
 # [[Rui Xue Thesis Committee]]
 - Two projects: ATLAS MC contact
 - Updating Virtual Surface in Geomodel 
+- Are the s16 "M16" really uncorrelated ?
+- Sensitivity to mTop ?
