@@ -24,6 +24,10 @@ ACR: (AR_dHM >= 30) & (AR_dHM < 55)
 
 # Logs
 
+## [[17 March 2025 Monday]]
+- added pt_raw to debug output 
+- remade pkl file for Marina... sent 
+
 ## [[14 March 2025 Friday]]
 -  Fixed Cutflow for Marina 
 - Add was only including one data Era

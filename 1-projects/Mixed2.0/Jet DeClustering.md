@@ -42,7 +42,9 @@ Getting the new mixing going
 * [[Group Splittings Based on Multiplicity]]
 * [[Mass of jets is not invariant]]
 
-
+# Thinking about improving the synthetic data through reweighting
+- Maybe synthetic data with re-weight dR(close) vs dR(other) mass plane.
+- Try 1D distributions first ? 
 
 # Work:
 [[script to compare the splittings]]

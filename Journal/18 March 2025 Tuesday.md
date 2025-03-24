@@ -38,8 +38,8 @@
 - [>>] ROC plots for various signal points
 - [>>] Maybe synthetic data with re-weight dR(close) vs dR(other) mass plane ?
 - [>>] Schedule FNAL badging appointment
-- [ ] Hemisphere plots 
-- [ ] Write up bootstraping study
+- [>>] Hemisphere plots 
+- [>>] Write up bootstraping study
 - [>>] Make sum/SB/SR plots presentation
 
 ---
@@ -50,7 +50,7 @@ Up at 7;30
 
 # Thinking about improving the synthetic data through reweighting
 - Maybe synthetic data with re-weight dR(close) vs dR(other) mass plane.
-- Try 1D distributions first ?
+- Try 1D distributions first ?  ([>>]) [[Jet DeClustering]]
 
 To school
 

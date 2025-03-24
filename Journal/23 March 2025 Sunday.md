@@ -16,3 +16,9 @@ More [[For a new Liberty]]
 - 3 Supersets
 - Squat - pullup / clean - stepups / flys - dips
 - 10' at Tmax = 122
+
+# Sara Shook Concert
+- Me Tony  and `___Adrians Dad___`
+- Parler 
+- Bierport
+- Concert ... good times
