@@ -5,10 +5,10 @@
 |     | HGC Estimate to complete |     |
 | 10  | HGC Estimate to complete |     |
 |     | HGC Estimate to complete |     |
-| 11  | Field Trip               |     |
+| 11  | Coffee/Chat AE           |     |
 |     | MAC Meeting              |     |
 | 12  | MAC Meeting              |     |
-|     |                          |     |
+|     | HGC Estimate to complete |     |
 | 1   |                          |     |
 |     |                          |     |
 | 2   |                          |     |
@@ -74,3 +74,8 @@ Finish setup
 - Cosmology
 - AGI 
 - Big Picture Math 
+- Going to Mars
+- Policy to Maximize Sustainable growth
+
+## [[CMU HGC MAC Meeting 25 March 2025]]
+

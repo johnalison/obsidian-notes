@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/25 March 2025 Tuesday.md",
+                "file": "1-projects/HGC/HGC MAC BoEs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "25 March 2025 Tuesday"
+              "title": "HGC MAC BoEs"
             }
           },
           {
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:Truth",
+                "query": "file:list",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/25 March 2025 Tuesday.md",
+                "file": "1-projects/HGC/HGC MAC BoEs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 25 March 2025 Tuesday"
+              "title": "Backlinks for HGC MAC BoEs"
             }
           },
           {
@@ -168,12 +168,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/25 March 2025 Tuesday.md",
+                "file": "1-projects/HGC/HGC MAC BoEs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 25 March 2025 Tuesday"
+              "title": "Outgoing links from HGC MAC BoEs"
             }
           },
           {
@@ -195,10 +195,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/25 March 2025 Tuesday.md"
+                "file": "1-projects/HGC/HGC MAC BoEs.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 25 March 2025 Tuesday"
+              "title": "Outline of HGC MAC BoEs"
             }
           },
           {
@@ -232,18 +232,24 @@
   },
   "active": "fc815f580673f57e",
   "lastOpenFiles": [
+    "Journal/25 March 2025 Tuesday.md",
+    "0-inbox/CMU HGC MAC Meeting 25 March 2025.md",
+    "Output/Lists.md",
+    "2-areas/Philosophy/UnpopularImportantTruth.md",
+    "2-areas/Philosophy/Things Ive changed my mind on.md",
+    "Input/Meetings/CMU HGC MAC Meeting 18 March 2025.md",
+    "Input/Meetings/2024/July/CMU HGC MAC Meeting 25 July 2024.md",
+    "Journal/18 March 2025 Tuesday.md",
     "Journal/24 March 2025 Monday.md",
     "Input/Meetings/MAC meeting 19 March 2025.md",
     "Journal/20 March 2025 Thursday.md",
     "1-projects/HGC/HGC MAC BoEs.md",
-    "Journal/25 March 2025 Tuesday.md",
     "Journal/March 2025.md",
     "Journal/23 March 2025 Sunday.md",
     "Journal/22 March 2025 Saturday.md",
     "Journal/21 March 2025 Friday.md",
     "2-areas/coffea4bs/Truth Skimmer.md",
     "Journal/19 March 2025 Wednesday.md",
-    "Journal/18 March 2025 Tuesday.md",
     "0-inbox/HGC Estimate to complete Spring 2025.md",
     "Journal/17 March 2025 Monday.md",
     "1-projects/HGC/CAM Turnaround Report.md",
@@ -252,12 +258,6 @@
     "0-inbox/Limited-government conservatives are impractical utopians.md",
     "2-areas/Philosophy/Quotes.md",
     "1-projects/Mixed2.0/Run3 Synthetic Data.md",
-    "0-inbox/Democratic Party - Libertarianism beginnings and quick ends.md",
-    "1-projects/Mixed2.0/Jet DeClustering.md",
-    "Journal/16 March 2025 Sunday.md",
-    "Journal/15 March 2025 Saturday.md",
-    "0-inbox/Public schools foster inequality.md",
-    "0-inbox/The experiment of a written constitution to limit government has failed..md",
     "attachments/Pasted Image 20250315161206_922.png",
     "attachments/Pasted Image 20250315161151_920.png",
     "attachments/Pasted image 20250315160719.png",

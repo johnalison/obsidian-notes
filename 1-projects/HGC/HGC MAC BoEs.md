@@ -18,9 +18,12 @@ The BoE area for TTU is
 
 [https://cms-docdb.cern.ch/cgi-](https://cms-docdb.cern.ch/cgi-bin/DocDB/ShowDocument?docid=13031)[bin/DocDB/ShowDocument?docid=](https://cms-docdb.cern.ch/cgi-bin/DocDB/ShowDocument?docid=13031)[13031](https://cms-docdb.cern.ch/cgi-bin/DocDB/ShowDocument?docid=13031)
 
-and for UCSB it is
+# UCSB it is
 
 [https://cms-docdb.cern.ch/cgi-bin/DocDB/ShowDocument?docid=13033](https://cms-docdb.cern.ch/cgi-bin/DocDB/ShowDocument?docid=13033)
+
+- The total number of odd-sized FSE and HSE modules is 2538 (full-size equivalent) and 2370 (half-size equivalent), respectively,
+- for a total of “full-size-equivalent modules” of 4908.
 
 
 # Follow-ups
