@@ -5,10 +5,9 @@
 
 - [[Fly By Night Physics]] (Anthony Zee)
 
-- [[For a new Liberty]] (Murray Rothbard)
-
-
 ---
+
+- [[For a new Liberty]] (Murray Rothbard)
 
 - [[I See Satan Fall Like Lightning]] (Rene Girard)
 

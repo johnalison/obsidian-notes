@@ -21,6 +21,8 @@ Very good!
 Taxes necessarily split the population into two: net recipients and net payers.
 
 [[The experiment of a written constitution to limit government has failed.]]
+- [[Limited-government conservatives are impractical utopians]]
+
 
 The direct withholding of taxes started during WWII and was always meant to be temporary. 
 Tax compliance goes way down if it is not enforced directly by employers. 
@@ -30,6 +32,10 @@ Judges and lawyers are required for the functioning of jury trials, neither shou
 [[Public schools foster inequality]]
 
 There is no profit or loss mechanism in government to induce efficiency or innovation. There is no mechanism for "successful" operations to grow in "unsuccessful" ones to die. 
+
+"Urge immediate abolition as earnestly as we may, it will alas! be gradual abolition in the end. We have never said that slavery would be overthrown by a single blow; that it ougt to be, we shall always contend." ([[>>]]) [[Quotes]]
+
+
 # Follow-ups
 
 

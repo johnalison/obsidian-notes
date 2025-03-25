@@ -85,3 +85,18 @@ Bug fix phh
 - Moon looks just like earth. no other system with moon as big as the earths
 - Any good reading on this topic ?
 
+Chat Markus 
+
+Kids home
+
+Burgers on Grill
+
+Merging code
+
+Finished [[Fly By Night Physics]]
+
+# [[Run3 Synthetic Data]]
+- running on **cmslpc303**
+- Submitted random seeds 1,2,3
+
+Writting up [[For a new Liberty]]

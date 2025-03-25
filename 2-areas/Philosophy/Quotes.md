@@ -14,6 +14,11 @@ If an opinion contrary to your own makes you angry, that is a sign that you are 
 
 *"The hardest truth about happiness is that it's a choice."*
 -- Shane Parish
+
+"Urge immediate abolition as earnestly as we may, it will alas! be gradual abolition in the end. We have never said that slavery would be overthrown by a single blow; that it ougt to be, we shall always contend."  (William Llyod Garrison)
+
+
+
 # Follow-ups
 
 
