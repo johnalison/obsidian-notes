@@ -86,4 +86,7 @@ Finish setup
 
 
 # HGC Management Meeting
+- [ ] Need to start filling in the slide template (2 weeks)
+- Reference to the docDB area for BoE ... Have not produced a BCR b/c the estimate is close ... impact ... Strong confidence complete with in projected budget. 
+- L2 is only LoE
 - 
