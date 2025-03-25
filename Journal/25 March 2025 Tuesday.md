@@ -30,7 +30,7 @@
 ---
 # To Do
 
-- [ ]  Guy Berry Prep
+- [x]  Guy Berry Prep
 - [x] Submit synthetic datasets
 - [ ] Schedule FNAL badging appointment
 - [ ] Make sum/SB/SR plots presentation
@@ -78,4 +78,8 @@ Finish setup
 - Policy to Maximize Sustainable growth
 
 ## [[CMU HGC MAC Meeting 25 March 2025]]
+
+# [[Guy Berry 2025]]
+- Prep
+- https://chatgpt.com/share/67e2f6d4-372c-8000-b034-872e4283be9a
 

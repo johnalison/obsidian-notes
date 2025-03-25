@@ -77,7 +77,8 @@
               "title": "HGC MAC BoEs"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -149,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/25 March 2025 Tuesday.md",
+                "file": "Journal/March 2025.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +160,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 25 March 2025 Tuesday"
+              "title": "Backlinks for March 2025"
             }
           },
           {
@@ -168,12 +169,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/25 March 2025 Tuesday.md",
+                "file": "Journal/March 2025.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 25 March 2025 Tuesday"
+              "title": "Outgoing links from March 2025"
             }
           },
           {
@@ -195,10 +196,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/25 March 2025 Tuesday.md"
+                "file": "Journal/March 2025.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 25 March 2025 Tuesday"
+              "title": "Outline of March 2025"
             }
           },
           {
@@ -230,10 +231,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fc815f580673f57e",
+  "active": "a53f9b6c8db0175d",
   "lastOpenFiles": [
-    "1-projects/HGC/HGC MAC BoEs.md",
     "Journal/25 March 2025 Tuesday.md",
+    "1-projects/HGC/HGC MAC BoEs.md",
     "0-inbox/CMU HGC MAC Meeting 25 March 2025.md",
     "Output/Lists.md",
     "2-areas/Philosophy/UnpopularImportantTruth.md",
