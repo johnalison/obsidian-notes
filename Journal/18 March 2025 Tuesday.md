@@ -63,7 +63,7 @@ To school
 
 
 # [[HGC Estimate to complete Spring 2025]]
-- Lots of work
+- Lots of work !
 - See above
 
 

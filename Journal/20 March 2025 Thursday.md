@@ -51,7 +51,7 @@ M & T to school
 - pinged Jeff to get the current "burn rate" of the salaries
 	- [[CMU HGC Current Burn Rate]]
 - pinged MP re:Current Cost variance 80k charged by UCSB
-- Submitted two 
+- Submitted two VARs
 - Investigating a 80k charge at UCSB... pinged Lipika
 
 
@@ -65,7 +65,7 @@ M & T to school
 
 More CAM variances
 
-Mail to Ryan Simeon and Sridhara Dasu re: background modelling with synthetic datasets.
+Mail to Ryan Simeon and Sridhara Dasu re: background modeling with synthetic datasets.
 
 
 # Working Roc Plots

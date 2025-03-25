@@ -32,7 +32,7 @@
 
 - [x] Request Frank-Hertz
 - [>>] 2D plot ratios
-- [ ] More signal samples for Soeheun 
+- [>>] More signal samples for Soeheun 
 - [>>] Review Wes' Fermilab slides
 - [>>] HGC Estimate to complete
 - [>>] Vars
@@ -58,7 +58,7 @@ Up at 7:15
 Setup
 
 # [[HGC Estimate to complete Spring 2025]]
-- Moved to google sheets:
+- Moved bottom-up estimate to google sheets:
 - https://docs.google.com/spreadsheets/d/12ihDV7ayNyCY-qErWg072wRIgj5y4M97oYKE2SUkcP4/edit?gid=1242185869#gid=1242185869
 
 # Hbb Meeting

@@ -34,9 +34,9 @@
 - [x] Post Homework #7
 - [>>] More Estimate to Complete
 - [ ] Maybe synthetic data with re-weight dR(close) vs dR(other) mass plane ?
-- [ ] Schedule FNAL badging appointment
-- [ ] Make sum/SB/SR plots presentation
-- [ ] Make 2D ratio plots (3 figures on the canvas !)
+- [>>]  Schedule FNAL badging appointment
+- [>>] Make sum/SB/SR plots presentation
+- [>>] Make 2D ratio plots (3 figures on the canvas !)
 - [x] ROC plots for various signal points
 - [x] Watch SoS approval
 	  	- <font color=red> On Saturday, on Saturday ... on Saturday </font>
@@ -65,6 +65,7 @@ Posted HW 7 and solution.
 # Working Roc Plots
 - [x] Run to make phh plots (SR and HH region)
 - Added kl reweighting function
+- Spikes from one of the variances of the signal sample... need to request nominal
 - GOT kl-rw working!!!
 - Added new hists (phh and phh_hh)
 - Running all signals on **cmslpc322**
