@@ -17,6 +17,13 @@ Giving approval talk for SoS
 
 # Weekly Meetings 
 
+## [[18 March 2025 Tuesday]]
+- Gave practice talk for approval 
+- Chat re:money plot... He should make before/after version for FNAL talk
+- [[Wesley Terrill Thesis]]
+- [x] Find rules for showing public results in job talks: 
+- https://twiki.cern.ch/twiki/bin/view/CMS/PhysicsApprovals#Exceptions_to_standard_approval
+- https://twiki.cern.ch/twiki/bin/viewauth/CMS/CMSPubComm
 
 ## [[11 March 2025 Tuesday]] (Virtual)
 - SOS: We are pushing to freeze the documentation for approval but with only Higgsino and one of the TChiWZ scenarios (mN2*mN1<0). I found an empty background bin for the other TChiWZ scenario and the limits are being rerun with the negative scenario binning. The documentation has all been updated and a message sent to the conveners and ARC.  

@@ -33,7 +33,7 @@
 - [ ] Hemisphere plots 
 - [ ] Write up bootstraping study
 - [x] More Estimate to Complete
-- [ ] Guy Berry Prep
+- [>>] Guy Berry Prep
 - [ ] Call Liberty mutual re:tree down
 - [ ] Understand Chuyuan's slides
 - [ ] Submit more offsets
@@ -71,8 +71,8 @@ Bug fix phh
 # [[Truth Skimmer]]
 - re-sent link: https://cmu.app.box.com/folder/313225672031?s=k7gnuj2zaq52xe7507ev4tntqw8bprr8
 
-# Physics Colloq
-- Sol Gruner
+# Physics Colloquium 
+- Sol Gruner...Cornell
 - Upending Assumptions About Life On Earth
 - Claim: we are in a paradimg shift about where life is and how it evolved
 - Current Paradigm: "recipe for Life" Urey experiment "primodial soup"
@@ -83,7 +83,9 @@ Bug fix phh
 - Hydrogen from radio-association of water
 - subsufrace life dominated life on earth for most of its histories
 - Moon looks just like earth. no other system with moon as big as the earths
-- Any good reading on this topic ?
+- GREAT!
+- Any good reading on this topic ? yes.. "Deep Life" / "Life as No One Knows It"
+
 
 Chat Markus 
 
@@ -100,3 +102,5 @@ Finished [[Fly By Night Physics]]
 - Submitted random seeds 1,2,3
 
 Writting up [[For a new Liberty]]
+
+Setup new watch
