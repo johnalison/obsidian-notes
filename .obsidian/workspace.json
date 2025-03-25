@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/24 March 2025 Monday.md",
+                "file": "Journal/25 March 2025 Tuesday.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "24 March 2025 Monday"
+              "title": "25 March 2025 Tuesday"
             }
           },
           {
@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/25 March 2025 Tuesday.md",
+                "file": "Input/Meetings/MAC meeting 19 March 2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "25 March 2025 Tuesday"
+              "title": "MAC meeting 19 March 2025"
             }
           },
           {
@@ -77,8 +77,7 @@
               "title": "HGC MAC BoEs"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -231,15 +230,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "70ed710a2b2f28e9",
+  "active": "fc815f580673f57e",
   "lastOpenFiles": [
-    "Journal/March 2025.md",
-    "Journal/25 March 2025 Tuesday.md",
     "Journal/24 March 2025 Monday.md",
+    "Input/Meetings/MAC meeting 19 March 2025.md",
+    "Journal/20 March 2025 Thursday.md",
+    "1-projects/HGC/HGC MAC BoEs.md",
+    "Journal/25 March 2025 Tuesday.md",
+    "Journal/March 2025.md",
     "Journal/23 March 2025 Sunday.md",
     "Journal/22 March 2025 Saturday.md",
     "Journal/21 March 2025 Friday.md",
-    "Journal/20 March 2025 Thursday.md",
     "2-areas/coffea4bs/Truth Skimmer.md",
     "Journal/19 March 2025 Wednesday.md",
     "Journal/18 March 2025 Tuesday.md",
@@ -257,8 +258,6 @@
     "Journal/15 March 2025 Saturday.md",
     "0-inbox/Public schools foster inequality.md",
     "0-inbox/The experiment of a written constitution to limit government has failed..md",
-    "0-inbox/Utilitarianism Often uses statism as a Means to an End.md",
-    "0-inbox/Utilitarians are not radicals.md",
     "attachments/Pasted Image 20250315161206_922.png",
     "attachments/Pasted Image 20250315161151_920.png",
     "attachments/Pasted image 20250315160719.png",

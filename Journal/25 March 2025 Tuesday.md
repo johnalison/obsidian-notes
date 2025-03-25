@@ -56,3 +56,21 @@ Finish setup
 # [[HGC Estimate to complete Spring 2025]]
 - Starting CMU doc: 
 	- https://docs.google.com/document/d/1msi-dcXXjjYUP_KDZWxZuBitXJ19NpzQ/edit
+	- Worked out EAC... basically all assembly 
+	- [ ] Need to understand CPI
+- Starting UCSB
+	- https://docs.google.com/document/d/1Lq3zZo9QBQr_rVQb1P93QetfB1_aQH9O/edit
+	- 90k for undergrad vs 9k at CMU and TTU ?
+	- [ ] Read BoE [[HGC MAC BoEs]]
+	- Partials: Top / Bottom / Left / Right / Five
+
+# What are things worth doing
+- Longevity
+- Max out money 
+- Max out time off 
+- Consciousness
+- Origin of Life
+- High-Energy Physics
+- Cosmology
+- AGI 
+- Big Picture Math 
