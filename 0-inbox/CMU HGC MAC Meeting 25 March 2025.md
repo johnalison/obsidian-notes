@@ -6,7 +6,8 @@
 - Ad for Tech supervisor posted
 
 # Action
-- [ ] Arrange pickup of UCSB tooling
+- [x] Arrange pickup of UCSB tooling
+- [ ] Follow up with FMS re:humidity 
 
 # Jessica
 - New tooling coming Th
