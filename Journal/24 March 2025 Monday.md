@@ -16,12 +16,12 @@
 | 3   |                      |     |
 |     | Colloq               |     |
 | 4   | Colloq               |     |
-|     |                      |     |
+|     | Chat                 |     |
 
-**W:**
-**DW:**
-**OT:**
-**ex** or **No ex**
+**W:** 6
+**DW:** 3
+**OT:** 1
+**ex** 
 
 ---
 # The ONE thing: 
@@ -36,7 +36,7 @@
 - [>>] Guy Berry Prep
 - [ ] Call Liberty mutual re:tree down
 - [ ] Understand Chuyuan's slides
-- [ ] Submit more offsets
+- [>>] Submit more offsets
 ---
 
 # Log

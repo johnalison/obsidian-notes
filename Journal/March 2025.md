@@ -23,7 +23,7 @@
 | 21 F | Frank-Hertz Demo ! / ROC Plots / update python/ **Hoops** / Happy Hr           | 6/5/4   |
 | 22 S | (Chat Wei-Po) Watch SoS / Finish [[For a new Liberty]] / Wes Talk / [[Hamlet]] |         |
 | 23 S | Writing up [[For a new Liberty]] / **Gym/SR** / Parler (Sara Shook)            |         |
-| 24 M | (Thesis Committee)                                                             |         |
+| 24 M | Taught / Bug fix phh - false alarm / **Hoops** (Rui Committee) / Great Colloq! | 6/3/1   |
 | 25 T | (Field Trip)                                                                   |         |
 | 26 W |                                                                                |         |
 | 27 H |                                                                                |         |

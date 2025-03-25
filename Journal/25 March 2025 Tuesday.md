@@ -36,6 +36,8 @@
 - [ ] Make sum/SB/SR plots presentation
 - [ ] HGC Estimate to complete
 - [ ]  Make 2D ratio plots (3 figures on the canvas !)
+- [ ] Submit more offsets
+
 
 ---
 
@@ -47,3 +49,10 @@ Up at 7
 - running on **cmslpc303**
 - Submitted random seeds 4 - 15
 
+To campus
+
+Finish setup
+
+# [[HGC Estimate to complete Spring 2025]]
+- Starting CMU doc: 
+	- https://docs.google.com/document/d/1msi-dcXXjjYUP_KDZWxZuBitXJ19NpzQ/edit

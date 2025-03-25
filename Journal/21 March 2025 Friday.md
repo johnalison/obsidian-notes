@@ -92,7 +92,7 @@ Posted HW 7 and solution.
 	- `pip install -r plots/plot_requirements.txt`
 -  Got my local python version to match the container ! 
 
-More rocs. see above
+More rocs...see above
 
 # Hoops
 - Highmark ... Good wins
