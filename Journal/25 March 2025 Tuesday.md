@@ -9,8 +9,8 @@
 |     | MAC Meeting              |     |
 | 12  | MAC Meeting              |     |
 |     | HGC Estimate to complete |     |
-| 1   |                          |     |
-|     |                          |     |
+| 1   | HGC Estimate to complete |     |
+|     | Guy Berry Prep           |     |
 | 2   |                          |     |
 |     |                          |     |
 | 3   | Jeremy Meeting           |     |
