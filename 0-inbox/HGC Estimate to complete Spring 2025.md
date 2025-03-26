@@ -1,9 +1,20 @@
 TTU Draft: 
 - https://docs.google.com/document/d/1Zr5eGtIJggx2pvEH6K-42vE-SKYvYxTc/edit
 
+CMU Draft:
+- https://docs.google.com/document/d/1msi-dcXXjjYUP_KDZWxZuBitXJ19NpzQ/edit
 
+UCSB Draft:
+- https://docs.google.com/document/d/1Lq3zZo9QBQr_rVQb1P93QetfB1_aQH9O/edit
+
+Bottom-up Labor: 
+- https://docs.google.com/spreadsheets/d/12ihDV7ayNyCY-qErWg072wRIgj5y4M97oYKE2SUkcP4/edit?gid=1242185869#gid=1242185869
 
 # Logs
+
+## [[19 March 2025 Wednesday]]
+- Moved bottom-up estimate to google sheets:
+- https://docs.google.com/spreadsheets/d/12ihDV7ayNyCY-qErWg072wRIgj5y4M97oYKE2SUkcP4/edit?gid=1242185869#gid=1242185869
 
 ## [[18 March 2025 Tuesday]]
 - https://docs.google.com/document/d/1Zr5eGtIJggx2pvEH6K-42vE-SKYvYxTc/edit

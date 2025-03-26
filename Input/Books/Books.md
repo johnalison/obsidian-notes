@@ -1,5 +1,6 @@
 # 2025
 
+- [[Hamlet]] (William Shakespeare and commentaries)
 
 - [[Size]] Vacil Smil
 

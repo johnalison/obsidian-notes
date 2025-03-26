@@ -58,8 +58,7 @@ Up at 7:15
 Setup
 
 # [[HGC Estimate to complete Spring 2025]]
-- Moved bottom-up estimate to google sheets:
-- https://docs.google.com/spreadsheets/d/12ihDV7ayNyCY-qErWg072wRIgj5y4M97oYKE2SUkcP4/edit?gid=1242185869#gid=1242185869
+- See above
 
 # Hbb Meeting
 - [>>] Mail re:Background Synthetic datasets
@@ -81,6 +80,9 @@ Chat Sanya Arora (Also got in to Berkeley and Princeton)
 
 Home with  M & T.... Picked up H ... 
 
+Drove to Baldwin..
 # Bernie Klu Viewing
 - Saw lots of people... McVay not looking good.
 - Jeff Klus kids graduating highschool!!!
+
+Drove Home
