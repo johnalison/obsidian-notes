@@ -59,6 +59,9 @@ M&T to school
 - Updated comments
 - Wait on AE for TTbar CR before send
 
+# Aniket / Sam
+- Will give Sam the inputs
+
 # Hoops 
 - 5s and 4s.. Two games... Good runs 
 - Ankle tweaked 
@@ -70,3 +73,11 @@ M&T to school
 	- `source scripts/synthetic-dataset-analyze-all.sh `
 
 
+Chat Sindhu re:Her Brother troubles with Job
+
+# James Picard
+- Chat Manfred / Chat Jessica 
+
+# bbWW
+- AE: has scripts to make low pt jets
+- Aniket
