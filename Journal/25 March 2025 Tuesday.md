@@ -79,7 +79,7 @@ Finish setup
 
 ## [[CMU HGC MAC Meeting 25 March 2025]]
 
-
+Got the shipping crate !
 # [[Guy Berry 2025]]
 - Prep
 - https://chatgpt.com/share/67e2f6d4-372c-8000-b034-872e4283be9a
@@ -91,3 +91,5 @@ Finish setup
 - L2 is only LoE
 
 Starting to upgrade 2d plots...
+
+Will interview James tomorrow at 3pm.
