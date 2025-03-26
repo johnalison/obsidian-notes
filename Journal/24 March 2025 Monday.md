@@ -50,7 +50,8 @@ M & T to school ... tough slough
 - De Broigle relations
 - Waves
 
-Bug fix phh 
+# Roc Plots
+- Bug fix phh 
 - rerunning signal samples
 
 # Solid work on Estimate to compete
@@ -83,7 +84,7 @@ Bug fix phh
 - Hydrogen from radio-association of water
 - subsufrace life dominated life on earth for most of its histories
 - Moon looks just like earth. no other system with moon as big as the earths
-- GREAT!
+- OUTSTANDING TALK !!!
 - Any good reading on this topic ? yes.. "Deep Life" / "Life as No One Knows It"
 
 
@@ -101,6 +102,6 @@ Finished [[Fly By Night Physics]]
 - running on **cmslpc303**
 - Submitted random seeds 1,2,3
 
-Writting up [[For a new Liberty]]
+Writing up [[For a new Liberty]]
 
 Setup new watch

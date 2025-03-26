@@ -1,11 +1,11 @@
 
-|     |              |     |
+|     | setup        |     |
 | --- | ------------ | --- |
 | 9   | Teaching     |     |
 |     | Teaching     |     |
-| 10  |              |     |
+| 10  | setup        |     |
 |     | Guy Berry    |     |
-| 11  |              |     |
+| 11  | Run2 AN      |     |
 |     |              |     |
 | 12  | Hoops        |     |
 |     | Hoops        |     |
@@ -25,16 +25,30 @@
 
 ---
 # The ONE thing: 
-- [ ] 
+- [ ] Run2 AN
 
 ---
 # To Do
 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
+- [ ] Understand changes in CMU CPI / UCSB CPI
+- [ ] Update the ETC docs
+- [ ] Chat Manfred about giving me access to the CMU actuals 
+- [ ] Test 16 Synthetic datasets
+- [ ] Add phh vs ps to AN 
+- [ ] Send L2 Replies
+- [ ] HGC Slides
+- [ ] Make 2D ratio plots (3 figures on the canvas !)
 
 ---
 
 # Log
+
+up at 7
+
+M&T to school 
+
+# Taught
+- Wave Packets and the Uncertainty relations
+
+# Guy Berry
+- Shuhao: Applied ML

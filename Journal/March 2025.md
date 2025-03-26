@@ -24,7 +24,7 @@
 | 22 S | (Chat Wei-Po) Watch SoS / Finish [[For a new Liberty]] / Wes Talk / [[Hamlet]] |         |
 | 23 S | Writing up [[For a new Liberty]] / **Gym/SR** / Parler (Sara Shook)            |         |
 | 24 M | Taught / Bug fix phh - false alarm / **Hoops** (Rui Committee) / Great Colloq! | 6/3/1   |
-| 25 T |                                                                                |         |
+| 25 T | Estimate to Complete / MAC: crate / Start [[Size]]                             | 8/3/2   |
 | 26 W |                                                                                |         |
 | 27 H |                                                                                |         |
 | 28 F |                                                                                |         |
