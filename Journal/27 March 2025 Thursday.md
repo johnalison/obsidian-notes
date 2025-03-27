@@ -30,12 +30,12 @@
 ---
 # To Do
 
-- [ ] Post HW
+- [x] Post HW
 - [ ] Plan HGC staff compare vs budget
 - [ ] Make 2D ratio plots (3 figures on the canvas !)
 - [ ] Update the ETC docs
 - [x]  Test 16 Synthetic datasets
-- [ ] Send L2 Replies
+- [x] Send L2 Replies
 - [ ] Understand changes in CMU CPI / UCSB CPI
 - [ ] Chat Manfred about giving me access to the CMU actuals 
 - [x] Chat MP re:Jim Picard
@@ -88,3 +88,8 @@ Chat AE
 - [ ] Ping Arvand... will wait until he has gotten the reject letter
 - [ ] Ping Jim Picards references
 
+Home early with M&T ... 
+
+M to basketball 
+
+Sent L2 replies... Posted HW
