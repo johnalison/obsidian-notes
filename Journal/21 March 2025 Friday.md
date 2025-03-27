@@ -62,7 +62,8 @@ Chat MP
 
 Posted HW 7 and solution. 
 
-# Working Roc Plots
+# [[4b code base]]
+- Working Roc Plots
 - [x] Run to make phh plots (SR and HH region)
 - Added kl reweighting function
 - Spikes from one of the variances of the signal sample... need to request nominal

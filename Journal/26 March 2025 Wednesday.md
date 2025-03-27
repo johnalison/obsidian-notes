@@ -18,10 +18,10 @@
 | 4   | bbWW           |     |
 |     | bbWW           |     |
 
-**W:**
-**DW:**
-**OT:**
-**ex** or **No ex**
+**W:** 6 
+**DW:** 1 
+**OT:** 1
+**ex** 
 
 ---
 # The ONE thing: 
@@ -30,14 +30,14 @@
 ---
 # To Do
 
-- [ ] Understand changes in CMU CPI / UCSB CPI
-- [ ] Update the ETC docs
-- [ ] Chat Manfred about giving me access to the CMU actuals 
-- [ ] Test 16 Synthetic datasets
+- [>>] Understand changes in CMU CPI / UCSB CPI
+- [>>] Update the ETC docs
+- [>>] Chat Manfred about giving me access to the CMU actuals 
+- [>>] Test 16 Synthetic datasets
 - [x] Add phh vs ps to AN 
-- [ ] Send L2 Replies
+- [>>] Send L2 Replies
 - [ ] HGC Slides
-- [ ] Make 2D ratio plots (3 figures on the canvas !)
+- [>>] Make 2D ratio plots (3 figures on the canvas !)
 
 ---
 
@@ -83,4 +83,7 @@ Chat Sindhu re:Her Brother troubles with Job
 - Aniket
 
 Jessica Happy with Jim 
-- [ ] Chat MP
+- [>>] Chat MP Jim
+
+Some [[Hamlet]]
+

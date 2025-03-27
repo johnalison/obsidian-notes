@@ -25,7 +25,7 @@
 | 23 S | Writing up [[For a new Liberty]] / **Gym/SR** / Parler (Sara Shook)            |         |
 | 24 M | Taught / Bug fix phh - false alarm / **Hoops** (Rui Committee) / Great Colloq! | 6/3/1   |
 | 25 T | Estimate to Complete / MAC: crate / Start [[Size]]                             | 8/3/2   |
-| 26 W |                                                                                |         |
+| 26 W | Taught / **Hoops** / Processing 16 synthetic datasets / Picard Interview       | 6/1/1   |
 | 27 H |                                                                                |         |
 | 28 F |                                                                                |         |
 | 29 S |                                                                                |         |

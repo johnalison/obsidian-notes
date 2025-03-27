@@ -54,7 +54,7 @@ M & T to school ... tough slough
 - Bug fix phh 
 - rerunning signal samples
 
-# Solid work on Estimate to compete
+# Solid work on [[HGC Estimate to complete Spring 2025]]
 - Understood Steve numbers
 - drafted section
 - pinged Nural

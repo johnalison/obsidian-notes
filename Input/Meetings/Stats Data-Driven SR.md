@@ -6,6 +6,14 @@ Links:
 
 # Log
 
+## [[20 March 2025 Thursday]]
+- Discussion using gamma vs gamma/gamma tilde
+- Will start looking into the other signals next
+
+
+## [[13 March 2025 Thursday]]
+- [>>] Get more signal samples
+
 ## [[20 February 2025 Thursday]]
 - gamma/gamma-tilde look good
 - Get other signal samples

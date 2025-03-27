@@ -60,26 +60,18 @@ M & T to school
 - Mosley X-rays
 
 # [[Stats Data-Driven SR]]
-- Discussion using gamma vs gamma/gamma tilde
-- Will start looking into the other signals next
+- See above
 
 More CAM variances
 
 Mail to Ryan Simeon and Sridhara Dasu re: background modeling with synthetic datasets.
 
 
-# Working Roc Plots
-- got one curve at a time.
-- Got multiple curves going
-- Need to plot from different files
-- `python plots/makeRocPlot.py hists/histAll_20250304_a100c66.coffea hists/histAll_signals_cHHHX_20250304_a100c66.coffea --outputFolder roc_curves`
-- [>>] Run to make phh plots (SR and HH region)
-- [x] Curves for different k-lambdas
-- Found spikes in kl = 2.45 sample
+# [[4b code base]]
+- See Daily's above
 
 # Chat [[Tony Boyle]]
-- Needs to reorgaize code to do event loop and other jet loop
-
+- See Daily's above
 
 More Rocs ... See above
 
@@ -89,7 +81,6 @@ More Rocs ... See above
 - Boosted skims are done 
 - [x] Ping Chance re:access
 
-
 # Office Hours
 - No body
 
@@ -98,7 +89,7 @@ More Rocs ... See above
 
 Finished the VAR. 
 
-Writting up the Modules Meeting [[MAC meeting 19 March 2025]]
+Writing up the Modules Meeting [[MAC meeting 19 March 2025]]
 
 # Got the Frank-Hertz Experiment Going!
 

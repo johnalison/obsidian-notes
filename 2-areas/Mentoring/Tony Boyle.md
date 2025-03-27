@@ -3,6 +3,10 @@ Undergraduate working on [[Hbb Reclustering Project]]
 # Weekly Logs
 
 
+## [[20 March 2025 Thursday]]
+- Needs to reorganize code to do event loop and other jet loop
+
+
 ## [[13 March 2025 Thursday]]
 - Will make dR_min plot
 - Needs to add four-vectors not masses!

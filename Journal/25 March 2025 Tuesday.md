@@ -35,7 +35,7 @@
 - [ ] Schedule FNAL badging appointment
 - [ ] Make sum/SB/SR plots presentation
 - [x] HGC Estimate to complete
-- [ ]  Make 2D ratio plots (3 figures on the canvas !)
+- [>>]  Make 2D ratio plots (3 figures on the canvas !)
 - [x] Submit more offsets
 
 
@@ -67,17 +67,18 @@ Finish setup
 	- [>>] Need to understand CPI
 
 # What things are worth doing
-- Longevity
 - Max out money 
 - Max out time off 
-- Consciousness
-- Origin of Life
-- High-Energy Physics
-- Cosmology
-- AGI 
-- Big Picture Math 
-- Long-term sustainability (eg: Going to Mars) 
-- Policy to Maximize Sustainable growth
+- Grand Challenges
+	- Longevity
+	- Consciousness
+	- Origin of Life
+	- High-Energy Physics
+	- Cosmology
+	- AGI 
+	- Big Picture Math 
+	- Long-term sustainability (eg: Going to Mars) 
+	- Policy to Maximize Sustainable growth
 
 ## [[CMU HGC MAC Meeting 25 March 2025]]
 
@@ -94,7 +95,7 @@ Got the shipping crate !
 - Give the percentage change in labor
 - Reference to the docDB area for BoE ... Have not produced a BCR b/c the estimate is close ... impact ... Strong confidence complete with in projected budget. 
 - L2 is only LoE
-- [ ] Update the docs
+- [>>] Update the docs
 
 Starting to upgrade 2d plots...
 
