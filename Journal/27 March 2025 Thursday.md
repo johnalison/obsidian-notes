@@ -38,7 +38,7 @@
 - [ ] Send L2 Replies
 - [ ] Understand changes in CMU CPI / UCSB CPI
 - [ ] Chat Manfred about giving me access to the CMU actuals 
-- [ ] Chat MP re:Jim Picard
+- [x] Chat MP re:Jim Picard
 
 ---
 
@@ -85,4 +85,6 @@ Chat AE
 
 
 # HEP Chat
-- [ ] Ping Arvand
+- [ ] Ping Arvand... will wait until he has gotten the reject letter
+- [ ] Ping Jim Picards references
+
