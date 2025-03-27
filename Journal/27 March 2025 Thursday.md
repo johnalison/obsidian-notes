@@ -34,7 +34,7 @@
 - [ ] Plan HGC staff compare vs budget
 - [ ] Make 2D ratio plots (3 figures on the canvas !)
 - [ ] Update the ETC docs
-- [ ]  Test 16 Synthetic datasets
+- [x]  Test 16 Synthetic datasets
 - [ ] Send L2 Replies
 - [ ] Understand changes in CMU CPI / UCSB CPI
 - [ ] Chat Manfred about giving me access to the CMU actuals 
@@ -52,3 +52,10 @@ M & T to school
 - Got a thermal mechanical engineering job in Virginia  
 
 [[HGC Personnel per MAC]]
+
+setup
+
+# [[Run3 Synthetic Data]]
+- adding logic to make plots config a template to auto expand syn_vXXX
+- The 16 synthetic datasets look good! 
+- [ ] Variance study of SvB
