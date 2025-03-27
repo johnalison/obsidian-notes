@@ -73,5 +73,7 @@ setup
 # Faculty Meeting
 - MCS annual meeting
 
+# Chat with [[Tony Boyle]]
+- Still not understanding ΔR ... 
 
 
