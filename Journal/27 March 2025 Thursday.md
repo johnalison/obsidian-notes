@@ -77,3 +77,8 @@ setup
 - Still not understanding ΔR ... 
 
 
+Reference for Jonas
+
+Chat AE
+
+# Office Hours
