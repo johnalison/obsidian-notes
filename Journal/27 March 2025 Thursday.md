@@ -82,3 +82,7 @@ Reference for Jonas
 Chat AE
 
 # Office Hours
+
+
+# HEP Chat
+- [ ] Ping Arvand
