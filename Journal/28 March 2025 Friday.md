@@ -61,3 +61,11 @@ Chat MP re: Actuals
 [[ProgressReport 28 March 2025]]
 
 Looking into 2D plottting code
+
+# Hoops 
+- 5s/ Great games .. Great Wins Great passing
+- 10' at Tmax 124 / Heart rate max 109
+
+# March Turnaround Report 
+https://docs.google.com/spreadsheets/d/1IiCxITzWZUyirePaRzgnm9W3zMwGhOonuUR_E0AJh9w/edit?gid=1108664677#gid=1108664677
+
