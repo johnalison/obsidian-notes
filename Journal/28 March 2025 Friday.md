@@ -30,10 +30,14 @@
 ---
 # To Do
 
-- [ ] Ping Picards references
+- [x] Ping Picards references
 - [ ] Calculate spend rate vs budget
 - [ ] Turnaround report
-- [ ] 
+- [ ] Variance study of average SvB
+- [ ]  Understand changes in CMU CPI / UCSB CPI
+- [ ] Chat Manfred about giving me access to the CMU actuals 
+- [ ] Make 2D ratio plots (3 figures on the canvas !)
+
 
 ---
 
@@ -44,3 +48,10 @@ Up at 6:40
 M & T to school 
 
 setup
+
+# Taught
+- Units ... World in 4 numbers
+
+Mail to Picards references
+
+[[CMU HGC Current Burn Rate]]

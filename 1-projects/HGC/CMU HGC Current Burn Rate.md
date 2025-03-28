@@ -1,4 +1,16 @@
 
+
+
+| (per month) | Actual (k$) | Budget (k$) |
+| ----------- | ----------- | ----------- |
+| Engineer    | 26          | 29          |
+| Tech Sr     | 20          | 19          |
+| Techs Jr    | 24          | 41          |
+| UGs         | ??          | 12          |
+| **Totals**  | **70**      | **101**     |
+
+
+# Current Burn Rate
 Kipiller, Josh	 $ 3,250.00 
 Pagliano, Ornella	 $ 5,666.67 
 Parshook, Jessica	 $ 7,500.00 

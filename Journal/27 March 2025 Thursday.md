@@ -1,43 +1,43 @@
 
-|     |              |     |
-| --- | ------------ | --- |
-| 9   |              |     |
-|     |              |     |
-| 10  | Teaching     |     |
-|     | Teaching     |     |
-| 11  | Stats Chat   |     |
-|     | Stats Chat   |     |
-| 12  | Manfred      |     |
-|     | Faculty      |     |
-| 1   | Faculty      |     |
-|     | Tony         |     |
-| 2   |              |     |
-|     | Office Hours |     |
-| 3   | Office Hours |     |
-|     | Hep Chat     |     |
-| 4   | Hep Chat     |     |
-|     | Marlo BBall  |     |
+|     | setup              |     |
+| --- | ------------------ | --- |
+| 9   | Synthetic datasets |     |
+|     | Synthetic datasets |     |
+| 10  | Teaching           |     |
+|     | Teaching           |     |
+| 11  | Stats Chat         |     |
+|     | Stats Chat         |     |
+| 12  | Manfred            |     |
+|     | Faculty            |     |
+| 1   | Faculty            |     |
+|     | Tony               |     |
+| 2   |                    |     |
+|     | Office Hours       |     |
+| 3   | Office Hours       |     |
+|     | Hep Chat           |     |
+| 4   | Hep Chat           |     |
+|     | Marlo BBall        |     |
 
-**W:**
-**DW:**
-**OT:**
-**ex** or **No ex**
+**W:** 8
+**DW:** 2
+**OT:** 1
+ **No ex**
 
 ---
 # The ONE thing: 
-- [ ] 
+- [ ] Synthetic datasets
 
 ---
 # To Do
 
 - [x] Post HW
-- [ ] Plan HGC staff compare vs budget
-- [ ] Make 2D ratio plots (3 figures on the canvas !)
+- [>>] Plan HGC staff compare vs budget
+- [>>] Make 2D ratio plots (3 figures on the canvas !)
 - [ ] Update the ETC docs
 - [x]  Test 16 Synthetic datasets
 - [x] Send L2 Replies
-- [ ] Understand changes in CMU CPI / UCSB CPI
-- [ ] Chat Manfred about giving me access to the CMU actuals 
+- [>>] Understand changes in CMU CPI / UCSB CPI
+- [>>] Chat Manfred about giving me access to the CMU actuals 
 - [x] Chat MP re:Jim Picard
 
 ---
@@ -59,7 +59,7 @@ setup
 # [[Run3 Synthetic Data]]
 - adding logic to make plots config a template to auto expand syn_vXXX
 - The 16 synthetic datasets look good! 
-- [ ] Variance study of SvB
+- [>>] Variance study of SvB
 
 # Taught 
 - QM introductions
@@ -86,7 +86,7 @@ Chat AE
 
 # HEP Chat
 - [ ] Ping Arvand... will wait until he has gotten the reject letter
-- [ ] Ping Jim Picards references
+- [>>] Ping Jim Picards references
 
 Home early with M&T ... 
 

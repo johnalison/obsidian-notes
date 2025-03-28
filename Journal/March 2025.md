@@ -26,7 +26,7 @@
 | 24 M | Taught / Bug fix phh - false alarm / **Hoops** (Rui Committee) / Great Colloq! | 6/3/1   |
 | 25 T | Estimate to Complete / MAC: crate / Start [[Size]]                             | 8/3/2   |
 | 26 W | Taught / **Hoops** / Processing 16 synthetic datasets / Picard Interview       | 6/1/1   |
-| 27 H |                                                                                |         |
+| 27 H | Jonas Job / 16 datasets look OK / Taught QM / **Marlo Hoops**                  | 8/2/1   |
 | 28 F |                                                                                |         |
 | 29 S |                                                                                |         |
 | 30 S |                                                                                |         |
