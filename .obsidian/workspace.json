@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-projects/HGC/CMU HGC Current Burn Rate.md",
+                "file": "Journal/28 March 2025 Friday.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CMU HGC Current Burn Rate"
+              "title": "28 March 2025 Friday"
             }
           },
           {
@@ -75,6 +75,20 @@
               },
               "icon": "lucide-file",
               "title": "HGC MAC BoEs"
+            }
+          },
+          {
+            "id": "7599ffa8d4ccfd38",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Journal/14 March 2025 Friday.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "14 March 2025 Friday"
             }
           }
         ]
@@ -149,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-projects/HGC/CMU HGC Current Burn Rate.md",
+                "file": "Journal/28 March 2025 Friday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +173,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for CMU HGC Current Burn Rate"
+              "title": "Backlinks for 28 March 2025 Friday"
             }
           },
           {
@@ -168,12 +182,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-projects/HGC/CMU HGC Current Burn Rate.md",
+                "file": "Journal/28 March 2025 Friday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from CMU HGC Current Burn Rate"
+              "title": "Outgoing links from 28 March 2025 Friday"
             }
           },
           {
@@ -195,10 +209,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-projects/HGC/CMU HGC Current Burn Rate.md"
+                "file": "Journal/28 March 2025 Friday.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of CMU HGC Current Burn Rate"
+              "title": "Outline of 28 March 2025 Friday"
             }
           },
           {
@@ -232,11 +246,14 @@
   },
   "active": "fc815f580673f57e",
   "lastOpenFiles": [
+    "0-inbox/ProgressReport 28 March 2025.md",
+    "Journal/14 March 2025 Friday.md",
+    "Journal/15 March 2025 Saturday.md",
+    "Journal/March 2025.md",
     "Journal/28 March 2025 Friday.md",
+    "1-projects/HGC/CMU HGC Current Burn Rate.md",
     "Journal/27 March 2025 Thursday.md",
     "1-projects/HGC/CAM Turnaround Report.md",
-    "1-projects/HGC/CMU HGC Current Burn Rate.md",
-    "Journal/March 2025.md",
     "Journal/26 March 2025 Wednesday.md",
     "Journal/25 March 2025 Tuesday.md",
     "Journal/24 March 2025 Monday.md",
@@ -255,9 +272,6 @@
     "Output/CAM/CAM Variance February 2025.md",
     "1-projects/HGC/HGC MAC BoEs.md",
     "0-inbox/For a new Liberty.md",
-    "Input/Books/Books.md",
-    "Input/Meetings/MAC meeting 19 March 2025.md",
-    "Journal/18 March 2025 Tuesday.md",
     "attachments/Pasted Image 20250315161206_922.png",
     "attachments/Pasted Image 20250315161151_920.png",
     "attachments/Pasted image 20250315160719.png",

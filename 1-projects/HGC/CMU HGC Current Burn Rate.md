@@ -1,13 +1,13 @@
 
+Produce 8% block in 30 working days = 40 real days = 1.33 months
 
-
-| (per month) | Actual (k$) | Budget (k$) |
-| ----------- | ----------- | ----------- |
-| Engineer    | 26          | 29          |
-| Tech Sr     | 20          | 19          |
-| Techs Jr    | 24          | 41          |
-| UGs         | ??          | 12          |
-| **Totals**  | **70**      | **101**     |
+| (per month) | Actual (k$) | Budget (k$)  |
+| ----------- | ----------- | ------------ |
+| Engineer    | 13          | 22 = 29/1.33 |
+| Tech Sr     | 10          | 14 = 19/1.33 |
+| Techs Jr    | 12          | 31 = 41/1.33 |
+| UGs         | ??          | 9 = 12/1.33  |
+| **Totals**  | **35**      | **76**       |
 
 
 # Current Burn Rate
