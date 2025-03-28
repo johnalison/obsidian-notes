@@ -10,7 +10,7 @@
 | 12  | Hoops                |     |
 |     | Hoops                |     |
 | 1   | Hoops                |     |
-|     | Hoop                 |     |
+|     | Hoops                |     |
 | 2   | Thesis Committee     |     |
 |     | Thesis Committee     |     |
 | 3   |                      |     |

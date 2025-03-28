@@ -31,7 +31,8 @@ Getting the new mixing going
 - [ ] Propagate selJet flag.. then check to make sure pt>40 ect.
 - [ ] Check to make sure that the lepton veto wont kill synthetic jets
 - [ ] cutflow for UL16 nominal vs making synthetic data (eg: all events pass jetMult in synthetic data...)
-- [ ] Make datasets with different seeds. 1/15
+- [x] Make datasets with different seeds. 1/15
+- [ ] Maybe synthetic data with re-weight dR(close) vs dR(other) mass plane ?
 
 
 # Ideas: 

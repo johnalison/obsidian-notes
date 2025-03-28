@@ -14,6 +14,27 @@
 
 # Logs
 
+## [[21 March 2025 Friday]]
+- Working Roc Plots
+- [x] Run to make phh plots (SR and HH region)
+- Added kl reweighting function
+- Spikes from one of the variances of the signal sample... need to request nominal
+- GOT kl-rw working!!!
+- Added new hists (phh and phh_hh)
+- Running all signals on **cmslpc322**
+- lots of errors... fixing
+- Running on condor
+	- `source scripts/analysis-testAll-job.sh `
+	- some ZZ4b file transfer failed
+	- [x] resubmit
+- Signal finished
+- Finally finished backgrounds too
+- p(HH) seems even better than p(S) !!!
+- mailed AE
+- [x] push code
+- [x] Add to AN
+	  	- <font color=red> On Saturday, on Saturday ... on Saturday </font>
+
 ## [[20 March 2025 Thursday]]
 -  Working Roc Plots
 - got one curve at a time.

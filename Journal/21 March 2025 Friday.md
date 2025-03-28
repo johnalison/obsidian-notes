@@ -33,7 +33,7 @@
 
 - [x] Post Homework #7
 - [>>] More Estimate to Complete
-- [ ] Maybe synthetic data with re-weight dR(close) vs dR(other) mass plane ?
+- [>>] Maybe synthetic data with re-weight dR(close) vs dR(other) mass plane ? (>>) [[Jet DeClustering]]
 - [>>]  Schedule FNAL badging appointment
 - [>>] Make sum/SB/SR plots presentation
 - [>>] Make 2D ratio plots (3 figures on the canvas !)
@@ -63,25 +63,7 @@ Chat MP
 Posted HW 7 and solution. 
 
 # [[4b code base]]
-- Working Roc Plots
-- [x] Run to make phh plots (SR and HH region)
-- Added kl reweighting function
-- Spikes from one of the variances of the signal sample... need to request nominal
-- GOT kl-rw working!!!
-- Added new hists (phh and phh_hh)
-- Running all signals on **cmslpc322**
-- lots of errors... fixing
-- Running on condor
-	- `source scripts/analysis-testAll-job.sh `
-	- some ZZ4b file transfer failed
-	- [x] resubmit
-- Signal finished
-- Finally finished backgrounds too
-- p(HH) seems even better than p(S) !!!
-- mailed AE
-- [x] push code
-- [x] Add to AN
-	  	- <font color=red> On Saturday, on Saturday ... on Saturday </font>
+-  see dailys above
 
 # Getting my local python version to match the container 
 - Installing python3.10
