@@ -101,7 +101,7 @@ https://docs.google.com/spreadsheets/d/1IiCxITzWZUyirePaRzgnm9W3zMwGhOonuUR_E0AJ
 - s19 Event display: remind them of the "obvous seach" and then point out your extension
 - s21: point out the gray is the most important part (CANT get form simulation)
 - s23 does is not have the SF applied ? Maybe used post fit.
-- s24 and s25 Walk throught the plots gain. 
+- s24 and s25 Walk through the plots gain. 
 - s26 Talk though: before and after / 
 - s27 skip 
 - Analysis was about 20 mins
