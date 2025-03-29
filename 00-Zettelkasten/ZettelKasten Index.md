@@ -108,19 +108,33 @@ Index:
 
 [[Libertarianism]]
 
-[[Libertarianism-is-bottom-up]]
-[[Top down societal organization is impossible]]
+Why Libertarianism 
+- [[Libertarianism-is-bottom-up]]
+- [[Top down societal organization is impossible]]
+- [[Libertarianism follows from common sense morality]]
+
 
 [[Libertarianism-optimal-under-uncertianty]]
-
-[[Libertarianism-more-effective-in-complicated-societies]]
+- [[Libertarianism-more-effective-in-complicated-societies]]
 
 [[Role of Government in Free Market economy]]
 
+Consequences 
 [[Libertarianism implies a strong bias against taxpayer support for anything]] 
 
+Arguments in Favor
 [[Governments as monopolies]]
-[[Libertarianism follows from common sense morality]]
+
+History
+[[Democratic Party - Libertarianism beginnings and quick ends]]
+[[Socialist movement undermined libertarian strategy]]
+
+[[Utilitarianism Often uses statism as a Means to an End]]
+
+[[Utilitarians are not radicals]]
+
+[[Limited-government conservatives are impractical utopians]]
+
 
 # Free Markets
 
@@ -164,6 +178,11 @@ Index:
 [[Faith needs to play a key role in ethics and political science]]
 [[Constraints on wealth redistribution.]]
 
+[[Public schools foster inequality]]
+
+[[Socialism attempts to marry benefits of libertarianism with state power]]
+
+[[The experiment of a written constitution to limit government has failed.]]
 
 # Philosophy
 

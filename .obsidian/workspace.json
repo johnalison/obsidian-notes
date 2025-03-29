@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/28 March 2025 Friday.md",
+                "file": "0-inbox/Wes FNAL Talk.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "28 March 2025 Friday"
+              "title": "Wes FNAL Talk"
             }
           },
           {
@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-projects/HGC/CAM Turnaround Report.md",
+                "file": "Journal/29 March 2025 Saturday.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CAM Turnaround Report"
+              "title": "29 March 2025 Saturday"
             }
           },
           {
@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Output/CAM/CAM Variance February 2025.md",
+                "file": "00-Zettelkasten/For Utilitarianism Individual Liberty is Simply a Means to an End.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CAM Variance February 2025"
+              "title": "For Utilitarianism Individual Liberty is Simply a Means to an End"
             }
           },
           {
@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:turn",
+                "query": "file:books",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -143,7 +143,8 @@
               "title": "Files"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -163,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/28 March 2025 Friday.md",
+                "file": "0-inbox/Wes FNAL Talk.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +174,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 28 March 2025 Friday"
+              "title": "Backlinks for Wes FNAL Talk"
             }
           },
           {
@@ -182,12 +183,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/28 March 2025 Friday.md",
+                "file": "0-inbox/Wes FNAL Talk.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 28 March 2025 Friday"
+              "title": "Outgoing links from Wes FNAL Talk"
             }
           },
           {
@@ -209,10 +210,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/28 March 2025 Friday.md"
+                "file": "0-inbox/Wes FNAL Talk.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 28 March 2025 Friday"
+              "title": "Outline of Wes FNAL Talk"
             }
           },
           {
@@ -246,32 +247,32 @@
   },
   "active": "fc815f580673f57e",
   "lastOpenFiles": [
+    "00-Zettelkasten/Utilitarians are not radicals.md",
+    "00-Zettelkasten/ZettelKasten Index.md",
+    "00-Zettelkasten/Utilitarianism Often uses statism as a Means to an End.md",
+    "00-Zettelkasten/For Utilitarianism Individual Liberty is Simply a Means to an End.md",
+    "0-inbox/Universal Inference.md",
+    "0-inbox/Tree Stump.md",
+    "0-inbox/Tool List.md",
+    "0-inbox/StartupSpending.md",
+    "00-Zettelkasten/The experiment of a written constitution to limit government has failed..md",
+    "00-Zettelkasten/Socialist movement undermined libertarian strategy.md",
     "0-inbox/ProgressReport 28 March 2025.md",
-    "Journal/14 March 2025 Friday.md",
-    "Journal/15 March 2025 Saturday.md",
-    "Journal/March 2025.md",
-    "Journal/28 March 2025 Friday.md",
-    "1-projects/HGC/CMU HGC Current Burn Rate.md",
-    "Journal/27 March 2025 Thursday.md",
-    "1-projects/HGC/CAM Turnaround Report.md",
-    "Journal/26 March 2025 Wednesday.md",
-    "Journal/25 March 2025 Tuesday.md",
-    "Journal/24 March 2025 Monday.md",
-    "Journal/23 March 2025 Sunday.md",
-    "Journal/22 March 2025 Saturday.md",
-    "Journal/21 March 2025 Friday.md",
-    "1-projects/HGC/Lab Techs Spring 2025.md",
-    "1-projects/Mixed2.0/Jet DeClustering.md",
-    "Journal/20 March 2025 Thursday.md",
-    "1-projects/HGC/HGC Personnel per MAC.md",
-    "Journal/February 2025/27 February 2025 Thursday.md",
-    "Journal/6 March 2025 Thursday.md",
-    "Journal/13 March 2025 Thursday.md",
-    "Journal/19 March 2025 Wednesday.md",
-    "2-areas/Personal/ToAddToCV.md",
+    "00-Zettelkasten/Socialism attempts to marry benefits of libertarianism with state power.md",
+    "00-Zettelkasten/Public schools foster inequality.md",
+    "0-inbox/Mass of jets is not invariant.md",
+    "Input/Blogs/Numba.md",
+    "00-Zettelkasten/Limited-government conservatives are impractical utopians.md",
+    "0-inbox/HGC TDR.md",
+    "1-projects/HGC/HGC Estimate to complete Spring 2025.md",
+    "0-inbox/FNAL Site Access.md",
+    "00-Zettelkasten/Democratic Party - Libertarianism beginnings and quick ends.md",
+    "Input/Books/For a new Liberty.md",
+    "Input/Books/Books.md",
+    "0-inbox/Existence Is Evidence of Immortality.md",
     "Output/CAM/CAM Variance February 2025.md",
-    "1-projects/HGC/HGC MAC BoEs.md",
-    "0-inbox/For a new Liberty.md",
+    "Input/Meetings/CMU HGC MAC Meeting 25 March 2025.md",
+    "0-inbox/CMU CMS Webpage.md",
     "attachments/Pasted Image 20250315161206_922.png",
     "attachments/Pasted Image 20250315161151_920.png",
     "attachments/Pasted image 20250315160719.png",

@@ -1,5 +1,5 @@
 
-|     |                     |     |
+|     | setup               |     |
 | --- | ------------------- | --- |
 | 9   | Teaching            |     |
 |     | Teaching            |     |
@@ -12,20 +12,20 @@
 | 1   | Hoops               |     |
 |     | Hoops               |     |
 | 2   | CMU 4b              |     |
-|     |                     |     |
+|     | 2d plotting code    |     |
 | 3   | Wes Practice Talk   |     |
 |     | Wes Practice Talk   |     |
-| 4   |                     |     |
-|     |                     |     |
+| 4   | Wes Practice Talk   |     |
+|     | Social              |     |
 
-**W:**
-**DW:**
-**OT:**
-**ex** or **No ex**
+**W:** 6
+**DW:** 4
+**OT:**  0
+**ex** 
 
 ---
 # The ONE thing: 
-- [ ] Picards References
+- [x] Picards References
 
 ---
 # To Do
@@ -36,7 +36,7 @@
 - [ ] Variance study of average SvB
 - [ ] Understand changes in CMU CPI / UCSB CPI
 - [x] Chat Manfred about giving me access to the CMU actuals 
-- [ ] Make 2D ratio plots (3 figures on the canvas !)
+- [x] Make 2D ratio plots (3 figures on the canvas !)
 
 
 ---
@@ -68,7 +68,7 @@ Looking into 2D plottting code
 
 # March Turnaround Report 
 https://docs.google.com/spreadsheets/d/1IiCxITzWZUyirePaRzgnm9W3zMwGhOonuUR_E0AJh9w/edit?gid=1108664677#gid=1108664677
-
+([>>]) [[CAM Turnaround Report]]
 
 # 4b Chat
 - AE: low pt plts
@@ -78,7 +78,8 @@ https://docs.google.com/spreadsheets/d/1IiCxITzWZUyirePaRzgnm9W3zMwGhOonuUR_E0AJ
 
 
 # Working 2d plots 
-
+- Merged the 2d and 1d helper functions
+- Got the ratio going !!!
 
 # Wes' Practice FNAL Job Talk
 - Start 3:05
@@ -109,3 +110,11 @@ https://docs.google.com/spreadsheets/d/1IiCxITzWZUyirePaRzgnm9W3zMwGhOonuUR_E0AJ
 - s30 27_000 sesons
 - s34 give some Big Picture conclusions about the irradiated modules. 
 - s35 10 min
+
+# Grad Social
+- Got kids... home ... 
+
+Some [[Hamlet]]
+
+Late night 2d hists ... see above
+

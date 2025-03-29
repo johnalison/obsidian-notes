@@ -50,7 +50,8 @@ M & T to school ... tough slough
 - De Broigle relations
 - Waves
 
-# Roc Plots
+# [[4b code base]]
+- Roc Plots
 - Bug fix phh 
 - rerunning signal samples
 

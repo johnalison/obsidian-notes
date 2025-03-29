@@ -2,7 +2,7 @@ Utilitarianism is a form of top-down societal organization. Although it often te
 
 
 # Follow-ups
-
+- [[Utilitarianism Often uses statism as a Means to an End]]
 - [[Top down societal organization is impossible]]
 # Links: 
 
