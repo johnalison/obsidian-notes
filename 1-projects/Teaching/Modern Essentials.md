@@ -55,7 +55,8 @@ Muons at sea level.
    How many muons survive at sea level assuming no time dialation with time dialation
 
 # Quantum
-- Fly-By-Night atomic physics
+- Fly-By-Night harmonic oscillator / Hydrogen Chapter III.2
+- Fly-By-Night atomic physics Chapter III.4
 
 
 # Extra credit ideas: 
