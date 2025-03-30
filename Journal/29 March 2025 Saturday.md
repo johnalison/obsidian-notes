@@ -10,4 +10,15 @@ Up at 8:30
 
 Some [[Hamlet]]
 
-Writing up [[Fly By Night Physics]]
+Wrote up [[Fly By Night Physics]]
+
+Start [[Time and Chance]]
+
+Some [[Size]]
+
+# Gym / Steamroom
+- 3 Supersets
+- closegrip bench - dumbbell rows / dumbbell incline bench - dead lifts / stiff leg deadlifts - front rows
+- 10' at Tmax = 124 HR = 98
+
+Hang on deck

@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/Fly By Night Physics.md",
+                "file": "Journal/28 March 2025 Friday.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fly By Night Physics"
+              "title": "28 March 2025 Friday"
             }
           },
           {
@@ -165,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/Fly By Night Physics.md",
+                "file": "Journal/28 March 2025 Friday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Fly By Night Physics"
+              "title": "Backlinks for 28 March 2025 Friday"
             }
           },
           {
@@ -184,12 +184,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/Fly By Night Physics.md",
+                "file": "Journal/28 March 2025 Friday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Fly By Night Physics"
+              "title": "Outgoing links from 28 March 2025 Friday"
             }
           },
           {
@@ -211,10 +211,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/Fly By Night Physics.md"
+                "file": "Journal/28 March 2025 Friday.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Fly By Night Physics"
+              "title": "Outline of 28 March 2025 Friday"
             }
           },
           {
@@ -249,9 +249,10 @@
   "active": "70ed710a2b2f28e9",
   "lastOpenFiles": [
     "Journal/29 March 2025 Saturday.md",
+    "Journal/30 March 2025 Sunday.md",
+    "0-inbox/Fly By Night Physics.md",
     "0-inbox/ProgressReport 28 March 2025.md",
     "Journal/March 2025.md",
-    "0-inbox/Fly By Night Physics.md",
     "1-projects/Teaching/Modern Essentials.md",
     "0-inbox/Wes FNAL Talk.md",
     "00-Zettelkasten/Utilitarians are not radicals.md",
@@ -273,7 +274,6 @@
     "1-projects/HGC/HGC Estimate to complete Spring 2025.md",
     "0-inbox/FNAL Site Access.md",
     "00-Zettelkasten/Democratic Party - Libertarianism beginnings and quick ends.md",
-    "Input/Books/For a new Liberty.md",
     "attachments/Pasted Image 20250315161206_922.png",
     "attachments/Pasted Image 20250315161151_920.png",
     "attachments/Pasted image 20250315160719.png",
