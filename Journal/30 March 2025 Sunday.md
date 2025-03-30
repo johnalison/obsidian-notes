@@ -11,4 +11,5 @@ Some [[Time and Chance]]
 - Testing 2d plots 
 - Fixing CI
 - Merging with master 
-- [ ] clean up interface
+- [x] clean up interface
+- Split making the dict and plotting
