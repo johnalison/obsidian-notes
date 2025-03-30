@@ -13,3 +13,8 @@ Some [[Time and Chance]]
 - Merging with master 
 - [x] clean up interface
 - Split making the dict and plotting
+
+Some [[Hamlet]]
+
+Bailed on [[Size]]
+
