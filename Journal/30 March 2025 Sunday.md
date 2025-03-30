@@ -19,3 +19,9 @@ Some [[Hamlet]]
 Bailed on [[Size]]
 
 Started [[Myth of the Rational Voter]]
+
+# [[Jet DeClustering]]
+- Adding SvB event, run, LB to the output 
+- Tests look as expected...
+- Running all on **cmslpc334**
+- 
