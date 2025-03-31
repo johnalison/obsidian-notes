@@ -1,22 +1,22 @@
 
-|     | setup    |     |
-| --- | -------- | --- |
-| 9   | teaching |     |
-|     | Teaching |     |
-| 10  | setup    |     |
-|     | setup    |     |
-| 11  |          |     |
-|     |          |     |
-| 12  | Hoops    |     |
-|     | Hoops    |     |
-| 1   | Hoops    |     |
-|     | Hoops    |     |
-| 2   |          |     |
-|     |          |     |
-| 3   |          |     |
-|     | Colloq   |     |
-| 4   | Colloq   |     |
-|     |          |     |
+|     | setup              |     |
+| --- | ------------------ | --- |
+| 9   | teaching           |     |
+|     | Teaching           |     |
+| 10  | setup              |     |
+|     | setup              |     |
+| 11  | Synthetic Datasets |     |
+|     | Synthetic Datasets |     |
+| 12  | Hoops              |     |
+|     | Hoops              |     |
+| 1   | Hoops              |     |
+|     | Hoops              |     |
+| 2   | Synthetic Datasets |     |
+|     | Synthetic Datasets |     |
+| 3   | To Pitt            |     |
+|     | Colloq             |     |
+| 4   | Colloq             |     |
+|     |                    |     |
 
 **W:**
 **DW:**
@@ -32,7 +32,7 @@
 
 - [ ] Mail french press
 - [ ] Synthetic Data Variance Study
-- [ ] Setup April
+- [x] Setup April
 - [ ] Review March
 - [ ] Call Liberty mutual re:tree down
 - [ ] Understand Chuyuan's slides
@@ -76,3 +76,9 @@ setup
 - Got a list of SvB values by event id
 - [ ] add weights... do bootstram
 - [ ] make some plots
+
+# Hoops 
+- 4s and 5s (2nd court)
+- Good passing, good D, nice breaks, and some shots 
+
+# Manfred get Lazarus Award !!!
