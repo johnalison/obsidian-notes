@@ -32,8 +32,8 @@
 
 - [x]  Guy Berry Prep
 - [x] Submit synthetic datasets
-- [ ] Schedule FNAL badging appointment
-- [ ] Make sum/SB/SR plots presentation
+- [>>] Schedule FNAL badging appointment
+- [>>] Make sum/SB/SR plots presentation
 - [x] HGC Estimate to complete
 - [>>]  Make 2D ratio plots (3 figures on the canvas !)
 - [x] Submit more offsets
@@ -66,7 +66,7 @@ Finish setup
 	- Partials: Top / Bottom / Left / Right / Five
 	- [>>] Need to understand CPI
 
-# What things are worth doing
+# [[Things that are worth doing]]
 - Max out money 
 - Max out time off 
 - Grand Challenges

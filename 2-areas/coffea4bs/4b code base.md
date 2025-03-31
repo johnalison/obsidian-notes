@@ -14,6 +14,11 @@
 
 # Logs
 
+## [[24 March 2025 Monday]]
+- Roc Plots
+- Bug fix phh 
+- rerunning signal samples
+
 ## [[21 March 2025 Friday]]
 - Working Roc Plots
 - [x] Run to make phh plots (SR and HH region)

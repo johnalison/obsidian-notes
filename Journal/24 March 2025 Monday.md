@@ -30,12 +30,12 @@
 ---
 # To Do
 
-- [ ] Hemisphere plots 
-- [ ] Write up bootstraping study
+- [>>] Hemisphere plots 
+- [>>] Write up bootstraping study
 - [x] More Estimate to Complete
 - [>>] Guy Berry Prep
-- [ ] Call Liberty mutual re:tree down
-- [ ] Understand Chuyuan's slides
+- [>>] Call Liberty mutual re:tree down
+- [>>] Understand Chuyuan's slides
 - [>>] Submit more offsets
 ---
 
@@ -51,42 +51,22 @@ M & T to school ... tough slough
 - Waves
 
 # [[4b code base]]
-- Roc Plots
-- Bug fix phh 
-- rerunning signal samples
+- see above
 
 # Solid work on [[HGC Estimate to complete Spring 2025]]
-- Understood Steve numbers
-- drafted section
-- pinged Nural
+- see above
 
 # Hoops
 - 5s good runs / good wins
 
 # [[Rui Xue Thesis Committee]]
-- Two projects: ATLAS MC contact
-- Updating Virtual Surface in Geomodel 
-- Are the s16 "M16" really uncorrelated ?
-- Sensitivity to mTop ?
-- All good
+- see above
 
 # [[Truth Skimmer]]
 - re-sent link: https://cmu.app.box.com/folder/313225672031?s=k7gnuj2zaq52xe7507ev4tntqw8bprr8
 
-# Physics Colloquium 
-- Sol Gruner...Cornell
-- Upending Assumptions About Life On Earth
-- Claim: we are in a paradimg shift about where life is and how it evolved
-- Current Paradigm: "recipe for Life" Urey experiment "primodial soup"
-- Biosphere: was assumed to be the earths surface. Deep earth curst assummed to be sterile
-- 1977 Discovery of Black Smokers: Life with No solar dependence!
-- PCR assumes life DNA ?  <font color="red"> YES!  ... "Grand Challenge Question" </font>
-- kW/m^2  comes from above 1/10 W / m^2 comes from below
-- Hydrogen from radio-association of water
-- subsufrace life dominated life on earth for most of its histories
-- Moon looks just like earth. no other system with moon as big as the earths
-- OUTSTANDING TALK !!!
-- Any good reading on this topic ? yes.. "Deep Life" / "Life as No One Knows It"
+# [[Upending Assumptions About Life On Earth]]
+- Physics Colloquium / OUTSTANDING ! / See above
 
 
 Chat Markus 
@@ -100,8 +80,7 @@ Merging code
 Finished [[Fly By Night Physics]]
 
 # [[Run3 Synthetic Data]]
-- running on **cmslpc303**
-- Submitted random seeds 1,2,3
+- see above
 
 Writing up [[For a new Liberty]]
 

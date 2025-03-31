@@ -12,6 +12,11 @@ Bottom-up Labor:
 
 # Logs
 
+## [[24 March 2025 Monday]]
+-  Understood Steve numbers
+- drafted section
+- pinged Nural
+
 ## [[19 March 2025 Wednesday]]
 - Moved bottom-up estimate to google sheets:
 - https://docs.google.com/spreadsheets/d/12ihDV7ayNyCY-qErWg072wRIgj5y4M97oYKE2SUkcP4/edit?gid=1242185869#gid=1242185869
