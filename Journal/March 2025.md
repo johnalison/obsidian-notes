@@ -27,7 +27,7 @@
 | 25 T | Estimate to Complete / MAC: crate / Start [[Size]]                             | 8/3/2   |
 | 26 W | Taught / **Hoops** / Processing 16 synthetic datasets / Picard Interview       | 6/1/1   |
 | 27 H | Jonas Job / 16 datasets look OK / Taught QM / **Marlo Hoops**                  | 8/2/1   |
-| 28 F |                                                                                |         |
+| 28 F |                                                                                | 6/4/0   |
 | 29 S |                                                                                |         |
 | 30 S |                                                                                |         |
 | 31 M |                                                                                |         |

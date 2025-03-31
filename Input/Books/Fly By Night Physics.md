@@ -4,7 +4,7 @@ Very good. Learned a lot. Need to read more his stuff!
 There are only three dimensions: Mass, Length and Time.
 Nobody knows why there are three and only three.
 
-That fact that we have three fundemental constants of nature; GN, c, hbar, means we can describe all of these dimensions in natrual scale. Suggests we have found all the core physics principles ? 
+That fact that we have three fundamental constants of nature; GN, c, hbar, means we can describe all of these dimensions in natrual scale. Suggests we have found all the core physics principles ? 
 
 By using energy conservation you effectively integrated the equations of motion to turn a second derivative in time into the square of a first derivative. 
 

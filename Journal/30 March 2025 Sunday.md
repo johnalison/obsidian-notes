@@ -1,3 +1,5 @@
+- [ ] Review March
+- [ ] Setup April
 
 ---
 
@@ -24,4 +26,5 @@ Started [[Myth of the Rational Voter]]
 - Adding SvB event, run, LB to the output 
 - Tests look as expected...
 - Running all on **cmslpc334**
-- 
+- Done !
+- [ ] Script to compute variances

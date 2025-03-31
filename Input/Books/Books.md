@@ -1,12 +1,16 @@
 # 2025
 
+- [[Time and Chance]] (David Albert)
+
+- [[Myth of the Rational Voter]] (Bryan Caplan)
+
 - [[Hamlet]] (William Shakespeare and commentaries)
+
+---
 
 - [[Size]] Vacil Smil
 
 - [[Fly By Night Physics]] (Anthony Zee)
-
----
 
 - [[For a new Liberty]] (Murray Rothbard)
 
