@@ -72,3 +72,7 @@ setup
 - Starting to bootstrap aver uncertianty 
 - Script compute average and do bootstrapping:
 	- `python jet_clustering/bootstrap_correlation.py output/synthetic_dataset_analyze_all/synthetic_data_Run3_v8_new_16seeds_SvB_values.coffea `
+- Got the average of and the variance in a bin on SvB 
+- Got a list of SvB values by event id
+- [ ] add weights... do bootstram
+- [ ] make some plots
