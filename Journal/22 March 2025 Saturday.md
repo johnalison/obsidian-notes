@@ -14,7 +14,7 @@ Watched SoS approval
 
 Finished [[For a new Liberty]]
 
-# [[Wes FNAL Talk]]
+# [[Wes' FNAL Talk]]
 - See above
 
 

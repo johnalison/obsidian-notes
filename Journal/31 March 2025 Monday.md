@@ -1,10 +1,10 @@
 
-|     |          |     |
+|     | setup    |     |
 | --- | -------- | --- |
 | 9   | teaching |     |
 |     | Teaching |     |
-| 10  |          |     |
-|     |          |     |
+| 10  | setup    |     |
+|     | setup    |     |
 | 11  |          |     |
 |     |          |     |
 | 12  | Hoops    |     |
@@ -41,7 +41,34 @@
 - [ ]  Schedule FNAL badging appointment
 - [ ] Make sum/SB/SR plots presentation
 - [x] Move on Jim Parard
+- [ ] HGC Slides
+- [ ] Update the ETC docs
+- [ ] Taxes
+- [ ] Turnaround report
+- [ ] Understand changes in CMU CPI / UCSB CPI
 
 ---
 
 # Log
+
+up at 7
+
+M&T to school ... H with me
+
+Moving forward on Jim
+# Taught
+- Probability and Wave function 
+- Chance found my mug!
+
+setup
+- print french press
+- draft mail for jim 
+- mail to Marina
+- Mail to Seth re:investing
+
+# [[Run3 Synthetic Data]]
+- Marina's cutflow is off
+	- requested events/run list
+- Starting to bootstrap aver uncertianty 
+- Script compute average and do bootstrapping:
+	- `python jet_clustering/bootstrap_correlation.py output/synthetic_dataset_analyze_all/synthetic_data_Run3_v8_new_16seeds_SvB_values.coffea `

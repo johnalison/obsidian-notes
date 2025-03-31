@@ -32,9 +32,9 @@
 
 - [x] Ping Picards references
 - [x] Calculate spend rate vs budget
-- [ ] Turnaround report
-- [ ] Variance study of average SvB
-- [ ] Understand changes in CMU CPI / UCSB CPI
+- [>>] Turnaround report
+- [>>] Variance study of average SvB
+- [>>] Understand changes in CMU CPI / UCSB CPI
 - [x] Chat Manfred about giving me access to the CMU actuals 
 - [x] Make 2D ratio plots (3 figures on the canvas !)
 
@@ -63,7 +63,7 @@ Chat MP re: Actuals
 Looking into 2D plottting code
 
 # Hoops 
-- 5s/ Great games .. Great Wins Great passing
+- 5s / Great games .. Great Wins Great passing
 - 10' at Tmax 124 / Heart rate max 109
 
 # March Turnaround Report 
@@ -71,17 +71,18 @@ https://docs.google.com/spreadsheets/d/1IiCxITzWZUyirePaRzgnm9W3zMwGhOonuUR_E0AJ
 ([>>]) [[CAM Turnaround Report]]
 
 # 4b Chat
-- AE: low pt plts
+- AE: low pt plots
 - SM: memory errors
 - CL: not much 
 - JA: new AN and synthetic data
 
 
-# Working 2d plots 
+# [[4b code base]]
+- Working 2d plots 
 - Merged the 2d and 1d helper functions
 - Got the ratio going !!!
 
-# Wes' Practice FNAL Job Talk
+# [[Wes' FNAL Talk]]
 - Start 3:05
 - Kill 1st level of bullet points! / Check spacing on slides / Color theme
 - Add B-tagging work 

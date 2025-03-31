@@ -36,7 +36,7 @@
 - [>>] Test 16 Synthetic datasets
 - [x] Add phh vs ps to AN 
 - [>>] Send L2 Replies
-- [ ] HGC Slides
+- [>>] HGC Slides
 - [>>] Make 2D ratio plots (3 figures on the canvas !)
 
 ---

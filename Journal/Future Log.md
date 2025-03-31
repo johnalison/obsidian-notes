@@ -13,11 +13,11 @@
 - [x] 10th Herwig seminar
 - [x] 13-15th visiting week
 - [x] 23 Sara Shook
-- [ ] 24th Thesis committee Riu Xue 2pm
+- [x] 24th Thesis committee Riu Xue 2pm
 
 
 # April 
-- [ ] 23-25 To Fermilab ?
+- [x] 23-25 To Fermilab ?
 
 # May 
 
