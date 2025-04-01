@@ -15,8 +15,8 @@
 |     |                   |         |
 | 3   | Mans Meeting      |         |
 |     | Mans Meeting      |         |
-| 4   | Mans Meeting      |         |
-|     |                   |         |
+| 4   | ETC Spreadsheet   |         |
+|     | ETC Spreadsheet   |         |
 
 **W:**
 **DW:**
@@ -38,7 +38,7 @@
 - [x] Turnaround report
 - [ ] Cut flow wrt Marina
 - [ ] Prepare Party for Josh
-- [ ] Another Lab tech Ad out
+- [x] Another Lab tech Ad out
 
 ---
 
@@ -93,7 +93,8 @@ Did [[CAM Turnaround Report]] ... see below
 
 # Working [[HGC Estimate to complete Spring 2025]]
 - DocDB: CMU   https://cms-docdb.cern.ch/cgi-bin/DocDB/ShowDocument?docid=14209
-
+- [ ] Source Spreadsheet for UCSB 
+- [ ] ETC for Module Factories
 
 
 # [[HGCManagementMeeting 1 April 2025]]
@@ -107,3 +108,5 @@ Did [[CAM Turnaround Report]] ... see below
 - l190 SM50210	ECM: Cleanroom consumables (UCSB)
 - [[CMU Modules per Month]]
 - [[UCSB Modules per Month]]
+
+Pinged Ables re:Another Tech 3 Ad
