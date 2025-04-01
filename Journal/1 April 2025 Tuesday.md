@@ -1,22 +1,22 @@
 
-|     |                  |         |
-| --- | ---------------- | ------- |
-| 9   | to campus        |         |
-|     | ~~Chat Wes~~     | Chat MP |
-| 10  | setup            |         |
-|     | HGC DB Moves     |         |
-| 11  | Outreach Meeting |         |
-|     | MAC Meeting      |         |
-| 12  | MAC Meeting      |         |
-|     | Chat Dylan       |         |
-| 1   |                  |         |
-|     |                  |         |
-| 2   |                  |         |
-|     |                  |         |
-| 3   | Mans Meeting     |         |
-|     | Mans Meeting     |         |
-| 4   | Mans Meeting     |         |
-|     |                  |         |
+|     |                   |         |
+| --- | ----------------- | ------- |
+| 9   | to campus         |         |
+|     | ~~Chat Wes~~      | Chat MP |
+| 10  | setup             |         |
+|     | HGC DB Moves      |         |
+| 11  | Outreach Meeting  |         |
+|     | MAC Meeting       |         |
+| 12  | MAC Meeting       |         |
+|     | Chat Dylan        |         |
+| 1   | Chat Joe / Peter  |         |
+|     | Turnaround report |         |
+| 2   |                   |         |
+|     |                   |         |
+| 3   | Mans Meeting      |         |
+|     | Mans Meeting      |         |
+| 4   | Mans Meeting      |         |
+|     |                   |         |
 
 **W:**
 **DW:**
@@ -35,8 +35,8 @@
 - [ ] Update ETC docs
 - [x] Send Manfred BCR Info
 - [ ] Review March
-- [ ] Turnaround report
-- [ ] Cutflow wrt Marina
+- [x] Turnaround report
+- [ ] Cut flow wrt Marina
 - [ ] Party for Josh
 - [ ] Another Lab tech Ad out
 
@@ -87,6 +87,18 @@ Setup
 - apache Superset seems to be a free open source alternative
 
 
---- 
+Chat with Joe re:FNAL funds
 
 [[CAM Turnaround Report]]
+
+# [[HGCManagementMeeting 1 April 2025]]
+- Moves: 
+- l140     SM61440	ECM: Procurement of final  module factory tooling for Site 2 (80 -> 90%)
+- l143      SM61430	ECM: Procurement of final  module factory tooling for UCSB (10->50%)
+- l170        SM40140	ECM-Assemble and test module 1-80 at Site 2 (25->37%)
+- l171    SM4015 ECM- Supervise assembly and testing of modules 1-80 at Site 2 (25->37%)
+- l172          SM40170	ECM-Ship module 1 to 80 from Site 2 to Cassette Assembly Site (start )
+- l189        SM50180	T5 - Start of Module Production (UCSB) (start)
+- l190 SM50210	ECM: Cleanroom consumables (UCSB)
+
+[[CMU Modules per Month]]
