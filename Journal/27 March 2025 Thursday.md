@@ -82,7 +82,7 @@ Reference for Jonas
 Chat AE
 
 # Office Hours
-
+- slow
 
 # HEP Chat
 - [>>] Ping Arvand re:Lab tech... will wait until he has gotten the reject letter

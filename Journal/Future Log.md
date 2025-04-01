@@ -20,7 +20,7 @@
 - [x] 23-25 To Fermilab ?
 
 # May 
-
+- [ ] May 10th **President’s Reception in Honor of CMU’s Doctoral** **Candidates**
 
 # June
 - [ ] Review 3rd-6th in FNAL

@@ -35,7 +35,13 @@ v4:
 
 # Daily Logs
 
-## [[23 March 2025 Sunday]]
+## [[25 March 2025 Tuesday]]
+- running on **cmslpc303**
+- Submitted random seeds 4 - 15
+- Running... 
+
+
+## [[24 March 2025 Monday]]
 - Starting to make many datasets
 - running on **cmslpc303**
 - Submitted random seeds 1,2,3

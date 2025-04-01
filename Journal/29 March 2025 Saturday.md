@@ -21,4 +21,4 @@ Some [[Size]]
 - closegrip bench - dumbbell rows / dumbbell incline bench - dead lifts / stiff leg deadlifts - front rows
 - 10' at Tmax = 124 HR = 98
 
-Hang on deck
+Hang out on deck

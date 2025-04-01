@@ -16,12 +16,12 @@
 | 3   | To Pitt            |     |
 |     | Colloq             |     |
 | 4   | Colloq             |     |
-|     |                    |     |
+|     | Walk to Cyert      |     |
 
-**W:**
-**DW:**
-**OT:**
-**ex** or **No ex**
+**W:** 5
+**DW:** 3 
+**OT:** 2
+**ex** 
 
 ---
 # The ONE thing: 
@@ -33,18 +33,18 @@
 - [x] Mail french press
 - [x] Synthetic Data Variance Study
 - [x] Setup April
-- [ ] Review March
+- [>>] Review March
 - [ ] Call Liberty mutual re:tree down
 - [ ] Understand Chuyuan's slides
-- [ ]  Hemisphere plots 
-- [ ] Write up bootstraping study
-- [ ]  Schedule FNAL badging appointment
+- [ ] Hemisphere plots 
+- [>>] Write up bootstraping study
+- [ ] Schedule FNAL badging appointment
 - [ ] Make sum/SB/SR plots presentation
 - [x] Move on Jim Parard
 - [ ] HGC Slides
-- [ ] Update the ETC docs
+- [>>] Update the ETC docs
 - [ ] Taxes
-- [ ] Turnaround report
+- [>>] Turnaround report
 - [ ] Understand changes in CMU CPI / UCSB CPI
 
 ---
@@ -56,6 +56,7 @@ up at 7
 M&T to school ... H with me
 
 Moving forward on Jim
+
 # Taught
 - Probability and Wave function 
 - Chance found my mug!
@@ -69,6 +70,7 @@ Moving forward on Jim
 # [[Run3 Synthetic Data]]
 - Marina's cutflow is off
 	- requested events/run list
+	- [>>] Compare Events
 - Starting to bootstrap aver uncertianty 
 - Script compute average and do bootstrapping:
 	- `python jet_clustering/bootstrap_correlation.py output/synthetic_dataset_analyze_all/synthetic_data_Run3_v8_new_16seeds_SvB_values.coffea `

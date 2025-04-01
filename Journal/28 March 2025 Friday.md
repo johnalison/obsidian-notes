@@ -60,7 +60,7 @@ Chat MP re: Actuals
 
 [[ProgressReport 28 March 2025]]
 
-Looking into 2D plottting code
+Looking into 2D plotting code
 
 # Hoops 
 - 5s / Great games .. Great Wins Great passing

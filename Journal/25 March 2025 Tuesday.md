@@ -35,7 +35,7 @@
 - [>>] Schedule FNAL badging appointment
 - [>>] Make sum/SB/SR plots presentation
 - [x] HGC Estimate to complete
-- [>>]  Make 2D ratio plots (3 figures on the canvas !)
+- [>>] Make 2D ratio plots (3 figures on the canvas !)
 - [x] Submit more offsets
 
 
@@ -46,39 +46,17 @@
 Up at 7 
 
 # [[Run3 Synthetic Data]]
-- running on **cmslpc303**
-- Submitted random seeds 4 - 15
-- Running... 
+- See above
 
 To campus
 
 Finish setup
 
 # [[HGC Estimate to complete Spring 2025]]
-- Starting CMU doc: 
-	- https://docs.google.com/document/d/1msi-dcXXjjYUP_KDZWxZuBitXJ19NpzQ/edit
-	- Worked out EAC... basically all assembly 
-	- [>>] Need to understand CPI
-- Starting UCSB
-	- https://docs.google.com/document/d/1Lq3zZo9QBQr_rVQb1P93QetfB1_aQH9O/edit
-	- 90k for undergrad vs 9k at CMU and TTU ?
-	- [x] Read BoE [[HGC MAC BoEs]]
-	- Partials: Top / Bottom / Left / Right / Five
-	- [>>] Need to understand CPI
+- See dailys above
 
-# [[Things that are worth doing]]
-- Max out money 
-- Max out time off 
-- Grand Challenges
-	- Longevity
-	- Consciousness
-	- Origin of Life
-	- High-Energy Physics
-	- Cosmology
-	- AGI 
-	- Big Picture Math 
-	- Long-term sustainability (eg: Going to Mars) 
-	- Policy to Maximize Sustainable growth
+# Started [[Things that are worth doing]]
+
 
 ## [[CMU HGC MAC Meeting 25 March 2025]]
 
@@ -86,8 +64,7 @@ Finish setup
 Got the shipping crate !
 
 # [[Guy Berry 2025]]
-- Prep
-- https://chatgpt.com/share/67e2f6d4-372c-8000-b034-872e4283be9a
+- See above
 
 
 # HGC Management Meeting
