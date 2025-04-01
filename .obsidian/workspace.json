@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/1 April 2025 Tuesday.md",
+                "file": "Journal/25 March 2025 Tuesday.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1 April 2025 Tuesday"
+              "title": "25 March 2025 Tuesday"
             }
           },
           {
@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-projects/HGC/CMU HGC Current Burn Rate.md",
+                "file": "Journal/1 April 2025 Tuesday.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CMU HGC Current Burn Rate"
+              "title": "1 April 2025 Tuesday"
             }
           },
           {
@@ -105,7 +105,8 @@
               "title": "MAC meeting 19 March 2025"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -178,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/1 April 2025 Tuesday.md",
+                "file": "1-projects/HGC/HGC Estimate to complete Spring 2025.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +189,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 1 April 2025 Tuesday"
+              "title": "Backlinks for HGC Estimate to complete Spring 2025"
             }
           },
           {
@@ -197,12 +198,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/1 April 2025 Tuesday.md",
+                "file": "1-projects/HGC/HGC Estimate to complete Spring 2025.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 1 April 2025 Tuesday"
+              "title": "Outgoing links from HGC Estimate to complete Spring 2025"
             }
           },
           {
@@ -224,10 +225,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/1 April 2025 Tuesday.md"
+                "file": "1-projects/HGC/HGC Estimate to complete Spring 2025.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 1 April 2025 Tuesday"
+              "title": "Outline of HGC Estimate to complete Spring 2025"
             }
           },
           {
@@ -259,20 +260,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "588f3d5c6680cc56",
+  "active": "57d8ec713c650d2b",
   "lastOpenFiles": [
+    "Journal/1 April 2025 Tuesday.md",
+    "1-projects/HGC/CMU HGC Current Burn Rate.md",
+    "Journal/25 March 2025 Tuesday.md",
     "Input/Meetings/March/MAC meeting 19 March 2025.md",
     "Journal/19 March 2025 Wednesday.md",
     "Journal/20 March 2025 Thursday.md",
     "Journal/27 March 2025 Thursday.md",
-    "Journal/1 April 2025 Tuesday.md",
     "0-inbox/CMU Modules per Month.md",
     "Journal/14 March 2025 Friday.md",
     "Journal/BulletJournalProtocol.md",
     "0-inbox/CMU HGC MAC Meeting 1 April 2025.md",
-    "1-projects/HGC/CMU HGC Current Burn Rate.md",
     "Input/Meetings/March/CMU HGC MAC Meeting 25 March 2025.md",
-    "Journal/25 March 2025 Tuesday.md",
     "Journal/Future Log.md",
     "Output/CAM/HGC Transfer Tape BCR.md",
     "0-inbox/UCSB Modules per Month.md",

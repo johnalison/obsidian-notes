@@ -68,6 +68,7 @@ Got the shipping crate !
 
 
 # HGC Management Meeting
+- https://indico.cern.ch/event/1531110/
 - [>>] Need to start filling in the slide template (2 weeks)
 - Give the percentage change in labor
 - Reference to the docDB area for BoE ... Have not produced a BCR b/c the estimate is close ... impact ... Strong confidence complete with in projected budget. 

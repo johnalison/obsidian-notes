@@ -37,7 +37,7 @@
 - [ ] Review March
 - [x] Turnaround report
 - [ ] Cut flow wrt Marina
-- [ ] Party for Josh
+- [ ] Prepare Party for Josh
 - [ ] Another Lab tech Ad out
 
 ---
@@ -89,7 +89,14 @@ Setup
 
 Chat with Joe re:FNAL funds
 
-[[CAM Turnaround Report]]
+Did [[CAM Turnaround Report]] ... see below
+
+# Working [[HGC Estimate to complete Spring 2025]]
+- 
+
+
+
+--- 
 
 # [[HGCManagementMeeting 1 April 2025]]
 - Moves: 
@@ -100,5 +107,5 @@ Chat with Joe re:FNAL funds
 - l172          SM40170	ECM-Ship module 1 to 80 from Site 2 to Cassette Assembly Site (start )
 - l189        SM50180	T5 - Start of Module Production (UCSB) (start)
 - l190 SM50210	ECM: Cleanroom consumables (UCSB)
-
-[[CMU Modules per Month]]
+- [[CMU Modules per Month]]
+- [[UCSB Modules per Month]]
