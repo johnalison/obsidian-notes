@@ -31,7 +31,7 @@
 # To Do
 
 - [x] Mail french press
-- [ ] Synthetic Data Variance Study
+- [x] Synthetic Data Variance Study
 - [x] Setup April
 - [ ] Review March
 - [ ] Call Liberty mutual re:tree down
@@ -75,7 +75,7 @@ Moving forward on Jim
 - Got the average of and the variance in a bin on SvB 
 - Got a list of SvB values by event id
 - [x] add weights... do bootstrap
-- [ ] make some plots
+- [x] make some plots
 
 # Hoops 
 - 4s and 5s (2nd court)
@@ -104,7 +104,7 @@ Walk to Cyert... Walk home
 
 Some [[Myth of the Rational Voter]]
 
-Wes slides:
+# [[Wes' FNAL Talk]]
 - muon pt on the event display
 - s8 would start first with DM
 - then add ν with next slide
@@ -114,5 +114,7 @@ Wes slides:
 - s24 emphasis how important this is. low pt electron fake modeling!
 - s32 say that this is show this next week at Moriond for first time!
 - s32 add another slide that adds on the ATLAS figure for comparison
-- 
+
+
+Late night Bootstrap studies
 
