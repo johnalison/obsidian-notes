@@ -3,6 +3,7 @@ TTU Draft:
 
 CMU Draft:
 - https://docs.google.com/document/d/1msi-dcXXjjYUP_KDZWxZuBitXJ19NpzQ/edit
+- DocDB: CMU   https://cms-docdb.cern.ch/cgi-bin/DocDB/ShowDocument?docid=14209
 
 UCSB Draft:
 - https://docs.google.com/document/d/1Lq3zZo9QBQr_rVQb1P93QetfB1_aQH9O/edit
