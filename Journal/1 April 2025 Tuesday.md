@@ -96,8 +96,6 @@ Did [[CAM Turnaround Report]] ... see below
 
 
 
---- 
-
 # [[HGCManagementMeeting 1 April 2025]]
 - Moves: 
 - l140     SM61440	ECM: Procurement of final  module factory tooling for Site 2 (80 -> 90%)
