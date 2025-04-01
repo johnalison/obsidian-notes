@@ -30,7 +30,7 @@
 ---
 # To Do
 
-- [ ] Mail french press
+- [x] Mail french press
 - [ ] Synthetic Data Variance Study
 - [x] Setup April
 - [ ] Review March
@@ -60,7 +60,7 @@ Moving forward on Jim
 - Probability and Wave function 
 - Chance found my mug!
 
-setup
+# setup
 - print french press
 - draft mail for jim 
 - mail to Marina
@@ -74,7 +74,7 @@ setup
 	- `python jet_clustering/bootstrap_correlation.py output/synthetic_dataset_analyze_all/synthetic_data_Run3_v8_new_16seeds_SvB_values.coffea `
 - Got the average of and the variance in a bin on SvB 
 - Got a list of SvB values by event id
-- [ ] add weights... do bootstram
+- [x] add weights... do bootstrap
 - [ ] make some plots
 
 # Hoops 
@@ -82,3 +82,37 @@ setup
 - Good passing, good D, nice breaks, and some shots 
 
 # Manfred get Lazarus Award !!!
+
+More Bootstrap study
+
+Sent Picard offer letter
+
+# Colloq 
+- HEP for AI Yoni Kahn
+- Theorist : known for methods to detect light DM
+- Hard Problem 1: How do we understand training?
+- Hard Problem 2: Where do scaling laws come from ?
+- Hard Problem 3: How to quantify uncertianty 
+- Claim: We are very far from how learning works in the brain
+- Going to Ensemlble over models
+- Learning as a phase transition
+- Deeper is better up to a point ... Surely f(data, problem) ?
+- Average at best
+
+Walk to Cyert... Walk home
+
+
+Some [[Myth of the Rational Voter]]
+
+Wes slides:
+- muon pt on the event display
+- s8 would start first with DM
+- then add ν with next slide
+- s11 add the leptons to the z* decay
+	- Say that the dM sets the scale of the lepton pT
+- s16 keep the larger legend on the right
+- s24 emphasis how important this is. low pt electron fake modeling!
+- s32 say that this is show this next week at Moriond for first time!
+- s32 add another slide that adds on the ATLAS figure for comparison
+- 
+
