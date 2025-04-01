@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/31 March 2025 Monday.md",
+                "file": "Journal/25 March 2025 Tuesday.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "31 March 2025 Monday"
+              "title": "25 March 2025 Tuesday"
             }
           },
           {
@@ -179,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/31 March 2025 Monday.md",
+                "file": "Journal/25 March 2025 Tuesday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +189,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 31 March 2025 Monday"
+              "title": "Backlinks for 25 March 2025 Tuesday"
             }
           },
           {
@@ -198,12 +198,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/31 March 2025 Monday.md",
+                "file": "Journal/25 March 2025 Tuesday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 31 March 2025 Monday"
+              "title": "Outgoing links from 25 March 2025 Tuesday"
             }
           },
           {
@@ -225,10 +225,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/31 March 2025 Monday.md"
+                "file": "Journal/25 March 2025 Tuesday.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 31 March 2025 Monday"
+              "title": "Outline of 25 March 2025 Tuesday"
             }
           },
           {
@@ -262,8 +262,10 @@
   },
   "active": "a53f9b6c8db0175d",
   "lastOpenFiles": [
-    "Journal/BulletJournalProtocol.md",
+    "Journal/24 March 2025 Monday.md",
+    "Journal/1 April 2025 Tuesday.md",
     "Journal/31 March 2025 Monday.md",
+    "Journal/BulletJournalProtocol.md",
     "Journal/30 March 2025 Sunday.md",
     "Journal/April 2025.md",
     "Journal/Future Log.md",
@@ -278,7 +280,6 @@
     "Journal/21 April 2025 Monday.md",
     "Journal/26 March 2025 Wednesday.md",
     "Journal/25 March 2025 Tuesday.md",
-    "Journal/24 March 2025 Monday.md",
     "0-inbox/Upending Assumptions About Life On Earth.md",
     "0-inbox/Rui Xue Thesis Committee.md",
     "Input/Books/Books.md",
@@ -287,7 +288,6 @@
     "Input/Meetings/March/HGCManagementMeeting 4 March 2025.md",
     "Input/Meetings/March/HGCManagementMeeting 18 March 2025.md",
     "Input/Meetings/March/CMU HGC MAC Meeting 4 March 2025.md",
-    "Input/Meetings/March/CMU HGC MAC Meeting 25 March 2025.md",
     "Input/Meetings/March",
     "attachments/Pasted Image 20250315161206_922.png",
     "attachments/Pasted Image 20250315161151_920.png",
