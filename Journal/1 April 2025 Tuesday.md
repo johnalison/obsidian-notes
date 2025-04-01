@@ -11,8 +11,8 @@
 |     | Chat Dylan        |         |
 | 1   | Chat Joe / Peter  |         |
 |     | Turnaround report |         |
-| 2   |                   |         |
-|     |                   |         |
+| 2   | ETC Spreadsheet   |         |
+|     | Sindhu            |         |
 | 3   | Mans Meeting      |         |
 |     | Mans Meeting      |         |
 | 4   | ETC Spreadsheet   |         |
@@ -39,6 +39,7 @@
 - [ ] Cut flow wrt Marina
 - [ ] Prepare Party for Josh
 - [x] Another Lab tech Ad out
+- [ ] Review Wes's slides
 
 ---
 
