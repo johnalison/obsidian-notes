@@ -62,3 +62,8 @@ M&T to school
 - making progress
 
 Finished writing up bootstrapping study
+
+# Hoops
+- Good runs... Won more than lost
+- Played decent
+
