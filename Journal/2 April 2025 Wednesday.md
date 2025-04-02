@@ -1,22 +1,22 @@
 
-|     | setup               |     |
-| --- | ------------------- | --- |
-| 9   | Taught              |     |
-|     | Taught              |     |
-| 10  | setup / Hbb         |     |
-|     | Bootstrapping Study |     |
-| 11  | Eldon               |     |
-|     | Sam                 |     |
-| 12  | Hoops               |     |
-|     | Hoops               |     |
-| 1   | Hoops               |     |
-|     | Hoops               |     |
-| 2   | Update ETC docs     |     |
-|     | Sindhu              |     |
-| 3   | Titus               |     |
-|     | UCSB ETC docs       |     |
-| 4   | 
-|     |                     |     |
+|     | setup                            |     |
+| --- | -------------------------------- | --- |
+| 9   | Taught                           |     |
+|     | Taught                           |     |
+| 10  | setup / Hbb                      |     |
+|     | Bootstrapping Study              |     |
+| 11  | Eldon                            |     |
+|     | Sam                              |     |
+| 12  | Hoops                            |     |
+|     | Hoops                            |     |
+| 1   | Hoops                            |     |
+|     | Hoops                            |     |
+| 2   | Update ETC docs                  |     |
+|     | Sindhu                           |     |
+| 3   | Titus                            |     |
+|     | UCSB ETC docs                    |     |
+| 4   | Pick up Grade                    |     |
+|     | Physics 3 endgame / Alcohol quiz |     |
 
 **W:**
 **DW:**
@@ -37,7 +37,7 @@
 	- [ ] ETC for Module Factories
 - [ ] Cut flow wrt Marina
 - [x] Review March
-- [ ] Grade Elise Exam
+- [x] Grade Elise Exam
 
 ---
 
@@ -86,3 +86,5 @@ Called Jim.  Happy with offer... Next step official letter.
 Sent mail re:Physics 3 endgame
 
 Picked up and graded Elises Physics-3 exam
+
+Did Alcohol renewal quiz
