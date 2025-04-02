@@ -14,8 +14,8 @@
 | 2   | Update ETC docs     |     |
 |     | Sindhu              |     |
 | 3   | Titus               |     |
-|     |                     |     |
-| 4   | bbWW                |     |
+|     | UCSB ETC docs       |     |
+| 4   | 
 |     |                     |     |
 
 **W:**
@@ -33,8 +33,11 @@
 - [ ]  Schedule FNAL badging appointment
 - [x] Write up bootstrap study
 - [ ] Update ETC docs
+	- [x] Source Spreadsheet for UCSB 
+	- [ ] ETC for Module Factories
 - [ ] Cut flow wrt Marina
 - [x] Review March
+- [ ] Grade Elise Exam
 
 ---
 
@@ -71,3 +74,12 @@ Sent mail to Lei in the masters program
 
 # [[HGC Estimate to complete Spring 2025]]
 - [[HGC MAC BoEs]]
+- Update UCSB bottom-up labor estimate : 
+	- https://docs.google.com/spreadsheets/d/1V91SoHVxcbnE7U5_f1YQ-0o4fRP4you8/edit?gid=1210363411#gid=1210363411
+- Update doc file. 
+- Posted to docDB
+
+Called Jim.  Happy with offer... Next step official letter.
+
+# SoS shown today at Moriond !!
+
