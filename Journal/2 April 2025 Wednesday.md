@@ -11,7 +11,7 @@
 |     | Hoops               |     |
 | 1   | Hoops               |     |
 |     | Hoops               |     |
-| 2   |                     |     |
+| 2   | Update ETC docs     |     |
 |     | Sindhu              |     |
 | 3   | Titus               |     |
 |     |                     |     |
@@ -67,3 +67,7 @@ Finished writing up bootstrapping study
 - Good runs... Won more than lost
 - Played decent
 
+Sent mail to Lei in the masters program 
+
+# [[HGC Estimate to complete Spring 2025]]
+- [[HGC MAC BoEs]]

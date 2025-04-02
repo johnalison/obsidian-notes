@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/2 April 2025 Wednesday.md",
+                "file": "1-projects/HGC/HGC MAC BoEs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2 April 2025 Wednesday"
+              "title": "HGC MAC BoEs"
             }
           },
           {
@@ -164,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/2 April 2025 Wednesday.md",
+                "file": "1-projects/HGC/HGC MAC BoEs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +174,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2 April 2025 Wednesday"
+              "title": "Backlinks for HGC MAC BoEs"
             }
           },
           {
@@ -183,12 +183,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/2 April 2025 Wednesday.md",
+                "file": "1-projects/HGC/HGC MAC BoEs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2 April 2025 Wednesday"
+              "title": "Outgoing links from HGC MAC BoEs"
             }
           },
           {
@@ -210,10 +210,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/2 April 2025 Wednesday.md"
+                "file": "1-projects/HGC/HGC MAC BoEs.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 2 April 2025 Wednesday"
+              "title": "Outline of HGC MAC BoEs"
             }
           },
           {
@@ -247,9 +247,10 @@
   },
   "active": "fc815f580673f57e",
   "lastOpenFiles": [
+    "Journal/2 April 2025 Wednesday.md",
+    "1-projects/HGC/HGC Estimate to complete Spring 2025.md",
     "Journal/April 2025.md",
     "0-inbox/Bootstrapping Synthetic Data Stat Uncertainties.md",
-    "Journal/2 April 2025 Wednesday.md",
     "Journal/1 April 2025 Tuesday.md",
     "Journal/February 2025/28 February 2025 Friday.md",
     "Journal/28 February 2025 Friday.md",
@@ -272,7 +273,6 @@
     "Journal/March 2025/24 March 2025 Monday.md",
     "Journal/March 2025/23 March 2025 Sunday.md",
     "Journal/March 2025/22 March 2025 Saturday.md",
-    "Journal/March 2025/21 March 2025 Friday.md",
     "Journal/March 2025",
     "0-inbox/#UCSB Modules per Month.md#",
     "0-inbox/#CMU Modules per Month.md#",
