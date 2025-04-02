@@ -18,10 +18,10 @@
 | 4   | ETC Spreadsheet   |         |
 |     | ETC Spreadsheet   |         |
 
-**W:**
-**DW:**
-**OT:**
-**ex** or **No ex**
+**W:** 7 
+**DW:** 2
+**OT:** 2
+**No ex**
 
 ---
 # The ONE thing: 
@@ -31,12 +31,12 @@
 # To Do
 
 - [x] Try script to check DB
-- [ ] Write up bootstrap study
-- [ ] Update ETC docs
+- [>>] Write up bootstrap study
+- [>>] Update ETC docs
 - [x] Send Manfred BCR Info
-- [ ] Review March
+- [>>] Review March
 - [x] Turnaround report
-- [ ] Cut flow wrt Marina
+- [>>] Cut flow wrt Marina
 - [ ] Prepare Party for Josh
 - [x] Another Lab tech Ad out
 - [x] Review Wes's slides
