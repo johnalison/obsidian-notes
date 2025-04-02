@@ -83,3 +83,6 @@ Called Jim.  Happy with offer... Next step official letter.
 
 # SoS shown today at Moriond !!
 
+Sent mail re:Physics 3 endgame
+
+Picked up and graded Elises Physics-3 exam
