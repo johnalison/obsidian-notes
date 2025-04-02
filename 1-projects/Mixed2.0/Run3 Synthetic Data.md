@@ -35,6 +35,12 @@ v4:
 
 # Daily Logs
 
+## [[26 March 2025 Wednesday]]
+- 16 datasets finished
+- Sanity check that the files counts are there
+- Running on **cmslpc303**
+	- `source scripts/synthetic-dataset-analyze-all.sh `
+
 ## [[25 March 2025 Tuesday]]
 - running on **cmslpc303**
 - Submitted random seeds 4 - 15

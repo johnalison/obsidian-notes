@@ -10,6 +10,13 @@ To Add:
 - https://www.cmu.edu/mcs/news-events/2023/0612_us-cms-physicists-meeting.html
 
 - https://home.cern/news/news/experiments/five-outstanding-students-win-atlas-thesis-awards
+
+Past members of teh group
+- Patrick Bryant
+- Jonas Roemer
+- Eva Klobier
+- Trevor Russel  Brown
+- XXX UIUC
 # Follow-ups
 
 

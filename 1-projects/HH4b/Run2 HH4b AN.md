@@ -50,6 +50,13 @@ Towards v4
 # Daily Logs
 
 
+## [[26 March 2025 Wednesday]]
+- Added ps vs phh plot
+- pushed 
+- Updated comments
+- Wait on AE for TTbar CR before send
+
+
 ## [[17 March 2025 Monday]]
 - New Acceptance plots
 - Remake m4j plots after removing fix for Nones .. in matchBjets∝

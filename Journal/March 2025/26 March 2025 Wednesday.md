@@ -54,10 +54,7 @@ M&T to school
 
 
 # [[Run2 HH4b AN]]
-- Added ps vs phh plot
-- pushed 
-- Updated comments
-- Wait on AE for TTbar CR before send
+- See daily's above
 
 # Aniket / Sam
 - Will give Sam the inputs
@@ -67,11 +64,7 @@ M&T to school
 - Ankle tweaked 
 
 # [[Run3 Synthetic Data]]
-- 16 datasets finished
-- Sanity check that the files counts are there
-- Running on **cmslpc303**
-	- `source scripts/synthetic-dataset-analyze-all.sh `
-
+- see daily's above
 
 Chat Sindhu re:Her Brother troubles with Job
 
@@ -79,8 +72,7 @@ Chat Sindhu re:Her Brother troubles with Job
 - Chat Manfred / Chat Jessica 
 
 # [[CMU bbWW]]
-- AE: has scripts to make low pt jets
-- Aniket
+- see above
 
 Jessica Happy with Jim 
 - [>>] Chat MP Jim

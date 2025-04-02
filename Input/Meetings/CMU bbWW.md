@@ -1,5 +1,10 @@
 # Logs
 
+## [[26 March 2025 Wednesday]]
+- AE: has scripts to make low pt jets
+- Aniket has 1st draft of new processor
+
+
 ## [[12 March 2025 Wednesday]]
 - Coffea25 code runing 10x faster than before
 - will ping FNAL re:code structuring

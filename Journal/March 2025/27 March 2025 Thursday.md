@@ -48,9 +48,8 @@ Up at 7
 
 M & T to school 
 
-# Jonas Leaving in June
-- Got a thermal mechanical engineering job in Virginia  
-- https://laserthermal.com/about-laser-thermal/
+# [[Jonas Roemer]] Leaving in June
+- See above
 
 [[HGC Personnel per MAC]]
 

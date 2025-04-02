@@ -120,3 +120,6 @@ Watching USCMS shit show
 
 # Reviewing March
 - Left off on 19th
+
+# Setting Lynn Up with Coinbase
+- Debacle...

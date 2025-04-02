@@ -38,7 +38,7 @@
 - [ ] Understand Chuyuan's slides
 - [ ] Hemisphere plots 
 - [>>] Write up bootstraping study
-- [ ] Schedule FNAL badging appointment
+- [>>] Schedule FNAL badging appointment
 - [ ] Make sum/SB/SR plots presentation
 - [x] Move on Jim Parard
 - [ ] HGC Slides
@@ -62,13 +62,13 @@ Moving forward on Jim
 - Chance found my mug!
 
 # setup
-- print french press
-- draft mail for Jim 
+- print french press return label
+- draft mail for Jim Picard
 - mail to Marina
 - Mail to Seth Eisenberg re:investing
 
 # [[Run3 Synthetic Data]]
-- Starting to bootstrap aver uncertianty 
+- Starting to bootstrap average uncertainty 
 - Script compute average and do bootstrapping:
 	- `python jet_clustering/bootstrap_correlation.py output/synthetic_dataset_analyze_all/synthetic_data_Run3_v8_new_16seeds_SvB_values.coffea `
 - Got the average of and the variance in a bin on SvB 
@@ -87,6 +87,8 @@ Moving forward on Jim
 - 10' at Tmax = 124
 
 # Manfred get Lazarus Award !!!
+- put your people first 
+- Really Enjoyed the feeling of someone else winning !  (Girard: "easy when not a rival" )
 
 More Bootstrap study
 

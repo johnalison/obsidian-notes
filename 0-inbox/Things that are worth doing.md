@@ -1,5 +1,7 @@
 - Max out money 
+	- Startups
 - Max out time off 
+	- Taxes
 - Grand Challenges
 	- Longevity
 	- Consciousness

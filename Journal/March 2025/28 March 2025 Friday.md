@@ -70,7 +70,7 @@ Looking into 2D plotting code
 https://docs.google.com/spreadsheets/d/1IiCxITzWZUyirePaRzgnm9W3zMwGhOonuUR_E0AJh9w/edit?gid=1108664677#gid=1108664677
 ([>>]) [[CAM Turnaround Report]]
 
-# 4b Chat
+# [[CMU 4b Chats]]
 - AE: low pt plots
 - SM: memory errors
 - CL: not much 
