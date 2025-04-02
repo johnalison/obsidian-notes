@@ -39,7 +39,7 @@
 - [ ] Cut flow wrt Marina
 - [ ] Prepare Party for Josh
 - [x] Another Lab tech Ad out
-- [ ] Review Wes's slides
+- [x] Review Wes's slides
 
 ---
 
@@ -87,6 +87,8 @@ Setup
 - metabase not recommended to use local option
 - apache Superset seems to be a free open source alternative
 
+# Check out Claude AI
+- Signed up with claude pro
 
 Chat with Joe re:FNAL funds
 
@@ -111,3 +113,10 @@ Did [[CAM Turnaround Report]] ... see below
 - [[UCSB Modules per Month]]
 
 Pinged Ables re:Another Tech 3 Ad
+
+Home 
+
+Watching USCMS shit show
+
+# Reviewing March
+- Left off on 19th

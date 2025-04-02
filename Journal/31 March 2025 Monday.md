@@ -63,14 +63,11 @@ Moving forward on Jim
 
 # setup
 - print french press
-- draft mail for jim 
+- draft mail for Jim 
 - mail to Marina
-- Mail to Seth re:investing
+- Mail to Seth Eisenberg re:investing
 
 # [[Run3 Synthetic Data]]
-- Marina's cutflow is off
-	- requested events/run list
-	- [>>] Compare Events
 - Starting to bootstrap aver uncertianty 
 - Script compute average and do bootstrapping:
 	- `python jet_clustering/bootstrap_correlation.py output/synthetic_dataset_analyze_all/synthetic_data_Run3_v8_new_16seeds_SvB_values.coffea `
@@ -79,9 +76,15 @@ Moving forward on Jim
 - [x] add weights... do bootstrap
 - [x] make some plots
 
-# Hoops 
+# [[Run3 HH4b Cutflow Challenge]]
+- Marina's cutflow is off
+	- requested events/run list
+	- [>>] Compare Events
+
+# Hoops / Steamroom
 - 4s and 5s (2nd court)
 - Good passing, good D, nice breaks, and some shots 
+- 10' at Tmax = 124
 
 # Manfred get Lazarus Award !!!
 

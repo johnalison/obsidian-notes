@@ -7,7 +7,7 @@
 
 # Action
 - Have Jonas write up some slides 
-- [ ] Arrange pickup of UCSB tooling
+- [x] Arrange pickup of UCSB tooling
 
 # Jessica
 - Transfer-tape jig ... debugging 

@@ -73,7 +73,6 @@ setup
 
 More Acceptance plots.  .. see above
 
-
 # [[Truth Skimmer]]
 - see above
 

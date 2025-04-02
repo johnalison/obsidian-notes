@@ -19,7 +19,7 @@
 - [>>]  Fill [[CAM Turnaround Report]] by March 6th
 - [x] truth HH plots before and after genWeight cleaning
 
-Pinged Dylan King
+Pinged Dylan King re:UG work
 
 Some [[Fly By Night Physics]]
 Some [[For a new Liberty]]

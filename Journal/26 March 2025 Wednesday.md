@@ -78,7 +78,7 @@ Chat Sindhu re:Her Brother troubles with Job
 # James Picard
 - Chat Manfred / Chat Jessica 
 
-# bbWW
+# [[CMU bbWW]]
 - AE: has scripts to make low pt jets
 - Aniket
 
