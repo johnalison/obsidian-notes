@@ -1,22 +1,22 @@
 
-|     | setup       |     |
-| --- | ----------- | --- |
-| 9   | Taught      |     |
-|     | Taught      |     |
-| 10  | setup / Hbb |     |
-|     |             |     |
-| 11  | Eldon       |     |
-|     | Sam         |     |
-| 12  | Hoops       |     |
-|     | Hoops       |     |
-| 1   | Hoops       |     |
-|     | Hoops       |     |
-| 2   |             |     |
-|     | Sindhu      |     |
-| 3   | Titus       |     |
-|     |             |     |
-| 4   | bbWW        |     |
-|     |             |     |
+|     | setup               |     |
+| --- | ------------------- | --- |
+| 9   | Taught              |     |
+|     | Taught              |     |
+| 10  | setup / Hbb         |     |
+|     | Bootstrapping Study |     |
+| 11  | Eldon               |     |
+|     | Sam                 |     |
+| 12  | Hoops               |     |
+|     | Hoops               |     |
+| 1   | Hoops               |     |
+|     | Hoops               |     |
+| 2   |                     |     |
+|     | Sindhu              |     |
+| 3   | Titus               |     |
+|     |                     |     |
+| 4   | bbWW                |     |
+|     |                     |     |
 
 **W:**
 **DW:**
@@ -25,13 +25,13 @@
 
 ---
 # The ONE thing: 
-- [ ] 
+- [ ] Update ETC docs
 
 ---
 # To Do
 
 - [ ]  Schedule FNAL badging appointment
-- [ ] Write up bootstrap study
+- [x] Write up bootstrap study
 - [ ] Update ETC docs
 - [ ] Cut flow wrt Marina
 - [x] Review March
@@ -54,3 +54,11 @@ M&T to school
 - Shane Parish 
 
 [[Bootstrapping Synthetic Data Stat Uncertainties]]
+
+# Chat Elden 
+- Told him about QM+Spacetime
+
+# Chat Sam
+- making progress
+
+Finished writing up bootstrapping study
