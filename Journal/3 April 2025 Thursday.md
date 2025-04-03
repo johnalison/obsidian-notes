@@ -10,8 +10,8 @@
 | 12  | setup               |     |
 |     | Course Discussion   |     |
 | 1   | Course Discussion   |     |
-|     |                     |     |
-| 2   |                     |     |
+|     | Chat Rosen          |     |
+| 2   | Sindhu              |     |
 |     | Office Hours        |     |
 | 3   | Office Hours        |     |
 |     |                     |     |
@@ -33,7 +33,8 @@
 - [ ] Checkout/Try cursor 
 - [ ] Setup note book as scratch pad
 - [ ]  ETC for Module Factories
-- [ ] 
+- [ ] Cut flow wrt Marina
+- [ ] Update ETC docs
 
 ---
 
@@ -50,6 +51,7 @@ Waiting for steph to drive us
 - https://chatgpt.com/share/67ee8c4f-9c7c-8000-beb0-e68ce34888ae
 - Got it going...
 - [ ] Write up weight calc
+- $E[X] = E[Y] = 1$
 
 # Chat AE
 - [ ] Make plots of physical signal by weighting by q-score
@@ -66,4 +68,10 @@ Waiting for steph to drive us
 
 # Faculty Discussion
 - Have the students talk to each other on the first day
-- Chat Rachel about having TAs teach the 4th lecture
+- Chat Rachel Rosen about having TAs teach the 4th lecture
+
+# Office Hours
+- Couple of customers
+
+
+# Writting up bootstrapping

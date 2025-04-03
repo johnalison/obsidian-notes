@@ -77,7 +77,8 @@
               "title": "MAC meeting 19 March 2025"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -150,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/2 April 2025 Wednesday.md",
+                "file": "Journal/3 April 2025 Thursday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +161,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2 April 2025 Wednesday"
+              "title": "Backlinks for 3 April 2025 Thursday"
             }
           },
           {
@@ -169,12 +170,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/2 April 2025 Wednesday.md",
+                "file": "Journal/3 April 2025 Thursday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2 April 2025 Wednesday"
+              "title": "Outgoing links from 3 April 2025 Thursday"
             }
           },
           {
@@ -196,10 +197,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/2 April 2025 Wednesday.md"
+                "file": "Journal/3 April 2025 Thursday.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 2 April 2025 Wednesday"
+              "title": "Outline of 3 April 2025 Thursday"
             }
           },
           {
@@ -231,18 +232,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fc815f580673f57e",
+  "active": "70ed710a2b2f28e9",
   "lastOpenFiles": [
-    "Journal/1 April 2025 Tuesday.md",
+    "Journal/2 April 2025 Wednesday.md",
+    "Journal/April 2025.md",
+    "Input/Meetings/March/MAC meeting 19 March 2025.md",
     "Journal/3 April 2025 Thursday.md",
+    "Journal/1 April 2025 Tuesday.md",
     "Journal/March 2025/31 March 2025 Monday.md",
     "Journal/March 2025/30 March 2025 Sunday.md",
     "Journal/March 2025/29 March 2025 Saturday.md",
     "Journal/March 2025/28 March 2025 Friday.md",
     "Journal/March 2025/27 March 2025 Thursday.md",
     "Journal/March 2025/26 March 2025 Wednesday.md",
-    "Journal/April 2025.md",
-    "Journal/2 April 2025 Wednesday.md",
     "Journal/Future Log.md",
     "Journal/BulletJournalProtocol.md",
     "0-inbox/Bootstrapping Synthetic Data Stat Uncertainties.md",
@@ -258,7 +260,6 @@
     "Journal/March 2025/6 March 2025 Thursday.md",
     "Journal/March 2025/5 March 2025 Wednesday.md",
     "Journal/March 2025/4 March 2025 Tuesday.md",
-    "Journal/March 2025/3 March 2025 Monday.md",
     "Journal/March 2025",
     "0-inbox/#UCSB Modules per Month.md#",
     "0-inbox/#CMU Modules per Month.md#",

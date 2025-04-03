@@ -18,10 +18,10 @@
 | 4   | Pick up Grade                    |     |
 |     | Physics 3 endgame / Alcohol quiz |     |
 
-**W:**
-**DW:**
-**OT:**
-**ex** or **No ex**
+**W:** 7 
+**DW:** 2 
+**OT:** 1
+**ex** 
 
 ---
 # The ONE thing: 
@@ -32,10 +32,10 @@
 
 - [ ]  Schedule FNAL badging appointment
 - [x] Write up bootstrap study
-- [ ] Update ETC docs
+- [>>] Update ETC docs
 	- [x] Source Spreadsheet for UCSB 
-	- [ ] ETC for Module Factories
-- [ ] Cut flow wrt Marina
+	- [>>] ETC for Module Factories
+- [>>] Cut flow wrt Marina
 - [x] Review March
 - [x] Grade Elise Exam
 
@@ -118,4 +118,4 @@ S order Schullies !
 - Script to prepare dataset
 	- `python jet_clustering/mixing_correlation_prep_data.py output/analysis_test_mixed_job/mixedData_wSvB.coffea  output/analysis_test_mixed_job/dataMixed_hNumbers.coffea `
 - Made merged dataset
-- [ ] Bootstrap with hemisphere weights
+- [>>] Bootstrap with hemisphere weights
