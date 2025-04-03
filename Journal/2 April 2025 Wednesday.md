@@ -88,3 +88,21 @@ Sent mail re:Physics 3 endgame
 Picked up and graded Elises Physics-3 exam
 
 Did Alcohol renewal quiz
+
+# Thinking about Bootstrapping mixed data
+- use `data*_v*` files to map event, run   -> (h1_event, h1_run, h2_event, h2_run )
+	- `/store/user/jda102/condor/ZH4b/ULTrig/data2018_v0/picoAOD_3bDvTMix4bDvT_v0_newSBDef.root` 
+- Make dictionary ala synthetic datasets of events to SvB 
+- Need another dictionary of events to hemi_event pairs
+- Assign hemi_event pairs to SvB 
+- Fluctuate weights. 
+- Compute combined weights
+
+
+Home with M& T
+
+S order Schullies !
+
+Start bootstrapping mixed data: 
+- **cmslpc304**
+- `sed -e "s|run_dilep_ttbar_crosscheck: true|run_dilep_ttbar_crosscheck: false|" analysis/metadata/HH4b.yml > output/analysis_test_mixed_job/HH4b.yml`
