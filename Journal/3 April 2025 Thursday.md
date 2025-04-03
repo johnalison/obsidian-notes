@@ -65,4 +65,5 @@ Waiting for steph to drive us
 - 10' at Tmax 123  (on watch )
 
 # Faculty Discussion
+- Have the students talk to each other on the first day
 - 
