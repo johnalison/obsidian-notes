@@ -59,7 +59,7 @@ Moving forward on Jim
 
 # Taught
 - Probability and Wave function 
-- Chance found my mug!
+- Chance found my mug !
 
 # setup
 - print french press return label

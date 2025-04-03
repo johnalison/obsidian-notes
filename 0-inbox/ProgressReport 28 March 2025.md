@@ -1,6 +1,6 @@
 Habits have all been good. As usual, I could use some more mindfulness. Ive been doing some more Zettlekasten and good reading. I have been working more in the past couple weeks and have been doing a lot of social activities: Penguins games, Sara Shook concert, Bernie Klus funeral, and happy hours.
 
-On the 4b side, I think I finally have a good first pass with the Run-3 synthetic dataset. I debugged the jet calibration and cutflow with Marina and we are now in agreement. I then made 16 synthetic dataset and passed it to her.  These look reasonable.  I want to determine the impact of the correlation on the final SvB variable. I think I understand how to do this using fluctuated event weights. After this, it might be a good time to present in Hbb again. 
+On the 4b side, I think I finally have a good first pass with the Run-3 synthetic dataset. I debugged the jet calibration and cutflow with Marina and we are now in agreement. I then made 16 synthetic datasets and passed it to her.  These look reasonable.  I want to determine the impact of the correlation on the final SvB variable. I think I understand how to do this using fluctuated event weights. After this, it might be a good time to present in Hbb again. 
 
 We have also been doing some work on the latest (and should be last) round of L2 comments. These required making ROC plots and setting up at TTbar CR to make sure we are seeing the consistent data/MC yields.  We sent a mail with answers and cut a new AN. I think our next step is ARC review. 
 

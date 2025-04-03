@@ -32,7 +32,7 @@
 
 - [ ] Checkout/Try cursor 
 - [ ] Setup note book as scratch pad
-- [ ] 
+- [ ]  ETC for Module Factories
 - [ ] 
 
 ---
@@ -66,4 +66,4 @@ Waiting for steph to drive us
 
 # Faculty Discussion
 - Have the students talk to each other on the first day
-- 
+- Chat Rachel about having TAs teach the 4th lecture

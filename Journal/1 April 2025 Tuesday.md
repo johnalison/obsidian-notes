@@ -1,22 +1,22 @@
 
-|     |                   |         |
-| --- | ----------------- | ------- |
-| 9   | to campus         |         |
-|     | ~~Chat Wes~~      | Chat MP |
-| 10  | setup             |         |
-|     | HGC DB Moves      |         |
-| 11  | Outreach Meeting  |         |
-|     | MAC Meeting       |         |
-| 12  | MAC Meeting       |         |
-|     | Chat Dylan        |         |
-| 1   | Chat Joe / Peter  |         |
-|     | Turnaround report |         |
-| 2   | ETC Spreadsheet   |         |
-|     | Sindhu            |         |
-| 3   | Mans Meeting      |         |
-|     | Mans Meeting      |         |
-| 4   | ETC Spreadsheet   |         |
-|     | ETC Spreadsheet   |         |
+|     |                    |         |
+| --- | ------------------ | ------- |
+| 9   | to campus          |         |
+|     | ~~Chat Wes~~       | Chat MP |
+| 10  | setup              |         |
+|     | HGC DB Moves       |         |
+| 11  | Outreach Meeting   |         |
+|     | MAC Meeting        |         |
+| 12  | MAC Meeting        |         |
+|     | Chat Dylan         |         |
+| 1   | Chat Joe I / Peter |         |
+|     | Turnaround report  |         |
+| 2   | ETC Spreadsheet    |         |
+|     | Sindhu             |         |
+| 3   | Mans Meeting       |         |
+|     | Mans Meeting       |         |
+| 4   | ETC Spreadsheet    |         |
+|     | ETC Spreadsheet    |         |
 
 **W:** 7 
 **DW:** 2
@@ -97,7 +97,7 @@ Did [[CAM Turnaround Report]] ... see below
 # Working [[HGC Estimate to complete Spring 2025]]
 - DocDB: CMU   https://cms-docdb.cern.ch/cgi-bin/DocDB/ShowDocument?docid=14209
 - [>>] Source Spreadsheet for UCSB 
-- [ ] ETC for Module Factories
+- [>>] ETC for Module Factories
 
 
 # [[HGCManagementMeeting 1 April 2025]]
