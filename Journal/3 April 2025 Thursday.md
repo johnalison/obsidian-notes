@@ -1,13 +1,13 @@
 
 |     | bootstrapping mixed |     |
 | --- | ------------------- | --- |
-| 9   | setup               |     |
-|     |                     |     |
+| 9   | bootstrapping mixed |     |
+|     | bootstrapping mixed |     |
 | 10  | Stats Chat          |     |
 |     | Stats Chat          |     |
-| 11  |                     |     |
-|     |                     |     |
-| 12  |                     |     |
+| 11  | Gym                 |     |
+|     | Gym                 |     |
+| 12  | setup               |     |
 |     | Course Discussion   |     |
 | 1   | Course Discussion   |     |
 |     |                     |     |
@@ -21,7 +21,7 @@
 **W:**
 **DW:**
 **OT:**
-**ex** or **No ex**
+**ex** 
 
 ---
 # The ONE thing: 
@@ -30,8 +30,8 @@
 ---
 # To Do
 
-- [ ] 
-- [ ] 
+- [ ] Checkout/Try cursor 
+- [ ] Setup note book as scratch pad
 - [ ] 
 - [ ] 
 
@@ -48,4 +48,21 @@ Waiting for steph to drive us
 - Starting bootstrapping script
 - Made bootstraping plot! 
 - https://chatgpt.com/share/67ee8c4f-9c7c-8000-beb0-e68ce34888ae
+- Got it going...
+- [ ] Write up weight calc
+
+# Chat AE
+- [ ] Make plots of physical signal by weighting by q-score
+
+# [[Stats Data-Driven SR]]
+- Useful
+- Smearing hurts power some, but improves bias
+- Plot of FvT_CR vs FvT for SR defined with different smearing defintions
+
+# Gym Steamroom
+- 3 Supersets (on watch)
+- clean - dips / squat - pullups / flys - lunges 
+- 10' at Tmax 123  (on watch )
+
+# Faculty Discussion
 - 

@@ -6,6 +6,9 @@ Links:
 
 # Log
 
+## [[27 March 2025 Thursday]]
+- Discussed impact of smearing on quality of background modelling
+
 ## [[20 March 2025 Thursday]]
 - Discussion using gamma vs gamma/gamma tilde
 - Will start looking into the other signals next

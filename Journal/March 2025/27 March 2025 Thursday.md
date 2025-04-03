@@ -56,15 +56,13 @@ M & T to school
 setup
 
 # [[Run3 Synthetic Data]]
-- adding logic to make plots config a template to auto expand syn_vXXX
-- The 16 synthetic datasets look good! 
-- [>>] Variance study of SvB
+- see above
 
 # Taught 
 - QM introductions
 
 # [[Stats Data-Driven SR]]
-- Discussed impact of smearing on quality of background modelling
+- See above
 
 # Chat with USCMS
 - Nothing
@@ -73,7 +71,6 @@ setup
 - MCS annual meeting
 
 # Chat with [[Tony Boyle]]
-- Still not understanding ΔR ... 
 
 
 Reference for Jonas

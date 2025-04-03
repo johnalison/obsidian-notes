@@ -2,6 +2,9 @@ Undergraduate working on [[Hbb Reclustering Project]]
 
 # Weekly Logs
 
+## [[27 March 2025 Thursday]]
+- Still not understanding ΔR ... 
+
 
 ## [[20 March 2025 Thursday]]
 - Needs to reorganize code to do event loop and other jet loop

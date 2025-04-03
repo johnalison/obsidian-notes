@@ -71,7 +71,7 @@ https://docs.google.com/spreadsheets/d/1IiCxITzWZUyirePaRzgnm9W3zMwGhOonuUR_E0AJ
 ([>>]) [[CAM Turnaround Report]]
 
 # [[CMU 4b Chats]]
-- AE: low pt plots
+- AE: low pt selection
 - SM: memory errors
 - CL: not much 
 - JA: new AN and synthetic data
@@ -117,5 +117,5 @@ https://docs.google.com/spreadsheets/d/1IiCxITzWZUyirePaRzgnm9W3zMwGhOonuUR_E0AJ
 
 Some [[Hamlet]]
 
-Late night 2d hists ... see above
+Late night 2d hists ... see above... got it going !
 

@@ -35,6 +35,11 @@ v4:
 
 # Daily Logs
 
+## [[27 March 2025 Thursday]]
+- adding logic to make plots config a template to auto expand syn_vXXX
+- The 16 synthetic datasets look good! 
+- [>>] Variance study of SvB
+
 ## [[26 March 2025 Wednesday]]
 - 16 datasets finished
 - Sanity check that the files counts are there
