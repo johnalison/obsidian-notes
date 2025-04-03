@@ -46,3 +46,6 @@ Waiting for steph to drive us
 # More [[Bootstrapping mixed data]]
 - Adding hemi weights
 - Starting bootstrapping script
+- Made bootstraping plot! 
+- https://chatgpt.com/share/67ee8c4f-9c7c-8000-beb0-e68ce34888ae
+- 
