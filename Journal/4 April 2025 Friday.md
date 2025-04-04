@@ -17,4 +17,8 @@ Marlo to Carnival
 
 More Cursor
 
-[[CMU CMS Webpage]]
+Updated [[CMU CMS Webpage]]
+
+Book Travel to FNAL
+- Flight 389.96
+- Get housing:  https://get-connected.fnal.gov/housing/
