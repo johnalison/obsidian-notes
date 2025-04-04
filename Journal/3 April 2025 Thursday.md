@@ -54,7 +54,7 @@ Waiting for steph to drive us
 - [x] Write up weight calc
 
 # Chat AE
-- [ ] Make plots of physical signal by weighting by q-score
+- Make plots of physical signal by weighting by q-score
 
 # [[Stats Data-Driven SR]]
 - Useful
@@ -84,3 +84,5 @@ Writing up bootstrapping... see above
 - External examiner for Florian Haslbeck
 - Daniela Bortoletto
 - Florian Haslbeckh’s PhD thesis. His work focuses on the legacy Run 2 analysis of HH → bbττ,
+
+Finished writing up L2 responses to Emanuelle
