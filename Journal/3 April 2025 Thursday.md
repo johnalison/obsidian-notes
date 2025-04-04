@@ -86,3 +86,6 @@ Writing up bootstrapping... see above
 - Florian Haslbeckh’s PhD thesis. His work focuses on the legacy Run 2 analysis of HH → bbττ,
 
 Finished writing up L2 responses to Emanuelle
+
+Some [[Myth of the Rational Voter]]
+Some [[Time and Chance]]
