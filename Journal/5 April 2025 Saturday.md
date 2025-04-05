@@ -15,4 +15,4 @@ Analogy between QM interpetations and free will
 
 
 # Taxes
-- 
+- Detonate8-Tinfoil-Defraud
