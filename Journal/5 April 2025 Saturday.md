@@ -15,4 +15,9 @@ Analogy between QM interpetations and free will
 
 
 # Taxes
-- Detonate8-Tinfoil-Defraud
+- Got my tax info
+- Crypto sales
+- Trying to understand what happened in 2023
+- Decided to go TurboTax!
+
+Some [[Myth of the Rational Voter]]
