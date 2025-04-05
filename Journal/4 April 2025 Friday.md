@@ -13,12 +13,19 @@ Some [[Time and Chance]]
 - Looks amazing ! 
 - When you have a new feature, you want to start a new chat
 
-Marlo to Carnival
+# Marlo to Carnival
 
-More Cursor
+More Cursor... above
 
-Updated [[CMU CMS Webpage]]
+Clean up plotting code
 
-Book Travel to FNAL
-- Flight 389.96
-- Get housing:  https://get-connected.fnal.gov/housing/
+Updated [[CMU CMS Webpage]] with Cursor
+
+Book Travel to FNAL April 2025
+- Flight $389.96
+- [ ] Get housing:  https://get-connected.fnal.gov/housing/
+- [ ] Rental Car 
+
+
+Some [[Hamlet]]
+
