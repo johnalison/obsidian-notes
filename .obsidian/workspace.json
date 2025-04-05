@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/4 April 2025 Friday.md",
+                "file": "Journal/5 April 2025 Saturday.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4 April 2025 Friday"
+              "title": "5 April 2025 Saturday"
             }
           },
           {
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/4 April 2025 Friday.md",
+                "file": "Journal/5 April 2025 Saturday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 4 April 2025 Friday"
+              "title": "Backlinks for 5 April 2025 Saturday"
             }
           },
           {
@@ -169,12 +169,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/4 April 2025 Friday.md",
+                "file": "Journal/5 April 2025 Saturday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 4 April 2025 Friday"
+              "title": "Outgoing links from 5 April 2025 Saturday"
             }
           },
           {
@@ -196,10 +196,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/4 April 2025 Friday.md"
+                "file": "Journal/5 April 2025 Saturday.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 4 April 2025 Friday"
+              "title": "Outline of 5 April 2025 Saturday"
             }
           },
           {
@@ -233,8 +233,9 @@
   },
   "active": "fc815f580673f57e",
   "lastOpenFiles": [
-    "0-inbox/CMU CMS Webpage.md",
     "Journal/4 April 2025 Friday.md",
+    "Journal/5 April 2025 Saturday.md",
+    "0-inbox/CMU CMS Webpage.md",
     "Journal/April 2025.md",
     "Journal/3 April 2025 Thursday.md",
     "Journal/2 April 2025 Wednesday.md",
@@ -258,7 +259,6 @@
     "Journal/March 2025/9 March 2025 Sunday.md",
     "Journal/March 2025/8 March 2025 Saturday.md",
     "Journal/March 2025/7 March 2025 Friday.md",
-    "Journal/March 2025/6 March 2025 Thursday.md",
     "Journal/March 2025",
     "0-inbox/#UCSB Modules per Month.md#",
     "0-inbox/#CMU Modules per Month.md#",
