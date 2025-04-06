@@ -19,5 +19,16 @@ Analogy between QM interpetations and free will
 - Crypto sales
 - Trying to understand what happened in 2023
 - Decided to go TurboTax!
+- Did taxes.. 
+- Sent to dad
+- Owe 2.5k
 
 Some [[Myth of the Rational Voter]]
+
+Maddy over
+
+# Date Night ! 
+- Argentinina place ... not good 
+- de Fer: Great ... Live music and got a tumbler
+
+Late night taxes...
