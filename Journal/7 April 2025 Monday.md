@@ -79,4 +79,15 @@ Chat ables:
 # Hoops 
 - Good runs... Played well, bad shooting
 
-Chat Heather
+# Chat Heather
+- Chat 
+- Showed her the lab
+
+# Colloq 
+- Heather Gray Higgs coupling to quarks
+- Neutrino is grain of salt compared to whale for top-Higgs 
+- ttH: bb channel is the most sensitive
+- "most optimistic assumptions are 50%"  ---> now 70 - 85%!
+- Hbb was published twice on the same data
+- did first VH(cc) , µ 110 -> 26 -> 11
+- b-tagging Areas where performace has changed the most : ML has had biggest impact
