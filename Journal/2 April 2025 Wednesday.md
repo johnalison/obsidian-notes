@@ -15,7 +15,7 @@
 |     | Sindhu                           |     |
 | 3   | Titus                            |     |
 |     | UCSB ETC docs                    |     |
-| 4   | Pick up Grade                    |     |
+| 4   | Pick up / Grade Exam             |     |
 |     | Physics 3 endgame / Alcohol quiz |     |
 
 **W:** 7 
@@ -30,7 +30,7 @@
 ---
 # To Do
 
-- [ ]  Schedule FNAL badging appointment
+- [>>]  Schedule FNAL badging appointment
 - [x] Write up bootstrap study
 - [>>] Update ETC docs
 	- [x] Source Spreadsheet for UCSB 

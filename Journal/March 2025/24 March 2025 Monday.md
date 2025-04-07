@@ -61,6 +61,7 @@ M & T to school ... tough slough
 
 # [[Rui Xue Thesis Committee]]
 - see above
+- [[ToAddToCV]]
 
 # [[Truth Skimmer]]
 - re-sent link: https://cmu.app.box.com/folder/313225672031?s=k7gnuj2zaq52xe7507ev4tntqw8bprr8

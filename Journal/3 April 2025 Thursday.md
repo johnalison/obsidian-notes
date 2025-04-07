@@ -18,9 +18,9 @@
 | 4   | Kussela PITTPacc      |     |
 |     | Picked up Early       |     |
 
-**W:**
-**DW:**
-**OT:**
+**W:** 7 
+**DW:** 1
+**OT:** 1
 **ex** 
 
 ---
@@ -30,11 +30,11 @@
 ---
 # To Do
 
-- [ ] Checkout/Try cursor 
+- [>>] Checkout/Try cursor 
 - [x] Setup note book as scratch pad
-- [ ]  ETC for Module Factories
-- [ ] Cut flow wrt Marina
-- [ ] Update ETC docs
+- [ ] ETC for Module Factories
+- [>>] Cut flow wrt Marina
+- [>>] Update ETC docs
 - [x] Mixed data bootstrapping
 
 ---
@@ -59,7 +59,7 @@ Waiting for steph to drive us
 # [[Stats Data-Driven SR]]
 - Useful
 - Smearing hurts power some, but improves bias
-- Plot of FvT_CR vs FvT for SR defined with different smearing defintions
+- Plot of FvT_CR vs FvT for SR defined with different smearing definitions
 
 # Gym Steamroom
 - 3 Supersets (on watch)
@@ -84,6 +84,7 @@ Writing up bootstrapping... see above
 - External examiner for Florian Haslbeck
 - Daniela Bortoletto
 - Florian Haslbeckh’s PhD thesis. His work focuses on the legacy Run 2 analysis of HH → bbττ,
+(>>) [[ToAddToCV]]
 
 Finished writing up L2 responses to Emanuelle
 

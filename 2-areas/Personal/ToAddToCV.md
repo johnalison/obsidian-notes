@@ -68,8 +68,11 @@ ZZ/ZH -> 4b analysis out
 
 
 # Thesis committies:
-  
-
+-   [[Rui Xue Thesis Committee]]
+- External examiner Oxford
+	- External examiner for Florian Haslbeck
+	- Daniela Bortoletto
+	- Florian Haslbeckh’s PhD thesis. His work focuses on the legacy Run 2 analysis of HH → bbττ,
 
 # Outreach:
 

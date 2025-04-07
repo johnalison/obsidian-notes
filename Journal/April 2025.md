@@ -2,10 +2,10 @@
 | ---- | ----------------------------------------------------------------------------------- | ----- |
 | 1  T | Tyler Cowen to FP / Suzi Laid off / Claude AI / HGC ETC / Coinbase Lynn             | 7/2/2 |
 | 2  W | Taught / Bootstraping Synthetic / **Hoops** / **SoS public!** / Bootstrapping mixed | 7/2/1 |
-| 3  H | (No class)                                                                          |       |
-| 4  F | (No class / No Cyert)                                                               |       |
-| 5  S |                                                                                     |       |
-| 6  S |                                                                                     |       |
+| 3  H | (No class) Finish mixed bootstrap / **Gym/SR** / Rosen re:TAs / Kussela Pitt        | 7/1/1 |
+| 4  F | (No class/No Cyert) Reading / **Setting up Cursor** / M To carnival / FNAL flight   | -/-/- |
+| 5  S | Reading / Start Taxes / **Date Night!!** / Late Night taxes                         |       |
+| 6  S | reading / **Gym SR** / Lots more reading                                            |       |
 | 7  M | (Heather Colloq)                                                                    |       |
 | 8  T |                                                                                     |       |
 | 9  W |                                                                                     |       |
