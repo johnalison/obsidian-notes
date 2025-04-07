@@ -1,7 +1,11 @@
 
 # Logs
 
-
+## [[28 March 2025 Friday]]
+- AE: low pt selection
+- SM: memory errors
+- CL: not much 
+- JA: new AN and synthetic data
 
 ## [[Journal/28 February 2025 Friday|28 February 2025 Friday]]
 - Virtual

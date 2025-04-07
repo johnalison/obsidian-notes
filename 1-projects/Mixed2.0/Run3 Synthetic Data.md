@@ -35,6 +35,15 @@ v4:
 
 # Daily Logs
 
+## [[31 March 2025 Monday]]
+- Starting to bootstrap average uncertainty 
+- Script compute average and do bootstrapping:
+	- `python jet_clustering/bootstrap_correlation.py output/synthetic_dataset_analyze_all/synthetic_data_Run3_v8_new_16seeds_SvB_values.coffea `
+- Got the average of and the variance in a bin on SvB 
+- Got a list of SvB values by event id
+- [x] add weights... do bootstrap
+- [x] make some plots
+
 ## [[27 March 2025 Thursday]]
 - adding logic to make plots config a template to auto expand syn_vXXX
 - The 16 synthetic datasets look good! 

@@ -14,3 +14,5 @@ Some [[Time and Chance]]
 - 3 supersets
 - closegrip bench - lifts / incline dumbbell - row / stepup from raises
 - 10' at Tmax 122
+
+Lots more reading. 

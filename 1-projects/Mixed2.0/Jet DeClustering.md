@@ -96,6 +96,14 @@ Getting the new mixing going
 
 # Daily Logs
 
+## [[30 March 2025 Sunday]]
+- Start bootstrapping studies
+- Adding SvB event, run, LB to the output 
+- Tests look as expected...
+- Running all on **cmslpc334**
+- Done !
+- [>>] Script to compute variances
+
 ## [[5 March 2025 Wednesday]]
 - on **cmslpc304**
 - Making hists for v9 

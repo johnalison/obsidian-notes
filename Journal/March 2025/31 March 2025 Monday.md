@@ -41,11 +41,11 @@
 - [>>] Schedule FNAL badging appointment
 - [ ] Make sum/SB/SR plots presentation
 - [x] Move on Jim Parard
-- [ ] HGC Slides
+- [>>] HGC Slides
 - [>>] Update the ETC docs
-- [ ] Taxes
+- [>>] Taxes
 - [>>] Turnaround report
-- [ ] Understand changes in CMU CPI / UCSB CPI
+- [>>] Understand changes in CMU CPI / UCSB CPI
 
 ---
 
@@ -68,18 +68,10 @@ Moving forward on Jim
 - Mail to Seth Eisenberg re:investing
 
 # [[Run3 Synthetic Data]]
-- Starting to bootstrap average uncertainty 
-- Script compute average and do bootstrapping:
-	- `python jet_clustering/bootstrap_correlation.py output/synthetic_dataset_analyze_all/synthetic_data_Run3_v8_new_16seeds_SvB_values.coffea `
-- Got the average of and the variance in a bin on SvB 
-- Got a list of SvB values by event id
-- [x] add weights... do bootstrap
-- [x] make some plots
+- see above
 
 # [[Run3 HH4b Cutflow Challenge]]
-- Marina's cutflow is off
-	- requested events/run list
-	- [>>] Compare Events
+- See above
 
 # Hoops / Steamroom
 - 4s and 5s (2nd court)
@@ -112,15 +104,7 @@ Walk to Cyert... Walk home
 Some [[Myth of the Rational Voter]]
 
 # [[Wes' FNAL Talk]]
-- muon pt on the event display
-- s8 would start first with DM
-- then add ν with next slide
-- s11 add the leptons to the z* decay
-	- Say that the dM sets the scale of the lepton pT
-- s16 keep the larger legend on the right
-- s24 emphasis how important this is. low pt electron fake modeling!
-- s32 say that this is show this next week at Moriond for first time!
-- s32 add another slide that adds on the ATLAS figure for comparison
+- see above
 
 
 Late night Bootstrap studies

@@ -24,6 +24,12 @@ ACR: (AR_dHM >= 30) & (AR_dHM < 55)
 
 # Logs
 
+## [[31 March 2025 Monday]]
+- Marina's cutflow is off
+	- requested events/run list
+	- [>>] Compare Events
+
+
 ## [[17 March 2025 Monday]]
 - added pt_raw to debug output 
 - remade pkl file for Marina... sent 

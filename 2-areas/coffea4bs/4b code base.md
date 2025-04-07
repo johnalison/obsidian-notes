@@ -14,6 +14,19 @@
 
 # Logs
 
+
+## [[30 March 2025 Sunday]]
+-  Testing 2d plots 
+- Fixing CI
+- Merging with master 
+- [x] clean up interface
+- Split making the dict and plotting
+
+## [[28 March 2025 Friday]]
+- Working 2d plots 
+- Merged the 2d and 1d helper functions
+- Got the ratio going !!!
+
 ## [[24 March 2025 Monday]]
 - Roc Plots
 - Bug fix phh 
