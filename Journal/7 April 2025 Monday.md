@@ -37,9 +37,9 @@
 - [ ]  HGC Slides
 	- [ ] Understand changes in CMU CPI / UCSB CPI
 - [ ] Taxes
-- [ ] Schedule FNAL badging appointment
+- [x] Schedule FNAL badging appointment
 	- [ ] FNAL housing
-- [ ] Reply Lei
+- [x] Reply Lei
 - [ ] Update ETC docs
 
 ---
@@ -61,3 +61,6 @@ Chat ables:
 - [ ] Send resignation letter from Josh
 
 # [[CMU HGC MAC Meeting 8 April 2025]]
+
+# FNAL Trip April 2025
+- Badging Appointment You were successfully scheduled on 04/23/2025 at 10:50 AM
