@@ -75,3 +75,8 @@ Chat ables:
 - Collaborative Research: Curtis 
 - Optimizing Infrastructure: Sharon McCarl / Gordon Rule
 - "Will be told to cut budget even though we've been running a deficit"
+
+# Hoops 
+- Good runs... Played well, bad shooting
+
+Chat Heather
