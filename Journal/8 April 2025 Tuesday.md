@@ -8,8 +8,8 @@
 | 11  | Cutflow Debugging |     |
 |     | HGC Meeting       |     |
 | 12  | HGC Meeting       |     |
-|     |                   |     |
-| 1   |                   |     |
+|     | Review HGC slides |     |
+| 1   | Chat Lipika       |     |
 |     |                   |     |
 | 2   |                   |     |
 |     |                   |     |
