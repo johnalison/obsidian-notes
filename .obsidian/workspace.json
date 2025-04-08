@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/7 April 2025 Monday.md",
+                "file": "Journal/8 April 2025 Tuesday.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7 April 2025 Monday"
+              "title": "8 April 2025 Tuesday"
             }
           },
           {
@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-projects/HGC/HGC Estimate to complete Spring 2025.md",
+                "file": "1-projects/HH4b/Run3 HH4b Cutflow Challenge.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HGC Estimate to complete Spring 2025"
+              "title": "Run3 HH4b Cutflow Challenge"
             }
           },
           {
@@ -63,7 +63,8 @@
               "title": "MAC meeting 19 March 2025"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -136,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/7 April 2025 Monday.md",
+                "file": "1-projects/HH4b/Run3 HH4b Cutflow Challenge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 7 April 2025 Monday"
+              "title": "Backlinks for Run3 HH4b Cutflow Challenge"
             }
           },
           {
@@ -155,12 +156,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/7 April 2025 Monday.md",
+                "file": "1-projects/HH4b/Run3 HH4b Cutflow Challenge.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 7 April 2025 Monday"
+              "title": "Outgoing links from Run3 HH4b Cutflow Challenge"
             }
           },
           {
@@ -182,10 +183,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/7 April 2025 Monday.md"
+                "file": "1-projects/HH4b/Run3 HH4b Cutflow Challenge.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 7 April 2025 Monday"
+              "title": "Outline of Run3 HH4b Cutflow Challenge"
             }
           },
           {
@@ -217,34 +218,34 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fc815f580673f57e",
+  "active": "7599ffa8d4ccfd38",
   "lastOpenFiles": [
-    "0-inbox/CMU HGC MAC Meeting 8 April 2025.md",
+    "Journal/8 April 2025 Tuesday.md",
     "Journal/7 April 2025 Monday.md",
+    "1-projects/HH4b/Run3 HH4b Cutflow Challenge.md",
     "Journal/April 2025.md",
     "Journal/6 April 2025 Sunday.md",
     "Journal/5 April 2025 Saturday.md",
     "Journal/4 April 2025 Friday.md",
     "Journal/3 April 2025 Thursday.md",
-    "Journal/March 2025/25 March 2025 Tuesday.md",
-    "Journal/March 2025/26 March 2025 Wednesday.md",
-    "Journal/March 2025/24 March 2025 Monday.md",
-    "2-areas/Personal/ToAddToCV.md",
-    "1-projects/HGC/HGC Estimate to complete Spring 2025.md",
     "Journal/2 April 2025 Wednesday.md",
     "Journal/1 April 2025 Tuesday.md",
-    "Journal/March 2025/31 March 2025 Monday.md",
-    "Journal/March 2025/30 March 2025 Sunday.md",
-    "Journal/March 2025/29 March 2025 Saturday.md",
-    "Journal/March 2025/28 March 2025 Friday.md",
-    "0-inbox/Wes' FNAL Talk.md",
-    "Journal/March 2025/7 March 2025 Friday.md",
-    "Journal/March 2025/14 March 2025 Friday.md",
-    "Journal/March 2025/21 March 2025 Friday.md",
+    "0-inbox/Bootstrapping Synthetic Data Stat Uncertainties.md",
+    "2-areas/Philosophy/Quotes.md",
+    "0-inbox/HGCManagementMeeting 1 April 2025.md",
+    "Journal/March 2025/25 March 2025 Tuesday.md",
+    "Journal/March 2025/26 March 2025 Wednesday.md",
     "Journal/March 2025/27 March 2025 Thursday.md",
-    "Journal/January 2025/5 January 2025 Sunday.md",
-    "Journal/2024/December/17 December 2024 Tuesday.md",
-    "Journal/2024/November 2024.md",
+    "Journal/March 2025/28 March 2025 Friday.md",
+    "Journal/March 2025/29 March 2025 Saturday.md",
+    "Journal/March 2025/30 March 2025 Sunday.md",
+    "Journal/March 2025/31 March 2025 Monday.md",
+    "0-inbox/HGC Database.md",
+    "1-projects/HGC/HGC Estimate to complete Spring 2025.md",
+    "0-inbox/CMU HGC MAC Meeting 8 April 2025.md",
+    "Journal/March 2025/24 March 2025 Monday.md",
+    "2-areas/Personal/ToAddToCV.md",
+    "0-inbox/Wes' FNAL Talk.md",
     "Journal/March 2025",
     "0-inbox/#UCSB Modules per Month.md#",
     "0-inbox/#CMU Modules per Month.md#",

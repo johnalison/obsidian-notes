@@ -15,7 +15,7 @@ Analogy between QM interpetations and free will
 	- https://www.youtube.com/watch?v=FjAYvhv1-Lg&t=3955s
 
 
-# Taxes
+# [[Taxes 2025]]
 - Got my tax info
 - Crypto sales
 - Trying to understand what happened in 2023

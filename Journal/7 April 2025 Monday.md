@@ -4,28 +4,28 @@
 | 9   | Teach                        |     |
 |     | Teach                        |     |
 | 10  | setup / Ables / Marina / dad |     |
-|     |                              |     |
+|     | FNAL Trip                    |     |
 | 11  | FNAL Housing                 |     |
 |     | Townhall                     |     |
 | 12  | Hoops                        |     |
 |     | Hoops                        |     |
-| 1   |                              |     |
-|     |                              |     |
+| 1   | Hoops                        |     |
+|     | Hoops                        |     |
 | 2   | Heather Gray                 |     |
 |     | Heather Gray                 |     |
 | 3   |                              |     |
 |     | Colloq                       |     |
 | 4   | Colloq                       |     |
-|     |                              |     |
+|     | Reception / Chat             |     |
 
-**W:**
-**DW:**
-**OT:**
-**ex** or **No ex**
+**W:** 6
+**DW:** 1
+**OT:** 1
+**ex** 
 
 ---
 # The ONE thing: 
-- [ ] FNAL Housing 
+- [x] FNAL Housing 
 
 ---
 # To Do
@@ -33,10 +33,10 @@
 - [x] Ping Dad re:taxes
 - [x] Chat Abels re:positions
 - [x] Chat Wes re:interview
-- [ ] Cut flow with Marina 
-- [ ]  HGC Slides
+- [>>] Cut flow with Marina 
+- [>>]  HGC Slides
 	- [ ] Understand changes in CMU CPI / UCSB CPI
-- [ ] Taxes
+- [>>] Taxes
 - [x] Schedule FNAL badging appointment
 	- [x] FNAL housing
 - [x] Reply Lei
@@ -58,14 +58,13 @@ setup
 Pinged dad re:taxes
 
 Chat ables: 
-- [ ] Send resignation letter from Josh
+- [>>] Send resignation letter from Josh
 
-# [[CMU HGC MAC Meeting 8 April 2025]]
+Start [[CMU HGC MAC Meeting 8 April 2025]]
 
-
-# FNAL Trip April 2025
+# [[FNAL Trip April 2025]]
 - Badging Appointment You were successfully scheduled on 04/23/2025 at 10:50 AM
-- Filled out Houseing request form.
+- Filled out Housing request form.
 	- https://fermi.servicenowservices.com/wp?id=evg-kb-article&sys_id=7803da8b47dd9a1093e40bd2e16d430f
 	- Sent mail with Housing request
 
@@ -95,5 +94,7 @@ Chat ables:
 
 # Lei Zhao Accepts for masters program ! 
 
+
 # Colloq dinner
 - Heather / Valentina / Tae / Peter / Pritam
+

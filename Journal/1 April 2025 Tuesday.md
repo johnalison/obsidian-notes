@@ -1,22 +1,22 @@
 
-|     |                    |         |
-| --- | ------------------ | ------- |
-| 9   | to campus          |         |
-|     | ~~Chat Wes~~       | Chat MP |
-| 10  | setup              |         |
-|     | HGC DB Moves       |         |
-| 11  | Outreach Meeting   |         |
-|     | MAC Meeting        |         |
-| 12  | MAC Meeting        |         |
-|     | Chat Dylan         |         |
-| 1   | Chat Joe I / Peter |         |
-|     | Turnaround report  |         |
-| 2   | ETC Spreadsheet    |         |
-|     | Sindhu             |         |
-| 3   | Mans Meeting       |         |
-|     | Mans Meeting       |         |
-| 4   | ETC Spreadsheet    |         |
-|     | ETC Spreadsheet    |         |
+|     |                      |         |
+| --- | -------------------- | ------- |
+| 9   | to campus            |         |
+|     | ~~Chat Wes~~         | Chat MP |
+| 10  | setup                |         |
+|     | HGC DB Moves         |         |
+| 11  | Outreach Meeting     |         |
+|     | MAC Meeting          |         |
+| 12  | MAC Meeting          |         |
+|     | Chat Dylan           |         |
+| 1   | Chat Joe Inc / Peter |         |
+|     | Turnaround report    |         |
+| 2   | ETC Spreadsheet      |         |
+|     | Sindhu               |         |
+| 3   | Mans Meeting         |         |
+|     | Mans Meeting         |         |
+| 4   | ETC Spreadsheet      |         |
+|     | ETC Spreadsheet      |         |
 
 **W:** 7 
 **DW:** 2
@@ -66,14 +66,11 @@ Setup
 - All good with Picards offer
 
 
-# HGC DB work
-- Sindhu sent script for module counts: https://github.com/cmu-hgc-mac/HGC_DB_postgres/blob/main/mac_public/module_counts_for_month.py
-- `py module_counts_for_month.py -m 3 -y 2025 -mac UCSB`
-- [[CMU Modules per Month]]
-- [[UCSB Modules per Month]]
+# [[HGC Database]]
+- see above
 
 
-# Bootstrap Study
+# [[Bootstrapping Synthetic Data Stat Uncertainties]]
 - See big errors (as expected) with only using v0 !
 - Start slides
 
@@ -84,8 +81,7 @@ Setup
 
 
 # Chat [[Dylan Kang]] and Sindhu
-- metabase not recommended to use local option
-- apache Superset seems to be a free open source alternative
+- see above
 
 # Check out Claude AI
 - Signed up with claude pro
@@ -95,22 +91,11 @@ Chat with Joe re:FNAL funds
 Did [[CAM Turnaround Report]] ... see below
 
 # Working [[HGC Estimate to complete Spring 2025]]
-- DocDB: CMU   https://cms-docdb.cern.ch/cgi-bin/DocDB/ShowDocument?docid=14209
-- [>>] Source Spreadsheet for UCSB 
-- [>>] ETC for Module Factories
+- See logs above
 
 
 # [[HGCManagementMeeting 1 April 2025]]
-- Moves: 
-- l140     SM61440	ECM: Procurement of final  module factory tooling for Site 2 (80 -> 90%)
-- l143      SM61430	ECM: Procurement of final  module factory tooling for UCSB (10->50%)
-- l170        SM40140	ECM-Assemble and test module 1-80 at Site 2 (25->37%)
-- l171    SM4015 ECM- Supervise assembly and testing of modules 1-80 at Site 2 (25->37%)
-- l172          SM40170	ECM-Ship module 1 to 80 from Site 2 to Cassette Assembly Site (start )
-- l189        SM50180	T5 - Start of Module Production (UCSB) (start)
-- l190 SM50210	ECM: Cleanroom consumables (UCSB)
-- [[CMU Modules per Month]]
-- [[UCSB Modules per Month]]
+- see above
 
 Pinged Ables re:Another Tech 3 Ad
 

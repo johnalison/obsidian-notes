@@ -54,7 +54,7 @@ M&T to school
 - Start stationary states
 
 *"Great ideas often look wrong at first; that's why the independent-minded discover them."*
-- Shane Parish 
+- Shane Parish [[Quotes]]
 
 [[Bootstrapping Synthetic Data Stat Uncertainties]]
 
@@ -119,3 +119,5 @@ S order Schullies !
 	- `python jet_clustering/mixing_correlation_prep_data.py output/analysis_test_mixed_job/mixedData_wSvB.coffea  output/analysis_test_mixed_job/dataMixed_hNumbers.coffea `
 - Made merged dataset
 - [>>] Bootstrap with hemisphere weights
+
+# Chat Olivito

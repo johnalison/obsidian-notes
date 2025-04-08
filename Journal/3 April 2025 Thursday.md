@@ -32,7 +32,7 @@
 
 - [>>] Checkout/Try cursor 
 - [x] Setup note book as scratch pad
-- [ ] ETC for Module Factories
+- [>>] ETC for Module Factories
 - [>>] Cut flow wrt Marina
 - [>>] Update ETC docs
 - [x] Mixed data bootstrapping

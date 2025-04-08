@@ -6,7 +6,7 @@
 | 4  F | (No class/No Cyert) Reading / **Setting up Cursor** / M To carnival / FNAL flight   | -/-/- |
 | 5  S | Reading / Start Taxes / **Date Night!!** / Late Night taxes                         |       |
 | 6  S | reading / **Gym SR** / Lots more reading                                            |       |
-| 7  M | (Heather Colloq)                                                                    |       |
+| 7  M | Taught / FNAL Housing /  **Hoops** / Chat Heather Gray / Colloq / Dinner            | 6/1/1 |
 | 8  T |                                                                                     |       |
 | 9  W |                                                                                     |       |
 | 10 H |                                                                                     |       |

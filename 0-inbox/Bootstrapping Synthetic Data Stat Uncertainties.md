@@ -12,6 +12,10 @@ Thinking about bootstrapping to get statistical uncertainties on a histogram
 
 - split dataset creation and study
 
+
+-  See big errors (as expected) with only using v0 !
+- Start slides
+
 # Follow-ups
 
 

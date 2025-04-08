@@ -21,10 +21,12 @@ Clean up plotting code
 
 Updated [[CMU CMS Webpage]] with Cursor
 
+
+# [[FNAL Trip April 2025]]
 Book Travel to FNAL April 2025
 - Flight $389.96
-- [ ] Get housing:  https://get-connected.fnal.gov/housing/
-- [ ] Rental Car 
+- [x] Get housing:  https://get-connected.fnal.gov/housing/
+- [ ] Rental Car ?
 
 
 Some [[Hamlet]]

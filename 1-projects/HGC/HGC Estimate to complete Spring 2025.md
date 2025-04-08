@@ -13,6 +13,10 @@ Bottom-up Labor:
 
 # Logs
 
+## [[1 April 2025 Tuesday]]
+- DocDB: CMU   https://cms-docdb.cern.ch/cgi-bin/DocDB/ShowDocument?docid=14209
+- [>>] Source Spreadsheet for UCSB 
+- [>>] ETC for Module Factories
 
 ## [[25 March 2025 Tuesday]]
 - Starting CMU doc: 

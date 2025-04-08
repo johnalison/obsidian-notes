@@ -17,7 +17,8 @@ If an opinion contrary to your own makes you angry, that is a sign that you are 
 
 "Urge immediate abolition as earnestly as we may, it will alas! be gradual abolition in the end. We have never said that slavery would be overthrown by a single blow; that it ougt to be, we shall always contend."  (William Llyod Garrison)
 
-
+*"Great ideas often look wrong at first; that's why the independent-minded discover them."*
+- Shane Parish
 
 # Follow-ups
 
