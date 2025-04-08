@@ -59,3 +59,5 @@ To Campus
 - Marina's file has all the data events... How to get only the 4b CR events ? pinged her
 
 # [[CMU HGC MAC Meeting 8 April 2025]]
+
+[[HGC Estimate to complete Spring 2025]]
