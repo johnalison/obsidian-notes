@@ -1,3 +1,50 @@
+# News
+- Tooling coming in....
+- Made all 14/15 good v3c 
+- New tooling v3b CuT
+
+
+
+
+# Action
+- [x] Arrange pickup of UCSB tooling
+- [ ] Follow up with FMS re:humidity (Jeff Harris)
+- [ ] Order transfer tape ... 
+- [ ] I just wanted to urge all of you to test your Juloabo chillers as soon as you are able to.  During the initial tests at TTU, Vladimir found out that our chiller needed repairs despite being brand new.  So, we are sending it back after consulting with Julabo.  Luckily we still had the shipping crate.  So, please test it and make sure it works properly.  Vladimir can give you more info if you need it.
+
+# Jessica
+- 14/15 grade B or better...
+- Rotational offsets should be revisited 
+- Figuring out dry air in single module test stand
+- adding mounting to gantry
+- auto particulate counter ... on burner
+- Started notes for tomorrow
+
+# Josh
+- Getting 2nd encapsulation station going
+
+# Jonas 
+- Dry air shelving / Gantry mounting
+- scratch pad pictures -> digits 
+
+# Ornella
+- Protocol for module assembly
+- make place in the dry air cabinets 
+- Understanding the workflow
+
+# Andrew
+- Tests
+
+
+# Manami 
+- intr DB working
+
+# Sindhu
+- Joe asked for slides for annual review talk
+- hickup with reusing parts... add warning
+
+
+
 
 
 # Plan from Jessica:
