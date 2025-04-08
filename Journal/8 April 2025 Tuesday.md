@@ -79,5 +79,7 @@ Dad OKs the tax return
 
 # Fighting with cutflow
 
+
 # HGC Management Meeting
+- Tariff discussion
 - 
