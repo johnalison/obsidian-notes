@@ -63,8 +63,7 @@
               "title": "MAC meeting 19 March 2025"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -137,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-projects/HH4b/Run3 HH4b Cutflow Challenge.md",
+                "file": "Journal/8 April 2025 Tuesday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +146,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Run3 HH4b Cutflow Challenge"
+              "title": "Backlinks for 8 April 2025 Tuesday"
             }
           },
           {
@@ -156,12 +155,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-projects/HH4b/Run3 HH4b Cutflow Challenge.md",
+                "file": "Journal/8 April 2025 Tuesday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Run3 HH4b Cutflow Challenge"
+              "title": "Outgoing links from 8 April 2025 Tuesday"
             }
           },
           {
@@ -183,10 +182,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-projects/HH4b/Run3 HH4b Cutflow Challenge.md"
+                "file": "Journal/8 April 2025 Tuesday.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Run3 HH4b Cutflow Challenge"
+              "title": "Outline of 8 April 2025 Tuesday"
             }
           },
           {
@@ -218,11 +217,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7599ffa8d4ccfd38",
+  "active": "fc815f580673f57e",
   "lastOpenFiles": [
+    "1-projects/HH4b/Run3 HH4b Cutflow Challenge.md",
     "Journal/8 April 2025 Tuesday.md",
     "Journal/7 April 2025 Monday.md",
-    "1-projects/HH4b/Run3 HH4b Cutflow Challenge.md",
     "Journal/April 2025.md",
     "Journal/6 April 2025 Sunday.md",
     "Journal/5 April 2025 Saturday.md",
