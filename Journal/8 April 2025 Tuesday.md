@@ -59,7 +59,7 @@ To Campus
 - Marina's file has all the data events... How to get only the 4b CR events ? pinged her
 - Got instructions for CR events
 - skipping the input file for 4Tag events
-- 
+- fighting with trying to filter the 4b events
 
 # [[CMU HGC MAC Meeting 8 April 2025]]
 
@@ -76,3 +76,8 @@ Dad OKs the tax return
 [[HGC Review Slides]]
 - CD3 Review: https://indico.fnal.gov/event/61613/
 - pwd: uscmscd3
+
+# Fighting with cutflow
+
+# HGC Management Meeting
+- 
