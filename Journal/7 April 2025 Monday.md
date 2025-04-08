@@ -91,3 +91,9 @@ Chat ables:
 - Hbb was published twice on the same data
 - did first VH(cc) , µ 110 -> 26 -> 11
 - b-tagging Areas where performace has changed the most : ML has had biggest impact
+
+
+# Lei Zhao Accepts for masters program ! 
+
+# Colloq dinner
+- Heather / Valentina / Tae / Peter / Pritam
