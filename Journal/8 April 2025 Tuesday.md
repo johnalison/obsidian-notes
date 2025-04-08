@@ -35,7 +35,7 @@
 - [ ] HGC Slides
 - [ ] FNAL Rental Car ?
 - [ ] Send resignation letter from Josh
-- [ ]  Cut flow with Marina 
+- [ ] Cut flow with Marina 
 - [ ] Taxes
 - [ ] Spare bond head
 - [ ] Xfinity 
@@ -70,3 +70,9 @@ Chat Lipika
 
 
 More [[Run3 HH4b Cutflow Challenge]]
+
+Dad OKs the tax return
+
+[[HGC Review Slides]]
+- CD3 Review: https://indico.fnal.gov/event/61613/
+- pwd: uscmscd3

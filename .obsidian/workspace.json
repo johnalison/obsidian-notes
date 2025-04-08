@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "vangu moves",
+                "query": "manfred",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -143,8 +143,7 @@
               "title": "Files"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -247,10 +246,10 @@
   },
   "active": "fc815f580673f57e",
   "lastOpenFiles": [
-    "1-projects/HGC/HGC Estimate to complete Spring 2025.md",
-    "Journal/8 April 2025 Tuesday.md",
-    "0-inbox/CMU HGC MAC Meeting 8 April 2025.md",
     "0-inbox/CMU HGC MAC Meeting 1 April 2025.md",
+    "Journal/8 April 2025 Tuesday.md",
+    "1-projects/HGC/HGC Estimate to complete Spring 2025.md",
+    "0-inbox/CMU HGC MAC Meeting 8 April 2025.md",
     "Journal/1 April 2025 Tuesday.md",
     "1-projects/HH4b/Run3 HH4b Cutflow Challenge.md",
     "Journal/7 April 2025 Monday.md",
