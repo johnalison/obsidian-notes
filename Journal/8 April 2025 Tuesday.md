@@ -82,4 +82,7 @@ Dad OKs the tax return
 
 # HGC Management Meeting
 - Tariff discussion
-- 
+
+
+HGC WADs 
+- https://cms-docdb.cern.ch/cgi-bin/DocDB/ShowDocument?docid=14000
