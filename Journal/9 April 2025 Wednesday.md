@@ -66,3 +66,7 @@ M & T To school
 More [[Run3 HH4b Cutflow Challenge]]
 
 
+# Setting up remote files for 
+- `brew install sshfs
+- brew install --cask macfuse
+
