@@ -69,4 +69,16 @@ More [[Run3 HH4b Cutflow Challenge]]
 # Setting up remote files for 
 - `brew install sshfs
 - brew install --cask macfuse
+- Failed... Just connect through ssh
 
+Chat Sindhu
+
+Setting up Cursor
+- Fixing the keybindings....
+
+
+Chat Wes and AE
+
+Got kids...
+
+Dinner

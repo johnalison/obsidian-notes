@@ -99,5 +99,21 @@
       ],
       "key": "X"
     }
+  ],
+  "emacs-text-editor:forward-word": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "F"
+    }
+  ],
+  "emacs-text-editor:backward-word": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "B"
+    }
   ]
 }
