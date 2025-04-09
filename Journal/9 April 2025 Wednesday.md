@@ -51,7 +51,8 @@ M & T To school
 - adding `event` and `run` to the skim
 - 50% of events different !
 - run `355872`: 94 missing events
-  First 5 missing events: [228793492, 993131619, 994277091, 995618735, 1003079747, 1145575379, 917646697, 1086081738, 276519899, 321185192
+  First 10 missing events: `[228793492, 993131619, 994277091, 995618735, 1003079747, 1145575379, 917646697, 1086081738, 276519899, 321185192 ... 
+  - `python runner.py   -o synthetic_data_Run3_v8_debug_seedXXX.coffea -d data  -p analysis/processors/processor_HH4b.py -y 2022_preEE   -op output/synthetic_dataset_analyze_all -c analysis/metadata/HH4b_run_fastTopReco.yml -m metadata/datasets_HH4b_Run3_fourTag_v8.yml`
 
 # bbWW
 - Not much 
