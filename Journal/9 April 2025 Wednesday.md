@@ -3,8 +3,8 @@
 | --- | -------- | --- |
 | 9   | Teaching |     |
 |     | Teaching |     |
-| 10  |          |     |
-|     |          |     |
+| 10  | bbWW     |     |
+|     | bbWW     |     |
 | 11  |          |     |
 |     | Sam      |     |
 | 12  | Hoops    |     |
@@ -34,7 +34,7 @@
 - [ ] HGC Slides
 - [ ] Marina Cutflow
 - [ ] Local Taxes
-- [ ] 
+- [ ] Make klX work interactively in iPlot
 
 ---
 
@@ -49,4 +49,5 @@ M & T To school
 
 # [[Run3 HH4b Cutflow Challenge]]
 - adding `event` and `run` to the skim
-- 
+
+
