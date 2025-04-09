@@ -10,13 +10,13 @@
 | 12  | HGC Meeting       |     |
 |     | Review HGC slides |     |
 | 1   | Chat Lipika       |     |
-|     |                   |     |
-| 2   |                   |     |
-|     |                   |     |
+|     | Cutflow Debugging |     |
+| 2   | Cutflow Debugging |     |
+|     | Cutflow Debugging |     |
 | 3   | Mans              |     |
 |     | Mans              |     |
 | 4   | Mans              |     |
-|     |                   |     |
+|     | Chat Eliese       |     |
 
 **W:**
 **DW:**
@@ -30,15 +30,16 @@
 ---
 # To Do
 
-- [ ] Ping MP re: spending statement of work
+- [x] Ping MP re: spending statement of work
 - [ ] ETC for Module Factories
 - [ ] HGC Slides
 - [ ] FNAL Rental Car ?
-- [ ] Send resignation letter from Josh
+- [x] Send resignation letter from Josh
 - [ ] Cut flow with Marina 
 - [ ] Taxes
-- [ ] Spare bond head
+- [x] Spare bond head
 - [ ] Xfinity 
+- [ ] Steve personell survey
 
 ---
 
@@ -82,7 +83,21 @@ Dad OKs the tax return
 
 # HGC Management Meeting
 - Tariff discussion
+- Discussed spare bond head ... kick the can down the road
 
 
 HGC WADs 
 - https://cms-docdb.cern.ch/cgi-bin/DocDB/ShowDocument?docid=14000
+- https://cms-docdb.cern.ch/cgi-bin/DocDB/ShowDocument?docid=14003
+
+
+Pinged Pritam re: [[MMTS purchasing]]
+
+Chat Curtis re: Jim Pacard 
+
+Home
+
+Pick up H 
+
+Filing taxes: 
+pins: 01234
