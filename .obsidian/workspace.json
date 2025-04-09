@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/9 April 2025 Wednesday.md",
+                "file": "1-projects/HH4b/Run3 HH4b Cutflow Challenge.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "9 April 2025 Wednesday"
+              "title": "Run3 HH4b Cutflow Challenge"
             }
           },
           {
@@ -163,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/9 April 2025 Wednesday.md",
+                "file": "1-projects/HH4b/Run3 HH4b Cutflow Challenge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 9 April 2025 Wednesday"
+              "title": "Backlinks for Run3 HH4b Cutflow Challenge"
             }
           },
           {
@@ -182,12 +182,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/9 April 2025 Wednesday.md",
+                "file": "1-projects/HH4b/Run3 HH4b Cutflow Challenge.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 9 April 2025 Wednesday"
+              "title": "Outgoing links from Run3 HH4b Cutflow Challenge"
             }
           },
           {
@@ -209,10 +209,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/9 April 2025 Wednesday.md"
+                "file": "1-projects/HH4b/Run3 HH4b Cutflow Challenge.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 9 April 2025 Wednesday"
+              "title": "Outline of Run3 HH4b Cutflow Challenge"
             }
           },
           {
@@ -246,8 +246,8 @@
   },
   "active": "fc815f580673f57e",
   "lastOpenFiles": [
-    "2-areas/coffea4bs/4b code base.md",
     "Journal/9 April 2025 Wednesday.md",
+    "2-areas/coffea4bs/4b code base.md",
     "Journal/8 April 2025 Tuesday.md",
     "Journal/April 2025.md",
     "Journal/7 April 2025 Monday.md",
