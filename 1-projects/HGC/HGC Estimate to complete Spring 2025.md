@@ -13,6 +13,14 @@ Bottom-up Labor:
 
 # Logs
 
+## [[2 April 2025 Wednesday]]
+- [[HGC MAC BoEs]]
+- Update UCSB bottom-up labor estimate : 
+	- https://docs.google.com/spreadsheets/d/1V91SoHVxcbnE7U5_f1YQ-0o4fRP4you8/edit?gid=1210363411#gid=1210363411
+- Update doc file. 
+- Posted to docDB
+
+
 ## [[1 April 2025 Tuesday]]
 - DocDB: CMU   https://cms-docdb.cern.ch/cgi-bin/DocDB/ShowDocument?docid=14209
 - [>>] Source Spreadsheet for UCSB 

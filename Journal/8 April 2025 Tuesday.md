@@ -18,10 +18,10 @@
 | 4   | Mans              |     |
 |     | Chat Eliese       |     |
 
-**W:**
-**DW:**
-**OT:**
-**ex** or **No ex**
+**W:** 8 
+**DW:** 3
+**OT:** 3
+ **No ex**
 
 ---
 # The ONE thing: 
@@ -32,14 +32,15 @@
 
 - [x] Ping MP re: spending statement of work
 - [ ] ETC for Module Factories
-- [ ] HGC Slides
-- [ ] FNAL Rental Car ?
+- [>>] HGC Slides
+- [>>] FNAL Rental Car ?
 - [x] Send resignation letter from Josh
-- [ ] Cut flow with Marina 
-- [ ] Taxes
+- [>>] Cut flow with Marina 
+- [x] Taxes
+	- [>>] Local Taxes
 - [x] Spare bond head
 - [ ] Xfinity 
-- [ ] Steve personell survey
+- [x] Steve personell survey
 
 ---
 
@@ -61,6 +62,9 @@ To Campus
 - Got instructions for CR events
 - skipping the input file for 4Tag events
 - fighting with trying to filter the 4b events
+
+
+Pinged L2 conveners about unblinding HH->4b
 
 # [[CMU HGC MAC Meeting 8 April 2025]]
 
@@ -101,3 +105,6 @@ Pick up H
 
 Filing taxes: 
 pins: 01234
+
+Some [[Time and Chance]]
+

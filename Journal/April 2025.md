@@ -7,7 +7,7 @@
 | 5  S | Reading / Start Taxes / **Date Night!!** / Late Night taxes                         |       |
 | 6  S | reading / **Gym SR** / Lots more reading                                            |       |
 | 7  M | Taught / FNAL Housing /  **Hoops** / Chat Heather Gray / Colloq / Dinner            | 6/1/1 |
-| 8  T |                                                                                     |       |
+| 8  T |                                                                                     | 8/3/3 |
 | 9  W |                                                                                     |       |
 | 10 H |                                                                                     |       |
 | 11 F |                                                                                     |       |
