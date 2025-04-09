@@ -43,3 +43,10 @@
 Up at 7 
 
 M & T To school 
+
+# Taught 
+- Finite square well / SHO
+
+# [[Run3 HH4b Cutflow Challenge]]
+- adding `event` and `run` to the skim
+- 
