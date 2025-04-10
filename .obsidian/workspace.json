@@ -91,8 +91,7 @@
               "title": "CMU HGC MAC Meeting 1 April 2025"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "lumi",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -164,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/10 April 2025 Thursday.md",
+                "file": "Journal/9 April 2025 Wednesday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +173,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 10 April 2025 Thursday"
+              "title": "Backlinks for 9 April 2025 Wednesday"
             }
           },
           {
@@ -183,12 +182,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/10 April 2025 Thursday.md",
+                "file": "Journal/9 April 2025 Wednesday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 10 April 2025 Thursday"
+              "title": "Outgoing links from 9 April 2025 Wednesday"
             }
           },
           {
@@ -210,10 +209,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/10 April 2025 Thursday.md"
+                "file": "Journal/9 April 2025 Wednesday.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 10 April 2025 Thursday"
+              "title": "Outline of 9 April 2025 Wednesday"
             }
           },
           {
@@ -242,15 +241,17 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "smart-connections:Open: View Smart Connections": false,
+      "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "bdeeae18e3c09e2d",
+  "active": "57d8ec713c650d2b",
   "lastOpenFiles": [
-    "Journal/2024/October/9 October 2024 Wednesday.md",
     "Journal/10 April 2025 Thursday.md",
     "Journal/April 2025.md",
     "Journal/9 April 2025 Wednesday.md",
+    "Journal/2024/October/9 October 2024 Wednesday.md",
     "0-inbox/CMU HGC MAC Meeting 1 April 2025.md",
     "Journal/2024/April 2024.md",
     "Journal/8 April 2025 Tuesday.md",

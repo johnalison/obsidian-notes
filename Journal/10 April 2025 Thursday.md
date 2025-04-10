@@ -72,3 +72,16 @@ M & T to school
 - Paid Steph
 - Main message is the core doesnt work for Astro students
 - Discussion of AstroProgram
+
+# Chat [[Tony Boyle]]
+- still fucking up delta phi
+
+# Setting up MCP server
+- installed Claude desktop 
+- **> brew install uv**
+- Installed the smart connections obsidian plugin
+
+
+# [[Run3 HH4b Cutflow Challenge]]
+- Fixed bug with region
+- 
