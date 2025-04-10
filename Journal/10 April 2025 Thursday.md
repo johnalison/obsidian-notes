@@ -69,4 +69,6 @@ M & T to school
 
 
 # Faculty Meeting
-- 
+- Paid Steph
+- Main message is the core doesnt work for Astro students
+- Discussion of AstroProgram

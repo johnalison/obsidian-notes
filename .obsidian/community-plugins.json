@@ -10,5 +10,8 @@
   "remember-cursor-position",
   "excalibrain",
   "dataview",
-  "calendar"
+  "calendar",
+  "mcp-tools",
+  "smart-connections",
+  "obsidian-local-rest-api"
 ]
