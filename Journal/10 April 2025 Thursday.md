@@ -7,7 +7,7 @@
 |     | Teach        |     |
 | 11  | Stats Chat   |     |
 |     | Stats Chat   |     |
-| 12  |              |     |
+| 12  | Chat AE      |     |
 |     | Faculty      |     |
 | 1   | Faculty      |     |
 |     | Tony         |     |
@@ -63,4 +63,10 @@ M & T to school
 - [ ] Claude desktop 
 - [ ] setup MCP
 
+# Chat AE
+- plan to execute on Mengs meeting
+- sent info re:skimming and checking lumisection
 
+
+# Faculty Meeting
+- 
