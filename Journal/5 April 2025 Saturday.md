@@ -29,7 +29,7 @@ Some [[Myth of the Rational Voter]]
 Maddy over
 
 # Date Night ! 
-- Argentinina place ... not good 
+- Argentinian place ... not good 
 - de Fer: Great ... Live music and got a tumbler
 
 Late night taxes...

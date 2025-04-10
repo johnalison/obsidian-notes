@@ -6,6 +6,11 @@ Links:
 
 # Log
 
+## [[3 April 2025 Thursday]]
+- Useful meeting
+- Smearing hurts power some, but improves bias
+- Plot of FvT_CR vs FvT for SR defined with different smearing definitions
+
 ## [[27 March 2025 Thursday]]
 - Discussed impact of smearing on quality of background modelling
 

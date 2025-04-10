@@ -46,20 +46,13 @@ Up 730
 Waiting for steph to drive us
 
 # More [[Bootstrapping mixed data]]
-- Adding hemi weights
-- Starting bootstrapping script
-- Made bootstraping plot! 
-- https://chatgpt.com/share/67ee8c4f-9c7c-8000-beb0-e68ce34888ae
-- Got it going...
-- [x] Write up weight calc
+- See above
 
 # Chat AE
 - Make plots of physical signal by weighting by q-score
 
 # [[Stats Data-Driven SR]]
-- Useful
-- Smearing hurts power some, but improves bias
-- Plot of FvT_CR vs FvT for SR defined with different smearing definitions
+- See logs above
 
 # Gym Steamroom
 - 3 Supersets (on watch)
@@ -90,3 +83,4 @@ Finished writing up L2 responses to Emanuelle
 
 Some [[Myth of the Rational Voter]]
 Some [[Time and Chance]]
+

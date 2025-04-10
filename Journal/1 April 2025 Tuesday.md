@@ -37,7 +37,7 @@
 - [>>] Review March
 - [x] Turnaround report
 - [>>] Cut flow wrt Marina
-- [ ] Prepare Party for Josh
+- [>>] Prepare Party for Josh
 - [x] Another Lab tech Ad out
 - [x] Review Wes's slides
 

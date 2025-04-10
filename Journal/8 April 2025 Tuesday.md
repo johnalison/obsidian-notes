@@ -31,7 +31,7 @@
 # To Do
 
 - [x] Ping MP re: spending statement of work
-- [ ] ETC for Module Factories
+- [>>] ETC for Module Factories
 - [>>] HGC Slides
 - [>>] FNAL Rental Car ?
 - [x] Send resignation letter from Josh
@@ -39,7 +39,7 @@
 - [x] Taxes
 	- [>>] Local Taxes
 - [x] Spare bond head
-- [ ] Xfinity 
+- [>>] Xfinity 
 - [x] Steve personell survey
 
 ---
@@ -74,11 +74,11 @@ Pinged L2 conveners about unblinding HH->4b
 Chat Lipika 
 
 
-More [[Run3 HH4b Cutflow Challenge]]
+More [[Run3 HH4b Cutflow Challenge]]... see above
 
 Dad OKs the tax return
 
-[[HGC Review Slides]]
+[[HGC CD3 Slides]]
 - CD3 Review: https://indico.fnal.gov/event/61613/
 - pwd: uscmscd3
 
@@ -103,8 +103,7 @@ Home
 
 Pick up H 
 
-Filing taxes: 
-pins: 01234
+Filing taxes:  TurnboTax pins: 01234
 
 Some [[Time and Chance]]
 

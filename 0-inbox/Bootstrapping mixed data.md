@@ -10,6 +10,14 @@
 
 # Logs
 
+## [[3 April 2025 Thursday]]
+- Adding hemi weights
+- Starting bootstrapping script
+- Made bootstraping plot! 
+- https://chatgpt.com/share/67ee8c4f-9c7c-8000-beb0-e68ce34888ae
+- Got it going...
+- [x] Write up weight calc
+
 ## [[2 April 2025 Wednesday]]
 - **cmslpc304**
 - `sed -e "s|run_dilep_ttbar_crosscheck: true|run_dilep_ttbar_crosscheck: false|" analysis/metadata/HH4b.yml > output/analysis_test_mixed_job/HH4b.yml`

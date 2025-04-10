@@ -27,12 +27,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/8 April 2025 Tuesday.md",
+                "file": "Journal/April 2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "8 April 2025 Tuesday"
+              "title": "April 2025"
+            }
+          },
+          {
+            "id": "bdeeae18e3c09e2d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Journal/10 April 2025 Thursday.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "10 April 2025 Thursday"
             }
           },
           {
@@ -77,7 +91,8 @@
               "title": "CMU HGC MAC Meeting 1 April 2025"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -129,7 +144,8 @@
               "title": "Files"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -149,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/9 April 2025 Wednesday.md",
+                "file": "Journal/10 April 2025 Thursday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +175,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 9 April 2025 Wednesday"
+              "title": "Backlinks for 10 April 2025 Thursday"
             }
           },
           {
@@ -168,12 +184,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/9 April 2025 Wednesday.md",
+                "file": "Journal/10 April 2025 Thursday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 9 April 2025 Wednesday"
+              "title": "Outgoing links from 10 April 2025 Thursday"
             }
           },
           {
@@ -195,10 +211,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/9 April 2025 Wednesday.md"
+                "file": "Journal/10 April 2025 Thursday.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 9 April 2025 Wednesday"
+              "title": "Outline of 10 April 2025 Thursday"
             }
           },
           {
@@ -230,14 +246,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "57d8ec713c650d2b",
+  "active": "bdeeae18e3c09e2d",
   "lastOpenFiles": [
     "Journal/April 2025.md",
-    "Untitled 1.canvas",
     "Journal/9 April 2025 Wednesday.md",
     "0-inbox/CMU HGC MAC Meeting 1 April 2025.md",
-    "1-projects/HH4b/Run3 HH4b Cutflow Challenge.md",
-    "2-areas/coffea4bs/4b code base.md",
+    "Journal/10 April 2025 Thursday.md",
+    "Journal/2024/April 2024.md",
     "Journal/8 April 2025 Tuesday.md",
     "Journal/7 April 2025 Monday.md",
     "Journal/6 April 2025 Sunday.md",
@@ -245,9 +260,12 @@
     "Journal/4 April 2025 Friday.md",
     "Journal/3 April 2025 Thursday.md",
     "Journal/2 April 2025 Wednesday.md",
+    "Journal/1 April 2025 Tuesday.md",
+    "Untitled 1.canvas",
+    "1-projects/HH4b/Run3 HH4b Cutflow Challenge.md",
+    "2-areas/coffea4bs/4b code base.md",
     "0-inbox/Bootstrapping mixed data.md",
     "0-inbox/Bootstrapping Synthetic Data Stat Uncertainties.md",
-    "Journal/1 April 2025 Tuesday.md",
     "1-projects/HGC/HGC Estimate to complete Spring 2025.md",
     "0-inbox/CMU HGC MAC Meeting 8 April 2025.md",
     "2-areas/Philosophy/Quotes.md",
@@ -257,7 +275,6 @@
     "Journal/March 2025/27 March 2025 Thursday.md",
     "Journal/March 2025/28 March 2025 Friday.md",
     "Journal/March 2025/29 March 2025 Saturday.md",
-    "Journal/March 2025/30 March 2025 Sunday.md",
     "Journal/March 2025",
     "0-inbox/#UCSB Modules per Month.md#",
     "0-inbox/#CMU Modules per Month.md#",
