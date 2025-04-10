@@ -33,8 +33,9 @@
 - [ ] FNAL Rental Car ?
 - [ ] HGC Slides
 - [ ] Marina Cutflow
-- [ ] Local Taxes
+- [x] Local Taxes
 - [ ] Make klX work interactively in iPlot
+- [x] Upload exam
 
 ---
 
@@ -82,3 +83,8 @@ Chat Wes and AE
 Got kids...
 
 Dinner
+
+# Finished Taxes !
+
+- [ ] Write up Module summary
+-  https://indico.cern.ch/event/1534689/
