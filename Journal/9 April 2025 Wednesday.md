@@ -88,3 +88,6 @@ Dinner
 
 - [ ] Write up Module summary
 -  https://indico.cern.ch/event/1534689/
+
+# Obsidian 
+Focus on the editor group: cmd + 1 
