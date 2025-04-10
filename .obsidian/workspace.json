@@ -91,7 +91,8 @@
               "title": "CMU HGC MAC Meeting 1 April 2025"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -163,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/9 April 2025 Wednesday.md",
+                "file": "Journal/10 April 2025 Thursday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +174,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 9 April 2025 Wednesday"
+              "title": "Backlinks for 10 April 2025 Thursday"
             }
           },
           {
@@ -182,12 +183,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/9 April 2025 Wednesday.md",
+                "file": "Journal/10 April 2025 Thursday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 9 April 2025 Wednesday"
+              "title": "Outgoing links from 10 April 2025 Thursday"
             }
           },
           {
@@ -209,10 +210,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/9 April 2025 Wednesday.md"
+                "file": "Journal/10 April 2025 Thursday.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 9 April 2025 Wednesday"
+              "title": "Outline of 10 April 2025 Thursday"
             }
           },
           {
@@ -246,11 +247,11 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "57d8ec713c650d2b",
+  "active": "bdeeae18e3c09e2d",
   "lastOpenFiles": [
+    "Journal/9 April 2025 Wednesday.md",
     "Journal/10 April 2025 Thursday.md",
     "Journal/April 2025.md",
-    "Journal/9 April 2025 Wednesday.md",
     "Journal/2024/October/9 October 2024 Wednesday.md",
     "0-inbox/CMU HGC MAC Meeting 1 April 2025.md",
     "Journal/2024/April 2024.md",
