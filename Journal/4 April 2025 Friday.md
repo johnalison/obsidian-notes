@@ -8,10 +8,8 @@ Home with kids
 Some [[Myth of the Rational Voter]]
 Some [[Time and Chance]]
 
-# Setting up Cursor !!!
-- https://www.youtube.com/watch?v=3289vhOUdKA
-- Looks amazing ! 
-- When you have a new feature, you want to start a new chat
+# Setting up [[Cursor]]  !!!
+- see above
 
 # Marlo to Carnival
 
@@ -23,10 +21,7 @@ Updated [[CMU CMS Webpage]] with Cursor
 
 
 # [[FNAL Trip April 2025]]
-Book Travel to FNAL April 2025
-- Flight $389.96
-- [x] Get housing:  https://get-connected.fnal.gov/housing/
-- [>>] Rental Car ?
+- booked travel... see above
 
 
 Some [[Hamlet]]
