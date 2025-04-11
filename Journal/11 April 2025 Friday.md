@@ -32,7 +32,7 @@
 
 - [ ] Marina Cutflow
 - [ ] HGC Slides
-- [ ] Follow up Jasques 
+- [x] Follow up Jasques 
 - [ ] Look into Soehends MCPs 
 - [ ] MCP for gmail
 - [ ] Make klX work interactively in iPlot
@@ -63,9 +63,20 @@ M & T to School.
 Big fixing AEs replies.... not good
 
 # [[Run3 HH4b Cutflow Challenge]]
-- finding events...
+- finding events... 
+- Most (70%) missing the skimmer. 
+- 
 
 
 # Christian Guito-Brody Accepts !!!!
 
 
+Working [[Run3 HH4b Cutflow Challenge]]
+
+
+Connecting to lxplus: 
+- `johnda@lxplus.cern.ch`
+
+More setting up Cursor, got paragraph up/down working ! 
+
+lxplus down...
