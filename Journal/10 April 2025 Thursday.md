@@ -1,7 +1,7 @@
 
-|     |              |     |
+|     | setup        |     |
 | --- | ------------ | --- |
-| 9   |              |     |
+| 9   | cutflow      |     |
 |     | FBC2         |     |
 | 10  | Teach        |     |
 |     | Teach        |     |
@@ -18,9 +18,9 @@
 | 4   | Hep Chat     |     |
 |     | Leave Early  |     |
 
-**W:**
-**DW:**
-**OT:**
+**W:** 8 
+**DW:** 1
+**OT:** 0
 **ex** or **No ex**
 
 ---
@@ -31,13 +31,13 @@
 # To Do
 
 - [ ] Prepare Party for Josh
-- [ ] Nominate Sindhu for HGC award
-- [ ] HGC Slides
+- [>>]  Nominate Sindhu for HGC award
+- [>>] HGC Slides
 - [ ] ETC for Module Factories
 - [ ] Xfinitiy 
-- [ ] FNAL Rental Car ?
-- [ ] Marina Cutflow
-- [ ] Make klX work interactively in iPlot
+- [>>] FNAL Rental Car ?
+- [>>] Marina Cutflow
+- [>>] Make klX work interactively in iPlot
 - [x] Print exam
 
 ---
@@ -102,7 +102,7 @@ Left early for H showcase
 - Obsidian: https://www.youtube.com/watch?v=VeTnndXyJQI
 - Gmail: 
 
-# Setting up the MCP server for Obsidian
+# Setting up the MCP server for Obsidian !
 - Obsidian: https://www.youtube.com/watch?v=VeTnndXyJQI
 - installed Claude desktop 
 - **> brew install uv**

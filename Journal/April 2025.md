@@ -9,7 +9,7 @@
 | 7  M | Taught / FNAL Housing /  **Hoops** / Chat Heather Gray / Colloq / Dinner            | 6/1/1 |
 | 8  T | FNAL Dorm/ Cutflow fighting / Dad re:taxes / Tarif chat                             | 8/3/3 |
 | 9  W | Taught / Cutflow flighting / **Hoops** / Cursor working remote / Submit taxes       | 6/2/1 |
-| 10 H |                                                                                     |       |
+| 10 H | Present Bootstrapping / Teach / MCP Servers ! / Hep Chat / Spring Showcase          | 8/1/0 |
 | 11 F |                                                                                     |       |
 | 12 S |                                                                                     |       |
 | 13 S |                                                                                     |       |

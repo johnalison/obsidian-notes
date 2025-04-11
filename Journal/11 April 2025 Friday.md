@@ -1,22 +1,22 @@
 
-|     |     |     |
-| --- | --- | --- |
-| 9   |     |     |
-|     |     |     |
-| 10  |     |     |
-|     |     |     |
-| 11  |     |     |
-|     |     |     |
-| 12  |     |     |
-|     |     |     |
-| 1   |     |     |
-|     |     |     |
-| 2   |     |     |
-|     |     |     |
-| 3   |     |     |
-|     |     |     |
-| 4   |     |     |
-|     |     |     |
+|     | setup          |     |
+| --- | -------------- | --- |
+| 9   | Teach          |     |
+|     | Teach          |     |
+| 10  | Marina Cutflow |     |
+|     | Marina Cutflow |     |
+| 11  | Marina Cutflow |     |
+|     | HGC Slides     |     |
+| 12  | HGC Slides     |     |
+|     | HGC Slides     |     |
+| 1   | HGC Slides     |     |
+|     | STAMPS         |     |
+| 2   | STAMPS         |     |
+|     |                |     |
+| 3   | Chat Arvind    |     |
+|     | 4b Chat        |     |
+| 4   |                |     |
+|     | Social         |     |
 
 **W:**
 **DW:**
@@ -25,15 +25,21 @@
 
 ---
 # The ONE thing: 
-- [ ] 
+- [ ] Marina Cutflow
 
 ---
 # To Do
 
 - [ ] Marina Cutflow
 - [ ] HGC Slides
-- [ ] 
-- [ ] 
+- [ ] Follow up Jasques 
+- [ ] Look into Soehends MCPs 
+- [ ] MCP for gmail
+- [ ] Make klX work interactively in iPlot
+- [ ] Write up [[MAC Meeting 9 April 2025]]
+- [ ] Nominate Sindhu for HGC award
+- [ ] FNAL Rental Car ?
+
 
 ---
 
@@ -53,3 +59,13 @@ M & T to School.
 
 # Teaching 
 - Exam 3: (13 students in class) + Elise + Zoe + Robert + Angela Luo
+
+Big fixing AEs replies.... not good
+
+# [[Run3 HH4b Cutflow Challenge]]
+- finding events...
+
+
+# Christian Guito-Brody Accepts !!!!
+
+

@@ -71,9 +71,8 @@ More [[Run3 HH4b Cutflow Challenge]]
 # Setting up remote files for 
 - `brew install sshfs
 - brew install --cask macfuse
-- Failed... Just connect through ssh
-
-# Got Cursor ssh connection to LPC to work
+- Failed... Just connect through ssh.. .seems to work fine
+-  Got Cursor ssh connection to LPC to work
 
 Chat Sindhu
 
@@ -88,8 +87,7 @@ Dinner
 
 # Finished Taxes !
 
-- [ ] Write up Module summary
--  https://indico.cern.ch/event/1534689/
+- [>>] Write up [[MAC Meeting 9 April 2025]]
 
 # Cursor
 - Focus on the editor group: cmd + 1 
