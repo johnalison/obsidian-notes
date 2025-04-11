@@ -110,4 +110,7 @@ lxplus down...not down just slow
 - Maybe start with a better infill assumption ... eg: the reweighted prediction
 - Application generate synthetic data in the SR
 
-[[ProgressReport 11 April 2025]]
+Start drafting [[ProgressReport 11 April 2025]]
+
+Start drafting [[Sindhu Murthy Rec Letter April 2025]]
+
