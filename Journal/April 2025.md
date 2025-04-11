@@ -29,4 +29,4 @@
 | 27 S |                                                                                     |       |
 | 28 M |                                                                                     |       |
 | 29 T |                                                                                     |       |
-| 30 W |                                                                                     |       |
+| 30 W | (Wenjie Thesis Meeting)                                                             |       |

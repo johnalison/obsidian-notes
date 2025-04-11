@@ -15,7 +15,7 @@
 |     |                |     |
 | 3   | Chat Arvind    |     |
 |     | 4b Chat        |     |
-| 4   |                |     |
+| 4   | 4b Chat        |     |
 |     | Social         |     |
 
 **W:**
@@ -85,9 +85,10 @@ More setting up Cursor, got paragraph up/down working !
 lxplus down...not down just slow
 
 
-# Starting HGC Slides 
-- Wrote up MAC meeting slides 
+# Starting [[HGC Slides for April 2023 Review]]
+- Wrote up MAC meeting slides [[MAC Meeting 9 April 2025]]
 - Start HGC slides 
+- https://indico.cern.ch/event/1536369/
 
 
 #  [[MAC Meeting 9 April 2025]]
@@ -116,6 +117,9 @@ Start drafting [[Sindhu Murthy Rec Letter April 2025]]
 
 # 4b Chat
 - AE Debugging skims 
-- [ ] Send thesis 
+- [x] Send thesis 
 - JA:  `_____ `
-- SM: 
+- SM: Still not getting it.... 
+
+# [[FNAL Trip April 2025]]
+- [ ] Pay for Dorm

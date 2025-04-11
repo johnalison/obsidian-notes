@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/11 April 2025 Friday.md",
+                "file": "Journal/April 2025.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 11 April 2025 Friday"
+              "title": "Backlinks for April 2025"
             }
           },
           {
@@ -169,12 +169,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/11 April 2025 Friday.md",
+                "file": "Journal/April 2025.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 11 April 2025 Friday"
+              "title": "Outgoing links from April 2025"
             }
           },
           {
@@ -196,10 +196,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/11 April 2025 Friday.md"
+                "file": "Journal/April 2025.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 11 April 2025 Friday"
+              "title": "Outline of April 2025"
             }
           },
           {
@@ -233,17 +233,18 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "3ad63acad465cd60",
+  "active": "7599ffa8d4ccfd38",
   "lastOpenFiles": [
-    "0-inbox/CMU HGC MAC Meeting 1 April 2025.md",
+    "Journal/11 April 2025 Friday.md",
+    "0-inbox/FNAL Trip April 2025.md",
     "0-inbox/ProgressReport 11 April 2025.md",
+    "0-inbox/CMU HGC MAC Meeting 1 April 2025.md",
     "Journal/March 2025/31 March 2025 Monday.md",
     "0-inbox/Sindhu Murthy Rec Letter April 2025.md",
     "Output/Sindhu Murthy Annual Review 2024.md",
     "2-areas/Mentoring/Sindhu Murthy.md",
     "Output/Recommendation  Letters/USCMS Analysis Support Position.md",
     "Input/Meetings/2024/July/SindhuChat 15 July 2024.md",
-    "Journal/11 April 2025 Friday.md",
     "Journal/March 2025/30 March 2025 Sunday.md",
     "Journal/March 2025/29 March 2025 Saturday.md",
     "Journal/March 2025/28 March 2025 Friday.md",
@@ -260,7 +261,6 @@
     "Journal/4 April 2025 Friday.md",
     "Journal/3 April 2025 Thursday.md",
     "Journal/9 April 2025 Wednesday.md",
-    "Journal/8 April 2025 Tuesday.md",
     "Untitled 1.canvas",
     "Journal/March 2025",
     "0-inbox/#UCSB Modules per Month.md#",
