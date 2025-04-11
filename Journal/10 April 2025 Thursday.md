@@ -38,15 +38,15 @@
 - [ ] FNAL Rental Car ?
 - [ ] Marina Cutflow
 - [ ] Make klX work interactively in iPlot
-- [ ] Print exam
+- [x] Print exam
 
 ---
 
 # Log
 
-Up at 7
+-Up at 7
 
-M & T to school
+-M & T to school
 
 # FBC2
 - ZZ and ZH for run3 results look good
@@ -61,8 +61,8 @@ M & T to school
 # Stats Chat 
 - 2D plots clearly show benefit of smearing
 - Try max(FvT) vs mean(FvT)  max vs min gamma/gamma-tilde
-- [ ] Claude desktop 
-- [ ] setup MCP
+- [x] Claude desktop 
+- [x] setup MCP for obsidian
 
 # Chat AE
 - plan to execute on Mengs meeting
@@ -93,5 +93,23 @@ M & T to school
 
 # HEP Chat
 
+Left early for H showcase
+
+# Henry Spring Showcase
 
 
+# Checking MCP servers... need to do this !!!!
+- Obsidian: https://www.youtube.com/watch?v=VeTnndXyJQI
+- Gmail: 
+
+# Setting up the MCP server for Obsidian
+- Obsidian: https://www.youtube.com/watch?v=VeTnndXyJQI
+- installed Claude desktop 
+- **> brew install uv**
+- Installed mcp-obsidian
+	- https://github.com/MarkusPfundstein/mcp-obsidian
+- Installed obsidian plug-in "Local REST API"
+- edit claude config
+- Working... Can now easily save chat output here...
+- [ ] Setup a separate "claude project"  "Obsidian Note Taker"... have it use MCP tools as much as possble
+- [[Obsidian Note Take Project Setup]] - Documentation of steps taken to set up the Claude integration with Obsidian and the project instructions established
