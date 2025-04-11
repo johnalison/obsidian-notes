@@ -116,4 +116,6 @@ Start drafting [[Sindhu Murthy Rec Letter April 2025]]
 
 # 4b Chat
 - AE Debugging skims 
-- 
+- [ ] Send thesis 
+- JA:  `_____ `
+- SM: 
