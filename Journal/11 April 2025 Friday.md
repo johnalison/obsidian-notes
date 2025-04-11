@@ -36,7 +36,7 @@
 - [ ] Look into Soehends MCPs 
 - [ ] MCP for gmail
 - [ ] Make klX work interactively in iPlot
-- [ ] Write up [[MAC Meeting 9 April 2025]]
+- [x] Write up [[MAC Meeting 9 April 2025]]
 - [ ] Nominate Sindhu for HGC award
 - [ ] FNAL Rental Car ?
 - [ ] [[ProgressReport 11 April 2025]]
@@ -86,5 +86,28 @@ lxplus down...not down just slow
 
 
 # Starting HGC Slides 
+- Wrote up MAC meeting slides 
+- Start HGC slides 
+
 
 #  [[MAC Meeting 9 April 2025]]
+
+
+# STAMPS:  Malte Algren 
+- "Density estimation of missing data using OT"
+- PhD student in Geneva HEP
+- Related to "In painting" problem in
+- Setup the ABCD problem
+- Crop out 4b SR replace removed events with 3b SR
+- Fit OT from 3b -> 4b... Iterate
+- How many steps ? .... How long for each step ? ... 
+	- What do you technical  get in the end ? OT(map) 
+- How do you deal with point clouds ? ... Use point clouds.
+	- 16D → 7D 
+- How do you predict another variable ?
+- Suggest adding 8th SvB variable and then comparing that prediction to the rewieghting
+- Very Sensitive to the CR boundry
+- Maybe start with a better infill assumption ... eg: the reweighted prediction
+- Application generate synthetic data in the SR
+
+[[ProgressReport 11 April 2025]]

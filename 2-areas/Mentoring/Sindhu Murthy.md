@@ -4,12 +4,13 @@
 
 
 ## HGC 
-- Good work with local DBs
+- Great work with local DBs
 
 
 # Other 
 - TA award
 - Did teachers program (Outreach TA)
+- [[Sindhu Murthy Rec Letter April 2025]]
 
 
 # Logs
