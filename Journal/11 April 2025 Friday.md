@@ -39,6 +39,8 @@
 - [ ] Write up [[MAC Meeting 9 April 2025]]
 - [ ] Nominate Sindhu for HGC award
 - [ ] FNAL Rental Car ?
+- [ ] [[ProgressReport 11 April 2025]]
+
 
 
 ---
@@ -65,18 +67,19 @@ Big fixing AEs replies.... not good
 # [[Run3 HH4b Cutflow Challenge]]
 - finding events... 
 - Most (70%) missing the skimmer. 
-- 
+- lxplus down...not down just slow
+- Finding problem events... printing out the jet four vectors
+
 
 
 # Christian Guito-Brody Accepts !!!!
 
 
-Working [[Run3 HH4b Cutflow Challenge]]
+Working [[Run3 HH4b Cutflow Challenge]] ... see above
 
-
-Connecting to lxplus: 
+Connecting to lxplus with [[Cursor]]
 - `johnda@lxplus.cern.ch`
 
 More setting up Cursor, got paragraph up/down working ! 
 
-lxplus down...
+lxplus down...not down just slow
