@@ -16,6 +16,12 @@ Estimated to be shipped from KIT ~April 28
 - 15 V3C modules assembled - 14 are Grade A or B
 - Installing new tooling for four modules
 
+# IHEP
+- All good
+
+# NTU
+- 
+
 # Follow-ups
 
 

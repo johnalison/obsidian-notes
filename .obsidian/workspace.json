@@ -77,8 +77,7 @@
               "title": "CMU HGC MAC Meeting 1 April 2025"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -151,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/March 2025/25 March 2025 Tuesday.md",
+                "file": "0-inbox/MAC Meeting 9 April 2025.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +160,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 25 March 2025 Tuesday"
+              "title": "Backlinks for MAC Meeting 9 April 2025"
             }
           },
           {
@@ -170,12 +169,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/March 2025/25 March 2025 Tuesday.md",
+                "file": "0-inbox/MAC Meeting 9 April 2025.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 25 March 2025 Tuesday"
+              "title": "Outgoing links from MAC Meeting 9 April 2025"
             }
           },
           {
@@ -197,10 +196,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/March 2025/25 March 2025 Tuesday.md"
+                "file": "0-inbox/MAC Meeting 9 April 2025.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 25 March 2025 Tuesday"
+              "title": "Outline of MAC Meeting 9 April 2025"
             }
           },
           {
@@ -234,8 +233,9 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "35798572f4a71c2e",
+  "active": "57d8ec713c650d2b",
   "lastOpenFiles": [
+    "Journal/March 2025/25 March 2025 Tuesday.md",
     "Journal/1 April 2025 Tuesday.md",
     "0-inbox/HGCManagementMeeting 1 April 2025.md",
     "0-inbox/CMU HGC MAC Meeting 8 April 2025.md",
@@ -261,7 +261,6 @@
     "0-inbox/ProgressReport 28 March 2025.md",
     "Input/Books/SpacetimePhysics.md",
     "Input/Books/Books.md",
-    "Journal/2021/January 2021.md",
     "Untitled 1.canvas",
     "Journal/March 2025",
     "0-inbox/#UCSB Modules per Month.md#",
