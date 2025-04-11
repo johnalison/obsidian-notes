@@ -83,3 +83,8 @@ Connecting to lxplus with [[Cursor]]
 More setting up Cursor, got paragraph up/down working ! 
 
 lxplus down...not down just slow
+
+
+# Starting HGC Slides 
+
+#  [[MAC Meeting 9 April 2025]]
