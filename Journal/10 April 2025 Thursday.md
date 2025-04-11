@@ -38,6 +38,7 @@
 - [ ] FNAL Rental Car ?
 - [ ] Marina Cutflow
 - [ ] Make klX work interactively in iPlot
+- [ ] Print exam
 
 ---
 
@@ -88,4 +89,9 @@ M & T to school
 
 # Office Hours
 - Chance
+- Printed exam 3
+
+# HEP Chat
+
+
 
