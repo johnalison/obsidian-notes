@@ -139,8 +139,8 @@ Think about and had Claude write up [[Track Fitting Degrees of Freedom]]
 
 # Cursor
 ToDp:
-- [ ] `CMD .` for last entry in terminal 
-- [ ] delete back
+- [x] `CMD .` for last entry in terminal 
+- [x] delete back
 
 # Obsidian
 - [x] alt-h delete back work
@@ -150,3 +150,5 @@ ToDp:
 Getting material for [[ProgressReport 11 April 2025]]
 
 Late night writing [[ProgressReport 11 April 2025]]
+
+
