@@ -1,40 +1,13 @@
 
-|     |     |     |
-| --- | --- | --- |
-| 9   |     |     |
-|     |     |     |
-| 10  |     |     |
-|     |     |     |
-| 11  |     |     |
-|     |     |     |
-| 12  |     |     |
-|     |     |     |
-| 1   |     |     |
-|     |     |     |
-| 2   |     |     |
-|     |     |     |
-| 3   |     |     |
-|     |     |     |
-| 4   |     |     |
-|     |     |     |
-
-**W:**
-**DW:**
-**OT:**
-**ex** or **No ex**
-
----
-# The ONE thing: 
-- [ ] 
-
----
-# To Do
-
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
 
 ---
 
 # Log
+
+Up at 9 
+
+Some [[Myth of the Rational Voter]]
+
+
+- [ ] Humer argument for why science and reason assume free will:
+	- https://www.youtube.com/watch?v=FjAYvhv1-Lg&t=3955s

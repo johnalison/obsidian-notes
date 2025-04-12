@@ -18,14 +18,15 @@
 | 4   | 4b Chat        |     |
 |     | Social         |     |
 
-**W:**
-**DW:**
-**OT:**
+**W:** 8 
+**DW:**  4
+**OT:** 4
 **ex** or **No ex**
 
 ---
 # The ONE thing: 
-- [ ] Marina Cutflow
+- [x] Marina Cutflow
+- [ ] HGC Slides
 
 ---
 # To Do
@@ -147,3 +148,5 @@ ToDp:
 - [x] More foward./backward paragraph
 
 Getting material for [[ProgressReport 11 April 2025]]
+
+Late night writing [[ProgressReport 11 April 2025]]

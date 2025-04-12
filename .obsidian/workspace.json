@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/12 April 2025 Saturday.md",
+                "file": "0-inbox/ProgressReport 11 April 2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "12 April 2025 Saturday"
+              "title": "ProgressReport 11 April 2025"
             }
           },
           {
@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/11 April 2025 Friday.md",
+                "file": "Journal/12 April 2025 Saturday.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "11 April 2025 Friday"
+              "title": "12 April 2025 Saturday"
             }
           },
           {
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/11 April 2025 Friday.md",
+                "file": "Journal/12 April 2025 Saturday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 11 April 2025 Friday"
+              "title": "Backlinks for 12 April 2025 Saturday"
             }
           },
           {
@@ -170,12 +170,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/11 April 2025 Friday.md",
+                "file": "Journal/12 April 2025 Saturday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 11 April 2025 Friday"
+              "title": "Outgoing links from 12 April 2025 Saturday"
             }
           },
           {
@@ -197,10 +197,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/11 April 2025 Friday.md"
+                "file": "Journal/12 April 2025 Saturday.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 11 April 2025 Friday"
+              "title": "Outline of 12 April 2025 Saturday"
             }
           },
           {
@@ -237,9 +237,13 @@
   "active": "2dadcb26a7f39b2e",
   "lastOpenFiles": [
     "Journal/April 2025.md",
+    "0-inbox/ProgressReport 11 April 2025.md",
     "Journal/11 April 2025 Friday.md",
     "Journal/12 April 2025 Saturday.md",
-    "0-inbox/ProgressReport 11 April 2025.md",
+    "Journal/6 April 2025 Sunday.md",
+    "Journal/5 April 2025 Saturday.md",
+    "0-inbox/Taxes 2025.md",
+    "Journal/4 April 2025 Friday.md",
     "#test#",
     "0-inbox/Untitled.md",
     "test",
@@ -249,9 +253,6 @@
     "0-inbox/HGC CD3 Slides.md",
     "Journal/7 April 2025 Monday.md",
     "0-inbox/Sindhu Murthy Rec Letter April 2025.md",
-    "Journal/6 April 2025 Sunday.md",
-    "Journal/5 April 2025 Saturday.md",
-    "Journal/4 April 2025 Friday.md",
     "Journal/3 April 2025 Thursday.md",
     "Journal/2 April 2025 Wednesday.md",
     "Journal/1 April 2025 Tuesday.md",
@@ -263,7 +264,6 @@
     "0-inbox/Universal Inference.md",
     "0-inbox/Tree Stump.md",
     "2-areas/Physics/Track Fitting Degrees of Freedom.md",
-    "0-inbox/Tool List.md",
     "Physics",
     "Untitled 1.canvas",
     "Journal/March 2025",
