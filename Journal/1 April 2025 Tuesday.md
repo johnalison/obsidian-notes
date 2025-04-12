@@ -53,7 +53,7 @@ w/Kids
 
 New french press !
 
-Suzi is getting laid off :(
+# Suzi is getting laid off :(
 
 To Campus. 
 

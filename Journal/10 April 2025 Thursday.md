@@ -44,15 +44,14 @@
 
 # Log
 
--Up at 7
+Up at 7
 
--M & T to school
+M & T to school
 
 # FBC2
 - ZZ and ZH for run3 results look good
 - Discussion of paper strategy 
 - Showed bootstrap results
-
 
 # Taught
 - Qualitative Sch Eq. Solutions 
@@ -111,5 +110,5 @@ Left early for H showcase
 - Installed obsidian plug-in "Local REST API"
 - edit claude config
 - Working... Can now easily save chat output here...
-- [ ] Setup a separate "claude project"  "Obsidian Note Taker"... have it use MCP tools as much as possble
+- [x] Setup a separate "claude project"  "Obsidian Note Taker"... have it use MCP tools as much as possble
 - [[Obsidian Note Take Project Setup]] - Documentation of steps taken to set up the Claude integration with Obsidian and the project instructions established

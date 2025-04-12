@@ -33,7 +33,7 @@
 - [ ] Marina Cutflow
 - [ ] HGC Slides
 - [x] Follow up Jasques 
-- [ ] Look into Soehends MCPs 
+- [ ] Look into Soeheuns MCPs 
 - [ ] MCP for gmail
 - [ ] Make klX work interactively in iPlot
 - [x] Write up [[MAC Meeting 9 April 2025]]
@@ -121,5 +121,28 @@ Start drafting [[Sindhu Murthy Rec Letter April 2025]]
 - JA:  `_____ `
 - SM: Still not getting it.... 
 
+
+# Chat with Roy about [[Track Fitting Degrees of Freedom]] 
+
+# Grad Social 
+- Good Discussion... Aniket not drinking either
+
+
 # [[FNAL Trip April 2025]]
 - [ ] Pay for Dorm
+
+
+Sent list CMU list to Hyde... Made it with agent in Cursor ! 
+
+Think about and had Claude write up [[Track Fitting Degrees of Freedom]]
+
+# Cursor
+ToDp:
+- [ ] `CMD .` for last entry in terminal 
+- [ ] delete back
+
+# Obsidian
+- [ ] alt-h delete back work
+- [ ] ald-d delete forward word
+
+Getting material for [[ProgressReport 11 April 2025]]

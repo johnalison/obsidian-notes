@@ -78,7 +78,7 @@ More [[Run3 HH4b Cutflow Challenge]]... see above
 
 Dad OKs the tax return
 
-[[HGC CD3 Slides]]
+# [[HGC CD3 Slides]]
 - CD3 Review: https://indico.fnal.gov/event/61613/
 - pwd: uscmscd3
 
