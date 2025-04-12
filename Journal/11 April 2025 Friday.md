@@ -39,7 +39,7 @@
 - [x] Write up [[MAC Meeting 9 April 2025]]
 - [ ] Nominate Sindhu for HGC award
 - [ ] FNAL Rental Car ?
-- [ ] [[ProgressReport 11 April 2025]]
+- [x] [[ProgressReport 11 April 2025]]
 
 
 
