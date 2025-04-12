@@ -142,7 +142,8 @@ ToDp:
 - [ ] delete back
 
 # Obsidian
-- [ ] alt-h delete back work
-- [ ] ald-d delete forward word
+- [x] alt-h delete back work
+- [x] ald-d forward word
+- [x] More foward./backward paragraph
 
 Getting material for [[ProgressReport 11 April 2025]]

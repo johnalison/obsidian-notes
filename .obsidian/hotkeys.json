@@ -24,22 +24,8 @@
       "key": "D"
     }
   ],
-  "kill-and-yank:kill-line": [
-    {
-      "modifiers": [
-        "Ctrl"
-      ],
-      "key": "K"
-    }
-  ],
-  "kill-and-yank:yank": [
-    {
-      "modifiers": [
-        "Ctrl"
-      ],
-      "key": "Y"
-    }
-  ],
+  "kill-and-yank:kill-line": [],
+  "kill-and-yank:yank": [],
   "graph:open-local": [
     {
       "modifiers": [
@@ -114,6 +100,85 @@
         "Alt"
       ],
       "key": "B"
+    }
+  ],
+  "emacs-text-editor:backward-kill-word": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "H"
+    }
+  ],
+  "file-explorer:new-file": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "N"
+    }
+  ],
+  "emacs-text-editor:forward-paragraph": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "N"
+    }
+  ],
+  "emacs-text-editor:backward-paragraph": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "P"
+    }
+  ],
+  "emacs-text-editor:kill-word": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "D"
+    }
+  ],
+  "command-palette:open": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "P"
+    },
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "X"
+    }
+  ],
+  "emacs-text-editor:set-mark-command": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": " "
+    }
+  ],
+  "kill-and-yank:set-mark": [],
+  "emacs-text-editor:yank": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "Y"
+    }
+  ],
+  "emacs-text-editor:kill-line": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "K"
     }
   ]
 }
