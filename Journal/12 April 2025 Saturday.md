@@ -16,3 +16,8 @@ Some [[Myth of the Rational Voter]]
 - Got delete work right/left of cursor working! 
 
 Some [[Run3 HH4b Cutflow Challenge]]
+
+# Checked out the Art Show 
+
+# Olive Garden for Laylas Birthday
+
