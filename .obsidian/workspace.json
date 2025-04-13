@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/12 April 2025 Saturday.md",
+                "file": "Journal/13 April 2025 Sunday.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "12 April 2025 Saturday"
+              "title": "13 April 2025 Sunday"
             }
           },
           {
@@ -49,8 +49,7 @@
               "title": "12 April 2025 Saturday"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/April 2025.md",
+                "file": "Journal/13 April 2025 Sunday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +131,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for April 2025"
+              "title": "Backlinks for 13 April 2025 Sunday"
             }
           },
           {
@@ -141,12 +140,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/April 2025.md",
+                "file": "Journal/13 April 2025 Sunday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from April 2025"
+              "title": "Outgoing links from 13 April 2025 Sunday"
             }
           },
           {
@@ -168,10 +167,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/April 2025.md"
+                "file": "Journal/13 April 2025 Sunday.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of April 2025"
+              "title": "Outline of 13 April 2025 Sunday"
             }
           },
           {
@@ -205,11 +204,13 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "7599ffa8d4ccfd38",
+  "active": "57d8ec713c650d2b",
   "lastOpenFiles": [
+    "Journal/12 April 2025 Saturday.md",
+    "Journal/13 April 2025 Sunday.md",
+    "Journal/April 2025.md",
     "2-areas/Physics/Track Fitting Degrees of Freedom.md",
     "Journal/11 April 2025 Friday.md",
-    "Journal/12 April 2025 Saturday.md",
     "0-inbox/Sindhu Murthy Rec Letter April 2025.md",
     "2-areas/Mentoring/Sindhu Murthy.md",
     "0-inbox/Jonas Roemer.md",
@@ -218,7 +219,6 @@
     "0-inbox/CMU CMS Webpage.md",
     "0-inbox/AnalysesOverview.excalidraw.md",
     "0-inbox/ProgressReport 11 April 2025.md",
-    "Journal/April 2025.md",
     "Journal/6 April 2025 Sunday.md",
     "Journal/5 April 2025 Saturday.md",
     "0-inbox/Taxes 2025.md",
@@ -234,7 +234,6 @@
     "Journal/3 April 2025 Thursday.md",
     "Journal/2 April 2025 Wednesday.md",
     "Journal/1 April 2025 Tuesday.md",
-    "2-areas/Mentoring/Wes' FNAL Talk.md",
     "Physics",
     "Untitled 1.canvas",
     "Journal/March 2025",
