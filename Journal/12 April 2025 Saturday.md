@@ -1,7 +1,7 @@
 
 
 ---
-
+- [ ] Re-skim Run3
 # Log
 
 Up at 9 
@@ -19,5 +19,11 @@ Some [[Run3 HH4b Cutflow Challenge]]
 
 # Checked out the Art Show 
 
+
 # Olive Garden for Laylas Birthday
 
+
+
+
+# Files
+- [[Sindhu Murthy Rec Letter April 2025]] - Copy-edited version of recommendation letter for Sindhu's database work at CMU

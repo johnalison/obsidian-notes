@@ -95,7 +95,9 @@ lxplus down...not down just slow
 #  [[MAC Meeting 9 April 2025]]
 
 
-# STAMPS:  Malte Algren 
+
+# STAMPS: [[Density estimation of missing data using OT]]  
+- Malte Algren 
 - "Density estimation of missing data using OT"
 - PhD student in Geneva HEP
 - Related to "In painting" problem in
