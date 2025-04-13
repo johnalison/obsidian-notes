@@ -34,11 +34,11 @@
 - [ ] Marina Cutflow
 - [ ] HGC Slides
 - [x] Follow up Jasques 
-- [ ] Look into Soeheuns MCPs 
+- [x] Look into Soeheuns MCPs 
 - [ ] MCP for gmail
 - [ ] Make klX work interactively in iPlot
 - [x] Write up [[MAC Meeting 9 April 2025]]
-- [ ] Nominate Sindhu for HGC award
+- [x] Nominate Sindhu for HGC award
 - [ ] FNAL Rental Car ?
 - [x] [[ProgressReport 11 April 2025]]
 

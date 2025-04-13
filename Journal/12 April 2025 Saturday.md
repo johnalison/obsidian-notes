@@ -23,7 +23,6 @@ Some [[Run3 HH4b Cutflow Challenge]]
 # Olive Garden for Laylas Birthday
 
 
+Drafting [[Sindhu Murthy Rec Letter April 2025]]
+- Copy-edited version with Claude 
 
-
-# Files
-- [[Sindhu Murthy Rec Letter April 2025]] - Copy-edited version of recommendation letter for Sindhu's database work at CMU
