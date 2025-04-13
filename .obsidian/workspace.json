@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/13 April 2025 Sunday.md",
+                "file": "0-inbox/Jonas Roemer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "13 April 2025 Sunday"
+              "title": "Jonas Roemer"
             }
           },
           {
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:Sindhu",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -101,7 +101,8 @@
               "title": "Files"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -121,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/13 April 2025 Sunday.md",
+                "file": "0-inbox/Jonas Roemer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +132,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 13 April 2025 Sunday"
+              "title": "Backlinks for Jonas Roemer"
             }
           },
           {
@@ -140,12 +141,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/13 April 2025 Sunday.md",
+                "file": "0-inbox/Jonas Roemer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 13 April 2025 Sunday"
+              "title": "Outgoing links from Jonas Roemer"
             }
           },
           {
@@ -167,10 +168,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/13 April 2025 Sunday.md"
+                "file": "0-inbox/Jonas Roemer.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 13 April 2025 Sunday"
+              "title": "Outline of Jonas Roemer"
             }
           },
           {
@@ -206,8 +207,13 @@
   },
   "active": "57d8ec713c650d2b",
   "lastOpenFiles": [
-    "Journal/12 April 2025 Saturday.md",
+    "0-inbox/HGC TDR.md",
+    "0-inbox/HGC Database.md",
+    "0-inbox/FNAL Site Access.md",
+    "0-inbox/CMU CMS Webpage.md",
+    "1-projects/HGC/CMU Modules per Month.md",
     "Journal/13 April 2025 Sunday.md",
+    "Journal/12 April 2025 Saturday.md",
     "Journal/April 2025.md",
     "2-areas/Physics/Track Fitting Degrees of Freedom.md",
     "Journal/11 April 2025 Friday.md",
@@ -215,8 +221,6 @@
     "2-areas/Mentoring/Sindhu Murthy.md",
     "0-inbox/Jonas Roemer.md",
     "Input/Meetings/Density estimation of missing data using OT.md",
-    "0-inbox/CMU Modules per Month.md",
-    "0-inbox/CMU CMS Webpage.md",
     "0-inbox/AnalysesOverview.excalidraw.md",
     "0-inbox/ProgressReport 11 April 2025.md",
     "Journal/6 April 2025 Sunday.md",
@@ -231,9 +235,6 @@
     "Journal/8 April 2025 Tuesday.md",
     "0-inbox/HGC CD3 Slides.md",
     "Journal/7 April 2025 Monday.md",
-    "Journal/3 April 2025 Thursday.md",
-    "Journal/2 April 2025 Wednesday.md",
-    "Journal/1 April 2025 Tuesday.md",
     "Physics",
     "Untitled 1.canvas",
     "Journal/March 2025",
