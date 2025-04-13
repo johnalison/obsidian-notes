@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/Jonas Roemer.md",
+                "file": "Input/Books/Books.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Jonas Roemer"
+              "title": "Books"
             }
           },
           {
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "file:book",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -101,8 +101,7 @@
               "title": "Files"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -122,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/Jonas Roemer.md",
+                "file": "Input/Books/Books.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +131,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Jonas Roemer"
+              "title": "Backlinks for Books"
             }
           },
           {
@@ -141,12 +140,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/Jonas Roemer.md",
+                "file": "Input/Books/Books.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Jonas Roemer"
+              "title": "Outgoing links from Books"
             }
           },
           {
@@ -168,10 +167,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/Jonas Roemer.md"
+                "file": "Input/Books/Books.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Jonas Roemer"
+              "title": "Outline of Books"
             }
           },
           {
@@ -207,34 +206,34 @@
   },
   "active": "57d8ec713c650d2b",
   "lastOpenFiles": [
+    "Journal/13 April 2025 Sunday.md",
+    "0-inbox/Time and Chance.md",
+    "0-inbox/Predicting the Past vs Predicting the Future.md",
+    "00-Zettelkasten/ZettelKasten Index.md",
+    "1-projects/Teaching/Osher Particle Physics Lecture 1 Transcript.md",
+    "0-inbox/Write up Universal Inference Toy.md",
+    "0-inbox/What do we know about organizing society or government with overwhelming confidence.md",
+    "Output/Taxes 2025.md",
+    "0-inbox/Untitled.md",
+    "Output/Recommendation  Letters/Sindhu Murthy Rec Letter April 2025.md",
+    "Output/ProgressReports/ProgressReport 11 April 2025.md",
+    "0-inbox/Mass of jets is not invariant.md",
+    "2-areas/Mentoring/Jonas Roemer.md",
     "0-inbox/HGC TDR.md",
     "0-inbox/HGC Database.md",
     "0-inbox/FNAL Site Access.md",
     "0-inbox/CMU CMS Webpage.md",
     "1-projects/HGC/CMU Modules per Month.md",
-    "Journal/13 April 2025 Sunday.md",
     "Journal/12 April 2025 Saturday.md",
     "Journal/April 2025.md",
     "2-areas/Physics/Track Fitting Degrees of Freedom.md",
     "Journal/11 April 2025 Friday.md",
-    "0-inbox/Sindhu Murthy Rec Letter April 2025.md",
     "2-areas/Mentoring/Sindhu Murthy.md",
-    "0-inbox/Jonas Roemer.md",
     "Input/Meetings/Density estimation of missing data using OT.md",
     "0-inbox/AnalysesOverview.excalidraw.md",
-    "0-inbox/ProgressReport 11 April 2025.md",
     "Journal/6 April 2025 Sunday.md",
-    "Journal/5 April 2025 Saturday.md",
-    "0-inbox/Taxes 2025.md",
-    "Journal/4 April 2025 Friday.md",
     "#test#",
-    "0-inbox/Untitled.md",
     "test",
-    "Journal/10 April 2025 Thursday.md",
-    "Journal/9 April 2025 Wednesday.md",
-    "Journal/8 April 2025 Tuesday.md",
-    "0-inbox/HGC CD3 Slides.md",
-    "Journal/7 April 2025 Monday.md",
     "Physics",
     "Untitled 1.canvas",
     "Journal/March 2025",

@@ -1,6 +1,6 @@
 # 2025
 
-- [[Time and Chance]] (David Albert)
+- [[Just Six Numbers]] (Martin Reese)
 
 - [[Myth of the Rational Voter]] (Bryan Caplan)
 
@@ -8,7 +8,9 @@
 
 ---
 
-- [[Size]] Vacil Smil
+- [[Time and Chance]] (David Albert)
+
+- [[Size]] (Vacil Smil)
 
 - [[Fly By Night Physics]] (Anthony Zee)
 
@@ -592,7 +594,7 @@
 -  Kitchen Confidential Updated Edition: Adventures in the Culinary Underbelly (Bourdain, Anthony)
 
 -  [[Everything and More]]: A Compact History of Infinity (DFW)
-ru
+
 -  This Is Water: Some Thoughts, Delivered on a Significant Occasion, about Living a Compassionate Life
 
 -  Fashion, Faith, and Fantasy in the New Physics of the Universe (Penrose)
