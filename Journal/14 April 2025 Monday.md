@@ -1,23 +1,23 @@
 # ACTION : [[Apply To Osher Fall 2025]]
 
-|     |                    |     |
-| --- | ------------------ | --- |
-| 9   | Teaching           |     |
-|     | Teaching           |     |
-| 10  | setup              |     |
-|     | Wes Thesis Defense |     |
-| 11  | Wes Thesis Defense |     |
-|     | Wes Thesis Defense |     |
-| 12  | Wes Part           |     |
-|     | Hoops              |     |
-| 1   | Hoops              |     |
-|     | Hoops              |     |
-| 2   | setup              |     |
-|     |                    |     |
-| 3   |                    |     |
-|     |                    |     |
-| 4   |                    |     |
-|     |                    |     |
+|     |                                 |     |
+| --- | ------------------------------- | --- |
+| 9   | Teaching                        |     |
+|     | Teaching                        |     |
+| 10  | setup                           |     |
+|     | Wes Thesis Defense              |     |
+| 11  | Wes Thesis Defense              |     |
+|     | Wes Thesis Defense              |     |
+| 12  | Wes Part                        |     |
+|     | Hoops                           |     |
+| 1   | Hoops                           |     |
+|     | Hoops                           |     |
+| 2   | setup / chat AE                 |     |
+|     | Chat AE                         |     |
+| 3   |                                 |     |
+|     | [[Run3 HH4b Cutflow Challenge]] |     |
+| 4   | [[Run3 HH4b Cutflow Challenge]] |     |
+|     | [[Run3 HH4b Cutflow Challenge]] |     |
 
 **W:**
 **DW:**
@@ -26,7 +26,9 @@
 
 ---
 # The ONE thing: 
-- [ ] 
+- [ ] Wes' Thesis
+- [ ] FNAL Rental / Pay 
+- [ ] Cutflow
 
 ---
 # To Do
@@ -36,10 +38,11 @@
 - [ ] Marina Cut Flow
 - [ ] Pritam re:MMTS
 - [ ]  Prepare Something for Jonas
-- [ ] FNAL Rental Car ?
-- [ ] Pay for FNAL Dorm
+- [x] FNAL Rental Car ?
+- [x] Pay for FNAL Dorm
 - [ ] Re-skim Run3
 - [ ] Coordinate keystroke for hideing left toolbar
+- [ ] Grade Exam
 ---
 
 # Log
@@ -99,5 +102,10 @@ if the difference of the minimum and second minimum distance from the diagonal i
 - 10 
 
 
+# [[FNAL Trip April 2025]]
+- Booked FNAL Rental  $XXXX
+	-  Customers should call (708) 924-9776 once they're aboard the shuttle to notify the office of their arrival and they'll be picked up from the facility.
+- Paid for Dorm $40.
 
 
+# [[Run3 HH4b Cutflow Challenge]]
