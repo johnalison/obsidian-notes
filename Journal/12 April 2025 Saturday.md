@@ -1,7 +1,7 @@
 
 
 ---
-- [ ] Re-skim Run3
+- [>>] Re-skim Run3
 # Log
 
 Up at 9 

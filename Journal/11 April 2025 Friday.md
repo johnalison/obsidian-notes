@@ -31,15 +31,15 @@
 ---
 # To Do
 
-- [ ] Marina Cutflow
-- [ ] HGC Slides
+- [>>] Marina Cutflow
+- [>>] HGC Slides
 - [x] Follow up Jasques 
 - [x] Look into Soeheuns MCPs 
-- [ ] MCP for gmail
+- [ ] MCP for gmail ? 
 - [ ] Make klX work interactively in iPlot
 - [x] Write up [[MAC Meeting 9 April 2025]]
 - [x] Nominate Sindhu for HGC award
-- [ ] FNAL Rental Car ?
+- [>>] FNAL Rental Car ?
 - [x] [[ProgressReport 11 April 2025]]
 
 
@@ -63,7 +63,7 @@ M & T to School.
 # Teaching 
 - Exam 3: (13 students in class) + Elise + Zoe + Robert + Angela Luo
 
-Big fixing AEs replies.... not good
+Bug fixing AEs replies.... not good
 
 # [[Run3 HH4b Cutflow Challenge]]
 - finding events... 
@@ -96,23 +96,8 @@ lxplus down...not down just slow
 
 
 
-# STAMPS: [[Density estimation of missing data using OT]]  
-- Malte Algren 
-- "Density estimation of missing data using OT"
-- PhD student in Geneva HEP
-- Related to "In painting" problem in
-- Setup the ABCD problem
-- Crop out 4b SR replace removed events with 3b SR
-- Fit OT from 3b -> 4b... Iterate
-- How many steps ? .... How long for each step ? ... 
-	- What do you technical  get in the end ? OT(map) 
-- How do you deal with point clouds ? ... Use point clouds.
-	- 16D → 7D 
-- How do you predict another variable ?
-- Suggest adding 8th SvB variable and then comparing that prediction to the rewieghting
-- Very Sensitive to the CR boundry
-- Maybe start with a better infill assumption ... eg: the reweighted prediction
-- Application generate synthetic data in the SR
+## STAMPS: [[Density estimation of missing data using OT]]  
+- See above
 
 Start drafting [[ProgressReport 11 April 2025]]
 
@@ -125,14 +110,14 @@ Start drafting [[Sindhu Murthy Rec Letter April 2025]]
 - SM: Still not getting it.... 
 
 
-# Chat with Roy about [[Track Fitting Degrees of Freedom]] 
+## Chat with Roy about [[Track Fitting Degrees of Freedom]] 
 
 # Grad Social 
 - Good Discussion... Aniket not drinking either
 
 
-# [[FNAL Trip April 2025]]
-- [ ] Pay for Dorm
+## [[FNAL Trip April 2025]]
+- [>>] Pay for Dorm
 
 
 Sent list CMU list to Hyde... Made it with agent in Cursor ! 
@@ -140,7 +125,7 @@ Sent list CMU list to Hyde... Made it with agent in Cursor !
 Think about and had Claude write up [[Track Fitting Degrees of Freedom]]
 
 # Cursor
-ToDp:
+ToDo:
 - [x] `CMD .` for last entry in terminal 
 - [x] delete back
 

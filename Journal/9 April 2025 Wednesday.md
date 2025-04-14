@@ -91,5 +91,6 @@ Dinner
 
 # Cursor
 - Focus on the editor group: cmd + 1 
+- After using find its better to just toggle with cmd + j
 
 Got the `Alt-f` and  `Alt-b` word skipping working on Obsidian !

@@ -30,7 +30,7 @@
 ---
 # To Do
 
-- [ ] Prepare Party for Josh
+- [>>] Prepare Something for Jonas
 - [>>]  Nominate Sindhu for HGC award
 - [>>] HGC Slides
 - [ ] ETC for Module Factories
@@ -99,7 +99,7 @@ Left early for H showcase
 
 # Checking MCP servers... need to do this !!!!
 - Obsidian: https://www.youtube.com/watch?v=VeTnndXyJQI
-- Gmail: 
+- Gmail: ???
 
 # Setting up the MCP server for Obsidian !
 - Obsidian: https://www.youtube.com/watch?v=VeTnndXyJQI

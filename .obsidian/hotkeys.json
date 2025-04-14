@@ -29,7 +29,8 @@
   "graph:open-local": [
     {
       "modifiers": [
-        "Mod"
+        "Mod",
+        "Shift"
       ],
       "key": "L"
     }
@@ -179,6 +180,14 @@
         "Ctrl"
       ],
       "key": "K"
+    }
+  ],
+  "app:toggle-right-sidebar": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "L"
     }
   ]
 }
