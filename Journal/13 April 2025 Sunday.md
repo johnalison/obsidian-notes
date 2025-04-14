@@ -1,5 +1,5 @@
 
-- [ ] Get Champaign for Wes
+- [x] Get Champaign for Wes
 ---
 
 # Log
@@ -16,13 +16,13 @@ To school to get Champagne for Wes
 
 Some [[Myth of the Rational Voter]]
 
-New bed
+New bed !
 
 # Gym / Steamroom
 - Some Core / 3 Supersets
 - Squats - pull-ups / Dips - bar pick ups / front raises - stiff legged dead lifts
 - 10' at Tmax = 123
 
-M & A over 
+# M & A over 
 - Pizza on Deck
 

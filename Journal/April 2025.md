@@ -10,9 +10,9 @@
 | 8  T | FNAL Dorm/ Cutflow fighting / Dad re:taxes / Tarif chat                             | 8/3/3 |
 | 9  W | Taught / Cutflow flighting / **Hoops** / Cursor working remote / Submit taxes       | 6/2/1 |
 | 10 H | Present Bootstrapping / Teach / MCP Servers ! / Hep Chat / Spring Showcase          | 8/1/0 |
-| 11 F | HR Moves ! /                                                                        | 8/4/4 |
-| 12 S |                                                                                     |       |
-| 13 S |                                                                                     |       |
+| 11 F | HR Moves ! / Exam 3 / Guito-Brody Accepts ! / HGC slides / STAMPS/ Social           | 8/4/4 |
+| 12 S | Reading / Art Show / Olive Garden / [[Sindhu Murthy Rec Letter April 2025]]         |       |
+| 13 S | Reading / **Gym/SR** / M&A over for pizza                                           |       |
 | 14 M | (Wes' thesis)                                                                       |       |
 | 15 T | (Taxes Due! )                                                                       |       |
 | 16 W |                                                                                     |       |

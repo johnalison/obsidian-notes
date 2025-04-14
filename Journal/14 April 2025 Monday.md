@@ -4,15 +4,15 @@
 | --- | ------------------ | --- |
 | 9   | Teaching           |     |
 |     | Teaching           |     |
-| 10  |                    |     |
+| 10  | setup              |     |
 |     | Wes Thesis Defense |     |
 | 11  | Wes Thesis Defense |     |
 |     | Wes Thesis Defense |     |
-| 12  | Hoops              |     |
+| 12  | Wes Part           |     |
 |     | Hoops              |     |
 | 1   | Hoops              |     |
-|     |                    |     |
-| 2   |                    |     |
+|     | Hoops              |     |
+| 2   | setup              |     |
 |     |                    |     |
 | 3   |                    |     |
 |     |                    |     |
@@ -91,7 +91,13 @@ if the difference of the minimum and second minimum distance from the diagonal i
 	- Test structures vs Cells in the Modules.
 	- Nice that they agree !
 - John: 
-	- 
+	- Why no e/µ?
+
+## Drinks afterwards 
+
+# Hoops
+- 10 
+
 
 
 

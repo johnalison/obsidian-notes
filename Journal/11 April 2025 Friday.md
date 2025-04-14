@@ -72,7 +72,6 @@ Bug fixing AEs replies.... not good
 - Finding problem events... printing out the jet four vectors
 
 
-
 # Christian Guito-Brody Accepts !!!!
 
 
@@ -83,7 +82,7 @@ Connecting to lxplus with [[Cursor]]
 
 More setting up Cursor, got paragraph up/down working ! 
 
-lxplus down...not down just slow
+lxplus down...not down, just slow
 
 
 # Starting [[HGC Slides for April 2023 Review]]
@@ -107,8 +106,7 @@ Start drafting [[Sindhu Murthy Rec Letter April 2025]]
 - AE Debugging skims 
 - [x] Send thesis 
 - JA:  `_____ `
-- SM: Still not getting it.... 
-
+- SM: Still not getting it
 
 ## Chat with Roy about [[Track Fitting Degrees of Freedom]] 
 
@@ -139,3 +137,4 @@ Getting material for [[ProgressReport 11 April 2025]]
 Late night writing [[ProgressReport 11 April 2025]]
 
 
+ 
