@@ -59,9 +59,10 @@ M & T To school
 - Make up exam 2:30 pm today
 
 # [[Run3 HH4b Cutflow Challenge]]
-Yes, we follow the method used in HIG-20-005 ( [https://gitlab.cern.ch/mkolosov/hh4b_run3/-/blob/run2/python/producers/hh4bTreeProducer.py?ref_type=heads#L3350](https://gitlab.cern.ch/mkolosov/hh4b_run3/-/blob/run2/python/producers/hh4bTreeProducer.py?ref_type=heads#L3350) )  in which : 
-
-if the difference of the minimum and second minimum distance from the diagonal is less than 30, we choose the pair that has the maximum H1 pT in the 4-jet center-of-mass frame.
+- Yes, we follow the method used in HIG-20-005 ( [https://gitlab.cern.ch/mkolosov/hh4b_run3/-/blob/run2/python/producers/hh4bTreeProducer.py?ref_type=heads#L3350](https://gitlab.cern.ch/mkolosov/hh4b_run3/-/blob/run2/python/producers/hh4bTreeProducer.py?ref_type=heads#L3350) )  in which : 
+	if the difference of the minimum and second minimum distance from the diagonal is less than 30, we choose the pair that has the maximum H1 pT in the 4-jet center-of-mass frame.
+- Implementing mhh < 30 check
+- `python -m unittest analysis.tests.quadjet_test.quadJetTestCase`
 
 # Wes Defense
 - Wimp Miracle  ? What was miraculous about it?
@@ -109,3 +110,4 @@ if the difference of the minimum and second minimum distance from the diagonal i
 
 
 # [[Run3 HH4b Cutflow Challenge]]
+- python -m unittest analysis.tests.quadjet_test.quadJetTestCase
