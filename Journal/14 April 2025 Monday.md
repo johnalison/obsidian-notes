@@ -1,23 +1,23 @@
 # ACTION : [[Apply To Osher Fall 2025]]
 
-|     |     |     |
-| --- | --- | --- |
-| 9   |     |     |
-|     |     |     |
-| 10  |     |     |
-|     |     |     |
-| 11  |     |     |
-|     |     |     |
-| 12  |     |     |
-|     |     |     |
-| 1   |     |     |
-|     |     |     |
-| 2   |     |     |
-|     |     |     |
-| 3   |     |     |
-|     |     |     |
-| 4   |     |     |
-|     |     |     |
+|     |                    |     |
+| --- | ------------------ | --- |
+| 9   | Teaching           |     |
+|     | Teaching           |     |
+| 10  |                    |     |
+|     | Wes Thesis Defense |     |
+| 11  | Wes Thesis Defense |     |
+|     | Wes Thesis Defense |     |
+| 12  | Hoops              |     |
+|     | Hoops              |     |
+| 1   | Hoops              |     |
+|     |                    |     |
+| 2   |                    |     |
+|     |                    |     |
+| 3   |                    |     |
+|     |                    |     |
+| 4   |                    |     |
+|     |                    |     |
 
 **W:**
 **DW:**
@@ -32,10 +32,17 @@
 # To Do
 
 - [ ] [[Apply To Osher Fall 2025]]
-- [ ] 
+- [ ] HGC Slides
 - [ ] 
 - [ ] 
 
 ---
 
 # Log
+
+Up at 6:50 
+
+M & T To school 
+
+# HGC Slides
+- [ ] Understand changes in CMU CPI / UCSB CPI

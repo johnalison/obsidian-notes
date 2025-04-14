@@ -4,6 +4,15 @@ Book Travel to FNAL April 2025
 - [ ] Rental Car ?
 - [ ] Pay for dorm:  To pay, please call the Housing Office at 630-840-3777.
 
+
+# Logs
+
+## [[7 April 2025 Monday]]
+- Badging Appointment You were successfully scheduled on 04/23/2025 at 10:50 AM
+- Filled out Housing request form.
+	- https://fermi.servicenowservices.com/wp?id=evg-kb-article&sys_id=7803da8b47dd9a1093e40bd2e16d430f
+	- Sent mail with Housing request
+
 # Housing
 Your reservation for onsite housing at Fermilab has been approved. Listed below are the details of your reservation.  
 

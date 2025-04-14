@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Input/Books/Books.md",
+                "file": "Journal/8 April 2025 Tuesday.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Books"
+              "title": "8 April 2025 Tuesday"
             }
           },
           {
@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/12 April 2025 Saturday.md",
+                "file": "Journal/14 April 2025 Monday.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "12 April 2025 Saturday"
+              "title": "14 April 2025 Monday"
             }
           }
         ]
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Input/Books/Books.md",
+                "file": "Journal/8 April 2025 Tuesday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Books"
+              "title": "Backlinks for 8 April 2025 Tuesday"
             }
           },
           {
@@ -140,12 +140,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Input/Books/Books.md",
+                "file": "Journal/8 April 2025 Tuesday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Books"
+              "title": "Outgoing links from 8 April 2025 Tuesday"
             }
           },
           {
@@ -167,10 +167,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Input/Books/Books.md"
+                "file": "Journal/8 April 2025 Tuesday.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Books"
+              "title": "Outline of 8 April 2025 Tuesday"
             }
           },
           {
@@ -206,7 +206,18 @@
   },
   "active": "57d8ec713c650d2b",
   "lastOpenFiles": [
+    "Journal/7 April 2025 Monday.md",
+    "0-inbox/FNAL Trip April 2025.md",
+    "Journal/April 2025.md",
+    "Journal/14 April 2025 Monday.md",
+    "Journal/12 April 2025 Saturday.md",
+    "Journal/6 April 2025 Sunday.md",
+    "Journal/5 April 2025 Saturday.md",
+    "0-inbox/Analogy between QM interpretations and free will.md",
+    "Journal/4 April 2025 Friday.md",
+    "Journal/11 April 2025 Friday.md",
     "Journal/13 April 2025 Sunday.md",
+    "Input/Books/Books.md",
     "0-inbox/Time and Chance.md",
     "0-inbox/Predicting the Past vs Predicting the Future.md",
     "00-Zettelkasten/ZettelKasten Index.md",
@@ -221,17 +232,6 @@
     "2-areas/Mentoring/Jonas Roemer.md",
     "0-inbox/HGC TDR.md",
     "0-inbox/HGC Database.md",
-    "0-inbox/FNAL Site Access.md",
-    "0-inbox/CMU CMS Webpage.md",
-    "1-projects/HGC/CMU Modules per Month.md",
-    "Journal/12 April 2025 Saturday.md",
-    "Journal/April 2025.md",
-    "2-areas/Physics/Track Fitting Degrees of Freedom.md",
-    "Journal/11 April 2025 Friday.md",
-    "2-areas/Mentoring/Sindhu Murthy.md",
-    "Input/Meetings/Density estimation of missing data using OT.md",
-    "0-inbox/AnalysesOverview.excalidraw.md",
-    "Journal/6 April 2025 Sunday.md",
     "#test#",
     "test",
     "Physics",

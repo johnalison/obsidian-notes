@@ -35,12 +35,12 @@
 - [x] Chat Wes re:interview
 - [>>] Cut flow with Marina 
 - [>>]  HGC Slides
-	- [ ] Understand changes in CMU CPI / UCSB CPI
+	- [>>] Understand changes in CMU CPI / UCSB CPI
 - [>>] Taxes
 - [x] Schedule FNAL badging appointment
 	- [x] FNAL housing
 - [x] Reply Lei
-- [ ] Update ETC docs
+- [x] Update ETC docs
 
 ---
 
@@ -63,11 +63,7 @@ Chat ables:
 Start [[CMU HGC MAC Meeting 8 April 2025]]
 
 # [[FNAL Trip April 2025]]
-- Badging Appointment You were successfully scheduled on 04/23/2025 at 10:50 AM
-- Filled out Housing request form.
-	- https://fermi.servicenowservices.com/wp?id=evg-kb-article&sys_id=7803da8b47dd9a1093e40bd2e16d430f
-	- Sent mail with Housing request
-
+- see logs above
 
 # CMU Townhall: 
 - Culture of Excellence: Rachel 
@@ -87,8 +83,8 @@ Start [[CMU HGC MAC Meeting 8 April 2025]]
 - Neutrino is grain of salt compared to whale for top-Higgs 
 - ttH: bb channel is the most sensitive
 - "most optimistic assumptions are 50%"  ---> now 70 - 85%!
-- Hbb was published twice on the same data
-- did first VH(cc) , µ 110 -> 26 -> 11
+- Hbb was published twice on the same data in ATLAS
+- Heather did first VH(cc) , µ 110 -> 26 -> 11
 - b-tagging Areas where performace has changed the most : ML has had biggest impact
 
 
