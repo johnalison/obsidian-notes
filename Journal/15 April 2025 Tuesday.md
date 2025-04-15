@@ -11,11 +11,11 @@
 |     | HGC Slides                      |     |
 | 1   | HGC Slides                      |     |
 |     | Home                            |     |
-| 2   |                                 |     |
-|     |                                 |     |
-| 3   |                                 |     |
-|     |                                 |     |
-| 4   |                                 |     |
+| 2   | w/Kids                          |     |
+|     | wKids                           |     |
+| 3   | Mans Meeting                    |     |
+|     | Mans Meeting                    |     |
+| 4   | Mans Meeting                    |     |
 |     |                                 |     |
 
 **W:**
@@ -25,7 +25,8 @@
 
 ---
 # The ONE thing: 
-- [ ] 
+- [ ] CutFlow
+- [ ] HGC Slides
 
 ---
 # To Do
@@ -80,3 +81,9 @@ Home
 # HGC Management Meeting
 - South Dakota losing their grant unless they comply with 15% overhead
 - 2 chiller boxes shipped each week
+
+Reviewed Evans slides for Hbb tomorrow with ZZ and ZH... Looks Good !!
+
+Working [[HGC Slides for April 2023 Review]]
+- 2025 HGC Annual review: https://indico.cern.ch/event/1523635/
+
