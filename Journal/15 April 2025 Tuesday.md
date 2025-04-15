@@ -55,9 +55,22 @@ To Campus
 
 # [[Run3 HH4b Cutflow Challenge]]
 - Impletented the Run3 case when dhh < 30 GeV
+- Remade pkl inputs
+- Now better agreement! 
+	- Before:
+		`Total number of missing events: 11690 (47.79% of total events)`
+		`Total number of extra events: 4918 (27.81% of total events)`
+	- Now:
+		`Total number of missing events: 8426 (34.45% of total events)`
+		`Total number of extra events: 2706 (14.44% of total events)`
+- Eg: `Run 355872: 99 missing events
+  `First 5 missing events: [228793492, 993131619, 994362241, 994277091, 1003079747, 1007831198, 1141642728, 1145575379, 1145596930, 1086081738]`
 
 # Cursor
 - To indent 'cmd + ]'
 
 
-[[CMU HGC MAC Meeting 15 April 2025]]
+# [[CMU HGC MAC Meeting 15 April 2025]]
+
+
+More cutflow challenge... see above
