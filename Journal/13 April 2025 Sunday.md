@@ -16,7 +16,7 @@ To school to get Champagne for Wes
 
 Some [[Myth of the Rational Voter]]
 
-New bed !
+New bed ! Gates down !
 
 # Gym / Steamroom
 - Some Core / 3 Supersets

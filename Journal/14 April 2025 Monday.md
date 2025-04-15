@@ -1,6 +1,6 @@
 # ACTION : [[Apply To Osher Fall 2025]]
 
-|     |                                 |     |
+|     | setup                           |     |
 | --- | ------------------------------- | --- |
 | 9   | Teaching                        |     |
 |     | Teaching                        |     |
@@ -14,35 +14,35 @@
 |     | Hoops                           |     |
 | 2   | setup / chat AE                 |     |
 |     | Chat AE                         |     |
-| 3   |                                 |     |
+| 3   | FNAL payments / rental          |     |
 |     | [[Run3 HH4b Cutflow Challenge]] |     |
 | 4   | [[Run3 HH4b Cutflow Challenge]] |     |
 |     | [[Run3 HH4b Cutflow Challenge]] |     |
 
-**W:**
-**DW:**
-**OT:**
-**ex** or **No ex**
+**W:** 7. 
+**DW:** 4
+**OT:** 4
+**ex** 
 
 ---
 # The ONE thing: 
-- [ ] Wes' Thesis
-- [ ] FNAL Rental / Pay 
+- [x] Wes' Thesis
+- [x] FNAL Rental / Pay 
 - [ ] Cutflow
 
 ---
 # To Do
 
-- [ ] [[Apply To Osher Fall 2025]]
-- [ ] HGC Slides
-- [ ] Marina Cut Flow
-- [ ] Pritam re:MMTS
-- [ ]  Prepare Something for Jonas
+- [>>]  [[Apply To Osher Fall 2025]]
+- [>>] HGC Slides
+- [>>] Marina Cut Flow
+- [x] Pritam re:MMTS
+- [ ] Prepare Something for Jonas
 - [x] FNAL Rental Car ?
 - [x] Pay for FNAL Dorm
 - [ ] Re-skim Run3
 - [ ] Coordinate keystroke for hideing left toolbar
-- [ ] Grade Exam
+- [>>] Grade Exam
 ---
 
 # Log
@@ -52,7 +52,7 @@ Up at 6:50
 M & T To school 
 
 # HGC Slides
-- [ ] Understand changes in CMU CPI / UCSB CPI
+- [>>] Understand changes in CMU CPI / UCSB CPI
 
 # Taught
 - More than one particle
@@ -97,10 +97,11 @@ M & T To school
 - John: 
 	- Why no e/µ?
 
-## Drinks afterwards 
+## Drinks afterwards ! 
+
 
 # Hoops
-- 10 
+- Good runs
 
 
 # [[FNAL Trip April 2025]]
@@ -110,7 +111,7 @@ M & T To school
 
 
 # [[Run3 HH4b Cutflow Challenge]]
-- python -m unittest analysis.tests.quadjet_test.quadJetTestCase
+- see above
 
 Home 
 

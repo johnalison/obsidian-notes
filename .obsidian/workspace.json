@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/9 April 2025 Wednesday.md",
+                "file": "Output/CAM/HGC Transfer Tape BCR.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "9 April 2025 Wednesday"
+              "title": "HGC Transfer Tape BCR"
             }
           },
           {
@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/15 April 2025 Tuesday.md",
+                "file": "1-projects/HGC/HGC Estimate to complete Spring 2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "15 April 2025 Tuesday"
+              "title": "HGC Estimate to complete Spring 2025"
             }
           }
         ],
@@ -69,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "file:estima",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/15 April 2025 Tuesday.md",
+                "file": "1-projects/HGC/HGC Estimate to complete Spring 2025.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 15 April 2025 Tuesday"
+              "title": "Backlinks for HGC Estimate to complete Spring 2025"
             }
           },
           {
@@ -141,12 +141,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/15 April 2025 Tuesday.md",
+                "file": "1-projects/HGC/HGC Estimate to complete Spring 2025.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 15 April 2025 Tuesday"
+              "title": "Outgoing links from HGC Estimate to complete Spring 2025"
             }
           },
           {
@@ -168,10 +168,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/15 April 2025 Tuesday.md"
+                "file": "1-projects/HGC/HGC Estimate to complete Spring 2025.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 15 April 2025 Tuesday"
+              "title": "Outline of HGC Estimate to complete Spring 2025"
             }
           },
           {
@@ -207,17 +207,18 @@
   },
   "active": "3ad63acad465cd60",
   "lastOpenFiles": [
+    "Journal/15 April 2025 Tuesday.md",
+    "Output/CAM/HGC Transfer Tape BCR.md",
     "Journal/14 April 2025 Monday.md",
+    "Journal/April 2025.md",
+    "Journal/13 April 2025 Sunday.md",
+    "Journal/12 April 2025 Saturday.md",
+    "Journal/11 April 2025 Friday.md",
+    "Journal/10 April 2025 Thursday.md",
     "Journal/9 April 2025 Wednesday.md",
     "Journal/8 April 2025 Tuesday.md",
     "1-projects/HGC/HGC WADs.md",
     "Journal/7 April 2025 Monday.md",
-    "Journal/15 April 2025 Tuesday.md",
-    "Journal/13 April 2025 Sunday.md",
-    "Journal/April 2025.md",
-    "Journal/12 April 2025 Saturday.md",
-    "Journal/11 April 2025 Friday.md",
-    "Journal/10 April 2025 Thursday.md",
     "0-inbox/FNAL Trip April 2025.md",
     "Journal/6 April 2025 Sunday.md",
     "Journal/5 April 2025 Saturday.md",
@@ -232,7 +233,6 @@
     "0-inbox/What do we know about organizing society or government with overwhelming confidence.md",
     "Output/Taxes 2025.md",
     "0-inbox/Untitled.md",
-    "Output/Recommendation  Letters/Sindhu Murthy Rec Letter April 2025.md",
     "#test#",
     "test",
     "Physics",

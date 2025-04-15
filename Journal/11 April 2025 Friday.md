@@ -36,7 +36,7 @@
 - [x] Follow up Jasques 
 - [x] Look into Soeheuns MCPs 
 - [ ] MCP for gmail ? 
-- [ ] Make klX work interactively in iPlot
+- [>>] Make klX work interactively in iPlot
 - [x] Write up [[MAC Meeting 9 April 2025]]
 - [x] Nominate Sindhu for HGC award
 - [>>] FNAL Rental Car ?
@@ -105,10 +105,11 @@ Start drafting [[Sindhu Murthy Rec Letter April 2025]]
 # 4b Chat
 - AE Debugging skims 
 - [x] Send thesis 
-- JA:  `_____ `
+- JA:  Bootstrapping looks good / on to cutflow debugging
 - SM: Still not getting it
 
 ## Chat with Roy about [[Track Fitting Degrees of Freedom]] 
+
 
 # Grad Social 
 - Good Discussion... Aniket not drinking either

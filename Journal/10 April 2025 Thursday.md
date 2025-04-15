@@ -57,7 +57,7 @@ M & T to school
 - Qualitative Sch Eq. Solutions 
 - Quantum Tunneling 
 
-# Stats Chat 
+# [[Stats Data-Driven SR]]
 - 2D plots clearly show benefit of smearing
 - Try max(FvT) vs mean(FvT)  max vs min gamma/gamma-tilde
 - [x] Claude desktop 
