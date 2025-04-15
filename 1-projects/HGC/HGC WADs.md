@@ -8,6 +8,9 @@ John and Larry have taken over for Manfred and Anadi respectively.  Since they�
 
 WADs are stored in docdb.   For Manfred -> John the WADs are
 
+- https://cms-docdb.cern.ch/cgi-bin/DocDB/ShowDocument?docid=14000
+- https://cms-docdb.cern.ch/cgi-bin/DocDB/ShowDocument?docid=14003
+- https://cms-docdb.cern.ch/cgi-bin/DocDB/ShowDocument?docid=14002
   
 
 |                                                                                                 |                                                                                                                                                                                                                         |     |     |
@@ -15,6 +18,7 @@ WADs are stored in docdb.   For Manfred -> John the WADs are
 | [14003-v7](https://cms-docdb.cern.ch/cgi-bin/DocDB/ShowDocument?docid=14003 "CMS-doc-14003-v7") | [HL LHC CMS Detector Upgrade Project --- Work Authorization Document -- CE Module Assembly at UCSB](https://cms-docdb.cern.ch/cgi-bin/DocDB/ShowDocument?docid=14003 "CMS-doc-14003-v7")  <br>(Approved - 22 Nov 2023)  |     |     |
 | [14002-v7](https://cms-docdb.cern.ch/cgi-bin/DocDB/ShowDocument?docid=14002 "CMS-doc-14002-v7") | [HL LHC CMS Detector Upgrade Project --- Work Authorization Document -- CE Standard Assembly Site 2](https://cms-docdb.cern.ch/cgi-bin/DocDB/ShowDocument?docid=14002 "CMS-doc-14002-v7")  <br>(Approved - 22 Nov 2023) |     |     |
 | [14000-v7](https://cms-docdb.cern.ch/cgi-bin/DocDB/ShowDocument?docid=14000 "CMS-doc-14000-v7") | [HL LHC CMS Detector Upgrade Project --- Work Authorization Document -- CE Module Factories](https://cms-docdb.cern.ch/cgi-bin/DocDB/ShowDocument?docid=14000 "CMS-doc-14000-v7")                                       |     |     |
+
 
 
 # Follow-ups

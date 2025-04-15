@@ -24,7 +24,9 @@
     "results_limit": "20"
   },
   "smart_notices": {
-    "muted": {}
+    "muted": {
+      "new_version_available": true
+    }
   },
   "excluded_headings": ""
 }
