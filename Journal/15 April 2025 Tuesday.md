@@ -74,3 +74,9 @@ To Campus
 
 
 More cutflow challenge... see above
+
+Home
+
+# HGC Management Meeting
+- South Dakota losing their grant unless they comply with 15% overhead
+- 2 chiller boxes shipped each week
