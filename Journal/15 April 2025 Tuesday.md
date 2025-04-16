@@ -87,3 +87,5 @@ Reviewed Evans slides for Hbb tomorrow with ZZ and ZH... Looks Good !!
 Working [[HGC Slides for April 2023 Review]]
 - 2025 HGC Annual review: https://indico.cern.ch/event/1523635/
 
+
+Some [[Myth of the Rational Voter]]
