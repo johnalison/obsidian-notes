@@ -16,12 +16,12 @@
 | 3   | Mans Meeting                    |     |
 |     | Mans Meeting                    |     |
 | 4   | Mans Meeting                    |     |
-|     |                                 |     |
+|     | HGC Slides                      |     |
 
-**W:**
-**DW:**
-**OT:**
-**ex** or **No ex**
+**W:** 7 
+**DW:** 3 
+**OT:** 2
+**No ex**
 
 ---
 # The ONE thing: 
@@ -31,17 +31,19 @@
 ---
 # To Do
 
-- [ ] Grade Exams
-- [ ] Marina Cutflow 
-- [ ] More [[HGC Slides for April 2023 Review]]
+- [>>] Grade Exams
+- [>>] Marina Cutflow 
+- [>>] More [[HGC Slides for April 2023 Review]]
 - [ ] Make klX work interactively in iPlot
-- [ ] [[Apply To Osher Fall 2025]]
+- [>>]  [[Apply To Osher Fall 2025]]
 
 ---
 
 # Log
 
 Up at 7:30
+
+## Steph Sick !
 
 Setup 
 

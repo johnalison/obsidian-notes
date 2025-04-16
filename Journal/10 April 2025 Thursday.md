@@ -10,7 +10,7 @@
 | 12  | Chat AE      |     |
 |     | Faculty      |     |
 | 1   | Faculty      |     |
-|     | Tony         |     |
+|     | Tony Boyle   |     |
 | 2   |              |     |
 |     | Office Hours |     |
 | 3   | Office Hours |     |
@@ -101,7 +101,7 @@ Left early for H showcase
 - Obsidian: https://www.youtube.com/watch?v=VeTnndXyJQI
 - Gmail: ???
 
-# Setting up the MCP server for Obsidian !
+# Setting up the MCP server for [[Obsidian]] !
 - Obsidian: https://www.youtube.com/watch?v=VeTnndXyJQI
 - installed Claude desktop 
 - **> brew install uv**

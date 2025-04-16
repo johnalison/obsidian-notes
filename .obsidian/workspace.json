@@ -13,26 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/9 April 2025 Wednesday.md",
+                "file": "Journal/14 April 2025 Monday.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "9 April 2025 Wednesday"
-            }
-          },
-          {
-            "id": "6e57dacf20c350d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Journal/15 April 2025 Tuesday.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "15 April 2025 Tuesday"
+              "title": "14 April 2025 Monday"
             }
           },
           {
@@ -47,6 +33,20 @@
               },
               "icon": "lucide-file",
               "title": "April 2025"
+            }
+          },
+          {
+            "id": "6e57dacf20c350d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Journal/15 April 2025 Tuesday.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "15 April 2025 Tuesday"
             }
           },
           {
@@ -77,7 +77,8 @@
               "title": "MAC Meeting 9 April 2025"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -149,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/9 April 2025 Wednesday.md",
+                "file": "Journal/April 2025.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +160,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 9 April 2025 Wednesday"
+              "title": "Backlinks for April 2025"
             }
           },
           {
@@ -168,12 +169,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/9 April 2025 Wednesday.md",
+                "file": "Journal/April 2025.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 9 April 2025 Wednesday"
+              "title": "Outgoing links from April 2025"
             }
           },
           {
@@ -195,10 +196,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/9 April 2025 Wednesday.md"
+                "file": "Journal/April 2025.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 9 April 2025 Wednesday"
+              "title": "Outline of April 2025"
             }
           },
           {
@@ -232,24 +233,24 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "57d8ec713c650d2b",
+  "active": "7599ffa8d4ccfd38",
   "lastOpenFiles": [
-    "Journal/8 April 2025 Tuesday.md",
-    "Journal/16 April 2025 Wednesday.md",
-    "Input/Meetings/CMU HGC MAC Meeting 8 April 2025.md",
     "Journal/15 April 2025 Tuesday.md",
-    "0-inbox/CMU HGC MAC Meeting 15 April 2025.md",
-    "Input/Meetings/MAC Meeting 9 April 2025.md",
+    "Journal/April 2025.md",
+    "Journal/14 April 2025 Monday.md",
+    "Journal/16 April 2025 Wednesday.md",
+    "Journal/13 April 2025 Sunday.md",
+    "Journal/12 April 2025 Saturday.md",
     "Journal/11 April 2025 Friday.md",
     "Journal/10 April 2025 Thursday.md",
     "Journal/9 April 2025 Wednesday.md",
+    "Journal/8 April 2025 Tuesday.md",
+    "Input/Meetings/CMU HGC MAC Meeting 8 April 2025.md",
+    "0-inbox/CMU HGC MAC Meeting 15 April 2025.md",
+    "Input/Meetings/MAC Meeting 9 April 2025.md",
     "1-projects/HGC/HGC Estimate to complete Spring 2025.md",
     "Input/Meetings/CMU HGC MAC Meeting 1 April 2025.md",
     "Output/CAM/HGC Transfer Tape BCR.md",
-    "Journal/14 April 2025 Monday.md",
-    "Journal/April 2025.md",
-    "Journal/13 April 2025 Sunday.md",
-    "Journal/12 April 2025 Saturday.md",
     "1-projects/HGC/HGC WADs.md",
     "Journal/7 April 2025 Monday.md",
     "0-inbox/FNAL Trip April 2025.md",

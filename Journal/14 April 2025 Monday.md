@@ -37,10 +37,10 @@
 - [>>] HGC Slides
 - [>>] Marina Cut Flow
 - [x] Pritam re:MMTS
-- [ ] Prepare Something for Jonas
+- [x] Prepare Something for Jonas
 - [x] FNAL Rental Car ?
 - [x] Pay for FNAL Dorm
-- [ ] Re-skim Run3
+- [>>] Re-skim Run3
 - [ ] Coordinate keystroke for hideing left toolbar
 - [>>] Grade Exam
 ---
@@ -97,7 +97,7 @@ M & T To school
 - John: 
 	- Why no e/µ?
 
-## Drinks afterwards ! 
+## Champaign afterwards ! 
 
 
 # Hoops
@@ -105,13 +105,12 @@ M & T To school
 
 
 # [[FNAL Trip April 2025]]
-- Booked FNAL Rental  $XXXX
+- Booked FNAL Rental   ~ $160
 	-  Customers should call (708) 924-9776 once they're aboard the shuttle to notify the office of their arrival and they'll be picked up from the facility.
 - Paid for Dorm $40.
 
 
-# [[Run3 HH4b Cutflow Challenge]]
-- see above
+More [[Run3 HH4b Cutflow Challenge]] ... see above
 
 Home 
 

@@ -13,8 +13,8 @@
 | 11 F | HR Moves ! / Exam 3 / Guito-Brody Accepts ! / HGC slides / STAMPS/ Social           | 8/4/4 |
 | 12 S | Reading / Art Show / Olive Garden / [[Sindhu Murthy Rec Letter April 2025]]         |       |
 | 13 S | Reading / **Gym/SR** / M&A over for pizza                                           |       |
-| 14 M | (Wes' thesis)                                                                       | 7/4/4 |
-| 15 T | (Taxes Due! )                                                                       |       |
+| 14 M | Taught / Wes' Defense!  / **Hoops** / Book Rental / Reading                         | 7/4/4 |
+| 15 T | Steph sick / Working cutflow / Management Meeting / Working slides                  | 7/3/2 |
 | 16 W |                                                                                     |       |
 | 17 H |                                                                                     |       |
 | 18 F |                                                                                     |       |

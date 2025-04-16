@@ -25,16 +25,28 @@
 
 ---
 # The ONE thing: 
-- [ ] 
+- [ ] Grade Exams
 
 ---
 # To Do
 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
+- [ ] Grade Exams
+- [ ] HGC Slides
+- [ ] Staff award for Jessica
+- [ ] Ping Arvind
+- [ ]   [[Apply To Osher Fall 2025]]
+- [ ] CutFlow Comparison
 
 ---
 
 # Log
+
+Up at 6:50 
+
+M & T to school.
+
+H to work with me
+
+# Taught
+- Spin and Bonding
+

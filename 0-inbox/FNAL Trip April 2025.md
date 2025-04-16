@@ -1,8 +1,8 @@
 Book Travel to FNAL April 2025
 - Flight $389.96
 - [x] Get housing:  https://get-connected.fnal.gov/housing/
-- [ ] Rental Car ?
-- [ ] Pay for dorm:  To pay, please call the Housing Office at 630-840-3777.
+- [x] Rental Car ?
+- [x] Pay for dorm:  To pay, please call the Housing Office at 630-840-3777.
 
 
 # Logs
