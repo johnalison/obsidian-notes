@@ -36,7 +36,7 @@
 - [ ] Ping Arvind
 - [ ]   [[Apply To Osher Fall 2025]]
 - [ ] CutFlow Comparison
-- [ ] Post Homework
+- [x] Post Homework
 
 ---
 
@@ -61,3 +61,12 @@ H to work with me
 - [x] Grade C installable ? 
 - [x] What is the cadence after August
 
+
+
+Graded Exams 
+
+Posted Homework
+
+# Working HGC slides
+- [[CAM Turnaround Report]]
+- 16 modules /day * 5 days /week * 0.03 m^2 / module
