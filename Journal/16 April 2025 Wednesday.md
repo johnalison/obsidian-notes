@@ -30,7 +30,7 @@
 ---
 # To Do
 
-- [ ] Grade Exams
+- [x] Grade Exams
 - [ ] HGC Slides
 - [ ] Staff award for Jessica
 - [ ] Ping Arvind
