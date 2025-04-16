@@ -1,22 +1,22 @@
 
-|     |             |     |
-| --- | ----------- | --- |
-| 9   | Teaching    |     |
-|     | Teaching    |     |
-| 10  | Hbb         |     |
-|     | Hbb         |     |
-| 11  |             |     |
-|     | San         |     |
-| 12  | Hoops       |     |
-|     | Hoops       |     |
-| 1   | Hoops       |     |
-|     | Hoops       |     |
-| 2   |             |     |
-|     | Chat Sindhu |     |
-| 3   |             |     |
-|     |             |     |
-| 4   | bbWW        |     |
-|     | bbWW        |     |
+|     |                     |     |
+| --- | ------------------- | --- |
+| 9   | Teaching            |     |
+|     | Teaching            |     |
+| 10  | Hbb                 |     |
+|     | Hbb                 |     |
+| 11  |                     |     |
+|     | San                 |     |
+| 12  | Hoops               |     |
+|     | Hoops               |     |
+| 1   | Hoops               |     |
+|     | Hoops               |     |
+| 2   | Grade Exams         |     |
+|     | Chat Sindhu / Exams |     |
+| 3   | Slides              |     |
+|     | Slides              |     |
+| 4   | Slides              |     |
+|     | Slides              |     |
 
 **W:**
 **DW:**
@@ -70,3 +70,8 @@ Posted Homework
 # Working HGC slides
 - [[CAM Turnaround Report]]
 - 16 modules /day * 5 days /week * 0.03 m^2 / module
+- [[HGC Estimate to complete Spring 2025]]
+
+# Chat [[Sindhu Murthy]]
+- Need to start putting slides together.
+

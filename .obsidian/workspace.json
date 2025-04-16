@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/16 April 2025 Wednesday.md",
+                "file": "1-projects/HGC/HGC Estimate to complete Spring 2025.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 16 April 2025 Wednesday"
+              "title": "Backlinks for HGC Estimate to complete Spring 2025"
             }
           },
           {
@@ -169,12 +169,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/16 April 2025 Wednesday.md",
+                "file": "1-projects/HGC/HGC Estimate to complete Spring 2025.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 16 April 2025 Wednesday"
+              "title": "Outgoing links from HGC Estimate to complete Spring 2025"
             }
           },
           {
@@ -196,10 +196,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/16 April 2025 Wednesday.md"
+                "file": "1-projects/HGC/HGC Estimate to complete Spring 2025.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 16 April 2025 Wednesday"
+              "title": "Outline of HGC Estimate to complete Spring 2025"
             }
           },
           {
@@ -233,10 +233,10 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "6e57dacf20c350d8",
+  "active": "3ad63acad465cd60",
   "lastOpenFiles": [
-    "1-projects/HGC/CAM Turnaround Report.md",
     "Journal/16 April 2025 Wednesday.md",
+    "1-projects/HGC/CAM Turnaround Report.md",
     "Journal/15 April 2025 Tuesday.md",
     "Journal/14 April 2025 Monday.md",
     "Journal/April 2025.md",
