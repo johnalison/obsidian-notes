@@ -36,6 +36,7 @@
 - [ ] Ping Arvind
 - [ ]   [[Apply To Osher Fall 2025]]
 - [ ] CutFlow Comparison
+- [ ] Post Homework
 
 ---
 
