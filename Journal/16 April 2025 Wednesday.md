@@ -50,3 +50,13 @@ H to work with me
 # Taught
 - Spin and Bonding
 
+# Hbb 
+- ZZ/ZH meeting
+- Grading exams
+# Hoops
+- Good run great wins.
+
+# [[HGC Slides for April 2023 Review]]
+- [x] Grade C installable ? 
+- [x] What is the cadence after August
+
