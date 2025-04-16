@@ -71,7 +71,12 @@ Posted Homework
 - [[CAM Turnaround Report]]
 - 16 modules /day * 5 days /week * 0.03 m^2 / module
 - [[HGC Estimate to complete Spring 2025]]
+- [[HGC MAC BoEs]]
 
 # Chat [[Sindhu Murthy]]
 - Need to start putting slides together.
+
+More HGC slides
+
+Home with kids
 
