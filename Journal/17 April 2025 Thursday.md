@@ -56,7 +56,12 @@ H to work with me.
 
 # Faculty Meeting
 - Roys mail
-
+- Grad program: What is the goal of the core courses ?
+- Strong link vs Weak link
+- Why only 1st semester ?
+- Reasearch in 1st year working ?
+- Reinstatement of GRE
+- 
 
 
 
