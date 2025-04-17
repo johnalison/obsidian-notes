@@ -77,7 +77,8 @@
               "title": "MAC Meeting 9 April 2025"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -150,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/17 April 2025 Thursday.md",
+                "file": "Journal/11 April 2025 Friday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +161,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 17 April 2025 Thursday"
+              "title": "Backlinks for 11 April 2025 Friday"
             }
           },
           {
@@ -169,12 +170,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/17 April 2025 Thursday.md",
+                "file": "Journal/11 April 2025 Friday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 17 April 2025 Thursday"
+              "title": "Outgoing links from 11 April 2025 Friday"
             }
           },
           {
@@ -196,10 +197,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/17 April 2025 Thursday.md"
+                "file": "Journal/11 April 2025 Friday.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 17 April 2025 Thursday"
+              "title": "Outline of 11 April 2025 Friday"
             }
           },
           {
@@ -233,10 +234,10 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "57d8ec713c650d2b",
+  "active": "6e57dacf20c350d8",
   "lastOpenFiles": [
-    "Output/CAM/HGC Transfer Tape BCR.md",
     "Journal/17 April 2025 Thursday.md",
+    "Output/CAM/HGC Transfer Tape BCR.md",
     "1-projects/HGC/Dry Air for MMTS.md",
     "Journal/11 April 2025 Friday.md",
     "Journal/10 April 2025 Thursday.md",

@@ -1,22 +1,22 @@
 
-|     | setup        |     |
-| --- | ------------ | --- |
-| 9   | FBC2         |     |
-|     | FBC2         |     |
-| 10  | Teach        |     |
-|     | Teach        |     |
-| 11  | Stats        |     |
-|     | Stats        |     |
-| 12  |              |     |
-|     | Faculty      |     |
-| 1   | Faculty      |     |
-|     | Tony         |     |
-| 2   |              |     |
-|     | Office Hours |     |
-| 3   | Office Hours |     |
-|     | HEP Chat     |     |
-| 4   | HEP Chat     |     |
-|     |              |     |
+|     | setup            |     |
+| --- | ---------------- | --- |
+| 9   | FBC2             |     |
+|     | FBC2             |     |
+| 10  | Teach            |     |
+|     | Teach            |     |
+| 11  | Stats            |     |
+|     | Stats            |     |
+| 12  |                  |     |
+|     | Faculty          |     |
+| 1   | Faculty          |     |
+|     | Tony             |     |
+| 2   | Slides           |     |
+|     | Office Hours     |     |
+| 3   | Office Hours     |     |
+|     | HEP Chat         |     |
+| 4   | HEP Chat         |     |
+|     | Leave to go home |     |
 
 **W:**
 **DW:**
@@ -61,8 +61,18 @@ H to work with me.
 - Why only 1st semester ?
 - Reasearch in 1st year working ?
 - Reinstatement of GRE
-- 
 
 
 
+# Working [[HGC Slides for April 2023 Review]]
+
+
+# Office Hours
+- Chance lots of questions...
+
+
+# HEP Chat
+
+
+Home...
 
