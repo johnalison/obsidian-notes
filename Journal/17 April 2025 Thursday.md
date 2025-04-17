@@ -55,7 +55,9 @@ H to work with me.
 - Question re: CR with bais, improvement from 1 bin vs 2bins ?
 
 # Faculty Meeting
-- dfasdfa
+- Roys mail
+
+
 
 
 
