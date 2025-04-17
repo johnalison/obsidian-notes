@@ -48,4 +48,14 @@ H to work with me.
 [[HGC Transfer Tape BCR]]
 
 
+# Taught 
+- 3D Schrinding Eq
+
+# [[Stats Data-Driven SR]]
+- Question re: CR with bais, improvement from 1 bin vs 2bins ?
+
+# Faculty Meeting
+- dfasdfa
+
+
 
