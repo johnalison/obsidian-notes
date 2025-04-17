@@ -19,7 +19,7 @@ These 7 degrees of freedom represent:
 For N tracks constrained to meet at a common 3D vertex:
 - Initial degrees of freedom: N × 5 = 5N
 - Constraints: 3N (each track must pass through same point)
-- Add back 3 (only need to specify vertex position once)
+- Subtract 3 free parameters (which is the position of the vertex) 
 - Final degrees of freedom: 5N - 3N - 3 = 2N - 3
 
 This formula gives:

@@ -58,10 +58,7 @@ M & T to school
 - Quantum Tunneling 
 
 # [[Stats Data-Driven SR]]
-- 2D plots clearly show benefit of smearing
-- Try max(FvT) vs mean(FvT)  max vs min gamma/gamma-tilde
-- [x] Claude desktop 
-- [x] setup MCP for obsidian
+- see above
 
 # Chat AE
 - plan to execute on Mengs meeting
@@ -101,14 +98,4 @@ Left early for H showcase
 - Obsidian: https://www.youtube.com/watch?v=VeTnndXyJQI
 - Gmail: ???
 
-# Setting up the MCP server for [[Obsidian]] !
-- Obsidian: https://www.youtube.com/watch?v=VeTnndXyJQI
-- installed Claude desktop 
-- **> brew install uv**
-- Installed mcp-obsidian
-	- https://github.com/MarkusPfundstein/mcp-obsidian
-- Installed obsidian plug-in "Local REST API"
-- edit claude config
-- Working... Can now easily save chat output here...
-- [x] Setup a separate "claude project"  "Obsidian Note Taker"... have it use MCP tools as much as possble
-- [[Obsidian Note Take Project Setup]] - Documentation of steps taken to set up the Claude integration with Obsidian and the project instructions established
+# Setting up the [[MCP server for Obsidian]] !

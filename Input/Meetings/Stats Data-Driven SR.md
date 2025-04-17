@@ -6,6 +6,13 @@ Links:
 
 # Log
 
+
+## [[17 April 2025 Thursday]]
+- 2D plots clearly show benefit of smearing
+- Try max(FvT) vs mean(FvT)  max vs min gamma/gamma-tilde
+- [x] Claude desktop 
+- [x] setup MCP for obsidian
+
 ## [[3 April 2025 Thursday]]
 - Useful meeting
 - Smearing hurts power some, but improves bias
