@@ -1,22 +1,22 @@
 
-|     |       |     |
-| --- | ----- | --- |
-| 9   | Teach |     |
-|     | Teach |     |
-| 10  | setup |     |
-|     |       |     |
-| 11  |       |     |
-|     |       |     |
-| 12  |       |     |
-|     |       |     |
-| 1   |       |     |
-|     |       |     |
-| 2   |       |     |
-|     |       |     |
-| 3   |       |     |
-|     |       |     |
-| 4   |       |     |
-|     |       |     |
+|     |                                              |     |
+| --- | -------------------------------------------- | --- |
+| 9   | Teach                                        |     |
+|     | Teach                                        |     |
+| 10  | setup                                        |     |
+|     | HGC Slides                                   |     |
+| 11  | HGC Slides                                   |     |
+|     | HGC Slides                                   |     |
+| 12  | HGC Slides                                   |     |
+|     | Wes' thesis                                  |     |
+| 1   | [[Effect of random binning on significance]] |     |
+|     |                                              |     |
+| 2   | 4b Meeting                                   |     |
+|     |                                              |     |
+| 3   | Home for inspector                           |     |
+|     |                                              |     |
+| 4   |                                              |     |
+|     |                                              |     |
 
 **W:**
 **DW:**
@@ -30,14 +30,14 @@
 ---
 # To Do
 
-- [ ] [[HGC Slides for April 2023 Review]]
+- [x] [[HGC Slides for April 2023 Review]]
 - [ ] VARs
-- [ ] [[Apply To Osher Fall 2025]]
-- [ ] Effect of random binning on significance
+- [x] [[Apply To Osher Fall 2025]]
+- [x] Effect of random binning on significance
 - [ ] Renewal Materials for Teachers Program
 - [ ] Staff award for Jessica
 - [ ] Cutflow Comparison
-- [ ] Wes thesis edits
+- [x] Wes thesis edits
 
 ---
 
@@ -51,3 +51,13 @@ M&T To school... No H today !!!
 - Exam3 / Periodic table
 
 # [[HGC Slides for April 2023 Review]]
+- Sent draft
+
+
+# [[Wesley Terrill Thesis]]
+
+
+# Write up [[Effect of random binning on significance]] 
+
+
+Applied to Osher in Fall 2025

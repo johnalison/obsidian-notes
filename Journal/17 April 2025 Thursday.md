@@ -72,4 +72,6 @@ H to work with me.
 
 Home...
 
+# Finances: 1.8/1.7
+
 Working slides
