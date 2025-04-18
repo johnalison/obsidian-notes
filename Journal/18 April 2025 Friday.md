@@ -52,6 +52,8 @@ M&T To school... No H today !!!
 
 # [[HGC Slides for April 2023 Review]]
 - Sent draft
+- Risk registry
+- https://cms-docdb.cern.ch/cgi-bin/DocDB/ShowDocument?docid=13480
 
 
 # [[Wesley Terrill Thesis]]
@@ -61,3 +63,8 @@ M&T To school... No H today !!!
 
 
 Applied to Osher in Fall 2025
+
+# 4b 
+- AE
+
+More slides
