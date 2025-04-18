@@ -24,6 +24,12 @@ ACR: (AR_dHM >= 30) & (AR_dHM < 55)
 
 # Logs
 
+## [[11 April 2025 Friday]]
+- finding events... 
+- Most (70%) missing the skimmer. 
+- lxplus down...not down just slow
+- Finding problem events... printing out the jet four vectors
+
 ## [[9 April 2025 Wednesday]]
 - adding `event` and `run` to the skim
 - 50% of events different !

@@ -1,6 +1,12 @@
 
 # Logs
 
+## [[11 April 2025 Friday]]
+-  AE Debugging skims 
+- [x] Send thesis 
+- JA:  Bootstrapping looks good / on to cutflow debugging
+- SM: Still not getting it
+
 ## [[28 March 2025 Friday]]
 - AE: low pt selection
 - SM: memory errors
