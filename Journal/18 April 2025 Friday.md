@@ -37,6 +37,7 @@
 - [ ] Renewal Materials for Teachers Program
 - [ ] Staff award for Jessica
 - [ ] Cutflow Comparison
+- [ ] Wes thesis edits
 
 ---
 
