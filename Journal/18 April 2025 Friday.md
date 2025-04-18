@@ -12,7 +12,7 @@
 | 1   | [[Effect of random binning on significance]] |     |
 |     | Applied to Osher                             |     |
 | 2   | 4b Meeting                                   |     |
-|     |                                              |     |
+|     | Home for inspector                           |     |
 | 3   | Home for inspector                           |     |
 |     |                                              |     |
 | 4   |                                              |     |
@@ -31,7 +31,7 @@
 # To Do
 
 - [x] [[HGC Slides for April 2023 Review]]
-- [ ] VARs
+- [x] VARs
 - [x] [[Apply To Osher Fall 2025]]
 - [x] Effect of random binning on significance
 - [ ] Renewal Materials for Teachers Program

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-projects/HGC/CMU HGC Current Burn Rate.md",
+                "file": "Journal/18 April 2025 Friday.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CMU HGC Current Burn Rate"
+              "title": "18 April 2025 Friday"
             }
           },
           {
@@ -163,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-projects/HGC/CMU HGC Current Burn Rate.md",
+                "file": "Journal/18 April 2025 Friday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for CMU HGC Current Burn Rate"
+              "title": "Backlinks for 18 April 2025 Friday"
             }
           },
           {
@@ -182,12 +182,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-projects/HGC/CMU HGC Current Burn Rate.md",
+                "file": "Journal/18 April 2025 Friday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from CMU HGC Current Burn Rate"
+              "title": "Outgoing links from 18 April 2025 Friday"
             }
           },
           {
@@ -209,10 +209,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-projects/HGC/CMU HGC Current Burn Rate.md"
+                "file": "Journal/18 April 2025 Friday.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of CMU HGC Current Burn Rate"
+              "title": "Outline of 18 April 2025 Friday"
             }
           },
           {
@@ -248,6 +248,7 @@
   },
   "active": "57d8ec713c650d2b",
   "lastOpenFiles": [
+    "1-projects/HGC/CMU HGC Current Burn Rate.md",
     "Journal/18 April 2025 Friday.md",
     "0-inbox/CAM Variance April 2025.md",
     "1-projects/HGC/UCSB Modules per Month.md",
@@ -274,7 +275,6 @@
     "Physics",
     "Output/CAM/HGC Transfer Tape BCR.md",
     "1-projects/HGC/Dry Air for MMTS.md",
-    "0-inbox/MCP server for Obsidian.md",
     "#test#",
     "test",
     "Untitled 1.canvas",
