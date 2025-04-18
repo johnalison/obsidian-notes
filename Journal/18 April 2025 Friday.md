@@ -10,7 +10,7 @@
 | 12  | HGC Slides                                   |     |
 |     | Wes' thesis                                  |     |
 | 1   | [[Effect of random binning on significance]] |     |
-|     |                                              |     |
+|     | Applied to Osher                             |     |
 | 2   | 4b Meeting                                   |     |
 |     |                                              |     |
 | 3   | Home for inspector                           |     |
