@@ -18,10 +18,10 @@
 | 4   | HEP Chat         |     |
 |     | Leave to go home |     |
 
-**W:**
-**DW:**
-**OT:**
-**ex** or **No ex**
+**W:** 8 
+**DW:** 1 
+**OT:** 1
+**No ex**
 
 ---
 # The ONE thing: 
@@ -30,10 +30,8 @@
 ---
 # To Do
 
-- [ ] HGC Slides
-- [ ] 
-- [ ] 
-- [ ] 
+- [>>] HGC Slides
+
 
 ---
 
@@ -47,12 +45,12 @@ H to work with me.
 
 [[HGC Transfer Tape BCR]]
 
-
 # Taught 
 - 3D Schrinding Eq
 
 # [[Stats Data-Driven SR]]
 - Question re: CR with bais, improvement from 1 bin vs 2bins ?
+- [ ] Write up 
 
 # Faculty Meeting
 - Roys mail
@@ -63,16 +61,15 @@ H to work with me.
 - Reinstatement of GRE
 
 
-
 # Working [[HGC Slides for April 2023 Review]]
 
 
 # Office Hours
 - Chance lots of questions...
 
-
 # HEP Chat
-
+- Not much
 
 Home...
 
+Working slides

@@ -6,7 +6,7 @@ Connect to lxplus:
 
 # Tips
  When you have a new feature, you want to start a new chat
-
+- To indent 'cmd + ]'
 
 # Follow-ups
 

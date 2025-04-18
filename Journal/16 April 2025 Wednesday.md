@@ -5,8 +5,8 @@
 |     | Teaching            |     |
 | 10  | Hbb                 |     |
 |     | Hbb                 |     |
-| 11  |                     |     |
-|     | San                 |     |
+| 11  | Hbb                 |     |
+|     | Sam                 |     |
 | 12  | Hoops               |     |
 |     | Hoops               |     |
 | 1   | Hoops               |     |
@@ -18,24 +18,24 @@
 | 4   | Slides              |     |
 |     | Slides              |     |
 
-**W:**
-**DW:**
-**OT:**
-**ex** or **No ex**
+**W:** 6
+**DW:** 3
+**OT:** 1
+**ex** 
 
 ---
 # The ONE thing: 
-- [ ] Grade Exams
+- [x] Grade Exams
 
 ---
 # To Do
 
 - [x] Grade Exams
-- [ ] HGC Slides
-- [ ] Staff award for Jessica
-- [ ] Ping Arvind
-- [ ]   [[Apply To Osher Fall 2025]]
-- [ ] CutFlow Comparison
+- [>>] HGC Slides
+- [>>] Staff award for Jessica
+- [x] Ping Arvind
+- [>>]   [[Apply To Osher Fall 2025]]
+- [>>] CutFlow Comparison
 - [x] Post Homework
 
 ---
@@ -62,7 +62,6 @@ H to work with me
 - [x] What is the cadence after August
 
 
-
 Graded Exams 
 
 Posted Homework
@@ -72,7 +71,7 @@ Posted Homework
 - 16 modules /day * 5 days /week * 0.03 m^2 / module
 - [[HGC Estimate to complete Spring 2025]]
 - [[HGC MAC BoEs]]
-- Manfred: do the plots come from?
+- Manfred: where do the plots come from?
 
 # Chat [[Sindhu Murthy]]
 - Need to start putting slides together.

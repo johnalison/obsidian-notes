@@ -69,7 +69,7 @@ To Campus
 - Eg: `Run 355872: 99 missing events
   `First 5 missing events: [228793492, 993131619, 994362241, 994277091, 1003079747, 1007831198, 1141642728, 1145575379, 1145596930, 1086081738]`
 
-# Cursor
+# [[Cursor]]
 - To indent 'cmd + ]'
 
 

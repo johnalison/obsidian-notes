@@ -15,8 +15,8 @@
 | 13 S | Reading / **Gym/SR** / M&A over for pizza                                           |       |
 | 14 M | Taught / Wes' Defense!  / **Hoops** / Book Rental / Reading                         | 7/4/4 |
 | 15 T | Steph sick / Working cutflow / Management Meeting / Working slides                  | 7/3/2 |
-| 16 W |                                                                                     |       |
-| 17 H |                                                                                     |       |
+| 16 W | H to work / Taught / **Hoops** / Grade Exams / HGC slides                           | 6/3/1 |
+| 17 H | H to work / Taught / Meetings ! / HEP Chat / More slides                            | 8/1/1 |
 | 18 F |                                                                                     |       |
 | 19 S |                                                                                     |       |
 | 20 S | (Easter)                                                                            |       |

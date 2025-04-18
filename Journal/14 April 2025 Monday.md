@@ -8,7 +8,7 @@
 |     | Wes Thesis Defense              |     |
 | 11  | Wes Thesis Defense              |     |
 |     | Wes Thesis Defense              |     |
-| 12  | Wes Part                        |     |
+| 12  | Wes Party                       |     |
 |     | Hoops                           |     |
 | 1   | Hoops                           |     |
 |     | Hoops                           |     |
@@ -41,7 +41,7 @@
 - [x] FNAL Rental Car ?
 - [x] Pay for FNAL Dorm
 - [>>] Re-skim Run3
-- [ ] Coordinate keystroke for hideing left toolbar
+- [ ] Coordinate keystroke for hiding left toolbar
 - [>>] Grade Exam
 ---
 
