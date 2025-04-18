@@ -69,7 +69,8 @@ There is a cumulative schedule variance of -$340k in the cost account
 
 This is a result of delays in the thermal unit design and delivery of testing electronics. The current estimate is that the testing electronics will be shipped in a few weeks to CMU, TTU and UCSB in time for the MAC ramp-up. A decision on the shipping crates has been made an purchases have started.  The procurement of the final tooling is well under way and much of this value should be earned this month.  The test infrastructure will also be ordered shortly, once the statement of work is available at CMU. 
 
-
+# Impact:
+The activities contributing to this variance is due to upstream delay of input components needed for the final module teststands and will be completed later than scheduled. When the components become available the value will be earned and it should not impact the overall schedule.
 # Links: 
 
 [[CAM Variance February 2025]]

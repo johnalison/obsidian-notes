@@ -54,8 +54,7 @@ M&T To school... No H today !!!
 - Sent draft
 - Risk registry
 - https://cms-docdb.cern.ch/cgi-bin/DocDB/ShowDocument?docid=13480
-
-
+- [[CMU HGC Current Burn Rate]]
 # [[Wesley Terrill Thesis]]
 
 
@@ -65,6 +64,18 @@ M&T To school... No H today !!!
 Applied to Osher in Fall 2025
 
 # 4b 
-- AE
+- JA: Cut flow
+- AE: Starting low pt
 
-More slides
+more slides
+
+- [ ] Look into Karabiner
+
+
+[[CAM Variance April 2025]]
+
+
+Doing VARs
+
+Chat Arvind
+
