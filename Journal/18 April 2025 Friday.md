@@ -14,9 +14,9 @@
 | 2   | 4b Meeting                                   |     |
 |     | Home for inspector                           |     |
 | 3   | Home for inspector                           |     |
-|     |                                              |     |
-| 4   |                                              |     |
-|     |                                              |     |
+|     | HGC Slides                                   |     |
+| 4   | VARs                                         |     |
+|     | VARs                                         |     |
 
 **W:**
 **DW:**
@@ -55,7 +55,10 @@ M&T To school... No H today !!!
 - Risk registry
 - https://cms-docdb.cern.ch/cgi-bin/DocDB/ShowDocument?docid=13480
 - [[CMU HGC Current Burn Rate]]
-# [[Wesley Terrill Thesis]]
+- refined draft
+- Make EVMS plots 
+
+Sending comments on [[Wesley Terrill Thesis]]
 
 
 # Write up [[Effect of random binning on significance]] 
@@ -64,10 +67,12 @@ M&T To school... No H today !!!
 Applied to Osher in Fall 2025
 
 # 4b 
-- JA: Cut flow
+- JA: working Cut flow
 - AE: Starting low pt
+- CL: Getting FvT and SvB running on new skims
+- SM: working double peak
 
-more slides
+more slide work ... see above
 
 - [ ] Look into Karabiner
 
@@ -79,3 +84,6 @@ Doing VARs
 
 Chat Arvind
 
+Working slides.
+
+Some [[Myth of the Rational Voter]]

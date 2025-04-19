@@ -42,6 +42,8 @@ S_k  = \sqrt{ \sum_k \left( \frac{\frac{D}{k} - \frac{B}{k} }{\sqrt{\frac{D}{k} 
 $$
 
 
+# Links
+[[Stats Data-Driven SR]]
 
 
 202504181245

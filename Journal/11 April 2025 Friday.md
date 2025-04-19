@@ -107,7 +107,7 @@ Start drafting [[Sindhu Murthy Rec Letter April 2025]]
 - [>>] Pay for Dorm
 
 
-Sent list CMU list to Hyde... Made it with agent in Cursor ! 
+Sent list CMU list to Heidi... Made it with agent in Cursor ! 
 
 Think about and had Claude write up [[Track Fitting Degrees of Freedom]]
 
