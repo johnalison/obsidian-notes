@@ -35,4 +35,14 @@ Some [[Hamlet]] Commentary
 
 Chat GPT in emacs:
 https://www.youtube.com/watch?v=H8jvhz0CGzU
+https://www.youtube.com/watch?v=bsRnh_brggM&t=789s
 
+# Installing emacs copilot
+-  `git clone https://github.com/copilot-emacs/copilot.el`
+- edited .emacs file
+- `M-x copilot-install-server`
+- `M-x copilot-login
+- Then signed on the webpage
+
+
+**9EE8-D386**
