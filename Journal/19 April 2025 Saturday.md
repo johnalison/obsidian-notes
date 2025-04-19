@@ -30,5 +30,9 @@ Some [[Hamlet]] Commentary
 
 # Installing karabiner
 - https://karabiner-elements.pqrs.org/docs/getting-started/installation/
+- GREAT!!!
 
+
+Chat GPT in emacs:
+https://www.youtube.com/watch?v=H8jvhz0CGzU
 
