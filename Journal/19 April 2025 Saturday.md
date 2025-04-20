@@ -45,4 +45,5 @@ https://www.youtube.com/watch?v=bsRnh_brggM&t=789s
 - Then signed on the webpage
 
 
-**9EE8-D386**
+# Setting up gptel 
+

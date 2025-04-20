@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/19 April 2025 Saturday.md",
+                "file": "Journal/20 April 2025 Sunday.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "19 April 2025 Saturday"
+              "title": "20 April 2025 Sunday"
             }
           },
           {
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/19 April 2025 Saturday.md",
+                "file": "Journal/20 April 2025 Sunday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 19 April 2025 Saturday"
+              "title": "Backlinks for 20 April 2025 Sunday"
             }
           },
           {
@@ -169,12 +169,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/19 April 2025 Saturday.md",
+                "file": "Journal/20 April 2025 Sunday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 19 April 2025 Saturday"
+              "title": "Outgoing links from 20 April 2025 Sunday"
             }
           },
           {
@@ -196,10 +196,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/19 April 2025 Saturday.md"
+                "file": "Journal/20 April 2025 Sunday.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 19 April 2025 Saturday"
+              "title": "Outline of 20 April 2025 Sunday"
             }
           },
           {
@@ -235,10 +235,11 @@
   },
   "active": "57d8ec713c650d2b",
   "lastOpenFiles": [
+    "Journal/19 April 2025 Saturday.md",
+    "Journal/20 April 2025 Sunday.md",
     "Journal/14 April 2025 Monday.md",
     "Journal/13 April 2025 Sunday.md",
     "Journal/12 April 2025 Saturday.md",
-    "Journal/19 April 2025 Saturday.md",
     "Journal/18 April 2025 Friday.md",
     "Journal/11 April 2025 Friday.md",
     "Journal/April 2025.md",
@@ -260,7 +261,6 @@
     "1-projects/HGC/HGC Slides for April 2023 Review.md",
     "1-projects/HGC/HGC Database.md",
     "1-projects/HGC/HGC CD3 Slides.md",
-    "0-inbox/FNAL Trip April 2025.md",
     "Physics",
     "#test#",
     "test",
