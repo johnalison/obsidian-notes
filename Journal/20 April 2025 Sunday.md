@@ -42,4 +42,8 @@
 Easter with kids
 
 
-\leftL x \right
+
+# Setting up gptel
+- Add mathematican and dictionary defaults
+- 
+Check out 
