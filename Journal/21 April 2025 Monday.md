@@ -48,3 +48,10 @@ Ride to school with S
 Curtis asked to be part of MCS planning committee. 
 
 Get emacs setup on LPC
+
+
+# Taught
+- Double slit
+
+`diskutil unmount force ~/RemoteServer`
+
