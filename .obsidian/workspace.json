@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/20 April 2025 Sunday.md",
+                "file": "Journal/April 2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "20 April 2025 Sunday"
+              "title": "April 2025"
             }
           },
           {
@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/20 April 2025 Sunday.md",
+                "file": "Journal/21 April 2025 Monday.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "20 April 2025 Sunday"
+              "title": "21 April 2025 Monday"
             }
           },
           {
@@ -91,8 +91,7 @@
               "title": "19 April 2025 Saturday"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -246,16 +245,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1f12b68816191225",
+  "active": "57d8ec713c650d2b",
   "lastOpenFiles": [
-    "Journal/Future Log.md",
-    "Journal/April 2025.md",
-    "Journal/13 April 2025 Sunday.md",
-    "0-inbox/Myth of the Rational Voter.md",
     "Journal/12 April 2025 Saturday.md",
-    "Journal/11 April 2025 Friday.md",
+    "Journal/13 April 2025 Sunday.md",
+    "Journal/April 2025.md",
     "Journal/20 April 2025 Sunday.md",
     "Journal/21 April 2025 Monday.md",
+    "Journal/Future Log.md",
+    "0-inbox/Myth of the Rational Voter.md",
+    "Journal/11 April 2025 Friday.md",
     "Journal/14 April 2025 Monday.md",
     "Journal/19 April 2025 Saturday.md",
     "Journal/18 April 2025 Friday.md",

@@ -40,3 +40,11 @@
 ---
 
 # Log
+
+Up at 7
+
+Ride to school with S
+
+Curtis asked to be part of MCS planning committee. 
+
+Get emacs setup on LPC
