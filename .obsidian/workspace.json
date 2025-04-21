@@ -27,12 +27,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/Future Log.md",
+                "file": "Journal/20 April 2025 Sunday.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Future Log"
+              "title": "20 April 2025 Sunday"
+            }
+          },
+          {
+            "id": "1f12b68816191225",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.9"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.9"
             }
           },
           {
@@ -78,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -124,7 +136,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -151,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/Future Log.md",
+                "file": "Journal/20 April 2025 Sunday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +174,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Future Log"
+              "title": "Backlinks for 20 April 2025 Sunday"
             }
           },
           {
@@ -170,12 +183,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/Future Log.md",
+                "file": "Journal/20 April 2025 Sunday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Future Log"
+              "title": "Outgoing links from 20 April 2025 Sunday"
             }
           },
           {
@@ -197,10 +210,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/Future Log.md"
+                "file": "Journal/20 April 2025 Sunday.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Future Log"
+              "title": "Outline of 20 April 2025 Sunday"
             }
           },
           {
@@ -228,14 +241,12 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "smart-connections:Open: View Smart Connections": false,
-      "smart-connections:Open: Smart Chat Conversation": false
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "7599ffa8d4ccfd38",
+  "active": "1f12b68816191225",
   "lastOpenFiles": [
+    "Journal/Future Log.md",
     "Journal/April 2025.md",
     "Journal/13 April 2025 Sunday.md",
     "0-inbox/Myth of the Rational Voter.md",
@@ -261,7 +272,6 @@
     "0-inbox/Mass of jets is not invariant.md",
     "3-resources/computing/MCP server for Obsidian.md",
     "1-projects/HGC/HGC Slides for April 2023 Review.md",
-    "1-projects/HGC/HGC Database.md",
     "Physics",
     "#test#",
     "test",

@@ -189,5 +189,23 @@
       ],
       "key": "L"
     }
+  ],
+  "emacs-text-editor:end-of-buffer": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "."
+    }
+  ],
+  "emacs-text-editor:beginning-of-buffer": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": ","
+    }
   ]
 }
