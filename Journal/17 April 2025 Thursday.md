@@ -50,7 +50,8 @@ H to work with me.
 
 # [[Stats Data-Driven SR]]
 - Question re: CR with bais, improvement from 1 bin vs 2bins ?
-- [ ] Write up 
+- [x] Write up 
+- [[Effect of random binning on significance]]
 
 # Faculty Meeting
 - Roys mail
@@ -70,8 +71,8 @@ H to work with me.
 # HEP Chat
 - Not much
 
-Home...
+Home early M to basketball. 
 
-# Finances: 1.8/1.7
+# Finances: 1.8/1.7 
 
 Working slides

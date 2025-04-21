@@ -17,14 +17,14 @@
 | 15 T | Steph sick / Working cutflow / Management Meeting / Working slides                  | 7/3/2 |
 | 16 W | H to work / Taught / **Hoops** / Grade Exams / HGC slides                           | 6/3/1 |
 | 17 H | H to work / Taught / Meetings ! / HEP Chat / More slides / **Finances 1.8/1.7**     | 8/1/1 |
-| 18 F |                                                                                     |       |
-| 19 S |                                                                                     |       |
-| 20 S | (Easter)                                                                            |       |
+| 18 F | Taught / HGC Slides / Wes thesis / Osher / VARs / Arvind / Reading                  | 7/5/3 |
+| 19 S | Finished "Rational Voter" and "Hamlet" / Fence repair / **Gym/SR** / EMACS !!!      |       |
+| 20 S | Easter with kids / To Parents / Try sshfs again ... abandon again                   |       |
 | 21 M |                                                                                     |       |
 | 22 T |                                                                                     |       |
 | 23 W | (FNAL)                                                                              |       |
 | 24 H | (Party for Manfred) (FNAL)                                                          |       |
-| 25 F | (FNAL)                                                                              |       |
+| 25 F | (FNAL) (Host the Grad Social)                                                       |       |
 | 26 S |                                                                                     |       |
 | 27 S |                                                                                     |       |
 | 28 M |                                                                                     |       |

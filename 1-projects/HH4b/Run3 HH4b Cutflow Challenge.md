@@ -24,6 +24,12 @@ ACR: (AR_dHM >= 30) & (AR_dHM < 55)
 
 # Logs
 
+## [[14 April 2025 Monday]]
+- Yes, we follow the method used in HIG-20-005 ( [https://gitlab.cern.ch/mkolosov/hh4b_run3/-/blob/run2/python/producers/hh4bTreeProducer.py?ref_type=heads#L3350](https://gitlab.cern.ch/mkolosov/hh4b_run3/-/blob/run2/python/producers/hh4bTreeProducer.py?ref_type=heads#L3350) )  in which : 
+	if the difference of the minimum and second minimum distance from the diagonal is less than 30, we choose the pair that has the maximum H1 pT in the 4-jet center-of-mass frame.
+- Implementing mhh < 30 check
+- `python -m unittest analysis.tests.quadjet_test.quadJetTestCase`
+
 ## [[11 April 2025 Friday]]
 - finding events... 
 - Most (70%) missing the skimmer. 

@@ -1,5 +1,5 @@
 
-|     |                                              |     |
+|     | setup                                        |     |
 | --- | -------------------------------------------- | --- |
 | 9   | Teach                                        |     |
 |     | Teach                                        |     |
@@ -18,10 +18,10 @@
 | 4   | VARs                                         |     |
 |     | VARs                                         |     |
 
-**W:**
-**DW:**
-**OT:**
-**ex** or **No ex**
+**W:** 7 
+**DW:** 5
+**OT:** 3
+**No ex**
 
 ---
 # The ONE thing: 
@@ -34,9 +34,9 @@
 - [x] VARs
 - [x] [[Apply To Osher Fall 2025]]
 - [x] Effect of random binning on significance
-- [ ] Renewal Materials for Teachers Program
-- [ ] Staff award for Jessica
-- [ ] Cutflow Comparison
+- [>>] Renewal Materials for Teachers Program
+- [>>] Staff award for Jessica
+- [>>] Cutflow Comparison
 - [x] Wes thesis edits
 
 ---
@@ -74,16 +74,19 @@ Applied to Osher in Fall 2025
 
 more slide work ... see above
 
-- [ ] Look into Karabiner
-
+- [x] Look into Karabiner 
+	(*GREAT!!!)
 
 [[CAM Variance April 2025]]
 
 
-Doing VARs
+# Doing VARs
 
-Chat Arvind
+
+# Chat Arvind
+- Ready to work mid August
 
 Working slides.
 
 Some [[Myth of the Rational Voter]]
+

@@ -7,6 +7,11 @@ Book Travel to FNAL April 2025
 
 # Logs
 
+## [[14 April 2025 Monday]]
+- Booked FNAL Rental   ~ $160
+	-  Customers should call (708) 924-9776 once they're aboard the shuttle to notify the office of their arrival and they'll be picked up from the facility.
+- Paid for Dorm $40.
+
 ## [[7 April 2025 Monday]]
 - Badging Appointment You were successfully scheduled on 04/23/2025 at 10:50 AM
 - Filled out Housing request form.

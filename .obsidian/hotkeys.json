@@ -119,22 +119,6 @@
       "key": "N"
     }
   ],
-  "emacs-text-editor:forward-paragraph": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "N"
-    }
-  ],
-  "emacs-text-editor:backward-paragraph": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "P"
-    }
-  ],
   "emacs-text-editor:kill-word": [
     {
       "modifiers": [
@@ -206,6 +190,31 @@
         "Shift"
       ],
       "key": ","
+    }
+  ],
+  "emacs-text-editor:forward-paragraph": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "ArrowDown"
+    }
+  ],
+  "emacs-text-editor:kill-region": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "W"
+    }
+  ],
+  "kill-and-yank:kill-region": [],
+  "emacs-text-editor:backward-paragraph": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "ArrowUp"
     }
   ]
 }

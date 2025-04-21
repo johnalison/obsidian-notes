@@ -34,7 +34,7 @@
 - [>>] Grade Exams
 - [>>] Marina Cutflow 
 - [>>] More [[HGC Slides for April 2023 Review]]
-- [ ] Make klX work interactively in iPlot
+- [>>] Make klX work interactively in iPlot
 - [>>]  [[Apply To Osher Fall 2025]]
 
 ---
@@ -50,7 +50,7 @@ Setup
 To Campus
 
 ## [[HGC Slides for April 2023 Review]]
-- [ ] Understand changes in CMU CPI / UCSB CPI
+- [>>] Understand changes in CMU CPI / UCSB CPI
 
 
 [[HGC Transfer Tape BCR]]
@@ -70,7 +70,7 @@ To Campus
   `First 5 missing events: [228793492, 993131619, 994362241, 994277091, 1003079747, 1007831198, 1141642728, 1145575379, 1145596930, 1086081738]`
 
 # [[Cursor]]
-- To indent 'cmd + ]'
+- To indent 'cmd + ]' 
 
 
 # [[CMU HGC MAC Meeting 15 April 2025]]

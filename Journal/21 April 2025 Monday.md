@@ -1,24 +1,24 @@
 
 ---
 
-|     |     |     |
-| --- | --- | --- |
-| 9   |     |     |
-|     |     |     |
-| 10  |     |     |
-|     |     |     |
-| 11  |     |     |
-|     |     |     |
-| 12  |     |     |
-|     |     |     |
-| 1   |     |     |
-|     |     |     |
-| 2   |     |     |
-|     |     |     |
-| 3   |     |     |
-|     |     |     |
-| 4   |     |     |
-|     |     |     |
+|     | Prep        |     |
+| --- | ----------- | --- |
+| 9   | Taught      |     |
+|     | Taught      |     |
+| 10  | Chat AE     |     |
+|     | Chat AE     |     |
+| 11  | Setup Emacs |     |
+|     | setup       |     |
+| 12  | Hoops       |     |
+|     | Hoops       |     |
+| 1   | Hoops       |     |
+|     | Hoops       |     |
+| 2   |             |     |
+|     |             |     |
+| 3   |             |     |
+|     |             |     |
+| 4   |             |     |
+|     |             |     |
 
 **W:**
 **DW:**
@@ -27,14 +27,15 @@
 
 ---
 # The ONE thing: 
-- [ ] 
+- [ ] Cutflow debugging
 
 ---
 # To Do
 
-- [ ] 
-- [ ] 
-- [ ] 
+- [ ] Make klX work interactively in iPlot
+- [ ] Renewal Materials for Teachers Program
+- [ ]  Staff award for Jessica
+- [ ] Cutflow Comparison
 - [ ] 
 
 ---
@@ -54,4 +55,10 @@ Get emacs setup on LPC
 - Double slit
 
 `diskutil unmount force ~/RemoteServer`
+
+# Getting remote emacs working:
+- playing around with sshfs... not working
+- Trying emacs TRAMP: 
+`/ssh:jda102@cmslpc-el9.fnal.gov:/uscms/home/jda102/nobackup/HH4b/Run3/coffea4bees/`
+- works great!! 
 
