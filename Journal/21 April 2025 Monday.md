@@ -80,4 +80,9 @@ Chat Garett Good
 - checking which file has the run I care about
 - `dasgoclient --query="run dataset=/JetMET/Run2022C-22Sep2023-v1/NANOAOD"`
 - `> python runner.py -s -p skimmer/processor/skimmer_4b.py -c skimmer/metadata/HH4b.yml -y 2022_preEE -d data -e B  -op skimmer/metadata/ -o picoaod_datasets_data_2022_preEE_debug.yml -m metadata/datasets_HH4b_Run3.yml`
+- Running on **cmslpc332**
+- Adding debugging output
+
+Kids Home from school
+
 

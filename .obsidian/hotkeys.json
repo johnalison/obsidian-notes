@@ -24,8 +24,22 @@
       "key": "D"
     }
   ],
-  "kill-and-yank:kill-line": [],
-  "kill-and-yank:yank": [],
+  "kill-and-yank:kill-line": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "K"
+    }
+  ],
+  "kill-and-yank:yank": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "Y"
+    }
+  ],
   "graph:open-local": [
     {
       "modifiers": [
@@ -150,22 +164,6 @@
     }
   ],
   "kill-and-yank:set-mark": [],
-  "emacs-text-editor:yank": [
-    {
-      "modifiers": [
-        "Ctrl"
-      ],
-      "key": "Y"
-    }
-  ],
-  "emacs-text-editor:kill-line": [
-    {
-      "modifiers": [
-        "Ctrl"
-      ],
-      "key": "K"
-    }
-  ],
   "app:toggle-right-sidebar": [
     {
       "modifiers": [
