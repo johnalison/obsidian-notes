@@ -13,8 +13,8 @@
 |     | Hoops       |     |
 | 1   | Hoops       |     |
 |     | Hoops       |     |
-| 2   |             |     |
-|     |             |     |
+| 2   | Cutflow     |     |
+|     | Cutflow     |     |
 | 3   |             |     |
 |     |             |     |
 | 4   |             |     |
@@ -33,7 +33,7 @@
 # To Do
 
 - [ ] Make klX work interactively in iPlot
-- [ ] Renewal Materials for Teachers Program
+- [x] Renewal Materials for Teachers Program
 - [ ]  Staff award for Jessica
 - [ ] Cutflow Comparison
 - [ ] 
