@@ -192,14 +192,6 @@
       "key": ","
     }
   ],
-  "emacs-text-editor:forward-paragraph": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "ArrowDown"
-    }
-  ],
   "emacs-text-editor:kill-region": [
     {
       "modifiers": [
@@ -214,7 +206,15 @@
       "modifiers": [
         "Alt"
       ],
-      "key": "ArrowUp"
+      "key": "P"
+    }
+  ],
+  "emacs-text-editor:forward-paragraph": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "N"
     }
   ]
 }
