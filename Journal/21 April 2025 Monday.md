@@ -1,4 +1,3 @@
-Action: Ping Arvand re:Lab tech
 
 ---
 

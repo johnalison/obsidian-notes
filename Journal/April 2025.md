@@ -22,9 +22,9 @@
 | 20 S | (Easter)                                                                            |       |
 | 21 M |                                                                                     |       |
 | 22 T |                                                                                     |       |
-| 23 W | (FNAL ?)                                                                            |       |
-| 24 H | (Party for Manfred) (FNAL ?)                                                        |       |
-| 25 F | (FNAL ?)                                                                            |       |
+| 23 W | (FNAL)                                                                              |       |
+| 24 H | (Party for Manfred) (FNAL)                                                          |       |
+| 25 F | (FNAL)                                                                              |       |
 | 26 S |                                                                                     |       |
 | 27 S |                                                                                     |       |
 | 28 M |                                                                                     |       |
