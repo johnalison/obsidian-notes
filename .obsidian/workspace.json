@@ -39,12 +39,14 @@
             "id": "1f12b68816191225",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.9"
+                "file": "Journal/20 April 2025 Sunday.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.9"
+              "icon": "lucide-file",
+              "title": "20 April 2025 Sunday"
             }
           },
           {

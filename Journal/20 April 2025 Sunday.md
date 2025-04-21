@@ -16,8 +16,8 @@ Home ... More emacs hacking
 - **> brew install --cask macfuse**
 - brew tap gromgit/fuse
 - brew install gromgit/fuse/sshfs
+- `sshfs jda102@cmslpc-el9.fnal.gov:/uscms/home/jda102/nobackup/HH4b/Run3/coffea4bees ~/CMSWork/hh4b/coffea4beesLPC  -ovolname=coffea4beesLPC -oauto_cache   -oallow_other`
+- Many shutdowns...
 
 
-
-
-**sshfs jda102@cmslpc-el9.fnal.gov:/uscms/home/jda102/nobackup/HH4b/Run3/coffea4bees  ~/CMSWork/hh4b/coffea4beesLPC   -ovolname=coffea4beesLPC   -oauto_cache   -onativeio   -oallow_other**
+Need to setup copilot on LPC!
