@@ -199,12 +199,24 @@
     }
   ],
   "kill-and-yank:kill-region": [],
-  "emacs-text-editor:backward-paragraph": [
+  "daily-notes:goto-next": [
     {
       "modifiers": [
-        "Alt"
+        "Ctrl",
+        "Mod",
+        "Shift"
       ],
-      "key": "P"
+      "key": "]"
+    }
+  ],
+  "daily-notes:goto-prev": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Mod",
+        "Shift"
+      ],
+      "key": "["
     }
   ],
   "emacs-text-editor:forward-paragraph": [
@@ -212,7 +224,30 @@
       "modifiers": [
         "Alt"
       ],
-      "key": "N"
+      "key": "ArrowDown"
+    }
+  ],
+  "emacs-text-editor:backward-paragraph": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "ArrowUp"
+    }
+  ],
+  "workspace:next-tab": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "Tab"
+    },
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "]"
     }
   ]
 }

@@ -77,11 +77,8 @@ more slide work ... see above
 - [x] Look into Karabiner 
 	(*GREAT!!!)
 
-[[CAM Variance April 2025]]
-
-
 # Doing VARs
-
+- [[CAM Variance April 2025]]
 
 # Chat Arvind
 - Ready to work mid August

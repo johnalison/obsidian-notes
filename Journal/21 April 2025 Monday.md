@@ -20,10 +20,10 @@
 | 4   | Colloq       |     |
 |     |              |     |
 
-**W:**
-**DW:**
-**OT:**
-**ex** or **No ex**
+**W:** 6
+**DW:** 1
+**OT:** 0
+**ex** 
 
 ---
 # The ONE thing: 
@@ -34,9 +34,9 @@
 
 - [ ] Make klX work interactively in iPlot
 - [x] Renewal Materials for Teachers Program
-- [ ]  Staff award for Jessica
-- [ ] Cutflow Comparison
-- [ ] 
+- [>>]  Staff award for Jessica
+- [>>] Cutflow Comparison
+
 
 ---
 
@@ -46,23 +46,22 @@ Up at 7
 
 Ride to school with S
 
-Curtis asked to be part of MCS planning committee. 
+# Curtis asked me to be part of MCS planning committee. 
 
 Get emacs setup on LPC
-
 
 # Taught
 - Double slit
 
 `diskutil unmount force ~/RemoteServer`
 
-# Getting remote emacs working:
+# Getting remote emacs working: [[Emacs tricks]]
 - playing around with sshfs... not working
 - Trying emacs TRAMP: 
 `/ssh:jda102@cmslpc-el9.fnal.gov:/uscms/home/jda102/nobackup/HH4b/Run3/coffea4bees/`
 - works great!! 
 
-Chat Garett Good 
+Chat Garett Goon
 
 # Hoops
 - Great wins... played well
@@ -87,4 +86,4 @@ Kids Home from school
 
 More [[Run3 HH4b Cutflow Challenge]]
 
-- [ ] check out Claude code
+- [>>] check out Claude code

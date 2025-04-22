@@ -20,7 +20,7 @@
 | 18 F | Taught / HGC Slides / Wes thesis / Osher / VARs / Arvind / Reading                  | 7/5/3 |
 | 19 S | Finished "Rational Voter" and "Hamlet" / Fence repair / **Gym/SR** / EMACS !!!      |       |
 | 20 S | Easter with kids / To Parents / Try sshfs again ... abandon again                   |       |
-| 21 M |                                                                                     |       |
+| 21 M | **Last Class** / emacs via ssh! / **Hoops** / Chat AE/SM / Late night cutflow       | 6/1/0 |
 | 22 T |                                                                                     |       |
 | 23 W | (FNAL)                                                                              |       |
 | 24 H | (Party for Manfred) (FNAL)                                                          |       |

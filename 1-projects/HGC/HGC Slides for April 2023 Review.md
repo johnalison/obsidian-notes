@@ -1,5 +1,5 @@
 
-
+- 2025 HGC Annual review: https://indico.cern.ch/event/1523635/
 # Logs
 
 ## [[11 April 2025 Friday]]

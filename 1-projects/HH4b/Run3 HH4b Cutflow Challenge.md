@@ -24,6 +24,20 @@ ACR: (AR_dHM >= 30) & (AR_dHM < 55)
 
 # Logs
 
+## [[15 April 2025 Tuesday]]
+- Impletented the Run3 case when dhh < 30 GeV
+- Remade pkl inputs
+- Now better agreement! 
+	- Before:
+		`Total number of missing events: 11690 (47.79% of total events)`
+		`Total number of extra events: 4918 (27.81% of total events)`
+	- Now:
+		`Total number of missing events: 8426 (34.45% of total events)`
+		`Total number of extra events: 2706 (14.44% of total events)`
+- Eg: `Run 355872: 99 missing events
+  `First 5 missing events: [228793492, 993131619, 994362241, 994277091, 1003079747, 1007831198, 1141642728, 1145575379, 1145596930, 1086081738]`
+
+
 ## [[14 April 2025 Monday]]
 - Yes, we follow the method used in HIG-20-005 ( [https://gitlab.cern.ch/mkolosov/hh4b_run3/-/blob/run2/python/producers/hh4bTreeProducer.py?ref_type=heads#L3350](https://gitlab.cern.ch/mkolosov/hh4b_run3/-/blob/run2/python/producers/hh4bTreeProducer.py?ref_type=heads#L3350) )  in which : 
 	if the difference of the minimum and second minimum distance from the diagonal is less than 30, we choose the pair that has the maximum H1 pT in the 4-jet center-of-mass frame.

@@ -59,7 +59,7 @@ H to work with me.
 - Strong link vs Weak link
 - Why only 1st semester ?
 - Reasearch in 1st year working ?
-- Reinstatement of GRE
+- Reinstatement of GRE ?
 
 
 # Working [[HGC Slides for April 2023 Review]]
