@@ -31,17 +31,18 @@
 ---
 # To Do
 
-- [ ] Check out claude code
-- [ ]  Marina Cutflow 
+- [x] Check out claude code
+- [ ] Marina Cutflow 
 - [ ] Organize MAC management meetings
 - [ ] Make up lecture #1 
 - [ ] Make up lecture #2
-- [ ] Iterate On slides
+- [x] Iterate On slides
 - [ ] Fill out form for Jeremey
 - [ ] Respond to Soehuen
 - [ ] Cutflow Comparison 
 - [ ] Staff award for Jessica ( MCS staff award nominations that are due April 30)
-- [ ] - Use ~/.ssh/config to simplify remote access.
+- [ ] Use ~/.ssh/config to simplify remote access.
+- [ ] Call Tax man
 
 ---
 
@@ -68,7 +69,7 @@ Up at 7:30
 
 
 # [[HGC Slides for April 2023 Review]]
-- Outstanding from Mans: 
+- 
 
 
 
@@ -85,5 +86,10 @@ Up at 7:30
 - OUTSTANDING !!!!!
 
 
-Jacques interview
-- [ ] Send link
+Mystery package... is a picture 
+
+# Jacques interview
+- [x] Send link
+
+Working HGC slides
+
