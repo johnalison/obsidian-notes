@@ -69,23 +69,8 @@ Up at 7:30
 
 # [[HGC Slides for April 2023 Review]]
 - Outstanding from Mans: 
-    
 
 
-   MAC tooling:  
-     [https://fbcr.fnal.gov/BCR/View/4489](https://fbcr.fnal.gov/BCR/View/4489)  
-   Chiller and teststand costs:  
-     [https://fbcr.fnal.gov/BCR/View/4130](https://fbcr.fnal.gov/BCR/View/4130)  
-  
-  Slide 16: Hexaboards are mostly paid by international partners (US has  
-a discount on what we are building)  
-  
-  Slide 18: Rather than a question mark, say "Considering further  
-mitigation by purchase of spare bonder header"  
-  
-  Slide 19: "Not a problem" suggests we should decrease the probability,  
-which we haven't.  At least say: "Not a problem for MACs at this point",  
-since the risk covers also a lot of activity at FNAL.
 
 
 # [[CMU HGC MAC Meeting 22 April 2025]]
@@ -94,3 +79,6 @@ since the risk covers also a lot of activity at FNAL.
 
 
 
+# Claude Code
+- https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/overview
+- `npm install -g @anthropic-ai/claude-code`
