@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-projects/HH4b/Run-3 4b skims.md",
+                "file": "Journal/21 April 2025 Monday.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Run-3 4b skims"
+              "title": "21 April 2025 Monday"
             }
           },
           {
@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/21 April 2025 Monday.md",
+                "file": "Journal/22 April 2025 Tuesday.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "21 April 2025 Monday"
+              "title": "22 April 2025 Tuesday"
             }
           },
           {
@@ -91,8 +91,7 @@
               "title": "19 April 2025 Saturday"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -245,8 +244,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1f12b68816191225",
+  "active": "57d8ec713c650d2b",
   "lastOpenFiles": [
+    "Journal/22 April 2025 Tuesday.md",
     "1-projects/HH4b/Run-3 4b skims.md",
     "Journal/21 April 2025 Monday.md",
     "2-areas/Outreach/Teachers Program 2024 Notes.md",
@@ -272,7 +272,6 @@
     "0-inbox/Waiting for.md",
     "0-inbox/Universal Inference.md",
     "0-inbox/Tree Stump.md",
-    "0-inbox/Tool List.md",
     "Physics",
     "#test#",
     "test",
