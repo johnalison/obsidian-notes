@@ -53,3 +53,4 @@ Up at 7:30
 - Many toys with different truth varations
 	- How to extend  to 
 - Do you decorrelate the basis function wrt nomainl
+- Bands vs individual 1d distributions
