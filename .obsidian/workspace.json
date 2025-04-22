@@ -91,7 +91,8 @@
               "title": "19 April 2025 Saturday"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +111,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:teacher",
+                "query": "palmer",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -244,11 +245,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "57d8ec713c650d2b",
+  "active": "1f12b68816191225",
   "lastOpenFiles": [
+    "Journal/2024/September/23 September 2024 Monday.md",
+    "Input/Meetings/2024/September/Chris Palmer Biases Systematics Paper 23 September 2024.md",
     "Journal/22 April 2025 Tuesday.md",
-    "1-projects/HH4b/Run-3 4b skims.md",
     "Journal/21 April 2025 Monday.md",
+    "1-projects/HH4b/Run-3 4b skims.md",
     "2-areas/Outreach/Teachers Program 2024 Notes.md",
     "2-areas/Outreach/High-School Physics Teachers Program.md",
     "Journal/20 April 2025 Sunday.md",
@@ -270,8 +273,6 @@
     "0-inbox/Write up Universal Inference Toy.md",
     "2-areas/Mentoring/Wesley Terrill Thesis.md",
     "0-inbox/Waiting for.md",
-    "0-inbox/Universal Inference.md",
-    "0-inbox/Tree Stump.md",
     "Physics",
     "#test#",
     "test",
