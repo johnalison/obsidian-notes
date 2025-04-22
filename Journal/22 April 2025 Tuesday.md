@@ -82,3 +82,8 @@ Up at 7:30
 # Claude Code
 - https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/overview
 - `npm install -g @anthropic-ai/claude-code`
+- OUTSTANDING !!!!!
+
+
+Jacques interview
+- [ ] Send link
