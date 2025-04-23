@@ -93,3 +93,5 @@ Mystery package... is a picture
 
 Working HGC slides
 
+# [[FNAL Trip April 2025]]
+- Got details on key

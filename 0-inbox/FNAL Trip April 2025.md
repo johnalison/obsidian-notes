@@ -18,6 +18,25 @@ Book Travel to FNAL April 2025
 	- https://fermi.servicenowservices.com/wp?id=evg-kb-article&sys_id=7803da8b47dd9a1093e40bd2e16d430f
 	- Sent mail with Housing request
 
+
+# Key
+
+Your key to your Fermilab residence will be ready to be picked up after 3 PM on your arrival date. Once you collect your key, please sign the Key Sign Out sheet on the inside of the cabinet door.  
+
+- Pick up location: Laundry and Vending building at 18 Sauk Blvd., Fermilab Village.
+- View Instructions for opening the lock box by [clicking here](https://publicpoint.fnal.gov/get-connected/Shared%20Documents/Documents/Instructions-for-getting-housing-keys.pdf) (Password LockBox3777)
+
+|   |   |
+|---|---|
+|Lock box #|Combination|
+|1|**3698**|
+
+Your housing confirmation email was sent previously with details on your housing location and arrival and departure dates. If you did not receive this email or have any questions, please contact the Housing office at [housing@fnal.gov](mailto:housing@fnal.gov) or (630) 840-3777. 
+
+**If you are in a Dorm:** On the back of your door is a QR code. Please scan this code and complete your arrival inspection **within 24 hours**. It will take about 2 minutes. **This is a D.O.E requirement.** If you are unable/or prefer not to complete the inspection online within 24 hours, you will have to conduct and in-person inspection with a Housing Office staff member. Please contact the Housing Office if you have any questions [housing@fnal.gov](mailto:housing@fnal.gov)
+
+We hope you enjoy your stay! Please visit the Housing office [website](https://get-connected.fnal.gov/housing) and the Life at Fermilab [webpage](https://get-connected.fnal.gov/life-at-Fermilab/) for information on life in the Village and at Fermilab.
+
 # Housing
 Your reservation for onsite housing at Fermilab has been approved. Listed below are the details of your reservation.  
 
