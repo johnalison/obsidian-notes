@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/DOE Review.md",
+                "file": "3-resources/Two John Alisons.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DOE Review"
+              "title": "Two John Alisons"
             }
           },
           {
@@ -124,7 +124,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:\"arc \"",
+                "query": "file:Two",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -260,8 +260,8 @@
   },
   "active": "57d8ec713c650d2b",
   "lastOpenFiles": [
-    "Input/Meetings/CMU HGC MAC Meeting 15 April 2025.md",
     "0-inbox/DOE Review.md",
+    "Input/Meetings/CMU HGC MAC Meeting 15 April 2025.md",
     "Journal/23 April 2025 Wednesday.md",
     "1-projects/HGC/HGC Slides for April 2023 Review.md",
     "0-inbox/FNAL Trip April 2025.md",
