@@ -10,6 +10,9 @@
 
 
 # Feedback
+- Add outline
+- How long are you off of the critical path
+
 Here are my notes on questions people asked for your talk, in case this is useful:
 
   
