@@ -1,6 +1,7 @@
 ## Steves talk: 
-**T.J. Sarlina** was our EH&S
-Adi Bornheim (caltech)
+- **T.J. Sarlina** was our EH&S
+- Adi Bornheim (caltech) 
+- Met Don Linconln
 
 - Missed most of it
 - https://indico.cern.ch/event/1539162/
@@ -24,6 +25,13 @@ Adi Bornheim (caltech)
 
 # OT Petra
 - 
+
+
+# Lunch
+- Marko Stamenkovic is at FNAL 
+- [ ] Ping for coffee
+- [ ] Javiers student
+
 
 
 # Follow-ups
