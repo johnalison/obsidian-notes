@@ -124,7 +124,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:burn",
+                "query": "file:\"arc \"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -260,8 +260,9 @@
   },
   "active": "57d8ec713c650d2b",
   "lastOpenFiles": [
-    "0-inbox/DOE Review.md",
+    "2-areas/CMS/ARC HIG-24-017 Boosted VqqHbb.md",
     "Journal/23 April 2025 Wednesday.md",
+    "0-inbox/DOE Review.md",
     "1-projects/HGC/CMU HGC Current Burn Rate.md",
     "0-inbox/FNAL Trip April 2025.md",
     "Journal/22 April 2025 Tuesday.md",
@@ -285,7 +286,6 @@
     "2-areas/Outreach/Teachers Program 2024 Notes.md",
     "2-areas/Outreach/High-School Physics Teachers Program.md",
     "3-resources/computing/Cursor.md",
-    "0-inbox/Wes Thesis Defense.md",
     "Physics",
     "#test#",
     "test",
