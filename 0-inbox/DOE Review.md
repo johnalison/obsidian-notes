@@ -1,3 +1,5 @@
+Saw Irene Dutta (HH) met her in Boston for LPC(Caltec->FNAL)
+
 ## Steves talk: 
 - **T.J. Sarlina** was our EH&S
 - Adi Bornheim (caltech) 
@@ -32,7 +34,8 @@
 - [ ] Ping for coffee
 - [ ] Javiers student
 
-
+# My Talk 
+- [ ] Do we have a risk for the ESD damage ?
 
 # Follow-ups
 
