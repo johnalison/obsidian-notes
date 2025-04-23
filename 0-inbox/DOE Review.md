@@ -36,6 +36,8 @@ Saw Irene Dutta (HH) met her in Boston for LPC(Caltec->FNAL)
 
 # My Talk 
 - [ ] Do we have a risk for the ESD damage ?
+- [ ] Summary is the oppurtunity to provide the takeaway
+	- [ ] What do you want them to write about you
 
 # Follow-ups
 
