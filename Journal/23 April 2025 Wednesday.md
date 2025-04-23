@@ -1,7 +1,9 @@
 
 # To Do
 
-- [ ] Cancel Rent-a-Wreck 
+- [x] Cancel Rent-a-Wreck 
+- [ ] Cyert Center Sliding Scale Benfit 
+
 
 ---
 

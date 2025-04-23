@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-resources/Two John Alisons.md",
+                "file": "0-inbox/DOE Review.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Two John Alisons"
+              "title": "DOE Review"
             }
           },
           {
@@ -260,9 +260,10 @@
   },
   "active": "57d8ec713c650d2b",
   "lastOpenFiles": [
+    "Journal/23 April 2025 Wednesday.md",
+    "3-resources/Two John Alisons.md",
     "0-inbox/DOE Review.md",
     "Input/Meetings/CMU HGC MAC Meeting 15 April 2025.md",
-    "Journal/23 April 2025 Wednesday.md",
     "1-projects/HGC/HGC Slides for April 2023 Review.md",
     "0-inbox/FNAL Trip April 2025.md",
     "2-areas/CMS/ARC HIG-24-017 Boosted VqqHbb.md",
@@ -285,7 +286,6 @@
     "Input/Meetings/2024/September/Chris Palmer Biases Systematics Paper 23 September 2024.md",
     "1-projects/HH4b/Run-3 4b skims.md",
     "2-areas/Outreach/Teachers Program 2024 Notes.md",
-    "2-areas/Outreach/High-School Physics Teachers Program.md",
     "Physics",
     "#test#",
     "test",
