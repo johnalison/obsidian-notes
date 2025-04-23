@@ -18,8 +18,37 @@ Book Travel to FNAL April 2025
 	- https://fermi.servicenowservices.com/wp?id=evg-kb-article&sys_id=7803da8b47dd9a1093e40bd2e16d430f
 	- Sent mail with Housing request
 
+# Site Access
 
-# Key
+You **MUST** have a **REAL ID** in order to get onsite, even if we have previously scanned this for you. If you do not bring it with you, you will be turned away at the gate. Please see our [REAL ID Documents page](https://get-connected.fnal.gov/wp-content/uploads/2021/09/REALID-Documents.pdf). NOTE: if you are a non-US citizen you are required to present your passport.  
+  
+This is a confirmation of your badging appointment on 04/23/2025 at 10:50 AM. Please arrive at the time of your appointment. Late arrivals may be delayed due to other appointments. If you arrive at the lab before your appointment, you must be escorted by someone who has a Fermilab ID badge until your appointment time.  
+  
+**Your badging appointment will be in the Aspen East Welcome and Access Center.** Please enter through the Batavia Road entrance located on the east side of the lab. You will be processed for a badge at Aspen East Welcome and Access Center. Refer to the Fermilab site [map](https://news.fnal.gov/wp-content/uploads/site-map.pdf) for guidance. Visitors without a current Fermilab badge are **encouraged** to enter through the Batavia Road - East Gate entrance. New visitors who enter through the Pine Street or Wilson Street entrances will be issued a red public visitor badge and redirected by security to the Batavia Road entrance for processing.
+
+- If you have a previous Fermilab ID badge, you must bring that with you.  
+      
+    
+- If you have any physical keys, make sure your supervisor has verified they are in your possession before your appointment.  
+      
+    
+- You must complete Workday (FermiWorks) onboarding. See the "Onboarding" tab on our [Instructions page](https://get-connected.fnal.gov/accessandbadging/instructions/).  
+      
+    
+- There are 3 required online training classes that **must be completed** before we can issue your badge. See the "Training" tab on our [Instructions page](https://get-connected.fnal.gov/accessandbadging/instructions/). You can check your completed training on our [Individual Training Needs Assessment (ITNA) page](https://www-esh.fnal.gov/pls/default/itp.html).  
+      
+    
+- If you received an invitation letter with a QR code from [Fermi@servicenowservices.com](mailto:Fermi@servicenowservices.com), you must present that at the security guard gate (either electronic or print).  
+      
+    
+- Please see our [Documents page](https://get-connected.fnal.gov/documents/) for information on what ID/documents you need to bring with to your appointment. You may email your medical insurance information to us ahead of time, as long as it does not include any sensitive information. All other documents must be brought to your appointment.  
+      
+    
+- J-1 Visa holders: If Fermilab is sponsoring your J-1 visa and this is your first visit to Fermilab on your visa, you must check in with the Visa Office on the Wilson Hall First Floor as soon as you arrive so that they can validate the start of your J-1 program. We cannot issue your badge until this validation process is completed.
+
+If you require ADA compliant access to buildings, please contact [campusaccess@fnal.gov](mailto:campusaccess@fnal.gov) to move your badging appointment to Wilson Hall.
+
+# Dorm Key
 
 Your key to your Fermilab residence will be ready to be picked up after 3 PM on your arrival date. Once you collect your key, please sign the Key Sign Out sheet on the inside of the cabinet door.  
 
