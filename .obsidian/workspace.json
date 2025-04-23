@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/23 April 2025 Wednesday.md",
+                "file": "0-inbox/FNAL Trip April 2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "23 April 2025 Wednesday"
+              "title": "FNAL Trip April 2025"
             }
           },
           {
@@ -260,8 +260,9 @@
   },
   "active": "57d8ec713c650d2b",
   "lastOpenFiles": [
-    "2-areas/CMS/ARC HIG-24-017 Boosted VqqHbb.md",
     "Journal/23 April 2025 Wednesday.md",
+    "1-projects/HGC/HGC Slides for April 2023 Review.md",
+    "2-areas/CMS/ARC HIG-24-017 Boosted VqqHbb.md",
     "0-inbox/DOE Review.md",
     "1-projects/HGC/CMU HGC Current Burn Rate.md",
     "0-inbox/FNAL Trip April 2025.md",
@@ -285,7 +286,6 @@
     "1-projects/HH4b/Run-3 4b skims.md",
     "2-areas/Outreach/Teachers Program 2024 Notes.md",
     "2-areas/Outreach/High-School Physics Teachers Program.md",
-    "3-resources/computing/Cursor.md",
     "Physics",
     "#test#",
     "test",
