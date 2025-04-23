@@ -87,7 +87,7 @@ _Check-in and key details_ 
 _Arrival inspection- Mandatory  
 _  
 Upon arrival, you are required to complete a mandatory arrival inspection by scanning the QR code posted at your room or entrance door and submitting it. This should be completed on the day of your arrival. If the QR code inspection is not completed within the first day, an in-person inspection will need to be scheduled by Housing Office staff.
-
+re
 _Checkout_  
 
 - Checkout is at 11 AM. Keys must be returned by 11 AM or you will be subject to a late checkout fee.   
