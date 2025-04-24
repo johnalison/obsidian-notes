@@ -77,7 +77,8 @@
               "title": "19 April 2025 Saturday"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -231,11 +232,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "57d8ec713c650d2b",
+  "active": "1f12b68816191225",
   "lastOpenFiles": [
+    "Journal/23 April 2025 Wednesday.md",
     "Journal/April 2025.md",
     "Journal/24 April 2025 Thursday.md",
-    "Journal/23 April 2025 Wednesday.md",
     "0-inbox/DOE April Workshop.md",
     "Journal/22 April 2025 Tuesday.md",
     "Output/Recommendation  Letters/Wesley Terrill Letter Spring 25.md",

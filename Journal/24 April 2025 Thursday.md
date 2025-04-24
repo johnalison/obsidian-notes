@@ -58,3 +58,9 @@ Coffee
 - Wes did not get Lederman... presentation not good
 - Maybe need to update my letter to address this issue
 
+
+# Reviewing Steves Talk
+-  **Single-Point Adjustment (SPA)**. An SPA is a formal EVMS “reset” that brings Planned, Earned and Actual cost to the same value on the cut-off date so CPI and SPI restart at 1.00.
+- **Estimate Uncertainty (EU)** set-aside (contingency) for that labour. For completed work this is zero.
+- $176.94 M total BAC and the $14.82M
+- 
