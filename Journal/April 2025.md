@@ -22,7 +22,7 @@
 | 20 S | Easter with kids / To Parents / Try sshfs again ... abandon again                   |       |
 | 21 M | **Last Class** / emacs via ssh! / **Hoops** / Chat AE/SM / Late night cutflow       | 6/1/0 |
 | 22 T | Cutflow work / Chat Palmer/Jake / HGC slides / **CLAUDE CODE** / Jacsque            | 7/3/2 |
-| 23 W | (to FNAL)                                                                           |       |
+| 23 W | (to FNAL) Rental Fuckery / DOE Workshop / Gave talk / Dinner chats                  |       |
 | 24 H | (at FNAL)                                                                           |       |
 | 25 F | (from FNAL) (Host the Grad Social)                                                  |       |
 | 26 S |                                                                                     |       |

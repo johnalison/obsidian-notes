@@ -22,6 +22,7 @@
 # May 
 - [ ] May 10th **President’s Reception in Honor of CMU’s Doctoral** **Candidates**
 - [ ]  May 5, Final 05:30pm - 08:30pm
+- [ ] May 2 CMU party
 
 # June
 - [ ] Review 3rd-6th in FNAL

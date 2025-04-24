@@ -1,22 +1,22 @@
 
-|     |     |     |
-| --- | --- | --- |
-| 9   |     |     |
-|     |     |     |
-| 10  |     |     |
-|     |     |     |
-| 11  |     |     |
-|     |     |     |
-| 12  |     |     |
-|     |     |     |
-| 1   |     |     |
-|     |     |     |
-| 2   |     |     |
-|     |     |     |
-| 3   |     |     |
-|     |     |     |
-| 4   |     |     |
-|     |     |     |
+|     | Chat       |     |
+| --- | ---------- | --- |
+| 9   | L1T Review |     |
+|     | L1T Review |     |
+| 10  | L1T Review |     |
+|     | L1T Review |     |
+| 11  |            |     |
+|     |            |     |
+| 12  |            |     |
+|     |            |     |
+| 1   |            |     |
+|     |            |     |
+| 2   |            |     |
+|     |            |     |
+| 3   |            |     |
+|     |            |     |
+| 4   |            |     |
+|     |            |     |
 
 **W:**
 **DW:**
@@ -65,13 +65,23 @@ Coffee
 - $176.94 M total BAC and the $14.82M
 
 
+Saw YKK... claims will only be director for a year.
+(Should have told her I was coming!)
+
 # Chat Marko
 - Good discussion
+- Vivek 
 
 # L1T Review 
+
+## Hardware
 - Close to production
 - ESD  ? 
 - Estimate to complete?
 - Why not go to APx4 now ?
 - Do you have all the FPGAs ?
 - power and cooling 
+
+## Firmware
+- Improvements from HLS baked in to CD3 baseline ? or new since then?
+- 
