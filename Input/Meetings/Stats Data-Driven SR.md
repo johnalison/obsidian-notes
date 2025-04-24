@@ -6,8 +6,12 @@ Links:
 
 # Log
 
+# [[17 April 2025 Thursday]]
+- Question re: CR with bais, improvement from 1 bin vs 2bins ?
+- [x] Write up 
+- [[Effect of random binning on significance]]
 
-## [[17 April 2025 Thursday]]
+## [[10 April 2025 Thursday]]
 - 2D plots clearly show benefit of smearing
 - Try max(FvT) vs mean(FvT)  max vs min gamma/gamma-tilde
 - [x] Claude desktop 

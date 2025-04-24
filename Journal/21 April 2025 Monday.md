@@ -32,7 +32,7 @@
 ---
 # To Do
 
-- [ ] Make klX work interactively in iPlot
+- [x] Make klX work interactively in iPlot
 - [x] Renewal Materials for Teachers Program
 - [>>]  Staff award for Jessica
 - [>>] Cutflow Comparison
@@ -53,8 +53,6 @@ Get emacs setup on LPC
 # Taught
 - Double slit
 
-`diskutil unmount force ~/RemoteServer`
-
 # Getting remote emacs working: [[Emacs tricks]]
 - playing around with sshfs... not working
 - Trying emacs TRAMP: 
@@ -67,7 +65,7 @@ Chat Garett Goon
 - Great wins... played well
 
 # Chat with AE and SM
-- Double peak from DR(jj) ?
+- Double peak from dR(jj) ?
 
 # Colloq
 - YBCO major breakthrough
@@ -86,4 +84,4 @@ Kids Home from school
 
 More [[Run3 HH4b Cutflow Challenge]]
 
-- [>>] check out Claude code
+ [>>] check out Claude code

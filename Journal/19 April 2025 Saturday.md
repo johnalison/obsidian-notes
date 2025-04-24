@@ -33,9 +33,9 @@ Some [[Hamlet]] Commentary
 - GREAT!!!
 
 
-# Chat GPT in emacs:
-https://www.youtube.com/watch?v=H8jvhz0CGzU
-https://www.youtube.com/watch?v=bsRnh_brggM&t=789s
+# Chat GPT in emacs !:
+- https://www.youtube.com/watch?v=H8jvhz0CGzU
+- https://www.youtube.com/watch?v=bsRnh_brggM&t=789s
 
 # Installing emacs copilot
 -  `git clone https://github.com/copilot-emacs/copilot.el`

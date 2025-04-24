@@ -1,6 +1,18 @@
 
 - 2025 HGC Annual review: https://indico.cern.ch/event/1523635/
+
+- [x] Grade C installable ? 
+- [x] What is the cadence after August
+	- A: Produciton 4x per week
+
 # Logs
+
+## [[16 April 2025 Wednesday]]
+- [[CAM Turnaround Report]]
+- 16 modules /day * 5 days /week * 0.03 m^2 / module
+- [[HGC Estimate to complete Spring 2025]]
+- [[HGC MAC BoEs]]
+- Manfred: where do the plots come from? (From the datasets of the CAMTools)
 
 ## [[11 April 2025 Friday]]
 - Wrote up MAC meeting slides [[MAC Meeting 9 April 2025]]

@@ -13,15 +13,15 @@
 |     | T down             |     |
 | 2   | To Campus          |     |
 |     | Meet Jacques Moye  |     |
-| 3   | slides             |     |
-|     | Lecture #1         |     |
-| 4   | Lecture #1         |     |
-|     | slides             |     |
+| 3   | Meet Jacques Moye  |     |
+|     | HGC Slides         |     |
+| 4   | HGC Slides         |     |
+|     | HGC slides         |     |
 
-**W:**
-**DW:**
-**OT:**
-**ex** or **No ex**
+**W:** 7 
+**DW:** 3 
+**OT:** 2
+**No ex**
 
 ---
 # The ONE thing: 
@@ -32,17 +32,16 @@
 # To Do
 
 - [x] Check out claude code
-- [ ] Marina Cutflow 
-- [ ] Organize MAC management meetings
-- [ ] Make up lecture #1 
-- [ ] Make up lecture #2
+- [>>] Marina Cutflow 
+- [>>] Organize MAC management meetings
+- [>>] Make up lecture #1 
+- [>>] Make up lecture #2
 - [x] Iterate On slides
-- [ ] Fill out form for Jeremey
-- [ ] Respond to Soehuen
-- [ ] Cutflow Comparison 
-- [ ] Staff award for Jessica ( MCS staff award nominations that are due April 30)
-- [ ] Use ~/.ssh/config to simplify remote access.
-- [ ] Call Tax man
+- [>>] Fill out form for Jeremey
+- [>>] Respond to Soehuen
+- [>>] Staff award for Jessica ( MCS staff award nominations that are due April 30)
+- [>>] Use ~/.ssh/config to simplify remote access.
+- [>>] Call Tax man
 
 ---
 
@@ -64,13 +63,13 @@ Up at 7:30
 - Do you decorrelate the basis function wrt nomainl
 - Bands vs individual 1d distributions
 
-- Obsidian command to move the the next daily note:
-	 caps + shift + command `[` or `]`
+
+
+Command to move the the next daily note: 
+	 caps + shift + command `[` or `]`   ([>>]) [[Obsidian Tricks]]
 
 
 # [[HGC Slides for April 2023 Review]]
-- 
-
 
 
 
@@ -86,7 +85,7 @@ Up at 7:30
 - OUTSTANDING !!!!!
 
 
-Mystery package... is a picture 
+Mystery package... is a picture of an ATLAS Higgs 
 
 # Jacques interview
 - [x] Send link
@@ -95,3 +94,4 @@ Working HGC slides
 
 # [[FNAL Trip April 2025]]
 - Got details on key
+

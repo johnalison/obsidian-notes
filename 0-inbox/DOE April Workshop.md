@@ -1,5 +1,6 @@
 Saw Irene Dutta (HH) met her in Boston for LPC(Caltec->FNAL)
 
+# AM
 ## Steves talk: 
 - **T.J. Sarlina** was our EH&S
 - Adi Bornheim (caltech) 
@@ -28,19 +29,29 @@ Saw Irene Dutta (HH) met her in Boston for LPC(Caltec->FNAL)
 # OT Petra
 - 
 
+# PM
 
-# Lunch
-- Marko Stamenkovic is at FNAL 
-- [ ] Ping for coffee
-- [ ] Javiers student
 
 # My Talk 
+- Feed back here:  [[HGC Slides for April 2023 Review]]
 - [ ] Do we have a risk for the ESD damage ?
 - [ ] Summary is the oppurtunity to provide the takeaway
 	- [ ] What do you want them to write about you
 - [ ] In the slides you cite BCR0082 for improving the labor costs at the MACs, but this BCR is scintillator-specific.
 - [ ] Feedback [[HGC Slides for April 2023 Review]]
 - [ ] The message shoudl be we are in production and executing. We know what we are doing. and we are doing it.
+
+
+# Ted
+- Good 
+
+# Nadja
+- Good
+
+# Zoltan's talk was not great
+
+
+
 
 # Follow-ups
 

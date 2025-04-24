@@ -12,8 +12,8 @@
 | 1   | [[Effect of random binning on significance]] |     |
 |     | Applied to Osher                             |     |
 | 2   | 4b Meeting                                   |     |
-|     | Home for inspector                           |     |
-| 3   | Home for inspector                           |     |
+|     | Home for exterminator                        |     |
+| 3   | Home for exterminator                        |     |
 |     | HGC Slides                                   |     |
 | 4   | VARs                                         |     |
 |     | VARs                                         |     |

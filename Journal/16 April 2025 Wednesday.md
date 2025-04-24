@@ -59,23 +59,18 @@ H to work with me
 - Good run great wins.
 
 # [[HGC Slides for April 2023 Review]]
-- [x] Grade C installable ? 
-- [x] What is the cadence after August
-
+- See daily''s above
 
 Graded Exams 
 
 Posted Homework
 
-# Working HGC slides
-- [[CAM Turnaround Report]]
-- 16 modules /day * 5 days /week * 0.03 m^2 / module
-- [[HGC Estimate to complete Spring 2025]]
-- [[HGC MAC BoEs]]
-- Manfred: where do the plots come from? (From the datasets of the CAMTools)
+# Working HGC slides... see above
+
 
 # Chat [[Sindhu Murthy]]
 - Need to start putting slides together.
+
 
 More HGC slides
 

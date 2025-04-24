@@ -49,17 +49,10 @@ H to work with me.
 - 3D Schrinding Eq
 
 # [[Stats Data-Driven SR]]
-- Question re: CR with bais, improvement from 1 bin vs 2bins ?
-- [x] Write up 
-- [[Effect of random binning on significance]]
+- see daily's above
 
-# Faculty Meeting
-- Roys mail
-- Grad program: What is the goal of the core courses ?
-- Strong link vs Weak link
-- Why only 1st semester ?
-- Reasearch in 1st year working ?
-- Reinstatement of GRE ?
+# [[Faculty Meeting]] 
+- See above
 
 
 # Working [[HGC Slides for April 2023 Review]]
