@@ -68,9 +68,8 @@ Thinking about ... [[Correct background bias in full dimensional space]]
 
 Working [[Wesley Terrill Letter Spring 25]]
 
-# Faculty Meeting
-- TA awards: Why not give all three awards ?
-- Diane reappointed but much discussion...
+# [[Faculty Meeting]]
+- see above
 
 
 Finished [[Wesley Terrill Letter Spring 25]]

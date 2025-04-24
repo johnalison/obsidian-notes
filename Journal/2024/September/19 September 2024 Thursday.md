@@ -51,8 +51,8 @@ M&T to school
 # [[CMU bbWW]]
 
 
-# Faculty Meeting
-- Fenguie and Antonella: all 3s
+# [[Faculty Meeting]]
+- See above
 
 # MPL
 - Muons on-shell

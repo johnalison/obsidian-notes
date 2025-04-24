@@ -56,11 +56,8 @@ Graded Exams
 Finished Grades
 - posted Grades
 
-# Faculty Meeting
-- Spend Extra money!
-- Sent "MidTerm Grades"
-- How to do we advertise to other majors ?
-- Dont know if we are running a deficit or not. 
+# [[Faculty Meeting]]
+- See above
 
 
 # Chat with [[Tony Boyle]]

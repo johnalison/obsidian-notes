@@ -67,8 +67,8 @@ setup
 # Chat with USCMS
 - Nothing
 
-# Faculty Meeting
-- MCS annual meeting
+# [[Faculty Meeting]]
+- See above
 
 # Chat with [[Tony Boyle]]
 

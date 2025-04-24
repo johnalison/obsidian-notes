@@ -59,9 +59,8 @@ Waiting for steph to drive us
 - clean - dips / squat - pullups / flys - lunges 
 - 10' at Tmax 123  (on watch )
 
-# Faculty Discussion
-- Have the students talk to each other on the first day
-- Chat Rachel Rosen about having TAs teach the 4th lecture
+# [[Faculty Meeting]]
+- See above
 
 # Office Hours
 - Couple of customers

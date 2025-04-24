@@ -69,8 +69,8 @@ Package arrived with a bunch of fittings
 
 Some [[Wesley Terrill Letter Spring 25]]
 
-
-# [[HGCManagementMeeting 4 February 2025]]
+# [[HGC Management Meeting]]
+- See above
 
 
 Home

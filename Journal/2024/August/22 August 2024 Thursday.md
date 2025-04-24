@@ -53,11 +53,8 @@ M & T to school
 # [[CMU bbWW]]
 - See daily's
 
-# Faculty Meeting:
-- Kirean leaving
-- Physics being Audited 
-- Send Rachel good news
-- https://docs.google.com/document/d/1APly04ARGwMxgEJPVwbFSiuZv_0bxIsYxnzmL6VW7MU/edit#heading=h.gapf957x53wz
+# [[Faculty Meeting]]
+- see above
 
 Chat Rupert and Reinhard
 - Rupert getting harassed for riding in the dismount zone

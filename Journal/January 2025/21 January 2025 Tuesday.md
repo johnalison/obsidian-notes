@@ -75,7 +75,6 @@ Doing Mails
 - [x] [[Hbb Reclustering Project]] 
 	([>>]) [[UndergradProjects]]
 
-
 # [[CMU HGC MAC Meeting 21 January 2025]]
 
 [[Modern Essentials]]

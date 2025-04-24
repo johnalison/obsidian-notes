@@ -70,8 +70,8 @@ Did [[Run2 HH4b AN]] planning
 
 Home Depot... wall anchors / shop vac bags / safety googles
 
-# Faculty Meeting
-- Adjuncts for Dianas people
+# [[Faculty Meeting]]
+- see above
 
 [[BitWardenCISetup]]
 

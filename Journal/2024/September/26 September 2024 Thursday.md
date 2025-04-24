@@ -51,10 +51,8 @@ Chat w/Matteo and new student re:setting up t3
 # [[CMU bbWW]]
 
 
-# Faculty Meeting
-- Last of the RPT meetings
-- Matteo : [[Matteo Cremonesi reappointment Letter]]  All 3s
-- Vlad: All 3s
+# [[Faculty Meeting]]
+- See above
 
 # Gym/Steamroom
 - core / farmers carries / cling / step-ups

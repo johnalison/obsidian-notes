@@ -77,7 +77,8 @@ Merged master... need to update Run3 cutflows
 # [[Jet DeClustering]]
 - see daily's above
 
-# [[HGCManagementMeeting 4 March 2025]]
+## [[HGC Management Meeting]]
+- See above
 
 
 More [[Jet DeClustering]]

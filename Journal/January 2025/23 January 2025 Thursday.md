@@ -64,9 +64,8 @@ Submitted Sams letters
 
 # [[Stats Data-Driven SR]]
 
-# Faculty Meeting
-- Chat with the dean: No plan until March
-- Think much of our problem is from the partitioning of the departments into MCS
+# [[Faculty Meeting]]
+- See above
 
 Wrote [[ProgressReport 17 January 2025]]
 

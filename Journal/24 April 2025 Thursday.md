@@ -5,10 +5,10 @@
 |     | L1T Review |     |
 | 10  | L1T Review |     |
 |     | L1T Review |     |
-| 11  |            |     |
-|     |            |     |
-| 12  |            |     |
-|     |            |     |
+| 11  | Lunch      |     |
+|     | Lunch      |     |
+| 12  | Lunch      |     |
+|     | Workshop   |     |
 | 1   |            |     |
 |     |            |     |
 | 2   |            |     |
@@ -30,7 +30,7 @@
 ---
 # To Do
 
-- [ ] Organize [[Faculty Meeting]]
+- [x] Organize [[Faculty Meeting]]
 - [ ] Organize MAC management meetings
 - [ ] Read/Reply binning re:Soheun
 - [ ] Message to class / Make up Q&A sessions
@@ -84,4 +84,10 @@ Saw YKK... claims will only be director for a year.
 
 ## Firmware
 - Improvements from HLS baked in to CD3 baseline ? or new since then?
-- 
+
+
+# Lunch
+- Chat Zoltan re:store the partial at the CAF 
+
+
+

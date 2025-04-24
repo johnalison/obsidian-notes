@@ -70,14 +70,8 @@ SvB Now Flat !!!
 - Barbell row - lunges / dumbbell incline bench  - cleans / closegrip bench - deadlifts
 - 10' at Tmax = 1122
 
-# Faculty Meeting
-- Each read 130 applications
-- JA: Idea use LLMs to score the applications
-- [>>] Visiting weekend March 14-15th
-- [x] Ping Gillian re:HGC Lab
-	- [[Ad for Lab tech]] 
-- (Signed Marlo up for Basketball on Thursdays)
-- Are we being too passive ?
+# [[Faculty Meeting]]
+- See above
 
 
 # Chat [[Tony Boyle]]

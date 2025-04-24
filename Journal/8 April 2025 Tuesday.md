@@ -77,9 +77,8 @@ Dad OKs the tax return
 # Fighting with cutflow ! 
 
 
-# HGC Management Meeting
-- Tariff discussion
-- Discussed spare bond head ... kick the can down the road
+# [[HGC Management Meeting]]
+- see above
 
 
 [[HGC WADs]]

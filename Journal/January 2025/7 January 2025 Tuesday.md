@@ -70,7 +70,9 @@ Against Libertarinism:
 
 Home with kids
 
-[[HGCManagementMeeting 7 January 2025]]
+# [[HGC Management Meeting]]
+- See above
+
 
 Picked up H
 

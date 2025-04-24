@@ -63,8 +63,8 @@ M & T to school (M had to walk in snow! complained, but pushed through)
 
 Skipped bbWW
 
-# Faculty Meeting
-- In person meeting Jan 6th
+# [[Faculty Meeting]]
+- see above
 
 # Gym / Steamroom
 - core / farmers carries / cling / step-ups

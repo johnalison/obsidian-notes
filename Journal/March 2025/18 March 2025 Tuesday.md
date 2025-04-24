@@ -73,7 +73,8 @@ More Estimate to complete... see above
 
 Coffee with AE and SM
 
-# [[HGCManagementMeeting 18 March 2025]]
+# [[HGC Management Meeting]]
+
 
 
 Home 

@@ -94,7 +94,7 @@ Did [[CAM Turnaround Report]] ... see below
 - See logs above
 
 
-# [[HGCManagementMeeting 1 April 2025]]
+# [[HGC Management Meeting]]
 - see above
 
 Pinged Ables re:Another Tech 3 Ad

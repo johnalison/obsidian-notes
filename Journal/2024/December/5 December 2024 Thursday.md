@@ -63,8 +63,8 @@ Swain rejects :(
 # [[CMU bbWW]]
 - Prep talk for bbWW
 
-# Faculty Meeting
-- Jeff Abels: from CyLab.. seems competent 
+# [[Faculty Meeting]]
+- See above
 
 # Chat with [[Sindhu Murthy]]
 - See daily's

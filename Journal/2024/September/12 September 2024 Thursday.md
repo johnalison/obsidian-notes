@@ -42,14 +42,16 @@
 Poor sleep.   Up at 8
 
 M&T to school 
+
 # Fast Day 3
+
 # [[Jet DeClustering]]
 - See daily logs above
 
 # [[CMU bbWW]]
 - see daily's above
 
-[[Faculty Meeting 12 September 2024]]
+# [[Faculty Meeting]]
 
 Chat w/Ricardo will do book club for New Yuval Noah Harari: Nexus 
 

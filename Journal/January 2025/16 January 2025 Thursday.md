@@ -64,8 +64,8 @@ School by 9:30
 # Chat with Sam
 - Will start looking into kubernetes
 
-# Faculty Meeting
-- Long discussion of Astro track
+# [[Faculty Meeting]]
+- See above
 
 [[Write up Universal Inference Toy]]
 

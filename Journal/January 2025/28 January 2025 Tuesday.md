@@ -81,7 +81,9 @@ Shipping DB
 https://cmsr-shipment.web.cern.ch/list_of_shippings?search=CMU&sort=date_start&order=&loc=all_loc&opt=to_me&st=received
 [>>]   [[HGC Links]]
 
-# [[HGCManagementMeeting 28 January 2025]]
+# [[HGC Management Meeting]]
+- See above
+
 
 Updated plotting to take a list of processes. 
 - [>>] Simplify ttbar config

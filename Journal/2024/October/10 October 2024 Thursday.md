@@ -75,8 +75,8 @@ Getting Aniket office at CERN
 - OpenStack (virtual machine at CERN) to run B-jet DQM GUI
 - Access open stack requires (?)  onsite access 
 
-# Faculty Meeting
-- Not much...chat about new masters programs 
+# [[Faculty Meeting]]
+- See above
 
 # Chat with Katie Shubayu re Teacher Program
 - [>>] Send info re: [[High-School Physics Teachers Program]]

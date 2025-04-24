@@ -65,10 +65,8 @@ M & T to school
 - sent info re:skimming and checking lumisection
 
 
-# Faculty Meeting
-- Paid Steph
-- Main message is the core doesnt work for Astro students
-- Discussion of AstroProgram
+# [[Faculty Meeting]]
+- see above
 
 # Chat [[Tony Boyle]]
 - still fucking up delta phi
