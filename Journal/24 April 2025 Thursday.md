@@ -63,4 +63,15 @@ Coffee
 -  **Single-Point Adjustment (SPA)**. An SPA is a formal EVMS “reset” that brings Planned, Earned and Actual cost to the same value on the cut-off date so CPI and SPI restart at 1.00.
 - **Estimate Uncertainty (EU)** set-aside (contingency) for that labour. For completed work this is zero.
 - $176.94 M total BAC and the $14.82M
-- 
+
+
+# Chat Marko
+- Good discussion
+
+# L1T Review 
+- Close to production
+- ESD  ? 
+- Estimate to complete?
+- Why not go to APx4 now ?
+- Do you have all the FPGAs ?
+- power and cooling 
