@@ -64,7 +64,7 @@ CMU CMS Meeting:
 
 Gave Peter a tour
 
-October Turn Around Report available moved to [[HGCManagementMeeting 29 October 2024]]
+October Turn Around Report available moved  
 
 # Social 
 - got M and T ... back to the social ... S & H come

@@ -68,7 +68,8 @@ More mixing.
 - mio back !
 - [[MPL]]
 
-[[HGCManagementMeeting 27 August 2024]]
+# [[HGC Management Meeting]]
+
 
 [[What’s Really Going On in Machine Learning? Some Minimal Models]]
 

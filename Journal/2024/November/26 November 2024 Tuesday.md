@@ -74,7 +74,8 @@ Pinged Michelle waters re:three more positions
 - 75k / year use as much as you want
 - Modules are probably too big to get the magnification to see ~100µm
 
-[[HGCManagementMeeting 26 November 2024]]
+# [[HGC Management Meeting]]
+- See above
 
 # Andre Chat
 - offered 32/hr

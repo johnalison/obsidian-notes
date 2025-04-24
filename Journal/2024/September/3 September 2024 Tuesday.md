@@ -74,7 +74,8 @@ Some [[Migrate Trigger Emulator]]
 
 Pinged Michelle Waters Ad for Lab tech
 
-[[HGCManagementMeeting 3 September 2024]]
+# [[HGC Management Meeting]]
+
 
 # [[Jet DeClustering]]
 - See daily log above

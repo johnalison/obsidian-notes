@@ -66,7 +66,7 @@ Kria Controller Arrives!
 [[HGC Transfer Tape BCR]]
 
 # CAM reporting December 
-- See: [[HGCManagementMeeting 7 January 2025]]
+- See: [[HGC Management Meeting]]
 
 Marlos Bed arrives
 

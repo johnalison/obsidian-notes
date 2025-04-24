@@ -59,7 +59,8 @@ work from home
 
 more [[Run-3 4b skims]]
 
-[[HGCManagementMeeting 8 October 2024]]
+# [[HGC Management Meeting]]
+
 
 Finished [[How Adam Smith Can Change Your Life]]
 

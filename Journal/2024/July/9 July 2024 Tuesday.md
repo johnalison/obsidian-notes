@@ -28,5 +28,3 @@ Working some book notes
 
 
 
-
-

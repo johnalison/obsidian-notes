@@ -67,9 +67,8 @@ Reviewed Anikets DQM slides with him.
 - Put it back...Now seeing peaks ! All good.
 - Pinged Brandon.
 
-# Mans meeting
-- Engine problem, which chips not getting the clock
-- Monday Management meeting ?
+## [[HGC Management Meeting]]
+
 
 ... More Debugging
 

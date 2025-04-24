@@ -75,7 +75,8 @@ Setup...[[ToDo]]
 
 More CV [[ToAddToCV]]
 
-[[HGCManagementMeeting 15 October 2024]]
+# [[HGC Management Meeting]]
+
 
 Finishing CV
 

@@ -17,7 +17,8 @@ Back to chat about demos, ordered supplies for Thursday.
 Will reconvene Thursday for photogate
 Will try to do cloud chamber on Friday
 
-[[HGCManagementMeeting 16 July 2024]]
+# [[HGC Management Meeting]]
+
 
 [[Modules Summary July 2024]]
 

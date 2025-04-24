@@ -54,7 +54,7 @@ Seller relisted 5391 without making our disclosures known.
 - See daily logs above
 
 Start Turn-around report here:
-[[HGCManagementMeeting 29 October 2024]]
+[[HGC Management Meeting]]
 
 [[Classifier Studies]]... see above
 

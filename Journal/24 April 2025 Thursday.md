@@ -31,7 +31,7 @@
 # To Do
 
 - [x] Organize [[Faculty Meeting]]
-- [ ] Organize MAC management meetings
+- [x] Organize MAC management meetings
 - [ ] Read/Reply binning re:Soheun
 - [ ] Message to class / Make up Q&A sessions
 - [ ] Make up Lectures 
@@ -87,7 +87,14 @@ Saw YKK... claims will only be director for a year.
 
 
 # Lunch
-- Chat Zoltan re:store the partial at the CAF 
+- Chat Zoltan re:store the partials at the CAF 
+- Chat about schedule
 
+Got badge fixed
 
+Chat with Bo
 
+[[Message for Jonas]]
+
+# Steve Summary
+- What is a CAM interview ?

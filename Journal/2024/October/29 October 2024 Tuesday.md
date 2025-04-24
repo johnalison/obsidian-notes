@@ -68,9 +68,8 @@ Chat Tony... not clear how useful that was for him...
 
 Bike home
 
-#  [[HGCManagementMeeting 29 October 2024]]
-- Making Moves! 
-- [>>] Need to ship modules to FNAL
+# [[HGC Management Meeting]]
+
 
 More clustering Run3 data
 

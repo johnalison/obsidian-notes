@@ -98,7 +98,7 @@ Tree removal: $16k put 20% down
 
 Home Insurance Inspection OK... Need to dry closet or demo it.
 
-# [[HGCManagementMeeting 19 November 2024]]
+# [[HGC Management Meeting]]
 
 Lots more skimmer debugging... see above
 

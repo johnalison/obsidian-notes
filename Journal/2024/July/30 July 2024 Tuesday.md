@@ -60,7 +60,8 @@ Wes in on daq shift (with a trainee) today so cannot meet
 # Hoops 
 3s and then a lots of 4s 
 
-[[HGCManagementMeeting 30 July 2024]]
+# [[HGC Management Meeting]]
+
 
 [[Images in Obsidian]]
 

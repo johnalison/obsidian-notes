@@ -69,8 +69,8 @@ Chat with Sindhu:
 
 More [[Jet DeClustering]]
 
-[[HGCManagementMeeting 1 October 2024]]
-    [>>] Ping Markus/Joe re:baseplates
+# [[HGC Management Meeting]]
+-   [>>] Ping Markus/Joe re:baseplates
 
 Looked for Aniket... Will try Thursday
 

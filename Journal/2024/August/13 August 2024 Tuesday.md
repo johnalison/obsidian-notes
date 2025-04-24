@@ -58,9 +58,8 @@ More mixed ... see above
 
 Home 
 
-# Mans meeting 
-- Tiles and cassettes
-- no meeting next week
+# [[HGC Management Meeting]]
+
 
 More mixed ... 
 

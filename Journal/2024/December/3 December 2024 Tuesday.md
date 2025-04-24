@@ -86,9 +86,8 @@ To get haircut... line too long ... checked out white whale book store...very co
 - Got new prescription ...  ordered new lenses. if OK will get second pair.  
 - Take contacts out when get home
 
-# Mans Meeting
-- connected at the end
-- discussion of if we can store module is ambient air
+# [[HGC Management Meeting]]
+- See above
 
 - [x] Get date for seminar to herwig 
 	- March 3rd 
