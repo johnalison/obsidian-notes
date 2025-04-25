@@ -1,22 +1,22 @@
 
-|     | Chat          |     |
-| --- | ------------- | --- |
-| 9   | L1T Review    |     |
-|     | L1T Review    |     |
-| 10  | L1T Review    |     |
-|     | L1T Review    |     |
-| 11  | Lunch         |     |
-|     | Lunch         |     |
-| 12  | Lunch         |     |
-|     | Workshop      |     |
-| 1   |               |     |
-|     |               |     |
-| 2   |               |     |
-|     |               |     |
-| 3   |               |     |
-|     | Note cleaning |     |
-| 4   | Review        |     |
-|     | Review        |     |
+|     | Chat          |     |     |     |
+| --- | ------------- | --- | --- | --- |
+| 9   | L1T Review    |     |     |     |
+|     | L1T Review    |     |     |     |
+| 10  | L1T Review    |     |     |     |
+|     | L1T Review    |     |     |     |
+| 11  | Lunch         |     |     |     |
+|     | Lunch         |     |     |     |
+| 12  | Lunch         |     |     |     |
+|     | Workshop      |     |     |     |
+| 1   | Workshop      |     |     |     |
+|     | Workshop      |     |     |     |
+| 2   | Workshop      |     |     |     |
+|     | Chat  Ted     |     |     |     |
+| 3   | Chat  Ted     |     |     |     |
+|     | Note cleaning |     |     |     |
+| 4   | Review        |     |     |     |
+|     | Review        |     |     |     |
 
 **W:**
 **DW:**
@@ -102,3 +102,11 @@ Chat with Bo
 - Practice Talk
 - Draft due on the 20th Final talks 27th. Review June 3-5
 - 
+
+# Tour Si Det
+- Chat with Aidan Grummer
+- Long chat with Zoltan and Aidan 
+
+# Dinner at Rock Bottom
+- Good Chat with Jeremy 
+- L3 -> D0 -> CMS
