@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/Modules Summary April 2025.md",
+                "file": "Journal/25 April 2025 Friday.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Modules Summary April 2025"
+              "title": "25 April 2025 Friday"
             }
           },
           {
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/Modules Summary April 2025.md",
+                "file": "Journal/25 April 2025 Friday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Modules Summary April 2025"
+              "title": "Backlinks for 25 April 2025 Friday"
             }
           },
           {
@@ -196,13 +196,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/Modules Summary April 2025.md",
+                "file": "Journal/25 April 2025 Friday.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Modules Summary April 2025"
+              "title": "Outline of 25 April 2025 Friday"
             }
           },
           {
@@ -235,8 +235,11 @@
   },
   "active": "57d8ec713c650d2b",
   "lastOpenFiles": [
-    "Output/CAM/Modules Summary March 2025.md",
     "0-inbox/Modules Summary April 2025.md",
+    "1-projects/HGC/CMU Modules per Month.md",
+    "1-projects/HGC/UCSB Modules per Month.md",
+    "1-projects/HGC/Module assembly at CMU.md",
+    "Output/CAM/Modules Summary March 2025.md",
     "Journal/25 April 2025 Friday.md",
     "Journal/24 April 2025 Thursday.md",
     "Journal/April 2025.md",
@@ -258,9 +261,6 @@
     "Journal/2024/August/6 August 2024 Tuesday.md",
     "Journal/2024/August/13 August 2024 Tuesday.md",
     "Journal/2024/September/3 September 2024 Tuesday.md",
-    "Journal/2024/August/20 August 2024 Tuesday.md",
-    "Input/Meetings/2024/September/HGCManagementMeeting 3 September 2024.md",
-    "Journal/2024/August/27 August 2024 Tuesday.md",
     "Physics",
     "#test#",
     "test",

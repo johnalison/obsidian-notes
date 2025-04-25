@@ -1,13 +1,13 @@
 
-CMU has produced the first v3c Ti modules. 15 where produced and show good placement and 
+CMU has produced the first v3c Ti modules!  Fifteen modules where produced and 14/15 are high quality (one has ohmic IV curve). Half of them are being sent to the Cassette Assembly Facility in Fermilab and the rest will remain in CMU for testing. CMU has now received all of the final tooling.  It has been assembled and installed and is in the process of being commissioned. This will allow us to proceed at a cadence of four modules per day in May. We have hired a new technician who will start May 1st. 
 
-a total of 22 CuW (v3b) modules. 18 of these have been shipped to CERN for cassette testing. We are currently scaling up productivity and capacity. The Gantry software is being upgraded to assembly 4 modules per run and we have purchased a shipping crate to be used during production. If it is satisfactory, will buy another.  We received 600 sensors and 15 ROC v3c hexaboards.  The hexaboards were tested with the new Kria teststands and all look good.  We will build 15 more v3c - Ti module after the final tooling is commissioned. 
+UCSB has make a run of fifteen HGCROC V3B HD Full modules; 14/15 of fifteen show are high quality (one has large placement offset). UCSB has inspected and shipped the last of the final gantry tooling to CMU and TTU.  The final tooling for UCSB is expected soon and will be installed and commissioned when available. 
 
-
-UCSB has inspected and shipped the more of the final gantry tooling to CMU and TTU.  They have now placed all of the final gantry tooling orders through Fermilab. They have received parts from CERN: 37 hexaborads (v3b) / 5 trophy boards. They have commissioned the new Kria teststands and have tested HD hexaboards. They will resume module assembly of HD Full next and build a few "no tape" modules to validate FEA studies. 
 
 
 # Follow-ups
+[[UCSB Modules per Month]]
+[[CMU Modules per Month]]
 
 
 # Links: 
