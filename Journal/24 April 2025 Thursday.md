@@ -1,22 +1,22 @@
 
-|     | Chat       |     |
-| --- | ---------- | --- |
-| 9   | L1T Review |     |
-|     | L1T Review |     |
-| 10  | L1T Review |     |
-|     | L1T Review |     |
-| 11  | Lunch      |     |
-|     | Lunch      |     |
-| 12  | Lunch      |     |
-|     | Workshop   |     |
-| 1   |            |     |
-|     |            |     |
-| 2   |            |     |
-|     |            |     |
-| 3   |            |     |
-|     |            |     |
-| 4   |            |     |
-|     |            |     |
+|     | Chat          |     |
+| --- | ------------- | --- |
+| 9   | L1T Review    |     |
+|     | L1T Review    |     |
+| 10  | L1T Review    |     |
+|     | L1T Review    |     |
+| 11  | Lunch         |     |
+|     | Lunch         |     |
+| 12  | Lunch         |     |
+|     | Workshop      |     |
+| 1   |               |     |
+|     |               |     |
+| 2   |               |     |
+|     |               |     |
+| 3   |               |     |
+|     | Note cleaning |     |
+| 4   | Review        |     |
+|     | Review        |     |
 
 **W:**
 **DW:**
@@ -43,6 +43,7 @@
 - [ ] Use ~/.ssh/config to simplify remote access.
 - [ ] Call Tax man
 - [ ] Cyert Center Sliding Scale Benfit 
+- [ ] UCSB Letter for Wes
 
 ---
 
@@ -98,3 +99,6 @@ Chat with Bo
 
 # Steve Summary
 - What is a CAM interview ?
+- Practice Talk
+- Draft due on the 20th Final talks 27th. Review June 3-5
+- 
