@@ -42,8 +42,8 @@
 - [ ]  Staff award for Jessica ( MCS staff award nominations that are due April 30)
 - [ ] Use ~/.ssh/config to simplify remote access.
 - [ ] Call Tax man
-- [ ] Cyert Center Sliding Scale Benefit 
-- [ ] UCSB Letter for Wes
+- [>>] Cyert Center Sliding Scale Benefit 
+- [>>] UCSB Letter for Wes
 
 ---
 

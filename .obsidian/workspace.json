@@ -77,8 +77,7 @@
               "title": "19 April 2025 Saturday"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -151,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/24 April 2025 Thursday.md",
+                "file": "Journal/25 April 2025 Friday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +160,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 24 April 2025 Thursday"
+              "title": "Backlinks for 25 April 2025 Friday"
             }
           },
           {
@@ -197,13 +196,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/24 April 2025 Thursday.md",
+                "file": "Journal/25 April 2025 Friday.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 24 April 2025 Thursday"
+              "title": "Outline of 25 April 2025 Friday"
             }
           },
           {
@@ -234,11 +233,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1f12b68816191225",
+  "active": "57d8ec713c650d2b",
   "lastOpenFiles": [
-    "Journal/25 April 2025 Friday.md",
     "Journal/April 2025.md",
     "Journal/24 April 2025 Thursday.md",
+    "Journal/25 April 2025 Friday.md",
+    "Output/Recommendation  Letters/Wesley Terrill Letter Spring 25.md",
+    "Journal/19 April 2025 Saturday.md",
     "0-inbox/HGC Management Meeting.md",
     "0-inbox/CMU Rental Cars.md",
     "0-inbox/Modules Summary April 2025.md",
@@ -260,8 +261,6 @@
     "Input/Meetings/2024/July/HGCManagementMeeting 23 July 2024.md",
     "Journal/2024/July/30 July 2024 Tuesday.md",
     "Input/Meetings/2024/July/HGCManagementMeeting 30 July 2024.md",
-    "Journal/2024/August/6 August 2024 Tuesday.md",
-    "Journal/2024/August/13 August 2024 Tuesday.md",
     "Physics",
     "#test#",
     "test",
