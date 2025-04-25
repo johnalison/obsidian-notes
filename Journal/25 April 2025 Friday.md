@@ -4,8 +4,8 @@
 # To Do
 
 - [x] Send Modules Summary 
-- [ ] 
-- [ ] 
+- [x]  Harry Summary 
+- [x] Message to class / Make up Q&A sessions
 - [ ] 
 
 ---
@@ -18,6 +18,7 @@ Chat Zoltan at SiDet
 
 Chat Don SiDet
 
+Fuck Avis!
 
 [[CMU Rental Cars]]
 

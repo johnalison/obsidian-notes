@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/CMU Rental Cars.md",
+                "file": "Journal/25 April 2025 Friday.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CMU Rental Cars"
+              "title": "25 April 2025 Friday"
             }
           },
           {
@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/HGC Management Meeting.md",
+                "file": "Journal/24 April 2025 Thursday.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HGC Management Meeting"
+              "title": "24 April 2025 Thursday"
             }
           },
           {
@@ -77,7 +77,8 @@
               "title": "19 April 2025 Saturday"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -150,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/CMU Rental Cars.md",
+                "file": "Journal/24 April 2025 Thursday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +161,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for CMU Rental Cars"
+              "title": "Backlinks for 24 April 2025 Thursday"
             }
           },
           {
@@ -196,13 +197,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/CMU Rental Cars.md",
+                "file": "Journal/24 April 2025 Thursday.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of CMU Rental Cars"
+              "title": "Outline of 24 April 2025 Thursday"
             }
           },
           {
@@ -233,17 +234,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "57d8ec713c650d2b",
+  "active": "1f12b68816191225",
   "lastOpenFiles": [
     "Journal/25 April 2025 Friday.md",
+    "Journal/April 2025.md",
+    "Journal/24 April 2025 Thursday.md",
+    "0-inbox/HGC Management Meeting.md",
     "0-inbox/CMU Rental Cars.md",
     "0-inbox/Modules Summary April 2025.md",
     "1-projects/HGC/CMU Modules per Month.md",
     "1-projects/HGC/UCSB Modules per Month.md",
     "1-projects/HGC/Module assembly at CMU.md",
     "Output/CAM/Modules Summary March 2025.md",
-    "Journal/24 April 2025 Thursday.md",
-    "Journal/April 2025.md",
     "1-projects/HGC/CAM Turnaround Report.md",
     "0-inbox/Message for Jonas.md",
     "Journal/2024/July/9 July 2024 Tuesday.md",
@@ -254,7 +256,6 @@
     "Journal/January 2025/2 January 2025 Thursday.md",
     "Journal/2024/July/16 July 2024 Tuesday.md",
     "Input/Meetings/2024/July/HGCManagementMeeting 16 July 2024.md",
-    "0-inbox/HGC Management Meeting.md",
     "Journal/2024/July/23 July 2024 Tuesday.md",
     "Input/Meetings/2024/July/HGCManagementMeeting 23 July 2024.md",
     "Journal/2024/July/30 July 2024 Tuesday.md",
