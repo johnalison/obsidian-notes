@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/26 April 2025 Saturday.md",
+                "file": "0-inbox/The rationality of irrational voters.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "26 April 2025 Saturday"
+              "title": "The rationality of irrational voters"
             }
           },
           {
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/26 April 2025 Saturday.md",
+                "file": "0-inbox/The rationality of irrational voters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 26 April 2025 Saturday"
+              "title": "Backlinks for The rationality of irrational voters"
             }
           },
           {
@@ -197,13 +197,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/26 April 2025 Saturday.md",
+                "file": "0-inbox/The rationality of irrational voters.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 26 April 2025 Saturday"
+              "title": "Outline of The rationality of irrational voters"
             }
           },
           {
@@ -236,11 +236,14 @@
   },
   "active": "57d8ec713c650d2b",
   "lastOpenFiles": [
-    "Journal/#26 April 2025 Saturday.md#",
     "0-inbox/Myth of the Rational Voter.md",
-    "0-inbox/Markets underrated vs democracy.md",
+    "0-inbox/Irrationality in Markets vs Democracy.md",
     "0-inbox/The rationality of irrational voters.md",
+    "0-inbox/Sensible Public Opinion is a Public Good.md",
+    "0-inbox/Markets underrated vs democracy.md",
+    "0-inbox/#Myth of the Rational Voter.md#",
     "Journal/26 April 2025 Saturday.md",
+    "Journal/#26 April 2025 Saturday.md#",
     "Journal/25 April 2025 Friday.md",
     "0-inbox/Write up Universal Inference Toy.md",
     "0-inbox/What do we know about organizing society or government with overwhelming confidence.md",
@@ -261,7 +264,6 @@
     "4-archive/FNAL Trip April 2025.md",
     "4-archive/FNAL Site Access.md",
     "Input/Meetings/Faculty Meeting.md",
-    "0-inbox/Existence Is Evidence of Immortality.md",
     "Physics",
     "#test#",
     "test",
@@ -275,7 +277,6 @@
     "attachments/Pasted image 20250315160719.png",
     "attachments/Pasted image 20250315160647.png",
     "0-inbox/#DOE Review Li Zepeng.md#",
-    "Input/Meetings/February",
     "Untitled.canvas",
     "attachments/ModuleAssemblyPersonel.png",
     "attachments/Pasted image 20240826220009.png",
