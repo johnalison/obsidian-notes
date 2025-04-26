@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/Myth of the Rational Voter.md",
+                "file": "Journal/26 April 2025 Saturday.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Myth of the Rational Voter"
+              "title": "26 April 2025 Saturday"
             }
           },
           {
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/Myth of the Rational Voter.md",
+                "file": "Journal/26 April 2025 Saturday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Myth of the Rational Voter"
+              "title": "Backlinks for 26 April 2025 Saturday"
             }
           },
           {
@@ -197,13 +197,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/Myth of the Rational Voter.md",
+                "file": "Journal/26 April 2025 Saturday.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Myth of the Rational Voter"
+              "title": "Outline of 26 April 2025 Saturday"
             }
           },
           {
@@ -236,8 +236,9 @@
   },
   "active": "57d8ec713c650d2b",
   "lastOpenFiles": [
-    "0-inbox/Markets underrated vs democracy.md",
+    "Journal/#26 April 2025 Saturday.md#",
     "0-inbox/Myth of the Rational Voter.md",
+    "0-inbox/Markets underrated vs democracy.md",
     "0-inbox/The rationality of irrational voters.md",
     "Journal/26 April 2025 Saturday.md",
     "Journal/25 April 2025 Friday.md",
@@ -261,7 +262,6 @@
     "4-archive/FNAL Site Access.md",
     "Input/Meetings/Faculty Meeting.md",
     "0-inbox/Existence Is Evidence of Immortality.md",
-    "0-inbox/Evolution of Silicon Sensor Technology in Particle Physics.md",
     "Physics",
     "#test#",
     "test",
@@ -276,7 +276,6 @@
     "attachments/Pasted image 20250315160647.png",
     "0-inbox/#DOE Review Li Zepeng.md#",
     "Input/Meetings/February",
-    "Input/Meetings/January",
     "Untitled.canvas",
     "attachments/ModuleAssemblyPersonel.png",
     "attachments/Pasted image 20240826220009.png",
