@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/Write up Universal Inference Toy.md",
+                "file": "Journal/26 April 2025 Saturday.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Write up Universal Inference Toy"
+              "title": "26 April 2025 Saturday"
             }
           },
           {
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/Write up Universal Inference Toy.md",
+                "file": "Journal/26 April 2025 Saturday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Write up Universal Inference Toy"
+              "title": "Backlinks for 26 April 2025 Saturday"
             }
           },
           {
@@ -197,13 +197,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/Write up Universal Inference Toy.md",
+                "file": "Journal/26 April 2025 Saturday.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Write up Universal Inference Toy"
+              "title": "Outline of 26 April 2025 Saturday"
             }
           },
           {
@@ -236,6 +236,9 @@
   },
   "active": "57d8ec713c650d2b",
   "lastOpenFiles": [
+    "Journal/25 April 2025 Friday.md",
+    "Journal/26 April 2025 Saturday.md",
+    "0-inbox/Write up Universal Inference Toy.md",
     "0-inbox/What do we know about organizing society or government with overwhelming confidence.md",
     "Input/Meetings/Wes Thesis Defense.md",
     "0-inbox/Waiting for.md",
@@ -259,9 +262,6 @@
     "0-inbox/Evolution of Silicon Sensor Technology in Particle Physics.md",
     "Input/Meetings/DOE April Workshop.md",
     "2-areas/CMU/CMU CMS Webpage.md",
-    "2-areas/CMU/CMU Rental Cars.md",
-    "Input/Meetings/CMU HGC MAC Meeting 22 April 2025.md",
-    "0-inbox/AnalysesOverview.excalidraw.md",
     "Physics",
     "#test#",
     "test",
