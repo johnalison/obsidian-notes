@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/Myth of the Rational Voter.md",
+                "file": "Journal/26 April 2025 Saturday.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Myth of the Rational Voter"
+              "title": "26 April 2025 Saturday"
             }
           },
           {
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/Myth of the Rational Voter.md",
+                "file": "Journal/26 April 2025 Saturday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Myth of the Rational Voter"
+              "title": "Backlinks for 26 April 2025 Saturday"
             }
           },
           {
@@ -197,13 +197,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/Myth of the Rational Voter.md",
+                "file": "Journal/26 April 2025 Saturday.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Myth of the Rational Voter"
+              "title": "Outline of 26 April 2025 Saturday"
             }
           },
           {
@@ -236,16 +236,18 @@
   },
   "active": "57d8ec713c650d2b",
   "lastOpenFiles": [
-    "0-inbox/The rationality of irrational voters.md",
+    "Journal/25 April 2025 Friday.md",
+    "Journal/24 April 2025 Thursday.md",
+    "Journal/April 2025.md",
+    "Journal/26 April 2025 Saturday.md",
     "0-inbox/Myth of the Rational Voter.md",
+    "0-inbox/The rationality of irrational voters.md",
     "0-inbox/The logic of irrationality.md",
     "0-inbox/Irrationality in Markets vs Democracy.md",
     "0-inbox/Sensible Public Opinion is a Public Good.md",
     "0-inbox/Markets underrated vs democracy.md",
     "0-inbox/#Myth of the Rational Voter.md#",
-    "Journal/26 April 2025 Saturday.md",
     "Journal/#26 April 2025 Saturday.md#",
-    "Journal/25 April 2025 Friday.md",
     "0-inbox/Write up Universal Inference Toy.md",
     "0-inbox/What do we know about organizing society or government with overwhelming confidence.md",
     "Input/Meetings/Wes Thesis Defense.md",
@@ -262,8 +264,6 @@
     "0-inbox/Mass of jets is not invariant.md",
     "0-inbox/HGC TDR.md",
     "Input/Meetings/HGC Management Meeting.md",
-    "4-archive/FNAL Trip April 2025.md",
-    "4-archive/FNAL Site Access.md",
     "Physics",
     "#test#",
     "test",

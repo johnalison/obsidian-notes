@@ -32,9 +32,11 @@
 
 - [x] Organize [[Faculty Meeting]]
 - [x] Organize MAC management meetings
-- [ ] Read/Reply binning re:Soheun
+- [x] Read/Reply binning re:Soheun
+	- <font color=red > On Friidaayyyy </font>
 - [>>] Message to class / Make up Q&A sessions
-- [ ] Make up Lectures 
+- [x] Make up Lectures  
+	- <font color=red> On Saturdaaaay </font>
 - [ ] Make klX work interactively in iPlot
 - [ ] Cutflow Marina
 - [ ] Fill out form for Jeremey

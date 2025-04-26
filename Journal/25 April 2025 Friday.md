@@ -22,7 +22,16 @@ Chat Don SiDet
  - Fuck Avis!
 - [[CMU Rental Cars]]
 
-Odds and end at the southwest airport
+Odds and ends at the southwest airport
 
 Did UCSB [[Wesley Terrill Letter Spring 25]]
+
+Flight to Pittsburgh. 
+
+Home 
+
+Pizza party 
+
+Home bailed on Hamlet book
+
 
