@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/The rationality of irrational voters.md",
+                "file": "0-inbox/Myth of the Rational Voter.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The rationality of irrational voters"
+              "title": "Myth of the Rational Voter"
             }
           },
           {
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/The rationality of irrational voters.md",
+                "file": "0-inbox/Myth of the Rational Voter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for The rationality of irrational voters"
+              "title": "Backlinks for Myth of the Rational Voter"
             }
           },
           {
@@ -197,13 +197,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/The rationality of irrational voters.md",
+                "file": "0-inbox/Myth of the Rational Voter.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of The rationality of irrational voters"
+              "title": "Outline of Myth of the Rational Voter"
             }
           },
           {
@@ -236,9 +236,10 @@
   },
   "active": "57d8ec713c650d2b",
   "lastOpenFiles": [
-    "0-inbox/Myth of the Rational Voter.md",
-    "0-inbox/Irrationality in Markets vs Democracy.md",
     "0-inbox/The rationality of irrational voters.md",
+    "0-inbox/Myth of the Rational Voter.md",
+    "0-inbox/The logic of irrationality.md",
+    "0-inbox/Irrationality in Markets vs Democracy.md",
     "0-inbox/Sensible Public Opinion is a Public Good.md",
     "0-inbox/Markets underrated vs democracy.md",
     "0-inbox/#Myth of the Rational Voter.md#",
@@ -263,7 +264,6 @@
     "Input/Meetings/HGC Management Meeting.md",
     "4-archive/FNAL Trip April 2025.md",
     "4-archive/FNAL Site Access.md",
-    "Input/Meetings/Faculty Meeting.md",
     "Physics",
     "#test#",
     "test",

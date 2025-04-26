@@ -7,8 +7,7 @@ Very good, as expected. Changed how I think about Democracy
 - [[The rationality of irrational voters]]
 - [[Irrationality in Markets vs Democracy]]
 
-
-
+People are especially irrational about politics. 
 
 [[Markets underrated vs democracy]]
 
