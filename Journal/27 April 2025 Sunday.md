@@ -14,5 +14,16 @@
 
 Up at 8:30 
 
+
 Finished writing up [[Myth of the Rational Voter]]
+
+Some [[Hamlet]]
+
+Some [[Just Six Numbers]]
+
+
+# Existence is Evidence of Immortality
+- https://fakenous.substack.com/p/existence-is-evidence-of-immortality?utm_source=post-email-title&publication_id=863919&post_id=161497534&utm_campaign=email-post-title&isFreemail=false&r=lewoe&triedRedirect=true&utm_medium=email
+
+Start [[The Road to Serfdom]]
 

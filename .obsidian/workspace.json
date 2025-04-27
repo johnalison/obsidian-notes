@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Input/Books/Books.md",
+                "file": "Journal/27 April 2025 Sunday.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Books"
+              "title": "27 April 2025 Sunday"
             }
           },
           {
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Input/Books/Books.md",
+                "file": "Journal/27 April 2025 Sunday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Books"
+              "title": "Backlinks for 27 April 2025 Sunday"
             }
           },
           {
@@ -197,13 +197,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Input/Books/Books.md",
+                "file": "Journal/27 April 2025 Sunday.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Books"
+              "title": "Outline of 27 April 2025 Sunday"
             }
           },
           {
@@ -236,6 +236,7 @@
   },
   "active": "1f12b68816191225",
   "lastOpenFiles": [
+    "Input/Books/Books.md",
     "Journal/24 April 2025 Thursday.md",
     "Journal/27 April 2025 Sunday.md",
     "0-inbox/Irrationality in Markets vs Democracy.md",
@@ -263,7 +264,6 @@
     "0-inbox/Message for Jonas.md",
     "0-inbox/Untitled.md",
     "Output/CAM/Modules Summary April 2025.md",
-    "0-inbox/Mass of jets is not invariant.md",
     "Physics",
     "#test#",
     "test",
