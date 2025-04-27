@@ -2,11 +2,10 @@
 
 - [[Just Six Numbers]] (Martin Reese)
 
-- [[Myth of the Rational Voter]] (Bryan Caplan)
-
 - [[Hamlet]] (William Shakespeare and commentaries)
 
 ---
+- [[Myth of the Rational Voter]] (Bryan Caplan)
 
 - [[Time and Chance]] (David Albert)
 

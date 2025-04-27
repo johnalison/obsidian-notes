@@ -30,9 +30,15 @@ Marlo to heat check
 
 More writting up [[Myth of the Rational Voter]]
 
-Marlo to Vals party
+# Marlo to Vals party
 
 Gave Make up lectures 1 & 2
 
 Sentence lengths have decreased:
 	- https://www.lesswrong.com/posts/xYn3CKir4bTMzY5eb/why-have-sentence-lengths-decreased
+
+
+Some [[Just Six Numbers]]
+
+# Hanging with Tony
+- Tony / Clay / Steve 

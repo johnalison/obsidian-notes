@@ -2,6 +2,8 @@ Markets behave differently than democracy; shopping is not like voting. In the m
 
 People often doubt the link between increased unemployment and higher minimum wages. However, when it comes to jobs they are actually applying for, they know they demanding too high a salary requirements will hurt their chances.
 
+Voters do not buy policies.
+
 # Follow-ups
 [[Sensible Public Opinion is a Public Good]]
 
