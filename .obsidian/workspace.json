@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/28 April 2025 Monday.md",
+                "file": "1-projects/HH4b/Jet Veto in low pt HH analysis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "28 April 2025 Monday"
+              "title": "Jet Veto in low pt HH analysis"
             }
           },
           {
@@ -78,6 +78,49 @@
             }
           }
         ]
+      },
+      {
+        "id": "3d8ddc2c348aef96",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5cd2abe40d353573",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "1-projects/HH4b/Jet Veto in low pt HH analysis.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of Jet Veto in low pt HH analysis"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +139,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:book",
+                "query": "\"jcm\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -130,8 +173,7 @@
               "title": "Files"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -151,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/28 April 2025 Monday.md",
+                "file": "1-projects/HH4b/Jet Veto in low pt HH analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +203,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 28 April 2025 Monday"
+              "title": "Backlinks for Jet Veto in low pt HH analysis"
             }
           },
           {
@@ -197,13 +239,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/28 April 2025 Monday.md",
+                "file": "1-projects/HH4b/Jet Veto in low pt HH analysis.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 28 April 2025 Monday"
+              "title": "Outline of Jet Veto in low pt HH analysis"
             }
           },
           {
@@ -236,13 +278,15 @@
   },
   "active": "57d8ec713c650d2b",
   "lastOpenFiles": [
+    "1-projects/HH4b/Low Pt HH4b.md",
+    "1-projects/HH4b/Jet Veto in low pt HH analysis.md",
+    "Journal/28 April 2025 Monday.md",
+    "0-inbox/Message for Jonas.md",
     "Journal/April 2025.md",
     "Journal/27 April 2025 Sunday.md",
     "Journal/26 April 2025 Saturday.md",
-    "Journal/28 April 2025 Monday.md",
     "Journal/25 April 2025 Friday.md",
     "Journal/24 April 2025 Thursday.md",
-    "0-inbox/Message for Jonas.md",
     "Journal/23 April 2025 Wednesday.md",
     "Journal/22 April 2025 Tuesday.md",
     "Journal/21 April 2025 Monday.md",
@@ -262,8 +306,6 @@
     "Journal/#26 April 2025 Saturday.md#",
     "0-inbox/Write up Universal Inference Toy.md",
     "0-inbox/What do we know about organizing society or government with overwhelming confidence.md",
-    "Input/Meetings/Wes Thesis Defense.md",
-    "0-inbox/Waiting for.md",
     "Physics",
     "#test#",
     "test",

@@ -1,8 +1,8 @@
 
 |     |           |     |
 | --- | --------- | --- |
-| 9   |           |     |
-|     |           |     |
+| 9   | setup     |     |
+|     | Caht AE   |     |
 | 10  |           |     |
 |     |           |     |
 | 11  |           |     |
@@ -30,7 +30,7 @@
 ---
 # To Do
 
-- [ ] Ping Jasques
+- [x] Ping Jasques
 - [ ] Reinbursement
 - [ ] Iterate on HGC Slides  20th Final talks 27th. Review June 3-5
 - [ ] Cutflow Marina
@@ -39,7 +39,7 @@
 - [ ]  Make klX work interactively in iPlot
 - [ ]  Use ~/.ssh/config to simplify remote access.
 - [ ] Call Tax man
-- [ ] [[Message for Jonas]]
+- [x] [[Message for Jonas]]
 - [ ] emacs ORG mode?
 
 ---
@@ -52,6 +52,8 @@ Driving the kids to school
 
 setup
 
+Chat AE: 
+- [[Low Pt HH4b]]
 
 # [[Run3 HH4b Cutflow Challenge]]
 - I think the cutflow problem could be due to the four tag skimmer.
