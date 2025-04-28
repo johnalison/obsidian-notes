@@ -78,6 +78,8 @@ Chat AE:
 - Reskimming with 2.5 cut
 	- `Total number of missing events: 580 (2.37% of total events)`
 - Added abs(delta_dhh)
+- Remaking the skims with the new eta cut
+	- Ran B, C
 # Hoops 
 - Good runs/good wins
 
