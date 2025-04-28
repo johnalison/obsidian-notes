@@ -69,4 +69,11 @@ Chat AE:
 - `python runner.py -o data_Run3_vDebug_new.coffea -d data -p analysis/processors/processor_HH4b.py -y 2022_preEE -op output/synthetic_dataset_analyze_all -c analysis/metadata/HH4b_run_fastTopReco.yml -m metadata/datasets_HH4b_Run3_fourTag_vDebug.yml `
 - See way too few events in debug... needed to update the debug mask... Rerunning
 - Agreement now
-	- **Total number of extra events: 0 (0.0% of total events)**
+	- `Total number of missing events: 1119 (4.58% of total events)`
+	- `Total number of extra events: 5778 (19.84% of total events)`
+
+# Hoops 
+- Good runs/good wins
+
+Leave to get H
+
