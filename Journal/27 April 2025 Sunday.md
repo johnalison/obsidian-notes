@@ -1,12 +1,5 @@
 
 
----
-# To Do
-
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
 
 ---
 
@@ -26,6 +19,8 @@ Some [[Just Six Numbers]]
 
 Start [[The Road to Serfdom]]
 
+- [ ] Humer argument for why science and reason assume free will:
+	- https://www.youtube.com/watch?v=FjAYvhv1-Lg&t=3955s
 # Gym
 - 3 Super sets
 - Squat - pull-ups / back curls - dips / step-ups - front raises
@@ -35,4 +30,7 @@ Start [[The Road to Serfdom]]
 
 Finished [[Just Six Numbers]]
 
-grill out
+Grill out
+
+Reading
+

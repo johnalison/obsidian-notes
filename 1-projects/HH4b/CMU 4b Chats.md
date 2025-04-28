@@ -1,6 +1,12 @@
 
 # Logs
 
+## [[18 April 2025 Friday]]
+- JA: working Cut flow
+- AE: Starting low pt
+- CL: Getting FvT and SvB running on new skims
+- SM: working double peak
+
 ## [[11 April 2025 Friday]]
 -  AE Debugging skims 
 - [x] Send thesis 

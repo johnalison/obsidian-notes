@@ -51,12 +51,7 @@ M&T To school... No H today !!!
 - Exam3 / Periodic table
 
 # [[HGC Slides for April 2023 Review]]
-- Sent draft
-- Risk registry
-- https://cms-docdb.cern.ch/cgi-bin/DocDB/ShowDocument?docid=13480
-- [[CMU HGC Current Burn Rate]]
-- refined draft
-- Make EVMS plots 
+- See above
 
 Sending comments on [[Wesley Terrill Thesis]]
 
@@ -66,11 +61,8 @@ Sending comments on [[Wesley Terrill Thesis]]
 
 Applied to Osher in Fall 2025
 
-# 4b 
-- JA: working Cut flow
-- AE: Starting low pt
-- CL: Getting FvT and SvB running on new skims
-- SM: working double peak
+# [[CMU 4b Chats]]
+- see above
 
 more slide work ... see above
 

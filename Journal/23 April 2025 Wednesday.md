@@ -14,13 +14,13 @@ Up early... internet out
 Flight to Midway:
 - nice and easy
 
-Cluster fuck with rental car.. Never using rent-a-wreck !
+Cluster fuck with rental car.. Never using rent-a-wreck !... Get AVIS
 
 # [[FNAL Trip April 2025]]
 - Rental 
 
 # ARC Request for the analysis HIG-24-016  
-non-resonant ttHH in l+4b (full Run2)
+- non-resonant ttHH in l+4b (full Run2)
 
 # [[DOE April Workshop]]
 
@@ -28,7 +28,6 @@ non-resonant ttHH in l+4b (full Run2)
 # Lunch
 - Marko Stamenkovic is at FNAL 
 - [x] Ping for coffee
-- [ ] Javiers student Name
 
 
 More DOE Review

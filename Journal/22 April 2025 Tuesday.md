@@ -64,7 +64,6 @@ Up at 7:30
 - Bands vs individual 1d distributions
 
 
-
 Command to move the the next daily note: 
 	 caps + shift + command `[` or `]`   ([>>]) [[Obsidian Tricks]]
 
@@ -78,14 +77,13 @@ Command to move the the next daily note:
 - Request for "Action shots"
 
 
-
 # Claude Code
 - https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/overview
 - `npm install -g @anthropic-ai/claude-code`
 - OUTSTANDING !!!!!
 
 
-Mystery package... is a picture of an ATLAS Higgs 
+Mystery package... is a picture of an ATLAS Higgs ... From T-man
 
 # Jacques interview
 - [x] Send link

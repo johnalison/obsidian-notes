@@ -22,11 +22,11 @@
 | 20 S | Easter with kids / To Parents / Try sshfs again ... abandon again                   |       |
 | 21 M | **Last Class** / emacs via ssh! / **Hoops** / Chat AE/SM / Late night cutflow       | 6/1/0 |
 | 22 T | Cutflow work / Chat Palmer/Jake / HGC slides / **CLAUDE CODE** / Jacsque            | 7/3/2 |
-| 23 W | (to FNAL) Rental Fuckery / DOE Workshop / Gave talk / Dinner chats                  |       |
-| 24 H | (at FNAL)                                                                           |       |
-| 25 F | (from FNAL) (Host the Grad Social)                                                  |       |
-| 26 S |                                                                                     |       |
-| 27 S |                                                                                     |       |
+| 23 W | (to FNAL) Rental Fuckery / DOE Workshop / Gave talk / Dinner chats                  | -/-/- |
+| 24 H | (at FNAL) Chat Marko / L1T review / Closeout / Tour SiDet / Rock Bottom             | -/-/- |
+| 25 F | Zoltan/Don at SiDet / from FNAL / Host the Grad Social / Reading                    | -/-/- |
+| 26 S | [[Myth of the Rational Voter]] / Vals Party / Make up Lectures / Boys Night Out     |       |
+| 27 S | Start [[The Road to Serfdom]] / **Gym** / Giant Eagle / Grill                       |       |
 | 28 M |                                                                                     |       |
 | 29 T |                                                                                     |       |
-| 30 W | (Wenjie Thesis Meeting)                                                             |       |
+| 30 W | (Wenjie Thesis Meeting) (MAC Meeting)                                               |       |

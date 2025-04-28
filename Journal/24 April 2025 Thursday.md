@@ -18,10 +18,10 @@
 | 4   | Review        |     |     |     |
 |     | Review        |     |     |     |
 
-**W:**
-**DW:**
-**OT:**
-**ex** or **No ex**
+**W:** 10 
+**DW:** 2
+**OT:** -
+**No ex**
 
 ---
 # The ONE thing: 
@@ -37,13 +37,13 @@
 - [>>] Message to class / Make up Q&A sessions
 - [x] Make up Lectures  
 	- <font color=red> On Saturdaaaay </font>
-- [ ] Make klX work interactively in iPlot
-- [ ] Cutflow Marina
-- [ ] Fill out form for Jeremey
+- [>>] Make klX work interactively in iPlot
+- [>>] Cutflow Marina
+- [>>] Fill out form for Jeremey
 - [>>] Harry Summary 
-- [ ]  Staff award for Jessica ( MCS staff award nominations that are due April 30)
-- [ ] Use ~/.ssh/config to simplify remote access.
-- [ ] Call Tax man
+- [>>]  Staff award for Jessica ( MCS staff award nominations that are due April 30)
+- [>>] Use ~/.ssh/config to simplify remote access.
+- [>>] Call Tax man
 - [>>] Cyert Center Sliding Scale Benefit 
 - [>>] UCSB Letter for Wes
 
@@ -58,8 +58,8 @@ To Wilson Hall
 Coffee
 
 # Chat Steve ... 
-- Wes did not get Lederman... presentation not good
-- Maybe need to update my letter to address this issue
+- Wes did not get Lederman... presentation not good...
+- Maybe need to update my letter to address this issue?
 
 
 # Reviewing Steves Talk
@@ -68,12 +68,13 @@ Coffee
 - $176.94 M total BAC and the $14.82M
 
 
-Saw YKK... claims will only be director for a year.
+# Saw YKK
+... claims will only be director for a year.
 (Should have told her I was coming!)
 
 # Chat Marko
 - Good discussion
-- Vivek 
+- Vivek comparing himself to Einstein
 
 # L1T Review 
 
@@ -103,7 +104,7 @@ Chat with Bo
 - What is a CAM interview ?
 - Practice Talk
 - Draft due on the 20th Final talks 27th. Review June 3-5
-- 
+
 
 # Tour Si Det
 - Chat with Aidan Grummer

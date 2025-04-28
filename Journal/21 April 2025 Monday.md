@@ -57,7 +57,7 @@ Get emacs setup on LPC
 - playing around with sshfs... not working
 - Trying emacs TRAMP: 
 `/ssh:jda102@cmslpc-el9.fnal.gov:/uscms/home/jda102/nobackup/HH4b/Run3/coffea4bees/`
-- works great!! 
+- works great!!   ([[>>]]) [[Emacs tricks]]
 
 Chat Garett Goon
 
@@ -73,12 +73,7 @@ Chat Garett Goon
 
 
 # [[Run3 HH4b Cutflow Challenge]]
-- [[Run-3 4b skims]]
-- checking which file has the run I care about
-- `dasgoclient --query="run dataset=/JetMET/Run2022C-22Sep2023-v1/NANOAOD"`
-- `> python runner.py -s -p skimmer/processor/skimmer_4b.py -c skimmer/metadata/HH4b.yml -y 2022_preEE -d data -e B  -op skimmer/metadata/ -o picoaod_datasets_data_2022_preEE_debug.yml -m metadata/datasets_HH4b_Run3.yml --condor`
-- Running on **cmslpc332**
-- Adding debugging output
+- See daily's above
 
 Kids Home from school
 

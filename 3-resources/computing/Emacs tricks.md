@@ -11,6 +11,13 @@ C-c b - follow backlinks
 C-c n - open new note
 C-c j - jump to an existing note
 
+
+# Remote work
+- playing around with sshfs... not working
+- Trying emacs TRAMP: 
+`/ssh:jda102@cmslpc-el9.fnal.gov:/uscms/home/jda102/nobackup/HH4b/Run3/coffea4bees/`
+- works great!! 
+
 ## Follow-ups
 
 

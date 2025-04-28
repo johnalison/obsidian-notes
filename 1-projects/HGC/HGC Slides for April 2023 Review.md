@@ -7,6 +7,14 @@
 
 # Logs
 
+## [[18 April 2025 Friday]]
+- Sent draft
+- Risk registry
+- https://cms-docdb.cern.ch/cgi-bin/DocDB/ShowDocument?docid=13480
+- [[CMU HGC Current Burn Rate]]
+- refined draft
+- Make EVMS plots 
+
 ## [[16 April 2025 Wednesday]]
 - [[CAM Turnaround Report]]
 - 16 modules /day * 5 days /week * 0.03 m^2 / module
