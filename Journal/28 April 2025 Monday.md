@@ -74,13 +74,19 @@ Chat AE:
 - Most events dont make the skim...
 - Reskimming  on (**cmslpc324**) with debug info for correct numbers:
 	- `python runner.py  -s -p skimmer/processor/skimmer_4b.py -c skimmer/metadata/HH4b_fourTag.yml -y 2022_preEE  -d data -op skimmer/metadata/ -o picoaod_datasets_fourTag_data_Run3_vDebug.yml -m metadata/datasets_HH4b_Run3_merged_debug.yml --condor`
-
+- Jet eta cut is different!  2.4 (US) vs 2.5 (Marina)
+- Reskimming with 2.5 cut
 # Hoops 
 - Good runs/good wins
 
 Leave to get H... Picked up H ... To Hospital 
 
+More Cutflow debugging see above
+
 Move Office hours to Tuesday
+
+# Home 
+
 
 
 
