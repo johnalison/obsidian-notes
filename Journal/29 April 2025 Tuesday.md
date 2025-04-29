@@ -15,7 +15,7 @@
 |     | Office Hours          |     |
 | 3   | Mans                  |     |
 |     | Mans                  |     |
-| 4   | Mans                  |     |
+| 4   |                       |     |
 |     |                       |     |
 
 **W:**
@@ -97,5 +97,10 @@ Hung t-mans poster / cleaned up the office
 # ORG-Roam
 https://systemcrafters.net/build-a-second-brain-in-emacs/getting-started-with-org-roam/
 
-[[Letter for Jessica 2025]]
-[[Letter for Jonas]]
+# [[Letter for Jessica 2025]]
+- [[Letter for Jonas]]
+
+Condor down... Cannot skim.
+
+Checking out org-roam
+
