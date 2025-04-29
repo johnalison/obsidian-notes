@@ -79,7 +79,7 @@ Chat AE:
 	- `Total number of missing events: 580 (2.37% of total events)`
 - Added abs(delta_dhh)
 - Remaking the skims with the new eta cut
-	- Ran B, C
+	- Ran B, C and D
 # Hoops 
 - Good runs/good wins
 
