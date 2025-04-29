@@ -56,6 +56,10 @@ To campus
 
 
 
-Hung tmans poster
+Hung t-mans poster / cleaned up the office
+
+
+# [[CMU HGC MAC Meeting 29 April 2025]]
+
 
 
