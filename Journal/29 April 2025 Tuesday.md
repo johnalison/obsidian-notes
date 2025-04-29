@@ -56,7 +56,12 @@ To campus
 - Fixed.
 - Now re-running skims on C and D over all 
 - Re-doing the four-tag skim
-- 
+- Agreement now: 
+	- `Total number of missing events: 317 (1.3% of total events)`
+	- `Total number of extra events: 5986 (19.87% of total events)`
+- Going to reskim all Run3
+	- Submitted 2022_EE : `source  skim2022_EE.sh`
+	- 
 
 
 

@@ -91,8 +91,7 @@
               "title": "19 April 2025 Saturday"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -165,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/28 April 2025 Monday.md",
+                "file": "Journal/29 April 2025 Tuesday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +174,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 28 April 2025 Monday"
+              "title": "Backlinks for 29 April 2025 Tuesday"
             }
           },
           {
@@ -211,13 +210,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/28 April 2025 Monday.md",
+                "file": "Journal/29 April 2025 Tuesday.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 28 April 2025 Monday"
+              "title": "Outline of 29 April 2025 Tuesday"
             }
           },
           {
@@ -248,8 +247,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1f12b68816191225",
+  "active": "57d8ec713c650d2b",
   "lastOpenFiles": [
+    "Journal/28 April 2025 Monday.md",
     "Journal/27 April 2025 Sunday.md",
     "Journal/29 April 2025 Tuesday.md",
     "1-projects/HH4b/Run3 HH4b Cutflow Challenge.md",
@@ -257,7 +257,6 @@
     "1-projects/HGC/Lab Techs Spring 2025.md",
     "Input/Meetings/CMU HGC MAC Meeting 22 April 2025.md",
     "1-projects/HGC/CAM Turnaround Report.md",
-    "Journal/28 April 2025 Monday.md",
     "0-inbox/CMU HGC MAC Meeting 29 April 2025.md",
     "00-Zettelkasten/ZettelKasten Index.md",
     "Journal/22 April 2025 Tuesday.md",
