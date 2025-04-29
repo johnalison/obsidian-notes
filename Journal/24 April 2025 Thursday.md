@@ -76,7 +76,9 @@ Coffee
 - Good discussion
 - Vivek comparing himself to Einstein
 
+
 # L1T Review 
+
 
 ## Hardware
 - Close to production
@@ -85,6 +87,7 @@ Coffee
 - Why not go to APx4 now ?
 - Do you have all the FPGAs ?
 - power and cooling 
+
 
 ## Firmware
 - Improvements from HLS baked in to CD3 baseline ? or new since then?
@@ -111,5 +114,6 @@ Chat with Bo
 - Long chat with Zoltan and Aidan 
 
 # Dinner at Rock Bottom
+-  Me / Aidan / Mans / Ted / Zoltan
 - Good Chat with Jeremy 
 - L3 -> D0 -> CMS

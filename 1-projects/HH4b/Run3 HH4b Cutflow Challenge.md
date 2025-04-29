@@ -24,6 +24,13 @@ ACR: (AR_dHM >= 30) & (AR_dHM < 55)
 
 # Logs
 
+## [[22 April 2025 Tuesday]]
+- **cmslpc319**
+- Skim works when running on condor !
+- All events are there in the skim now!
+- Will re run C and D before redoing the cutflow
+- `python runner.py -s -p skimmer/processor/skimmer_4b.py -c skimmer/metadata/HH4b.yml -y 2022_preEE -d data -e C  -op skimmer/metadata/ -o picoaod_datasets_data_2022_preEEC_debug.yml -m metadata/datasets_HH4b_Run3.yml --condor`
+
 ## [[21 April 2025 Monday]]
  [[Run-3 4b skims]]
 - checking which file has the run I care about

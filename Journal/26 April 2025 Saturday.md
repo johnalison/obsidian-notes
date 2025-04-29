@@ -18,7 +18,8 @@ https://protesilaos.com/codelog/2024-02-17-emacs-modern-minibuffer-packages/
 
 
 # Playing around with emacs ORG mode
-[[file:~/obsidian-notes/0-inbox/Myth of the Rational Voter.md][Test Myth of the Rational Voter]]
+- [[file:~/obsidian-notes/0-inbox/Myth of the Rational Voter.md][Test Myth of the Rational Voter]]
+- Think you really want ORG-ROAM
 
 Some [[Hamlet]]
 

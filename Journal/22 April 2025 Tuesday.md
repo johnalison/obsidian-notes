@@ -50,18 +50,10 @@
 Up at 7:30 
 
 # [[Run3 HH4b Cutflow Challenge]]
-- **cmslpc319**
-- Skim works when running on condor !
-- All events are there in the skim now!
-- Will re run C and D before redoing the cutflow
-- **python runner.py -s -p skimmer/processor/skimmer_4b.py -c skimmer/metadata/HH4b.yml -y 2022_preEE -d data -e C  -op skimmer/metadata/ -o picoaod_datasets_data_2022_preEEC_debug.yml -m metadata/datasets_HH4b_Run3.yml --condor**
+- See daily's above
 
 # [[Systematics Quantification Paper]]
-- 1st Chat: [[Chris Palmer Biases Systematics Paper 23 September 2024]]
-- Many toys with different truth varations
-	- How to extend  to 
-- Do you decorrelate the basis function wrt nomainl
-- Bands vs individual 1d distributions
+- see daily's above
 
 
 Command to move the the next daily note: 
@@ -71,10 +63,9 @@ Command to move the the next daily note:
 # [[HGC Slides for April 2023 Review]]
 
 
-
 # [[CMU HGC MAC Meeting 22 April 2025]]
 - [[CMU HGC MAC Meeting 15 April 2025]]
-- Request for "Action shots"
+- Request for "Action shots" ... Got them!
 
 
 # Claude Code
@@ -82,8 +73,7 @@ Command to move the the next daily note:
 - `npm install -g @anthropic-ai/claude-code`
 - OUTSTANDING !!!!!
 
-
-Mystery package... is a picture of an ATLAS Higgs ... From T-man
+Mystery package... is a picture of an ATLAS Higgs ... turns out ... From T-man
 
 # Jacques interview
 - [x] Send link

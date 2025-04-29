@@ -42,6 +42,6 @@ Got keys
 - Good chat with Jeremey and Ted
 
 # Dorm not great / not bad
-- worth the $20!
+- worth the $20!... will do again!
 
 

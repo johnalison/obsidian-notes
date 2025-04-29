@@ -1,27 +1,28 @@
 
-|     |           |     |
-| --- | --------- | --- |
-| 9   | setup     |     |
-|     | Caht AE   |     |
-| 10  |           |     |
-|     |           |     |
-| 11  |           |     |
-|     |           |     |
-| 12  | Hoops     |     |
-|     | Hoops     |     |
-| 1   | Hoops     |     |
-|     | Hoops     |     |
-| 2   | Pick up H |     |
-|     | Pick up H |     |
-| 3   | Drs Apt   |     |
-|     | Drs Appt  |     |
-| 4   |           |     |
-|     |           |     |
+|           |           |     |
+| --------- | --------- | --- |
+| 9         | setup     |     |
+|           | Caht AE   |     |
+| 10        | Cutflow   |     |
+|           | Cutflow   |     |
+| 11        | Cutflow   |     |
+|           | Cutflow   |     |
+| 12        | Hoops     |     |
+|           | Hoops     |     |
+| 1         | Hoops     |     |
+|           | Hoops     |     |
+| 2         | Pick up H |     |
+|           | Pick up H |     |
+| 3         | Drs Apt   |     |
+|           | Drs Appt  |     |
+| 4         | Cutflow   |     |
+|           | Cutflow   |     |
+| Latenight | Cutflow   |     |
 
-**W:**
-**DW:**
-**OT:**
-**ex** or **No ex**
+**W:** 6 
+**DW:** 3
+**OT:** 3
+**ex**
 
 ---
 # The ONE thing: 
@@ -31,16 +32,16 @@
 # To Do
 
 - [x] Ping Jasques
-- [ ] Reinbursement
-- [ ] Iterate on HGC Slides  20th Final talks 27th. Review June 3-5
-- [ ] Cutflow Marina
+- [>>] Reinbursement
+- [ ] Iterate on HGC Slides:  20th Final talks 27th. Review June 3-5
+- [>>] Cutflow Marina
 - [x]  Fill out form for Jeremey
-- [ ] Staff award for Jessica ( MCS staff award nominations that are due April 30)
+- [>>] Staff award for Jessica ( MCS staff award nominations that are due April 30)
 - [ ]  Make klX work interactively in iPlot
 - [ ]  Use ~/.ssh/config to simplify remote access.
 - [ ] Call Tax man
 - [x] [[Message for Jonas]]
-- [ ] emacs ORG mode?
+- [ ] emacs ORG mode? ROAM
 
 ---
 
@@ -80,6 +81,7 @@ Chat AE:
 - Added abs(delta_dhh)
 - Remaking the skims with the new eta cut
 	- Ran B, C and D
+	- `python runner.py -s -p skimmer/processor/skimmer_4b.py -c skimmer/metadata/HH4b.yml -y 2022_preEE -d data -e B  -op skimmer/metadata/ -o picoaod_datasets_data_2022_preEE_debug.yml -m metadata/datasets_HH4b_Run3.yml --condor`
 - Merged .. Remade 4b... (Not clear where the events are going...they appear as fourTag in the first skim)
 - Hmmm back to 5% ... 
 
@@ -94,7 +96,7 @@ Move Office hours to Tuesday
 
 # Home 
 
-More cutflwo
+More cutflow see above
 
 # Emacs GUI install
 - brew uninstall emacs
