@@ -52,3 +52,10 @@ To campus
 	- `python runner.py -s -p skimmer/processor/skimmer_4b.py -c skimmer/metadata/HH4b.yml -y 2022_preEE -d data -e B  -op skimmer/metadata/ -o picoaod_datasets_data_2022_preEEB_debug_v2.yml -m metadata/datasets_HH4b_Run3.yml --condor
 	- `python3 metadata/merge_yaml_datasets.py  -m metadata/datasets_HH4b_Run3.yml  -o metadata/datasets_HH4b_Run3_merged_debug_v2.yml  -f skimmer/metadata/picoaod_datasets_data_2022_preEEB_debug_v2.yml`
 	- `python runner.py  -s -p skimmer/processor/skimmer_4b.py -c skimmer/metadata/HH4b_fourTag.yml -y 2022_preEE  -d data -op skimmer/metadata/ -o picoaod_datasets_fourTag_data_Run3_vDebug_v2.yml -m metadata/datasets_HH4b_Run3_merged_debug_v2.yml --condor`
+- Events not in four b skimm
+
+
+
+Hung tmans poster
+
+
