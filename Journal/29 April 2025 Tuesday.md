@@ -83,9 +83,11 @@ Hung t-mans poster / cleaned up the office
 # [[HGC Management Meeting]]
 - Turn around report
 - [[CAM Turnaround Report]]
+- Do we start 142 ?
 - Complete 152
 - Move along: 155 50 -> 75%
 - Move along 156: 80->90%
+- **What is l157 ?**
 - move along 182: 37->44 
 - Move along 183 37 -> 44
 - Move along 184 20->30 %

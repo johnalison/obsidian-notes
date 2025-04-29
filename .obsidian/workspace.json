@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:lab",
+                "query": "Si sensors",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -247,7 +247,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "57d8ec713c650d2b",
+  "active": "5eff6f8803fcba5e",
   "lastOpenFiles": [
     "Journal/28 April 2025 Monday.md",
     "Journal/29 April 2025 Tuesday.md",
