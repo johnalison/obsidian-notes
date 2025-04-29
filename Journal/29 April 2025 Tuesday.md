@@ -30,7 +30,7 @@
 ---
 # To Do
 
-- [ ] Fill turn around report
+- [x] Fill turn around report
 - [x] Rienbursements 
 - [ ] Cutflow Marina
 - [ ] Staff award for Jessica ( MCS staff award nominations that are due April 30)
@@ -95,3 +95,5 @@ Hung t-mans poster / cleaned up the office
 # ORG-Roam
 https://systemcrafters.net/build-a-second-brain-in-emacs/getting-started-with-org-roam/
 
+[[Letter for Jessica 2025]]
+[[Letter for Jonas]]
