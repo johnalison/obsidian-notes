@@ -62,4 +62,7 @@ Hung t-mans poster / cleaned up the office
 # [[CMU HGC MAC Meeting 29 April 2025]]
 
 
-
+# Chat Ornella
+- Has another job offer.
+- [ ] How long do we need her to stick around
+- [ ] Ping Erics guys

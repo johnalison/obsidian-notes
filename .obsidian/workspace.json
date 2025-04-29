@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/CMU HGC MAC Meeting 29 April 2025.md",
+                "file": "Journal/29 April 2025 Tuesday.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CMU HGC MAC Meeting 29 April 2025"
+              "title": "29 April 2025 Tuesday"
             }
           },
           {
@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/28 April 2025 Monday.md",
+                "file": "1-projects/HGC/Lab Techs Spring 2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "28 April 2025 Monday"
+              "title": "Lab Techs Spring 2025"
             }
           },
           {
@@ -105,7 +105,8 @@
               "title": "19 April 2025 Saturday"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -124,7 +125,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"jcm\"",
+                "query": "file:lab",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -158,8 +159,7 @@
               "title": "Files"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -179,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/CMU HGC MAC Meeting 29 April 2025.md",
+                "file": "1-projects/HGC/Lab Techs Spring 2025.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +189,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for CMU HGC MAC Meeting 29 April 2025"
+              "title": "Backlinks for Lab Techs Spring 2025"
             }
           },
           {
@@ -225,13 +225,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/CMU HGC MAC Meeting 29 April 2025.md",
+                "file": "1-projects/HGC/Lab Techs Spring 2025.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of CMU HGC MAC Meeting 29 April 2025"
+              "title": "Outline of Lab Techs Spring 2025"
             }
           },
           {
@@ -262,14 +262,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "57d8ec713c650d2b",
+  "active": "a02e706e32d52766",
   "lastOpenFiles": [
-    "00-Zettelkasten/ZettelKasten Index.md",
+    "Journal/28 April 2025 Monday.md",
+    "Journal/29 April 2025 Tuesday.md",
     "0-inbox/CMU HGC MAC Meeting 29 April 2025.md",
+    "00-Zettelkasten/ZettelKasten Index.md",
     "Input/Meetings/CMU HGC MAC Meeting 22 April 2025.md",
     "Journal/22 April 2025 Tuesday.md",
-    "Journal/29 April 2025 Tuesday.md",
-    "Journal/28 April 2025 Monday.md",
     "Journal/April 2025.md",
     "Journal/19 April 2025 Saturday.md",
     "Journal/27 April 2025 Sunday.md",
