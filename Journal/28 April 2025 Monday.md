@@ -80,6 +80,9 @@ Chat AE:
 - Added abs(delta_dhh)
 - Remaking the skims with the new eta cut
 	- Ran B, C and D
+- Merged .. Remade 4b... (Not clear where the events are going...they appear as fourTag in the first skim)
+- Hmmm back to 5% ... 
+
 # Hoops 
 - Good runs/good wins
 
@@ -91,6 +94,9 @@ Move Office hours to Tuesday
 
 # Home 
 
+More cutflwo
 
-
+# Emacs GUI install
+- brew uninstall emacs
+- brew install --cask emacs
 
