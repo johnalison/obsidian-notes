@@ -10,6 +10,19 @@ https://indico.cern.ch/event/1542594/
 - Encapsulant level should not exceed the top of the hexaboard • Look at the module from the side, there should be no dome of encapsulant
 - Backside bonds: • More is better
 
+# Rong-Shang
+- numbers dont add b/c not all modules have been tested
+
+# Bora:
+- Nice pictures for [[HGC Slides for April 2023 Review]]
+
+# Baseplates
+- Leave May 40 Ti LD Full
+- 
+
+# Manami
+- 
+
 # Follow-ups
 
 
