@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/30 April 2025 Wednesday.md",
+                "file": "0-inbox/MAC Meeting 30 April 2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "30 April 2025 Wednesday"
+              "title": "MAC Meeting 30 April 2025"
             }
           },
           {
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/30 April 2025 Wednesday.md",
+                "file": "0-inbox/MAC Meeting 30 April 2025.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 30 April 2025 Wednesday"
+              "title": "Backlinks for MAC Meeting 30 April 2025"
             }
           },
           {
@@ -196,13 +196,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/30 April 2025 Wednesday.md",
+                "file": "0-inbox/MAC Meeting 30 April 2025.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 30 April 2025 Wednesday"
+              "title": "Outline of MAC Meeting 30 April 2025"
             }
           },
           {
@@ -235,8 +235,10 @@
   },
   "active": "57d8ec713c650d2b",
   "lastOpenFiles": [
-    "Journal/29 April 2025 Tuesday.md",
+    "Input/Meetings/MAC Meeting 9 April 2025.md",
+    "0-inbox/MAC Meeting 30 April 2025.md",
     "Journal/30 April 2025 Wednesday.md",
+    "Journal/29 April 2025 Tuesday.md",
     "Journal/April 2025.md",
     "Journal/28 April 2025 Monday.md",
     "Journal/27 April 2025 Sunday.md",
@@ -259,8 +261,6 @@
     "Journal/21 April 2025 Monday.md",
     "1-projects/HH4b/Run-3 4b skims.md",
     "Journal/Future Log.md",
-    "1-projects/HH4b/Low Pt HH4b.md",
-    "1-projects/HH4b/Jet Veto in low pt HH analysis.md",
     "0-inbox/#Myth of the Rational Voter.md#",
     "Journal/#26 April 2025 Saturday.md#",
     "Physics",
