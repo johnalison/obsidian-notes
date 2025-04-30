@@ -17,10 +17,13 @@ https://indico.cern.ch/event/1542594/
 - Nice pictures for [[HGC Slides for April 2023 Review]]
 
 # Baseplates
-- Leave May 40 Ti LD Full
+- Leave May 40 Ti LD Full / 72 to UCSB (12 of each partial type Ti) 
 - 
 
-# Manami
+# Engineering Report (Susanne)
+- Final order (Partials Hexaboard PUTs from Xometry) were delivered 4/23
+- Ordering transfer tape
+- Determination of module placement specs
 - 
 
 # Follow-ups

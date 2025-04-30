@@ -82,11 +82,16 @@ Reply to re:teacher program
 - Rerunning skims after [[Run3 HH4b Cutflow Challenge]]
 - [x]  2022_preEE
 	- No errors! 
-- [ ]  2022_EE
+- [x]  2022_EE
+	- No errors!
 - [ ] 2023_preBPix
 - [ ] 2023_BPix
 
 Working [[Letter for Jessica 2025]]
 
+Writting up the MAC meeting
+
+# [[CMU bbWW]]
+- Submitting Samples
 
 
