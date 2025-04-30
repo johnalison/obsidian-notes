@@ -33,7 +33,7 @@
 - [x] Move on Jacesque 
 - [x] Move on Arvind
 - [ ] Post Ad
-- [ ] Download CVs
+- [x] Download CVs
 - [ ] Iterate on HGC Slides:  20th Final talks 27th. Review June 3-5
 - [ ] Make klX work interactively in iPlot
 - [ ]  Use ~/.ssh/config to simplify remote access.
@@ -53,4 +53,7 @@ Setup
 Mail to Ornella
 
 # Wenjie Huang Committe Meeting
-- 
+- Track-less vertex reconstruction. 
+- Why trackless ?
+- What are the inputs? 
+- Signal reconstruction... Signal vs Background 
