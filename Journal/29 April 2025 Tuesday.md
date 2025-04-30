@@ -104,3 +104,10 @@ Condor down... Cannot skim.
 
 Checking out org-roam
 
+Home.
+
+Picked up H ... traffic.. lot of rain. 
+
+More playing around with org-roam
+
+[[Just Six Numbers]]

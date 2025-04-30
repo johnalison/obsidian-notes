@@ -1,10 +1,14 @@
 # 2025
 
-- [[Just Six Numbers]] (Martin Reese)
+- [[The Road to Serfdom]]  Heyak 
+
+- [[Quantum Field Theory in a Nutshell]] Anthony Zee
 
 - [[Hamlet]] (William Shakespeare and commentaries)
 
 ---
+- [[Just Six Numbers]] (Martin Reese)
+
 - [[Myth of the Rational Voter]] (Bryan Caplan)
 
 - [[Time and Chance]] (David Albert)
