@@ -79,7 +79,6 @@ Coffee
 
 # L1T Review 
 
-
 ## Hardware
 - Close to production
 - ESD  ? 
@@ -87,7 +86,6 @@ Coffee
 - Why not go to APx4 now ?
 - Do you have all the FPGAs ?
 - power and cooling 
-
 
 ## Firmware
 - Improvements from HLS baked in to CD3 baseline ? or new since then?
@@ -112,6 +110,7 @@ Chat with Bo
 # Tour Si Det
 - Chat with Aidan Grummer
 - Long chat with Zoltan and Aidan 
+- Took a lot of pictures
 
 # Dinner at Rock Bottom
 -  Me / Aidan / Mans / Ted / Zoltan

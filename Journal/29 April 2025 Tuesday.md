@@ -15,13 +15,13 @@
 |     | Office Hours          |     |
 | 3   | Mans                  |     |
 |     | Mans                  |     |
-| 4   |                       |     |
-|     |                       |     |
+| 4   | Org mode              |     |
+|     | org-roam              |     |
 
-**W:**
-**DW:**
-**OT:**
-**ex** or **No ex**
+**W:** 8 
+**DW:** 6
+**OT:** 3
+**No ex**
 
 ---
 # The ONE thing: 
@@ -32,8 +32,10 @@
 
 - [x] Fill turn around report
 - [x] Rienbursements 
-- [ ] Cutflow Marina
-- [ ] Staff award for Jessica ( MCS staff award nominations that are due April 30)
+- [x] Cutflow Marina
+- [XX] ~~Staff award for Jessica ( MCS staff award nominations that are due April 30)~~
+- [x] emacs ORG mode? ROAM
+
 
 ---
 
@@ -61,7 +63,6 @@ To campus
 	- `Total number of extra events: 5986 (19.87% of total events)`
 - Going to reskim all Run3
 	- Submitted 2022_EE : `source  skim2022_EE.sh`
-	- 
 
 
 
@@ -73,11 +74,11 @@ Hung t-mans poster / cleaned up the office
 
 # Chat Ornella
 - Has another job offer.
-- [ ] How long do we need her to stick around
+- [x] How long do we need her to stick around
 - [x] Ping Erics guys
 
 # Chat Seth / Jamie Re:avoiding overhead
-
+- Will declare it as "fabricated equipment"
 
 
 # [[HGC Management Meeting]]
@@ -94,15 +95,20 @@ Hung t-mans poster / cleaned up the office
 - Move along 205 -> 5->7%
 
 
-# ORG-Roam
-https://systemcrafters.net/build-a-second-brain-in-emacs/getting-started-with-org-roam/
+# Looking into ORG-Roam
+- https://systemcrafters.net/build-a-second-brain-in-emacs/getting-started-with-org-roam/
+- Lots of good stuff here. 
+- Installed emacs 
+- I think for now its best to stick with obsidian
+- Main problem I see is a good viewer
 
 # [[Letter for Jessica 2025]]
 - [[Letter for Jonas]]
+- Decided I have too much going on at the moment
 
 Condor down... Cannot skim.
 
-Checking out org-roam
+Checking out org-roam... see above
 
 Home.
 
@@ -110,4 +116,6 @@ Picked up H ... traffic.. lot of rain.
 
 More playing around with org-roam
 
-[[Just Six Numbers]]
+Wrote up [[Just Six Numbers]]
+
+Some [[Hamlet]]

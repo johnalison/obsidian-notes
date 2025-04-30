@@ -13,7 +13,6 @@ I think the cutflow problem could be due to the four tag skimmer.
 
 Working [[Myth of the Rational Voter]]
 
-
 https://protesilaos.com/codelog/2024-02-17-emacs-modern-minibuffer-packages/
 
 

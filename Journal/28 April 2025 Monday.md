@@ -33,15 +33,15 @@
 
 - [x] Ping Jasques
 - [>>] Reinbursement
-- [ ] Iterate on HGC Slides:  20th Final talks 27th. Review June 3-5
+- [>>] Iterate on HGC Slides:  20th Final talks 27th. Review June 3-5
 - [>>] Cutflow Marina
 - [x]  Fill out form for Jeremey
 - [>>] Staff award for Jessica ( MCS staff award nominations that are due April 30)
-- [ ]  Make klX work interactively in iPlot
-- [ ]  Use ~/.ssh/config to simplify remote access.
+- [>>]  Make klX work interactively in iPlot
+- [>>]  Use ~/.ssh/config to simplify remote access.
 - [ ] Call Tax man
 - [x] [[Message for Jonas]]
-- [ ] emacs ORG mode? ROAM
+- [>>] emacs ORG mode? ROAM
 
 ---
 

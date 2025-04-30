@@ -28,5 +28,5 @@
 | 26 S | [[Myth of the Rational Voter]] / Vals Party / Make up Lectures / Boys Night Out     |       |
 | 27 S | Start [[The Road to Serfdom]] / **Gym** / Giant Eagle / Grill                       |       |
 | 28 M | Chat low Pt / Cutflow progress / **Hoops** / H to Drs / Home / Grilled              | 6/3/3 |
-| 29 T |                                                                                     |       |
+| 29 T | Close on cutflow / hung poster clean office / Ornella leaving /                     | 8/6/3 |
 | 30 W | (Wenjie Thesis Meeting) (MAC Meeting)                                               |       |

@@ -4,7 +4,7 @@
 # To Do
 
 - [x] Send Modules Summary 
-- [x]  Harry Summary 
+- [x] Harry Summary 
 - [x] Message to class / Make up Q&A sessions
 - [x]  Cyert Center Sliding Scale Benefit 
 - [x] UCSB Letter for Wes
