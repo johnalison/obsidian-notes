@@ -1,22 +1,22 @@
 
-|     | to campus       |     |
-| --- | --------------- | --- |
-| 9   | setup / Ornella |     |
-|     |                 |     |
-| 10  | Thesis Meeting  |     |
-|     | Thesis Meeting  |     |
-| 11  | MAC Meeting     |     |
-|     | MAC Meeting     |     |
-| 12  | Hoops           |     |
-|     | Hoops           |     |
-| 1   | Hoops           |     |
-|     | Hoops           |     |
-| 2   |                 |     |
-|     | Sindhu          |     |
-| 3   |                 |     |
-|     |                 |     |
-| 4   | bbWW            |     |
-|     |                 |     |
+|     | to campus                |     |
+| --- | ------------------------ | --- |
+| 9   | setup / Ornella          |     |
+|     | reviewing HGC candidates |     |
+| 10  | Thesis Meeting           |     |
+|     | Thesis Meeting           |     |
+| 11  | MAC Meeting              |     |
+|     | MAC Meeting              |     |
+| 12  | Hoops                    |     |
+|     | Hoops                    |     |
+| 1   | Hoops                    |     |
+|     | Hoops                    |     |
+| 2   |                          |     |
+|     | Sindhu                   |     |
+| 3   |                          |     |
+|     |                          |     |
+| 4   | bbWW                     |     |
+|     |                          |     |
 
 **W:**
 **DW:**
@@ -30,8 +30,8 @@
 ---
 # To Do
 
-- [ ] Move on Jacesque 
-- [ ] Move on Arvind
+- [x] Move on Jacesque 
+- [x] Move on Arvind
 - [ ] Post Ad
 - [ ] Download CVs
 - [ ] Iterate on HGC Slides:  20th Final talks 27th. Review June 3-5
@@ -52,3 +52,5 @@ Setup
 
 Mail to Ornella
 
+# Wenjie Huang Committe Meeting
+- 
