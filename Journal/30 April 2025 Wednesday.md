@@ -92,6 +92,13 @@ Working [[Letter for Jessica 2025]]
 Writting up the MAC meeting
 
 # [[CMU bbWW]]
-- Submitting Samples
+- Submitting Samples...not going welll
+- Should setup a friend tree maker instead
+- Sam found bug in Aniket's code... gain in low pT much better than originally thought.
+- Will prepare slides
+
+Chat AE re: JCM
+
+pickup kids
 
 
