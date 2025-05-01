@@ -73,7 +73,7 @@ Set up May
 - Testing
 	- `python runner.py -o data_Run3_2025_skims.coffea -d data -p analysis/processors/processor_HH4b.py -y 2022_preEE 2022_EE 2023_preBPix 2023_BPix -op output/synthetic_dataset_analyze_all -c analysis/metadata/HH4b_run_fastTopReco.yml -m metadata/datasets_HH4b_Run3_fourTag_2025_skims.yml`
 - Now on **cmslpc336**
-- 
+
 # Reviewed April
 - [ ] Xfinitiy 
 - [ ] Organize FBC2 Meetings
@@ -100,3 +100,12 @@ Set up May
 Introduced Jim to Curtis
 
 Testing skims... see above
+
+# Office Hours 
+- Chance
+
+# Emacs Config
+- [ ] Projectile and Magit https://systemcrafters.net/emacs-from-scratch/projectile-and-magit/
+- Org Mode basics
+- https://www.youtube.com/watch?v=VcgjTEa0kU4
+- https://github.com/daviwil/emacs-from-scratch/blob/1a13fcf0dd6afb41fce71bf93c5571931999fed8/init.el
