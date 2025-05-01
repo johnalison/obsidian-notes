@@ -7,7 +7,7 @@
 |     | Review April      |     |
 | 11  | Stats Chat        |     |
 |     | Stats Chat        |     |
-| 12  |                   |     |
+| 12  | Walk with H       |     |
 |     | Faculty Meeting   |     |
 | 1   | Faculty Meeting   |     |
 |     | chat tony ?       |     |
@@ -80,4 +80,10 @@ Set up May
 - [ ] Call Tax man
 
 ## [[Stats Data-Driven SR]]
-- Zoom
+- On Zoom
+- Soheun's claim is that the rejection rate depends on teh number of bins
+
+
+# Emacs Aider
+- https://github.com/tninja/aider.el
+
