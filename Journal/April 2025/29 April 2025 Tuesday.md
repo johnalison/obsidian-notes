@@ -77,6 +77,7 @@ Hung t-mans poster / cleaned up the office
 - [x] How long do we need her to stick around
 - [x] Ping Erics guys
 
+
 # Chat Seth / Jamie Re:avoiding overhead
 - Will declare it as "fabricated equipment"
 
@@ -100,11 +101,13 @@ Hung t-mans poster / cleaned up the office
 - Lots of good stuff here. 
 - Installed emacs 
 - I think for now its best to stick with obsidian
-- Main problem I see is a good viewer
+- Main problem I see is a good viewer... Now Solved with "getting started with emacs video"
 
 # [[Letter for Jessica 2025]]
 - [[Letter for Jonas]]
-- Decided I have too much going on at the moment
+- ~~Decided I have too much going on at the moment~~
+- "Your people are what really matter"
+
 
 Condor down... Cannot skim.
 

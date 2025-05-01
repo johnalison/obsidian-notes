@@ -35,7 +35,7 @@
 - [>>] HGC Slides
 - [x] Follow up Jasques 
 - [x] Look into Soeheuns MCPs 
-- [ ] MCP for gmail ? 
+- [XX] ~~MCP for gmail ? ~~
 - [>>] Make klX work interactively in iPlot
 - [x] Write up [[MAC Meeting 9 April 2025]]
 - [x] Nominate Sindhu for HGC award

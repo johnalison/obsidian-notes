@@ -12,7 +12,7 @@ Some [[Hamlet]]
 
 Wrote up [[Time and Chance]]
 
-To school to get Champagne for Wes
+To store to get Champagne for Wes
 
 Some [[Myth of the Rational Voter]]
 

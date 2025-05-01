@@ -66,6 +66,6 @@ H to work with me.
 
 Home early M to basketball. 
 
-# Finances: 1.8/1.7 
+# Finances: 1.8/1.7
 
 Working slides

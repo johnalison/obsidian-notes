@@ -18,9 +18,9 @@
 | 4   | bbWW                              |     |
 |     | bbWW                              |     |
 
-**W:**
-**DW:**
-**OT:**
+**W:** 7 
+**DW:** 1   
+**OT:** 2
 **ex** 
 
 ---
@@ -35,11 +35,11 @@
 - [x] Move on Arvind
 - [ ] Post Ad
 - [x] Download CVs
-- [ ] Iterate on HGC Slides:  20th Final talks 27th. Review June 3-5
+- [>>] Iterate on HGC Slides:  20th Final talks 27th. Review June 3-5
 - [ ] Make klX work interactively in iPlot
-- [ ]  Use ~/.ssh/config to simplify remote access.
+- [x]  Use ~/.ssh/config to simplify remote access.
 - [x] Reskim... 
-- [ ] Remake Synthetic datasets
+- [>>] Remake Synthetic datasets
 - [x] Ping ornella... Start another application
 - [x] Staff award for Jessica (MCS staff award nominations that are due April 30)
 - [x] Teachers Program
@@ -57,7 +57,7 @@ Setup
 
 Mail to Ornella
 
-# Wenjie Huang Committe Meeting
+# Wenjie Huang Committee Meeting
 - Track-less vertex reconstruction. 
 - Why trackless ?
 - What are the inputs? 
@@ -68,6 +68,7 @@ Mail to Ornella
 
 # Hoops
 - Good games... Good wins... played well. 
+- Rocked the Stockton Jersey
 
 Moving $10k from Vangaurd to Capital one...
 
@@ -91,7 +92,7 @@ Reply to re:teacher program
 
 Working [[Letter for Jessica 2025]]
 
-Writting up the MAC meeting
+Writing up the MAC meeting
 
 # [[CMU bbWW]]
 - Submitting Samples...not going welll
@@ -108,3 +109,4 @@ Finish submitting the skims.
 
 More videos on ORG-mode 
 - Think I am going to try it! 
+

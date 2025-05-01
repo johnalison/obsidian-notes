@@ -39,7 +39,7 @@
 - [>>] Staff award for Jessica ( MCS staff award nominations that are due April 30)
 - [>>]  Make klX work interactively in iPlot
 - [>>]  Use ~/.ssh/config to simplify remote access.
-- [ ] Call Tax man
+- [>>] Call Tax man
 - [x] [[Message for Jonas]]
 - [>>] emacs ORG mode? ROAM
 
@@ -88,7 +88,7 @@ Chat AE:
 # Hoops 
 - Good runs/good wins
 
-Leave to get H... Picked up H ... To Hospital 
+Leave to get H... Picked up H ... To Hospital for Dr appt.
 
 More Cutflow debugging see above
 

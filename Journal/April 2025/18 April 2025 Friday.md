@@ -53,6 +53,7 @@ M&T To school... No H today !!!
 # [[HGC Slides for April 2023 Review]]
 - See above
 
+
 Sending comments on [[Wesley Terrill Thesis]]
 
 
@@ -61,10 +62,13 @@ Sending comments on [[Wesley Terrill Thesis]]
 
 Applied to Osher in Fall 2025
 
+
 # [[CMU 4b Chats]]
 - see above
 
+
 more slide work ... see above
+
 
 - [x] Look into Karabiner 
 	(*GREAT!!!)

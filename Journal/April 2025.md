@@ -7,13 +7,13 @@
 | 5  S | Reading / Start Taxes / **Date Night!!** / Late Night taxes                         |       |
 | 6  S | reading / **Gym SR** / Lots more reading                                            |       |
 | 7  M | Taught / FNAL Housing /  **Hoops** / Chat Heather Gray / Colloq / Dinner            | 6/1/1 |
-| 8  T | FNAL Dorm/ Cutflow fighting / Dad re:taxes / Tarif chat                             | 8/3/3 |
+| 8  T | FNAL Dorm/ Cutflow fighting / Dad re:taxes / Tariff chat                            | 8/3/3 |
 | 9  W | Taught / Cutflow flighting / **Hoops** / Cursor working remote / Submit taxes       | 6/2/1 |
 | 10 H | Present Bootstrapping / Teach / MCP Servers ! / Hep Chat / Spring Showcase          | 8/1/0 |
 | 11 F | HR Moves ! / Exam 3 / Guito-Brody Accepts ! / HGC slides / STAMPS/ Social           | 8/4/4 |
 | 12 S | Reading / Art Show / Olive Garden / [[Sindhu Murthy Rec Letter April 2025]]         |       |
 | 13 S | Reading / **Gym/SR** / M&A over for pizza                                           |       |
-| 14 M | Taught / Wes' Defense!  / **Hoops** / Book Rental / Reading                         | 7/4/4 |
+| 14 M | Taught / **Wes' Defense!**  / **Hoops** / Book Rental Car / Reading                 | 7/4/4 |
 | 15 T | Steph sick / Working cutflow / Management Meeting / Working slides                  | 7/3/2 |
 | 16 W | H to work / Taught / **Hoops** / Grade Exams / HGC slides                           | 6/3/1 |
 | 17 H | H to work / Taught / Meetings ! / HEP Chat / More slides / **Finances 1.8/1.7**     | 8/1/1 |
@@ -29,4 +29,4 @@
 | 27 S | Start [[The Road to Serfdom]] / **Gym** / Giant Eagle / Grill                       |       |
 | 28 M | Chat low Pt / Cutflow progress / **Hoops** / H to Drs / Home / Grilled              | 6/3/3 |
 | 29 T | Close on cutflow / hung poster clean office / Ornella leaving                       | 8/6/3 |
-| 30 W | (Wenjie Thesis Meeting) (MAC Meeting)                                               |       |
+| 30 W | (Wenjie Thesis Meeting) (MAC Meeting) / **Hoops** / Run3 Skims / JP Letter          | 7/1/2 |

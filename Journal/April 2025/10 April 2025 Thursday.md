@@ -33,7 +33,7 @@
 - [>>] Prepare Something for Jonas
 - [>>]  Nominate Sindhu for HGC award
 - [>>] HGC Slides
-- [ ] ETC for Module Factories
+- [XX] ~~ETC for Module Factories~~
 - [ ] Xfinitiy 
 - [>>] FNAL Rental Car ?
 - [>>] Marina Cutflow
@@ -48,7 +48,7 @@ Up at 7
 
 M & T to school
 
-# FBC2
+# [[FBC2 Meeting]]
 - ZZ and ZH for run3 results look good
 - Discussion of paper strategy 
 - Showed bootstrap results
