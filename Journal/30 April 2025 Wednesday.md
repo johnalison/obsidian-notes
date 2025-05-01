@@ -13,10 +13,10 @@
 |     | Hoops                             |     |
 | 2   | sole source                       |     |
 |     | Teachers Program / Jessica Letter |     |
-| 3   |                                   |     |
-|     |                                   |     |
+| 3   | skims                             |     |
+|     | writting up MAC slides            |     |
 | 4   | bbWW                              |     |
-|     |                                   |     |
+|     | bbWW                              |     |
 
 **W:**
 **DW:**
@@ -104,3 +104,7 @@ Chat AE re: JCM
 pickup kids
 
 
+Finish submitting the skims. 
+
+More videos on ORG-mode 
+- Think I am going to try it! 

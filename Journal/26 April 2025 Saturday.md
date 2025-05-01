@@ -31,6 +31,7 @@ More writting up [[Myth of the Rational Voter]]
 
 # Gave Make up lectures 1 & 2
 
+
 Sentence lengths have decreased:
 	- https://www.lesswrong.com/posts/xYn3CKir4bTMzY5eb/why-have-sentence-lengths-decreased
 

@@ -2,7 +2,7 @@
 |           |           |     |
 | --------- | --------- | --- |
 | 9         | setup     |     |
-|           | Caht AE   |     |
+|           | Chat AE   |     |
 | 10        | Cutflow   |     |
 |           | Cutflow   |     |
 | 11        | Cutflow   |     |
