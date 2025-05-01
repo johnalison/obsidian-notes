@@ -38,7 +38,8 @@
 - [ ] Iterate on HGC Slides:  20th Final talks 27th. Review June 3-5
 - [ ] Make klX work interactively in iPlot
 - [ ]  Use ~/.ssh/config to simplify remote access.
-- [ ] Reskim... Remake Synthetic datasets
+- [x] Reskim... 
+- [ ] Remake Synthetic datasets
 - [x] Ping ornella... Start another application
 - [x] Staff award for Jessica (MCS staff award nominations that are due April 30)
 - [x] Teachers Program
@@ -86,7 +87,7 @@ Reply to re:teacher program
 	- No errors!
 - [x] 2023_preBPix
 	- Allowed more sites... then ran without errors
-- [ ] 2023_BPix
+- [x] 2023_BPix
 
 Working [[Letter for Jessica 2025]]
 

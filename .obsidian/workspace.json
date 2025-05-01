@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/30 April 2025 Wednesday.md",
+                "file": "3-resources/computing/Emacs tricks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "30 April 2025 Wednesday"
+              "title": "Emacs tricks"
             }
           }
         ],
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/30 April 2025 Wednesday.md",
+                "file": "3-resources/computing/Emacs tricks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 30 April 2025 Wednesday"
+              "title": "Backlinks for Emacs tricks"
             }
           },
           {
@@ -183,13 +183,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/30 April 2025 Wednesday.md",
+                "file": "3-resources/computing/Emacs tricks.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 30 April 2025 Wednesday"
+              "title": "Outline of Emacs tricks"
             }
           },
           {
@@ -222,8 +222,8 @@
   },
   "active": "3248586989ebfe54",
   "lastOpenFiles": [
-    "3-resources/computing/Emacs tricks.md",
     "Journal/30 April 2025 Wednesday.md",
+    "3-resources/computing/Emacs tricks.md",
     "Journal/19 April 2025 Saturday.md",
     "Journal/April 2025.md",
     "0-inbox/MAC Meeting 30 April 2025.md",
