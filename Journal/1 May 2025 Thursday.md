@@ -87,3 +87,10 @@ Set up May
 # Emacs Aider
 - https://github.com/tninja/aider.el
 
+
+# [[Faculty Meeting]]
+- Teaching Assignments: in coming
+- Dean asked rachel to stay on as department head, she wants to do it
+- No merit raises
+- Hooding is Friday May 9th
+- Sunday is the physics diploma ceremony
