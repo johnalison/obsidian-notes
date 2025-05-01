@@ -94,3 +94,4 @@ Set up May
 - No merit raises
 - Hooding is Friday May 9th
 - Sunday is the physics diploma ceremony
+- Physics stock room going away
