@@ -1,22 +1,22 @@
 
-|     | setup             |     |
-| --- | ----------------- | --- |
-| 9   | Jim Orientation   |     |
-|     | skims             |     |
-| 10  | Skims / Setup May |     |
-|     | Review April      |     |
-| 11  | Stats Chat        |     |
-|     | Stats Chat        |     |
-| 12  | Walk with H       |     |
-|     | Faculty Meeting   |     |
-| 1   | Faculty Meeting   |     |
-|     | chat tony ?       |     |
-| 2   |                   |     |
-|     | Office Hours      |     |
-| 3   | Office Hours      |     |
-|     |                   |     |
-| 4   |                   |     |
-|     | Marlo to BBall    |     |
+|     | setup                  |     |
+| --- | ---------------------- | --- |
+| 9   | Jim Orientation        |     |
+|     | skims                  |     |
+| 10  | Skims / Setup May      |     |
+|     | Review April           |     |
+| 11  | Stats Chat             |     |
+|     | Stats Chat             |     |
+| 12  | Walk with H            |     |
+|     | Faculty Meeting        |     |
+| 1   | Faculty Meeting        |     |
+|     | Chat Curtis / Reinhard |     |
+| 2   | email re:office hours  |     |
+|     | Office Hours           |     |
+| 3   | Office Hours           |     |
+|     |                        |     |
+| 4   |                        |     |
+|     | Marlo to BBall         |     |
 
 **W:**
 **DW:**
@@ -72,7 +72,8 @@ Set up May
 	- `python metadata/merge_yaml_datasets.py -m metadata/datasets_HH4b_Run3.yml -o metadata/datasets_HH4b_Run3_fourTag_2025_skims.yml -f skimmer/metadata/picoaod_datasets_fourTag_data_Run3_2025_skims.yml`
 - Testing
 	- `python runner.py -o data_Run3_2025_skims.coffea -d data -p analysis/processors/processor_HH4b.py -y 2022_preEE 2022_EE 2023_preBPix 2023_BPix -op output/synthetic_dataset_analyze_all -c analysis/metadata/HH4b_run_fastTopReco.yml -m metadata/datasets_HH4b_Run3_fourTag_2025_skims.yml`
-
+- Now on **cmslpc336**
+- 
 # Reviewed April
 - [ ] Xfinitiy 
 - [ ] Organize FBC2 Meetings
@@ -95,3 +96,7 @@ Set up May
 - Hooding is Friday May 9th
 - Sunday is the physics diploma ceremony
 - Physics stock room going away
+
+Introduced Jim to Curtis
+
+Testing skims... see above
