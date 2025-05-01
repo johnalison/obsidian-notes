@@ -35,7 +35,7 @@
 - [ ] Iterate on HGC Slides:  20th Final talks 27th. Review June 3-5
 - [ ] Setup ORG mode
 - [x] Skim 4b 
-	- [ ] Check cutflow
+	- [x] Check cutflow
 	- [ ] Remake Synthetic datasets
 - [ ] Write up [[MAC Meeting 30 April 2025]]
 - [ ] Check out Aider and Aider.el
@@ -109,3 +109,10 @@ Testing skims... see above
 - Org Mode basics
 - https://www.youtube.com/watch?v=VcgjTEa0kU4
 - https://github.com/daviwil/emacs-from-scratch/blob/1a13fcf0dd6afb41fce71bf93c5571931999fed8/init.el
+- orgmode.org
+- ORG Mode Tricks
+	- Control + enter makes a new bullet
+	- Alt + enter make a new bullet right where you are
+	- C-C C-X C-b
+
+Working ORG mode
