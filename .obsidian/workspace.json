@@ -105,8 +105,7 @@
               "title": "1 May 2025 Thursday"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -180,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/2 May 2025 Friday.md",
+                "file": "Journal/1 May 2025 Thursday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +189,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2 May 2025 Friday"
+              "title": "Backlinks for 1 May 2025 Thursday"
             }
           },
           {
@@ -226,13 +225,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/2 May 2025 Friday.md",
+                "file": "Journal/1 May 2025 Thursday.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2 May 2025 Friday"
+              "title": "Outline of 1 May 2025 Thursday"
             }
           },
           {
@@ -263,7 +262,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7599ffa8d4ccfd38",
+  "active": "3248586989ebfe54",
   "lastOpenFiles": [
     "Journal/May 2025.md",
     "Journal/2 May 2025 Friday.md",

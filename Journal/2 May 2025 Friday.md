@@ -55,5 +55,6 @@ M & T to school
 - [ ] How to show the title at the top of the page?
 - [ ] Projectile and Magit https://systemcrafters.net/emacs-from-scratch/projectile-and-magit/
 - [ ] yank in terferring with teh clipboard
+- [x] Alt-Arrow adds remove bulltes
 
-
+# HH4b Discussion
