@@ -58,3 +58,11 @@ M & T to school
 - [x] Alt-Arrow adds remove bulltes
 
 # HH4b Discussion
+- Useless
+
+# Chat with Elise re:exam
+
+
+# Chat MP
+- Doesnt have power
+
