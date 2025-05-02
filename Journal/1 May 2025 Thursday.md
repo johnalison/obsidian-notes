@@ -14,8 +14,8 @@
 | 2   | email re:office hours  |     |
 |     | Office Hours           |     |
 | 3   | Office Hours           |     |
-|     |                        |     |
-| 4   |                        |     |
+|     | Emacs !!!              |     |
+| 4   | Get Kids               |     |
 |     | Marlo to BBall         |     |
 
 **W:**
