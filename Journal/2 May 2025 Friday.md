@@ -66,3 +66,12 @@ M & T to school
 # Chat MP
 - Doesnt have power
 
+
+More emacs setup
+
+# Hoops 
+- Good wins played will
+
+# [[CMU 4b Chats]]
+- SM: NEEDS TO MAKE SLIDES!!!!
+- AE: understanding JCM code
