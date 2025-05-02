@@ -18,10 +18,10 @@
 | 4   | Get Kids               |     |
 |     | Marlo to BBall         |     |
 
-**W:**
-**DW:**
-**OT:**
-**ex** or **No ex**
+**W:** 8 
+**DW:** 1
+**OT:** 1
+**No ex**
 
 ---
 # The ONE thing: 
@@ -32,13 +32,13 @@
 
 - [x] Setup May 
 - [x] Review April 
-- [ ] Iterate on HGC Slides:  20th Final talks 27th. Review June 3-5
-- [ ] Setup ORG mode
+- [>>] Iterate on HGC Slides:  20th Final talks 27th. Review June 3-5
+- [>>] Setup ORG mode
 - [x] Skim 4b 
 	- [x] Check cutflow
-	- [ ] Remake Synthetic datasets
-- [ ] Write up [[MAC Meeting 30 April 2025]]
-- [ ] Check out Aider and Aider.el
+	- [>>] Remake Synthetic datasets
+- [>>] Write up [[MAC Meeting 30 April 2025]]
+- [>>] Check out Aider and Aider.el
 
 ---
 
@@ -75,10 +75,10 @@ Set up May
 - Now on **cmslpc336**
 
 # Reviewed April
-- [ ] Xfinitiy 
-- [ ] Organize FBC2 Meetings
-- [ ] [[ProgressReport 25 April 2025]]
-- [ ] Call Tax man
+- [>>] Xfinitiy 
+- [>>] Organize FBC2 Meetings
+- [>>]  [[ProgressReport 25 April 2025]]
+- [>>] Call Tax man
 
 ## [[Stats Data-Driven SR]]
 - On Zoom

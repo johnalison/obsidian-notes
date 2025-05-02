@@ -33,10 +33,10 @@
 
 - [x] Move on Jacesque 
 - [x] Move on Arvind
-- [ ] Post Ad
+- [>>] Post Ad
 - [x] Download CVs
 - [>>] Iterate on HGC Slides:  20th Final talks 27th. Review June 3-5
-- [ ] Make klX work interactively in iPlot
+- [>>] Make klX work interactively in iPlot
 - [x]  Use ~/.ssh/config to simplify remote access.
 - [x] Reskim... 
 - [>>] Remake Synthetic datasets
@@ -64,7 +64,7 @@ Mail to Ornella
 - Signal reconstruction... Signal vs Background 
 
 # [[MAC Meeting 30 April 2025]]
-- [ ] Write up slides
+- [>>] Write up slides
 
 # Hoops
 - Good games... Good wins... played well. 
@@ -103,7 +103,6 @@ Writing up the MAC meeting
 Chat AE re: JCM
 
 pickup kids
-
 
 Finish submitting the skims. 
 
