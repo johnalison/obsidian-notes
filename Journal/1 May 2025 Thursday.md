@@ -46,7 +46,7 @@
 
 Up at 7 
 
-M&T to school ... H to work.. still no power
+M&T to f ... H to work.. still no power
 
 setup
 
@@ -116,3 +116,11 @@ Testing skims... see above
 	- C-C C-X C-b
 
 Working ORG mode
+
+Home with M & T 
+
+To Basketball
+
+Tried to go to Noodle Head... Mad Mex instead
+
+Home more Org-Mode config
