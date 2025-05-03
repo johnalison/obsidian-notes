@@ -10,4 +10,4 @@
 - up to 36'
 - org refile C-v C-w
 ## Capture templates
-- 
+- b
