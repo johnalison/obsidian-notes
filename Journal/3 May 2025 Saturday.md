@@ -16,3 +16,4 @@ https://systemcrafters.net/emacs-from-scratch/organize-your-life-with-org-mode/
 # ORG-ROAM
 - Create link with C-c n i
 - Backlinks buffer!  `C-c n l`
+- Can use .org files for your template source!
