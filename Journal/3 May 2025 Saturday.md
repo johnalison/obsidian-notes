@@ -12,3 +12,6 @@ https://systemcrafters.net/emacs-from-scratch/organize-your-life-with-org-mode/
 - org refile C-v C-w
 ## Capture templates
 - Ideas for metric buffers ?
+
+# ORG-ROAM
+- Create link with C-c n i
