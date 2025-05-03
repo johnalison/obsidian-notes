@@ -75,3 +75,13 @@ More emacs setup
 # [[CMU 4b Chats]]
 - SM: NEEDS TO MAKE SLIDES!!!!
 - AE: understanding JCM code
+
+More emacs setup
+
+
+# HEP Party
+
+
+Home 
+
+More emacs setup...
