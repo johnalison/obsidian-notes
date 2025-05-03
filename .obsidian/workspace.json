@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/1 May 2025 Thursday.md",
+                "file": "Journal/3 May 2025 Saturday.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1 May 2025 Thursday"
+              "title": "3 May 2025 Saturday"
             }
           },
           {
@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/2 May 2025 Friday.md",
+                "file": "0-inbox/Evolution of Silicon Sensor Technology in Particle Physics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2 May 2025 Friday"
+              "title": "Evolution of Silicon Sensor Technology in Particle Physics"
             }
           },
           {
@@ -105,8 +105,7 @@
               "title": "1 May 2025 Thursday"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -125,7 +124,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "HIG-24-017",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -159,8 +158,7 @@
               "title": "Files"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -180,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/2 May 2025 Friday.md",
+                "file": "Journal/3 May 2025 Saturday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +188,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2 May 2025 Friday"
+              "title": "Backlinks for 3 May 2025 Saturday"
             }
           },
           {
@@ -226,13 +224,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/2 May 2025 Friday.md",
+                "file": "Journal/3 May 2025 Saturday.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2 May 2025 Friday"
+              "title": "Outline of 3 May 2025 Saturday"
             }
           },
           {
@@ -263,11 +261,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7599ffa8d4ccfd38",
+  "active": "3248586989ebfe54",
   "lastOpenFiles": [
+    "Journal/2 May 2025 Friday.md",
+    "Journal/3 May 2025 Saturday.md",
     "Journal/1 May 2025 Thursday.md",
     "Journal/May 2025.md",
-    "Journal/2 May 2025 Friday.md",
+    "0-inbox/Evolution of Silicon Sensor Technology in Particle Physics.md",
     "Journal/April 2025/30 April 2025 Wednesday.md",
     "Journal/April 2025/29 April 2025 Tuesday.md",
     "Journal/April 2025/28 April 2025 Monday.md",
@@ -289,8 +289,6 @@
     "Journal/April 2025/15 April 2025 Tuesday.md",
     "Journal/April 2025/14 April 2025 Monday.md",
     "Journal/April 2025/13 April 2025 Sunday.md",
-    "Journal/April 2025/12 April 2025 Saturday.md",
-    "Journal/April 2025/11 April 2025 Friday.md",
     "Input/Meetings/April",
     "Journal/April 2025",
     "Journal/2025",
