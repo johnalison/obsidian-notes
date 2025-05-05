@@ -348,7 +348,7 @@
   Our knowledge of whether a proposition is true or false ***_always_*** depends on knowledge about how physical objects behave; the mathematical proposition is independent of physics, but the proof of the proposition is a matter of physics only.
   There is no such thing as abstractly proving something (just as there is no such thing as abstractly knowing something)
 
-  All mathematical truth is absolutely necessary and transcendent, but all knowledge is generate by physical properties, and its scope and limitations are conditioned by the laws of nature.
+  All mathematical truth is absolutely necessary and transcendent, but all knowledge is generate by physical properties and its scope and limitations are conditioned by the laws of nature.
 
   [[ConnectionOfMathAndPhysics]] 
 

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-projects/HH4b/CMU 4b Chats.md",
+                "file": "Input/Books/LifeOfGreece.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CMU 4b Chats"
+              "title": "LifeOfGreece"
             }
           },
           {
@@ -124,7 +124,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Fasting",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-projects/HH4b/CMU 4b Chats.md",
+                "file": "Input/Books/LifeOfGreece.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +188,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for CMU 4b Chats"
+              "title": "Backlinks for LifeOfGreece"
             }
           },
           {
@@ -224,13 +224,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-projects/HH4b/CMU 4b Chats.md",
+                "file": "Input/Books/LifeOfGreece.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of CMU 4b Chats"
+              "title": "Outline of LifeOfGreece"
             }
           },
           {
@@ -261,34 +261,34 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3248586989ebfe54",
+  "active": "5eff6f8803fcba5e",
   "lastOpenFiles": [
-    "Journal/2 May 2025 Friday.md",
-    "Journal/3 May 2025 Saturday.md",
-    "Journal/April 2025/16 April 2025 Wednesday.md",
-    "1-projects/HH4b/Run-3 4b skims.md",
-    "Journal/1 May 2025 Thursday.md",
-    "Journal/May 2025.md",
-    "0-inbox/Evolution of Silicon Sensor Technology in Particle Physics.md",
-    "Journal/April 2025/30 April 2025 Wednesday.md",
-    "Journal/April 2025/29 April 2025 Tuesday.md",
-    "Journal/April 2025/28 April 2025 Monday.md",
-    "Journal/April 2025/27 April 2025 Sunday.md",
-    "Journal/April 2025/26 April 2025 Saturday.md",
-    "Journal/April 2025/25 April 2025 Friday.md",
-    "Journal/April 2025/24 April 2025 Thursday.md",
-    "0-inbox/ProgressReport 25 April 2025.md",
-    "Output/Effect of random binning on significance.md",
-    "Journal/April 2025/18 April 2025 Friday.md",
-    "Journal/April 2025/23 April 2025 Wednesday.md",
-    "Journal/April 2025/22 April 2025 Tuesday.md",
-    "Journal/April 2025/21 April 2025 Monday.md",
-    "Journal/April 2025/20 April 2025 Sunday.md",
-    "Journal/April 2025/19 April 2025 Saturday.md",
-    "Journal/April 2025/17 April 2025 Thursday.md",
-    "Journal/April 2025/15 April 2025 Tuesday.md",
-    "Journal/April 2025/14 April 2025 Monday.md",
-    "Journal/April 2025/13 April 2025 Sunday.md",
+    "Input/Books/MeaningOfItAll.md",
+    "00-Zettelkasten/Key-Virtues-Honesty-and-Integrity.md",
+    "Input/Books/CharacterOfPhysicalLaw.md",
+    "1-projects/Mixed2.0/Cluster Run 3 data.md",
+    "Input/Reliability.md",
+    "Input/Books/AwakenTheGiantWithin.md",
+    "Input/Books/BeginningOfInfinity.md",
+    "00-Zettelkasten/Become a talent scout in all aspects of your life..md",
+    "Input/Books/BitcoinStandard.md",
+    "Input/Books/AscentOfMoney.md",
+    "1-projects/Mixed2.0/Jet DeClustering.md",
+    "Journal/2024/October/1 October 2024 Tuesday.md",
+    "Input/Books/LosingOurselves.md",
+    "Input/Papers/ManyMindsInterpretationsOfQM.md",
+    "Input/Books/AIModernApproach.md",
+    "Input/Books/CaesarAndChrist.md",
+    "Input/Books/21LessonsForThe21stCentury.md",
+    "2-areas/Philosophy/Paradoxes.md",
+    "2-areas/Mentoring/Alejandro Espinosa.md",
+    "Input/Books/ASupposedlyFunThing.md",
+    "2-areas/Philosophy/History.md",
+    "Input/Books/HowToWinFriendsAndInfluencePeople.md",
+    "Input/Leadership.md",
+    "Input/Books/StoicTestChallenge.md",
+    "00-Zettelkasten/PossibleReframesOfSetbacks.md",
+    "2-areas/Philosophy/Advice.md",
     "Input/Meetings/April",
     "Journal/April 2025",
     "Journal/2025",
